@@ -1,11 +1,11 @@
-23/04/13 23.13
+23/04/13 23.35
 Statistiche del progetto
 
                  	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	
 Totali:          	    6049	 52541	                 278175	               323924	
-Restanti:        	    2829	 33919	                 178998	               209528	
+Restanti:        	    2828	 33893	                 178823	               209328	
 Univoci:         	    5486	 50867	                 267665	               312410	
-Univoci restanti:	    2663	 33251	                 174763	               204878	
+Univoci restanti:	    2662	 33225	                 174588	               204678	
 
 
 Statistiche file singoli:
@@ -46,5 +46,5 @@ OmegaT_2.6.3_L10N_Full\doc_src\en\TranslationMemories.xml            	          
 OmegaT_2.6.3_L10N_Full\doc_src\en\UserInterface.xml                  	            305	              209	             284	                      203	         3486	           3047	           3425	                    3024	                         17770	                           15289	                          17401	                                   15164	                       20979	                         18152	                        20569	                                 18009	
 OmegaT_2.6.3_L10N_Full\readme.utf8                                   	            338	                3	             300	                        0	         1992	              4	           1922	                       0	                         11331	                              26	                          10354	                                       0	                       12999	                            26	                        11998	                                     0	
 OmegaT_2.6.3_L10N_Full\release\win32-specific\CustomMessages.ini     	              5	                0	               5	                        0	           45	              0	             45	                       0	                           231	                               0	                            231	                                       0	                         271	                             0	                          271	                                     0	
-OmegaT_2.6.3_L10N_Full\src\org\omegat\Bundle.properties              	            883	                7	             801	                        7	         4281	            183	           4042	                     183	                         24158	                            1098	                          22734	                                    1098	                       27464	                          1273	                        25882	                                  1273	
+OmegaT_2.6.3_L10N_Full\src\org\omegat\Bundle.properties              	            883	                6	             801	                        6	         4281	            157	           4042	                     157	                         24158	                             923	                          22734	                                     923	                       27464	                          1073	                        25882	                                  1073	
 OmegaT for Beginners.odt                                             	            695	              306	             520	                      239	         7838	           3606	           7442	                    3460	                         41301	                           20606	                          38722	                                   19214	                       48158	                         23677	                        45437	                                 22267	
