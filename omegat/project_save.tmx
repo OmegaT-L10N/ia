@@ -11403,6 +11403,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130423T212409Z">
+        <seg>OmegaT es un instrumento gratuite de traduction assistite ab computator, multe-platteforma con concordantia partial, recerca con parola clave, glossarios, Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130409T081450Z">
@@ -17458,8 +17466,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095339Z">
-        <seg>Usuario:</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130423T212427Z">
+        <seg>Usator:</seg>
       </tuv>
     </tu>
     <tu>
