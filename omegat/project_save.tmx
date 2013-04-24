@@ -3525,6 +3525,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T163836Z">
+        <seg>UN comprehensive suite de utilitates pro preparar le files al traduction in un instrumento CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A glossary function allows the user to enter source words and their translations into a file which can be accessed while translating.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T143159Z">
