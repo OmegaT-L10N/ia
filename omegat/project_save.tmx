@@ -1517,6 +1517,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.1.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130221T152810Z">
+        <seg>3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.2</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105618Z">
@@ -1525,10 +1533,42 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.2.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130221T152817Z">
+        <seg>3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.3</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105622Z">
         <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130221T153344Z">
+        <seg>3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130221T153349Z">
+        <seg>3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130221T153357Z">
+        <seg>3.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1545,6 +1585,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T194429Z">
         <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130220T164535Z">
+        <seg>4.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130220T164823Z">
+        <seg>4.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11667,6 +11723,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101623Z">
         <seg>OmegaT, comocunque, presentera iste phrase in le sequente faction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, the free memory translation tool</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T140035Z">
+        <seg>OmegaT, le instrumento gratuite pro memoria de traduction</seg>
       </tuv>
     </tu>
     <tu>
