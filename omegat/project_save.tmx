@@ -11523,6 +11523,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T143132Z">
+        <seg>OmegaT es un software open-source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -15152,6 +15160,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T142911Z">
+        <seg>Cello significa que le usatores como tu es libere de lo discargar e usar con restrictiones multo parve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -18396,6 +18412,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234418Z">
         <seg>Yoruba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T143054Z">
+        <seg>Tu es alsi libere de lo copiar e de lo distribuer a altere gente</seg>
       </tuv>
     </tu>
     <tu>
