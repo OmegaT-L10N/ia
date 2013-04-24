@@ -5925,6 +5925,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation is very important.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T143728Z">
+        <seg>Le documentation es multo importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki Files</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095201Z">
@@ -10079,6 +10087,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095534Z">
         <seg>Le traduction local non synchronisate con le thesauro remote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T143658Z">
+        <seg>Localisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -17692,6 +17708,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115044Z">
         <seg>VLDocking Framework 2.1.4 ex VLSolutions (Licentia CeCILL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valid XHTML</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T143631Z">
+        <seg>XHTML valide</seg>
       </tuv>
     </tu>
     <tu>
