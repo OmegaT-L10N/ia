@@ -13408,6 +13408,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T142033Z">
+        <seg>Revistas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right to left languages</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101125Z">
@@ -15278,6 +15286,14 @@ vice essera usate le classificator actual.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130325T210025Z">
         <seg>Le plugin LanguageTool pro OmegaT pote esser discargate ab le sito del plugins de &lt;u0&gt;OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and You</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T142205Z">
+        <seg>Le projecto OmegaT e tu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18076,6 +18092,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101621Z">
         <seg>Quandocunque tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pressa &lt;k1&gt;Ctrl+D&lt;/k1&gt; pro generar le documentos rendite, que essera create in le subclassificator  /target/ del classificator de tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who we are</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T142121Z">
+        <seg>Qui es nos</seg>
       </tuv>
     </tu>
     <tu>
