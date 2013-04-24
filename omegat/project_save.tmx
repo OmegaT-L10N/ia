@@ -11935,6 +11935,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT, the free translation memory tool</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T173237Z">
+        <seg>OmegaT, le instrumento gratuite pro memoria de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT-Scripting allows to run scripts written in different scripting languages in OmegaT.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130421T091326Z">
@@ -13932,6 +13940,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233349Z">
         <seg>Scoto gaelico, gaelico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Screenshots</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T173409Z">
+        <seg>Schermos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17780,6 +17796,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T142943Z">
         <seg>Legitimationes del usator renegate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T173425Z">
+        <seg>Gruppo del usatores</seg>
       </tuv>
     </tu>
     <tu>
@@ -22625,14 +22649,6 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234132Z">
         <seg>tr</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T140408Z">
-        <seg>memoria de traduction, TM, traduction adjutate ab computator, traduction assistite ab computator, CAT, GPL, origine patente</seg>
       </tuv>
     </tu>
     <tu>
