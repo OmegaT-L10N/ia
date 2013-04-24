@@ -10789,8 +10789,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T165527Z">
-        <seg>Le major parte de istes scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T165730Z">
+        <seg>Le major parte de istes scripts necessita MS Windows, ben que alicun proceduras pote alsi functionar sur altere platteformas.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13948,6 +13948,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095459Z">
         <seg>Classificator del scripturas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T165850Z">
+        <seg>Il ha scripts e proceduras pro te habilitar a facer le sequente:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
