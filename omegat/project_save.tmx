@@ -1048,6 +1048,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Extract all source text from the project files into a single, large text file&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T170229Z">
+        <seg>- extraher omne le texto origine ex le files del projecto in un singule, grande file de texto&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Flash XML export (*.xml)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T113843Z">
@@ -1156,6 +1164,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094621Z">
         <seg>- Files ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Skip segments containing a certain set of characters&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T170044Z">
+        <seg>- saltar segmentos continente un certe suite de  characteres&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
