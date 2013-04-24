@@ -9073,6 +9073,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introducing OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T140609Z">
+        <seg>Introduction a OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130325T205451Z">
@@ -11311,14 +11319,6 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130331T202801Z">
         <seg>OmT ha le adhesion moderate, id es tu adhesion in prime loco debe esser approbate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101037Z">
-        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
@@ -15492,6 +15492,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T155633Z">
         <seg>Le terminos sequente, a usar in le texto in basso, merita un breve explication:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The free (GPL) translation memory tool</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T140502Z">
+        <seg>OmegaT, le instrumento (GPL) gratuite pro memoria de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -22297,6 +22305,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234132Z">
         <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T140408Z">
+        <seg>memoria de traduction, TM, traduction adjutate ab computator, traduction assistite ab computator, CAT, GPL, origine patente</seg>
       </tuv>
     </tu>
     <tu>
