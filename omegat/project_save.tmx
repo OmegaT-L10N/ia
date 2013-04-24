@@ -3533,6 +3533,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T164242Z">
+        <seg>Es disponibile un detaliate instruction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A glossary function allows the user to enter source words and their translations into a file which can be accessed while translating.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T143159Z">
@@ -6313,6 +6321,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095139Z">
         <seg>Habilitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T164131Z">
+        <seg>Habilita plure formatos de file que non pote esser tractate nativemente in OmegaT, a esser rendite.</seg>
       </tuv>
     </tu>
     <tu>
