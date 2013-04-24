@@ -1016,6 +1016,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T172634Z">
+        <seg>- Controlo orthographic (varie proceduras)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Create a TMX file containing all strings, with identical source and target&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T170712Z">
@@ -1058,8 +1066,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- Extract all source text from the project files into a single, large text file&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T170229Z">
-        <seg>- extraher omne le texto origine ex le files del projecto in un singule, grande file de texto&lt;br3/&gt;</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T172641Z">
+        <seg>- Extraher omne le texto origine ex le files del projecto in un singule, grande file de texto&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,6 +1176,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Remove all text except tags, or all tags except text&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T172558Z">
+        <seg>- Remover omne le texto excepte le tags, o omne le tags excepte le texto&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- ResX files (*.resx)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094621Z">
@@ -1178,8 +1194,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- Skip segments containing a certain set of characters&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T170044Z">
-        <seg>- saltar segmentos continente un certe suite de  characteres&lt;br2/&gt;</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T172656Z">
+        <seg>- Saltar segmentos continente un certe suite de  characteres&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
