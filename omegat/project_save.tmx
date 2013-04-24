@@ -11935,6 +11935,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T163308Z">
+        <seg>Depositos in interrete del dictionarios orthographic pro le uso in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only by looking at the source text can you ascertain the actual function of the tags in a particular case.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T103100Z">
@@ -14656,6 +14664,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T163018Z">
+        <seg>Dictionarios orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spotlight search field.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094702Z">
@@ -16224,6 +16240,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T141654Z">
         <seg>Software de tertie parte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T163003Z">
+        <seg>Software de tertie parte pro le uso con OmegaT</seg>
       </tuv>
     </tu>
     <tu>
