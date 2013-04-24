@@ -1000,6 +1000,22 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add numbers to all segments, making them all "unique"&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T173106Z">
+        <seg>- Adder numeros a omne le segmentos e assi le render omne "unic"&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Add terms to a glossary whilst translating in OmegaT&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T173130Z">
+        <seg>- Adder terminos a un glossario durante le traduction in OmegaT&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Android resource (*.xml)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094621Z">
@@ -17876,14 +17892,6 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115044Z">
         <seg>VLDocking Framework 2.1.4 ex VLSolutions (Licentia CeCILL)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Valid XHTML</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T143631Z">
-        <seg>XHTML valide</seg>
       </tuv>
     </tu>
     <tu>
