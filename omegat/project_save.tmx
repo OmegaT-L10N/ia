@@ -1016,6 +1016,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Create a TMX file containing all strings, with identical source and target&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T170712Z">
+        <seg>- Create a TMX file continente omne le textos, con identic origine e destination&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094618Z">
