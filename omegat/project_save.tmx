@@ -4033,6 +4033,22 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T165254Z">
+        <seg>Un instrumento de alineamento intelligente a linea de commando pro le production de files memoria de traduction ex precedente textos e lor traductiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An online dictionary management tool that integrates with Omegat.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T165052Z">
+        <seg>Un instrumento de gestion de dictionarios in interrete que se integra con Omegat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094947Z">
@@ -7647,8 +7663,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T164831Z">
-        <seg>Instrumento de alineamento con interfacie graphic del usator (Graphic User Interface - GUI) pro production de files memoria de traduction ex precedente textos e lor traductiones.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130424T165306Z">
+        <seg>Instrumento de alineamento con interfacie graphic del usator (Graphic User Interface - GUI) pro le production de files memoria de traduction ex precedente textos e lor traductiones.</seg>
       </tuv>
     </tu>
     <tu>
