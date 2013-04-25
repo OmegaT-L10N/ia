@@ -4089,6 +4089,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130425T090426Z">
+        <seg>un  aspecto importante re iste libertate es que usatores pote anque modificar le codice del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T165254Z">
