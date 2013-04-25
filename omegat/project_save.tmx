@@ -16668,6 +16668,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130425T085835Z">
+        <seg>Ce significa que le codice fonte del programma OmegaT es gratuitemente disponibile, e que le licentia de OmegaT da a su  usatores un considerabile libertate in lo usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101333Z">
