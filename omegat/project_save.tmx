@@ -954,8 +954,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>* Linux users:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094644Z">
-        <seg>* Usuarios de Linux:</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220754Z">
+        <seg>* Usatores de Linux:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,8 +4211,8 @@ Le file TMX non essera cargate.</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to fix all tags automatically?</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T220430Z">
-        <seg>es tu secur que tu vole reparar all tags automatically?</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220612Z">
+        <seg>es tu secur que tu vole reparar omne le tags automaticamente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11723,6 +11723,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 3.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220740Z">
+        <seg>File lege me de OmegaT 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095041Z">
@@ -12753,8 +12761,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Place the archive in any suitable folder and unpack it; OmegaT is then</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094645Z">
-        <seg>pone le archivo in qualcunque commode classificator e lo discassa; OmegaT es alora</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220816Z">
+        <seg>Pone le archivo in qualcunque commode classificator e lo discassa; OmegaT es alora</seg>
       </tuv>
     </tu>
     <tu>
@@ -19156,8 +19164,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You can however obtain a neater and more user-friendly</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094645Z">
-        <seg>Comocunque Tu pote obtener un installation a plus nette e plus</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220833Z">
+        <seg>Comocunque Tu pote obtener un installation plus nette e plus</seg>
       </tuv>
     </tu>
     <tu>
