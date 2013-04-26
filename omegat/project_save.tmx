@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T214239Z">
-        <seg>Ultime &amp;Last Changes...</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214352Z">
+        <seg>Ultime (&amp;Last) cambios...</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +808,8 @@
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094918Z">
-        <seg>Manual del &amp;Usuario</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214309Z">
+        <seg>Manual del &amp;Usator</seg>
       </tuv>
     </tu>
     <tu>
@@ -9575,6 +9575,14 @@ inside the configuration folder.</seg>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095404Z">
         <seg>Non esseva possibile crear le classificator del scriptura
 interne al classificator de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214542Z">
+        <seg>Il non esseva possibile crear le documentos rendite, post que alicun tags es mancante o damnificate.</seg>
       </tuv>
     </tu>
     <tu>
