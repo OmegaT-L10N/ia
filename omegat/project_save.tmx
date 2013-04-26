@@ -10067,6 +10067,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T215110Z">
+        <seg>Ultime cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094930Z">
@@ -11875,6 +11883,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T142435Z">
         <seg>OmegaT non es justo un producto; illo es un excitative projecto, e tu pote esser parte de illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T215040Z">
+        <seg>Licentia OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -16964,6 +16980,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TinySegmenter (public domain)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T215003Z">
+        <seg>TinySegmenter (dominio public)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Title Case</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100552Z">
@@ -21905,6 +21929,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141335Z">
         <seg>ori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>orion-ssh2-214 (Orion SSH for Java license)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214945Z">
+        <seg>orion-ssh2-214 (Licentia Orion SSH pro Java)</seg>
       </tuv>
     </tu>
     <tu>
