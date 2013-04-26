@@ -4209,6 +4209,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to fix all tags automatically?</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220430Z">
+        <seg>es tu secur que tu vole reparar all tags automatically?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095321Z">
@@ -7473,6 +7481,22 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095310Z">
         <seg>Finnese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220329Z">
+        <seg>Fixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix all</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220345Z">
+        <seg>Fixa toto</seg>
       </tuv>
     </tu>
     <tu>
@@ -12547,6 +12571,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T220415Z">
         <seg>Alias, tu pote hasardar de corrumper tu documento final e impedir que on pote lo aperir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220239Z">
+        <seg>Corrupte</seg>
       </tuv>
     </tu>
     <tu>
@@ -18700,6 +18732,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101621Z">
         <seg>Quandocunque tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pressa &lt;k1&gt;Ctrl+D&lt;/k1&gt; pro generar le documentos rendite, que essera create in le subclassificator  /target/ del classificator de tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220315Z">
+        <seg>Spatio blanc</seg>
       </tuv>
     </tu>
     <tu>
