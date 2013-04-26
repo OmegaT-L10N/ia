@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214239Z">
+        <seg>Ultime &amp;Last Changes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095326Z">
@@ -9129,6 +9137,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T213943Z">
+        <seg>Insere le &amp;Tags primari mancante </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T213829Z">
@@ -14432,6 +14448,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214128Z">
+        <seg>Selige le concordantia sequente (&amp;Next)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214218Z">
+        <seg>Selige le concordantia previe (&amp;Previous)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095058Z">
@@ -14460,6 +14492,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130421T155551Z">
         <seg>Selige le concordantia partial 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T214033Z">
+        <seg>Selige le concordantia (Mat&amp;ch)</seg>
       </tuv>
     </tu>
     <tu>
