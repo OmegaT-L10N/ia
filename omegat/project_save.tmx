@@ -5237,6 +5237,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T213502Z">
+        <seg>Copia (&amp;y) le Files in le plica Source...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102013Z">
@@ -5249,6 +5257,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095441Z">
         <seg>Copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T213526Z">
+        <seg>Copia le Files in le plica Source...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6097,6 +6113,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094752Z">
         <seg>Discarga un  projec&amp;To de equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T213555Z">
+        <seg>Discarga pagina Media&amp;Wiki...</seg>
       </tuv>
     </tu>
     <tu>
