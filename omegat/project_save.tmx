@@ -4445,6 +4445,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220129Z">
+        <seg>Mal annidate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095253Z">
@@ -7129,6 +7137,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095509Z">
         <seg>Commentos extracte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220139Z">
+        <seg>Extranee</seg>
       </tuv>
     </tu>
     <tu>
@@ -10927,6 +10943,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T213322Z">
         <seg>Miscellanea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T220120Z">
+        <seg>Mancante</seg>
       </tuv>
     </tu>
     <tu>
