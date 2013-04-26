@@ -13608,6 +13608,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T215404Z">
+        <seg>Leva le tags initial e caudal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095237Z">
