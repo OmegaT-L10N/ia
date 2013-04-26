@@ -6229,6 +6229,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T215853Z">
+        <seg>Duplicato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094630Z">
@@ -13610,8 +13618,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing tags</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T215404Z">
-        <seg>Leva le tags initial e caudal</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T215720Z">
+        <seg>Leva le tags initial e final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130426T215841Z">
+        <seg>Leva le spatios blanc initial e final in le projectos non segmentate</seg>
       </tuv>
     </tu>
     <tu>
