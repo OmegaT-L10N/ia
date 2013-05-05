@@ -1981,6 +1981,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082815Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082822Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T120314Z">
@@ -3591,8 +3607,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T163836Z">
-        <seg>UN comprehensive suite de utilitates pro preparar le files al traduction in un instrumento CAT.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082855Z">
+        <seg>Un comprehensive suite de utilitates pro preparar le files al traduction in un instrumento CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6077,6 +6093,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T083010Z">
+        <seg>Documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation authoring</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T144401Z">
@@ -8033,6 +8057,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101256Z">
         <seg>Quadro del glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossum</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082926Z">
+        <seg>Glossum</seg>
       </tuv>
     </tu>
     <tu>
@@ -10003,6 +10035,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082941Z">
+        <seg>LF Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX Files</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095142Z">
@@ -11671,6 +11711,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141204Z">
         <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082827Z">
+        <seg>Okapi Framework</seg>
       </tuv>
     </tu>
     <tu>
@@ -15048,6 +15096,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SourceForge.net Logo</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082947Z">
+        <seg>SourceForge.net Logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>South Ndebele</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141158Z">
@@ -16742,8 +16798,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Third-party software for use with OmegaT</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T163003Z">
-        <seg>Software de tertie parte pro le uso con OmegaT</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082812Z">
+        <seg>Le software de tertie parte pro le uso con OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -18304,6 +18360,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Valid XHTML</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082952Z">
+        <seg>Valid XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate Tags</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T120952Z">
@@ -19753,6 +19817,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T133717Z">
         <seg>bis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T082911Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
@@ -23049,6 +23121,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234132Z">
         <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130505T083005Z">
+        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
       </tuv>
     </tu>
     <tu>
