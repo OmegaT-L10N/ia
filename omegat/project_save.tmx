@@ -16140,6 +16140,14 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T175709Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The JRE is already installed on Mac OS X before Mac OS X 10.7</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094640Z">
@@ -16598,8 +16606,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The main window consists of several panes, the main menu and a status bar.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130220T134048Z">
-        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T175614Z">
+        <seg>Le principal fenestra  consiste in plure quadros, le  menu principal e  un  barra de stato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23521,8 +23529,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>the user license.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094612Z">
-        <seg>le licentia del usuario.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T175826Z">
+        <seg>le licentia del usator.</seg>
       </tuv>
     </tu>
     <tu>
