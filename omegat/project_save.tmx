@@ -18554,6 +18554,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T175447Z">
+        <seg>Utilisate pro cambiar como &lt;a0&gt;OmegaT&lt;/a0&gt; comporta se quando tu itera inter le segmentos (acceder via &lt;m1&gt; &lt;g2&gt;Optiones&lt;/g2&gt; &lt;g3&gt;Comportamento de modifica...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T175043Z">
