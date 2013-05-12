@@ -16232,6 +16232,22 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T085628Z">
+        <seg>Le documentation distribuite con &lt;a0&gt;OmegaT&lt;/a0&gt; 2.6.3 include le Manual del usator e le documento readme.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is Copyright ©2013 Vito Smolej.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T085647Z">
+        <seg>Le documentation es Copyright ©2013 Vito Smolej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; contains all the segments that have been translated since you started the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130408T142550Z">
