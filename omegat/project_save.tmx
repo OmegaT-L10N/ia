@@ -8455,6 +8455,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help browser</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T173300Z">
+        <seg>Lector del Adjuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help files</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T215242Z">
@@ -18534,6 +18542,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100733Z">
         <seg>Usa le utilitate untar (o su equivalente, per exemplo&lt;f0&gt; winrar&lt;/f0&gt; in Windows) pro extraher su contentos in le classificator  "Dictionary" del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;, close with &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T173415Z">
+        <seg>Utilisate pro monstrar le manual del usator (aperir con &lt;k0&gt;F1&lt;/k0&gt;, clauder con &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
