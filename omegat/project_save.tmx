@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'{0}' menu selected</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091753Z">
+        <seg>'{0}' menu seligite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For the purposes of this tutorial, you may use .docx files according to this procedure, although in fact .docx files do not require the mediation of Open Office Writer.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T183326Z">
@@ -6073,8 +6081,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095347Z">
-        <seg>expone le segmentos memorias de traduction que concorda le segmento primari.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091739Z">
+        <seg>Expone le segmentos del memorias de traduction que concorda con le segmento primari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6107,6 +6115,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114515Z">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag issues</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091634Z">
+        <seg>Non permitter le creation de documentos rendite con questiones de tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -7961,8 +7977,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095347Z">
-        <seg>Concordantias confuse</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091645Z">
+        <seg>Concordantias partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -12701,6 +12717,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094956Z">
         <seg>Segmentos orphano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091832Z">
+        <seg>Orphane</seg>
       </tuv>
     </tu>
     <tu>
@@ -18318,6 +18342,14 @@ on line {1}, column {2}.</seg>
         <seg>Error non recovrabile  durante le analyse del file TMX
 {0}
 re linea {1}, colonna {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091925Z">
+        <seg>Non-specificate</seg>
       </tuv>
     </tu>
     <tu>
