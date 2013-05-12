@@ -4031,6 +4031,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091358Z">
+        <seg>Permitte le modifica del tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow the translation to be equal to source</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T172234Z">
@@ -4401,8 +4409,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095330Z">
-        <seg>Tenta de converter le &amp;numeros quando insere un concordantia confuse</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091526Z">
+        <seg>Tenta de converter le &amp;numeros quando insere un concordantia partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -13210,6 +13218,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091316Z">
+        <seg>Preservar le spatios pro omne tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094846Z">
@@ -18630,6 +18646,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T120952Z">
         <seg>&amp;Valida le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091505Z">
+        <seg>Valida le tags quando tu abandona un segmento</seg>
       </tuv>
     </tu>
     <tu>
