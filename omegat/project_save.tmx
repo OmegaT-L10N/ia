@@ -11991,8 +11991,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094731Z">
-        <seg>OmegaT lingua del interfacie usuario</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T092635Z">
+        <seg>OmegaT lingua del interfacie del usator</seg>
       </tuv>
     </tu>
     <tu>
@@ -13109,6 +13109,14 @@ pro resolver le fonte del error e reproba.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095323Z">
         <seg>per favor inscribe tu nomine/ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T092601Z">
+        <seg>Per favor reface le validation del tags.</seg>
       </tuv>
     </tu>
     <tu>
