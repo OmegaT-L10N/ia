@@ -3029,6 +3029,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083626Z">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Scripting&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T085249Z">
@@ -4185,6 +4193,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Andrzej SawuÅ‚a</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083537Z">
+        <seg>Andrzej SawuÅ‚a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Andrzej Sawuła</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114504Z">
@@ -4673,6 +4689,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095722Z">
         <seg>Britone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Briac PilprÃ©</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083534Z">
+        <seg>Briac PilprÃ©</seg>
       </tuv>
     </tu>
     <tu>
@@ -5345,6 +5369,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T213856Z">
         <seg>copia/talia/colla shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083647Z">
+        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -7213,6 +7245,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FabiÃ¡n Mandelbaum</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083531Z">
+        <seg>FabiÃ¡n Mandelbaum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fabián Mandelbaum</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114500Z">
@@ -8465,6 +8505,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135806Z">
         <seg>Hungaro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hunspell by LÃ¡szlÃ³ NÃ©meth and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083540Z">
+        <seg>Hunspell by LÃ¡szlÃ³ NÃ©meth and others (LGPL License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9747,6 +9795,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JSAP (LGPL)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083542Z">
+        <seg>JSAP (LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115613Z">
@@ -10039,6 +10095,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140359Z">
         <seg>Kwanyama, Kuanyama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kyle Katarn</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083528Z">
+        <seg>Kyle Katarn</seg>
       </tuv>
     </tu>
     <tu>
@@ -14544,6 +14608,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the GNU General Public License for more detail.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083649Z">
+        <seg>See the GNU General Public License for more detail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T201406Z">
@@ -15789,6 +15861,14 @@ vice essera usate le classificator actual.</seg>
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130312T234747Z">
+        <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pressa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del  combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083615Z">
         <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pressa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del  combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
       </tuv>
     </tu>
@@ -18290,8 +18370,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094604Z">
-        <seg>Supporto del usuario, al gruppo del usuarios  Yahoo (multilingual), ubi on pote recercar in le archivos</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083523Z">
+        <seg>Supporto del usator, al Gruppo del usatores  Yahoo (multilingual), ubi on pote recercar in le archivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -20765,6 +20845,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083636Z">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520347</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105452Z">
@@ -20817,6 +20905,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105614Z">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083627Z">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083632Z">
+        <seg>http://www.languagetool.org/languages/</seg>
       </tuv>
     </tu>
     <tu>
