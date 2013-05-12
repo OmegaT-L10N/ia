@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090656Z">
+        <seg>Tokenizer del lingua de destination (&amp;Target):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Title Case</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095431Z">
@@ -11029,6 +11037,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memory</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090722Z">
+        <seg>Memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T213337Z">
@@ -13210,6 +13226,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090855Z">
+        <seg>Pro&amp;jecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094954Z">
@@ -14538,6 +14562,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090711Z">
+        <seg>Cerca in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search project</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T215017Z">
@@ -14780,8 +14812,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095058Z">
-        <seg>selige le classificator (Fol&amp;der)</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090922Z">
+        <seg>Selige le plica (Fol&amp;der)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15558,6 +15590,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130409T054410Z">
         <seg>Le files TMX es legite un linea al vice, ordinate secundo lor nomines e segmentos, intra un file TMX date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMs</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090759Z">
+        <seg>TMs (Memorias de traduction)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17666,6 +17706,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095203Z">
         <seg>Rende le elementos sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090827Z">
+        <seg>Rendite</seg>
       </tuv>
     </tu>
     <tu>
