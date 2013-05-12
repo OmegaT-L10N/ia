@@ -8031,14 +8031,6 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>General</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T105602Z">
-        <seg>Generale</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130220T114903Z">
@@ -9881,14 +9873,6 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115251Z">
         <seg>JNA ex Todd Fast, Timothy Wall e alteres (Licentia LGPL)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>JRE.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T105608Z">
-        <seg>JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16918,8 +16902,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The user manual is in the package you just downloaded, you can access it from</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094625Z">
-        <seg>Le manual del usuario es in le pacchetto que tu ha justo discargate, tu pote lo acceder ab</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T175845Z">
+        <seg>Le manual del usator es in le pacchetto que tu ha justo discargate, tu pote lo acceder ab</seg>
       </tuv>
     </tu>
     <tu>
@@ -19348,8 +19332,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Windows and Linux users: if you are confident that your system already has a</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094634Z">
-        <seg>Usuarios de Windows e Linux: si tu es confidente que tu systema ha ja un</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180102Z">
+        <seg>Usatores de Windows e Linux: si tu es confidente que tu systema ha ja un</seg>
       </tuv>
     </tu>
     <tu>
@@ -23505,8 +23489,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>the Java Runtime Environment are now available to save users the trouble of</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094628Z">
-        <seg>le ambiente Runtime de Java, es ora disponibile pro salvar le usuarios del difficultate de</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180021Z">
+        <seg>le ambiente Runtime de Java, es ora disponibile pro salvar le usatores del difficultate de</seg>
       </tuv>
     </tu>
     <tu>
