@@ -4309,8 +4309,8 @@ Le file TMX non essera cargate.</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to fix all tags automatically?</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T220612Z">
-        <seg>es tu secur que tu vole reparar omne le tags automaticamente?</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T091934Z">
+        <seg>Es tu secur que tu vole reparar omne le tags automaticamente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17306,6 +17306,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T085835Z">
         <seg>Ce significa que le codice fonte del programma OmegaT es gratuitemente disponibile, e que le licentia de OmegaT da a su  usatores un considerabile libertate in lo usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This operation will affect {0} segments and cannot be undone.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T092208Z">
+        <seg>Iste operation afficera {0} segmentos e on non potera lo disfacer.</seg>
       </tuv>
     </tu>
     <tu>
