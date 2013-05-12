@@ -5199,6 +5199,16 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180459Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095140Z">
@@ -8869,8 +8879,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If you are in any doubt, we recommend that you use the version supplied with</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094634Z">
-        <seg>If tu ha alicun dubita, nos recommenda que tu usa le version supplite con</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180149Z">
+        <seg>Si tu ha alicun dubita, nos recommenda que tu usa le version supplite con</seg>
       </tuv>
     </tu>
     <tu>
@@ -10511,8 +10521,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Linux users:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094636Z">
-        <seg>Usuarios de Linux:</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180237Z">
+        <seg>Usatores de Linux:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10695,8 +10705,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mac users:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094640Z">
-        <seg>Usuarios de Mac:</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180322Z">
+        <seg>Usatores de Mac:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18724,8 +18734,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Users will need to download IBM's JRE, as Sun does</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094642Z">
-        <seg>usuarios debera discargar le JRE de IBM, pois que Sun non</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180433Z">
+        <seg>Le usatores debera discargar le JRE de IBM, pois que Sun non</seg>
       </tuv>
     </tu>
     <tu>
