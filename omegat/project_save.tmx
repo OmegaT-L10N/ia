@@ -3917,6 +3917,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T084124Z">
+        <seg>Postquam tu ha rendite cata segmento, pressa &lt;k0&gt;Ctrl+U &lt;/k0&gt; pro mover al segmento sequente nondum rendite (o &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;pro mover al sequente segmento rendite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101620Z">
@@ -18908,6 +18916,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101621Z">
         <seg>Quandocunque tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pressa &lt;k1&gt;Ctrl+D&lt;/k1&gt; pro generar le documentos rendite, que essera create in le subclassificator  /target/ del classificator de tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T084300Z">
+        <seg>Quandocunque tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pressa &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro generar le documentos rendite, que essera create in le sub-plica  /target/ del plica de tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
