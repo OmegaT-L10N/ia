@@ -18554,6 +18554,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T173636Z">
+        <seg>Utilisate pro aperir le  fenestra  con le statisticas del projecto, monstra los, usante &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Instrumentos&lt;/g1&gt; &lt;g3&gt;Statisticas.&lt;/g3&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, close with &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T173126Z">
