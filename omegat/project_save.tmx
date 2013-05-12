@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3635,14 +3635,6 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101312Z">
         <seg>On pote discargar le &lt;u1&gt;Collection de terminologia Microsoft&lt;/u1&gt; &lt;i2/&gt; in quasi 100 linguas e can servir como le glossario petra angular del technologia informatic (IT).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>==============================================================================</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T105342Z">
-        <seg>==============================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -24027,14 +24019,6 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T083805Z">
         <seg>}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>ï»¿@@TRANSLATION_NOTICE@@</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T083209Z">
-        <seg>ï»¿@@TRANSLATION_NOTICE@@</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
