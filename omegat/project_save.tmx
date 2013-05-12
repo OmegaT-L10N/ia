@@ -6863,6 +6863,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T092439Z">
+        <seg>Corriger le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095207Z">
@@ -16864,6 +16872,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095043Z">
         <seg>Le lingua del file rendite inscribite es invalide!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T092507Z">
+        <seg>Le traduction cambiava.</seg>
       </tuv>
     </tu>
     <tu>
