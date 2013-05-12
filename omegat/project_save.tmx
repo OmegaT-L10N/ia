@@ -1474,6 +1474,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>0.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180627Z">
+        <seg>0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130221T223002Z">
@@ -1599,10 +1607,50 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180624Z">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>22</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180630Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>23</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180634Z">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180635Z">
+        <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>25</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130221T224431Z">
         <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180639Z">
+        <seg>26</seg>
       </tuv>
     </tu>
     <tu>
@@ -1763,6 +1811,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T194501Z">
         <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180559Z">
+        <seg>7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,6 +1999,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180744Z">
+        <seg>&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;Please proceed to Project 2 after completing Project 1!&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T152644Z">
@@ -2051,6 +2115,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T120314Z">
         <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180736Z">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180737Z">
+        <seg>&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3751,10 +3831,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180636Z">
+        <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 license)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115542Z">
         <seg>ANTLR 3.4 (Licentia ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180629Z">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4279,6 +4375,14 @@ Le file TMX non essera cargate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123231Z">
         <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180623Z">
+        <seg>Appendice</seg>
       </tuv>
     </tu>
     <tu>
@@ -4855,6 +4959,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CAT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180553Z">
+        <seg>CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T200816Z">
@@ -4867,6 +4979,30 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T200927Z">
         <seg>Le instrumentos CAT rangia in un precio de gratis (OmegaT) a $2000 o major.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COLLECTIONS OF DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180636Z">
+        <seg>COLLECTIONS OF DOCUMENTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COMBINING DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180635Z">
+        <seg>COMBINING DOCUMENTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COPYING IN QUANTITY</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180631Z">
+        <seg>COPYING IN QUANTITY</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,6 +7489,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180639Z">
+        <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FabiÃ¡n Mandelbaum</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T083531Z">
@@ -8017,6 +8161,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GNU Free Documentation License</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180625Z">
+        <seg>GNU Free Documentation License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNU GENERAL PUBLIC LICENSE</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T130942Z">
@@ -8597,6 +8749,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T131057Z">
         <seg>Quomodo discargar e installar le dictionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, OpenOffice.org facilitates the use of OmegaT (for example, as stated above, by making it easier to handle Microsoft Office files), and provides further &lt;/f1&gt;&lt;f2&gt;functions useful to translators and unrelated to OmegaT, such as the function &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;for creation of PDF files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180734Z">
+        <seg>Comocunque, OpenOffice.org facilita le uso de OmegaT (per exemplo, como constatate supra, con le facilitar a manear le files de Microsoft Office), e forni additional &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt; functiones utile pro traductores e non connexe con OmegaT, assi como le function &lt;/f3&gt;&lt;f4&gt;pro le creation de files PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10639,6 +10799,22 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180749Z">
+        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180748Z">
+        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lower Case</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100550Z">
@@ -10667,6 +10843,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140438Z">
         <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MODIFICATIONS</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180631Z">
+        <seg>MODIFICATIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -12197,8 +12381,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT license</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T215040Z">
-        <seg>Licentia OmegaT</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180521Z">
+        <seg>OmegaT license</seg>
       </tuv>
     </tu>
     <tu>
@@ -13240,6 +13424,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123403Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180628Z">
+        <seg>Preamble</seg>
       </tuv>
     </tu>
     <tu>
@@ -14492,6 +14684,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Schau dir &lt;a0&gt;das&lt;/a0&gt; an!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180749Z">
+        <seg>Schau dir &lt;a0&gt;das&lt;/a0&gt; an!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schau dir &lt;f0&gt;das&lt;/f0&gt; an!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180751Z">
+        <seg>Schau dir &lt;f0&gt;das&lt;/f0&gt; an!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scottish Gaelic, Gaelic</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233349Z">
@@ -15660,6 +15868,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TERMINATION</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180638Z">
+        <seg>TERMINATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095133Z">
@@ -15680,6 +15896,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T090759Z">
         <seg>TMs (Memorias de traduction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TRANSLATION</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180638Z">
+        <seg>TRANSLATION</seg>
       </tuv>
     </tu>
     <tu>
@@ -17360,6 +17584,22 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180540Z">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180512Z">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094340Z">
@@ -18772,6 +19012,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VERBATIM COPYING</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180629Z">
+        <seg>VERBATIM COPYING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115044Z">
@@ -19897,6 +20145,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180740Z">
+        <seg>a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>aa</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T001751Z">
@@ -20185,6 +20441,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>b)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180741Z">
+        <seg>b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ba</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T133506Z">
@@ -20361,6 +20625,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>c)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180742Z">
+        <seg>c)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ca</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T133856Z">
@@ -20469,6 +20741,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134341Z">
         <seg>co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>combination</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180800Z">
+        <seg>combination</seg>
       </tuv>
     </tu>
     <tu>
@@ -21205,6 +21485,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135604Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T180639Z">
+        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
       </tuv>
     </tu>
     <tu>
