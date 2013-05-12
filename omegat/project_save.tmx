@@ -6037,6 +6037,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distribution and modifications</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T085834Z">
+        <seg>Distribution and modifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Divehi, Dhivehi, Maldivian</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134622Z">
@@ -16148,6 +16156,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T085857Z">
+        <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic idea is that the text is presented to you one segment at a time.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T155212Z">
@@ -16234,16 +16250,16 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 includes the User Manual and the readme.txt document.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T085628Z">
-        <seg>Le documentation distribuite con &lt;a0&gt;OmegaT&lt;/a0&gt; 2.6.3 include le Manual del usator e le documento readme.txt.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T085846Z">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 includes the User Manual and the readme.txt document.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The documentation is Copyright ©2013 Vito Smolej.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T085647Z">
-        <seg>Le documentation es Copyright ©2013 Vito Smolej.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T085850Z">
+        <seg>The documentation is Copyright ©2013 Vito Smolej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16606,6 +16622,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T155925Z">
         <seg>Le server pote exister in le rete local, ma in le majoritate del casos illo essera disponibile sur interrete, id es via un adresse URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T085943Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
     </tu>
     <tu>
