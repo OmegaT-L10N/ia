@@ -16240,6 +16240,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083753Z">
+        <seg>Le sequente retalio de codice in groovy per exemplo scande a transverso de omne le segmentos in omne le files in le projecto currente e, si le traduction existe, stampa le  fonte e le traduction del segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translatione xists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130325T212235Z">
@@ -19264,6 +19272,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083835Z">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a glossary by pressing &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt;, or copy existing glossaries to the&lt;f1&gt;/glossary/&lt;/f1&gt;subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T131124Z">
@@ -20117,6 +20133,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083802Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>containing OmegaT.jar and the linux-install.sh script, and execute the</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220952Z">
@@ -20169,6 +20193,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141326Z">
         <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083758Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -20509,6 +20541,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083754Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fin</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135012Z">
@@ -20537,6 +20577,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094724Z">
         <seg>del usuario, vide le manual pro su ubication).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083755Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083757Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -21041,6 +21097,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135826Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083759Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -22821,6 +22885,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083801Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>spa</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233759Z">
@@ -22993,6 +23065,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233919Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083801Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23661,6 +23741,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083756Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095459Z">
@@ -23673,6 +23761,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095407Z">
         <seg>{1}, realisate ab '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083805Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
