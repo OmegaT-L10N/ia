@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090601Z">
+        <seg>Tokenizer del lingua origine (&amp;Source):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094849Z">
@@ -11361,6 +11369,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095322Z">
         <seg>Nove lingua e pais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T090426Z">
+        <seg>Segmento sequente &amp;Traducite</seg>
       </tuv>
     </tu>
     <tu>
