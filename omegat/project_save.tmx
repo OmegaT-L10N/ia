@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3723,6 +3723,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101312Z">
         <seg>On pote discargar le &lt;u1&gt;Collection de terminologia Microsoft&lt;/u1&gt; &lt;i2/&gt; in quasi 100 linguas e can servir como le glossario petra angular del technologia informatic (IT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==============================================================================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130210T105342Z">
+        <seg>==============================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8193,6 +8201,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130210T105602Z">
+        <seg>Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130220T114903Z">
@@ -10043,6 +10059,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115251Z">
         <seg>JNA ex Todd Fast, Timothy Wall e alteres (Licentia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JRE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130210T105608Z">
+        <seg>JRE.</seg>
       </tuv>
     </tu>
     <tu>
