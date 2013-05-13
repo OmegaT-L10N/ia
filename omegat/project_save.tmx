@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34,6 +34,14 @@
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105610Z">
         <seg>"Linux").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"We" refers below to the OmegaT project team.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122225Z">
+        <seg>Le termino "Nos" hic in ultra se refere al gruppo de projecto de OmegaT..</seg>
       </tuv>
     </tu>
     <tu>
@@ -12175,6 +12183,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT HowTo: Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122104Z">
+        <seg>Guida de OmegaT: render OmegaT in vostre lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095041Z">
@@ -18292,6 +18308,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095356Z">
         <seg>Traduction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation: general remarks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122141Z">
+        <seg>Traduction: notas general</seg>
       </tuv>
     </tu>
     <tu>
