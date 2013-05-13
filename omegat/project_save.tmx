@@ -1026,6 +1026,30 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The "instant start" guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122929Z">
+        <seg> * Le guida "initio rapide" (un curte introduction al uso de OmegaT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122854Z">
+        <seg>* Le interfacie del usator (menu ecc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user manual (very comprehensive)&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122921Z">
+        <seg> * Le guida "initio rapide" (un curte introduction al uso de OmegaT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T000411Z">
@@ -4487,6 +4511,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the program is intended for translators throughout the world and not just in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122651Z">
+        <seg>Pois que le programma es destinate pro le traductores in omne le mundo e non solmente in le paises de lingua anglese, il es opportun que la documentation e, si possibile, le programma mesme, sia disponibile in altere linguas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T220114Z">
@@ -4523,6 +4555,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T092947Z">
         <seg>In le mesme tempore, il pote usar le files memorias ex previe traductiones pro referentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the time of writing, the material to be translated comprises:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122847Z">
+        <seg>Al momento del scriptura, le material a render es componite ab:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8785,6 +8825,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, as the program is being given away and not sold commercially, there are no resources available to pay for translations.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122702Z">
+        <seg>Totevia, pois que le programma es offerite e non vendite commercialmente, non es presente ressources disponibile a pagar pro le traductiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated file might fail to open.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101625Z">
@@ -9737,6 +9785,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095400Z">
         <seg>Initio instantanee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122748Z">
+        <seg>In vice, illes qui es implicate in le projecto OmegaT spera que le traductiones essera fornite ante toto ab traductores qui ha experimentate OmegaT e es convincite de su valor pro le communitate complete del traductores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17186,6 +17242,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T092507Z">
         <seg>Le traduction cambiava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation work</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122755Z">
+        <seg>Le labor de traduction</seg>
       </tuv>
     </tu>
     <tu>
