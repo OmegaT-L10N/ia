@@ -12327,6 +12327,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free, open-source translation memory program.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122335Z">
+        <seg>OmegaT es un programma gratuite pro memoria de traduction, open-source..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130409T081450Z">
@@ -16470,6 +16478,14 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body; just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122308Z">
+        <seg>Le gruppo de projecto de OmegaT non es un societate o un persona juridic formal, ma sol un gruppo de voluntarios implicate in le projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT user group</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T093328Z">
@@ -17178,6 +17194,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T133245Z">
         <seg>Le interfacie del usator </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user interface and documentation were originally written in English.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130513T122504Z">
+        <seg>Le interfacie del usator e le documentation esseva in origine scribite in anglese.</seg>
       </tuv>
     </tu>
     <tu>
