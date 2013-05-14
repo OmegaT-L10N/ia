@@ -2497,8 +2497,16 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T162114Z">
-        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; le operation que crea un copia functionante ex le repository a tu computator local.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T142921Z">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; le operation que crea un copia functionante ex le repository in tu computator local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T142910Z">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;un vice que un nove version local  del material discargate es preste, &amp;&amp;&amp;&amp;&amp;membro del equipa termina le session currente de translation, un version renovate del&lt;t1/&gt; &lt;t2/&gt;datos in commun es disponibile al resto del equipa</seg>
       </tuv>
     </tu>
     <tu>
