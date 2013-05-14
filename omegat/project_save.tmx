@@ -2423,6 +2423,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100228Z">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various sub-plicas containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130508T122334Z">
@@ -16780,6 +16788,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100408Z">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation is Copyright ©2013 Vito Smolej.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T085850Z">
@@ -17018,6 +17034,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T202034Z">
         <seg>Le instructiones de discarga su-schermo deberea esser auto-explicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100347Z">
+        <seg>Le application de origine patente LanguageTool pote esser usate pro corriger commun errores grammatical e  stilistic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21593,6 +21617,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100444Z">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>her</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135735Z">
@@ -21673,10 +21705,26 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100510Z">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T180639Z">
         <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100504Z">
+        <seg>http://git-scm.com/</seg>
       </tuv>
     </tu>
     <tu>
@@ -21745,6 +21793,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://subversion.apache.org</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100457Z">
+        <seg>http://subversion.apache.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T130936Z">
@@ -21765,6 +21821,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114443Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100505Z">
+        <seg>http://tortoisesvn.net/</seg>
       </tuv>
     </tu>
     <tu>
@@ -21829,6 +21893,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T000940Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100351Z">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
     </tu>
     <tu>
