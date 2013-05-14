@@ -3929,8 +3929,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T171144Z">
-        <seg>Un algorithmo de cerca del stirpe reduce le parolas "fishing", "fished", "fish", e "fisher" al parola radice, "fish".</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T171707Z">
+        <seg>Un algorithmo de cerca del stirpe reduce le parolas "fishing", "fished", "fish", e "fisher" al radice, "fish".</seg>
       </tuv>
     </tu>
     <tu>
@@ -17788,6 +17788,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T091810Z">
         <seg>Illes dice:  "gratuite como un discurso", in contrasto a: "gratuite como un bira".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T171653Z">
+        <seg>Ce es in modo special utile in caso de  linguas que usa formas con pre- e suffixos pro le parolas stirpe.</seg>
       </tuv>
     </tu>
     <tu>
