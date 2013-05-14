@@ -20148,6 +20148,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also file &lt;u6&gt;bug reports&lt;/u6&gt; and &lt;u7&gt;requests for enhancements.&lt;/u7&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T172632Z">
+        <seg>On pote alsi depositar &lt;u6&gt;reportos de defecto&lt;/u6&gt; e &lt;u7&gt;demanda de incrementos functional.&lt;/u7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102657Z">
