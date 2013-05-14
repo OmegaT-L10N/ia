@@ -2855,6 +2855,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionaries&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T184832Z">
+        <seg>&lt;p0&gt;Dictionarios&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionarios&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Problems with&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130325T213029Z">
@@ -15652,6 +15660,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T184650Z">
+        <seg>Alicun del dictionarios non ha series attaccate - id es lor uso es "gratuite", e altere, como le selection supra, es sub Le licentia GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095038Z">
@@ -16968,6 +16984,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130407T220911Z">
         <seg>Le exemplo sequente del file .INI reserva 1GB de memoria, demanda le francese como lingua del usator e le Canada como pais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T184809Z">
+        <seg>Le exemplo sequente monstra le dictionario  Merriam Webster 10th  "in action":</seg>
       </tuv>
     </tu>
     <tu>
