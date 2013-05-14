@@ -2977,8 +2977,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T145514Z">
-        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;t</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T170157Z">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Cercator de stirpe&lt;/s1&gt;t</seg>
       </tuv>
     </tu>
     <tu>
@@ -3249,8 +3249,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T074204Z">
-        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T170139Z">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Cercator de stirpe (tokenizer)&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3523,6 +3523,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102650Z">
         <seg>&lt;p0&gt;Corrector orthographic&lt;/p0&gt; &lt;s1&gt;preparation del corrector orthographic&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T170304Z">
+        <seg>&lt;p0&gt;Cercator de stirpe&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18178,8 +18186,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Tokenizer plugin</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T125713Z">
-        <seg>Plugin Tokenizer</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T170150Z">
+        <seg>Plugin Cercator de stirpe</seg>
       </tuv>
     </tu>
     <tu>
