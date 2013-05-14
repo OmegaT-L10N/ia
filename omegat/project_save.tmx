@@ -3919,6 +3919,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T171051Z">
+        <seg>Un cercator del stirpe pro le anglese, exempli gratia, deberea identificar le linea "cats" (e possibilemente "catlike", "catty" etc.) como basate super le radice "cat", e "stemmer", "stemming", "stemmed" como basate super "stem".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T171003Z">
+        <seg>Un algorithmo de cerca del stirpe reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094747Z">
@@ -18194,8 +18210,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T145659Z">
-        <seg>Le tokenizers (o stemmers) meliora le qualitate de concordantias con le recognition del parolas declinate in le datos del memoria primari e in le traduction.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T171026Z">
+        <seg>Le cercatores del stirpe meliora le qualitate de concordantias con le recognition del parolas declinate in le datos del memoria primari e in le traduction.</seg>
       </tuv>
     </tu>
     <tu>
