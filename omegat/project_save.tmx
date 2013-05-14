@@ -20318,6 +20318,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T173120Z">
+        <seg>Tu pote adder copias de files, portiones del bloco, paginas del schermo, e alicun altere cosas que tu pensa adjutara le disveloppatores a trovar e reparar tu defecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should be able to open the HTML files in your browser &lt;t2/&gt;and view them approximately as they appear on the Internet.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T213949Z">
