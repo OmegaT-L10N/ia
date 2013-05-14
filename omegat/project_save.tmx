@@ -2975,6 +2975,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T145514Z">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141641Z">
@@ -18178,8 +18186,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T163718Z">
-        <seg>Le Tokenizers (o stemmers) meliora le qualitate de concordantias con le recognition del parolas declinate in le datos del memoria primari e in le traduction.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T145659Z">
+        <seg>Le tokenizers (o stemmers) meliora le qualitate de concordantias con le recognition del parolas declinate in le datos del memoria primari e in le traduction.</seg>
       </tuv>
     </tu>
     <tu>
