@@ -2495,6 +2495,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T144823Z">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;le persona responsabile del creation e del mantenimento del deposito, id es le cura del labor del latere del server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T143731Z">
