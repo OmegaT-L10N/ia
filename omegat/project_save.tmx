@@ -8153,6 +8153,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T142239Z">
+        <seg>Pro tu referentia, OmegaT monstra le traduction de omne le parolas del glossario que  sia es presente in le segmento sia es registrata in le glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130309T120116Z">
@@ -12603,6 +12611,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T142504Z">
+        <seg>OmegaT registra tu traductiones e propone eventual traductiones ab segmentos simile registrate in le files memoria de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports the following file formats out of the box:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094616Z">
@@ -16824,6 +16840,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T085850Z">
         <seg>The documentation is Copyright ©2013 Vito Smolej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T142513Z">
+        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
     </tu>
     <tu>
