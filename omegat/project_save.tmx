@@ -7985,6 +7985,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100645Z">
+        <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100626Z">
+        <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101634Z">
@@ -12819,6 +12835,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100630Z">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have decided on a subject, download the files from the Internet, navigating so that they go directly into the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of &lt;/f1&gt;&lt;f2&gt;My Project-2&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T162548Z">
@@ -17170,6 +17194,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T155925Z">
         <seg>Le server pote exister in le rete local, ma in le majoritate del casos illo essera disponibile sur interrete, id es via un adresse URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100610Z">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21905,6 +21937,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100632Z">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>hu</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135807Z">
@@ -24525,6 +24565,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T201827Z">
         <seg>www.openoffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100636Z">
+        <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
     </tu>
     <tu>
