@@ -2303,6 +2303,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100143Z">
+        <seg>&lt;e0&gt; Guida de initio rapide:&lt;/e0&gt; iste capitulo es designate como un rapide parve instruction sia pro novicios sia gente que jam cognosce le applicationes CAT, monstra le procedura complete ab le apertura de un nove projecto de traduction, al completamento del traduction..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130309T125819Z">
@@ -2347,6 +2355,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130309T121500Z">
         <seg>&lt;e0&gt;Proprietates del projecto &lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files e Classificatores:&lt;/e1&gt; un projecto in the contexto de OmegaT es le parte del obra que OmegaT, como instrumento CAT, pote tractar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T100210Z">
+        <seg>&lt;e0&gt;Proprietates del projecto &lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files e Plicas:&lt;/e1&gt; un projecto in the contexto de OmegaT es le parte del obra que OmegaT, como instrumento CAT, pote tractar.</seg>
       </tuv>
     </tu>
     <tu>
