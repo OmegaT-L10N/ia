@@ -12079,6 +12079,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T173355Z">
+        <seg>Nota que le reportos de defecto e le demandas pro incrementos functional es publicamente visibile, assi tu non deberea adder alicun files sensibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100734Z">
