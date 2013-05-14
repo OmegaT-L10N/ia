@@ -3039,6 +3039,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T185243Z">
+        <seg>&lt;p0&gt;Menu Optiones&lt;/p0&gt; &lt;s1&gt;Comportamento del Modifica&lt;/s1&gt; &lt;t2&gt;Traduction vacue&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Exporting the current segment&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T172342Z">
@@ -12631,6 +12639,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T142435Z">
         <seg>OmegaT non es justo un producto; illo es un excitative projecto, e tu pote esser parte de illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT leaves the editing field blank.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T185415Z">
+        <seg>OmegaT lassa blanco le campo del modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24904,5 +24920,16 @@ crear su classificator de configuration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OmegaT_3.0.1_L10N_Full/source/doc_src/en/EditingBehavior.xml</prop>
+      <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</prop>
+      <prop type="next">OmegaT leaves the editing field blank.</prop>
+      <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
+        <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
