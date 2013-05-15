@@ -2975,14 +2975,6 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T085117Z">
-        <seg>&lt;p0&gt;Advertentias legal&lt;/p0&gt; &lt;s1&gt;Pro le documentation&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T170157Z">
@@ -5745,14 +5737,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Copyright</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T083647Z">
-        <seg>Copyright</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Copyright (C) 1989, 1991 Free Software Foundation, Inc.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T130945Z">
@@ -6405,14 +6389,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095352Z">
         <seg>Expone le traduction del segmento primari per le servicios de traduction a machina que tu seligeva in 'Optiones &gt; Traduction a machina', si celle servicios es disponibile.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Distribution and modifications</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T085834Z">
-        <seg>Distribution and modifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,14 +8181,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T102610Z">
         <seg>Per alicun linguas, le documentation es completemente foras de data.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>For the documentation</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T084956Z">
-        <seg>Pro le documentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -10843,14 +10811,6 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094348Z">
         <seg>Sinistre:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Legal notices</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T130226Z">
-        <seg>Advertentias legal</seg>
       </tuv>
     </tu>
     <tu>
@@ -15260,14 +15220,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>See the GNU General Public License for more detail.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T083649Z">
-        <seg>See the GNU General Public License for more detail.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T201406Z">
@@ -16848,14 +16800,6 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T085857Z">
-        <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The basic idea is that the text is presented to you one segment at a time.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T155212Z">
@@ -16944,30 +16888,6 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T085846Z">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 includes the User Manual and the readme.txt document.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T100408Z">
-        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The documentation is Copyright ©2013 Vito Smolej.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T085850Z">
-        <seg>The documentation is Copyright ©2013 Vito Smolej.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T142513Z">
-        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
     </tu>
     <tu>
