@@ -2975,6 +2975,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130310T085117Z">
+        <seg>&lt;p0&gt;Advertentias legal&lt;/p0&gt; &lt;s1&gt;Pro le documentation&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T170157Z">
@@ -8185,6 +8193,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the documentation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130310T084956Z">
+        <seg>Pro le documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the purposes of this tutorial, we assume that you will be using a Windows operating system.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T202052Z">
@@ -10811,6 +10827,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094348Z">
         <seg>Sinistre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130309T130226Z">
+        <seg>Advertentias legal</seg>
       </tuv>
     </tu>
     <tu>
