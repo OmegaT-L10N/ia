@@ -14431,6 +14431,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T163758Z">
+        <seg>Illo essera usate automaticamente ab OmegaT si &lt;g0&gt;Optiones &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will install the correct environment for your computer and the application</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114137Z">
@@ -15867,6 +15875,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094706Z">
         <seg>Marc Prior es le coordinator del projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T163635Z">
+        <seg>Marc Prior: corriger mi prime minuta esseva un acto de amor pro OmegaT e le lingua anglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23326,6 +23342,14 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T163715Z">
+        <seg>Le plugin LanguageTool es includite in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T050654Z">
@@ -24690,6 +24714,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T170306Z">
         <seg>Le usator pote in consequentia vider immediatemente que un segmento in gris, plus tosto que nigre, esseva jam verificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130519T054224Z">
+        <seg>Le Gruppo del usatores alsi servi como le principal puncto de contacto inter usatores e equipa del projecto.</seg>
       </tuv>
     </tu>
     <tu>
