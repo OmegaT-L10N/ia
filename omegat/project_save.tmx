@@ -20220,6 +20220,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T164138Z">
+        <seg>Remove LanguageTool ex le plica /plugin ante lancear OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095506Z">
@@ -24506,14 +24514,6 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T144140Z">
         <seg>Le server retene le informationes discargate durante le discarga, de maniera que plus tarde le consigna (vide in infra) pote esser exequite in un maniera ordinate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T085943Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29124,14 +29124,6 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T083835Z">
-        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>You can change the keyboard shortcut at any time.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T070129Z">
@@ -31093,6 +31085,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135731Z">
         <seg>heb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T164328Z">
+        <seg>[fuzzy]helpAboutMenuItem</seg>
       </tuv>
     </tu>
     <tu>
