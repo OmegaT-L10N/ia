@@ -13629,6 +13629,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T163904Z">
+        <seg>Incompatibilitates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095007Z">
@@ -14433,8 +14441,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130611T163758Z">
-        <seg>Illo essera usate automaticamente ab OmegaT si &lt;g0&gt;Optiones &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T163842Z">
+        <seg>Illo essera usate automaticamente ab OmegaT si &lt;g0&gt;Optiones &gt; Corrector del lingua&lt;/g0&gt; es marcate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14971,6 +14979,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130217T001257Z">
         <seg>LanguageTool trovara errores pro le qual esseva definite un regula in su files de configuration del specific lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T164040Z">
+        <seg>LanguageTool non laborara debitemente si un version vetule es trovate in le plica /plugin.</seg>
       </tuv>
     </tu>
     <tu>
