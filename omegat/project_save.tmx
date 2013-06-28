@@ -5391,6 +5391,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161342Z">
+        <seg>Postquam tu ha rendite cata segmento, pressa &lt;k0&gt;Ctrl+U &lt;/k0&gt; pro mover al segmento sequente nondum rendite (o &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;pro mover al sequente segmento rendite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again, OmegaT has excellent file filters for both.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130520T125300Z">
@@ -6235,6 +6243,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101616Z">
         <seg>A le summitate de iste dialogo, selectiona le lingua de tu file fontal e le lingua pro tu file rendite, e clicca &lt;g0&gt;OK &lt;/g0&gt; pro continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161322Z">
+        <seg>A le summitate de iste dialogo, selectiona le lingua de tu file fontal e le lingua pro tu file rendite, e clicca OK  pro continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9417,6 +9433,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161353Z">
+        <seg>Durante le traduction, usa le menus &lt;g3&gt;Modica&lt;/g3&gt; e &lt;g4&gt;Vade&lt;/g4&gt; pro exequer varie  utile functiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134707Z">
@@ -11437,14 +11461,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T180625Z">
         <seg>GNU Free Documentation License</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>GNU GENERAL PUBLIC LICENSE</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130942Z">
-        <seg>GNU GENERAL PUBLIC LICENSE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16691,6 +16707,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130328T132816Z">
         <seg>Deinde, discarga le “pacchetto hereditage” que nos ha create pro le uso in iste parve instruction, que es a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161325Z">
+        <seg>Deinde, se displica le dialogo 'archivos del projecto'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23294,6 +23318,14 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161401Z">
+        <seg>Le memorias "level1" e  "level2"  pote esser usate in commun con le usuarios de altere programmas de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T170253Z">
@@ -26360,6 +26392,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161400Z">
+        <seg>Per recordar se del preparationes initial del projecto, aperi le dialogo 'Preparationes del projecto' pressante  &lt;k0&gt;Ctrl+E&lt;/k0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove all traces of OmegaT from your system:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T051327Z">
@@ -26380,6 +26420,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T052939Z">
         <seg>Pro resolver isto, aperi de nove in Infix le file original PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161400Z">
+        <seg>Per vider le lista del files in le projecto, aperi le dialogo 'Files del projecto' pressante  &lt;k1&gt;Ctrl+L&lt;/k1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -31497,14 +31545,6 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130936Z">
-        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/Omegat/</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102309Z">
@@ -31581,14 +31621,6 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105635Z">
         <seg>http://www.omegat.org/en/translation-info.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130935Z">
-        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
