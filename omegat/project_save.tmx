@@ -3513,8 +3513,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Do not use the "Import Source Files" function during this exercise; you can experiment with it later, on your own.)&lt;/f1&gt; You can close this window.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T135148Z">
-        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Que tu non usa le function "Import Source Files" durante iste exercitation; tu pote lo experimentar plus tarde, tu sol.)&lt;/f1&gt; Tu pote clauder iste fenestra.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T155607Z">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Non usar le function "Import Source Files" durante iste exercitation; tu pote lo experimentar plus tarde, tu sol.)&lt;/f1&gt; Tu pote clauder iste fenestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,8 +7859,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Consult the User's Manual for further information.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T135340Z">
-        <seg>Consultar le Manual del Usator pro additional information.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T155650Z">
+        <seg>Consulta le Manual del Usator pro additional information.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21246,8 +21246,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See &lt;f1&gt;7.B.1-7.B.4&lt;/f1&gt;&lt;f2&gt;, below.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T152344Z">
-        <seg>Vide &lt;f1&gt;7.B.1-7.B.4&lt;/f1&gt;&lt;f2&gt;, in basso.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T155639Z">
+        <seg>Vide &lt;f1&gt;7.B.1-7.B.4&lt;/f1&gt;&lt;f2&gt;, in sequito.</seg>
       </tuv>
     </tu>
     <tu>
