@@ -7803,8 +7803,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Confirm the segmentation rules and then creation of the project with OK.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T111006Z">
-        <seg>Que tu sanci le regulas de segmentation e pois le creation de le projecto con OK.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T155037Z">
+        <seg>Que tu confirma le regulas de segmentation e pois le creation de le projecto con OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12623,8 +12623,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If the language of your source text isn't listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T110731Z">
-        <seg>Si le lingua de tu texto fontal non es listate, que tu selige un altere idioma que es listate, que tu clicca duo vices sur le campo "Nomine del Lingua", e lo cambia in le abbreviation pro tu idioma.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T154847Z">
+        <seg>Si le lingua de tu texto fontal non es listate, que tu selige un altere idioma que es listate, clicca duo vices sur le campo "Nomine del Lingua", e cambia lo in le abbreviation pro tu idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14279,8 +14279,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don't use the Japanese segmentation rules if you are translating from Italian).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T110951Z">
-        <seg>Illo non es avantagiose arenar se con le accordatura fin del regulas de segmentation in iste grado; le regulas basic que es supplite operara adequatemente pro le fines de demonstration, mesmo pro un lingua fontal differente, a condition que le regulas de punctuation del phrases esserea largemente simile (i.e., que tu non usa le regulas de segmentation japonese si tu va traducer ab italian).</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T155025Z">
+        <seg>Illo non es avantagiose arenar se con le accordatura fin del regulas de segmentation in iste grado; le regulas basic que es supplite operara adequatemente pro le fines de demonstration, mesmo pro un lingua (de origine) differente, a condition que le regulas de punctuation del phrases esserea largemente simile (i.e., que tu non usa le regulas de segmentation japonese si tu va traducer ex italiano).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19005,8 +19005,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Pick the one for the language of your source text (e.g., Italian, "IT.*"), and use "Move Up" to move it to the top of the list.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T110459Z">
-        <seg>Que tu collige le lingua de tu texto fontal (p.e., interlingua, "IA.*"), e usa "Move in alto" pro lo mover in le summitate de le lista.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T154757Z">
+        <seg>Collige le lingua de tu texto original (p.e., interlingua, "IA.*"), e usa "Move in alto" pro mover lo in le summitate del lista.</seg>
       </tuv>
     </tu>
     <tu>
