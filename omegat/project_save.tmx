@@ -5009,8 +5009,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A search function scans previously translated material (either in the present document or in a translation memory), so that the user can see how a word or phrase was previously translated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T143252Z">
-        <seg>Un function de recerca scruta le textos rendite anteriormente (sia in le documento actual, sia in le eventual memorias de traduction importate ex precedente traductiones), de maniera que le usator pote vider como un parola o un phrase esseva rendite anteriormente.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T152613Z">
+        <seg>Un function de recerca scruta le textos rendite anteriormente (sia in le documento actual, sia in le eventual memorias ex traductiones precedente), de maniera que le usator pote vider como un parola o un phrase esseva rendite anteriormente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5025,8 +5025,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A segmentation function displays one "segment" of source text at a time (usually a sentence), and the translation is done with the source text on the screen next to the target text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T200610Z">
-        <seg>Un function de segmentation expone un  "segmento" del texto primari a un vice (de costume un phrase), e le traduction es rendite con le texto primari sur le schermo juxta le texto final.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T152658Z">
+        <seg>Un function de segmentation expone un  "segmento" del texto primari a un vice (de costume un phrase), e le traduction es rendite con le texto original sur le schermo juxta le texto final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7001,8 +7001,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T200816Z">
-        <seg>Le instrumentos CAT permitte major consistentia de traduction, etsi plure traductores opera pro un projecto.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T152749Z">
+        <seg>Le applicationes CAT permitte major consistentia de traduction, etsi plure traductores collabora pro un mesme projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10731,8 +10731,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Finally, CAT tools reproduce the formatting of the source document.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T200822Z">
-        <seg>Finalmente, le instrumentos CAT representa le formato del documento primari.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T152804Z">
+        <seg>Finalmente, le instrumentos CAT representa le formato del documento original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25682,8 +25682,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is very useful for 1) making sure you don't skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T200646Z">
-        <seg>Isto es multo utile pro 1) tranquillisar se de non omitter texto; 2) controlar tu opera; e 3) poner ambe le texto lo primari e lo final in un fonte e un dimension commode.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T152711Z">
+        <seg>Isto es multo utile pro 1) tranquillisar se de non omitter texto; 2) controlar tu opera; e 3) poner ambe le textos lo primari e lo final in un fonte e un dimension commode.</seg>
       </tuv>
     </tu>
     <tu>
