@@ -3529,8 +3529,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130331T212721Z">
-        <seg>&lt;f0&gt;Que tu non cambia necun preparationes, pro le fines de iste parve instruction.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T155059Z">
+        <seg>&lt;f0&gt;Non cambia necun preparationes, pro le fines de iste parve instruction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9083,8 +9083,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Do not click on &lt;/f0&gt;&lt;f1&gt;"Browse" or otherwise change the default locations of the project folders &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;You have now created an empty project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130331T212920Z">
-        <seg>Que tu non clicca sur &lt;/f0&gt;&lt;f1&gt;"Browse" o de altere maniera tu  cambiara le locationes jam arrangiate del plicas &lt;/f1&gt;&lt;f2&gt;(directories)&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;del projecto.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T155317Z">
+        <seg>Non clicca sur &lt;/f0&gt;&lt;f1&gt;"Browse" o tu cambiara le locationes jam arrangiate del plicas &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tu ora ha create un projecto vacue.</seg>
       </tuv>
     </tu>
     <tu>
