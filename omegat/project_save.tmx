@@ -5359,6 +5359,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161319Z">
+        <seg>Postquam tu ha denominate tu projecto, se displicara le dialogo 'Crea nove projecto ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the Create New Project dialog will open.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101616Z">
@@ -10805,6 +10813,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220345Z">
         <seg>Fixa toto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T161231Z">
+        <seg>Exporta Flash XML (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
