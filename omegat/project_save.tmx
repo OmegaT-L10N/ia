@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4905,8 +4905,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T200236Z">
-        <seg>Un instrumento CAT, como le termino es generalmente utilisate ab le traductores, se refere a un programma que crea, ex un documento rendite, un  "memoria de traduction" (TM) que pote deinde servir pro facilitar le traduction de futur documentos con significative similaritate con le textos primari</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T150911Z">
+        <seg>Instrumento CAT, como le termino es generalmente utilisate ab le traductores, se refere a un programma que crea, ex un documento rendite, un  "memoria de traduction" (TM) que pote deinde servir pro facilitar le traduction de futur documentos con significative similaritate con le textos primari</seg>
       </tuv>
     </tu>
     <tu>
@@ -28334,8 +28334,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>What is a CAT tool and why are they useful?</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T143150Z">
-        <seg>Quod es un instrumento CAT e proque illos es utile?.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T150920Z">
+        <seg>Quod es un application CAT e proque illo es utile?.</seg>
       </tuv>
     </tu>
     <tu>
