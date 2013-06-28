@@ -5681,8 +5681,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can "walk" through it with the source and target versions of each sentence displayed next to each other.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T220102Z">
-        <seg>un avantage probabilemente commun a omne le applicationes de memoria de traduction es que illos simplifica le controlo: un vice que tu ha completate le prime minuta de tu  traduction, tu pote "ambular" a transverso de illo con le version fonte e lo final de cata phrase exponite le un proxime al altere.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T160919Z">
+        <seg>Un avantage probabilemente commun a omne le applicationes de memoria de traduction es que illos simplifica le controlo: un vice que tu ha completate le prime minuta de tu traduction, tu pote "ambular" a transverso de illo con le version original e lo final de cata phrase exponite le un proxime al altere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10123,8 +10123,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Eventually, you will reach the end of the file you are translating.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T234340Z">
-        <seg>Eventualmente, tu adir al fin del file que tu rende.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T160714Z">
+        <seg>Eventualmente, tu adira al fin del file que tu rende.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13047,8 +13047,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If your project contains more than one file for translation, confirming the last segment in the first file will take you to the topmost segment in the second file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T220811Z">
-        <seg>Si tu projecto contine plure files pro le traduction, si tu confirma le ultime segmento in le prime file tu vadera al summe segmento in le secundo file.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T160731Z">
+        <seg>Si tu projecto contine plure files pro le traduction, si tu confirma le ultime segmento in le prime file tu vadera al prime segmento in le secundo file.</seg>
       </tuv>
     </tu>
     <tu>
