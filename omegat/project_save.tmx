@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>"&lt;a0&gt;" and "&lt;/a0&gt;" do not necessarily indicate the beginning and end of bold text, however; if the word "that" were in italics in the source text rather than bold, the tags would be the same.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T154629Z">
-        <seg>Comocunque "&lt;a0&gt;" e "&lt;/a0&gt;" non indica necessarimente le initio e le fin del texto nigrato; Si le parola "that" esseva in italico in le texto primari plus tosto que nigrato, le tags esserea le mesme.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T160446Z">
+        <seg>Comocunque "&lt;a0&gt;" e "&lt;/a0&gt;" non indica necessarimente le initio e le fin del texto nigrato; Si le parola "that" esseva in italico in le texto primari plus tosto que nigrato, le tags esserea identic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18789,8 +18789,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Otherwise, you may risk corrupting your final document and preventing it from being opened.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T220415Z">
-        <seg>Alias, tu pote hasardar de corrumper tu documento final e impedir que on pote lo aperir.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T160631Z">
+        <seg>Alias, tu pote hasardar de corrumper tu documento final e impedir que on pote aperir lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27454,8 +27454,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Until you are familiar with tag handling, it is best to retain all the tags and to keep them in the same order if at all possible.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T214750Z">
-        <seg>Usque tu es familiar con le tractamento del tag, il es le melior retener omne le tags e los servar in le mesme ordine del toto, si possibile.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T160557Z">
+        <seg>Usque tu es familiar con le tractamento del tag, il es le melior cosa retener omne le tags e servar los in le mesme ordine del toto, si possibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28710,8 +28710,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>With less heavily tagged text, you can delete the content of the target text field and simply type in the translation, or you can instruct OmegaT to leave it blank by default (refer to the User's Manual for details).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T141412Z">
-        <seg>Con  texto minus gravate ab tags, tu pote deler le contento del campo del texto final e  simplemente inscriber le traduction, o tu pote maestrar OmegaT a lo lassar ordinarimente blanco (Que tu agrada referer al Manual del Usator pro le detalios).</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130628T160409Z">
+        <seg>Con  texto minus gravate ab tags, tu pote deler le contento del campo del texto final e inscriber simplemente le traduction, o tu pote maestrar OmegaT a lo lassar ordinarimente blanco (Refere al Manual del Usator pro le detalios).</seg>
       </tuv>
     </tu>
     <tu>
