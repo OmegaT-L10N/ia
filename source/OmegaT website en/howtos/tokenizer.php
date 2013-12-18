@@ -32,6 +32,10 @@
 
 <h2>OmegaT HowTo: Using the OmegaT tokenizer</h2>
 
+<p><strong>The tokenizer plug-in was integrated into OmegaT in version 3.0.0. The following information is therefore applicable only if you are using a version of OmegaT earlier than 3.0.0.<br/>
+
+If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</strong></p>
+
 <p>The OmegaT tokenizer is a plugin for OmegaT. It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words. For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</p>
 
 <h3>Preparation</h3>
