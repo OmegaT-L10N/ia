@@ -1328,6 +1328,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Here XYZ stands for a specific section name mentioned below, such as "Acknowledgements," "Dedications," "Endorsements," or "History.") To "Preserve the Title" of such a section when you modify the Document means that it remains a section "Entitled XYZ" according to this definition.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065024Z" creationid="MELO" creationdate="20131219T065024Z">
+        <seg>(Here XYZ stands for a specific section name mentioned below, such as "Acknowledgements," "Dedications," "Endorsements," or "History.") To "Preserve the Title" of such a section when you modify the Document means that it remains a section "Entitled XYZ" according to this definition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T180034Z">
@@ -1504,6 +1512,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T220243Z">
         <seg>(Isto a proposito es un limitation de Java, non de OmegaT ipse.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065005Z" creationid="MELO" creationdate="20131219T065005Z">
+        <seg>(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2740,6 +2756,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065141Z" creationid="MELO" creationdate="20131219T065141Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2 letters (e.g. JA for Japanese), or</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T043052Z">
@@ -3937,6 +3961,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064925Z" creationid="MELO" creationdate="20131219T064925Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br11/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150541Z">
@@ -4937,10 +4969,74 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A.&lt;/f0&gt; Use in the Title Page (and on the covers, if any) a title distinct from that of the Document, and from those of previous versions (which should, if there were any, be listed in the History section of the Document).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065046Z" creationid="MELO" creationdate="20131219T065046Z">
+        <seg>&lt;f0&gt;A.&lt;/f0&gt; Use in the Title Page (and on the covers, if any) a title distinct from that of the Document, and from those of previous versions (which should, if there were any, be listed in the History section of the Document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;B.&lt;/f0&gt; List on the Title Page, as authors, one or more persons or entities responsible for authorship of the modifications in the Modified Version, together with at least five of the principal authors of the Document (all of its principal authors, if it has fewer than five), unless they release you from this requirement.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065048Z" creationid="MELO" creationdate="20131219T065048Z">
+        <seg>&lt;f0&gt;B.&lt;/f0&gt; List on the Title Page, as authors, one or more persons or entities responsible for authorship of the modifications in the Modified Version, together with at least five of the principal authors of the Document (all of its principal authors, if it has fewer than five), unless they release you from this requirement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;C.&lt;/f0&gt; State on the Title page the name of the publisher of the Modified Version, as the publisher.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065049Z" creationid="MELO" creationdate="20131219T065049Z">
+        <seg>&lt;f0&gt;C.&lt;/f0&gt; State on the Title page the name of the publisher of the Modified Version, as the publisher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;D.&lt;/f0&gt; Preserve all the copyright notices of the Document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065050Z" creationid="MELO" creationdate="20131219T065050Z">
+        <seg>&lt;f0&gt;D.&lt;/f0&gt; Preserve all the copyright notices of the Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T155059Z">
         <seg>&lt;f0&gt;Non cambia necun preparationes, pro le fines de iste parve instruction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;E.&lt;/f0&gt; Add an appropriate copyright notice for your modifications adjacent to the other copyright notices.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065050Z" creationid="MELO" creationdate="20131219T065050Z">
+        <seg>&lt;f0&gt;E.&lt;/f0&gt; Add an appropriate copyright notice for your modifications adjacent to the other copyright notices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;F.&lt;/f0&gt; Include, immediately after the copyright notices, a license notice giving the public permission to use the Modified Version under the terms of this License, in the form shown in the Addendum below.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065051Z" creationid="MELO" creationdate="20131219T065051Z">
+        <seg>&lt;f0&gt;F.&lt;/f0&gt; Include, immediately after the copyright notices, a license notice giving the public permission to use the Modified Version under the terms of this License, in the form shown in the Addendum below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;G.&lt;/f0&gt; Preserve in that license notice the full lists of Invariant Sections and required Cover Texts given in the Document's license notice.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065052Z" creationid="MELO" creationdate="20131219T065052Z">
+        <seg>&lt;f0&gt;G.&lt;/f0&gt; Preserve in that license notice the full lists of Invariant Sections and required Cover Texts given in the Document's license notice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;H.&lt;/f0&gt; Include an unaltered copy of this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065053Z" creationid="MELO" creationdate="20131219T065053Z">
+        <seg>&lt;f0&gt;H.&lt;/f0&gt; Include an unaltered copy of this License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4953,6 +5049,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;I.&lt;/f0&gt; Preserve the section Entitled "History," Preserve its Title, and add to it an item stating at least the title, year, new authors, and publisher of the Modified Version as given on the Title Page.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065053Z" creationid="MELO" creationdate="20131219T065053Z">
+        <seg>&lt;f0&gt;I.&lt;/f0&gt; Preserve the section Entitled "History," Preserve its Title, and add to it an item stating at least the title, year, new authors, and publisher of the Modified Version as given on the Title Page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Important:&lt;/f0&gt; the purpose of this introduction to OmegaT is to acquaint you with the basic concepts of translation memory software.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T152912Z">
@@ -4961,10 +5065,58 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;J.&lt;/f0&gt; Preserve the network location, if any, given in the Document for &lt;t1/&gt;public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065056Z" creationid="MELO" creationdate="20131219T065056Z">
+        <seg>&lt;f0&gt;J.&lt;/f0&gt; Preserve the network location, if any, given in the Document for &lt;t1/&gt;public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;K.&lt;/f0&gt; For any section Entitled "Acknowledgements" or "Dedications," Preserve the Title of the section, and preserve in the section all the substance and tone of each of the contributor acknowledgements and/or dedications given therein.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065058Z" creationid="MELO" creationdate="20131219T065058Z">
+        <seg>&lt;f0&gt;K.&lt;/f0&gt; For any section Entitled "Acknowledgements" or "Dedications," Preserve the Title of the section, and preserve in the section all the substance and tone of each of the contributor acknowledgements and/or dedications given therein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;L.&lt;/f0&gt; Preserve all the Invariant Sections of the Document, unaltered in their text and in their titles.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065059Z" creationid="MELO" creationdate="20131219T065059Z">
+        <seg>&lt;f0&gt;L.&lt;/f0&gt; Preserve all the Invariant Sections of the Document, unaltered in their text and in their titles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;M.&lt;/f0&gt; Delete any section Entitled "Endorsements." Such a section may not be included in the Modified Version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065101Z" creationid="MELO" creationdate="20131219T065101Z">
+        <seg>&lt;f0&gt;M.&lt;/f0&gt; Delete any section Entitled "Endorsements." Such a section may not be included in the Modified Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;N.&lt;/f0&gt; Do not retitle any existing section to be Entitled "Endorsements" or to conflict in title with any Invariant Section.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065101Z" creationid="MELO" creationdate="20131219T065101Z">
+        <seg>&lt;f0&gt;N.&lt;/f0&gt; Do not retitle any existing section to be Entitled "Endorsements" or to conflict in title with any Invariant Section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Note: Damaged or missing tags in XML file formats, such as OpenOffice.org, are likely to result in the output file failing to open at all.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T233927Z">
         <seg>&lt;f0&gt;Note: le tags damnificate o mancante in le formatos del file XML, assi como in OpenOffice.org, probabilemente resultara in defecto de aperir le file de output.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;O.&lt;/f0&gt; Preserve any Warranty Disclaimers.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065102Z" creationid="MELO" creationdate="20131219T065102Z">
+        <seg>&lt;f0&gt;O.&lt;/f0&gt; Preserve any Warranty Disclaimers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7801,6 +7953,30 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065003Z" creationid="MELO" creationdate="20131219T065003Z">
+        <seg>A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065004Z" creationid="MELO" creationdate="20131219T065004Z">
+        <seg>A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065012Z" creationid="MELO" creationdate="20131219T065012Z">
+        <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "project" is usually synonymous with a translation job.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T105327Z">
@@ -7849,6 +8025,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065011Z" creationid="MELO" creationdate="20131219T065011Z">
+        <seg>A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T065557Z">
@@ -7865,10 +8049,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A compilation of the Document or its derivatives with other separate and independent documents or works, in or on a volume of a storage or distribution medium, is called an "aggregate" if the copyright resulting from the compilation is not used to limit the legal rights of the compilation's users beyond what the individual works permit.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065114Z" creationid="MELO" creationdate="20131219T065114Z">
+        <seg>A compilation of the Document or its derivatives with other separate and independent documents or works, in or on a volume of a storage or distribution medium, is called an "aggregate" if the copyright resulting from the compilation is not used to limit the legal rights of the compilation's users beyond what the individual works permit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130505T082855Z">
         <seg>Un comprehensive suite de utilitates pro preparar le files al traduction in un instrumento CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065014Z" creationid="MELO" creationdate="20131219T065014Z">
+        <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7893,6 +8093,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T062959Z" creationid="MELO" creationdate="20131219T062959Z">
         <seg>A copy of the license is included in the section entitled "GNU Free Documentation License."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A copy that is not "Transparent" is called "Opaque."</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065016Z" creationid="MELO" creationdate="20131219T065016Z">
+        <seg>A copy that is not "Transparent" is called "Opaque."</seg>
       </tuv>
     </tu>
     <tu>
@@ -8069,6 +8277,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T152613Z">
         <seg>Un function de recerca scruta le textos rendite anteriormente (sia in le documento actual, sia in le eventual memorias ex traductiones precedente), de maniera que le usator pote vider como un parola o un phrase esseva rendite anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A section "Entitled XYZ" means a named subunit of the Document whose title either is precisely XYZ or contains XYZ in parentheses following text that translates XYZ in another language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065023Z" creationid="MELO" creationdate="20131219T065023Z">
+        <seg>A section "Entitled XYZ" means a named subunit of the Document whose title either is precisely XYZ or contains XYZ in parentheses following text that translates XYZ in another language.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9173,6 +9389,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065015Z" creationid="MELO" creationdate="20131219T065015Z">
+        <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T090426Z">
@@ -9345,6 +9569,22 @@ Le file TMX non essera cargate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T205951Z">
         <seg>Cata character extra a, b, o c (negation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any member of the public is a licensee, and is addressed as "you." You accept the &lt;t0/&gt;license if you copy, modify or distribute the work in a way requiring permission under copyright law.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065002Z" creationid="MELO" creationdate="20131219T065002Z">
+        <seg>Any member of the public is a licensee, and is addressed as "you." You accept the &lt;t0/&gt;license if you copy, modify or distribute the work in a way requiring permission under copyright law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065124Z" creationid="MELO" creationdate="20131219T065124Z">
+        <seg>Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10409,6 +10649,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both covers must also clearly and legibly identify you as the publisher of these copies.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065035Z" creationid="MELO" creationdate="20131219T065035Z">
+        <seg>Both covers must also clearly and legibly identify you as the publisher of these copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both search types support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095102Z">
@@ -10581,6 +10829,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T222236Z">
         <seg>ma le programmation non es le sol labor que necessita facer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064957Z" creationid="MELO" creationdate="20131219T064957Z">
+        <seg>But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12176,6 +12432,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T060643Z">
         <seg>Copiar le files manualmente ha senso si tu ha jam files dictionario convenibile in tu systema, per exemplo como parte de tu installation de OpenOffice o Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copying with changes limited to the covers, as long as they preserve the title of the Document and satisfy these conditions, can be treated as verbatim copying in other respects.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065038Z" creationid="MELO" creationdate="20131219T065038Z">
+        <seg>Copying with changes limited to the covers, as long as they preserve the title of the Document and satisfy these conditions, can be treated as verbatim copying in other respects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13924,6 +14188,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065304Z" creationid="MELO" creationdate="20131219T065304Z">
+        <seg>Donationes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double click on &lt;e0&gt;OmegaT_3.n.n_Mac.zip&lt;/e0&gt; to unpack it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055510Z">
@@ -14272,6 +14544,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144741Z">
         <seg>Each version is given a distinguishing version number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each version of the License is given a distinguishing version number.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065135Z" creationid="MELO" creationdate="20131219T065135Z">
+        <seg>Each version of the License is given a distinguishing version number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15096,6 +15376,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T154319Z">
         <seg>Exemplos de lectores del tela con un function automatic de renovation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examples of suitable formats for Transparent copies include plain ASCII without markup, Texinfo input format, LaTeX input format, SGML or XML using a publicly available DTD, and standard-conforming simple HTML, PostScript or PDF designed for human modification.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065017Z" creationid="MELO" creationdate="20131219T065017Z">
+        <seg>Examples of suitable formats for Transparent copies include plain ASCII without markup, Texinfo input format, LaTeX input format, SGML or XML using a publicly available DTD, and standard-conforming simple HTML, PostScript or PDF designed for human modification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examples of transparent image formats include PNG, XCF and JPG.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065017Z" creationid="MELO" creationdate="20131219T065017Z">
+        <seg>Examples of transparent image formats include PNG, XCF and JPG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16452,6 +16748,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For works in formats which do not have &lt;t0/&gt;any title page as such, "Title Page" means the text near the most prominent appearance of the work's title, preceding the beginning of the body of the text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065022Z" creationid="MELO" creationdate="20131219T065022Z">
+        <seg>For works in formats which do not have &lt;t0/&gt;any title page as such, "Title Page" means the text near the most prominent appearance of the work's title, preceding the beginning of the body of the text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T142239Z">
@@ -17604,6 +17908,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065125Z" creationid="MELO" creationdate="20131219T065125Z">
+        <seg>However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T204047Z">
@@ -17624,6 +17936,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T125007Z">
         <seg>Comocunque le projecto pro su superviventia e su progresso, fide magis plus sur le usatores de OmegaT providente supporto in altere formas, que sur le contributiones financiari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you may accept compensation in exchange for copies.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065030Z" creationid="MELO" creationdate="20131219T065030Z">
+        <seg>However, you may accept compensation in exchange for copies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17920,6 +18240,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T071113Z">
         <seg>Si un phrase date esseva jam rendite un vece, e rendite correctemente, il non ha necessitate pro retraducer lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065007Z" creationid="MELO" creationdate="20131219T065007Z">
+        <seg>If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a section in the Document is Entitled "Acknowledgements," "Dedications," or "History," the requirement (section 4) to Preserve its Title (section 1) will typically require changing the actual title.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065122Z" creationid="MELO" creationdate="20131219T065122Z">
+        <seg>If a section in the Document is Entitled "Acknowledgements," "Dedications," or "History," the requirement (section 4) to Preserve its Title (section 1) will typically require changing the actual title.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18296,10 +18632,58 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Cover Text requirement of section 3 is applicable to these copies of the Document, then if the Document is less than one half of the entire aggregate, the Document's Cover Texts may be placed on covers that bracket the Document within the aggregate, or the electronic equivalent of covers if the Document is in electronic form.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065116Z" creationid="MELO" creationdate="20131219T065116Z">
+        <seg>If the Cover Text requirement of section 3 is applicable to these copies of the Document, then if the Document is less than one half of the entire aggregate, the Document's Cover Texts may be placed on covers that bracket the Document within the aggregate, or the electronic equivalent of covers if the Document is in electronic form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Document already includes a cover text for the same cover, previously added by you or by arrangement made by the same entity you are acting on behalf of, you may not add another; but you may replace the old one, on explicit permission from the previous publisher that added the old one.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065106Z" creationid="MELO" creationdate="20131219T065106Z">
+        <seg>If the Document already includes a cover text for the same cover, previously added by you or by arrangement made by the same entity you are acting on behalf of, you may not add another; but you may replace the old one, on explicit permission from the previous publisher that added the old one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Document does not identify any Invariant Sections then there are none.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065009Z" creationid="MELO" creationdate="20131219T065009Z">
+        <seg>If the Document does not identify any Invariant Sections then there are none.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Document does not specify a version number of this License, you may choose any version ever published (not as a draft) by the Free Software Foundation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065138Z" creationid="MELO" creationdate="20131219T065138Z">
+        <seg>If the Document does not specify a version number of this License, you may choose any version ever published (not as a draft) by the Free Software Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065136Z" creationid="MELO" creationdate="20131219T065136Z">
+        <seg>If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T102419Z">
         <seg>Si le quadro de Modifica es vacue, le idioma de tu installation Windows non es probabilemente anglese e OmegaT non ha le parve instruction pro le comenciamento instantanee in tu lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Modified Version includes new front-matter sections or appendices that qualify as Secondary Sections and contain no material copied from the Document, you may at your option designate some or all of these sections as invariant.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065103Z" creationid="MELO" creationdate="20131219T065103Z">
+        <seg>If the Modified Version includes new front-matter sections or appendices that qualify as Secondary Sections and contain no material copied from the Document, you may at your option designate some or all of these sections as invariant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18448,6 +18832,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the required texts for either cover are too voluminous to fit legibly, you should put the first ones listed (as many as fit reasonably) on the actual cover, and continue the rest onto adjacent pages.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065038Z" creationid="MELO" creationdate="20131219T065038Z">
+        <seg>If the required texts for either cover are too voluminous to fit legibly, you should put the first ones listed (as many as fit reasonably) on the actual cover, and continue the rest onto adjacent pages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T090950Z">
@@ -18496,10 +18888,26 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are multiple Invariant Sections with the same name but different contents, make the title of each such section unique by adding at the end of it, in parentheses, the name of the original author or publisher of that section if known, or else a unique number.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065110Z" creationid="MELO" creationdate="20131219T065110Z">
+        <seg>If there are multiple Invariant Sections with the same name but different contents, make the title of each such section unique by adding at the end of it, in parentheses, the name of the original author or publisher of that section if known, or else a unique number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T214301Z">
         <seg>Si il habe altere files nominate test.html in altere plicas, illos essera ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there is no section Entitled "History" in the Document, create one stating the title, year, authors, and publisher of the Document as given on its Title Page, then add an item describing the Modified Version as stated in the previous sentence.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065054Z" creationid="MELO" creationdate="20131219T065054Z">
+        <seg>If there is no section Entitled "History" in the Document, create one stating the title, year, authors, and publisher of the Document as given on its Title Page, then add an item describing the Modified Version as stated in the previous sentence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18840,6 +19248,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you distribute a large enough number of copies you must also follow the conditions in section 3.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065031Z" creationid="MELO" creationdate="20131219T065031Z">
+        <seg>If you distribute a large enough number of copies you must also follow the conditions in section 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T190454Z">
@@ -18924,6 +19340,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T170151Z">
         <seg>Si tu ha un systema de tractamento del terminologia - per exemplo MultiTerm  - il es assatis eventual que illo offere le exportation del datos terminologic con le formato TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a donation, go to the &lt;a0&gt;OmegaT SourceForge page&lt;/a0&gt; and click on "Donate".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065722Z" creationid="MELO" creationdate="20131219T065722Z">
+        <seg>Si tu ha trovate OmegaT utile e amarea exprimer tu gratitude per un donation, va al &lt;a0&gt;pagina OmegaT SourceForge&lt;/a0&gt; e clicca super "Dona".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19104,6 +19528,22 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you publish or distribute Opaque copies of the Document numbering more than 100, you must either include a machine-readable Transparent copy along with each Opaque copy, or state in or with each Opaque copy a computer-&lt;t0/&gt;network location from which the general network-using public has access to download using public-standard network protocols a complete Transparent copy of the Document, free of added material.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065039Z" creationid="MELO" creationdate="20131219T065039Z">
+        <seg>If you publish or distribute Opaque copies of the Document numbering more than 100, you must either include a machine-readable Transparent copy along with each Opaque copy, or state in or with each Opaque copy a computer-&lt;t0/&gt;network location from which the general network-using public has access to download using public-standard network protocols a complete Transparent copy of the Document, free of added material.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you publish printed copies (or copies in media that commonly have printed covers) of the Document, numbering more than 100, and the Document's license notice requires Cover Texts, you must enclose the copies in covers that carry, clearly and legibly, all these Cover Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on the back cover.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065034Z" creationid="MELO" creationdate="20131219T065034Z">
+        <seg>If you publish printed copies (or copies in media that commonly have printed covers) of the Document, numbering more than 100, and the Document's license notice requires Cover Texts, you must enclose the copies in covers that carry, clearly and legibly, all these Cover Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on the back cover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) and the &lt;e10&gt;GoTo segment&lt;/e10&gt; functions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T135637Z">
@@ -19132,6 +19572,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T110917Z">
         <seg>Si tu usara OmegaT per alcun tempore in le futuro, alora tu volera accostumar le regulas de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065040Z" creationid="MELO" creationdate="20131219T065040Z">
+        <seg>If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19536,6 +19984,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, you must do these things in the Modified Version:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065045Z" creationid="MELO" creationdate="20131219T065045Z">
+        <seg>In addition, you must do these things in the Modified Version:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In all other cases no tag validation is done.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T104925Z">
@@ -19588,6 +20044,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T161008Z">
         <seg>In caso de files PO, es applicate un penalitate del 20% al traduction alternative (id es, un concordantia del 100% deveni un concordantia del 80%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case of a disagreement between the translation and the original version of this License or a notice or disclaimer, the original version will prevail.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065121Z" creationid="MELO" creationdate="20131219T065121Z">
+        <seg>In case of a disagreement between the translation and the original version of this License or a notice or disclaimer, the original version will prevail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19916,6 +20380,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T103411Z">
         <seg>In le caso de OmegaT, le fonte es exponite supra le texto final del segmento active, assi que on facilita le &lt;t0/&gt;comparation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the combination, you must combine any sections Entitled "History" in the various original documents, forming one section Entitled "History"; likewise combine any sections Entitled "Acknowledgements," and any sections Entitled "Dedications." You must delete all sections Entitled "Endorsements."</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065111Z" creationid="MELO" creationdate="20131219T065111Z">
+        <seg>In the combination, you must combine any sections Entitled "History" in the various original documents, forming one section Entitled "History"; likewise combine any sections Entitled "Acknowledgements," and any sections Entitled "Dedications." You must delete all sections Entitled "Endorsements."</seg>
       </tuv>
     </tu>
     <tu>
@@ -20816,6 +21288,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064955Z" creationid="MELO" creationdate="20131219T064955Z">
+        <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains a number of translation memory files (with the extension .tmx) and OmegaT glossary files (with the extension .txt).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T210904Z">
@@ -21060,6 +21540,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T124812Z">
         <seg>Illo es fornite como file comprimite (archivo zip o tar) que tu debe extraher al plica de tu election pro le installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is requested, but not required, that you contact the authors of the Document well before redistributing any large number of copies, to give them a chance to provide you with an updated version of the Document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065041Z" creationid="MELO" creationdate="20131219T065041Z">
+        <seg>It is requested, but not required, that you contact the authors of the Document well before redistributing any large number of copies, to give them a chance to provide you with an updated version of the Document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22910,6 +23398,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T162914Z">
         <seg>Assecura te de discargar le integre pagina TTT, graphicos includite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the same adjustment to the section titles in the list of Invariant Sections in the license notice of the combined work.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065110Z" creationid="MELO" creationdate="20131219T065110Z">
+        <seg>Make the same adjustment to the section titles in the list of Invariant Sections in the license notice of the combined work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25782,6 +26278,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065812Z" creationid="MELO" creationdate="20131219T065812Z">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports all current versions of TMX, but is likely to deliver better match results if the TMX file is version 1.4b.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T213035Z">
@@ -26518,6 +27022,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only one passage of Front-Cover Text and one of Back-Cover Text may be added by (or through arrangements made by) any one entity.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065106Z" creationid="MELO" creationdate="20131219T065106Z">
+        <seg>Only one passage of Front-Cover Text and one of Back-Cover Text may be added by (or through arrangements made by) any one entity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T142045Z">
@@ -26546,6 +27058,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094726Z">
         <seg>Sol quando tu es secur que tu es le prime que ha discoperte alicun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opaque formats include proprietary formats that can be read and edited only by proprietary word processors, SGML or XML for which the DTD and/or processing tools are not generally available, and the machine-generated HTML, PostScript or PDF produced by some word processors for output purposes only.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065020Z" creationid="MELO" creationdate="20131219T065020Z">
+        <seg>Opaque formats include proprietary formats that can be read and edited only by proprietary word processors, SGML or XML for which the DTD and/or processing tools are not generally available, and the machine-generated HTML, PostScript or PDF produced by some word processors for output purposes only.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27002,6 +27522,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102824Z">
         <seg>Altere fenestras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise they must appear on printed covers that bracket the whole aggregate.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065117Z" creationid="MELO" creationdate="20131219T065117Z">
+        <seg>Otherwise they must appear on printed covers that bracket the whole aggregate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29087,6 +29615,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replacing Invariant Sections with translations requires special permission from their copyright holders, but you may include translations of some or all Invariant Sections in addition to the original versions of these Invariant Sections.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065120Z" creationid="MELO" creationdate="20131219T065120Z">
+        <seg>Replacing Invariant Sections with translations requires special permission from their copyright holders, but you may include translations of some or all Invariant Sections in addition to the original versions of these Invariant Sections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Type:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095529Z">
@@ -30111,10 +30647,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064952Z" creationid="MELO" creationdate="20131219T064952Z">
+        <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Seconds:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095540Z">
         <seg>Secundas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Section numbers or the equivalent are not considered part of the section titles.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065100Z" creationid="MELO" creationdate="20131219T065100Z">
+        <seg>Section numbers or the equivalent are not considered part of the section titles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30131,6 +30683,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094749Z">
         <seg>Vide le "Capitulo 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;a0&gt;http://www.gnu.org/copyleft/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065133Z" creationid="MELO" creationdate="20131219T065133Z">
+        <seg>See &lt;a0&gt;http://www.gnu.org/copyleft/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32119,6 +32679,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065000Z" creationid="MELO" creationdate="20131219T065000Z">
+        <seg>Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such auxiliary code has already been written in Star Basic and Tcl/Tk, for instance.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T125850Z">
@@ -32155,6 +32723,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T073459Z">
         <seg>Iste modificationes es possibile in files ODF per exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065130Z" creationid="MELO" creationdate="20131219T065130Z">
+        <seg>Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33073,10 +33651,34 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065010Z" creationid="MELO" creationdate="20131219T065010Z">
+        <seg>The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Create New Project" dialog appears.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T105858Z">
         <seg>Le fenestra de dialogo “Crea un nove projecto” compare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Document," below, refers to any such manual or work.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065001Z" creationid="MELO" creationdate="20131219T065001Z">
+        <seg>The "Document," below, refers to any such manual or work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065006Z" creationid="MELO" creationdate="20131219T065006Z">
+        <seg>The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33109,6 +33711,14 @@ vice essera usate le classificator actual.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T083615Z">
         <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pressa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del  combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Title Page" means, for a printed book, the title page itself, plus such following pages as are needed to hold, legibly, the material this License requires to appear in the title page.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065021Z" creationid="MELO" creationdate="20131219T065021Z">
+        <seg>The "Title Page" means, for a printed book, the title page itself, plus such following pages as are needed to hold, legibly, the material this License requires to appear in the title page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33321,6 +33931,22 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Document may contain zero Invariant Sections.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065008Z" creationid="MELO" creationdate="20131219T065008Z">
+        <seg>The Document may contain zero Invariant Sections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Document may include Warranty Disclaimers next to the notice which states that this License applies to the Document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065025Z" creationid="MELO" creationdate="20131219T065025Z">
+        <seg>The Document may include Warranty Disclaimers next to the notice which states that this License applies to the Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T055038Z">
@@ -33365,6 +33991,14 @@ vice essera usate le classificator actual.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T124321Z">
         <seg>Le Tokenizers anglese (org.omegat.tokenizer.SnowballEnglishTokenizer and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Free Software Foundation may publish new, revised versions of the GNU Free Documentation License from time to time.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065126Z" creationid="MELO" creationdate="20131219T065126Z">
+        <seg>The Free Software Foundation may publish new, revised versions of the GNU Free Documentation License from time to time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33827,6 +34461,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The author(s) and publisher(s) of the Document do not by this License give permission to use their names for publicity for or to assert or imply endorsement of any Modified Version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065107Z" creationid="MELO" creationdate="20131219T065107Z">
+        <seg>The author(s) and publisher(s) of the Document do not by this License give permission to use their names for publicity for or to assert or imply endorsement of any Modified Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The automatic refresh function is built in.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T154603Z">
@@ -34007,6 +34649,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T154013Z">
         <seg>Le traduction de equipa (facite in collaboration) offerite ab OmegaT es basate super le 'functionalitate de version' o le 'Controlo de revision', largemente utilisate ab le communitate de software pro mantener le controlo del cambios al codice de un programma e permitter le collaboration sin impedimentos intra le equipa de disveloppamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The combined work need only contain one copy of this License, and multiple identical Invariant Sections may be replaced with a single copy.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065109Z" creationid="MELO" creationdate="20131219T065109Z">
+        <seg>The combined work need only contain one copy of this License, and multiple identical Invariant Sections may be replaced with a single copy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34715,6 +35365,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T140502Z">
         <seg>OmegaT, le instrumento (GPL) gratuite pro memoria de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The front cover must present the full title with all words of the title equally prominent and visible.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065036Z" creationid="MELO" creationdate="20131219T065036Z">
+        <seg>The front cover must present the full title with all words of the title equally prominent and visible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35533,6 +36191,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T125826Z">
         <seg>OmegaT in modo linea de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064950Z" creationid="MELO" creationdate="20131219T064950Z">
+        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36723,6 +37389,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These Warranty Disclaimers are considered to be included by reference in this License, but only as regards disclaiming warranties: any other implication that these Warranty Disclaimers may have is void and has no effect on the meaning of this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065027Z" creationid="MELO" creationdate="20131219T065027Z">
+        <seg>These Warranty Disclaimers are considered to be included by reference in this License, but only as regards disclaiming warranties: any other implication that these Warranty Disclaimers may have is void and has no effect on the meaning of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are the files present in the Source files folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T064956Z">
@@ -36787,6 +37461,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These may be placed in the "History" section.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065057Z" creationid="MELO" creationdate="20131219T065057Z">
+        <seg>These may be placed in the "History" section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T205840Z">
@@ -36799,6 +37481,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094943Z">
         <seg>Tres es le cosas certe:&lt;p&gt;Le morte, le impostos, la pagina non trovate.&lt;p&gt;Tu, es victima de uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These titles must be distinct from any other section titles.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065104Z" creationid="MELO" creationdate="20131219T065104Z">
+        <seg>These titles must be distinct from any other section titles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37107,10 +37797,26 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064959Z" creationid="MELO" creationdate="20131219T064959Z">
+        <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This License gives no</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144604Z">
         <seg>This License gives no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064953Z" creationid="MELO" creationdate="20131219T064953Z">
+        <seg>This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38611,6 +39317,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, add their titles to the list of Invariant Sections in the Modified Version's license notice.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065103Z" creationid="MELO" creationdate="20131219T065103Z">
+        <seg>To do this, add their titles to the list of Invariant Sections in the Modified Version's license notice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, click the main "Office" button, then Word options (bottom right of the dialog).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T111817Z">
@@ -39595,6 +40309,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation is considered a kind of modification, so you may distribute translations of the Document under the terms of section 4.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065119Z" creationid="MELO" creationdate="20131219T065119Z">
+        <seg>Translation is considered a kind of modification, so you may distribute translations of the Document under the terms of section 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094930Z">
@@ -40189,8 +40911,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Unpack the legacy.zip archive to any suitable temporary location (such as My Documents or the Desktop).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130327T213650Z">
-        <seg>Discassa le file legacy.zip in un convenibile ubication temporari (assi como Documentos o le Desktop).</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064833Z">
+        <seg>Discassa le file legacy.zip in un convenibile ubication temporari (assi como Documentos o le Scriptorio).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41311,6 +42033,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064956Z" creationid="MELO" creationdate="20131219T064956Z">
+        <seg>We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We ignore these in Project 1 only for training purposes.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T152516Z">
@@ -41323,6 +42053,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T111353Z">
         <seg>Nos supple ci duo projectos pro le auto-exercitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064958Z" creationid="MELO" creationdate="20131219T064958Z">
+        <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41515,6 +42253,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T134257Z">
         <seg>Quando initiava in modo consola, nulle GUI es cargate (assi il laborara sur omne consola) e le projecto date es processate automaticamente como requirite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Document is included in an aggregate, this License does not apply to the other works in the aggregate which are not themselves derivative works of the Document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065115Z" creationid="MELO" creationdate="20131219T065115Z">
+        <seg>When the Document is included in an aggregate, this License does not apply to the other works in the aggregate which are not themselves derivative works of the Document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43113,10 +43859,42 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may add a passage of up to five words as a Front-Cover Text, and a passage of up to 25 words as a Back-Cover Text, to the end of the list of Cover Texts in the Modified Version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065105Z" creationid="MELO" creationdate="20131219T065105Z">
+        <seg>You may add a passage of up to five words as a Front-Cover Text, and a passage of up to 25 words as a Back-Cover Text, to the end of the list of Cover Texts in the Modified Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may add a section Entitled "Endorsements," provided it contains nothing but endorsements of your Modified Version by various parties--for example, statements of peer review or that the text has been approved by an organization as the authoritative definition of a standard.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065104Z" creationid="MELO" creationdate="20131219T065104Z">
+        <seg>You may add a section Entitled "Endorsements," provided it contains nothing but endorsements of your Modified Version by various parties--for example, statements of peer review or that the text has been approved by an organization as the authoritative definition of a standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may add other material on the covers in addition.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065037Z" creationid="MELO" creationdate="20131219T065037Z">
+        <seg>You may add other material on the covers in addition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094751Z">
         <seg>Tu pote anque copiar le files in le classificator "Primari" de tu projectos per medio de tu favorite administrator de files e recargar le projecto con le commando "Recarga" ex le menu "Projecto".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also lend copies, under the same conditions stated above, and you may publicly display copies.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065033Z" creationid="MELO" creationdate="20131219T065033Z">
+        <seg>You may also lend copies, under the same conditions stated above, and you may publicly display copies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43129,10 +43907,42 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may combine the Document with other documents released under this License, under the terms defined in section 4 above for modified versions, provided that you include in the combination all of the Invariant Sections of all of the original documents, unmodified, and list them all as Invariant Sections of your combined work in its license notice, and that you preserve all their Warranty Disclaimers.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065108Z" creationid="MELO" creationdate="20131219T065108Z">
+        <seg>You may combine the Document with other documents released under this License, under the terms defined in section 4 above for modified versions, provided that you include in the combination all of the Invariant Sections of all of the original documents, unmodified, and list them all as Invariant Sections of your combined work in its license notice, and that you preserve all their Warranty Disclaimers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may copy and distribute a Modified Version of the Document under the conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065042Z" creationid="MELO" creationdate="20131219T065042Z">
+        <seg>You may copy and distribute a Modified Version of the Document under the conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may copy and distribute the Document in any medium, either commercially or noncommercially, provided that this License, the copyright notices, and the license notice saying this License applies to the Document are reproduced in all copies, and that you add no other conditions whatsoever to those of this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065028Z" creationid="MELO" creationdate="20131219T065028Z">
+        <seg>You may copy and distribute the Document in any medium, either commercially or noncommercially, provided that this License, the copyright notices, and the license notice saying this License applies to the Document are reproduced in all copies, and that you add no other conditions whatsoever to those of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T082849Z">
         <seg>Tu pote etiam considerar de remover illos que non son plus necessari, un vice que tu ha usate lor contentos pro reimpler le file &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may extract a single document from such a collection, and distribute it individually under this License, provided you insert a copy of this License into the extracted document, and follow this License in all other respects regarding verbatim copying of that document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065113Z" creationid="MELO" creationdate="20131219T065113Z">
+        <seg>You may extract a single document from such a collection, and distribute it individually under this License, provided you insert a copy of this License into the extracted document, and follow this License in all other respects regarding verbatim copying of that document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43157,6 +43967,46 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T091947Z">
         <seg>Tu pote haber plure Fenestras de Recerca aperte al mesme tempore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may include a translation of this License, and all the license notices in the Document, and any Warranty Disclaimers, provided that you also include the &lt;t0/&gt;original English version of this License and the original versions of those notices and disclaimers.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065121Z" creationid="MELO" creationdate="20131219T065121Z">
+        <seg>You may include a translation of this License, and all the license notices in the Document, and any Warranty Disclaimers, provided that you also include the &lt;t0/&gt;original English version of this License and the original versions of those notices and disclaimers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may make a collection consisting of the Document and other documents released under this License, and replace the individual copies of this License in the various documents with a single copy that is included in the collection, provided that you follow the rules of this License for verbatim copying of each of the documents in all other respects.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065112Z" creationid="MELO" creationdate="20131219T065112Z">
+        <seg>You may make a collection consisting of the Document and other documents released under this License, and replace the individual copies of this License in the various documents with a single copy that is included in the collection, provided that you follow the rules of this License for verbatim copying of each of the documents in all other respects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not copy, modify, sublicense, or distribute the Document except as expressly provided for under this License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065123Z" creationid="MELO" creationdate="20131219T065123Z">
+        <seg>You may not copy, modify, sublicense, or distribute the Document except as expressly provided for under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065029Z" creationid="MELO" creationdate="20131219T065029Z">
+        <seg>You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may omit a network location for a work that was published at least four years before the Document itself, or if the original publisher of the version it refers to gives permission.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065057Z" creationid="MELO" creationdate="20131219T065057Z">
+        <seg>You may omit a network location for a work that was published at least four years before the Document itself, or if the original publisher of the version it refers to gives permission.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43189,6 +44039,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094748Z">
         <seg>Tu pote tentar de solver hic problema in uno del manieras sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may use the same title as a previous version if the original publisher of that version gives permission.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065047Z" creationid="MELO" creationdate="20131219T065047Z">
+        <seg>You may use the same title as a previous version if the original publisher of that version gives permission.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44724,6 +45582,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>chagas</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064631Z" creationid="MELO" creationdate="20131219T064541Z">
+        <seg>maladia de Chagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>change the polling interval.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T153216Z">
@@ -45076,10 +45942,50 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Fawlty_Towers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064302Z" creationid="MELO" creationdate="20131219T064302Z">
+        <seg>de.wikipedia.org/wiki/Fawlty_Towers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>de.wikipedia.org/wiki/Hohe_Schule_(Reitsport)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T063821Z" creationid="MELO" creationdate="20131219T063821Z">
         <seg>de.wikipedia.org/wiki/Hohe_Schule_(Reitsport)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Lehrer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064314Z" creationid="MELO" creationdate="20131219T064314Z">
+        <seg>de.wikipedia.org/wiki/Lehrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Neigetechnik</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064128Z" creationid="MELO" creationdate="20131219T064128Z">
+        <seg>de.wikipedia.org/wiki/Neigetechnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Oberton</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064139Z" creationid="MELO" creationdate="20131219T064139Z">
+        <seg>de.wikipedia.org/wiki/Oberton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Psychiatrie</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064158Z" creationid="MELO" creationdate="20131219T064158Z">
+        <seg>de.wikipedia.org/wiki/Psychiatrie</seg>
       </tuv>
     </tu>
     <tu>
@@ -45784,6 +46690,54 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233758Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Bruno_Mauricio_de_Zabala</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064649Z" creationid="MELO" creationdate="20131219T064649Z">
+        <seg>es.wikipedia.org/wiki/Bruno_Mauricio_de_Zabala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Derechos_del_niño</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064701Z" creationid="MELO" creationdate="20131219T064701Z">
+        <seg>es.wikipedia.org/wiki/Derechos_del_niño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Escalada_en_hielo</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064721Z" creationid="MELO" creationdate="20131219T064721Z">
+        <seg>es.wikipedia.org/wiki/Escalada_en_hielo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Fondo_de_Naciones_Unidas_para_la_Infancia&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064653Z" creationid="MELO" creationdate="20131219T064653Z">
+        <seg>es.wikipedia.org/wiki/Fondo_de_Naciones_Unidas_para_la_Infancia&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Montevideo&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064645Z" creationid="MELO" creationdate="20131219T064645Z">
+        <seg>es.wikipedia.org/wiki/Montevideo&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Niño&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064657Z" creationid="MELO" creationdate="20131219T064657Z">
+        <seg>es.wikipedia.org/wiki/Niño&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47172,6 +48126,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>humour</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064246Z" creationid="MELO" creationdate="20131219T064246Z">
+        <seg>humor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>hun</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135809Z">
@@ -47512,6 +48474,30 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144554Z">
         <seg>it, and giving a relevant date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it.wikipedia.org/wiki/Biblioteca</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064316Z" creationid="MELO" creationdate="20131219T064316Z">
+        <seg>it.wikipedia.org/wiki/Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it.wikipedia.org/wiki/Gianni_De_Michelis&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064324Z" creationid="MELO" creationdate="20131219T064324Z">
+        <seg>it.wikipedia.org/wiki/Gianni_De_Michelis&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it.wikipedia.org/wiki/Mariano_Rumor</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064327Z" creationid="MELO" creationdate="20131219T064327Z">
+        <seg>it.wikipedia.org/wiki/Mariano_Rumor</seg>
       </tuv>
     </tu>
     <tu>
@@ -48572,6 +49558,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>music</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064135Z" creationid="MELO" creationdate="20131219T064135Z">
+        <seg>musica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>my</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T133843Z">
@@ -49452,10 +50446,26 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>psychiatry</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064154Z" creationid="MELO" creationdate="20131219T064154Z">
+        <seg>psychiatria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pt</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141403Z">
         <seg>pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pt.wikipedia.org/wiki/Doen%C3%A7a_de_Chagas</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064634Z" creationid="MELO" creationdate="20131219T064634Z">
+        <seg>pt.wikipedia.org/wiki/Doen%C3%A7a_de_Chagas</seg>
       </tuv>
     </tu>
     <tu>
@@ -49512,6 +50522,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141407Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>railways</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064125Z" creationid="MELO" creationdate="20131219T064125Z">
+        <seg>ferrovias</seg>
       </tuv>
     </tu>
     <tu>
@@ -49712,6 +50730,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T232857Z">
         <seg>ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064641Z" creationid="MELO" creationdate="20131219T064641Z">
+        <seg>ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE</seg>
       </tuv>
     </tu>
     <tu>
@@ -50460,6 +51486,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>teaching</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064309Z" creationid="MELO" creationdate="20131219T064309Z">
+        <seg>inseniamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tel</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233922Z">
@@ -51100,6 +52134,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>unicef</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064651Z" creationid="MELO" creationdate="20131219T064651Z">
+        <seg>unicef</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>unknown</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094931Z">
@@ -51504,6 +52546,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T202110Z">
         <seg>www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.omegat.org/training/materials/legacy.zip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T064757Z" creationid="MELO" creationdate="20131219T064757Z">
+        <seg>www.omegat.org/training/materials/legacy.zip</seg>
       </tuv>
     </tu>
     <tu>
