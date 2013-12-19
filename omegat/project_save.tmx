@@ -26280,8 +26280,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T065812Z" creationid="MELO" creationdate="20131219T065812Z">
-        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T065921Z" creationid="MELO" creationdate="20131219T065812Z">
+        <seg>OmegaT registra tu traductiones e propone eventual traductiones ab segmentos simile jam registrate in le files memoria de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27626,6 +27626,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T143842Z">
         <seg>Le files PO&lt;i0/&gt; pote continer ambe le textos fonte e final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO header will be skipped and left unchanged, if this option is checked.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T070120Z" creationid="MELO" creationdate="20131219T070120Z">
+        <seg>Le testa del PO essera saltate e lassate sin alteration, si es marcate iste option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35983,6 +35991,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130219T230737Z">
         <seg>LanguageTool pote esser usate pro corriger commun errores grammatical e  stilistic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T070417Z" creationid="MELO" creationdate="20131219T070417Z">
+        <seg>Le option permitte OmegaT a haber plus de importantia del specification in in le testa del file PO e usa le arrangiamento base initial por le lingua de destination seligite.</seg>
       </tuv>
     </tu>
     <tu>
