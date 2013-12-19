@@ -4705,6 +4705,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: The text, matching the regular expression, will be skipped.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T095916Z" creationid="MELO" creationdate="20131219T095916Z">
+        <seg>&lt;e0&gt;Salta le texto que concorda le expression regular&lt;/e0&gt;: le texto que concorda le expression regular essera saltate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T074248Z" creationid="MELO" creationdate="20131219T074248Z">
@@ -4716,6 +4724,14 @@ Le quantitate actual es {0}MB;</seg>
         <seg>&lt;e0&gt;Start a new paragraph on: the &lt;br&gt;&lt;/e0&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T074023Z" creationid="MELO" creationdate="20131219T074023Z">
+        <seg>&lt;e0&gt;Comencia un nove paragrapho sur: le tag HTML &lt;br&gt;&lt;/e0&gt; constituera un paragrapho pro le fines de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T095758Z" creationid="MELO" creationdate="20131219T095758Z">
         <seg>&lt;e0&gt;Comencia un nove paragrapho sur: le tag HTML &lt;br&gt;&lt;/e0&gt; constituera un paragrapho pro le fines de segmentation.</seg>
       </tuv>
     </tu>
@@ -31823,6 +31839,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T100724Z" creationid="MELO" creationdate="20131219T100724Z">
+        <seg>Simplificar le formattation original contribue assatis a reducer le numero de tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplifying the original text formatting in the source file before commencing translation greatly contributes to reducing the number of tags.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T174258Z">
@@ -36391,6 +36415,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T071428Z">
         <seg>Le regulas applicate (si ulle) dependera ex le lingua primari e final del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T100232Z" creationid="MELO" creationdate="20131219T100232Z">
+        <seg>Le dialogo pro adder un modello es le mesme que pro editar un modello particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43791,6 +43823,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T080228Z">
         <seg>Tu pote seliger qual elementos debe esser rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T100111Z" creationid="MELO" creationdate="20131219T100111Z">
+        <seg>Tu pote seliger qual del sequente elementos debe esser rendite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53191,6 +53231,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/doc_src/en/FileFilters.xml</prop>
+      <prop type="prev">Text files</prop>
+      <prop type="next">if sentence segmentation rules are active, the text will further be segmented according to the option selected here.</prop>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Paragraph segmentation on line breaks, empty lines or never&lt;/e0&gt;:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T100017Z" creationid="MELO" creationdate="20131219T100017Z">
+        <seg>&lt;e0&gt;Segmentation a paragrapho sur interruptiones de linea, lineas vacue o nunquam:&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
