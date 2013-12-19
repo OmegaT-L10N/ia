@@ -4689,6 +4689,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T074248Z" creationid="MELO" creationdate="20131219T074248Z">
+        <seg>&lt;e0&gt;Salta le texto que concorda le expression regular&lt;/e0&gt;: le texto que concorda le expression regular es saltate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on: the &lt;br&gt;&lt;/e0&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T074023Z" creationid="MELO" creationdate="20131219T074023Z">
+        <seg>&lt;e0&gt;Comencia un nove paragrapho sur: le tag HTML &lt;br&gt;&lt;/e0&gt; constituera un paragrapho pro le fines de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130508T130008Z">
@@ -35997,8 +36013,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T070417Z" creationid="MELO" creationdate="20131219T070417Z">
-        <seg>Le option permitte OmegaT a haber plus de importantia del specification in in le testa del file PO e usa le arrangiamento base initial por le lingua de destination seligite.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T073651Z" creationid="MELO" creationdate="20131219T070417Z">
+        <seg>Le option permitte a OmegaT de non curar se del specification in le testa del file PO e de usar le arrangiamento base initial por le lingua de destination seligite.</seg>
       </tuv>
     </tu>
     <tu>
