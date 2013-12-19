@@ -13020,6 +13020,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;Control key&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T104657Z" creationid="MELO46" creationdate="20131219T104657Z">
+        <seg>Ctrl es usate sur le systemas operative Windows, UNIX e simile a UNIX, con le clavieros que ha un clave &lt;k0&gt;Ctrl&lt;/k0&gt; o  &lt;k1&gt;Control&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+1</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133929Z">
@@ -53325,6 +53333,39 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T062719Z" creationid="MELO" creationdate="20131219T062719Z">
         <seg>Salta le testa del PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">The minimum is 10 seconds.</prop>
+      <prop type="next">Enter your user name and your password, if you use a proxy to access your projects.</prop>
+      <tuv lang="EN">
+        <seg>Proxy login...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T104259Z" creationid="MELO46" creationdate="20131219T104259Z">
+        <seg>Registrar se al Procurator (Proxy)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Enter your user name and your password, if you use a proxy to access your projects.</prop>
+      <prop type="next">Restores the components of the main OmegaT window to their default state.</prop>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T104311Z" creationid="MELO46" creationdate="20131219T104311Z">
+        <seg>Restaura le fenestra principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Help menu</prop>
+      <prop type="next">&lt;k0&gt;F1:&lt;/k0&gt; Opens Help browser displaying this manual in a separate window.</prop>
+      <tuv lang="EN">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T104340Z" creationid="MELO46" creationdate="20131219T104340Z">
+        <seg>Manual del Usator...</seg>
       </tuv>
     </tu>
   </body>
