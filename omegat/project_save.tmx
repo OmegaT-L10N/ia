@@ -16420,6 +16420,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T074747Z" creationid="MELO" creationdate="20131219T074747Z">
+        <seg>Per exemplo, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; Tu pote definir pares de valor-clave pro le tags que debe restar non rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T201314Z">
@@ -16640,6 +16648,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T084956Z">
         <seg>Pro le documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T074945Z" creationid="MELO" creationdate="20131219T074945Z">
+        <seg>Pro le exemplo precedente, le campo que continerea: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21564,6 +21580,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065041Z" creationid="MELO" creationdate="20131219T065041Z">
         <seg>It is requested, but not required, that you contact the authors of the Document well before redistributing any large number of copies, to give them a chance to provide you with an updated version of the Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is shown rendered red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T074426Z" creationid="MELO" creationdate="20131219T074426Z">
+        <seg>Illo es monstrate marcate rubre in le validator del tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33557,6 +33581,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095315Z">
         <seg>Segmentation del files texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text in source segment that matches is shown in italic.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T074523Z" creationid="MELO" creationdate="20131219T074523Z">
+        <seg>Le texto in le segmento fonte que concorda es monstrate in italic.</seg>
       </tuv>
     </tu>
     <tu>
