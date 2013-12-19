@@ -586,8 +586,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094746Z">
-        <seg>&amp;Edita...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T171002Z">
+        <seg>Modifica (&amp;Edit)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1395,9 +1395,9 @@ java -jar OmegaT.jar $*</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T090300Z">
-        <seg>(In le manual del usator, vide 'Files a traducer' &gt; 'Formatos del file' pro on lista del formatos de file supportate.)
-Pro adder files al projecto, clicca sur le button "Copia files primari..." in le fenestra "Files del projecto" o commanda iste action ab le menu "Projecto" e selige le files primari que tu vole copiar.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T171615Z">
+        <seg>(In le manual del usator, vide 'Files a render' &gt; 'Formatos del file' pro un lista del formatos de file supportate.)
+Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le fenestra "Files del projecto" o commanda iste action ab le menu "Projecto" e selige le files fonte que tu vole copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2817,9 +2817,10 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094749Z">
-        <seg>2) Accrescer le quantitate de memoria disponibile pro OmegaT, specificante  "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" in le 
-linea commando o in le  de script de initio de OmegaT;
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T171319Z">
+        <seg>2) Accrescer le quantitate de memoria disponibile pro OmegaT, specificante  
+"java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" sur le linea commando 
+o in le script de initio de OmegaT;
 Le quantitate actual es {0}MB;</seg>
       </tuv>
     </tu>
@@ -13440,8 +13441,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094750Z">
-        <seg>Le uso actual de memoria usage per le VM es: {0}MB; del qual memoria libere: {1}MB; maximal disponibile: {2}MB;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T171448Z">
+        <seg>Le uso actual de memoria per le Memoria Virtual es: {0}MB; del qual, memoria libere: {1}MB; maximal disponibile: {2}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13474,6 +13475,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150915Z">
         <seg>Customer ID&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170825Z" creationid="MELO46" creationdate="20131219T170825Z">
+        <seg>Personalisa le tabella del character</seg>
       </tuv>
     </tu>
     <tu>
@@ -21276,8 +21285,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094749Z">
-        <seg>installar e executar OmegaT"  in le manual del usuario.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T171337Z">
+        <seg>installar e executar OmegaT"  in le manual del usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53684,12 +53693,32 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">ERROR_TITLE</prop>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T171109Z" creationid="MELO46" creationdate="20131219T171109Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">TF_MENU_FILE_SINGLE_COMPILE</prop>
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162050Z" creationid="MELO46" creationdate="20131219T162050Z">
         <seg>Crea le &amp;Documento Rendite Actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">version-template</prop>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170924Z" creationid="MELO46" creationdate="20131219T170924Z">
+        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
   </body>
