@@ -680,6 +680,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags (applies to 3.x filter only)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165036Z" creationid="MELO46" creationdate="20131219T165036Z">
+        <seg>&amp;Fortia via breve a "f" pro le tags &lt;it pos="end"&gt; (refere sol a filtro 3.x )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094847Z">
@@ -12004,6 +12012,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165139Z" creationid="MELO46" creationdate="20131219T165139Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CodeZapper macro</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T083819Z">
@@ -15156,6 +15174,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165339Z" creationid="MELO46" creationdate="20131219T165339Z">
+        <seg>Le entratas del glossario scribibile son in nigrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries with modified tags</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T121632Z">
@@ -15208,6 +15234,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095339Z">
         <seg>Error de decodification del usuario e contrasigno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165612Z" creationid="MELO46" creationdate="20131219T165612Z">
+        <seg>Error in le extraction del Traduction Automatic ex MyMemory, responsa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22050,6 +22084,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T164840Z" creationid="MELO46" creationdate="20131219T164840Z">
+        <seg>Jar usate por plugins: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T043600Z">
@@ -24542,6 +24584,22 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T211056Z">
         <seg>MyMemory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165404Z" creationid="MELO46" creationdate="20131219T165404Z">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165424Z" creationid="MELO46" creationdate="20131219T165424Z">
+        <seg>MyMemory (automatic)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28383,6 +28441,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T164910Z" creationid="MELO46" creationdate="20131219T164910Z">
+        <seg>Plugin cargate con bon successo ex classe '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Points regarding proprietary translation memory files:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T190744Z">
@@ -28491,6 +28557,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T071740Z">
         <seg>Pressa &lt;k0&gt;Ctrl+M &lt;/k0&gt;pro reimplaciar le traduction del segmento currente con le suggerite translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165754Z" creationid="MELO46" creationdate="20131219T165754Z">
+        <seg>Calca &lt;u&gt;{0}&lt;/u&gt; pro vader al suggestiones &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165812Z" creationid="MELO46" creationdate="20131219T165705Z">
+        <seg>Calca &lt;u&gt;{0}&lt;/u&gt; pro retornar al suggestiones &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32163,6 +32245,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095215Z">
         <seg>Pagina (Sli&amp;de) maestros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165128Z" creationid="MELO46" creationdate="20131219T165128Z">
+        <seg>Ligamines a Glissa Externe (Lin&amp;ks)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43813,6 +43903,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095349Z">
         <seg>Tu pote crear entratas del glossario con 'Crea entrata glossario' in le menu 'Edita'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T165221Z" creationid="MELO46" creationdate="20131219T165221Z">
+        <seg>Tu pote crear entratas del glossario con 'Crea entrata glossario' in le menu 'Modifica'.</seg>
       </tuv>
     </tu>
     <tu>
