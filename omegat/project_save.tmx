@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4277,6 +4277,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T143803Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; initia in modo consola pro exequer automaticamente uno del servicios sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: Always (default), Only if (X)HTML file has a header, Only if (X)HTML file has an encoding declaration, Never</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T095741Z" creationid="MELO" creationdate="20131219T095741Z">
+        <seg>&lt;e0&gt;Adde o rescribe le declaration de codification in le files HTML e XHTML&lt;/e0&gt;: Semper (prefixate), Sol si (X) le file HTML ha un testa, Sol si le file (X)HTML ha un declaration de codification, Nunquam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T095329Z" creationid="MELO" creationdate="20131219T095329Z">
+        <seg>&lt;e0&gt;Adde o rescribe le declaration de codification in le files HTML e XHTML:&lt;/e0&gt;: frequentemente le files de destination debe haber le collection de codification del character differente de illo in le file fonte (sia que isto es definite explicitemente o implicite).</seg>
       </tuv>
     </tu>
     <tu>
