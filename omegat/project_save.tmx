@@ -1604,6 +1604,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T161815Z" creationid="MELO46" creationdate="20131219T161737Z">
+        <seg>(http://okapi.sourceforge.net) (Licentia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(including a physical distribution medium), accompanied by a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144621Z">
@@ -23786,6 +23794,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162241Z" creationid="MELO46" creationdate="20131219T162241Z">
+        <seg>Statistica del concordantias per &amp;File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match display template</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095333Z">
@@ -28042,6 +28058,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T154757Z">
         <seg>Collige le lingua de tu texto original (p.e., interlingua, "IA.*"), e usa "Move in alto" pro mover lo in le summitate del lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Piotr Kulik</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T161618Z" creationid="MELO46" creationdate="20131219T161618Z">
+        <seg>Piotr Kulik</seg>
       </tuv>
     </tu>
     <tu>
@@ -41921,6 +41945,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate Tags for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162202Z" creationid="MELO46" creationdate="20131219T162202Z">
+        <seg>Valida Tags pro le Actual (&amp;Current) Documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate tags when leaving a segment</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T091505Z">
@@ -45896,8 +45928,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>commons-*.jar (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T103031Z">
-        <seg>TinySegmenter (dominio public)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T161924Z">
+        <seg>commons-*.jar (Licentia Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48736,8 +48768,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>jWordSplitter (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T124410Z">
-        <seg>jWordSplitter (Apache License 2.0)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T161941Z">
+        <seg>jWordSplitter (Licentia Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50322,6 +50354,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094637Z">
         <seg>o le pacchetto OmegaT impacchettate con le pacco JRE (le .tar.bz2) marcate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T161727Z" creationid="MELO46" creationdate="20131219T161727Z">
+        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) usa le parolas clave de Okapi</seg>
       </tuv>
     </tu>
     <tu>
@@ -51976,8 +52016,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>tinysegmenter.jar (Modified BSD license)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T124407Z">
-        <seg>tinysegmenter.jar (Modified BSD license)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T161841Z">
+        <seg>tinysegmenter.jar (Licentia BSD modificate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53374,6 +53414,16 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T104340Z" creationid="MELO46" creationdate="20131219T104340Z">
         <seg>Manual del Usator...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_SINGLE_COMPILE</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162050Z" creationid="MELO46" creationdate="20131219T162050Z">
+        <seg>Crea le &amp;Documento Rendite Actual</seg>
       </tuv>
     </tu>
   </body>
