@@ -4185,6 +4185,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T061926Z" creationid="MELO" creationdate="20131219T061926Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; can be accessed from the Mac OS X Services.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T073252Z">
@@ -9677,6 +9685,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130513T122651Z">
         <seg>Pois que le programma es destinate pro le traductores in omne le mundo e non solmente in le paises de lingua anglese, il es opportun que la documentation e, si possibile, le programma mesme, sia disponibile in altere linguas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T062702Z" creationid="MELO" creationdate="20131219T062702Z">
+        <seg>Pois que isto es le comportamento standard pro le files PO, isto is active per arrangiamento initial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29279,6 +29295,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T062402Z" creationid="MELO" creationdate="20131219T062402Z">
+        <seg>Clicca con le dextre sur un button de "&lt;1&gt;" a "&lt;12&gt;" in le quadro basse e selige "Adde".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;5&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T124524Z">
@@ -37043,6 +37067,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's 12 place holders available for scripts.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T062342Z" creationid="MELO" creationdate="20131219T062342Z">
+        <seg>Isto adde un nove sub-menu&lt;g0&gt; Instrumentos &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Sub le sub-menu &lt;g2&gt;Scripting&lt;/g2&gt; , il ha 12 locos disponibile pro le scriptes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's five place holders available for scripts.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T123103Z">
@@ -42885,6 +42917,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T090019Z">
         <seg>Tu pote simplificar le lanceamento con le scriptura de un file script, id es un file de texto simple continente iste duo  lineas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T062428Z" creationid="MELO" creationdate="20131219T062428Z">
+        <seg>Tu pote lancear le macros seligite ab le menu principal o con lor entratas in le menu  &lt;g0&gt;Instrumentos &lt;/g0&gt;o pressante&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (con # de 1 a 12).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51396,6 +51436,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/doc_src/en/FileFilters.xml</prop>
+      <prop type="prev">If the option is off, the source text will be copied to the target segment.</prop>
+      <prop type="next">PO header will be skipped and left unchanged, if this option is checked.</prop>
+      <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T062719Z" creationid="MELO" creationdate="20131219T062719Z">
+        <seg>Salta le testa del PO</seg>
       </tuv>
     </tu>
   </body>
