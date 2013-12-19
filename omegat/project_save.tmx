@@ -10265,6 +10265,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170532Z" creationid="MELO46" creationdate="20131219T170136Z">
+        <seg>File Completamento Automatic (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T093610Z">
@@ -10293,6 +10301,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T070805Z">
         <seg>Automatisar le modificationes del nomines del file del documento rendite per reimplaciamento del contentos traducibile con lor traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170305Z" creationid="MELO46" creationdate="20131219T170050Z">
+        <seg>Entratas del Completamento Automatic</seg>
       </tuv>
     </tu>
     <tu>
@@ -11413,6 +11429,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T101253Z">
         <seg>Cambiar iste bandiera non modifica le segmentation del memorias de traduction jam existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170733Z" creationid="MELO46" creationdate="20131219T170733Z">
+        <seg>Tabella del Character optiones del completamento automatic</seg>
       </tuv>
     </tu>
     <tu>
@@ -13954,6 +13978,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095435Z">
         <seg>Monstra pro le &amp;Segmento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display source terms</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170459Z" creationid="MELO46" creationdate="20131219T170459Z">
+        <seg>Monstra le terminos fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -17114,6 +17146,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T070808Z">
         <seg>Percurso complete del TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170627Z" creationid="MELO46" creationdate="20131219T170627Z">
+        <seg>Texto plen</seg>
       </tuv>
     </tu>
     <tu>
@@ -41047,6 +41087,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170222Z" creationid="MELO46" creationdate="20131219T170222Z">
+        <seg>Unable to save data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095138Z">
@@ -53592,6 +53640,36 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T104340Z" creationid="MELO46" creationdate="20131219T104340Z">
         <seg>Manual del Usator...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_ABBREVIATION</prop>
+      <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170559Z" creationid="MELO46" creationdate="20131219T170559Z">
+        <seg>Via breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_COMMENT</prop>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170645Z" creationid="MELO46" creationdate="20131219T170645Z">
+        <seg>Commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_CHARTABLE_VIEW</prop>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T170319Z" creationid="MELO46" creationdate="20131219T170319Z">
+        <seg>Tabella del Character</seg>
       </tuv>
     </tu>
     <tu>
