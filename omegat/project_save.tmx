@@ -426,8 +426,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Apply this font to the Project Files window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094934Z">
-        <seg>&amp;Applica iste font al fenestra del files del projecto</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162544Z">
+        <seg>&amp;Applica iste typo de character al fenestra del files del projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -436,6 +436,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095029Z">
         <seg>&amp;Auto-propagation del traductiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Auto-text...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162402Z" creationid="MELO46" creationdate="20131219T162402Z">
+        <seg>&amp;Auto-proba...</seg>
       </tuv>
     </tu>
     <tu>
@@ -484,6 +492,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094742Z">
         <seg>&amp;Cancela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Character table...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162426Z" creationid="MELO46" creationdate="20131219T162426Z">
+        <seg>Tabella del &amp;Character...</seg>
       </tuv>
     </tu>
     <tu>
@@ -676,6 +692,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094914Z">
         <seg>&amp;Glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162338Z" creationid="MELO46" creationdate="20131219T162338Z">
+        <seg>&amp;Glossario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,8 +1034,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094917Z">
-        <seg>&amp;Restaura le fenestra principal</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162442Z">
+        <seg>&amp;Restaura le Fenestra Principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -8441,6 +8465,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162320Z" creationid="MELO46" creationdate="20131219T162320Z">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T180636Z">
@@ -8637,6 +8669,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T090836Z">
         <seg>Adde le linea sequente al texto in le file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162818Z" creationid="MELO46" creationdate="20131219T162818Z">
+        <seg>Addite {0} entratas glossario ex {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16020,6 +16060,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162709Z" creationid="MELO46" creationdate="20131219T162709Z">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File/ subfolder</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T084656Z">
@@ -16424,6 +16472,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T160926Z">
         <seg>Pro le advocatos del software open-source, iste libertate es etiam plus importante que le dispensa ipse de deber pagar alicun cosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162734Z" creationid="MELO46" creationdate="20131219T162734Z">
+        <seg>Pro omne files:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28671,6 +28727,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162523Z" creationid="MELO46" creationdate="20131219T162523Z">
+        <seg>Files del projecto ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100520Z">
@@ -29631,10 +29695,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162652Z" creationid="MELO46" creationdate="20131219T162652Z">
+        <seg>Repetitiones ex altere files:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions stand for identical segments present several times in the text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T222707Z">
         <seg>Repetitiones son segmentos identic presente plure vices, in le texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162628Z" creationid="MELO46" creationdate="20131219T162628Z">
+        <seg>Repetitiones inter iste file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30609,8 +30689,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094906Z">
-        <seg>Scriptura (Scriptin&amp;g)...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162311Z">
+        <seg>Scriptin&amp;g...</seg>
       </tuv>
     </tu>
     <tu>
@@ -53414,6 +53494,16 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T104340Z" creationid="MELO46" creationdate="20131219T104340Z">
         <seg>Manual del Usator...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">CT_STATSMATCH_PER_FILE_WindowHeader</prop>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T162603Z" creationid="MELO46" creationdate="20131219T162603Z">
+        <seg>Statistica del concordantias per File</seg>
       </tuv>
     </tu>
     <tu>
