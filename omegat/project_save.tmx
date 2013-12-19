@@ -13940,6 +13940,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the &lt;l0&gt;Translation editing&lt;/l0&gt; dialog to configure.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T103140Z" creationid="MELO" creationdate="20131219T103140Z">
+        <seg>Monstra le fenestra de dialogo &lt;l0&gt;Modifica traduction&lt;/l0&gt; pro configurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T195302Z">
@@ -43653,6 +43661,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T130446Z">
         <seg>Tu pote crear un novo projecto pro cata nove obra, e in vice tu pote adder plure files primari a un projecto existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T102959Z" creationid="MELO" creationdate="20131219T102959Z">
+        <seg>Tu pote crear un novo projecto pro cata nove obra, e in vice tu pote adder nove files fonte a un projecto in omne momento.</seg>
       </tuv>
     </tu>
     <tu>
