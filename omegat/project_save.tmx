@@ -6865,6 +6865,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Mixing RTL and LTR strings&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T101204Z" creationid="MELO" creationdate="20131219T101204Z">
+        <seg>&lt;p0&gt;Linguas de dextra al leva&lt;/p0&gt; &lt;s1&gt;Miscer lineas de character RTL e LTR&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;OmegaT tags in RTL languages&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T164136Z">
@@ -16224,6 +16232,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095048Z">
         <seg>Le classificator existe ja e non es vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow the indications given in Hints for tags management.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T101323Z" creationid="MELO" creationdate="20131219T101323Z">
+        <seg>Seque le indicationes date in Consilios pro le gestion del tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27582,6 +27598,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T100956Z" creationid="MELO" creationdate="20131219T100956Z">
+        <seg>Altere formatos del file texto simple o texto formattate commode pro processar in OmegaT pote alsi exister.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T221102Z">
@@ -36823,6 +36847,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T071441Z">
         <seg>Le tags es monstrate in un differente typo de character pro render los minus intrusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20131219T101653Z" creationid="MELO" creationdate="20131219T101653Z">
+        <seg>Le tags es marcate in blau nigrato pro un facile comparation inter los original e le contentos rendite.</seg>
       </tuv>
     </tu>
     <tu>
