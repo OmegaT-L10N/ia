@@ -8108,8 +8108,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T151033Z">
-        <seg>Un application CAT, como le termino es generalmente utilisate ab le traductores, se refere a un programma que crea, ex un documento rendite, un  "memoria de traduction" (TM) que pote deinde servir pro facilitar le traduction de futur documentos con significative similaritate con le prime textos</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025030Z">
+        <seg>Un application CAT, como le termino es generalmente utilisate ab le traductores, se refere a un programma que crea, ex un documento rendite, un  "memoria de traduction" (TM) que pote deinde servir pro facilitar le traduction de futur documentos con significative similaritate con le prime textos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8396,8 +8396,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A segmentation function displays one "segment" of source text at a time (usually a sentence), and the translation is done with the source text on the screen next to the target text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T152658Z">
-        <seg>Un function de segmentation expone un  "segmento" del texto primari a un vice (de costume un phrase), e le traduction es rendite con le texto original sur le schermo juxta le texto final.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025256Z">
+        <seg>Un function de segmentation expone un  "segmento" del texto primari a un vice (de costume un phrase), e le traduction es rendite con le texto fonte sur le schermo, juxta le texto de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16241,8 +16241,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Finally, CAT tools reproduce the formatting of the source document.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T152804Z">
-        <seg>Finalmente, le instrumentos CAT representa le formato del documento original.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025519Z">
+        <seg>Finalmente, le applicationes CAT representa le formato del documento original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18129,8 +18129,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>However, OpenOffice.org facilitates the use of OmegaT (for example, as stated above, by making it easier to handle Microsoft Office files), and provides further &lt;/f1&gt;&lt;f2&gt;functions useful to translators and unrelated to OmegaT, such as the function &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;for creation of PDF files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T153257Z">
-        <seg>Comocunque, OpenOffice.org facilita le uso de OmegaT (per exemplo, como constatate supra, con le facilitar a manear le files de Microsoft Office), e forni additional &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt; functiones utile pro le traductores e non connexe con OmegaT, assi como le function &lt;/f3&gt;&lt;f4&gt;pro le creation de files PDF.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T030021Z">
+        <seg>Comocunque, OpenOffice.org facilita le uso de OmegaT (per exemplo, como constatate supra, con le facilitar a manear le files de Microsoft Office), e forni additional &lt;/f1&gt;&lt;f2&gt;functiones utile pro le traductores e non connexe con OmegaT, assi como le function &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;pro le creation de files PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24391,8 +24391,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Most CAT tools use the term "project" to refer to a collection of folders and files associated with a translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T105312Z">
-        <seg>Le major parte de  instrumentos CAT usa le termino "projecto" per referer se a un collection de plicas e files associate con un traduction.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T030238Z">
+        <seg>Le major parte de  applicationes CAT usa le termino "projecto" per referer se a un collection de plicas e files associate con un traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24711,8 +24711,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Navigate to a suitable folder in which to create the project, e.g., the main folder you use for your translations, or you can place it on the Desktop for temporary ease of access, and later move it to My Documents or a similar location for storage.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T154507Z">
-        <seg>Que tu naviga a un convenibile plica in quo crear tu projecto, e.g. le classificator principal que tu usa pro tu traductiones, o tu pote collocar lo sur le scriptorio pro facilitar temporaneemente le accesso, e depost le mover in le classificator 'Documentos' o un simile ubication de immagazinage.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T030340Z">
+        <seg>Que tu naviga a un convenibile plica in quo crear tu projecto, e.g. le plica principal que tu usa pro tu traductiones, o tu pote collocar lo sur le scriptorio pro facilitar temporaneemente le accesso, e depost le mover in le classificator 'Documentos' o un simile ubication de immagazinage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26087,8 +26087,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>OmegaT for</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T062845Z">
-        <seg>OmegaT p</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T024816Z">
+        <seg>OmegaT pro</seg>
       </tuv>
     </tu>
     <tu>
@@ -31300,8 +31300,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T153234Z">
-        <seg>Que tu vide le sequente pro plus informationes sur le applicationes CAT, includente le plure varietates disponibile:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025858Z">
+        <seg>Vide le sequente ligamine pro plus de informationes re le applicationes CAT, includente le plure varietates disponibile:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37448,8 +37448,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The user who needs to handle MS Office files will find it helpful to convert them using Open Office free software; the files can can then be saved in a Microsoft format, if desired, after the translation is finished.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T153040Z">
-        <seg>Le usator qui necessita tractar files MS Office trovara adjuvante los converter con le programma gratuite Open Office que lege le formatos MS e converte los in 'open format'; postquam le traduction es clause, le files pote esser salvate, si desiderate, in formato Microsoft.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025627Z">
+        <seg>Le usator qui necessita tractar files MS Office trovara adjuvante converter los con le programma gratuite Open Office que lege le formatos MS e converte los in 'open format'; postquam le traduction es clause, le files pote esser salvate, si desiderate, in formato Microsoft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38290,8 +38290,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This aspect makes it especially useful for repetitive material.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T200314Z">
-        <seg>Hic aspecto lo face specialmente utile pro le textos iterative.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025201Z">
+        <seg>Hic aspecto lo face specialmente utile pro textos iterative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38474,8 +38474,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T143138Z">
-        <seg>Ce documento es designate pro traductores qui non ha experimentate con instrumentos de Traduction Assistite ab Computer (CAT), e disserta solmente re le bases.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025021Z">
+        <seg>Ce documento es designate pro traductores qui non son experimentate con Applicationes de Traduction Assistite ab Computer (CAT), e disserta solmente re le bases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38954,8 +38954,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is very useful for 1) making sure you don't skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T152711Z">
-        <seg>Isto es multo utile pro 1) tranquillisar se de non omitter texto; 2) controlar tu opera; e 3) poner ambe le textos lo primari e lo final in un fonte e un dimension commode.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T025342Z">
+        <seg>Isto es multo utile pro 1) tranquillisar se de non omitter texto; 2) controlar tu opera; e 3) poner ambe le textos lo primari e lo final in un typo del character e un dimension commode.</seg>
       </tuv>
     </tu>
     <tu>
