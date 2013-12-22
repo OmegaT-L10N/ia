@@ -5092,8 +5092,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T155059Z">
-        <seg>&lt;f0&gt;Non cambia necun preparationes, pro le fines de iste parve instruction.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T031006Z">
+        <seg>&lt;f0&gt;Non cambiar necun preparationes, pro le fines de iste parve instruction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14169,8 +14169,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Do not click on &lt;/f0&gt;&lt;f1&gt;"Browse" or otherwise change the default locations of the project folders &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;You have now created an empty project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T155317Z">
-        <seg>Non clicca sur &lt;/f0&gt;&lt;f1&gt;"Browse" o tu cambiara le locationes jam arrangiate del plicas &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tu ora ha create un projecto vacue.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T031217Z">
+        <seg>Non cliccar sur &lt;/f0&gt;&lt;f1&gt;"Browse" o tu cambiara le locationes jam arrangiate del plicas &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tu ora ha create un projecto vacue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14217,8 +14217,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Do the same with the Language &lt;t0/&gt;Pattern field.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130331T212732Z">
-        <seg>Que tu face le mesme pro le campo&lt;t0/&gt;"Modello del lingua".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T030937Z">
+        <seg>Que tu face le mesmo pro le campo&lt;t0/&gt;"Modello del lingua".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19045,8 +19045,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If the language of your source text isn't listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T154847Z">
-        <seg>Si le lingua de tu texto fontal non es listate, que tu selige un altere idioma que es listate, clicca duo vices sur le campo "Nomine del Lingua", e cambia lo in le abbreviation pro tu idioma.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T030837Z">
+        <seg>Si le lingua de tu texto fontal non es listate, selige un altere idioma que es listate, clicca duo vices sur le campo "Nomine del Lingua", e cambia lo in le abbreviation pro tu idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24711,8 +24711,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Navigate to a suitable folder in which to create the project, e.g., the main folder you use for your translations, or you can place it on the Desktop for temporary ease of access, and later move it to My Documents or a similar location for storage.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131220T030340Z">
-        <seg>Que tu naviga a un convenibile plica in quo crear tu projecto, e.g. le plica principal que tu usa pro tu traductiones, o tu pote collocar lo sur le scriptorio pro facilitar temporaneemente le accesso, e depost le mover in le classificator 'Documentos' o un simile ubication de immagazinage.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131220T030809Z">
+        <seg>Que tu naviga a un convenibile plica in quo crear tu projecto, e.g. le plica principal que tu usa pro tu traductiones, o tu pote collocar lo sur tu scriptorio pro facilitar temporaneemente le accesso, e depost mover lo in tu plica 'Documentos' o un ubication de immagazinage simile.</seg>
       </tuv>
     </tu>
     <tu>
