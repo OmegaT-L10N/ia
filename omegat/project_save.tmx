@@ -22013,8 +22013,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T203847Z">
-        <seg>il pote alsi esser possibile pro disveloppamentos commissionate ab disveloppatores externe sia implementate intra OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T175929Z">
+        <seg>Il pote alsi esser possibile pro disveloppamentos commissionate ab disveloppatores externe, sia implementate intra OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25941,14 +25941,6 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101037Z">
-        <seg>omegat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT + You</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T141738Z">
@@ -26939,8 +26931,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T175405Z">
-        <seg>Le disveloppatores de OmegaT, que es omne voluntarios, pote esser plus ben disposite a implementar un RFE si le labor de disveloppamento es pagate per le requirente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T175846Z">
+        <seg>Le disveloppatores de OmegaT, que es omne voluntarios, pote esser plus ben disposite a implementar un RFE si le labor de disveloppamento es financiate per le requirente.</seg>
       </tuv>
     </tu>
     <tu>
