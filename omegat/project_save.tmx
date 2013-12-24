@@ -8228,8 +8228,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A detailed tutorial is available.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T164242Z">
-        <seg>Es disponibile un detaliate instruction.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T181919Z">
+        <seg>Es disponibile un instruction detaliate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10084,8 +10084,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T213421Z">
-        <seg>Como con le libere disveloppamentos, comocunque, se applica ancora le principio que omne cambios a OmegaT debe esser benefic al application e su usatores.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T181248Z">
+        <seg>Como con le disveloppamentos gratuite, tamen se applica ancora le principio que omne cambios a OmegaT debe esser benefic al application e a su usatores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22013,8 +22013,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T175929Z">
-        <seg>Il pote alsi esser possibile pro disveloppamentos commissionate ab disveloppatores externe, sia implementate intra OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T181407Z">
+        <seg>Il pote alsi esser possibile que le disveloppamentos commissionate ab disveloppatores externe, ser implementate intra OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25937,6 +25937,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130516T121357Z">
         <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T180850Z" creationid="MELO46" creationdate="20131224T180850Z">
+        <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
