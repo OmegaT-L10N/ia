@@ -8650,6 +8650,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100247Z" creationid="MELO46" creationdate="20131224T100247Z">
+        <seg>Adde characteres al tabella personal per duplice-cliccar, o per marcar e pressar le clave Insere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add glossary entry</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123400Z">
@@ -9126,6 +9134,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T160813Z">
         <seg>Omne le traductiones ex le documentos fonte son alsi monstrate in le quadro del Commento, in ultra al quadro del Concordantia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100335Z" creationid="MELO46" creationdate="20131224T100335Z">
+        <seg>Permitte solmente characteres unic</seg>
       </tuv>
     </tu>
     <tu>
@@ -11730,6 +11746,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100357Z" creationid="MELO46" creationdate="20131224T100357Z">
+        <seg>Clara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T061341Z">
@@ -13475,6 +13499,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T143734Z">
         <seg>Actualmente, &lt;a1&gt;OmegaT&lt;/a1&gt; supporta Le formatos de simple texto sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100315Z" creationid="MELO46" creationdate="20131224T100315Z">
+        <seg>Tabella personal</seg>
       </tuv>
     </tu>
     <tu>
@@ -16623,6 +16655,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100710Z" creationid="MELO46" creationdate="20131224T100710Z">
+        <seg>Pro optime resultatos, per favor installa le dictionarios appropriate con Optiones &gt; Controlo orthographic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For both examples, compile and test as described above.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T042500Z">
@@ -17211,6 +17251,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T070808Z">
         <seg>Percurso complete del TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100304Z" creationid="MELO46" creationdate="20131224T100304Z">
+        <seg>Tabella plen</seg>
       </tuv>
     </tu>
     <tu>
@@ -43892,6 +43940,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100608Z" creationid="MELO46" creationdate="20131224T100608Z">
+        <seg>Tu proba a usar usar le HunspellTokenizer con le lingua {0}, ma nulle dictionarios orthographic es installate pro iste lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095423Z">
@@ -53883,12 +53939,32 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_ABBREVIATION</prop>
+      <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T095940Z" creationid="MELO46" creationdate="20131224T095940Z">
+        <seg>Vias breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
       <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
       <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T094435Z" creationid="MELO46" creationdate="20131224T094435Z">
         <seg>&amp;Salva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_COMMENT</prop>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100044Z" creationid="MELO46" creationdate="20131224T100044Z">
+        <seg>Commento</seg>
       </tuv>
     </tu>
     <tu>
@@ -53909,6 +53985,16 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T072220Z" creationid="MELO46" creationdate="20131224T072220Z">
         <seg>Statistica del concordantias per File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">HUNSPELL_TOKENIZER_DICT_NOT_INSTALLED</prop>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T100407Z" creationid="MELO46" creationdate="20131224T100407Z">
+        <seg>Advertimento!</seg>
       </tuv>
     </tu>
     <tu>
