@@ -10266,6 +10266,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completer Glossary View configuration</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093526Z" creationid="MELO46" creationdate="20131224T093526Z">
+        <seg>Configuration del Vista de Auto-completer Glossary View configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T170532Z" creationid="MELO46" creationdate="20131219T170136Z">
@@ -10308,8 +10316,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T170305Z" creationid="MELO46" creationdate="20131219T170050Z">
-        <seg>Entratas del Completamento Automatic</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093601Z" creationid="MELO46" creationdate="20131219T170050Z">
+        <seg>Entratas del Auto-texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -18611,6 +18619,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130705T021626Z">
         <seg>Si marcate, le segmentos fonte essera monstrate e marcate in verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093424Z" creationid="MELO46" creationdate="20131224T093424Z">
+        <seg>Si marcate, le entratas son ordinate alphabeticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093725Z" creationid="MELO46" creationdate="20131224T092847Z">
+        <seg>Si marcate, le entratas plus longe son ubicate sur le prime lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32092,8 +32116,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Show longer target terms first</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T092751Z" creationid="MELO46" creationdate="20131224T092751Z">
-        <seg>Monstra antea le terminos de destination plus longe</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093744Z" creationid="MELO46" creationdate="20131224T092751Z">
+        <seg>Monstra in prime loco le terminos de destination plus longe</seg>
       </tuv>
     </tu>
     <tu>
@@ -32510,6 +32534,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130408T141637Z">
         <seg>alicun vices, il es utile distinguer inter memorias de traduction de alte qualitate e  illos que es, a causa del stato minus digne de fide del materia subjecto, del cliente, del revision, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term alphabetically</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093240Z" creationid="MELO46" creationdate="20131224T093240Z">
+        <seg>Ordinate alphabeticamente per termino fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort target terms alphabetically</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093347Z" creationid="MELO46" creationdate="20131224T093347Z">
+        <seg>Ordina alphabeticamente le terminos de destination</seg>
       </tuv>
     </tu>
     <tu>
