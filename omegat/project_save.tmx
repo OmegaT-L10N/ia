@@ -32090,6 +32090,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show longer target terms first</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T092751Z" creationid="MELO46" creationdate="20131224T092751Z">
+        <seg>Monstra antea le terminos de destination plus longe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the dialog to modify the text display font.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T221424Z">
@@ -42656,6 +42664,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T064632Z">
         <seg>Quando es OmegaT  aperte un segmento continente iste linea, le script emitte un advertimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T092702Z" creationid="MELO46" creationdate="20131224T092702Z">
+        <seg>Quando marcate, le elementos in le vista auto-completori del glossario continera alsi le texto fonte.</seg>
       </tuv>
     </tu>
     <tu>
