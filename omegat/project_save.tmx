@@ -53721,5 +53721,35 @@ crear su classificator de configuration.</seg>
         <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_CHARTABLE_VIEW</prop>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T072243Z" creationid="MELO46" creationdate="20131224T072243Z">
+        <seg>Tabella del Character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">CT_STATSMATCH_PER_FILE_WindowHeader</prop>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T072220Z" creationid="MELO46" creationdate="20131224T072220Z">
+        <seg>Statistica del concordantias per File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_SINGLE_COMPILE</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T072202Z" creationid="MELO46" creationdate="20131224T072202Z">
+        <seg>Crear le documentos rendite ( &amp;Document)</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
