@@ -816,6 +816,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094415Z" creationid="MELO46" creationdate="20131224T094415Z">
+        <seg>Carga ( &amp;Load...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095430Z">
@@ -10268,16 +10276,24 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Auto-completer Glossary View configuration</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T093526Z" creationid="MELO46" creationdate="20131224T093526Z">
-        <seg>Configuration del Vista de Auto-completer Glossary View configuration</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093852Z" creationid="MELO46" creationdate="20131224T093526Z">
+        <seg>Configuration del Vista Auto-completori del Glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094310Z" creationid="MELO46" creationdate="20131224T094310Z">
+        <seg>Configuration Auto-texto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T170532Z" creationid="MELO46" creationdate="20131219T170136Z">
-        <seg>File Completamento Automatic (*.autotext)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094512Z" creationid="MELO46" creationdate="20131219T170136Z">
+        <seg>File Auto-texto (*.autotext)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13943,6 +13959,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094336Z" creationid="MELO46" creationdate="20131224T094336Z">
+        <seg>Monstra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095434Z">
@@ -14099,6 +14123,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095351Z">
         <seg>Expone le entratas del glossario trovate in le files dictionario locate in le classificator /dictionario/ si on ha in le segmento primari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093953Z" creationid="MELO46" creationdate="20131224T093953Z">
+        <seg>Monstra le entratas como "&lt;destination&gt; → &lt;fonte&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15219,6 +15251,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094923Z">
         <seg>Inscribe le numero del segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094351Z" creationid="MELO46" creationdate="20131224T094351Z">
+        <seg>Entratas</seg>
       </tuv>
     </tu>
     <tu>
@@ -16403,6 +16443,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095048Z">
         <seg>Le classificator existe ja e non es vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094129Z" creationid="MELO46" creationdate="20131224T094129Z">
+        <seg>Seque capitalisation del texto inscribite</seg>
       </tuv>
     </tu>
     <tu>
@@ -32050,6 +32098,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094516Z" creationid="MELO46" creationdate="20131224T094516Z">
+        <seg>Vias breve varie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102002Z">
@@ -32118,6 +32174,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T093744Z" creationid="MELO46" creationdate="20131224T092751Z">
         <seg>Monstra in prime loco le terminos de destination plus longe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show source term first</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094009Z" creationid="MELO46" creationdate="20131224T094009Z">
+        <seg>Monstra in prime loco le terminos fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show target term first</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T093919Z" creationid="MELO46" creationdate="20131224T093919Z">
+        <seg>Monstra in prime loco le terminos de destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -32534,6 +32606,30 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130408T141637Z">
         <seg>alicun vices, il es utile distinguer inter memorias de traduction de alte qualitate e  illos que es, a causa del stato minus digne de fide del materia subjecto, del cliente, del revision, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort alphabetically</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094229Z" creationid="MELO46" creationdate="20131224T094229Z">
+        <seg>Ordina alphabeticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094255Z" creationid="MELO46" creationdate="20131224T094255Z">
+        <seg>Ordina per texto plen, non via breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by length</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094209Z" creationid="MELO46" creationdate="20131224T094209Z">
+        <seg>Ordina per longor</seg>
       </tuv>
     </tu>
     <tu>
@@ -33920,6 +34016,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T155417Z">
         <seg>Le terminos in le segmento currente que &lt;a3&gt;OmegaT&lt;/a3&gt; trova in le file(s) glossario es monstrate in le quadro pro le Glossario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094058Z" creationid="MELO46" creationdate="20131224T094058Z">
+        <seg>Terminos con destinationes multiple</seg>
       </tuv>
     </tu>
     <tu>
@@ -41146,8 +41250,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Unable to save data.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T170222Z" creationid="MELO46" creationdate="20131219T170222Z">
-        <seg>Unable to save data.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094536Z" creationid="MELO46" creationdate="20131224T094536Z">
+        <seg>Incapace a salvar le datos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53775,6 +53879,16 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T170924Z" creationid="MELO46" creationdate="20131219T170924Z">
         <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Minimal/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T094435Z" creationid="MELO46" creationdate="20131224T094435Z">
+        <seg>&amp;Salva...</seg>
       </tuv>
     </tu>
     <tu>
