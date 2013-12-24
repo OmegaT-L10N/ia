@@ -7212,8 +7212,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T124922Z">
-        <seg>&lt;p0&gt;Personalisation&lt;/p0&gt; del vias breve</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T132642Z">
+        <seg>&lt;p0&gt;Personalisation&lt;/p0&gt;&lt;s1&gt;&lt;/s1&gt; del vias breve</seg>
       </tuv>
     </tu>
     <tu>
@@ -10220,8 +10220,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T131804Z">
-        <seg>A le summitate de iste dialogo, selectiona le lingua de tu file fontal e le lingua pro tu file rendite, e clicca OK  pro continuar.&lt;g1&gt;&lt;/g1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131905Z">
+        <seg>A le summitate de iste dialogo, selectiona le lingua de tu file fontal e le lingua pro tu file rendite, e clicca &lt;g1&gt;OK&lt;/g1&gt; pro continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12425,8 +12425,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100719Z">
-        <seg>Contribuer al projecto&lt;s0&gt;OmegaT&lt;/s0&gt; </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131944Z">
+        <seg>Contribuer al projecto &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14705,8 +14705,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T161353Z">
-        <seg>Durante le traduction, usa le menus &lt;g3&gt;Modica&lt;/g3&gt; e &lt;g4&gt;Vade&lt;/g4&gt; pro exequer varie  utile functiones.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T132400Z">
+        <seg>Durante le traduction, usa le menus &lt;g4&gt;Modifica&lt;/g4&gt; e &lt;g5&gt;Va&lt;/g5&gt; pro exequer varie  utile functiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24967,8 +24967,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T161325Z">
-        <seg>Deinde, se displica le dialogo 'archivos del projecto'.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T132109Z">
+        <seg>Deinde, se displica le fenestra de dialogo &lt;g0&gt;archivos del projecto&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26851,8 +26851,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101620Z">
-        <seg>OmegaT proponera a te un segmento a un vice, pro render lo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T132422Z">
+        <seg>OmegaT te proponera un segmento a un vice, pro render lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34464,8 +34464,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T161401Z">
-        <seg>Le memorias "level1" e  "level2"  pote esser usate in commun con le usuarios de altere programmas de traduction.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T132631Z">
+        <seg>On pote usar le memorias &lt;f3&gt;level1&lt;/f3&gt; e  &lt;f4&gt;level2&lt;/f4&gt; in commun con le usatores de altere programmas de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39858,8 +39858,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100719Z">
-        <seg>Pro contribuer al projecto&lt;s0&gt;OmegaT&lt;/s0&gt; &gt;:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131954Z">
+        <seg>Pro contribuer al projecto&lt;a0&gt;OmegaT&lt;/a0&gt; &gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40762,8 +40762,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101619Z">
-        <seg>Render le archivo</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T132434Z">
+        <seg>Render le file</seg>
       </tuv>
     </tu>
     <tu>
