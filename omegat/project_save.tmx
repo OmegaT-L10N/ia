@@ -8932,8 +8932,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T161319Z">
-        <seg>Postquam tu ha denominate tu projecto, se displicara le dialogo 'Crea nove projecto ".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131406Z">
+        <seg>Postquam tu ha denominate tu projecto, se displicara le dialogo &lt;g0&gt;Crea nove projecto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10220,8 +10220,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T161322Z">
-        <seg>A le summitate de iste dialogo, selectiona le lingua de tu file fontal e le lingua pro tu file rendite, e clicca OK  pro continuar.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131804Z">
+        <seg>A le summitate de iste dialogo, selectiona le lingua de tu file fontal e le lingua pro tu file rendite, e clicca OK  pro continuar.&lt;g1&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13215,14 +13215,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Ctrl+A</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130216T000158Z">
-        <seg>Ctrl+A</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Ctrl+Backspace</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130215T235937Z">
@@ -14785,8 +14777,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>ERROR: {0}</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095047Z">
-        <seg>ERROR:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131714Z">
+        <seg>ERROR:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -41974,8 +41966,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T125941Z">
-        <seg>Gruppo del usatores</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131520Z">
+        <seg>Gruppo del usatores&lt;/u3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50627,8 +50619,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094401Z">
-        <seg>aperir le previe segmento (Mac: Cmd+Enter)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131640Z">
+        <seg>aperir le previe segmento (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51307,16 +51299,16 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131726Z">
-        <seg>levar le characteres usque a le comenciamento de le sequente parola (Mac: Alt+Canc)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131448Z">
+        <seg>levar le characteres usque a le comenciamento de le sequente parola (Mac: &lt;e0&gt;Alt+Canc&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131647Z">
-        <seg>levar le characteres usque al comenciamento del parola currente (Mac: Alt+Backspace)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131551Z">
+        <seg>levar le characteres usque al comenciamento del parola currente (Mac: Alt+Backspace)&lt;e0&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51667,8 +51659,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094401Z">
-        <seg>seliger le segmento complete (Mac: Cmd+A)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131520Z">
+        <seg>seliger le segmento complete (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53935,6 +53927,16 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T170924Z" creationid="MELO46" creationdate="20131219T170924Z">
         <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">LD_ERROR</prop>
+      <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131224T131739Z" creationid="MELO46" creationdate="20131224T131739Z">
+        <seg>ERROR:{0}</seg>
       </tuv>
     </tu>
     <tu>
