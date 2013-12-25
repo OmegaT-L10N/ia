@@ -7415,6 +7415,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005504Z" creationid="MELO46" creationdate="20131225T005504Z">
+        <seg>Ben que on poterea parer singular voler traducer le files TMX (le ration consuete pro crear un filtro de file), le addition de un filtro TMX ha Le interessante effecto que illo habilita le files TMX in omne location e esser cercate ab intra omne projecto OmegaT usante le function "Cerca files", alique non possibile in le compilation OmegaT standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T091210Z">
@@ -19316,6 +19324,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT HowTo: Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005441Z" creationid="MELO46" creationdate="20131225T005441Z">
+        <seg>Guida OmegaT: creation de un nove filtro de file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T082053Z">
@@ -28253,6 +28269,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005451Z" creationid="MELO46" creationdate="20131225T005451Z">
+        <seg>Iste Guida Explica como crear  un nove file filtro pro uso con OmegaT con description del creation de un rudimentari filtro file pro le formato TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T183519Z">
@@ -32401,6 +32425,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can delete the line:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005516Z" creationid="MELO46" creationdate="20131225T005516Z">
+        <seg>Tu pote deler le linea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T060529Z">
@@ -34274,6 +34306,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T090124Z">
         <seg>justification base prefixate, que es ut definite per le lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005508Z" creationid="MELO46" creationdate="20131225T005508Z">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005510Z" creationid="MELO46" creationdate="20131225T005510Z">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
       </tuv>
     </tu>
     <tu>
