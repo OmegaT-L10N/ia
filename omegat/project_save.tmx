@@ -7847,6 +7847,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T010104Z" creationid="MELO46" creationdate="20131225T010104Z">
+        <seg>Pois que isto es le comportamento standard pro files PO, il es active per arrangiamento base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T220114Z">
@@ -10547,14 +10555,6 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T084239Z">
         <seg>Expone le traduction del segmento primari per le servicios de traduction a machina que tu seligeva in 'Optiones &gt; Traduction a machina', si celle servicios es disponibile.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Distribution and modifications</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T155539Z">
-        <seg>Distribution and modifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -20664,6 +20664,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO header will be skipped and left unchanged, if this option is checked.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T010343Z" creationid="MELO46" creationdate="20131225T010343Z">
+        <seg>Le testa del PO essera saltate e lassate sin alteration, si iste option es marcate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T081600Z">
@@ -22449,6 +22457,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005851Z" creationid="MELO46" creationdate="20131225T005851Z">
+        <seg>Clicca con le dextre sur un button de "&lt;1&gt;" a "&lt;12&gt;" in le quadro basse e selige "Adde".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055103Z">
@@ -23229,14 +23245,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144828Z">
         <seg>See the</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>See the GNU General Public License for more detail.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T064633Z">
-        <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28301,6 +28309,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's 12 place holders available for scripts.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005838Z" creationid="MELO46" creationdate="20131225T005838Z">
+        <seg>Isto adde un nove sub-menu&lt;g0&gt; Instrumentos &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt;. Sub le sub-menu &lt;g2&gt;Scripting&lt;/g2&gt;, il ha 12 postos disponibile pro le scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T160014Z">
@@ -32551,6 +32567,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T080228Z">
         <seg>Tu pote seliger qual elementos debe esser rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T005907Z" creationid="MELO46" creationdate="20131225T005907Z">
+        <seg>Tu pote lancear le macros seligite ab le menu principal o con lor entratas in le menu  &lt;g0&gt;Instrumentos &lt;/g0&gt;o pressante&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (con # de 1 a 12).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39758,5 +39782,16 @@ nde</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FileFilters.xml</prop>
+      <prop type="prev">If the option is off, the source text will be copied to the target segment.</prop>
+      <prop type="next">PO header will be skipped and left unchanged, if this option is checked.</prop>
+      <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131225T010129Z" creationid="MELO46" creationdate="20131225T010129Z">
+        <seg>Salta le testa del PO</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
