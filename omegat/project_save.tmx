@@ -25461,6 +25461,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T231455Z" creationid="MELO46" creationdate="20131226T231455Z">
+        <seg>Plus precisemente, OmegaT tenta de concordar cata modellos del filtro de nomine de file fonte, verso le nomine de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moreover, your license from a particular copyright holder is</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155827Z" creationid="MELO46" creationdate="20131226T155827Z">
@@ -36781,6 +36789,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T231011Z" creationid="MELO46" creationdate="20131226T231011Z">
+        <seg>Le fenestra de dialogo es utile quia illo include un editor special  pro modello de nomine de file de destination con le qual tu pote personalisar le nomines del files emittite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102011Z">
@@ -41657,6 +41673,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T230716Z" creationid="MELO46" creationdate="20131226T230716Z">
+        <seg>Pro modificar un modello de filtro del file, o modifica le campos directemente o clicca &lt;e0&gt;Modifica.&lt;/e0&gt; Pro adder un nove modello de filtro del file, clicca &lt;e1&gt;Adde&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T190134Z">
@@ -44329,6 +44353,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130309T130352Z">
         <seg>Qual que sia le contradictiones, le omissiones e le candide errores que tu pote trovar in le actual version, io proclama illes omne, mi proprie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T231228Z" creationid="MELO46" creationdate="20131226T231220Z">
+        <seg>Quando OmegaT incontra un file in su plica fonte, il tenta de seliger le filtro basate sur le extension del file.</seg>
       </tuv>
     </tu>
     <tu>
