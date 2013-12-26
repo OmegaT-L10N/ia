@@ -16839,6 +16839,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T123221Z" creationid="MELO46" creationdate="20131226T123221Z">
+        <seg>Per exemplo, si le filtro del file specifica UTF8 ut le schema de codification pro le files de destination, seliger Semper assecurara que iste information es includite in le files rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if the language pair of the project is DE-FR, it can be still be of some help to see hits in the DE-EN translation, if there's none in the DE-FR pair.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T065748Z">
@@ -42304,6 +42312,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T082831Z">
         <seg>Usar le  function de exportation del texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T122900Z" creationid="MELO46" creationdate="20131226T122900Z">
+        <seg>Con iste option le traductor pote specificar, si le files de destination debe haber le declaration de codification includite.</seg>
       </tuv>
     </tu>
     <tu>
