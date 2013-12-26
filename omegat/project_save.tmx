@@ -17327,6 +17327,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T231633Z" creationid="MELO46" creationdate="20131226T231633Z">
+        <seg>Per exemplo, le modello &lt;l0&gt;*.xhtml &lt;/l0&gt;concorda omne file con le extension &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T174129Z">
@@ -27297,6 +27305,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T092858Z">
         <seg>OmegaT aspectos notabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T231927Z" creationid="MELO46" creationdate="20131226T231927Z">
+        <seg>OmegaT identifica le codification del file fonte usante su declaration de codification, si presente (files HTML, files basate sur XML)</seg>
       </tuv>
     </tu>
     <tu>
