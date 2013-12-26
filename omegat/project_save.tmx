@@ -14527,6 +14527,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays copyright, credits and license information.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T161046Z" creationid="MELO46" creationdate="20131226T161046Z">
+        <seg>Monstra information de derecto de autor, creditos e licentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102222Z">
@@ -22493,8 +22501,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T205014Z">
-        <seg>Illo pote alsi esser usate quando le quadros non appare como provise sequente un promotion de OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T160915Z">
+        <seg>Illo pote alsi esser usate quando le quadros non appare como provise, sequente un promotion de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25951,8 +25959,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>No action, if machine tools are deactivated (see Menu &gt; Options &gt; Machine Translate)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130704T190356Z">
-        <seg>Nulle action, si le instrumentos automatic es deactivate (vide Menu &gt; Optiones &gt; Traduction Automatic)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T161242Z">
+        <seg>Nulle action, si le applicationes de traduction automatic son inactivate (vide Menu &gt; Optiones &gt; Traduction Automatic)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29397,6 +29405,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T173923Z">
         <seg>Files de texto simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text files - in most cases files with a txt extension - contain just textual information and offer no clearly defined way to inform the computer which language they contain.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T161917Z" creationid="MELO46" creationdate="20131226T161917Z">
+        <seg>Files de texto simple - in le major parte del casos le files con un extension txt - contine justo information textual e non offere alicun modo definite clarmente pro informar le computator re su proprie linguage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57918,6 +57934,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Inserts the selected match at the cursor position in the current target segment (the first match is inserted by default)</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+R&lt;/k1&gt;</prop>
+      <tuv lang="EN">
+        <seg>Replace with source</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T161109Z" creationid="MELO46" creationdate="20131226T161109Z">
+        <seg>Reimplacia con fonte</seg>
       </tuv>
     </tu>
     <tu>
