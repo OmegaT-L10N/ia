@@ -4818,10 +4818,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Paragraph segmentation on line breaks, empty lines or never&lt;/e0&gt;:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T230223Z" creationid="MELO46" creationdate="20131226T230223Z">
+        <seg>&lt;e0&gt;Segmentation a paragrapho sur interruptiones de linea, lineas vacue o nunquam&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T080737Z">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: commentos del glissa, patronos del glissa, arrangiamentos del glissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T230107Z" creationid="MELO46" creationdate="20131226T230107Z">
+        <seg>&lt;e0&gt;Retene spatios pro omne le tags&lt;/e0&gt;: si marcate, le "spatio blanc" (id es, spatios e nove lineas) essera conservate, etiam si non imponite technicamente in le documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -51332,8 +51348,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>if sentence segmentation rules are active, the text will further be segmented according to the option selected here.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T190443Z">
-        <seg>si son active le regulas de segmentation, le texto essera ulteriormente segmentate secundo le option seligite ci.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T230252Z">
+        <seg>si le regulas de segmentation son active, le texto essera ulteriormente segmentate secundo le option seligite ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51518,6 +51534,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135824Z">
         <seg>ind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131226T230413Z" creationid="MELO46" creationdate="20131226T230413Z">
+        <seg>entratas indice, signa-libros, referentias de signa-libro, notes, commentos, notas de presentation, ligamines (URL), nomines de pagina</seg>
       </tuv>
     </tu>
     <tu>
