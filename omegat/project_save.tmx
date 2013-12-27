@@ -9532,8 +9532,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T195724Z">
-        <seg>permitte te  a activar/disactivar le instrumentos de Traduction Automatic offerite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T120121Z">
+        <seg>Permitte te de activar/disactivar le applicationes de Traduction Automatic offerite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19385,32 +19385,32 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If checked, non-breakable spaces in the segment will be displayed with a grey background.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130705T022941Z">
-        <seg>Si marcate, le spatios non  non-frangibile  in le segmento essera monstrate con un fundo gris.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115709Z">
+        <seg>Si activate, le spatios non  non-frangibile  in le segmento essera monstrate con un fundo gris.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130705T021815Z">
-        <seg>Si marcate, le segmentos non unic essera marcate in gris pallide.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115613Z">
+        <seg>Si activate, le segmentos non unic essera marcate in gris pallide.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, segments with notes will be marked in cyan.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130705T021909Z">
-        <seg>Si marcate, le segmentos con notas essera marcate in cyano.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115647Z">
+        <seg>Si activate, le segmentos con notas essera marcate in cyano.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130705T021626Z">
-        <seg>Si marcate, le segmentos fonte essera monstrate e marcate in verde.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115544Z">
+        <seg>Si activate, le segmentos fonte essera monstrate e marcate in verde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19441,8 +19441,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If checked, the untranslated segments will be marked in violet.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130705T021424Z">
-        <seg>Si marcate, le segmentos non rendite essera marcate in violetto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115534Z">
+        <seg>Si activate, le segmentos non rendite essera marcate in violetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19605,8 +19605,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130705T021724Z">
-        <seg>Si non marcate, le segmentos fonte non essera monstrate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115600Z">
+        <seg>Si non activate, le segmentos fonte non essera monstrate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24903,8 +24903,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102108Z">
-        <seg>Marca le spatios &amp;Non-frangibile</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115658Z">
+        <seg>Marca le spatios Non-frangibile</seg>
       </tuv>
     </tu>
     <tu>
@@ -24927,8 +24927,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mark Segments with Notes</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102107Z">
-        <seg>Marca segmentos con (&amp;with) notas</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115627Z">
+        <seg>Marca segmentos con Notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -33124,16 +33124,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Setting it to&lt;e1&gt; All &lt;/e1&gt;shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T194103Z">
-        <seg>Prefixar illo a&lt;e1&gt; All &lt;/e1&gt;monstra iste information pro omne segmentos e &lt;e2&gt;None&lt;/e2&gt; disactiva iste option.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115834Z">
+        <seg>Prefixar illo a&lt;e1&gt; Omne &lt;/e1&gt;monstra iste information pro omne segmentos e &lt;e2&gt;Necun&lt;/e2&gt; disactiva iste option.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Setting the Display Modification option to &lt;e0&gt;Selected&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T170300Z">
-        <seg>prefixar le option Modification del Apparentia a &lt;e0&gt;Seligite&lt;/e0&gt; monstrara le tempore e le autor del ultime cambio in le segmento currente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115753Z">
+        <seg>Prefixar le option Modification del Apparentia a &lt;e0&gt;Seligite&lt;/e0&gt; monstrara le tempore e le autor del ultime cambio in le segmento currente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40579,8 +40579,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is useful when dealing with texts where inline formatting has no real use (e.g., OCRed PDF, bad converted .odt or .docx, etc.) Only inline tags are removed, so normally there should be no problem with opening the target documents.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T194838Z">
-        <seg>Isto es utile pro tractar textos ubi le formattation in linea ha nulle uso real (per exemplo, PDF ex OCR,  .odt o .docx mal convertite, etc.) Sol le tags in linea son removite, assi normalmente deberea non esser problema con le apertura  del documentos de destination.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115949Z">
+        <seg>Isto es utile pro tractar textos ubi le formattation in linea ha nulle uso real (per exemplo, PDF ex OCR,  .odt o .docx mal convertite, et cetera) Sol le tags in linea son removite, assi normalmente deberea non esser problema con le apertura  del documentos de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42243,7 +42243,7 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>TransTips</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102122Z">
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T120231Z" creationid="MELO46" creationdate="20131227T120231Z">
         <seg>Avisos (Tra&amp;nsTips)</seg>
       </tuv>
     </tu>
@@ -54788,8 +54788,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>reserved for future use by plugins</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T195919Z">
-        <seg>reservate pro uso futur per plugins</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T120248Z">
+        <seg>reservate pro uso futur per plugins &amp;&amp;&amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58016,6 +58016,28 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">This option is useful for some Chinese, Japanese or Korean character input systems.</prop>
+      <prop type="next">The program will see confirmation before closing down.</prop>
+      <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T120024Z" creationid="MELO46" creationdate="20131227T120024Z">
+        <seg>Confirma semper le cessation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">If checked, the untranslated segments will be marked in violet.</prop>
+      <prop type="next">If checked, source segments will be shown and marked in green.</prop>
+      <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115518Z" creationid="MELO46" creationdate="20131227T115518Z">
+        <seg>Monstra le Segmentos Fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
       <prop type="prev">View menu</prop>
       <prop type="next">If checked, the translated segments will be marked in yellow.</prop>
       <tuv lang="EN">
@@ -58038,6 +58060,17 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">If checked, non-breakable spaces in the segment will be displayed with a grey background.</prop>
+      <prop type="next">Setting the Display Modification option to &lt;e0&gt;Selected&lt;/e0&gt; will display the time and the author of the last change in the current segment.</prop>
+      <tuv lang="EN">
+        <seg>Modification Info</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115719Z" creationid="MELO46" creationdate="20131227T115719Z">
+        <seg>Information de Modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
       <prop type="prev">The next segment with a note attached to it, will open.</prop>
       <prop type="next">The previous segment with a note will open.</prop>
       <tuv lang="EN">
@@ -58049,6 +58082,17 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">See &lt;l1&gt;Tag Validation&lt;/l1&gt; and &lt;x2/&gt;.</prop>
+      <prop type="next">When enabled, all the formatting tags are removed from source segments.</prop>
+      <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115903Z" creationid="MELO46" creationdate="20131227T115903Z">
+        <seg>Remove le Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
       <prop type="prev">Inserts the selected match at the cursor position in the current target segment (the first match is inserted by default)</prop>
       <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+R&lt;/k1&gt;</prop>
       <tuv lang="EN">
@@ -58056,6 +58100,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T161109Z" creationid="MELO46" creationdate="20131226T161109Z">
         <seg>Reimplacia con fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Options menu</prop>
+      <prop type="next">Sets segment validation key to &lt;g0&gt;Tab&lt;/g0&gt; instead of the default &lt;g1&gt;Enter&lt;/g1&gt;.</prop>
+      <tuv lang="EN">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T120004Z" creationid="MELO46" creationdate="20131227T120004Z">
+        <seg>Usa le clave pro avantiar</seg>
       </tuv>
     </tu>
     <tu>
