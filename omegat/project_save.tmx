@@ -5108,8 +5108,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T143731Z">
-        <seg>&lt;e0&gt;discarga (checkout):&lt;/e0&gt; le operation que crea un copia functionante ex le deposito in tu computator local.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T224154Z">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; le operation que crea un copia functionante ex le deposito in tu computator local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5124,8 +5124,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T144410Z">
-        <seg>&lt;e0&gt;consigna (commit): &lt;/e0&gt;un vice que un nove version local  del material discargate es preste, on pote lo consignar al deposito e assi lo render disponibile al resto del equipa</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T224113Z">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;un vice que un nove version local  del material discargate es preste, on pote lo consignar al deposito e assi lo render disponibile al resto del equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -16449,7 +16449,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>F1</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T215257Z">
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223935Z" creationid="MELO46" creationdate="20131227T223935Z">
         <seg>F1</seg>
       </tuv>
     </tu>
@@ -17081,16 +17081,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T100645Z">
-        <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T224610Z">
+        <seg>Pro Mac tu pote discargar le cliente per exemplo ex &lt;u1&gt;SourceForge&lt;/u1&gt;, Pro Linux vide &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T100626Z">
-        <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T224452Z">
+        <seg>Pro Windows nos recommenda &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28251,8 +28251,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T100630Z">
-        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T224439Z">
+        <seg>Un vice que le server SVN is disponibile, le administratores del projecto debe installar localmente un client SVN, pro gerer le projecto contentos sur lor computatores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43495,8 +43495,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T214716Z">
-        <seg>Manual del Usuario...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223814Z">
+        <seg>Manual del Usator...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50508,8 +50508,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>helpAboutMenuItem</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130611T164328Z">
-        <seg>[fuzzy]helpAboutMenuItem</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223931Z">
+        <seg>helpAboutMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -58002,6 +58002,28 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsTeamMenuItem</prop>
+      <prop type="next">optionsExtTMXMenuItem</prop>
+      <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223732Z" creationid="MELO46" creationdate="20131227T223732Z">
+        <seg>TMXs externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsFontSelectionMenuItem</prop>
+      <prop type="next">optionsSetupFileFiltersMenuItem</prop>
+      <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223719Z" creationid="MELO46" creationdate="20131227T223719Z">
+        <seg>Filtros del File...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/App_ShortCutCustomization.xml</prop>
       <prop type="prev">viewMarkNBSPCheckBoxMenuItem</prop>
       <prop type="next">viewMarkWhitespaceCheckBoxMenuItem</prop>
       <tuv lang="EN">
@@ -58009,6 +58031,39 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T223529Z" creationid="MELO46" creationdate="20131227T223529Z">
         <seg>Marca un Spatio blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsSaveOptionsMenuItem</prop>
+      <prop type="next">optionsViewOptionsMenuLoginItem</prop>
+      <tuv lang="EN">
+        <seg>Proxy login...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223744Z" creationid="MELO46" creationdate="20131227T223744Z">
+        <seg>Registrar se al Procurator (Proxy)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsViewOptionsMenuLoginItem</prop>
+      <prop type="next">optionsRestoreGUIMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223759Z" creationid="MELO46" creationdate="20131227T223759Z">
+        <seg>Restaura le fenestra principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">Menu Item Code</prop>
+      <prop type="next">Ctrl +T</prop>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T223646Z" creationid="MELO46" creationdate="20131227T223646Z">
+        <seg>Valida le tag</seg>
       </tuv>
     </tu>
     <tu>
