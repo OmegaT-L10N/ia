@@ -4636,8 +4636,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094403Z">
-        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor a le comenciamento de le segmento active</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073235Z">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor a le comenciamento del segmento active</seg>
       </tuv>
     </tu>
     <tu>
@@ -12665,8 +12665,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Confirm the segmentation rules and then creation of the project with OK.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T155037Z">
-        <seg>Que tu confirma le regulas de segmentation e pois le creation de le projecto con OK.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073548Z">
+        <seg>Que tu confirma le regulas de segmentation e pois le creation del projecto con OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13727,14 +13727,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Ctrl+Home</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130215T235604Z">
-        <seg>Ctrl+Home</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Ctrl+I</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133917Z">
@@ -14145,8 +14137,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T123654Z">
-        <seg>Dependente de le stato del quadro, a su angulo del summitate dextre, pote apparer signos differente a su angulo del summitate dextere:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073510Z">
+        <seg>Dependente del stato del quadro, a su angulo del summitate dextre, pote apparer signos differente a su angulo del summitate dextere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16681,8 +16673,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>File format</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101304Z">
-        <seg>Formato de le File </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073404Z">
+        <seg>Formato del File </seg>
       </tuv>
     </tu>
     <tu>
@@ -23695,8 +23687,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131029Z">
-        <seg>Al fin, ma non le minus: mi gratias a omne le contributores al &lt;u0&gt;  Calcator del documentation de OmegaT&lt;/u0&gt; pro omne le contradictiones trovate in le previe versiones del documentation.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T072856Z">
+        <seg>Al fin, ma non le minus: mi gratias a omne le contributores al &lt;u0&gt;  Revisor del documentation de OmegaT&lt;/u0&gt; pro omne le contradictiones trovate in le previe versiones del documentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40899,8 +40891,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094340Z">
-        <seg>Isto breve texto describe le comportamento de claves in le quadro de le editor.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073022Z">
+        <seg>Isto breve texto describe le comportamento de claves in le quadro del editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41747,8 +41739,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T171306Z">
-        <seg>Pro producer un traduction que es differente de le traduction base, clicca con dextera le mus intra le segmento e selige "Crea traduction alternative".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073526Z">
+        <seg>Pro producer un traduction que es differente del traduction base, clicca con dextera le mus intra le segmento e selige "Crea traduction alternative".</seg>
       </tuv>
     </tu>
     <tu>
@@ -47556,8 +47548,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>are created and used by the spell checker.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130817T084227Z">
-        <seg>son create e usate de le corrector orthographic.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073336Z">
+        <seg>son create e usate del corrector orthographic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52988,8 +52980,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>move to the beginning of the line in the segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094354Z">
-        <seg>mover a le comenciamento de le linea in le segmento</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073045Z">
+        <seg>mover a le comenciamento del linea in le segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -53004,8 +52996,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>move to the end of the line in the segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094354Z">
-        <seg>mover a le fin de le linea in le segmento</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073101Z">
+        <seg>mover a le fin del linea in le segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -53604,8 +53596,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T131640Z">
-        <seg>aperir le previe segmento (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073223Z">
+        <seg>aperir le segmento previe (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -54410,14 +54402,6 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>project_stats_match.txt</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T074236Z">
-        <seg>project_stats_match.txt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155837Z" creationid="MELO46" creationdate="20131226T155837Z">
@@ -54748,8 +54732,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T131448Z">
-        <seg>levar le characteres usque a le comenciamento de le sequente parola (Mac: &lt;e0&gt;Alt+Canc&lt;/e0&gt;)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073148Z">
+        <seg>levar le characteres usque a le comenciamento del parola sequente (Mac: &lt;e0&gt;Alt+Canc&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
