@@ -22125,8 +22125,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Insert the best fuzzy match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100754Z">
-        <seg>Insere le melior (&amp;best) concordantia confuse</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073934Z">
+        <seg>Insere le melior (&amp;best) concordantia partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -44735,8 +44735,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T165748Z">
-        <seg>Ubi duo segmentos ha alsi identic segmentos precedente e sequente (per exemplo quando un pagina integre compare duo vices in le texto), illos non pote esser rendite in modo differente de le un le altere in OmegaT, i.e. il non es possibile render un de illos un "traduction alternative".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T073832Z">
+        <seg>Ubi duo segmentos ha alsi identic segmentos precedente e sequente (per exemplo quando un pagina integre compare duo vices in le texto), illos non pote esser rendite in modo differente le un del altere in OmegaT, id es il non es possibile render un de illos un "traduction alternative".</seg>
       </tuv>
     </tu>
     <tu>
@@ -57990,6 +57990,28 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/EditingBehavior.xml</prop>
+      <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</prop>
+      <prop type="next">If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</prop>
+      <tuv lang="EN">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T074013Z" creationid="MELO46" creationdate="20131227T074013Z">
+        <seg>Tenta de converter le numeros quando insere un concordantia partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/EditingBehavior.xml</prop>
+      <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Inserting fuzzy matches&lt;/t2&gt;</prop>
+      <prop type="next">OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</prop>
+      <tuv lang="EN">
+        <seg>Insert the best fuzzy match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T074053Z" creationid="MELO46" creationdate="20131227T074053Z">
+        <seg>Insere le melior concordantia partial</seg>
       </tuv>
     </tu>
     <tu>
