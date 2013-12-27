@@ -3748,8 +3748,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T070841Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; es un instrumento gratuite de traduction assistite ab computator, pro multe platteformas e con le sequente aspectos notabile:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T072204Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; es un application gratuite de Traduction Assistite ab Computator (Computer Aided Translation - CAT), pro multe systemas operative e con le sequente aspectos notabile:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4860,8 +4860,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T100210Z">
-        <seg>&lt;e0&gt;Proprietates del projecto &lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files e Plicas:&lt;/e1&gt; un projecto in the contexto de OmegaT es le parte del obra que OmegaT, como instrumento CAT, pote tractar.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T071811Z">
+        <seg>&lt;e0&gt;Proprietates del projecto &lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files e Plicas:&lt;/e1&gt; un projecto in the contexto de OmegaT es le parte del obra que OmegaT, como application CAT, pote tractar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4892,8 +4892,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T093432Z">
-        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:le instrumentos de memoria de traduction functiona con unitates textual nominate segmentos.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T072444Z">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:le applicationes pro memoria de traduction functiona con elementos textual nominate segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4980,8 +4980,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T100228Z">
-        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various sub-plicas containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T072351Z">
+        <seg>&lt;e0&gt;Memorias de traduction: &lt;/e0&gt; explica le rolo del varie sub-plicas continente memorias de traduction, e provide information re altere importante aspectos relative al memorias de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8396,8 +8396,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130505T082855Z">
-        <seg>Un comprehensive suite de utilitates pro preparar le files al traduction in un instrumento CAT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T071904Z">
+        <seg>Un comprehensive suite de utilitates pro preparar le files al traduction in un application CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8572,8 +8572,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T122119Z">
-        <seg>Plure collectiones de regulas es fornite dum additional regulas pote esser definite ab le usuario, como describe iste capitulo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T072647Z">
+        <seg>Plure collectiones de regulas es fornite dum additional regulas pote esser definite ab le usator, como describe iste capitulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21117,8 +21117,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T121933Z">
-        <seg>In OmegaT, segmentos pote esser basate sur paragraphos o regulas de segmentation.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T072546Z">
+        <seg>In OmegaT, le segmentos pote esser basate sur paragraphos o regulas de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
