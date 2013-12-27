@@ -6652,8 +6652,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Goto&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T214336Z">
-        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Vade&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114831Z">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Va&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9492,8 +9492,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130704T190456Z">
-        <seg>permitte al usator de crear un entrata in le file glossario base.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114722Z">
+        <seg>Permitte al usator de crear un entrata in le file glossario base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10796,8 +10796,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T215138Z">
-        <seg>Retro in historia...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115212Z">
+        <seg>Retro in chronologia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13025,8 +13025,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copy/cut/paste shortcuts</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T213856Z">
-        <seg>copia/talia/colla shortcuts</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114452Z">
+        <seg>Le vias breve copia/talia/colla</seg>
       </tuv>
     </tu>
     <tu>
@@ -15353,8 +15353,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Edit menu</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T214034Z">
-        <seg>Menu Edita</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114519Z">
+        <seg>Menu Modifica</seg>
       </tuv>
     </tu>
     <tu>
@@ -17745,8 +17745,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T215120Z">
-        <seg>Avante in historia...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115108Z">
+        <seg>Avante in chronologia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18241,16 +18241,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Go To menu</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T214354Z">
-        <seg>Menu Vade</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114844Z">
+        <seg>Menu Va</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Go to</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T214345Z">
-        <seg>Vade</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114837Z">
+        <seg>Va</seg>
       </tuv>
     </tu>
     <tu>
@@ -19433,8 +19433,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130705T021359Z">
-        <seg>Si marcate, le segmentos rendite essera marcate in jalne.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115354Z">
+        <seg>Si iste option es activate, le segmentos rendite essera marcate in jalne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20077,8 +20077,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T143053Z">
-        <seg>Si il ha plure traductiones alternative disponibile pro le segmento active, tu pote etiquettar le alternativa seligite ut le traduction prefixate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114825Z">
+        <seg>Si il ha plure traductiones alternative disponibile pro le segmento active, tu pote etiquettar le alternativa seligite ut traduction base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25919,16 +25919,16 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Next Segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T214411Z">
-        <seg>Al segmento sequente</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115012Z">
+        <seg>Al Segmento Sequente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100557Z">
-        <seg>A le segmento sequente non traducte</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114926Z">
+        <seg>Al Segmento sequente Non Rendite</seg>
       </tuv>
     </tu>
     <tu>
@@ -42851,8 +42851,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T125407Z">
-        <seg>Disface le Ultime actio</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114602Z">
+        <seg>Disface le Ultime Action</seg>
       </tuv>
     </tu>
     <tu>
@@ -43327,8 +43327,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095449Z">
-        <seg>Usa como Traduction Default</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T114800Z">
+        <seg>Usa como Traduction Base</seg>
       </tuv>
     </tu>
     <tu>
@@ -45031,16 +45031,16 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T145521Z">
-        <seg>Con iste commando tu pote regreder un segmento a un vece, pro retornar al segmento currente per le commando sequente &lt;g0&gt;Avantia in historia...&lt;/g0&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115226Z">
+        <seg>Con iste commando tu pote regreder un segmento a un vece, pro retornar al segmento currente per le commando sequente &lt;g0&gt;Avantia in chronologia...&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;...command.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T145003Z">
-        <seg>Con iste commando tu pote facer un passo avante al segmento, que tu ha previemente lassate per le commando &lt;g1&gt;Retrocede in historia&lt;/g1&gt;...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115200Z">
+        <seg>Con iste commando tu pote facer un passo avante al segmento, que tu ha previemente lassate per le commando &lt;g1&gt;Retrocede in chronologia&lt;/g1&gt;...</seg>
       </tuv>
     </tu>
     <tu>
@@ -58012,6 +58012,39 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T074053Z" creationid="MELO46" creationdate="20131227T074053Z">
         <seg>Insere le melior concordantia partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">View menu</prop>
+      <prop type="next">If checked, the translated segments will be marked in yellow.</prop>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115409Z" creationid="MELO46" creationdate="20131227T115314Z">
+        <seg>Marca le Segmentos Rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">If checked, the translated segments will be marked in yellow.</prop>
+      <prop type="next">If checked, the untranslated segments will be marked in violet.</prop>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115441Z" creationid="MELO46" creationdate="20131227T115441Z">
+        <seg>Marca le Segmentos Non Rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">The next segment with a note attached to it, will open.</prop>
+      <prop type="next">The previous segment with a note will open.</prop>
+      <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131227T115036Z" creationid="MELO46" creationdate="20131227T115036Z">
+        <seg>Nota previe</seg>
       </tuv>
     </tu>
     <tu>
