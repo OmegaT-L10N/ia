@@ -6212,8 +6212,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Dialog&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100821Z">
-        <seg>Dialogo del filtros del file</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T164336Z">
+        <seg>&lt;p0&gt;Dialogo&lt;/p0&gt; del &lt;s1&gt;Filtros del file&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58158,6 +58158,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T074053Z" creationid="MELO46" creationdate="20131227T074053Z">
         <seg>Insere le melior concordantia partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FileFilters.xml</prop>
+      <prop type="prev">&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Dialog&lt;/s1&gt;</prop>
+      <prop type="next">This dialog lists available file filters.</prop>
+      <tuv lang="EN">
+        <seg>File filters dialog</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T164402Z" creationid="MELO46" creationdate="20131228T164402Z">
+        <seg>Dialogo del filtros del file</seg>
       </tuv>
     </tu>
     <tu>
