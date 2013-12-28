@@ -16695,6 +16695,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T163146Z" creationid="MELO46" creationdate="20131228T163146Z">
+        <seg>Le formatos del file que non specifica lor codification usara le codification que tu prefixa pro le extension que concorda lor nomine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095023Z">
@@ -17315,6 +17323,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T081440Z">
         <seg>Per exemplo, si tu ha seligite ES-MX (Mexican Spanish) como le lingua de destination, le files del dictionario debe esser nominate es_MX.dic e es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T162856Z" creationid="MELO46" creationdate="20131228T162856Z">
+        <seg>Per exemplo, si vos vole le filtro de texto pro tractar le files readme  (&lt;l3&gt;readme, read.me&lt;/l3&gt;, e  &lt;l4&gt;readme.txt&lt;/l4&gt;) tu deberea usar le modello &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33918,6 +33934,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T081043Z">
         <seg>Codification del file fonte e del file final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T163641Z" creationid="MELO46" creationdate="20131228T163641Z">
+        <seg>Le campos de codification fonte e de destination usa quadratos de combination con omne le codificationes supportate includite.</seg>
       </tuv>
     </tu>
     <tu>
