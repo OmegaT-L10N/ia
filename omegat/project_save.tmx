@@ -33810,6 +33810,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T163936Z" creationid="MELO46" creationdate="20131228T163936Z">
+        <seg>Alicun vices tu pote desiderar de renominar automaticamente le files que tu rende, per exemplo con le addition de un codice de lingua post le nomine del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes, however, your translated file may look strange, and – in the worst case – may even refuse to open.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T163340Z">
