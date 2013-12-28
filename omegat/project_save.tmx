@@ -17287,6 +17287,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T160921Z" creationid="MELO46" creationdate="20131228T160921Z">
+        <seg>Per exemplo, per arrangiamento initial, le filtros XHTML son usate pro processar le files con le extension .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you agree to terms that obligate you</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155935Z" creationid="MELO46" creationdate="20131226T155935Z">
@@ -19823,6 +19831,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160040Z" creationid="MELO46" creationdate="20131226T160040Z">
         <seg>If the Program specifies that a proxy can decide which future</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T160749Z" creationid="MELO46" creationdate="20131228T160749Z">
+        <seg>Si es establite le filtro appropriate, le file es assignate a Illo pro le processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27215,8 +27231,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T222742Z">
-        <seg>OmegaT &amp;&amp;&amp;&amp;&amp;&amp;features highly customizable filters, enabling you to configure numerous aspects.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T143651Z">
+        <seg>OmegaT presenta filtros multo personalisabile, que habilita te a configurar plure aspectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45693,6 +45709,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T161147Z" creationid="MELO46" creationdate="20131228T161147Z">
+        <seg>Tu pote mutar o adder modellos de nomine de file, pro tractar cata file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130626T113000Z">
@@ -57614,6 +57638,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095407Z">
         <seg>{1}, realisate ab '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083805Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
