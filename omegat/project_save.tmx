@@ -3500,8 +3500,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T162655Z">
-        <seg>&lt;/e2&gt;Le character '*' equala zero o  plus characteres.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T161553Z">
+        <seg>&lt;/e2&gt;Le character salvage '*' equala zero o plus characteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33938,6 +33938,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T161525Z" creationid="MELO46" creationdate="20131228T161525Z">
+        <seg>Le modellos de nomine de file fonte usa characteres carta salvage similabile a illos usate in le &lt;e2&gt;Recercas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095043Z">
@@ -35649,8 +35657,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T162723Z">
-        <seg>Le character '?' equala exactemente un character.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20131228T161604Z">
+        <seg>Le character salvage '?' equala exactemente un character.</seg>
       </tuv>
     </tu>
     <tu>
