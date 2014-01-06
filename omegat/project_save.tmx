@@ -17911,6 +17911,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T223344Z" creationid="MELO46" creationdate="20140106T223344Z">
+        <seg>Que tu valida frequentemente le tags (vide Validation del tag) e genera le documentos rendite (vide in sequito e Menu) a intervallos regular pro facer illo plus facile piscar omne le problemas que surge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From Version 1.7.1 onwards, OmegaT has been able to handle Microsoft Office 2007 files directly, without conversion.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T080344Z">
@@ -23119,6 +23127,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T202759Z">
         <seg>Illo debe su origines al uso de MS Word como un interfacie pro le application CAT Trados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T222618Z" creationid="MELO46" creationdate="20140106T222618Z">
+        <seg>Il sia observate que quando &lt;a0&gt;OmegaT&lt;/a0&gt; es in modo RTL, tote le duo le fonte e le destination son monstrate in modo RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41013,6 +41029,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T153840Z">
         <seg>Isto significa que si tosto que un segmento es rendite, le identic traduction es automaticamente inserite in omne le identic segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T223037Z" creationid="MELO46" creationdate="20140106T223037Z">
+        <seg>Isto significa que si le lingua fonte es LTR e le lingua de destination es RTL, o vice versa, il pote esser necessari commutar in retro e in avante inter le modos RTL e LTR pro vider le fonte e inscriber le destination facilemente in lor respective modos.</seg>
       </tuv>
     </tu>
     <tu>
