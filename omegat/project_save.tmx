@@ -22659,6 +22659,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T221419Z" creationid="MELO46" creationdate="20140106T220906Z">
+        <seg>Illo pote alsi esser usate in omne le campos de entrata in &lt;a7&gt;OmegaT&lt;/a7&gt; - in Fenestra de Recerca, pro le regulas de segmentation et cetera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T135813Z">
@@ -43983,8 +43991,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T090357Z">
-        <seg>Usar &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causa ambe texto inscribite e apparentia in &lt;a6&gt;OmegaT&lt;/a6&gt; cambiar.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T221136Z">
+        <seg>Usar &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causa que ambe le textos cambia, illo inscribite e lo monstrate in &lt;a6&gt;OmegaT&lt;/a6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
