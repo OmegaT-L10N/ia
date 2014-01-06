@@ -5106,6 +5106,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T231624Z" creationid="MELO46" creationdate="20140106T231553Z">
+        <seg>&lt;e0&gt;sensitive al majusculas e minusculas&lt;/e0&gt;: le recerca essera effectuate pro le exacte linea de characteres specificate; id es es observate le capitalisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T224154Z">
@@ -9126,6 +9134,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130215T230346Z">
         <seg>Additional fenestras es disponibile, como dialogos, usate pro cambiar le preparationes del projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additionally to one of the methods above you can select the following:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T231232Z" creationid="MELO46" creationdate="20140106T231232Z">
+        <seg>In addition pro uno del methodos precedente tu pote seliger le sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32498,6 +32514,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T231118Z" creationid="MELO46" creationdate="20140106T231118Z">
+        <seg>Cerca pro le segmentos continente omne le parolas clave tu specificava, in omne positura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T213912Z">
@@ -37557,6 +37581,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230656Z" creationid="MELO46" creationdate="20140106T230656Z">
+        <seg>Le lista sequente include expressiones que tu pote trovar utile quando cerca per le memoria de traduction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T121740Z">
@@ -39511,6 +39543,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word or phrase is entered in the Search for box automatically.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230830Z" creationid="MELO46" creationdate="20140106T230830Z">
+        <seg>Le parola o phrase es inscribite in le Cassa pro le recerca automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095519Z">
@@ -40085,6 +40125,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T081900Z">
         <seg>Comocunque illos es devenite un phenomeno importante in le fluxos del labor de traduction involvente applicationes CAT, e illos saepe constitue le obstaculo maxime al compatibilitate inter OmegaT e le altere applicationes CAT (o pro ille materia inter applicationes CAT in general).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They have the meaning, familiar to Word users:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230930Z" creationid="MELO46" creationdate="20140106T230930Z">
+        <seg>Illos ha le significato, familiar al usatores de Word:</seg>
       </tuv>
     </tu>
     <tu>
