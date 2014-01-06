@@ -7084,8 +7084,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Creating RTL target files&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T163856Z">
-        <seg>&lt;p0&gt;Linguas de dextra al leva&lt;/p0&gt; &lt;s1&gt;Crear files final RTL&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T062917Z">
+        <seg>&lt;p0&gt;Linguas de dextra al leva&lt;/p0&gt; &lt;s1&gt;Crear files de destination RTL&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,8 +7116,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Target files&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T163916Z">
-        <seg>&lt;p0&gt;Linguas de dextra al leva&lt;/p0&gt; &lt;s1&gt;Files final&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T062943Z">
+        <seg>&lt;p0&gt;Linguas de dextra al leva&lt;/p0&gt; &lt;s1&gt;Files de destination&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8534,6 +8534,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T220125Z">
         <seg>Un bon puncto de initio essera semper le regulas existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T062856Z" creationid="MELO46" creationdate="20140106T062856Z">
+        <seg>Un consilio: render un version del file in texto simple e adder le stilo necessari in le application pertinente in un tempore subsequente, pote revelar se un incommoditate minor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15291,6 +15299,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144527Z">
         <seg>Each licensee is addressed as "you".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T063215Z" creationid="MELO46" creationdate="20140106T063215Z">
+        <seg>Cata formato emittite ha manieras specific de tractar con le monstra RTL; controla le manuales del application pertinente pro le detalios.</seg>
       </tuv>
     </tu>
     <tu>
