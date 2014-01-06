@@ -17415,6 +17415,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T065638Z" creationid="MELO46" creationdate="20140106T065638Z">
+        <seg>Per exemplo, quando tu ha un file de texto checo (multo probabilemente scribite in le codice &lt;e2&gt;ISO-8859-2&lt;/e2&gt; ) tu debe sol cambiar le extension&lt;l3&gt; .txt&lt;/l3&gt; in &lt;l4&gt;.txt2 &lt;/l4&gt;e &lt;a5&gt;OmegaT&lt;/a5&gt; interpretara su contentos correctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T061114Z">
@@ -40627,8 +40635,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T065216Z" creationid="MELO46" creationdate="20140106T065216Z">
-        <seg>Isto es nulle problema pro files codificate in Unicode con un collection de codification de character a 16 bit encoding set.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T065333Z" creationid="MELO46" creationdate="20140106T065216Z">
+        <seg>Isto es nulle problema pro files codificate in Unicode con un collection de codification de character a 16 bit.</seg>
       </tuv>
     </tu>
     <tu>
