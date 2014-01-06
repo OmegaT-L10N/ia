@@ -29001,6 +29001,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T060131Z" creationid="MELO46" creationdate="20140106T060131Z">
+        <seg>Altere typos de plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T100956Z" creationid="MELO" creationdate="20131219T100956Z">
