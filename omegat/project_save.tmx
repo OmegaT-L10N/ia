@@ -17399,6 +17399,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T222233Z" creationid="MELO46" creationdate="20140106T222233Z">
+        <seg>Per exemplo, in le tags OmegaT, le nomines de producto que debe restar lassate in le lingua fonte LTR, pone recipientes in le files de localisation, e numeros in le texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T051652Z">
@@ -21443,6 +21451,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T222448Z" creationid="MELO46" creationdate="20140106T222448Z">
+        <seg>In casos como istos deveni necessari commutar al modo RTL, de maniera que le texto RTL (de facto bidirectional) sia monstrate correctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T124642Z">
@@ -21487,6 +21503,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T075102Z">
         <seg>In su forma plus basic, iste commando es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T221901Z" creationid="MELO46" creationdate="20140106T221901Z">
+        <seg>In multe casos, tamen, il es necessari incastrar texto LTR in texto RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44825,6 +44849,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155630Z" creationid="MELO46" creationdate="20131226T155630Z">
         <seg>When we speak of free software, we are referring to freedom, not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T221805Z" creationid="MELO46" creationdate="20140106T221805Z">
+        <seg>Quando on scribe texto purmente RTL, pote esser usate le vista base (LTR).</seg>
       </tuv>
     </tu>
     <tu>
