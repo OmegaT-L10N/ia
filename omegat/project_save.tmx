@@ -11018,6 +11018,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before proceeding with such conversions, be sure to test all options.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T214954Z" creationid="MELO46" creationdate="20140106T214914Z">
+        <seg>Ante que proceder con tal conversiones, assecura te de essayar omne le optiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before reporting a bug, make sure that you have thoroughly checked the</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094722Z">
@@ -11502,6 +11510,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T163713Z">
         <seg>Per arrangiamento initial, OmegaT uses automatic match propagation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T215304Z" creationid="MELO46" creationdate="20140106T215000Z">
+        <seg>per arrangiamento prefixate initial, le justification sinistre es usate pro le linguas ab Sinistra a Dextera (Left-To-Right - LTR) e le justification dextre pro le linguas ab Dextera a Sinistra (Right-To-Left - RTL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23391,8 +23407,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085907Z">
-        <seg>le justification del segmentos fonte e final depende sur le linguas del projecto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T215031Z">
+        <seg>Le justification del segmentos fonte e de destination depende ex le linguas del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38375,6 +38391,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T214853Z" creationid="MELO46" creationdate="20140106T214853Z">
+        <seg>Le qualitate del formattation del file rendite dependera ex le qualitate del conversiones del giro rondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The quality of the Google Translate translation depends on one side on the reservoir of target-language texts and the availability of their bilingual versions, on the other hand on the quality of the models built.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T220305Z">
@@ -51732,8 +51756,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>import the file into ODF writer</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085319Z">
-        <seg>importa le file in un scriptor ODF</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T214555Z">
+        <seg>importa le file in un application de tractamento texto ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -52764,8 +52788,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>load the target file in ODF writer</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085511Z">
-        <seg>carga le file final in un scriptor ODF</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T214655Z">
+        <seg>carga le file rendite in le application de tractamento texto ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -55316,8 +55340,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>save the file as a DOC file</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085549Z">
-        <seg>salva le file como file DOC file</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T214711Z">
+        <seg>salva le file como file DOC</seg>
       </tuv>
     </tu>
     <tu>
