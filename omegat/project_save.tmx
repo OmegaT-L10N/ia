@@ -11996,8 +11996,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Check simple java MessageFormat patterns</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130808T152132Z">
-        <seg>Check simple java MessageFormat patterns</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T064305Z">
+        <seg>Controla modellos simplice MessageFormat java</seg>
       </tuv>
     </tu>
     <tu>
@@ -20731,6 +20731,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T064507Z" creationid="MELO46" creationdate="20140106T064507Z">
+        <seg>Si tu debe vider le tags in OmegaT ma non necessita conservar le major parte del formattation in le documento rendite tu es libere ne includer le tags in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T083514Z">
@@ -24577,6 +24585,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T113426Z">
         <seg>Le usatores de Mac usara in vice le &lt;s8&gt;&lt;s9&gt;clave&lt;/s9&gt;&lt;/s8&gt;+&lt;s10&gt;&lt;s11&gt;Cmd&lt;/s11&gt;&lt;/s10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac users should instead use the &lt;g2&gt;cmd+key.&lt;/g2&gt; On Apple keyboards the &lt;g3&gt;cmd&lt;/g3&gt; key either has a command label or an Apple icon on it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T065018Z" creationid="MELO46" creationdate="20140106T065018Z">
+        <seg>Le usatores de Mac usa in vice le &lt;g2&gt;cmd+key.&lt;/g2&gt; Sur le clavieros Apple le clave &lt;g3&gt;cmd&lt;/g3&gt; o ha sur illo un etiquetta command o un icone pomo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40609,6 +40625,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T065216Z" creationid="MELO46" creationdate="20140106T065216Z">
+        <seg>Isto es nulle problema pro files codificate in Unicode con un collection de codification de character a 16 bit encoding set.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is not recommended, particularly if you are unfamiliar with Linux.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T094253Z">
@@ -44545,6 +44569,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T064632Z">
         <seg>Quando es OmegaT  aperte un segmento continente iste linea, le script emitte un advertimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When another window is on the foreground, click on the main window to bring it to the foreground or press &lt;k0&gt;Esc&lt;/k0&gt; to close the other window.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T064714Z" creationid="MELO46" creationdate="20140106T064714Z">
+        <seg>Quando un altere fenestra es sur le prime plano, clicca sur le fenestra principal pro apportar lo al prime plano o pulsa &lt;k0&gt;Esc&lt;/k0&gt; pro clauder le altere fenestra.</seg>
       </tuv>
     </tu>
     <tu>
