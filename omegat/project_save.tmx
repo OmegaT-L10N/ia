@@ -29003,8 +29003,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T060131Z" creationid="MELO46" creationdate="20140106T060131Z">
-        <seg>Altere typos de plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T060837Z" creationid="MELO46" creationdate="20140106T060131Z">
+        <seg>Altere typos de file de texto simple pote esser tractate per &lt;a0&gt;OmegaT&lt;/a0&gt; associante lor extension al typo de file supportate (exempli gratia, le files .pod pote esser associate al filtro de texto ASCII) e pre-processante illos con regulas de segmentation specific. </seg>
       </tuv>
     </tu>
     <tu>
@@ -32606,6 +32606,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130705T184714Z">
         <seg>Vide le appendice&lt;e1&gt; Menu Principal&lt;/e1&gt; pro un description complete re omne menus e commandos del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T061105Z" creationid="MELO46" creationdate="20140106T061105Z">
+        <seg>Vidite ab iste puncto de vista, illos son files de texto simple&lt;e1&gt; plus&lt;/e1&gt; memorias de traduction.</seg>
       </tuv>
     </tu>
     <tu>
