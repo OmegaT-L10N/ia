@@ -230,6 +230,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234141Z" creationid="MELO46" creationdate="20140106T234141Z">
+        <seg>"\." sta pro le character periodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234242Z" creationid="MELO46" creationdate="20140106T234242Z">
+        <seg>"\s" significa qualcunque character spatio blanc (spatio, tabulation, pagina nove et cetera.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"aggregate" if the compilation and its resulting copyright are not</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155746Z" creationid="MELO46" creationdate="20131226T155746Z">
@@ -4054,6 +4070,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T164207Z">
         <seg>&lt;b0&gt;Crea traduction alternative&lt;/b0&gt;: rende le segmento unic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T235538Z" creationid="MELO46" creationdate="20140106T235538Z">
+        <seg>&lt;b0&gt;Formattation &lt;b1&gt;uno&lt;/b0&gt; &lt;/b1&gt;es multo confuse ora.&lt;segment 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14855,6 +14879,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234108Z" creationid="MELO46" creationdate="20140106T234108Z">
+        <seg>Non segmentar post M. Mr. Mrs. e Ms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not segment after Mr.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T094425Z">
@@ -20139,6 +20171,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T235059Z" creationid="MELO46" creationdate="20140106T235059Z">
+        <seg>Si le documento permitte, le traductor es fortemente incitate a remover le information del stilo ab le documento fonte assi que in le interfacie OmegaT appare tam pauc tags quam possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T154439Z">
@@ -20191,6 +20231,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T150011Z">
         <seg>Si le option es disactivate, le texto fonte essera copiate al segmento destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T235319Z" creationid="MELO46" creationdate="20140106T235319Z">
+        <seg>Si le documento original esseva LTR, le direction de monstra del documento de destination debe esser cambiate manualmente a RTL in su application de vista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21703,6 +21751,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T064509Z">
         <seg>Pro automatisar le plus possibile iste processo, on debe satisfacer in particular a duo conditiones: in prime loco, le memoria de traduction debe continer le informationes de formato (vider supra); e in secunde loco, le regulas de segmentation applicate al texto debe esser identic a illos applicate quando esseva producite le memoria de traduction (o parte de illo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T233734Z" creationid="MELO46" creationdate="20140106T233734Z">
+        <seg>Pro crear un collection de regulas vacue pro un modello de lingua nove clicca &lt;e0&gt;Adde &lt;/e0&gt;in le medietate superior del fenestra de dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28721,6 +28777,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One can enter a regular expression for unwanted contents in the target.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T235652Z" creationid="MELO46" creationdate="20140106T235652Z">
+        <seg>On pote scriber un expression regular pro contentos importun in le destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094221Z">
@@ -33494,6 +33558,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233147Z">
         <seg>Serbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234025Z" creationid="MELO46" creationdate="20140106T234025Z">
+        <seg>Prefixa un segmento post "。" (periodo japonese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40457,6 +40529,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T233937Z" creationid="MELO46" creationdate="20140106T233937Z">
+        <seg>Isto es un regula de exception, ergo le quadrato de controlo del regula non debe esser marcate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This aspect makes it especially useful for repetitive material.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131220T025201Z">
@@ -47390,6 +47470,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T122148Z">
         <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234115Z" creationid="MELO46" creationdate="20140106T234115Z">
+        <seg>\.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59121,12 +59209,72 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234452Z" creationid="MELO46" creationdate="20140106T234452Z">
+        <seg>&amp;Salva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_COMMENT</prop>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234501Z" creationid="MELO46" creationdate="20140106T234501Z">
+        <seg>Commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_CHARTABLE_VIEW</prop>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234433Z" creationid="MELO46" creationdate="20140106T234433Z">
+        <seg>Tabella del Character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">CT_STATSMATCH_PER_FILE_WindowHeader</prop>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234415Z" creationid="MELO46" creationdate="20140106T234415Z">
+        <seg>Statistica del concordantias per File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">HUNSPELL_TOKENIZER_DICT_NOT_INSTALLED</prop>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234514Z" creationid="MELO46" creationdate="20140106T234514Z">
+        <seg>Advertimento!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
       <prop type="id">LD_ERROR</prop>
       <tuv lang="EN">
         <seg>ERROR: {0}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T131739Z" creationid="MELO46" creationdate="20131224T131739Z">
         <seg>ERROR:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_SINGLE_COMPILE</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T234356Z" creationid="MELO46" creationdate="20140106T234356Z">
+        <seg>Crea le documentos rendite actual &amp;Document</seg>
       </tuv>
     </tu>
     <tu>
