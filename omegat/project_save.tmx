@@ -22683,6 +22683,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T220058Z" creationid="MELO46" creationdate="20140106T220058Z">
+        <seg>Illo pote esser usate in modo  separate pro omne le tres quadros (Modifica, Concordantias Partial e Glossario) cliccante sur le quadro e commutante le modo de monstra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T064955Z" creationid="MELO" creationdate="20131219T064955Z">
@@ -37053,6 +37061,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T215851Z" creationid="MELO46" creationdate="20140106T215851Z">
+        <seg>Le modo de monstra del documentos rendite debe esser modificate intra le application (como Microsoft Word) usate communmente pro monstrar o modificar los (controla le manuales pertinente pro le detalios).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T083405Z">
@@ -44061,6 +44077,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T215638Z" creationid="MELO46" creationdate="20140106T215638Z">
+        <seg>Usar le modo RTL in &lt;a0&gt;OmegaT&lt;/a0&gt; non ha influentia alicun sur le modo de monstra del documentos rendite create in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T090526Z">
@@ -46379,6 +46403,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T073444Z">
         <seg>Tu pote ergo seliger un parola alicubi in &lt;a2&gt;OmegaT&lt;/a2&gt; e usar le Servicios pro controlar iste parola, per exemplo in Spotlight o in Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T215457Z" creationid="MELO46" creationdate="20140106T215457Z">
+        <seg>Tu pote commutar inter modos de monstra differente pulsante &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (isto es le littera O e non le numeral 0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52636,8 +52668,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>left justification</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T090206Z">
-        <seg>justification leve</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T215521Z">
+        <seg>justification sinistre</seg>
       </tuv>
     </tu>
     <tu>
