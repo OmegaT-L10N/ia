@@ -29281,6 +29281,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T224014Z" creationid="MELO46" creationdate="20140106T224014Z">
+        <seg>Le superposition es le resultato del mal tractamentos de pares de tag e es garantite resultar in in corruption del formato e alicun vices in le file rendite que non aperi del toto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Overview of OmegaT versions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130516T102923Z">
@@ -31174,6 +31182,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T172031Z">
         <seg>Recorda que cata bon reporto de defecto necessita justo tres cosas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember that if you find tags a problem in OmegaT and formatting is not extremely relevant for the current translation, removing tags may be the easiest way out of problems.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T224337Z" creationid="MELO46" creationdate="20140106T224337Z">
+        <seg>Recorda que si tu trova le tags un problema in OmegaT e le formattation non es extrememente relevante pro le traduction actual, remover le tags pote esser le maniera plus facile pro le exito del problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44825,6 +44841,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065115Z" creationid="MELO" creationdate="20131219T065115Z">
         <seg>When the Document is included in an aggregate, this License does not apply to the other works in the aggregate which are not themselves derivative works of the Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T223559Z" creationid="MELO46" creationdate="20140106T223559Z">
+        <seg>Quando es create le documento rendite, su direction de monstra essera le mesme ut celle del documento fonte.</seg>
       </tuv>
     </tu>
     <tu>
