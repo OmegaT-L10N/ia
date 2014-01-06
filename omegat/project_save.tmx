@@ -2702,8 +2702,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>...the system will display it like this for instance:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130820T223205Z">
-        <seg>...le systema monstrara lo affin isto per exemplo:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T224914Z">
+        <seg>...le systema monstrara illo como isto per exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6014,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T220212Z">
         <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; outputFileName&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;.txt1&lt;/l0&gt; files are files in ISO-8859-1, covering most &lt;e1&gt;Western Europe&lt;/e1&gt; languages.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T225510Z" creationid="MELO46" creationdate="20140106T225510Z">
+        <seg>le files &lt;l0&gt;.txt1&lt;/l0&gt; son in ISO-8859-1, covering most &lt;e1&gt;Western Europe&lt;/e1&gt; languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;.txt2&lt;/l0&gt; files are files in ISO-8859-2, that covers most &lt;e1&gt;Central and Eastern Europe&lt;/e1&gt; languages</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T225525Z" creationid="MELO46" creationdate="20140106T225436Z">
+        <seg>le files &lt;l0&gt;.txt2&lt;/l0&gt; son in ISO-8859-2, que concerne le major parte del linguas del &lt;e1&gt;Europe Central e Oriental &lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20143,6 +20159,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102659Z">
         <seg>Si le corrector orthographic es non functionante, alora face secur in prime loco que le cassa de marca &lt;g0&gt;"Controla automaticamente le orthographia del texto"&lt;/g0&gt; in le dialogo del corrector orthographic  (&lt;g1&gt;Optiones &gt; correction orthographic...)&lt;/g1&gt; es marcate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T224807Z" creationid="MELO46" creationdate="20140106T224807Z">
+        <seg>Si le texto es codificate in 8 bits, tamen, on pote esser affrontate con le situation difficile sequente: in vice de monstrar le texto, pro le characteres japonese...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36889,6 +36913,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T225116Z" creationid="MELO46" creationdate="20140106T225116Z">
+        <seg>Le computator, functionante OmegaT, ha le russo como lingua base, e assi monstra le characteres in le alphabeto cyrillic e non in Kanji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -38075,6 +38107,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T222126Z">
         <seg>Le plus importante de istos es &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, e optionalmente &lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T224617Z" creationid="MELO46" creationdate="20140106T224617Z">
+        <seg>Le maxime que OmegaT pote facer in tal caso, es assumer que le texto es scribite in le mesme lingua que usa le computator ipse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46113,6 +46153,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T123250Z">
         <seg>Tu pote cambiar le position de qualcunque quadro o etiam levar lo a un fenestra separate cliccante e tirante le quadro ab su nomine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T225301Z" creationid="MELO46" creationdate="20140106T225301Z">
+        <seg>Tu pote controlar que tu mesme seligente le commando &lt;e0&gt;Filtros de File&lt;/e0&gt; in le menu &lt;e1&gt;Optiones&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
