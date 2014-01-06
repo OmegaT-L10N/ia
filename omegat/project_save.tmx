@@ -7386,6 +7386,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Exception rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T233132Z" creationid="MELO46" creationdate="20140106T233132Z">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Regulas&lt;/s1&gt; &lt;t2&gt;Regula de exception&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Sentence level segmentation&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T215519Z">
@@ -10638,6 +10646,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T095239Z">
         <seg>Actualmente, istos include tote le versiones de Microsoft Windows partir de Windows 98 in avante, Mac OS X, e le major parte del distributiones de Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T232717Z" creationid="MELO46" creationdate="20140106T232717Z">
+        <seg>Al mesme tempore le segmentos valide previe in le memoria de traduction del projecto rotara in segmentos orphane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15259,6 +15275,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T211838Z">
         <seg>Durante le installation, dependente de tu systema operative, tu pote reciper plure advertimentos de securitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T232905Z" creationid="MELO46" creationdate="20140106T232905Z">
+        <seg>Durante iste processo il es solmente le structura del file fonte que es usate pro generar le segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21679,6 +21703,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T064509Z">
         <seg>Pro automatisar le plus possibile iste processo, on debe satisfacer in particular a duo conditiones: in prime loco, le memoria de traduction debe continer le informationes de formato (vider supra); e in secunde loco, le regulas de segmentation applicate al texto debe esser identic a illos applicate quando esseva producite le memoria de traduction (o parte de illo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T233423Z" creationid="MELO46" creationdate="20140106T233423Z">
+        <seg>Pro modificar o expander un collection de regulas existente, clicca simplemente sur illo in le summitate del tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38759,6 +38791,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T233523Z" creationid="MELO46" creationdate="20140106T233523Z">
+        <seg>Le regulas pro ce collection apparera in le medietate basso del fenestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T154923Z" creationid="MELO" creationdate="20131219T100232Z">
@@ -42797,6 +42837,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T134004Z">
         <seg>TransTips/Exact Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T233103Z" creationid="MELO46" creationdate="20140106T233103Z">
+        <seg>Le attributos de objecto traducibile in le files XHTML o HTML pote esser extrahite como segmentos separate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56078,6 +56126,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155916Z" creationid="MELO46" creationdate="20131226T155916Z">
         <seg>specifically granted under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T233238Z" creationid="MELO46" creationdate="20140106T233238Z">
+        <seg>specifica qual partes de texto NON deberea esser separate.</seg>
       </tuv>
     </tu>
     <tu>
