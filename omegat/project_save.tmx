@@ -7546,6 +7546,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Mixing RTL and LTR strings&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T061907Z" creationid="MELO46" creationdate="20140106T061907Z">
+        <seg>&lt;p0&gt;Files fonte&lt;/p0&gt; &lt;s1&gt;Miscer lineas de character RTL e LTR&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Other file formats&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T174706Z">
@@ -7764,8 +7772,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt; &lt;s2&gt;Tagged text&lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T144020Z">
-        <seg>&lt;p0&gt;Files final&lt;/p0&gt; &lt;s1&gt;Files de texto formattate&lt;/s1&gt; &lt;s2&gt;Texto Taggate&lt;/s2&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T061205Z">
+        <seg>&lt;p0&gt;Files de destination&lt;/p0&gt; &lt;s1&gt;Files de texto formattate&lt;/s1&gt; &lt;s2&gt;Texto taggate&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7774,6 +7782,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T174841Z">
         <seg>&lt;p0&gt;Files final&lt;/p0&gt; &lt;s1&gt;Texto formattate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Mixing RTL and LTR strings&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T061817Z" creationid="MELO46" creationdate="20140106T061817Z">
+        <seg>&lt;p0&gt;Files de destination&lt;/p0&gt; &lt;s1&gt;Miscer lineas de character RTL e LTR&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24517,6 +24533,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T061658Z" creationid="MELO46" creationdate="20140106T061658Z">
+        <seg>Que le usatores de Mac OS X nota: usar le via breve &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; e &lt;e4&gt;non &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T060620Z">
@@ -25377,6 +25401,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T101606Z">
         <seg>Le segmentos mal rendite pote esser naturalmente correcte plus tarde manualmente per le commando &lt;g0&gt;Crea Traduction Alternative&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mixing RTL and LTR strings in segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T061932Z" creationid="MELO46" creationdate="20140106T061932Z">
+        <seg>Miscer lineas de character RTL e LTR in le segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -39637,6 +39669,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T143618Z">
         <seg>Illos es omne vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are commonly created in word processors or HTML editors.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T061457Z" creationid="MELO46" creationdate="20140106T061457Z">
+        <seg>Illos son create communmente in applicationes de tractamento texto o editores de formato HTML .</seg>
       </tuv>
     </tu>
     <tu>
