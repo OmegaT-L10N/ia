@@ -6020,16 +6020,16 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;.txt1&lt;/l0&gt; files are files in ISO-8859-1, covering most &lt;e1&gt;Western Europe&lt;/e1&gt; languages.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T225510Z" creationid="MELO46" creationdate="20140106T225510Z">
-        <seg>le files &lt;l0&gt;.txt1&lt;/l0&gt; son in ISO-8859-1, covering most &lt;e1&gt;Western Europe&lt;/e1&gt; languages.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T225750Z" creationid="MELO46" creationdate="20140106T225510Z">
+        <seg>Le files &lt;l0&gt;.txt1&lt;/l0&gt; son in ISO-8859-1, que coperi le major parte del linguas del &lt;e1&gt;Europa occidental&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;.txt2&lt;/l0&gt; files are files in ISO-8859-2, that covers most &lt;e1&gt;Central and Eastern Europe&lt;/e1&gt; languages</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T225525Z" creationid="MELO46" creationdate="20140106T225436Z">
-        <seg>le files &lt;l0&gt;.txt2&lt;/l0&gt; son in ISO-8859-2, que concerne le major parte del linguas del &lt;e1&gt;Europe Central e Oriental &lt;/e1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T225713Z" creationid="MELO46" creationdate="20140106T225436Z">
+        <seg>Le files &lt;l0&gt;.txt2&lt;/l0&gt; son in ISO-8859-2, que concerne le major parte del linguas del &lt;e1&gt;Europa Central e Oriental &lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8514,6 +8514,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A digit: [0-9]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230342Z" creationid="MELO46" creationdate="20140106T230342Z">
+        <seg>Un cifra: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few simple examples</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T202039Z">
@@ -8590,6 +8598,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T155625Z">
         <seg>Es alora create un nove version del TM maestro, o pro ser placiate in le sub plicas &lt;e3&gt;tm/auto&lt;/e3&gt; del membros del equipa o pro reimplaciar lor files &lt;f4&gt;project_save.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-digit: [^0-9]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230356Z" creationid="MELO46" creationdate="20140106T230356Z">
+        <seg>Un non-cifra: [^0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230529Z" creationid="MELO46" creationdate="20140106T230529Z">
+        <seg>Un character non-spatio blanc: [^\s]</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,6 +8782,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T042245Z">
         <seg>Un unitate de traduction include al minus duo variantes de unitate de traduction (TUV).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230412Z" creationid="MELO46" creationdate="20140106T230412Z">
+        <seg>Un character spatio blanc: [ \t\n\x0B\f\r]</seg>
       </tuv>
     </tu>
     <tu>
@@ -10098,6 +10130,14 @@ Le file TMX non essera cargate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155824Z" creationid="MELO46" creationdate="20131226T155824Z">
         <seg>Any attempt otherwise to propagate or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230326Z" creationid="MELO46" creationdate="20140106T230326Z">
+        <seg>Cata character (excepte pro le terminatores del linea)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31034,6 +31074,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230143Z" creationid="MELO46" creationdate="20140106T230143Z">
+        <seg>Classes - Regex pro blocos Unicode e categorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Examples of regular expressions in translations</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T123106Z">
@@ -31054,6 +31102,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T122631Z">
         <seg>Regex - Operatores Logic </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230237Z" creationid="MELO46" creationdate="20140106T230237Z">
+        <seg>Regex - Classes de character prefixate</seg>
       </tuv>
     </tu>
     <tu>
@@ -40865,6 +40921,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230043Z" creationid="MELO46" creationdate="20140106T230043Z">
+        <seg>Isto necessita si tu amarea inscriber alicun del meta characteres !$()*+.&lt;&gt;?[\]^{|} pro concordar con ipsos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is safe,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094639Z">
@@ -47534,6 +47598,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T091514Z">
         <seg>un file singule o un plica continente un serie de files (marca &lt;e0&gt;Cerca files)&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T230219Z" creationid="MELO46" creationdate="20140106T230219Z">
+        <seg>De a per z o A per Z, inclusive (campo)</seg>
       </tuv>
     </tu>
     <tu>
