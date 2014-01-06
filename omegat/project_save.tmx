@@ -10572,8 +10572,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>At the time of writing, OmegaT supports the following formatted text formats:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085118Z">
-        <seg>Al tempore del scriptura, OmegaT supporta le textos formattate in le sequente formatos</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203850Z">
+        <seg>Al tempore del scriptura, OmegaT supporta le textos formattate in le sequente formatos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,6 +21475,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203259Z" creationid="MELO46" creationdate="20140106T203219Z">
+        <seg>In le major parte del obras de traduction, il es considerate importante, pro le formattation del texto fontal, trovar se retenite in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In no&amp;tes</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095053Z">
@@ -25343,8 +25351,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T130719Z">
-        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203957Z">
+        <seg>Formato Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26927,8 +26935,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T130716Z">
-        <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203938Z" creationid="MELO46" creationdate="20140106T203938Z">
+        <seg>ODF - Formato OASIS Open Document (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27209,6 +27217,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T092635Z">
         <seg>OmegaT lingua del interfacie del usator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows you to do this by marking the characters/words that have a special formatting with easy-to-handle tags.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203506Z" creationid="MELO46" creationdate="20140106T203506Z">
+        <seg>OmegaT permitte te de facer isto remarcante le characteres/parolas que ha un special formattation con tags facile a tractar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33556,8 +33572,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T100724Z" creationid="MELO" creationdate="20131219T100724Z">
-        <seg>Simplificar le formattation original contribue assatis a reducer le numero de tags.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203516Z" creationid="MELO" creationdate="20131219T100724Z">
+        <seg>Comocunque, simplificar le formattation original contribue assatis a reducer le numero de tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44921,6 +44937,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T080919Z">
         <seg>Ubi le paragraphos contine formato integrate (nigrato, italico, ligamines, etc.), tu pote o:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203844Z" creationid="MELO46" creationdate="20140106T203844Z">
+        <seg>Unificar le typos de character, le dimensiones de typo de character, le colores, et cetera usate in le documento, Ubi possibile, simplifica le labor de traduction e reduce le possibile numero de errores del tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58313,6 +58337,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131228T164402Z" creationid="MELO46" creationdate="20131228T164402Z">
         <seg>Dialogo del filtros del file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</prop>
+      <prop type="next">HTML Help Compiler (*.hhc, *.hhk)</prop>
+      <tuv lang="EN">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204021Z" creationid="MELO46" creationdate="20140106T204021Z">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
     </tu>
     <tu>
