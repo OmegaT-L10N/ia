@@ -21515,6 +21515,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T063927Z" creationid="MELO46" creationdate="20140106T063927Z">
+        <seg>In altere parolas, quando tu move tags accopulate, assecurar te que tote le duo tags de apertura e de clausura son ambe o interior o externe al altere pares de tag, o le file rendite pote esser corrupte e faller a aperir se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In paragraphs containing lots of formatting, restoring the deleted formatting can be quite a lot of work.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T074013Z">
