@@ -19535,6 +19535,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T202520Z" creationid="MELO46" creationdate="20140106T202520Z">
+        <seg>Si pro un segmento fonte date Il non ha adhuc traduction existente in le memoria de traduction del projecto memory (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quomodo traduction base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If for a given source segment there is no entry for the selected target language, all other target segments are loaded, regardless of the language.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T065438Z">
@@ -21391,6 +21399,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T091855Z">
         <seg>In caso que tu decide te a modificar le plicas del projecto, mantene in mente que iste non movera le files existente ex le vetule plicas al nove ubication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T202800Z" creationid="MELO46" creationdate="20140106T202800Z">
+        <seg>Comocunque, In caso que le identic segmento fonte existe jam con un traduction differente, le nove traduction essera salvate como un alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32692,8 +32708,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T061105Z" creationid="MELO46" creationdate="20140106T061105Z">
-        <seg>Vidite ab iste puncto de vista, illos son files de texto simple&lt;e1&gt; plus&lt;/e1&gt; memorias de traduction.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T202141Z" creationid="MELO46" creationdate="20140106T061105Z">
+        <seg>Ab iste puncto de vista illos son files de texto simple&lt;e1&gt; plus&lt;/e1&gt; memorias de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37401,6 +37417,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130520T131327Z">
         <seg>Le formatos es anque usate in MS Office 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T203031Z" creationid="MELO46" creationdate="20140106T203031Z">
+        <seg>Le information de formattation pote esser tan simplice como “isto es nigrate”, o tan complexe ut un tabella de datos con le differente dimensiones de typo de character, colores, positiones, et cetera.</seg>
       </tuv>
     </tu>
     <tu>
