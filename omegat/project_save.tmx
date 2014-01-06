@@ -3748,8 +3748,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T072204Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; es un application gratuite de Traduction Assistite ab Computator (Computer Aided Translation - CAT), pro multe systemas operative e con le sequente aspectos notabile:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T213445Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; es un application gratuite de Traduction Assistite per le Computator (Computer Aided Translation - CAT), pro multe systemas operative e con le sequente aspectos notabile:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17351,6 +17351,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T214250Z" creationid="MELO46" creationdate="20140106T214250Z">
+        <seg>Per exemplo, si tu ha un version vetule de Microsoft Word, que non tracta le formato ODT, ecce un giro rotunde pro files Word con le extension DOC:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T081440Z">
@@ -17795,6 +17803,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T174407Z">
         <seg>Files de texto formattate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatted text files contain information such as font type, size, color etc. as well as text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T213750Z" creationid="MELO46" creationdate="20140106T213750Z">
+        <seg>Le files de texto formattate contine information tal como typo de character, mesura, color et cetera assi como le texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39059,6 +39075,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095043Z">
         <seg>Le lingua del file rendite inscribite es invalide!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated files will then need to be converted back to the original format.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T214030Z" creationid="MELO46" creationdate="20140106T214030Z">
+        <seg>Le files rendite necessitara deinde esser convertite a reverso al formato original.</seg>
       </tuv>
     </tu>
     <tu>
