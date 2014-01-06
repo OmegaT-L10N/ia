@@ -10024,8 +10024,8 @@ Le file TMX non essera cargate.</seg>
       <tuv lang="EN">
         <seg>Android resource (*.xml)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101111Z">
-        <seg>- Ressources Android (*.xml)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204227Z">
+        <seg>Ressources Android (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18497,8 +18497,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101108Z">
-        <seg>- HTML Help Compiler (*.hhc, *.hhk)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204114Z">
+        <seg>Compilator de Adjuta HTML (*.hhc, *.hhk)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29101,6 +29101,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101118Z">
         <seg>Altere formatos del files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204759Z" creationid="MELO46" creationdate="20140106T204759Z">
+        <seg>Altere typos de file de texto formattate pote alsi esser tractate per OmegaT associante lor extensiones de file a un typo de file supportate, supponente que le regulas de segmentation correspondente segmentara illos correctemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45031,8 +45039,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>WiX Localization (*.wxl)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101113Z">
-        <seg>- WiX localisation (*.wxl)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204407Z">
+        <seg>Localisation WiX (*.wxl)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58348,6 +58356,127 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T204021Z" creationid="MELO46" creationdate="20140106T204021Z">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">Wordfast TXML (*.txml)</prop>
+      <prop type="next">Visio (*.vxd)</prop>
+      <tuv lang="EN">
+        <seg>Camtasia for Windows (*.camproj)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204503Z" creationid="MELO46" creationdate="20140106T204503Z">
+        <seg>Camtasia pro Windows (*.camproj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">HTML Help Compiler (*.hhc, *.hhk)</prop>
+      <prop type="next">XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</prop>
+      <tuv lang="EN">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204141Z" creationid="MELO46" creationdate="20140106T204141Z">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">Iceni Infix (*.xml)</prop>
+      <prop type="next">Wordfast TXML (*.txml)</prop>
+      <tuv lang="EN">
+        <seg>Flash XML export (*.xml)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204441Z" creationid="MELO46" creationdate="20140106T204441Z">
+        <seg>Exportation Flash XML (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">LaTex (*.tex, *.latex)</prop>
+      <prop type="next">Typo3 LocManager (*.xml)</prop>
+      <tuv lang="EN">
+        <seg>Help (*.xml) and Manual (*.hmxp) files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204321Z" creationid="MELO46" creationdate="20140106T204321Z">
+        <seg>Files de Adjuta (*.xml) e Manual (*.hmxp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">WiX Localization (*.wxl)</prop>
+      <prop type="next">Flash XML export (*.xml)</prop>
+      <tuv lang="EN">
+        <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204423Z" creationid="MELO46" creationdate="20140106T204423Z">
+        <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">Android resource (*.xml)</prop>
+      <prop type="next">Help (*.xml) and Manual (*.hmxp) files</prop>
+      <tuv lang="EN">
+        <seg>LaTex (*.tex, *.latex)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204241Z" creationid="MELO46" creationdate="20140106T204241Z">
+        <seg>LaTex (*.tex, *.latex)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</prop>
+      <prop type="next">ResX files (*.resx)</prop>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204151Z" creationid="MELO46" creationdate="20140106T204151Z">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">QuarkXPress CopyFlowGold (*.tag, *.xtg)</prop>
+      <prop type="next">Android resource (*.xml)</prop>
+      <tuv lang="EN">
+        <seg>ResX files (*.resx)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204159Z" creationid="MELO46" creationdate="20140106T204159Z">
+        <seg>Files ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">Help (*.xml) and Manual (*.hmxp) files</prop>
+      <prop type="next">WiX Localization (*.wxl)</prop>
+      <tuv lang="EN">
+        <seg>Typo3 LocManager (*.xml)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204345Z" creationid="MELO46" creationdate="20140106T204345Z">
+        <seg>LocManager Typo3 (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">Camtasia for Windows (*.camproj)</prop>
+      <prop type="next">Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</prop>
+      <tuv lang="EN">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204529Z" creationid="MELO46" creationdate="20140106T204529Z">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
+      <prop type="prev">Flash XML export (*.xml)</prop>
+      <prop type="next">Camtasia for Windows (*.camproj)</prop>
+      <tuv lang="EN">
+        <seg>Wordfast TXML (*.txml)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T204453Z" creationid="MELO46" creationdate="20140106T204453Z">
+        <seg>Wordfast TXML (*.txml)</seg>
       </tuv>
     </tu>
     <tu>
