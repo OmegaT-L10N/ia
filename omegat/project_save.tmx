@@ -2110,8 +2110,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T091338Z">
-        <seg>- Le texto marcate in le segmento final, quando le segmento es aperte&lt;br0/&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T000312Z">
+        <seg>- Le texto marcate in le segmento final, quando le segmento pertinente es aperte</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,8 +2334,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- The content of the segment target text, when the segment is opened&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T091228Z">
-        <seg>- Le contento del texto del segmento final, quando le segmento es aperte&lt;br0/&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T000412Z">
+        <seg>- Le contento del texto del segmento final, quando le segmento es aperte&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11950,6 +11950,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T040304Z">
         <seg>Cambia plica al plica principal in le codice origine de OmegaT (le plica continente le file build.xml), e.g.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the encoding of your files to Unicode</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T235959Z" creationid="MELO46" creationdate="20140106T235930Z">
+        <seg>Cambia le codification de tu files a Unicode</seg>
       </tuv>
     </tu>
     <tu>
@@ -31538,6 +31546,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repairing the tags and recreating the target documents is easy with the validate tags function.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T235823Z" creationid="MELO46" creationdate="20140106T235823Z">
+        <seg>Reparar le tags e recrear le documentos de destination es facile con le function Valida tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162652Z" creationid="MELO46" creationdate="20131219T162652Z">
@@ -39839,6 +39855,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140106T235918Z" creationid="MELO46" creationdate="20140106T235918Z">
+        <seg>Il ha in fundo tres manieras pro abbordar iste problema in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically two types of file formats, plain text and formatted text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T065752Z">
@@ -40277,14 +40301,6 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130331T202104Z">
         <seg>Illos pote esser intra  le projecto currente (sia in le texto que es tu actual traduction sia, ubi un projecto include plus de un texto primari, in un altere texto intra le mesme projecto), o il pote esser in le file(s) .tmx hereditage le qual tu poneva in le plica &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T180748Z">
-        <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54374,6 +54390,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T223308Z">
         <seg>Aperi le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open your source file in a text editor that correctly interprets its encoding and save the file in &lt;e0&gt;"UTF-8"&lt;/e0&gt; encoding.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T000205Z" creationid="MELO46" creationdate="20140107T000205Z">
+        <seg>aperi tu file fonte in un editor de texto que interpreta correctemente su codification e salva le file in codification &lt;e0&gt;"UTF-8"&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
