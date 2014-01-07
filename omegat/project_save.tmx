@@ -10240,8 +10240,8 @@ Le file TMX non essera cargate.</seg>
       <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130626T113601Z">
-        <seg>Alicun cosa post le "//" essera ignorate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T135003Z">
+        <seg>Alicun cosa post le "//" usque al fin del linea, essera ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28803,8 +28803,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T160116Z">
-        <seg>Un membro del equipa, le administrator del projecto, necessita cognoscer le tractamento del latere del server, id es le labor re le preparation del ambiente, como importar le projecto OmegaT, como assignar le derecto de accesso pro e membros del equipa, como resolver le conflictos etc.&lt;t13/&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T135141Z">
+        <seg>Un membro del equipa, le administrator del projecto, necessita cognoscer le tractamento del latere del server, id es le labor re le preparation del ambiente, como importar le projecto OmegaT, como assignar le derecto de accesso pro e membros del equipa, como resolver le conflictos et cetera.&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
