@@ -13937,8 +13937,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130215T235231Z">
-        <seg>Ctrl+Sinistre:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133113Z">
+        <seg>Ctrl+Sinistra:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19345,8 +19345,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>ISO language codes</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130216T000840Z">
-        <seg>Codices del lingua ISO</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133615Z">
+        <seg>Codices ISO del lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -26983,8 +26983,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130325T205304Z">
-        <seg>nota que tu pote re-assignar le vias breve ab claviero a tu preferentias personal.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133504Z">
+        <seg>Nota que tu pote re-assignar le vias breve ab claviero a tu preferentias personal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32020,8 +32020,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094349Z">
-        <seg>Dextre:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133053Z">
+        <seg>Dextra:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32836,8 +32836,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130325T205400Z">
-        <seg>Vide &lt;l0&gt;Appendice personalisation del vias breve&lt;/l0&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133528Z">
+        <seg>Vide &lt;l0&gt;Appendice Personalisation del Vias breve&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35174,8 +35174,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130325T205047Z">
-        <seg>Le commandos de systema Selige toto (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Colla (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Talia (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copia (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insere le concordantia &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) e Insere le fonte (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) age sol, in principio, re le texto intra le segmento actualmente aperte.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133415Z">
+        <seg>Le commandos de systema Selige toto (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Colla (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Talia (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copia (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insere le concordantia &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) e Insere le segmento fonte (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) age sol, in principio, re le texto intra le segmento actualmente aperte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36097,8 +36097,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T083615Z">
-        <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pressa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del  combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133336Z">
+        <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pressa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39353,8 +39353,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131314Z">
-        <seg>Le termino "mover se a le interior del segmento" significa, que le cursor se move al comenciamento del segmento si il esseva avante que le segmento, e al fin del segmento si il esseva depost.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133017Z">
+        <seg>Le termino "mover se a le interior del segmento" significa, que le cursor se move al initio del segmento si illo esseva anterior al segmento, e al fin del segmento si illo esseva posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41563,8 +41563,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073022Z">
-        <seg>Isto breve texto describe le comportamento de claves in le quadro del editor.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T132839Z">
+        <seg>Isto breve texto describe le comportamento de claves in le quadro del modifica, le editor del segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54316,24 +54316,24 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131339Z">
-        <seg>un character a sinistre, salvo non plus quam le comenciamento del segmento</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133046Z">
+        <seg>un character a sinistra, salvo non plus quam le initio del segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one char right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131358Z">
-        <seg>un character a derecta, salvo non plus quam le fin del segmento</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133103Z">
+        <seg>un character a dextra, salvo non plus quam le fin del segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one word left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131407Z">
-        <seg>un parola a sinistre, salvo non plus quam le comenciamento del segmento</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133138Z">
+        <seg>un parola a sinistra, salvo non plus quam le comenciamento del segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -58774,6 +58774,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/App_Keyboard.xml</prop>
+      <prop type="prev">page down through the document</prop>
+      <prop type="next">move to the beginning of the line in the segment</prop>
+      <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133309Z" creationid="MELO46" creationdate="20140107T133309Z">
+        <seg>A domo*</seg>
       </tuv>
     </tu>
     <tu>
