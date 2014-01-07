@@ -9564,8 +9564,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130421T135018Z">
-        <seg>Omne le linguas ha accesso al modello a objectos OmegaT, con le projecto como le objecto culmine.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T134413Z">
+        <seg>Omne le linguas ha accesso al modello a objectos OmegaT, con le projecto como objecto culmine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23053,8 +23053,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130421T153934Z">
-        <seg>Illo es un lingua  multiparadigma, que supporta stilos de programmation  orientate al objecto, imperative, e functional.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T134314Z">
+        <seg>Illo es un lingua de programmation multo-paradigma, que supporta stilos de programmation orientate al objecto, imperative, e functional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29955,8 +29955,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Please check the&lt;u0&gt; ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130216T001321Z">
-        <seg>Per favor controla le&lt;u0&gt; Tabellas del codices ISO 639&lt;/u0&gt; pro informationes additional e recente re codices del lingua.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133712Z">
+        <seg>Per favor controla le&lt;u0&gt; Tabellas del codices ISO 639&lt;/u0&gt; pro informationes additional e recente, re le codices del lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31452,8 +31452,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130611T164138Z">
-        <seg>Remove LanguageTool ex le plica /plugin ante lancear OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T134003Z">
+        <seg>Remove LanguageTool ex le plica /plugin ante que tu lancea OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37687,8 +37687,8 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T083753Z">
-        <seg>Le sequente retalio de codice in groovy per exemplo scande a transverso de omne le segmentos in omne le files in le projecto currente e, si le traduction existe, stampa le  fonte e le traduction del segmento:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T134506Z">
+        <seg>Le sequente retalio de codice in groovy per exemplo, scande a transverso de omne le segmentos in omne le files in le projecto currente e, si le traduction existe, stampa le segmento fonte e le traduction del segmento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45063,8 +45063,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T083229Z">
-        <seg>Quando un regula es discatenate, le phrase correspondente essera sublineate in azur in le Editor (vide &lt;e1&gt;also &lt;/e1&gt;e &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in le pictura anterior).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140107T133946Z">
+        <seg>Quando un regula es discatenate, le phrase correspondente essera sublineate in azur in le Editor (vide &lt;e1&gt;also &lt;/e1&gt;e &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in le imagine precedente).</seg>
       </tuv>
     </tu>
     <tu>
