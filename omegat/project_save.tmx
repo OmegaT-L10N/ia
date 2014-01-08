@@ -9338,6 +9338,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T224049Z" creationid="MELO46" creationdate="20140108T224049Z">
+        <seg>Post le segmentation del file fonte in unitates structural, &lt;a0&gt;OmegaT&lt;/a0&gt;segmentara iste blocos ulteriormente in phrases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T084906Z">
@@ -10622,6 +10630,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T044309Z">
         <seg>Assigna le clave al procedura de lanceamento de OmegaT como seque, dependente sur si tu es usante Windows, Mac, tu lancea OmegaT ab le linea de commando o per medio de un script:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T224751Z" creationid="MELO46" creationdate="20140108T224751Z">
+        <seg>a cata position cursor regulas, consistente de un modello &lt;e0&gt;Ante &lt;/e0&gt;e  &lt;e1&gt;Post &lt;/e1&gt;, son applicate in lor ordine date pro vider si alicun del modellos&lt;e2&gt; Ante&lt;/e2&gt; es valide pro le texto sur le sinistra e le correspondente modello &lt;e3&gt;Post&lt;/e3&gt; pro le texto al dextra del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16963,6 +16979,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095247Z">
         <seg>Variabiles nomine del file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T223925Z" creationid="MELO46" creationdate="20140108T223925Z">
+        <seg>Files continente formattation (documentos ODF, documentos HTML, et cetera) son segmentate sur le  tags de nivello de bloco (paragrapho).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38691,6 +38715,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T103934Z">
         <seg>Le proceduras describite in Project 1, Passos &lt;f2&gt;7.A.1-7.A.4,&lt;/f2&gt;&lt;f3&gt; es totes applicabile alsi ci, pro le files HTML.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T224244Z" creationid="MELO46" creationdate="20140108T224244Z">
+        <seg>Le processo de segmentation pote esser illustrate assi: le cursor move se secundo le le, un character a un vece.</seg>
       </tuv>
     </tu>
     <tu>
