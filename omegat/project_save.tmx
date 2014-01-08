@@ -4090,6 +4090,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting&lt;/b0&gt; &lt;b1&gt;one&lt;/b1&gt; is going to be messed up.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T233423Z" creationid="MELO46" creationdate="20140108T233423Z">
+        <seg>&lt;b0&gt;Formattation&lt;/b0&gt; &lt;b1&gt;uno&lt;/b1&gt; va esser confuse.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting&lt;/b0&gt; &lt;b1&gt;one&lt;/b1&gt; is going to be nested inside formatting zero.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T164819Z">
@@ -8726,6 +8734,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T162229Z">
         <seg>Un memoria pseudo-rendite pote esser generate con le parametros de linea de commando sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A regular expression entered here will cause OmegaT treat the detected instances as customer tags.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T233606Z" creationid="MELO46" creationdate="20140108T233606Z">
+        <seg>Un expression regular entrate ci producera que OmegaT tracta le occurrentias detectate quam tags del cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45361,6 +45377,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T171831Z">
         <seg>Quando es addite iste parametro, le validation del tag es facite ante que le traduction/alineamento..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T233144Z" creationid="MELO46" creationdate="20140108T233144Z">
+        <seg>Quando on rende inter linguas RTL e LTR, legente correctemente le tags ex le fonte e inscribente illos debitemente in le destination pote requirer que le traductor commuta inter modos LTR e RTL numerose vices.</seg>
       </tuv>
     </tu>
     <tu>
