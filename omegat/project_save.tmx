@@ -9092,8 +9092,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T215949Z">
-        <seg>Adde le modellos &lt;e0&gt;Before&lt;/e0&gt; e&lt;e1&gt; After&lt;/e1&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225817Z">
+        <seg>Adde le modellos &lt;e0&gt;Ante&lt;/e0&gt; e&lt;e1&gt; Post&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9236,8 +9236,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T202113Z">
-        <seg>Oost</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225842Z">
+        <seg>Postt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17487,6 +17487,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225237Z" creationid="MELO46" creationdate="20140108T225237Z">
+        <seg>Per exemplo, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with 1024MB of memory and with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T214449Z">
@@ -17931,6 +17939,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T134636Z">
         <seg>Per iste ration, le duo commandos describite precedentemente es continite in un file (un "script", alsi nominate un "file .bat" sur le systemas Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225532Z" creationid="MELO46" creationdate="20140108T225532Z">
+        <seg>Pro que isto accide, ibi deberea esser un regula de interruption pro le "?", quando sequite per spatios e un parola majuscule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19311,6 +19327,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225312Z" creationid="MELO46" creationdate="20140108T225312Z">
+        <seg>I was not sure&lt;/e0&gt;." deberea esser fisse in duo segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094801Z">
@@ -20335,6 +20359,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065038Z" creationid="MELO" creationdate="20131219T065038Z">
         <seg>If the required texts for either cover are too voluminous to fit legibly, you should put the first ones listed (as many as fit reasonably) on the actual cover, and continue the rest onto adjacent pages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225124Z" creationid="MELO46" creationdate="20140108T225124Z">
+        <seg>Si le regula concorda, o le cursor move super sin inserer un interruption segmento (pro un regula de exception) o un interruption nove de segmento es create al position del cursor actual (pro le regula de interruption).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22783,6 +22815,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T194344Z">
         <seg>Lectores designate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225827Z" creationid="MELO46" creationdate="20140108T225827Z">
+        <seg>Intention</seg>
       </tuv>
     </tu>
     <tu>
@@ -42101,6 +42141,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T223408Z">
         <seg>Pro personalisar le characteristica del script, face le sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T225713Z" creationid="MELO46" creationdate="20140108T225643Z">
+        <seg>Pro definir un regula quam regula de interruption, marca le quadrato de controlo Interruption/Exception check box.</seg>
       </tuv>
     </tu>
     <tu>
