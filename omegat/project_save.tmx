@@ -3500,8 +3500,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e0&gt;To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101344Z">
-        <seg>Per facer isto, que tu selige simplemente le mesme classificator del installation existente, quando tu installara le version nove.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212429Z">
+        <seg>&lt;/e0&gt;Pro facer isto, que tu selige simplemente le mesme plica del installation existente, quando tu installara le version nove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3788,8 +3788,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102841Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; fenestra principal</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212754Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; fenestra principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -4700,8 +4700,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101346Z">
-        <seg>• Installar in un classificator nove.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212608Z">
+        <seg>• Installar in un classificator nove.&lt;e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7092,8 +7092,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102331Z">
-        <seg>Proprietates del projecto</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212754Z">
+        <seg>Proprietates del projecto&lt;p0&gt;&lt;/p0&gt;&lt;s1&gt;&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18369,8 +18369,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101249Z">
-        <seg>Le glossarios es files create e renovate manualmente pro uso in OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212225Z">
+        <seg>Le glossarios es files create e renovate manualmente pro uso in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21797,8 +21797,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T172101Z">
-        <seg>Pro seliger le typo del segmentation, selige &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projecto&lt;/g2&gt; &lt;g4&gt;Proprietates...&lt;/g4&gt; &lt;/m1&gt; ex le menu principal e marca o leva le marca al quadrato de controlo supplite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T213057Z">
+        <seg>Pro seliger le typo del segmentation, selige &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projecto&lt;/g2&gt; &lt;g4&gt;Proprietates...&lt;/g4&gt; &lt;/m1&gt; ex le menu principal e marca o leva le marca in le quadrato de controlo supplite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22645,8 +22645,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101329Z">
-        <seg>Installar e executar OmegaT </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212246Z">
+        <seg>Installar e executar &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36129,8 +36129,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101344Z">
-        <seg>Le version "vetule" de OmegaT essera superscribete, ma alicun preparationes essera retenete.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212525Z">
+        <seg>Le version "vetule" de OmegaT essera superscribite, ma omne le preparationes essera retenite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40939,8 +40939,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101345Z">
-        <seg>Isto include preferentias fixate intra OmegaT, qualcunque cambios que tu faceva a tu file OmegaT.l4J.ini , e alsi a tu scriptura de lanceamento (file .bat), si tu usa ipso.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212608Z">
+        <seg>Isto include preferentias fixate intra OmegaT, qualcunque cambios que tu faceva a tu file &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; , e alsi a tu scriptura de lanceamento (file .bat), si tu usa ipso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42195,8 +42195,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130407T215251Z">
-        <seg>Pro installar OmegaT, clicca duo vices sur le programma que tu ha discargate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212335Z">
+        <seg>Pro installar &lt;a0&gt;OmegaT&lt;/a0&gt;, clicca duo vices sur le programma que tu ha discargate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59052,6 +59052,17 @@ crear su classificator de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/InstallingAndRunning.xml</prop>
+      <prop type="prev">With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</prop>
+      <prop type="next">&lt;/e0&gt;This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</prop>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Install to a new folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212659Z" creationid="MELO46" creationdate="20140108T212659Z">
+        <seg>&lt;e0&gt;Installa in un classificator nove.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
       <prop type="prev">This option is useful for some Chinese, Japanese or Korean character input systems.</prop>
       <prop type="next">The program will see confirmation before closing down.</prop>
@@ -59148,6 +59159,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T120004Z" creationid="MELO46" creationdate="20131227T120004Z">
         <seg>Usa le clave pro avantiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Segmentation.xml</prop>
+      <prop type="prev">Source segmentation</prop>
+      <prop type="next">&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</prop>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T212959Z" creationid="MELO46" creationdate="20140108T212959Z">
+        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt;Proprietates&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
