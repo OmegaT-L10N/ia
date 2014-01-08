@@ -9570,6 +9570,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T232308Z" creationid="MELO46" creationdate="20140108T232308Z">
+        <seg>Omne le collectiones de regula de segmentation pro un modello de lingua que concorda son active e son applicate in le ordine de prioritate date, assi regulas pro lingua specific deberea esser superior in ordine de prioritate quam los base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140107T134413Z">
@@ -17607,6 +17615,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T232412Z" creationid="MELO46" creationdate="20140108T232412Z">
+        <seg>Per exemplo, le regulas pro le francese canadian (FR-CA) debe esser superior que le regulas pro le francese (FR.*), e superior que los Base (.*) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T223621Z" creationid="MELO46" creationdate="20140108T223621Z">
@@ -21373,8 +21389,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102702Z">
-        <seg>Si, pro qualcunque ration, tu necessita de lo facer sovente,  copia le files implicate in un classificator differente, reservate solmente pro le uso ab OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T232720Z">
+        <seg>Si, pro qualcunque ration, tu necessita de lo facer sovente,  copia le files implicate in un plica differente, reservate solmente pro le uso de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
