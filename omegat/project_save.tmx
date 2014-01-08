@@ -14321,8 +14321,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T213818Z" creationid="MELO46" creationdate="20140108T213818Z">
-        <seg>son jam disponibile regulas de segmentation Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T223225Z" creationid="MELO46" creationdate="20140108T213818Z">
+        <seg>Son jam disponibile regulas de segmentation confidibile pro plurime linguas, assi il es verisimile que tu non necessitara de ser implicate con le scriptura de tu proprie regulas de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17571,6 +17571,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T051652Z">
         <seg>Per exemplo, in le vias breve initial de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T223621Z" creationid="MELO46" creationdate="20140108T223621Z">
+        <seg>Per exemplo, le files de texto pote esser segmentate sur interruptiones de linea, lineas vacue, o non esser segmentate del toto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28605,6 +28613,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T051202Z">
         <seg>Sur le Mac, le modificator &lt;e0&gt;meta&lt;/e0&gt; debe esser utilisate pro specificar le clave &lt;e1&gt;commando&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T223440Z" creationid="MELO46" creationdate="20140108T223440Z">
+        <seg>Al altere latere iste functionalitate pote esser multo utile in casos particular, ubi tu pote accrescer tu productivitate accordante le regulas de segmentation al texto a traducer.</seg>
       </tuv>
     </tu>
     <tu>
