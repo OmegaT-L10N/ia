@@ -14319,6 +14319,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T213818Z" creationid="MELO46" creationdate="20140108T213818Z">
+        <seg>son jam disponibile regulas de segmentation Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T073510Z">
@@ -19981,8 +19989,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T232252Z" creationid="MELO46" creationdate="20140106T232252Z">
-        <seg>Si le segmentation per phrase esseva seligite, tu pote prefixar le regulas seligente &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Optiones&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;del menu principal.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T213842Z" creationid="MELO46" creationdate="20140106T232252Z">
+        <seg>Si le segmentation per phrase esseva seligite, tu pote prefixar le regulas con &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Optiones&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;del menu principal.</seg>
       </tuv>
     </tu>
     <tu>
