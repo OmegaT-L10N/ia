@@ -21963,6 +21963,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T231017Z" creationid="MELO46" creationdate="20140108T231017Z">
+        <seg>Nonobstante le periodo, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; non deberea esser fisse in duo segmentos, assi unregula de exception deberea esser establite pro Mrs (e pro Mr, pro Dr, pro prof et cetera), sequite per un periodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In such cases, an existing translation, found in the file, is included in the &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T160126Z">
@@ -22327,6 +22335,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T092817Z">
         <seg>A su torno, illes es libere, e vermente incitate (sed non obligate in alicun modo) a contribuer a reverso al projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T231518Z" creationid="MELO46" creationdate="20140108T231518Z">
+        <seg>in viste del flexibilitate, tu pote considerar de definir magis regulas de exception pro tu lingua fonte, pro suppler segmentos plus significative e coherente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38703,6 +38719,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T231255Z" creationid="MELO46" creationdate="20140108T231255Z">
+        <seg>Le regulas de interruption prefixate deberea esser bastante pro le major parte del linguas europee e le japonese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T201202Z">
@@ -42157,6 +42181,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T230746Z" creationid="MELO46" creationdate="20140108T225643Z">
         <seg>Pro definir un regula quam regula de interruption, marca le quadrato de controlo Interruption/Exception.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140108T231138Z" creationid="MELO46" creationdate="20140108T231138Z">
+        <seg>Pro definir un regula quam regula de exception, lassa le quadrato de controlo Interruption/Exception non marcate.</seg>
       </tuv>
     </tu>
     <tu>
