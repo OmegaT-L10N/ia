@@ -3754,6 +3754,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084856Z" creationid="MELO46" creationdate="20140109T084856Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ha per arrangiamento base le sequente curte lista disponibile pro facer plus facile pro te tractar alicun files de texto simple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T230142Z">
@@ -6086,6 +6094,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T225713Z" creationid="MELO46" creationdate="20140106T225436Z">
         <seg>Le files &lt;l0&gt;.txt2&lt;/l0&gt; son in ISO-8859-2, que concerne le major parte del linguas del &lt;e1&gt;Europa Central e Oriental &lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;.txt&lt;/l0&gt; files are automatically (&lt;auto&gt;) interpreted by &lt;a1&gt;OmegaT&lt;/a1&gt; as being encoded in the computer's default encoding.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085024Z" creationid="MELO46" creationdate="20140109T085024Z">
+        <seg>Le files &lt;l0&gt;.txt&lt;/l0&gt; son automaticamente (&lt;auto&gt;) interpretate per &lt;a1&gt;OmegaT&lt;/a1&gt; ut codificate in le codification base prefixate del computator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,6 +8698,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A non-word boundary</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085324Z" creationid="MELO46" creationdate="20140109T085324Z">
+        <seg>Un frontiera non-parola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095353Z">
@@ -10090,6 +10114,14 @@ Le file TMX non essera cargate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T202118Z">
         <seg>Un intendimento del processos implicate es tamen importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085255Z" creationid="MELO46" creationdate="20140109T085255Z">
+        <seg>Un littera majuscule (simplice&lt;u0&gt; categoria&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17535,6 +17567,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085504Z" creationid="MELO46" creationdate="20140109T085504Z">
+        <seg>Per exemplo, &lt;e0&gt;a+?&lt;/e0&gt;concordara le aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with 1024MB of memory and with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T214449Z">
@@ -21533,8 +21573,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T084612Z">
-        <seg>In le KMenuEditor selige File -&gt; Nove Articulo .&lt;e3&gt;&lt;/e3&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084710Z">
+        <seg>In le KMenuEditor selige &lt;e3&gt;File -&gt; Nove Articulo&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27245,6 +27285,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085117Z" creationid="MELO46" creationdate="20140109T085117Z">
+        <seg>Nihil, sed virgulettas omne characteres usque \E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T122258Z">
@@ -31410,6 +31458,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Greedy quantifiers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085344Z" creationid="MELO46" creationdate="20140109T085344Z">
+        <seg>Quantificatores Regex - Greedy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Logical operators</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T122631Z">
@@ -31430,6 +31486,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T122135Z">
         <seg>Regex - Quotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085554Z" creationid="MELO46" creationdate="20140109T085554Z">
+        <seg>Quantificatores Regex - Reluctante (non-avide)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47922,14 +47986,6 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>\p{Lu}</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130816T122411Z">
-        <seg>\p{Lu}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>\p{Sc}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T093144Z">
@@ -51406,6 +51462,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155639Z" creationid="MELO46" creationdate="20131226T155639Z">
         <seg>gratis or for a fee, you must pass on to the recipients the same</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T085434Z" creationid="MELO46" creationdate="20140109T085434Z">
+        <seg>quantificatores avide concordara quanto Illos pote.</seg>
       </tuv>
     </tu>
     <tu>
