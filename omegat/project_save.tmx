@@ -9058,6 +9058,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T082915Z" creationid="MELO46" creationdate="20140109T082915Z">
+        <seg>Activar iste quadrato de controlo causara que OmegaT controlara si le tags simplice in java MessageFormat (como {0}) son processate correctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095244Z">
@@ -12006,6 +12014,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T104917Z" creationid="MELO46" creationdate="20131219T104917Z">
         <seg>Cambia le extensiones de tu files fonte de texto simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the file extension from &lt;l1&gt;.txt&lt;/l1&gt; to &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; will automatically interpret the file as a UTF-8 file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T083242Z" creationid="MELO46" creationdate="20140109T083242Z">
+        <seg>Cambia le extension del file de &lt;l1&gt;.txt&lt;/l1&gt; a &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; automaticamente interpretara le file ut un file UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40361,6 +40377,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They all involve the application of file filters in the&lt;e1&gt; Options &lt;/e1&gt;menu.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T083054Z" creationid="MELO46" creationdate="20140109T083054Z">
+        <seg>Illos omne implica le application de filtros de file in le menu&lt;e1&gt; Optiones&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They also improve glossary matching.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T163821Z">
@@ -41357,6 +41381,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T184058Z">
         <seg>Isto es le foco principal del communitate del usatores de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the most common-sense alternative, sparing you problems in the long run.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T083458Z" creationid="MELO46" creationdate="20140109T083458Z">
+        <seg>Isto es le alternativa plus sensate, pro sparniar te problemas in le longe opera.</seg>
       </tuv>
     </tu>
     <tu>
