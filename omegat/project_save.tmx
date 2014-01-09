@@ -5852,8 +5852,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k2&gt;Ctrl&lt;/k2&gt; or &lt;k3&gt;Control&lt;/k3&gt; key.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102004Z">
-        <seg>&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt; Es usate sur le Windows, UNIX e UNIX-simile systemas operative con le clavieros presentante un clave &lt;s4&gt;&lt;s5&gt;Ctrl&lt;/s5&gt;&lt;/s4&gt; o &lt;s6&gt;&lt;s7&gt;Control&lt;/s7&gt;&lt;/s6&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084503Z">
+        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; es usate sur le systemas operative Windows, UNIX e UNIX-simile, con le clavieros presentante un clave &lt;k2&gt;Ctrl&lt;/k2&gt; o &lt;k3&gt;Control&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6140,8 +6140,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;See Appendix - Shortcuts Customization&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T122240Z">
-        <seg>&lt;a0&gt;Vider appendice - personalisation de vias breve&lt;/a0&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084131Z">
+        <seg>&lt;l0&gt;Vide appendice - Personalisation del Vias breve&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9156,8 +9156,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101354Z">
-        <seg>Adder OmegaT al menus (KDE) o al pannellos (Gnome)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T083726Z">
+        <seg>Adder &lt;a0&gt;OmegaT&lt;/a0&gt; al menus (KDE) o al pannellos (Gnome)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14793,8 +14793,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102222Z">
-        <seg>Expone le files de adjuta de &lt;s0&gt;OmegaT&lt;/s0&gt; in un fenestra separate</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084018Z">
+        <seg>Monstra le files de adjuta de &lt;a0&gt;OmegaT&lt;/a0&gt; in un fenestra separate</seg>
       </tuv>
     </tu>
     <tu>
@@ -21533,8 +21533,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101357Z">
-        <seg>In le KMenuEditor selige File -&gt; Nove Articulo .</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084612Z">
+        <seg>In le KMenuEditor selige File -&gt; Nove Articulo .&lt;e3&gt;&lt;/e3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23815,8 +23815,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>KDE 4 Users</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101355Z">
-        <seg>Usuarios de KDE 4 </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T083740Z">
+        <seg>Usatores de KDE 4 </seg>
       </tuv>
     </tu>
     <tu>
@@ -25047,8 +25047,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mac users should instead use &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;key&lt;/k6&gt; &lt;/k4&gt; instead.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T113426Z">
-        <seg>Le usatores de Mac usara in vice le &lt;s8&gt;&lt;s9&gt;clave&lt;/s9&gt;&lt;/s8&gt;+&lt;s10&gt;&lt;s11&gt;Cmd&lt;/s11&gt;&lt;/s10&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084233Z">
+        <seg>Le usatores de Mac usara in vice le &lt;s8&gt;&lt;s9&gt;clave&lt;/s9&gt;&lt;/s8&gt;+&lt;s10&gt;&lt;s11&gt;Cmd&lt;/s11&gt;&lt;/s10&gt;.&lt;k4&gt;&lt;k5&gt;&lt;/k5&gt;&lt;k6&gt;&lt;/k6&gt;&lt;/k4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32556,8 +32556,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Saves the current work to the internal translation memory (file project_save.tmx located in the project's &lt;f0&gt;omegat&lt;/f0&gt; folder).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102143Z">
-        <seg>Salva le opera actual in le memoria de traduction interne (file project_save.tmx localisate in le classificator &lt;c0&gt;omegat&lt;/c0&gt; del projecto).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084233Z">
+        <seg>Salva le opera actual in le memoria de traduction interne (file project_save.tmx localisate in le classificator &lt;f0&gt;omegat&lt;/f0&gt; del projecto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37453,8 +37453,8 @@ in vice.</seg>
       <tuv lang="EN">
         <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T113955Z">
-        <seg>Le documentos final create es ubicate in le plica &lt;c0&gt;target&lt;/c0&gt; .</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T084612Z">
+        <seg>Le documentos final create es ubicate in le plica &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43587,8 +43587,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101356Z">
-        <seg>Digita kmenuedit+enter pro exequer le commando.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T083926Z">
+        <seg>Scribe &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; pro exequer le commando.</seg>
       </tuv>
     </tu>
     <tu>
