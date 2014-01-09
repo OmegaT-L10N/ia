@@ -7140,8 +7140,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Statistics&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102113Z">
-        <seg>Statistica del projecto</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093506Z">
+        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt;Statisticas&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9822,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T213351Z">
         <seg>Alias, si tu jam sape qual version tu desira discargar, clicca sur tu apte ligamine al Panorama re le Discargas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T092541Z" creationid="MELO46" creationdate="20140109T092541Z">
+        <seg>Alias, in le Fenestra de Modifica, selige un parola o phrase in le campo de modifica (texto de destination del segmento currente) e pulsa &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12684,8 +12692,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T114040Z">
-        <seg>Claude o aperi le &lt;a0&gt;Fenestra del files del projecto&lt;/a0&gt; (dependente de ille es aperte o clause).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093259Z">
+        <seg>Claude o aperi le &lt;l0&gt;Fenestra del files del projecto&lt;/l0&gt; (dependente de ille es aperte o clause).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13185,8 +13193,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102013Z">
-        <seg>Que tu copia le files seligite in le classificator &lt;c0&gt;source&lt;/c0&gt; e que tu recarga le projecto pro cargar le nove files.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093157Z">
+        <seg>Copia le files seligite in le classificator &lt;f0&gt;source&lt;/f0&gt; e  recarga le projecto pro cargar le nove files.&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14777,8 +14785,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T114017Z">
-        <seg>Monstra le fenestra de dialogo &lt;a0&gt;Proprietates del projecto&lt;/a0&gt; pro editar le linguas e le locationes del classificator del projecto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093439Z">
+        <seg>Monstra le fenestra de dialogo &lt;l0&gt;Proprietates del projecto&lt;/l0&gt; pro editar le linguas e le locationes del classificator del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21573,8 +21581,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Imports units from MediaWiki pages, based on the URL entered.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102013Z">
-        <seg>Que tu importa unitates ab le paginas de MediaWiki, basate super le URL inscribite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093215Z">
+        <seg>Importa unitates ab le paginas de MediaWiki, basate super le URL inscribite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32676,8 +32684,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Saves the project and quits &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T213533Z">
-        <seg>Salva le projecto e quita &lt;s0&gt;OmegaT&lt;/s0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093401Z">
+        <seg>Salva le projecto e quita &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34092,8 +34100,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102002Z">
-        <seg>Le vias breve es activate pressante &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt; e un littera.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093259Z">
+        <seg>Le vias breve es activate pressante &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt; e un littera.&lt;k0&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40009,8 +40017,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The word or phrase is entered in the Search for box automatically.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T230830Z" creationid="MELO46" creationdate="20140106T230830Z">
-        <seg>Le parola o phrase es inscribite in le Cassa pro le recerca automaticamente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T092603Z" creationid="MELO46" creationdate="20140106T230830Z">
+        <seg>Le parola o phrase es inscribite in le Cassa pro le Recerca automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44799,8 +44807,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T214301Z">
-        <seg>Usante le recerca per parola clave con &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; trovara assi omne occurrentias del linea de character &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; assi como &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093011Z">
+        <seg>Usante le recerca per parola clave con &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; trovara assi omne occurrentias del linea de character &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; assi como &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, et cetera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46995,6 +47003,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T181528Z">
         <seg>Tu pote haber entratas con le columna final mancante, id es continente justo le termino primari e le commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T092856Z" creationid="MELO46" creationdate="20140109T092746Z">
+        <seg>Tu pote haber plure Fenestras de recerca aperte al mesme tempore, sed claude los quando illos non son son plus necessari a fin que illos non incombra tu scriptorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59544,6 +59560,17 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Most functions are also available via keyboard shortcuts.</prop>
+      <prop type="next">Some shortcuts involve other keys.</prop>
+      <tuv lang="EN">
+        <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093341Z" creationid="MELO46" creationdate="20140109T093341Z">
+        <seg>Le vias breve es activate pressante &lt;k0&gt;Ctrl&lt;/k0&gt; e un littera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Menu.xml</prop>
       <prop type="prev">Options menu</prop>
       <prop type="next">Sets segment validation key to &lt;g0&gt;Tab&lt;/g0&gt; instead of the default &lt;g1&gt;Enter&lt;/g1&gt;.</prop>
       <tuv lang="EN">
@@ -59551,6 +59578,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T120004Z" creationid="MELO46" creationdate="20131227T120004Z">
         <seg>Usa le clave pro avantiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Searches.xml</prop>
+      <prop type="prev">Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</prop>
+      <prop type="next">The search string will be treated as a regular expression.</prop>
+      <tuv lang="EN">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T093054Z" creationid="MELO46" creationdate="20140109T093054Z">
+        <seg>expressiones regular</seg>
       </tuv>
     </tu>
     <tu>
