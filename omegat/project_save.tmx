@@ -13047,6 +13047,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T150311Z" creationid="MELO46" creationdate="20140109T150216Z">
+        <seg>Per consequentia, ben que OmegaT is bastante capace a tractar files &lt;f1&gt; tmx&lt;/f1&gt;, illo non include los in le Files a perquirer del recerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T172927Z">
@@ -31580,8 +31588,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T134653Z" creationid="MELO46" creationdate="20140109T134653Z">
-        <seg>Regex - Concordatores del confinios</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T144836Z" creationid="MELO46" creationdate="20140109T134653Z">
+        <seg>Regex - Concordatores del confinios </seg>
       </tuv>
     </tu>
     <tu>
@@ -31620,8 +31628,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T085344Z" creationid="MELO46" creationdate="20140109T085344Z">
-        <seg>Quantificatores Regex - Greedy</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T145010Z" creationid="MELO46" creationdate="20140109T085344Z">
+        <seg>Regex - Quantificatores avide</seg>
       </tuv>
     </tu>
     <tu>
@@ -33146,6 +33154,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Searches are performed by default in both the source and target sections of the project, but you can limit your search to just the source or the target text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T145714Z" creationid="MELO46" creationdate="20140109T145714Z">
+        <seg>Le recercas son effectuate per arrangiamento initial in ambe le sectiones fonte e de destination del projecto, sed tu pote can limitar tu recerca al texto fonte sol o al texto de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searches can be performed in the source and/or in the translation and/or in notes.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095100Z">
@@ -33276,8 +33292,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T090038Z" creationid="MELO46" creationdate="20140109T090038Z">
-        <seg>Vide &lt;u0&gt;Le Repetitor Regex&lt;/u0&gt; pro le versiones de un application autonome Windows, Linux, FreeBSD.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T145422Z" creationid="MELO46" creationdate="20140109T090038Z">
+        <seg>Vide &lt;u0&gt;Le Repetitor Regex&lt;/u0&gt; pro le versiones de un application autonome in Windows, Linux, FreeBSD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40739,8 +40755,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T143901Z" creationid="MELO46" creationdate="20140109T143901Z">
-        <seg>Illos seque generalmente multo le mesme schema (Per un exemplo ex le Probator de Expression Regular vide in sequito): le analyse DE expression regular (entratasummitate ) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T145313Z" creationid="MELO46" creationdate="20140109T143901Z">
+        <seg>Illos seque generalmente multo le mesme schema (Per un exemplo ex le Probator de Expression Regular vide in sequito): le expression regular (entrata vertice) analyse le texto de recerca (Cassa del texto in le medio) , que rende le occurrentias, monstrate in le cassa de Taxo resultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41603,8 +41619,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T230043Z" creationid="MELO46" creationdate="20140106T230043Z">
-        <seg>Isto necessita si tu amarea inscriber alicun del meta characteres !$()*+.&lt;&gt;?[\]^{|} pro concordar con ipsos.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T144758Z" creationid="MELO46" creationdate="20140106T230043Z">
+        <seg>Isto necessita si tu amarea inscriber alicun del meta-characteres !$()*+.&lt;&gt;?[\]^{|} pro concordar con ipsos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45661,6 +45677,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When searching through files (as opposed to translation memories), &lt;a0&gt;OmegaT&lt;/a0&gt; restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T145943Z" creationid="MELO46" creationdate="20140109T145943Z">
+        <seg>Quando tu cerca per le files (al contrario al memorias de traduction), &lt;a0&gt;OmegaT&lt;/a0&gt; restringe le recerca al files in le formatos del file fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T134257Z">
@@ -46527,8 +46551,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>X, once or not at all</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130816T122430Z">
-        <seg>X, once or not at all</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T144510Z">
+        <seg>X, un vice o non del toto</seg>
       </tuv>
     </tu>
     <tu>
@@ -57540,8 +57564,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>the project only (default setting)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130820T091238Z">
-        <seg>le projecto solmente (preparation base)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T145738Z">
+        <seg>le projecto solmente (preparation prefixate initial)</seg>
       </tuv>
     </tu>
     <tu>
