@@ -27701,6 +27701,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can check that programming variables (like %s for instance) in the source exist in the translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T082416Z" creationid="MELO46" creationdate="20140109T082416Z">
+        <seg>OmegaT pote controlar que le variabiles de programmation (como %s per exemplo) existe in le fonte in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T150243Z">
@@ -30494,6 +30502,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T100822Z">
         <seg>Principios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printf variables - do not check, check simple, check all</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T082211Z" creationid="MELO46" creationdate="20140109T082211Z">
+        <seg>Variabiles Printf - non controlar, controlo simple, controla toto</seg>
       </tuv>
     </tu>
     <tu>
@@ -37137,6 +37153,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The behaviour, stated here, applies to all the source files and not just to some of the file types, like formatted text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T082118Z" creationid="MELO46" creationdate="20140109T082118Z">
+        <seg>Le comportamento, fixate ci, refere se a omne le files fonte e non sol a alicun del typos del file, como texto formattate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130409T052229Z">
@@ -42209,6 +42233,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T081852Z" creationid="MELO46" creationdate="20140109T081852Z">
+        <seg>Pro personalisar le obra con tags, on pote fixar alicun del regulas in le fenestra &lt;g0&gt;Optiones &gt; Validation del tag...&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T230746Z" creationid="MELO46" creationdate="20140108T225643Z">
@@ -46713,6 +46745,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T104601Z">
         <seg>Tu pote personalisar le script kaptain lanceamento de maniera que tu preferentias sia le preparationes initial; redige simplemente le file omegat.kaptn in un editor de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T082606Z" creationid="MELO46" creationdate="20140109T082606Z">
+        <seg>Tu pote decider non controlar del toto, controlar pro variabiles printf simplice (como %s %d et cetera) o pro variabiles stampa de omne typos.</seg>
       </tuv>
     </tu>
     <tu>
