@@ -12170,6 +12170,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T153532Z" creationid="MELO46" creationdate="20140109T153532Z">
+        <seg>Cambia le nomine del collection de regula, le modello de lingua al lingua concernite e su codice (vide &lt;x1/&gt; pro un lista del codices de lingua).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095055Z">
@@ -21575,6 +21583,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155831Z" creationid="MELO46" creationdate="20131226T155831Z">
         <seg>License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T153124Z" creationid="MELO46" creationdate="20140109T153124Z">
+        <seg>Si tu collection de regulas tracta un par lingua-pais, nos monera te a mover lo al summitate usante le button &lt;e2&gt;Move in alto&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42341,6 +42357,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130331T152751Z">
         <seg>Assi, si  &lt;t0/&gt;tu documento primari contine le parolas &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario que ha le texto primari como &lt;f2&gt;der Mensch &lt;/f2&gt;non lo trovara; usa &lt;f3&gt;Mensch&lt;/f3&gt;&lt;f4&gt; pro le glossario in vice.&lt;/f4&gt;&lt;f5&gt; pro plus re glossarios, includente le addition de un nove termino&lt;/f5&gt;&lt;f6&gt;s, que tu consulta le manual del usator.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T152746Z" creationid="MELO46" creationdate="20140109T152746Z">
+        <seg>Assi, quando rendente ab francese canadian le regulas pro francese canadian - si alicun - essera applicate antea, sequite per le Regulas pro le francese e in fin, per le regulas Base.</seg>
       </tuv>
     </tu>
     <tu>
