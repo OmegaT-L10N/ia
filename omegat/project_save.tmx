@@ -30698,6 +30698,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T152515Z" creationid="MELO46" creationdate="20140109T152515Z">
+        <seg>Pulsante le button de recerca, post inscribite in le campo un linea de character, monstra omne le segmentos in le projecto que include le linea de character entrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preventing data loss</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T222705Z">
