@@ -31690,6 +31690,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130815T091920Z">
+        <seg>Regex - Flags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T145010Z" creationid="MELO46" creationdate="20140109T085344Z">
@@ -33242,6 +33250,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T155402Z" creationid="MELO46" creationdate="20140109T155402Z">
+        <seg>Usante le recerca per parola clave con &lt;l0&gt;open file&lt;/l0&gt; trovara assi omne occurrentias del linea de character  &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; ma non &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; o &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T064952Z" creationid="MELO" creationdate="20131219T064952Z">
@@ -33846,6 +33862,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055235Z">
         <seg>Selige e confirma lo con OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T155744Z" creationid="MELO46" creationdate="20140109T155744Z">
+        <seg>Selige "recerca parola clave" per perquirer pro omne numero de individual parolas complete, in omne ordine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39435,6 +39459,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T112553Z">
         <seg>Le script es utilisabile sol pro le platteforma Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T155933Z" creationid="MELO46" creationdate="20140109T155933Z">
+        <seg>Le linea de character de recerca - [a-zA-Z]+[öäüqwß] - in le caso precedente per exemplo appare pro parolas in le segmento de destination, continente characteres dubitabile del claviero german.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53486,6 +53518,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155741Z" creationid="MELO46" creationdate="20131226T155741Z">
         <seg>keep intact all notices stating that this License and any</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyword search</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T155436Z">
+        <seg>recerca parola clave </seg>
       </tuv>
     </tu>
     <tu>
