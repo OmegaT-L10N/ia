@@ -5914,14 +5914,6 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131226T155040Z" creationid="MELO46" creationdate="20131226T155040Z">
-        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T071447Z">
@@ -15825,8 +15817,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Editing behavior options</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T140257Z">
-        <seg>Optiones del comportamento de Modifica &amp;&amp;&amp;&amp;01</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T160920Z">
+        <seg>Optiones del comportamento de Modifica</seg>
       </tuv>
     </tu>
     <tu>
@@ -21043,6 +21035,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) as shown in the above image can be selected.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T160206Z" creationid="MELO46" creationdate="20140109T160206Z">
+        <seg>Si tu clicca sur le button &lt;g0&gt;Optiones Avantiate&lt;/g0&gt; pote esser seligite altere (autor del traduction, date rendite et cetera) ut monstrate in le imagine precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you convey a covered work, knowingly relying on a patent license,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155855Z" creationid="MELO46" creationdate="20131226T155855Z">
@@ -21733,8 +21733,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T171641Z">
-        <seg>In &lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Comportamento del Modifica...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; te  offere le alternativas sequente:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161010Z">
+        <seg>&lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Comportamento del Modifica...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offere te le alternativas sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25437,6 +25437,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T160421Z" creationid="MELO46" creationdate="20140109T160421Z">
+        <seg>Major cambios al regulas de segmentation deberea esser generalmente evitate, in modo special post le completamento del prime minuta, sed cambios minor, ut le addition de un abbreviation admittite, pote esser avantagiose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make a copy of the External View file, and delete from it the content of all columns except the source-text column.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T061136Z">
@@ -28403,8 +28411,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T185415Z">
-        <seg>OmegaT lassa blanco le campo del modifica.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161103Z">
+        <seg>OmegaT lassa blanc le campo del modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30892,8 +30900,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T091550Z">
-        <seg>Programmatores e redactores de script pote usar le files continente iste texto pro adder functiones ulterior a OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T160537Z">
+        <seg>Le programmatores e le redactores de script pote usar le files continente iste texto pro adder functiones ulterior a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39721,8 +39729,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The source text</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T171647Z">
-        <seg>Le texto primari</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161041Z">
+        <seg>Le texto fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -40787,8 +40795,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130626T104427Z">
-        <seg>illos es monstrate como &lt;EMPTY&gt; in le Editor.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161318Z">
+        <seg>Illos son monstrate como &lt;EMPTY&gt; in le Editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40885,6 +40893,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130331T202104Z">
         <seg>Illos pote esser intra  le projecto currente (sia in le texto que es tu actual traduction sia, ubi un projecto include plus de un texto primari, in un altere texto intra le mesme projecto), o il pote esser in le file(s) .tmx hereditage le qual tu poneva in le plica &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T160803Z" creationid="MELO46" creationdate="20140109T160803Z">
+        <seg>Illes non necessita alicun cognoscentia de Java; le major parte del nisi omne linguas de programmation poterea esser usate in vice, e complite functiones utile etiam con maestria de programmation relativemente limitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42019,8 +42035,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130626T104240Z">
-        <seg>Iste option permitte te a scriber le traduction sin le necessitate de remover le texto original, assi tu sparnia duo percussiones de clave (&lt;e0&gt;Ctrl+A &lt;/e0&gt;e &lt;e1&gt;Del).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161145Z">
+        <seg>Iste option permitte te de scriber le traduction sin le necessitate de remover le texto original, assi tu sparnia duo percussiones de clave (&lt;e0&gt;Ctrl+A &lt;/e0&gt;e &lt;e1&gt;Del).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44879,8 +44895,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User settings files</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101003Z">
-        <seg>Files del preparationes del usuario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161548Z">
+        <seg>Files del preparationes del usator</seg>
       </tuv>
     </tu>
     <tu>
@@ -45783,8 +45799,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130626T103210Z">
-        <seg>Movente te inter segmentos, tu pote desiderar popular le campo de modifica con un traduction existente in le quadro del concordantia partial o con le texto original.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T160943Z">
+        <seg>Movente te inter segmentos, tu pote desiderar de popular le campo de modifica con un traduction existente in le quadro del concordantia partial o con le texto original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53970,14 +53986,6 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>logs/OmegaT.log</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T064241Z">
-        <seg>logs/OmegaT.log</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>long as you offer spare parts or customer support for that product</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144623Z">
@@ -59605,8 +59613,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>File Filters</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T140606Z" creationid="MELO46" creationdate="20140107T140606Z">
-        <seg>&amp;&amp;&amp;&amp;2 Filtros del file</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161339Z" creationid="MELO46" creationdate="20140107T140606Z">
+        <seg>Filtros del file</seg>
       </tuv>
     </tu>
     <tu>
@@ -59629,6 +59637,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140107T140706Z" creationid="MELO46" creationdate="20140107T140706Z">
         <seg>Salta le testa del PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesAndFolders.xml</prop>
+      <prop type="prev">File/ subfolder</prop>
+      <prop type="next">/docs/</prop>
+      <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T161841Z" creationid="MELO46" creationdate="20140109T161841Z">
+        <seg>Contentos</seg>
       </tuv>
     </tu>
     <tu>
