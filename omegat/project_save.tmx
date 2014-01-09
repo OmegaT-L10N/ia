@@ -31618,14 +31618,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Regex - Flags</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T091920Z">
-        <seg>Regex - Flags</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T085344Z" creationid="MELO46" creationdate="20140109T085344Z">
@@ -31652,8 +31644,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130816T122135Z">
-        <seg>Regex - Quotation</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T144323Z">
+        <seg>Regex - Citation</seg>
       </tuv>
     </tu>
     <tu>
@@ -37491,8 +37483,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T092119Z">
-        <seg>Le character x, excepte le following...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T144139Z">
+        <seg>Le character x, excepte le sequente...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40741,6 +40733,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T110413Z">
         <seg>Illos contine un identic memoria de traduction in formas differente, pro ser usate in projectos futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T143901Z" creationid="MELO46" creationdate="20140109T143901Z">
+        <seg>Illos seque generalmente multo le mesme schema (Per un exemplo ex le Probator de Expression Regular vide in sequito): le analyse DE expression regular (entratasummitate ) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59746,6 +59746,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T120004Z" creationid="MELO46" creationdate="20131227T120004Z">
         <seg>Usa le clave pro avantiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Regexp.xml</prop>
+      <prop type="prev">&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</prop>
+      <prop type="next">http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</prop>
+      <tuv lang="EN">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T144030Z" creationid="MELO46" creationdate="20140109T144030Z">
+        <seg>Expressiones Regular</seg>
       </tuv>
     </tu>
     <tu>
