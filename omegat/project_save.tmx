@@ -2436,6 +2436,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T133405Z" creationid="MELO46" creationdate="20140109T133405Z">
+        <seg>- id es files con un extension &lt;f0&gt;.txt &lt;/f0&gt; - : in le section &lt;e1&gt;Files de texto &lt;/e1&gt;del fenestra de dialogo Filtros de File, cambia le &lt;e2&gt;Codification del File Fonte&lt;/e2&gt; de &lt;auto&gt; le codification que corresponde a tu file fonte &lt;f3&gt;.txt&lt;/f3&gt;, per exemplo in .jp por le exemplo precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- level the formatting from these paragraphs using the macro as described above, then re-insert the formatting; or</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T062239Z">
@@ -45857,6 +45865,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T073749Z">
         <seg>Ubi un paragrapho contine formato desiderate, tu debe restaurar le formato delite post le nivellamento del paragrapho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where circumstances permit, unifying used fonts, font sizes, colors, etc. should be considered, as it could simplify the translation and reduce the potential for tag errors.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T133020Z" creationid="MELO46" creationdate="20140109T133020Z">
+        <seg>Unificar le typos de character usate, le dimensiones de typo de character, le colores, et cetera, ubi le stato de cosas permitte le, simplifica le labor de traduction e reduce le possibile numero del errores de tag.</seg>
       </tuv>
     </tu>
     <tu>
