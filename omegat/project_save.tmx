@@ -20033,8 +20033,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T202520Z" creationid="MELO46" creationdate="20140106T202520Z">
-        <seg>Si pro un segmento fonte date Il non ha adhuc traduction existente in le memoria de traduction del projecto memory (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quomodo traduction base.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T162119Z" creationid="MELO46" creationdate="20140106T202520Z">
+        <seg>Si pro un segmento fonte date Il non ha adhuc traduction existente in le memoria de traduction del projecto  (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quomodo traduction base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46775,8 +46775,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T162908Z">
-        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T162505Z">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - varietate del fonte = destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -59670,17 +59670,6 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T204503Z" creationid="MELO46" creationdate="20140106T204503Z">
         <seg>Camtasia pro Windows (*.camproj)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/FilesToTranslate.xml</prop>
-      <prop type="prev">HTML Help Compiler (*.hhc, *.hhk)</prop>
-      <prop type="next">XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</prop>
-      <tuv lang="EN">
-        <seg>DocBook (*.xml)</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T204141Z" creationid="MELO46" creationdate="20140106T204141Z">
-        <seg>DocBook (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
