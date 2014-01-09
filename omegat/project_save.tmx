@@ -10058,6 +10058,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140109T151517Z" creationid="MELO46" creationdate="20140109T151517Z">
+        <seg>Un recerca exacte quere pro un phrase, id es si plure parolas son entrate, illos son trovate solmente si illos occurre in justo celle sequentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s0/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T154047Z">
@@ -53446,14 +53454,6 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155741Z" creationid="MELO46" creationdate="20131226T155741Z">
         <seg>keep intact all notices stating that this License and any</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>keyword search</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102544Z">
-        <seg>Cerca parola clave (&amp;Keyword) </seg>
       </tuv>
     </tu>
     <tu>
