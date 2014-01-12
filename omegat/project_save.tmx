@@ -2318,8 +2318,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- Tagged text file formats</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094619Z">
-        <seg>- formato del file in texto etiquettate</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T165056Z">
+        <seg>- Formatos del file in texto taggate</seg>
       </tuv>
     </tu>
     <tu>
@@ -6910,6 +6910,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T153524Z">
         <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Projectos de equipa&lt;/s1&gt; &lt;s2&gt;Projectos de equipa&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130512T083626Z">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36969,8 +36977,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T175709Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T164544Z" creationid="MELO46" creationdate="20140112T164544Z">
+        <seg>Le quadro del Glossario permitte te de acceder tu proprie collection de expressiones e terminologia specialistic le qual tu ha create in tu files glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45239,8 +45247,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130220T121541Z">
-        <seg>Validar le tags</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T164649Z">
+        <seg>Valida le tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -52492,7 +52500,7 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130936Z">
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T164916Z" creationid="MELO46" creationdate="20140112T164916Z">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
     </tu>
