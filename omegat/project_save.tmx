@@ -1026,16 +1026,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095454Z">
-        <seg>Aperi (&amp;Open) le scriptura...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T222113Z">
+        <seg>Aperi (&amp;Open) le Script...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094753Z">
-        <seg>Displica (&amp;Open)...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T220617Z">
+        <seg>Aperi (&amp;Open)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,8 +1082,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094752Z">
-        <seg>&amp;Pojecto</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T220558Z">
+        <seg>&amp;Projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,8 +1122,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095051Z">
-        <seg>Expressiones &amp;Regulamentari</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T223058Z">
+        <seg>Expressiones &amp;Regular</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,8 +2806,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094748Z">
-        <seg>1) Reducer le numero del files primari e traducer in processo per lot (batches);</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T220450Z">
+        <seg>1) Reducer le numero del files fonte e traducer in processo per lot (batches);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11196,8 +11196,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095253Z">
-        <seg>Mal expression regulamentari</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221836Z">
+        <seg>Mal expression regular</seg>
       </tuv>
     </tu>
     <tu>
@@ -13289,8 +13289,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T213502Z">
-        <seg>Copia (&amp;y) le Files in le plica Source...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T220629Z">
+        <seg>Copia (&amp;y) le Files in le plica Fonte...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13329,8 +13329,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T213526Z">
-        <seg>Copia le Files in le plica Source...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T220736Z">
+        <seg>Copia le Files in le plica Fonte...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14705,8 +14705,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095037Z">
-        <seg>Classificator del files dictionario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221241Z">
+        <seg>Plica del Files Dictionario</seg>
       </tuv>
     </tu>
     <tu>
@@ -18689,8 +18689,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095036Z">
-        <seg>Classificator del files glossario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221158Z">
+        <seg>Plica del Files Glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -19009,8 +19009,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>HTML and XHTML</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T084151Z">
-        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221726Z">
+        <seg>HTML e XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -22733,8 +22733,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095511Z">
-        <seg>Initialization</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T222334Z">
+        <seg>Initialisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -23005,8 +23005,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T171337Z">
-        <seg>installar e executar OmegaT"  in le manual del usator.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T220506Z">
+        <seg>Installar e executar OmegaT"  in le manual del usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31124,8 +31124,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project load cancelled by user</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094948Z">
-        <seg>Cargamento del projecto cancellate ab le usuario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221014Z">
+        <seg>Cargamento del projecto cancellate ab le usator</seg>
       </tuv>
     </tu>
     <tu>
@@ -31308,8 +31308,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095338Z">
-        <seg>Usuario del proxy e contrasigno</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T222101Z">
+        <seg>Usator del proxy e contrasigno</seg>
       </tuv>
     </tu>
     <tu>
@@ -33028,8 +33028,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Script &amp;Language</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095455Z">
-        <seg>Scriptura &amp;Lingua</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T222121Z">
+        <seg>Script &amp;Lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -33252,8 +33252,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Searches can be performed in the source and/or in the translation and/or in notes.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095100Z">
-        <seg>Le cerca pote esser exequite in le fonte o in le traduction i in le notas.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T223144Z">
+        <seg>Le Recercas pote esser exequite in le fonte o in le traduction i in le notas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34780,8 +34780,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095038Z">
-        <seg>Alicun classificatores del projecto pare esseva movite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221654Z">
+        <seg>Alicun plicas del projecto pare movite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34940,8 +34940,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095035Z">
-        <seg>Classificator del files primari</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221115Z">
+        <seg>Plica del Files Fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -43667,8 +43667,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095036Z">
-        <seg>Classificator del files rendite</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221144Z">
+        <seg>Plica del Files Rendite</seg>
       </tuv>
     </tu>
     <tu>
@@ -43763,8 +43763,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095037Z">
-        <seg>Classificator del files memoria de traduction</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221222Z">
+        <seg>Plica del Files Memoria de Traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -46271,8 +46271,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094942Z">
-        <seg>Le vento captura le lilio&lt;p&gt;Petalos disperse al vento:&lt;p&gt;Tu pagina non es trovate</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T220920Z">
+        <seg>Le vento captura le lilio&lt;p&gt;Petalos dispergite al vento:&lt;p&gt;Tu pagina non es trovate</seg>
       </tuv>
     </tu>
     <tu>
@@ -52652,8 +52652,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T090947Z">
-        <seg>http://www.omegat.org/ia/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T222809Z">
+        <seg>http://www.omegat.org/ia/OmegaT%20for%20Beginners.odt</seg>
       </tuv>
     </tu>
     <tu>
@@ -60145,6 +60145,26 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T131739Z" creationid="MELO46" creationdate="20131224T131739Z">
         <seg>ERROR:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MATCHES_FUZZY_MARK</prop>
+      <tuv lang="EN">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T222033Z" creationid="MELO46" creationdate="20140112T222033Z">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PP_BUTTON_BROWSE_SRC</prop>
+      <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T221037Z" creationid="MELO46" creationdate="20140112T221037Z">
+        <seg>&amp;Browse</seg>
       </tuv>
     </tu>
     <tu>
