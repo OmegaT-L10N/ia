@@ -2406,8 +2406,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- ability to run on any operating system supporting Java</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094612Z">
-        <seg>- capacitate de currer sur qualcunque systema operative que supporta Java</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091530Z">
+        <seg>- capacitate de functionar sur qualcunque systema operative que supporta Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,16 +2430,16 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094613Z">
-        <seg>- flexibile segmentation del phrases (usante un methodo SRX-simile)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091605Z">
+        <seg>- flexibile segmentation del phrases (per un methodo SRX-simile)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>- fuzzy matching</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094614Z">
-        <seg>- concordantia confuse</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091712Z">
+        <seg>- concordantia partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,8 +2542,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- use of any valid TMX file as a translation reference</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094613Z">
-        <seg>- empleo de qualcunque file TMX valide como un referentia de traduction</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091548Z">
+        <seg>- empleo de qualcunque file TMX valide como referentia pro le traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -6708,8 +6708,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101614Z">
-        <seg>&lt;p0&gt;Menu projecto &lt;/p0&gt; &lt;s1&gt;Nove ...&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085014Z">
+        <seg>&lt;p0&gt;Menu projecto &lt;/p0&gt; &lt;s1&gt;Nove...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6914,14 +6914,6 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T083626Z">
-        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Scripting&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T085249Z">
@@ -7076,8 +7068,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101612Z">
-        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt; Producer /aperir nove&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085003Z">
+        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt; Crear / aperir un nove&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8876,8 +8868,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A source sentence might look like:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T130049Z">
-        <seg>Un phrase primari poterea parer como:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090016Z">
+        <seg>Un phrase fonte poterea parer como:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9468,16 +9460,16 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T125755Z">
-        <seg>Postquam le files original ha cargate in le quadro del &lt;g3&gt;Editor&lt;/g3&gt;, tu pote clauder le fenestra de dialogo &lt;g4&gt;Files del  Projecto&lt;/g4&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085751Z">
+        <seg>Postquam le files original essera cargate in le quadro &lt;g3&gt;Modifica&lt;/g3&gt;, tu pote clauder le fenestra de dialogo &lt;g4&gt;Files del  Projecto&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T131406Z">
-        <seg>Postquam tu ha denominate tu projecto, se displicara le dialogo &lt;g0&gt;Crea nove projecto&lt;/g0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085340Z">
+        <seg>Postquam tu ha denominate tu projecto, se displicara le fenestra de dialogo &lt;g0&gt;Crea un Nove Projecto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10828,8 +10820,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T211531Z">
-        <seg>Al fin de tu traduction, OmegaT exporta tres memorias de traduction appellate &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt;e &lt;f2&gt;omegat&lt;/f2&gt; in tu plica del projecto</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090920Z">
+        <seg>Al fin de tu traduction, OmegaT exporta tres memorias de traduction nominate &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt;e &lt;f2&gt;omegat&lt;/f2&gt;, in le plica de tu projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -10900,8 +10892,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T131905Z">
-        <seg>A le summitate de iste dialogo, selectiona le lingua de tu file fontal e le lingua pro tu file rendite, e clicca &lt;g1&gt;OK&lt;/g1&gt; pro continuar.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085429Z">
+        <seg>A le summitate de iste fenestra de dialogo, selige le lingua de tu file fonte e le lingua pro tu file rendite, e clicca &lt;g1&gt;OK&lt;/g1&gt; pro continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12564,8 +12556,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T125344Z">
-        <seg>Cliccar sur &lt;g1&gt;Copia Files al plica origine...&lt;/g1&gt; pro seliger tu archivos original.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085703Z">
+        <seg>Cliccar sur &lt;g1&gt;Copia Files al Plica Fonte...&lt;/g1&gt; pro seliger tu archivos a render.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17529,8 +17521,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101634Z">
-        <seg>Pro un plus comprehensive introduction, que tu vide  &lt;u0&gt;OmegaT pro comenciantes&lt;/u0&gt; sur le sito TTT de OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091209Z">
+        <seg>Pro un plus comprehensive introduction, que tu vide  &lt;u0&gt;OmegaT pro novicios&lt;/u0&gt; sur le sito TTT de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19833,8 +19825,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T130422Z">
-        <seg>Si un file non carga in le quadro &lt;g0&gt;Editor'&lt;/g0&gt;, alora es possibile que tu  file primari ha un formato que non functiona in OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090254Z">
+        <seg>Si un file non carga in le quadro &lt;g0&gt;Modifica&lt;/g0&gt;, alora es possibile que tu  file primari ha un formato que non functiona in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20829,8 +20821,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101617Z">
-        <seg>Si tu essera interessate re altere preparationes de iste dialogo, tu pote revenir a illo in qualcunque tempore juxta instante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085516Z">
+        <seg>Si tu essera interessate re altere preparationes de iste fenestra de dialogo, tu pote revenir a illo in qualcunque tempore pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21277,8 +21269,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101635Z">
-        <seg>Si tu ha besonio de adjuta pro qualque aspecto de OmegaT, que tu te adjunge gratis al gruppo &lt;u1&gt;Usuarios de OmegaT&lt;/u1&gt; .</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091221Z">
+        <seg>Si tu ha besonio de adjuta pro qualque aspecto de OmegaT, que tu te adjunge gratis al gruppo &lt;u1&gt;Usatores de OmegaT&lt;/u1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -21605,8 +21597,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T125948Z">
-        <seg>Si tu files primari es files formate, per exemplo: Microsoft Word, LibreOffice Writer o HTML, OmegaT convertera le formato in tags que ambira le texto que tu va render.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090003Z">
+        <seg>Si tu files primari son files formattate, per exemplo: Microsoft Word, LibreOffice Writer o HTML, OmegaT convertera le formato in tags que ambira le texto que tu va render.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22253,8 +22245,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T053938Z">
-        <seg>In le menu &lt;g0&gt;Projecto&lt;/g0&gt;, selige  &lt;m1&gt;&lt;g2&gt;Nove ... &lt;/g2&gt;&lt;/m1&gt;  e scribe un nomine pro tu projecto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085215Z">
+        <seg>In le menu &lt;g0&gt;Projecto&lt;/g0&gt;, selige  &lt;m1&gt;&lt;g2&gt;Nove... &lt;/g2&gt;&lt;/m1&gt;  e denomina tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22717,8 +22709,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Information about OmegaT</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094556Z">
-        <seg>Information circa OmegaT</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091304Z">
+        <seg>Information re OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26751,8 +26743,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T132109Z">
-        <seg>Deinde, se displica le fenestra de dialogo &lt;g0&gt;archivos del projecto&lt;/g0&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085545Z">
+        <seg>Deinde, se aperi le fenestra de dialogo &lt;g0&gt;archivos del projecto&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28183,8 +28175,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094610Z">
-        <seg>OmegaT es un instrumento pro traduction adjutate ab computator (CAT).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091441Z">
+        <seg>OmegaT es un application pro Traduction Adjutate ab Computator (Computer Aided Tanslation - CAT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28731,8 +28723,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T132422Z">
-        <seg>OmegaT te proponera un segmento a un vice, pro render lo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085907Z">
+        <seg>OmegaT proponera te un segmento a un vice, pro render lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28827,8 +28819,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT's main features are:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094612Z">
-        <seg>Le principal characteristicas de OmegaT's es:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091515Z">
+        <seg>Le principal characteristicas de OmegaT's son:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28851,8 +28843,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101623Z">
-        <seg>OmegaT, comocunque, presentera iste phrase in le sequente faction:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090055Z">
+        <seg>OmegaT, comocunque, presentara iste phrase in le sequente maniera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31908,8 +31900,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130853Z">
-        <seg>Recorda ubi tu es creante le projecto, quia tu plus tarde habera necessitate de retornar illac.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085251Z">
+        <seg>Recorda ubi tu crea le projecto, quia tu plus tarde habera necessitate de retornar illac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33356,8 +33348,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T130431Z">
-        <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090408Z">
+        <seg>Vide &lt;l1&gt;Filtros de File&lt;/l1&gt; pro un lista del formatos de file que OmegaT pote tractar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39881,8 +39873,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T131048Z">
-        <seg>Le tags in OmegaT es gris, assi illos es facile a recognoscer.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090116Z">
+        <seg>Le tags in OmegaT son gris, assi illos son facile a recognoscer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40819,8 +40811,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T130235Z">
-        <seg>Illos son sin protection, assi tu pote deler illos, inscriber illos a mano o mover illos circum le phrase final.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090234Z">
+        <seg>Illos son sin protection, assi tu pote deler los, inscriber los a mano o mover illos circum le phrase final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43083,8 +43075,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T161400Z">
-        <seg>Per recordar se del preparationes initial del projecto, aperi le dialogo 'Preparationes del projecto' pressante  &lt;k0&gt;Ctrl+E&lt;/k0&gt; .</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090532Z">
+        <seg>Per recordar se del preparationes initial del projecto, aperi le fenestra de dialogo del preparationes del projecto pressante  &lt;k0&gt;Ctrl+E&lt;/k0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -43139,8 +43131,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T162420Z">
-        <seg>Per vider le lista del files in le projecto, aperi le dialogo &lt;g1&gt;Files del projecto&lt;/g1&gt; pulsante  &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090550Z">
+        <seg>Per vider le lista del files in le projecto, aperi le fenestra de dialogo &lt;g1&gt;Files del projecto&lt;/g1&gt; pulsante  &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43195,8 +43187,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130904Z">
-        <seg>Pro comenciar a usar OmegaT, in prime loco crea un projecto que detenera omne tu archivos, illo es tu archivos fonte, memorias de traduction, glossarios, e eventualmente tu archivo rendite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T085145Z">
+        <seg>Pro comenciar a usar OmegaT, in prime loco crea un projecto que detenera omne tu files, como tu file fonte, memorias de traduction, glossarios, e eventualmente tu file rendite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47167,8 +47159,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T102959Z" creationid="MELO" creationdate="20131219T102959Z">
-        <seg>Tu pote crear un novo projecto pro cata nove obra, e in vice tu pote adder nove files fonte a un projecto in omne momento.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090433Z" creationid="MELO" creationdate="20131219T102959Z">
+        <seg>Tu pote crear un novo projecto pro cata nove obra o tu pote adder nove files fonte a un projecto in omne momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50516,8 +50508,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>don't have to pay anything to be able to use it, even for professional use,</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094611Z">
-        <seg>habe a pagar alco pro poter lo usar, mesmo pro uso professional,</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091505Z">
+        <seg>habe a pagar alco pro poter usar lo, mesmo pro uso professional,</seg>
       </tuv>
     </tu>
     <tu>
@@ -52644,8 +52636,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130935Z">
-        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T090947Z">
+        <seg>http://www.omegat.org/ia/tutorial/OmegaT%20for%20Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
@@ -53982,6 +53974,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095114Z">
         <seg>cargate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130701T064241Z">
+        <seg>logs/OmegaT.log</seg>
       </tuv>
     </tu>
     <tu>
