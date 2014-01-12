@@ -5914,6 +5914,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T214451Z" creationid="MELO46" creationdate="20140112T214451Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T071447Z">
@@ -28755,8 +28763,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will run on the open-implementation source Java</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094636Z">
-        <seg>OmegaT currera super le libere-execution primari Java</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T215127Z">
+        <seg>OmegaT functionara sur le libere-implementation Java origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -35468,8 +35476,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Subsequent clicks on  OmegaT.jnlp</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094632Z">
-        <seg>Ulterior clicca sur  OmegaT.jnlp</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T214733Z">
+        <seg>Clicks subsequente sur  OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -37387,8 +37395,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The alternative ways and means of dowloading and installing OmegaT are</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094633Z">
-        <seg>Le alternative manieras e medios pro discargar e installar OmegaT es</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T214911Z">
+        <seg>Le alternative manieras e medios pro discargar e installar OmegaT son</seg>
       </tuv>
     </tu>
     <tu>
@@ -37539,8 +37547,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The certificate is self-signed by "Didier Briel".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T165244Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;END Le certificato es firmate per "Didier Briel".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T214626Z">
+        <seg> Le certificato es firmate per "Didier Briel".</seg>
       </tuv>
     </tu>
     <tu>
@@ -48892,8 +48900,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>and then start OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094633Z">
-        <seg>e deinde lancear OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T214850Z">
+        <seg>e deinde initia OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51052,8 +51060,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>ensure that it is in your launch path, or call it explicitly when launching</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094638Z">
-        <seg>te assecurar que illo es in tu via de lancha, o lo lancear explicitemente</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T215256Z">
+        <seg>te assecurar que illo es in tu percurso de lancha, o lo lancear explicitemente</seg>
       </tuv>
     </tu>
     <tu>
@@ -51220,8 +51228,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>experience bugs, display problems or missing features.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094636Z">
-        <seg>haber experientia de defectos, problemas de monstra o characteristicas perdite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T215223Z">
+        <seg>haber experientia de defectos, problemas de apparentia o characteristicas perdite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56772,8 +56780,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>since this "local" JRE will not interfere with any other JRE installed</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094639Z">
-        <seg>proque hic "local" JRE non interferera con necun altere JRE installate</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T215337Z">
+        <seg>proque iste "local" JRE non interferera con necun altere JRE installate</seg>
       </tuv>
     </tu>
     <tu>
@@ -58684,8 +58692,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>will check for any upgrades, if you are online, install them if there are any,</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094632Z">
-        <seg>controlara pro alicun renovationes, si tu ha le connexion a interrete e illos que habe installara,</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T214831Z">
+        <seg>controlara pro omne renovationes, si tu ha le connexion a interrete,  installara los que ha,</seg>
       </tuv>
     </tu>
     <tu>
