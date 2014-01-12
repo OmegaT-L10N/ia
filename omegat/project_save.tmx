@@ -17553,8 +17553,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094625Z">
-        <seg>Pro un parve instruction de rapide initio, que tu lancea OmegaT e lege le "Initio instantanee" exponite</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T165119Z">
+        <seg>Pro un parve instruction de rapide initio, lancea OmegaT e lege le "Initio instantanee" exponite</seg>
       </tuv>
     </tu>
     <tu>
@@ -37539,8 +37539,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The certificate is self-signed by "Didier Briel".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094631Z">
-        <seg>Le certificato es firmate per "Didier Briel".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T165244Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;END Le certificato es firmate per "Didier Briel".</seg>
       </tuv>
     </tu>
     <tu>
