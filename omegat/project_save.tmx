@@ -2534,8 +2534,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- support for the Google Translate machine translation services</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094615Z">
-        <seg>- supporto pro le servicios de traduction a machina  de Google Translate</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091845Z">
+        <seg>- supporto pro le servicios de Google Translate e altere traduction automatic</seg>
       </tuv>
     </tu>
     <tu>
@@ -28691,8 +28691,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will automatically parse even the most complex source folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094624Z">
-        <seg>OmegaT analysara automaticamente etiam le plus complexe hierarchias de classificatores primari, </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091927Z">
+        <seg>OmegaT analysara automaticamente etiam le plus complexe hierarchias de plica fonte, </seg>
       </tuv>
     </tu>
     <tu>
@@ -52012,8 +52012,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>hierarchies, to access all the supported files, and produce a target folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094624Z">
-        <seg>pro acceder omne files supportate, e produce le classificatores final</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T091946Z">
+        <seg>pro acceder omne files supportate, e produce un plica final</seg>
       </tuv>
     </tu>
     <tu>
@@ -58732,8 +58732,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>with exactly the same structure, including copies of any non-supported files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094625Z">
-        <seg>con exactemente le mesme structura, includente etiam le copias de omne files non supportate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140112T092059Z">
+        <seg>con exactemente le mesme structura del files rendite, includente etiam le copias fonte de omne files non supportate.</seg>
       </tuv>
     </tu>
     <tu>
