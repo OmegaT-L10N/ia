@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13897,8 +13897,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding and following segments.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T171842Z">
-        <seg>crear un "traduction alternative" dunque fide sur identic segmentos que ha distincte segmentos precedente e sequente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140118T232257Z">
+        <seg>Crear un "traduction alternative" dunque fide sur identic segmentos que ha distincte segmentos precedente e sequente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19801,8 +19801,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T165152Z">
-        <seg>Si Optiones &gt; Comportamento del modifica &gt; "Vade al sequente segmento non rendite arresta quando il ha is al minus un translation alternative" es seligite totevia e al minus un traduction alternative de un segmento non unic esseva create, iste function tracta omne occurrentias de un segmento (si traductiones base o alternative) ut non rendite, i.e. non salta los.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140118T232205Z">
+        <seg>Si Optiones &gt; Comportamento del modifica &gt; "Vade al sequente segmento non rendite arresta quando il ha is al minus un translation alternative" es seligite totevia e al minus un traduction alternative de un segmento non unic esseva create, iste function tracta omne occurrentias de un segmento (sia traductiones base o alternative) ut non rendite, id es non salta los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41539,8 +41539,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T180745Z">
-        <seg>Isto ha le effecto de  cancellar le "traduction alternative" stato al mesme tempore; le traduction del segmento revertera dunque e &amp;&amp;&amp;&amp;&amp; of the default translation.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140118T232033Z">
+        <seg>Isto ha le effecto de cancellar le stato de "traduction alternative" al mesme tempore; le traduction del segmento revertera dunque a illo del traduction base.</seg>
       </tuv>
     </tu>
     <tu>
