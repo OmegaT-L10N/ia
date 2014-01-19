@@ -41355,8 +41355,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T133939Z">
-        <seg>Iste documento es le guida official del usator pro OmegaT, le instrumento gratuite de traduction assistite ab computator.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140119T115542Z">
+        <seg>Iste documento es le guida official del usator pro OmegaT, le application gratuite de Traduction Assistite per le Computator (Computer Aided Translation - CAT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42235,8 +42235,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140113T151732Z">
-        <seg>Le  traduction presente es le labor de Carmelo Serraino, copyright© 2014.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140119T120357Z">
+        <seg>Le  traduction presente es obra de Carmelo Serraino, copyright© 2014.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58612,8 +58612,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>vs</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130808T153108Z">
-        <seg>vs</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140119T115616Z">
+        <seg>iaper</seg>
       </tuv>
     </tu>
     <tu>
@@ -59906,6 +59906,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T120004Z" creationid="MELO46" creationdate="20131227T120004Z">
         <seg>Usa le clave pro avantiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/OmegaTUsersManual_xinclude full.xml</prop>
+      <prop type="prev"></prop>
+      <prop type="next">OmegaT 3.0 - User's Guide</prop>
+      <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140119T115743Z" creationid="MELO46" creationdate="20140119T115743Z">
+        <seg>ia</seg>
       </tuv>
     </tu>
     <tu>
