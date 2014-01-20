@@ -59932,6 +59932,17 @@ crear su classificator de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/OmegaTUsersManual_xinclude full.xml</prop>
+      <prop type="prev">OmegaT 3.0 - User's Guide</prop>
+      <prop type="next">Vito Smolej</prop>
+      <tuv lang="EN">
+        <seg>vs</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140120T232750Z" creationid="MELO46" creationdate="20140120T232750Z">
+        <seg>per</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/Regexp.xml</prop>
       <prop type="prev">&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</prop>
       <prop type="next">http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</prop>
