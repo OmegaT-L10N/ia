@@ -4756,8 +4756,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T130017Z">
-        <seg>&lt;e0&gt;Vias breve de claviero in le Editor&lt;/e0&gt;: le lista del vias breve usate in le Editor</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T221417Z">
+        <seg>&lt;e0&gt;Vias breve de claviero in le Editor&lt;/e0&gt;: le lista del vias breve usate in le Modifica</seg>
       </tuv>
     </tu>
     <tu>
@@ -4772,8 +4772,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130312T233946Z">
-        <seg>&lt;e0&gt;Linguas:&lt;/e0&gt; contine le lista del linguas e del codices de lingua ISO&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt; </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T221333Z">
+        <seg>&lt;e0&gt;Linguas:&lt;/e0&gt; contine le lista supplite del linguas e del codices ISO del lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -59511,6 +59511,28 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/AboutOmegaT.xml</prop>
+      <prop type="prev">&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</prop>
+      <prop type="next">Team Projects</prop>
+      <tuv lang="EN">
+        <seg>Introduction into Tokenizer and Scripting plugins</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T221429Z" creationid="MELO46" creationdate="20140121T221429Z">
+        <seg>Introduction a Tokenizer e al plugins de Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_L10N_Full/OmegaT_3.0.8_L10N_Full/doc_src/en/AboutOmegaT.xml</prop>
+      <prop type="prev">Team Projects</prop>
+      <prop type="next">&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</prop>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T221507Z" creationid="MELO46" creationdate="20140121T221507Z">
+        <seg>Informationes legal e Recognitiones</seg>
       </tuv>
     </tu>
     <tu>
