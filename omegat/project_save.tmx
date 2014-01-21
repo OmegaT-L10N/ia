@@ -7084,8 +7084,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T085003Z">
-        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt; Crear / aperir un nove&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T222102Z">
+        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt; Crea/aperi un nove&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16977,8 +16977,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Few more things to remember</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101627Z">
-        <seg>Pauc magis cosas a recordar</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T222338Z">
+        <seg>Pauc magis cosas a rememorar se</seg>
       </tuv>
     </tu>
     <tu>
@@ -19841,8 +19841,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T090254Z">
-        <seg>Si un file non carga in le quadro &lt;g0&gt;Modifica&lt;/g0&gt;, alora es possibile que tu  file primari ha un formato que non functiona in OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T222421Z">
+        <seg>Si un file non carga in le quadro &lt;g0&gt;Modifica&lt;/g0&gt;, alora es possibile que tu file fonte ha un formato que non functiona in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28779,8 +28779,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130630T193222Z">
-        <seg>Tunc OmegaT copiara le files seligite in le sub plica &lt;f2&gt;/source/&lt;/f2&gt; de tu nove projecto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T222235Z">
+        <seg>Tunc OmegaT copiara le files seligite in le sub-plica &lt;f2&gt;/source/&lt;/f2&gt; de tu nove projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43092,8 +43092,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T090532Z">
-        <seg>Per recordar se del preparationes initial del projecto, aperi le fenestra de dialogo del preparationes del projecto pressante  &lt;k0&gt;Ctrl+E&lt;/k0&gt; .</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T222520Z">
+        <seg>Per recordar se del preparationes initial del projecto, aperi le fenestra de dialogo del preparationes del projecto pulsante  &lt;k0&gt;Ctrl+E&lt;/k0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
