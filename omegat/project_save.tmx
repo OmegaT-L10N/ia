@@ -41356,8 +41356,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140119T115542Z">
-        <seg>Iste documento es le guida official del usator pro OmegaT, le application gratuite de Traduction Assistite per le Computator (Computer Aided Translation - CAT).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T214451Z">
+        <seg>Iste documento es le guida official del usator pro OmegaT, le application gratuite de Traduction Assistite per le Computator (Computer Assisted Translation - CAT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59467,17 +59467,6 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T063340Z" creationid="MELO" creationdate="20131219T063340Z">
         <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">OmegaT for Beginners.odt</prop>
-      <prop type="prev">Screenshots from OmegaT versions: 1.6.0, 2.0.0</prop>
-      <prop type="next">Table of Contents</prop>
-      <tuv lang="EN">
-        <seg>Table of Contents</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140119T120612Z" creationid="MELO46" creationdate="20140119T120612Z">
-        <seg>Table of Contents</seg>
       </tuv>
     </tu>
     <tu>
