@@ -4596,8 +4596,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130312T233845Z">
-        <seg>extensive&lt;e0&gt;Dictionarios, Glossarios&lt;/e0&gt;, &lt;e1&gt;traduction a machina&lt;/e1&gt; , &lt;e2&gt;corrector orthographic, LanguageTool:&lt;/e2&gt; OmegaT supporta un  extensive uso de dictionarios e glossarios.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T220806Z">
+        <seg>&lt;e0&gt;Dictionarios, Glossarios&lt;/e0&gt;, &lt;e1&gt;Traduction Automatic&lt;/e1&gt; , &lt;e2&gt;Corrector Orthographic, LanguageTool:&lt;/e2&gt; OmegaT supporta un  extensive uso de dictionarios e glossarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4620,8 +4620,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T121642Z">
-        <seg>&lt;e0&gt;Comportamento del campo de edition:&lt;/e0&gt; un breve capitulo describente como preparar le comportamento del editor pro le segmento a render.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T220226Z">
+        <seg>&lt;e0&gt;Comportamento del campo de modifica:&lt;/e0&gt; un breve capitulo describente como preparar le comportamento del editor pro le segmento a render.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4868,8 +4868,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T125909Z">
-        <seg>&lt;e0&gt;OmegaT sur le web:&lt;/e0&gt; informationes re le ressources in rete de OmegaT</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T221041Z">
+        <seg>&lt;e0&gt;OmegaT sur le TTT:&lt;/e0&gt; informationes re le ressources in rete de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -20301,8 +20301,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T125708Z">
-        <seg>Si es activate le controlo orthographic, le errores orthographic e le lapsus es identificate e marcate pro esser correcte durante le traduction.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T220848Z">
+        <seg>Si es activate le controlo orthographic, le errores orthographic e le lapsus son identificate e marcate pro esser correcte durante le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30075,8 +30075,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T093442Z">
-        <seg>Le segmentation basate super paragraphos es usate minus frequentemente, ma pote esser utile in casos del textos si-nominate "creative".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T220427Z">
+        <seg>Le segmentation basate sur paragraphos es usate minus frequentemente, ma pote esser utile in casos del textos si-nominate "creative".</seg>
       </tuv>
     </tu>
     <tu>
@@ -39017,8 +39017,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T100347Z">
-        <seg>Le application de origine patente LanguageTool pote esser usate pro corriger commun errores grammatical e  stilistic.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T221016Z">
+        <seg>Le application open source LanguageTool, pote esser usate pro corriger commun errores grammatical e  stilistic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39417,8 +39417,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T093448Z">
-        <seg>Le segmentation basate super le regulas es habitualmente synonyme con le segmentation basate super le phrases.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T220458Z">
+        <seg>Le segmentation basate sur le regulas es habitualmente synonyme con le segmentation basate super le phrases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39537,8 +39537,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140121T220012Z">
-        <seg>Le secundo de iste capitulos describe le varie subplicas e files, in un projecto de traduction, e lor rolo, assi como altere files del usator e application associate con OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T220349Z">
+        <seg>Le secundo de iste capitulos describe le varie sub-plicas e files, in un projecto de traduction, e lor rolo, assi como altere files del usator e application associate con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
