@@ -15145,8 +15145,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T183240Z">
-        <seg>Esque tu ha un installation de Java  compatibile con Oracle's Java 1.6 JRE?</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T222948Z">
+        <seg>Esque tu ha un installation de Java compatibile con Oracle's Java 1.6 JRE?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24511,8 +24511,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130407T215626Z">
-        <seg>ALater, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T223052Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;ALater, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there&amp;&amp;&amp;&amp;&amp;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42068,8 +42068,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101333Z">
-        <seg>Iste pacchetto es ligate con Oracle's Java Runtime Environment.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T223038Z">
+        <seg>Iste pacchetto es impacchettate con Oracle's Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46304,8 +46304,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Windows Users</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101330Z">
-        <seg>Usuarios de Windows </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140121T222909Z">
+        <seg>Usatores de Windows </seg>
       </tuv>
     </tu>
     <tu>
