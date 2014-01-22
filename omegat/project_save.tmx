@@ -3516,8 +3516,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e0&gt;To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T212429Z">
-        <seg>&lt;/e0&gt;Pro facer isto, que tu selige simplemente le mesme plica del installation existente, quando tu installara le version nove.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T231942Z">
+        <seg>&lt;/e0&gt;Pro facer isto, selige simplemente le mesme plica del installation existente, quando tu installara le version nove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,8 +5532,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130407T220733Z">
-        <seg>&lt;i2/&gt;Le optiones per le initio del programma in iste caso essera legite ab le file  &lt;e3&gt;&lt;a4&gt;OmegaT &lt;/a4&gt;.l4J.ini &lt;/e3&gt;, le qual reside in le mesme classificator que le file .exe e que tu pote editar per respicer tu preparation.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T231717Z">
+        <seg>&lt;i2/&gt;Le optiones per le initio del programma in iste caso essera legite ab le file  &lt;e3&gt;&lt;a4&gt;OmegaT &lt;/a4&gt;.l4J.ini &lt;/e3&gt;, le qual reside in le mesme plica que le file .exe e que tu pote editar per respicer tu preparation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20797,8 +20797,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130407T221357Z">
-        <seg>Si tu ja ha un version de OmegaT installate in tu PC e desira lo promover a un version plus recente, tu ha duo optiones: installar e executar OmegaT 6 • installar super le installation existente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T231853Z">
+        <seg>Si tu ja ha un version de OmegaT installate in tu PC e desira lo promover a un version plus recente, tu ha duo optiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21549,8 +21549,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T123107Z">
-        <seg>If tu installation de OmegaT es un version "Windows with JRE", le nove version debe alsi esser un version "Windows with JRE".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232201Z">
+        <seg>Si tu installation de OmegaT es un version "Windows with JRE", le nove version debe alsi esser un version "Windows with JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -23341,8 +23341,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101342Z">
-        <seg>Isto non refere al version Web Start , que es promovite automaticamente, neque al version cross-platform sur Windows .</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T231836Z">
+        <seg>Isto non refere al version Web Start , que es promovite automaticamente al version ultime, neque al version cross-platform sur Windows .</seg>
       </tuv>
     </tu>
     <tu>
@@ -24511,8 +24511,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140121T223052Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;ALater, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there&amp;&amp;&amp;&amp;&amp;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T231609Z">
+        <seg>Plus tarde, postquam tu ha acceptate le accordo de licentia, le programma de preparation demanda a te si tu desidera crear un plica in le menu &lt;e0&gt;Initio&lt;/e0&gt;, e si tu desira crear un via breve sur le scriptorio e in le barra de lanceamento celere - tu pote crear iste vias breve plus tarde con le tiramento de &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; al scriptorio o al menu de Initio pro ligar lo ex illac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44404,8 +44404,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101351Z">
-        <seg>Que tu dispacchetta le file discargate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232233Z">
+        <seg>Que tu dispacchetta (Unpack/untar) le file discargate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46456,8 +46456,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130221T152606Z">
-        <seg>Con iste methodo, tu pote discargar le version  "Windows without JRE", perque le installation nove usera tu JRE existente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232003Z">
+        <seg>Con iste methodo, tu pote discargar le version  "Windows without JRE", perque le installation nove usara tu JRE existente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59817,8 +59817,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T212659Z" creationid="MELO46" creationdate="20140108T212659Z">
-        <seg>&lt;e0&gt;Installa in un classificator nove.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232041Z" creationid="MELO46" creationdate="20140108T212659Z">
+        <seg>&lt;e0&gt;Installa in un plica nove.</seg>
       </tuv>
     </tu>
     <tu>
