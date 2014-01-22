@@ -7356,8 +7356,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Using Java Web Start&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130407T221923Z">
-        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;In Java Web Start&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T233124Z">
+        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;In Java Web Start&lt;/s1&gt;&amp;&amp;&amp;&amp;&amp;END&amp;&amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12636,8 +12636,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Click on the icon button, then hit &lt;e0&gt;Browse...&lt;/e0&gt; and navigate to the /images subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130709T224047Z">
-        <seg>Clicca sur le button icone, pois pressa &lt;e0&gt;Naviga...&lt;/e0&gt; al sub plica /images in le plica del application &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232519Z">
+        <seg>Clicca sur le button icone, pois pulsa &lt;e0&gt;Naviga...&lt;/e0&gt; al sub plica /images in le plica del application &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18481,8 +18481,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>GNOME Users</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101401Z">
-        <seg>Usuarios de GNOME</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232442Z">
+        <seg>Usatores de GNOME</seg>
       </tuv>
     </tu>
     <tu>
@@ -25239,8 +25239,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mac OS X Users</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101408Z">
-        <seg>usuarios de OS X Mac</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232533Z">
+        <seg>Usatores de OS X Mac</seg>
       </tuv>
     </tu>
     <tu>
@@ -25991,8 +25991,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Methods differ depending on the distribution.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130407T222737Z">
-        <seg>Methodos differe dependente del distribution.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T233023Z">
+        <seg>Le methodos differe dependente del distribution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44592,8 +44592,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use "Software Update..." from the Apple menu to update your Java version.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130220T164532Z">
-        <seg>Use "Software Update..." from the Apple menu to update your Java version.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232758Z">
+        <seg>Usa "Software Update..." ex le menu de Apple pro renovar tu version Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45000,8 +45000,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T124324Z">
-        <seg>Le usatores de altere platformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) debe haber functionante un  Java JRE compatibile sur lor systema pro esser habile a usar &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140122T232933Z">
+        <seg>Le usatores de altere platteformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) debe haber functionante un Java JRE compatibile sur lor systema pro esser capace de usar &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
