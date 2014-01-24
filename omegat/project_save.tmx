@@ -4428,8 +4428,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normally, i.e. when &lt;a2&gt;OmegaT&lt;/a2&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130818T171852Z">
-        <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Hormalmente, id es quando &lt;a2&gt;OmegaT&lt;/a2&gt; es lanceate sin alicun argumentos, le programma in prime loco releva le lingua del systema operative del usator.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T234346Z">
+        <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normalmente, id es quando &lt;a2&gt;OmegaT&lt;/a2&gt; es lanceate sin alicun argumentos, le programma releva in prime loco le lingua del systema operative del usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10536,8 +10536,8 @@ Le file TMX non essera cargate.</seg>
       <tuv lang="EN">
         <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T135435Z">
-        <seg>Le argumentos es addite post le initial &lt;e0&gt;"java"&lt;/e0&gt;, e ante le &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T234155Z">
+        <seg>Le argumentos son addite post le initial &lt;e0&gt;"java"&lt;/e0&gt;, e ante le &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12196,8 +12196,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T135334Z">
-        <seg>Le cambios a iste commando implica le addition de "argumentos" a illo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T234130Z">
+        <seg>Le cambios a iste commando implica le addition de "argumentos".</seg>
       </tuv>
     </tu>
     <tu>
@@ -37475,8 +37475,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130706T223209Z">
-        <seg>Le commando basic esseva ja  mentionate precedentemente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T234103Z">
+        <seg>Le commando basic esseva ja mentionate precedentemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42004,8 +42004,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T131510Z">
-        <seg>Iste methodo ha le beneficio particular de esser commode pro discoperir causas de problemas: si occurre un error durante le uso del programma, un message de error es output in le fenestra del terminal que pote continer information utile sur le causa del error.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233901Z">
+        <seg>Iste methodo ha le beneficio particular de esser commode pro discoperir causas de problemas: si occurre un error durante le uso del programma, in le fenestra del terminal es emittite un message de error que pote continer information utile sur le causa del error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44880,8 +44880,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User interface language</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130407T222320Z">
-        <seg>Lingua interfacie del usator</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T234254Z">
+        <seg>Lingua interfacie del usator &amp;&amp;&amp;&amp;END&amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45856,8 +45856,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T135102Z">
-        <seg>Quando es  exequite iste file, es exequite automaticamente alsi le commandos intra lo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T234047Z">
+        <seg>Quando es exequite iste file, son exequite automaticamente alsi le commandos interne.</seg>
       </tuv>
     </tu>
     <tu>
