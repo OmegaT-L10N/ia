@@ -7356,8 +7356,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Using Java Web Start&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140122T233124Z">
-        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;In Java Web Start&lt;/s1&gt;&amp;&amp;&amp;&amp;&amp;END&amp;&amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T232422Z">
+        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;In Java Web Start&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23919,8 +23919,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130703T084321Z">
-        <seg>Java Web Start assecura que le ultime version del application essera displicate, como le correcte version del Java Runtime Environment (JRE) usate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T232505Z">
+        <seg>Java Web Start assecura que le ultime version del application essera displicate, assi como usate le correcte version de Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25511,8 +25511,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Make sure that your &lt;e3&gt;PATH&lt;/e3&gt; settings are correct and that &lt;e4&gt;.jar &lt;/e4&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T073811Z">
-        <seg>Face secur te que tu preparationes &lt;e3&gt;PERCURSO&lt;/e3&gt; es correcte e que le files &lt;e4&gt;.jar &lt;/e4&gt; es associate debitemente con un lanceator de Java.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T232339Z">
+        <seg>Face secur te que tu preparationes del &lt;e3&gt;PATH&lt;/e3&gt; son correcte e que le files &lt;e4&gt;.jar &lt;/e4&gt; son associate debitemente con un lanceator Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43196,8 +43196,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T125529Z">
-        <seg>Pro initiar OmegaT pro le prime vice con Java Web Start, carga in tu lector del tela le sequente URL:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T232632Z">
+        <seg>Pro initiar OmegaT le prime vice con Java Web Start, carga in tu navigator le sequente URL:</seg>
       </tuv>
     </tu>
     <tu>
