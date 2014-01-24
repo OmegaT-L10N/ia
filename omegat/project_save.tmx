@@ -19513,8 +19513,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130706T221735Z">
-        <seg>Tamen, le alternativa linea de commando permitte le usator a controlar e modificar le comportamento del programma.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233351Z">
+        <seg>Tamen, le alternativa del linea de commando permitte al usator de controlar e modificar le comportamento del programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26935,8 +26935,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130707T215420Z">
-        <seg>normalmente, il es necessari initiar &lt;a0&gt;OmegaT&lt;/a0&gt; a partir del linea de commando.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233325Z">
+        <seg>Normalmente, il non es necessari initiar &lt;a0&gt;OmegaT&lt;/a0&gt; a partir del linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28995,8 +28995,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130703T084524Z">
-        <seg>sur Windows il es clamate un "MS-DOS window" e es disponibile ab le Menu Start, intra Programmas, al transverso del commando "MS-DOS".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233652Z">
+        <seg>Sur Windows il es clamate un "MS-DOS window" e es disponibile ab le Menu Initio, intra Programmas, per le commando "MS-DOS".</seg>
       </tuv>
     </tu>
     <tu>
@@ -35260,8 +35260,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Starting OmegaT from the command line</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101442Z">
-        <seg>Initiar OmegaT ab le linea de commando</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233229Z">
+        <seg>Initiar OmegaT del linea de commando</seg>
       </tuv>
     </tu>
     <tu>
@@ -35484,8 +35484,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Subsequent clicks on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; will check for any upgrades, install them, if there are any, and then start &lt;a4&gt;OmegaT&lt;/a4&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T074215Z">
-        <seg>Le cliccas subsequente sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; controlara per omne renovationes, installara los, si il ha alicun, e alora lanceara &lt;a4&gt;OmegaT&lt;/a4&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233201Z">
+        <seg>Cliccas subsequente sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; controlara per omne renovationes, installara los, si il ha alicun, e alora lanceara &lt;a4&gt;OmegaT&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39081,8 +39081,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T122451Z">
-        <seg>Durante le installation, dependente de tu systema operative, tu pote reciper plure advertimentos de securitate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233110Z">
+        <seg>Le permissiones que tu da a iste version (le qual pote apparer como "accesso libere al computator") son identic al permissiones que  tu da al versiona local del OmegaT, id es, illos permitte accesso al disco dur del computator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39521,8 +39521,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T075031Z">
-        <seg>Le secunde commando es le commandoque lancea in veritate &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233805Z">
+        <seg>Le secunde commando es le commando ver que lancea &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40505,8 +40505,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130707T215508Z">
-        <seg>Il ha duo manieras de lancear &lt;a1&gt;OmegaT&lt;/a1&gt; usante le linea de commando.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140124T233424Z">
+        <seg>Il ha duo manieras de lancear &lt;a1&gt;OmegaT&lt;/a1&gt; per un linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
