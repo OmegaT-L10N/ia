@@ -7260,8 +7260,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Font antialiasing&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130709T225152Z">
-        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;Lancear argumentos de script&lt;/s1&gt; &lt;t2&gt;antialiasing del typo de character &lt;/t2&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T010221Z">
+        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;Lancear argumentos de script&lt;/s1&gt; &lt;t2&gt;Typo de character anti-aliasing&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11804,8 +11804,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T213239Z">
-        <seg>Per arrangiamento initial, 512 MB son assignate, assi il non ha beneficio assignar minus de iste cifra.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T010432Z">
+        <seg>Per arrangiamento base, son assignate 512 MB, assi il non ha beneficio assignar minus de iste cifra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27055,8 +27055,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note double - character</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T141809Z">
-        <seg>Nota duple - character</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T011054Z">
+        <seg>Nota le duple - character</seg>
       </tuv>
     </tu>
     <tu>
@@ -27367,8 +27367,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note that up to 2M characters per month are free of charge.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T075930Z">
-        <seg>Nota que usque 2M characteres per mense es gratuite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T010639Z">
+        <seg>Nota que usque 2M characteres per mense son gratuite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35268,8 +35268,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Starting in console mode</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130221T153653Z">
-        <seg>Starting in console mode</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T010720Z">
+        <seg>Lancear in modo consola</seg>
       </tuv>
     </tu>
     <tu>
@@ -40113,8 +40113,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130703T085216Z">
-        <seg>le duo entratas requirite es disponibile in tu &lt;u1&gt;pagina del conto&lt;/u1&gt; sub clave del conto Primari e Customer-ID:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T010453Z">
+        <seg>Le duo entratas requirite son disponibile in tu &lt;u1&gt;pagina del conto&lt;/u1&gt; sub clave del conto Primari e Customer-ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43188,8 +43188,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To start &lt;a0&gt;OmegaT&lt;/a0&gt; in console mode, some extra parameters have to be passed to it on startup.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T140843Z">
-        <seg>Pro lancear &lt;a0&gt;OmegaT&lt;/a0&gt; in modo consola, debe esser passate a illo sur le initio altere parametros.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T010916Z">
+        <seg>Pro lancear &lt;a0&gt;OmegaT&lt;/a0&gt; in modo consola, al initio debe esser passate a illo altere parametros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59511,6 +59511,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T185255Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_02_L10N_Full/OmegaT_3.0.8_02_L10N_Full/doc_src/en/InstallingAndRunning.xml</prop>
+      <prop type="prev">Here's few typical examples to limit your choice:</prop>
+      <prop type="next">All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</prop>
+      <tuv lang="EN">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T011134Z" creationid="MELO46" creationdate="20140126T011134Z">
+        <seg>.*\.html</seg>
       </tuv>
     </tu>
     <tu>
