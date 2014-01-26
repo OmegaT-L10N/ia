@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T212304Z">
-        <seg>"XX" in le commando sta pro le codice de duo cifras del lingua desiderate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T010113Z">
+        <seg>"XX" in le commando consiste in le codice de duo cifras del lingua desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7316,8 +7316,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;User interface language&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T135833Z">
-        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;Lancear argumentos de script&lt;/s1&gt; &lt;t2&gt;Lingua de interfacie del usator&lt;/t2&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T005535Z">
+        <seg>&lt;p0&gt;Executar OmegaT&lt;/p0&gt; &lt;s1&gt;Lancear argumentos de script&lt;/s1&gt; &lt;t2&gt;Lingua del interfacie del usator&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20525,8 +20525,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If the language of the user's system is not available, &lt;a6&gt;OmegaT&lt;/a6&gt; defaults to English.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T074121Z">
-        <seg>Si le lingua del systema del usator non es disponibile, &lt;a6&gt;OmegaT&lt;/a6&gt; adopta le preparationes initial in anglese.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T005703Z">
+        <seg>Si le lingua del systema del usator non es disponibile, &lt;a6&gt;OmegaT&lt;/a6&gt; adopta le preparationes base in anglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34684,8 +34684,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>So, if the user's operating system is Russian and &lt;a4&gt;OmegaT&lt;/a4&gt; has been localized in Russian, &lt;a5&gt;OmegaT&lt;/a5&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T211800Z">
-        <seg>Assi, si le systema operative del usator es russe &lt;a4&gt;OmegaT&lt;/a4&gt; esseva localisate in russo, &lt;a5&gt;OmegaT&lt;/a5&gt; es monstrate con un interfacie del usator russe, menus russe, etc.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T005621Z">
+        <seg>Assi, si le systema operative del usator es russe e &lt;a4&gt;OmegaT&lt;/a4&gt; esseva localisate in russo, &lt;a5&gt;OmegaT&lt;/a5&gt; es monstrate con un interfacie del usator russe, menus russe, et cetera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44880,8 +44880,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User interface language</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140124T234254Z">
-        <seg>Lingua interfacie del usator &amp;&amp;&amp;&amp;END&amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T005431Z">
+        <seg>Lingua del interfacie del usator</seg>
       </tuv>
     </tu>
     <tu>
