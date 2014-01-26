@@ -9284,8 +9284,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Additional windows are available, as well as dialogs, used to change OmegaT project settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130215T230346Z">
-        <seg>Additional fenestras es disponibile, como dialogos, usate pro cambiar le preparationes del projecto OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T011930Z">
+        <seg>Additional fenestras son disponibile, como le fenestras de dialogo, usate pro cambiar le preparationes del projecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10304,8 +10304,8 @@ Le file TMX non essera cargate.</seg>
       <tuv lang="EN">
         <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130818T172426Z">
-        <seg>Un altere parametro extra de linea de commando specific pro modo consola: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; Quando es addite iste parametro, le validation del tag es facite  ante que le traduction/alineamento.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T011445Z">
+        <seg>Un altere parametro extra de linea de commando specific pro modo consola: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; Quando es addite iste parametro, le validation del tag es facite ante que le traduction/alineamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18769,8 +18769,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101256Z">
-        <seg>Quadro del glossario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T012033Z">
+        <seg>Quadro del Glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -25415,8 +25415,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Main OmegaT window, other windows and dialogs</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102814Z">
-        <seg>La fenestra principal de OmegaT, altere fenestras e dialogos</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T011859Z">
+        <seg>La fenestra principal de OmegaT, altere fenestras e fenestras de dialogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25823,8 +25823,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Match pane</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T070554Z">
-        <seg>Quadro del concordantias</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T012025Z">
+        <seg>Quadro del Concordantias</seg>
       </tuv>
     </tu>
     <tu>
@@ -35300,8 +35300,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Statistics window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T080136Z">
-        <seg>Fenestra del statisticas</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T012152Z">
+        <seg>Fenestra del Statisticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -38519,8 +38519,8 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130215T230630Z">
-        <seg>Le information in basso reassume le lor uso e  como illos es invocate:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140126T012006Z">
+        <seg>Le information in basso reassume lor uso e como illos son invocate:</seg>
       </tuv>
     </tu>
     <tu>
