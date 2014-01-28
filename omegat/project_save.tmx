@@ -5346,6 +5346,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Delete Blank Rows&lt;/f0&gt;: Deletes all blank rows selected in the TMX.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T113404Z" creationid="MELO46" creationdate="20140128T113404Z">
+        <seg>&lt;f0&gt;Dele le Rangos Blanc&lt;/f0&gt;: Dele omne rangos blanc seligite in le TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Delete&lt;/f0&gt;: Deletes the selected row.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140128T104951Z" creationid="MELO46" creationdate="20140128T104951Z">
@@ -5494,6 +5502,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140128T105932Z" creationid="MELO46" creationdate="20140128T105814Z">
         <seg>&lt;f0&gt;Finde&lt;/f0&gt;: un vice que es seligite un rango, tu debe indicar su puncto de division; tu debe sol cliccar in le cassa de modifica ante le position ubi tu desira finder le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Warning:&lt;/f0&gt; With the option &lt;f1&gt;Abort&lt;/f1&gt; all the changes will be lost and nothing is generated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T113248Z" creationid="MELO46" creationdate="20140128T113236Z">
+        <seg>&lt;f0&gt;Advertimento:&lt;/f0&gt; con le option &lt;f1&gt;Aborta&lt;/f1&gt; tote le cambios essera perdite e nihil es generate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46638,6 +46654,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the option &lt;f0&gt;Save&lt;/f0&gt; the TMX is generated (in version 1.1).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T113445Z" creationid="MELO46" creationdate="20140128T113445Z">
+        <seg>Con le option &lt;f0&gt;Salva&lt;/f0&gt; es generate le TMX (in le version 1.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T115226Z">
@@ -48052,6 +48076,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065047Z" creationid="MELO" creationdate="20131219T065047Z">
         <seg>You may use the same title as a previous version if the original publisher of that version gives permission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may want to use the resulting TMX as input for a particular translation memory capable tool; be sure that the language of the source text selected in Bitext2tmx is the same as the one of the language of the source text selected in the application.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T113908Z" creationid="MELO46" creationdate="20140128T113908Z">
+        <seg>Tu pote voler usar le TMX resultante ut ut input pro un memoria de traduction particular capabile instrumento; fa te secur que le lingua del texto fonte seligite in Bitext2tmx es le mesme ut le uno del lingua seligite del texto fonte in le application.</seg>
       </tuv>
     </tu>
     <tu>
