@@ -5346,6 +5346,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Delete&lt;/f0&gt;: Deletes the selected row.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T104951Z" creationid="MELO46" creationdate="20140128T104951Z">
+        <seg>&lt;f0&gt;Dele&lt;/f0&gt;: Dele le rango seligite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131220T031006Z">
@@ -5414,6 +5422,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065056Z" creationid="MELO" creationdate="20131219T065056Z">
         <seg>&lt;f0&gt;J.&lt;/f0&gt; Preserve the network location, if any, given in the Document for &lt;t1/&gt;public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Join&lt;/f0&gt;: Joins the selected row with the following one.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T104838Z" creationid="MELO46" creationdate="20140128T104838Z">
+        <seg>&lt;f0&gt;Uni&lt;/f0&gt;: Uni le rango seligite con le uno sequente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27505,6 +27521,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095159Z">
         <seg>Nota: le  files DocBook es recognite non solmente con le extension del file, ma illos alsi debe haber un declaration DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per DocBook 4, o un Namespace: xmlns="http://docbook.org/ns/docbook" per DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Even if the column of the source side is selected, if one of the buttons of the target side is pressed, the action will be applied to the selected row but in the column corresponding to the set of buttons.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T104706Z" creationid="MELO46" creationdate="20140128T104706Z">
+        <seg>Nota: mesmo si le columna del latere fonte es seligite, si uno del buttones del latere de destination es pulsate, le action essera applicate al row seligite sed in le columna correspondente al collection de buttones.</seg>
       </tuv>
     </tu>
     <tu>
