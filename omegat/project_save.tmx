@@ -5482,6 +5482,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Split&lt;/f0&gt;: Once a row is selected, you must indicate the division point in the row; you just have to click in the edit box before the position where you wish to split the segment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T105932Z" creationid="MELO46" creationdate="20140128T105814Z">
+        <seg>&lt;f0&gt;Finde&lt;/f0&gt;: un vice que es seligite un rango, tu debe indicar su puncto de division; tu debe sol cliccar in le cassa de modifica ante le position ubi tu desira finder le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T172453Z">
@@ -27527,8 +27535,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note: Even if the column of the source side is selected, if one of the buttons of the target side is pressed, the action will be applied to the selected row but in the column corresponding to the set of buttons.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140128T104706Z" creationid="MELO46" creationdate="20140128T104706Z">
-        <seg>Nota: mesmo si le columna del latere fonte es seligite, si uno del buttones del latere de destination es pulsate, le action essera applicate al row seligite sed in le columna correspondente al collection de buttones.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T105855Z" creationid="MELO46" creationdate="20140128T104706Z">
+        <seg>Nota: mesmo si le columna del latere fonte es seligite, si uno del buttones del latere de destination es pulsate, le action essera applicate al rango seligite sed in le columna correspondente al collection de buttones.</seg>
       </tuv>
     </tu>
     <tu>
