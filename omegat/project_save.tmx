@@ -4202,6 +4202,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T103756Z" creationid="MELO46" creationdate="20140128T103756Z">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T064925Z" creationid="MELO" creationdate="20131219T064925Z">
@@ -18441,8 +18449,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>From the Source/Target selection dialog, accessible through the &lt;f0&gt;Open...&lt;/f0&gt; menuitem in the &lt;f1&gt;File&lt;/f1&gt; menu, Source and Target text files, along with their corresponding languages can be chosen.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140128T101925Z" creationid="MELO46" creationdate="20140128T101925Z">
-        <seg>Ab le fenestra de dialogo de selection Source/Target selection dialog, accessible through the &lt;f0&gt;Open...&lt;/f0&gt; menuitem in the &lt;f1&gt;File&lt;/f1&gt; menu, Source and Target text files, along with their corresponding languages can be chosen.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T103556Z" creationid="MELO46" creationdate="20140128T101925Z">
+        <seg>Ab le fenestra de dialogo de selection Fonte/Destination, accessibile per le commando del menu &lt;f0&gt;Aperi...&lt;/f0&gt; in le menu &lt;f1&gt;File&lt;/f1&gt;, on pote seliger le files de texto Fonte e Destination, assi con lor linguas correspondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22319,6 +22327,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T222732Z">
         <seg>In le campo "Commando", usa le button de navigation pro trovar tu script de lanceamento de &lt;a0&gt;OmegaT&lt;/a0&gt; (le file nominate &lt;a1&gt;OmegaT&lt;/a1&gt; in le plica decomprimite), e selige lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f1&gt;Settings&lt;/f1&gt; menu &lt;f2&gt;line break&lt;/f2&gt; can be selected by which to segment the text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T103930Z" creationid="MELO46" creationdate="20140128T103754Z">
+        <seg>In le menu  &lt;f1&gt;Preparationes&lt;/f1&gt;  pote esser seligite&lt;f2&gt;interruption de linea&lt;/f2&gt; per le qual segmentar le texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -37497,6 +37513,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The application segments text according to a series of rules, and then displays the aligned texts.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T103750Z" creationid="MELO46" creationdate="20140128T103750Z">
+        <seg>Le application segmenta le texto secundo un series de regulas, e tum monstra le duos textos alineate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T085345Z">
@@ -40539,6 +40563,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T065752Z">
         <seg>Il ha in fundo duo typos de formatos de file, texto simple e texto formattate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are duplicate sets of these buttons for source and target texts.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T104337Z" creationid="MELO46" creationdate="20140128T104337Z">
+        <seg>Il ha le collectiones duplice de iste buttones pro texto fonte e le texto de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45218,6 +45250,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102653Z">
         <seg>Usar le dictionarios orthographic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Join&lt;/f0&gt;, &lt;f1&gt;Delete&lt;/f1&gt;, and &lt;f2&gt;Split&lt;/f2&gt; buttons it is possible to correct the alignment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T104139Z" creationid="MELO46" creationdate="20140128T104139Z">
+        <seg>Il es possibile corriger le alineamento con le buttones &lt;f0&gt;Uni&lt;/f0&gt;, &lt;f1&gt;Dele&lt;/f1&gt;, e &lt;f2&gt;Finde&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
