@@ -9130,6 +9130,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Acknowledgements:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101217Z" creationid="MELO46" creationdate="20140128T101217Z">
+        <seg>Recognitiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Action</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130215T235116Z">
@@ -10962,6 +10970,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authors:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101141Z" creationid="MELO46" creationdate="20140128T101141Z">
+        <seg>Autores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095145Z">
@@ -11478,6 +11494,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T133715Z">
         <seg>Bislama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bitext2tmx: Bitext aligner/editor</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101129Z" creationid="MELO46" creationdate="20140128T101129Z">
+        <seg>Bitext2tmx: Bitext alineator/editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -12939,6 +12963,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101323Z">
         <seg>Problemas commun al glossario </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Company:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101156Z" creationid="MELO46" creationdate="20140128T101156Z">
+        <seg>Compania:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18939,6 +18971,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T132222Z">
         <seg>Gruppos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grup Transducens, Universitat d'Alacant, Spain</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101209Z" creationid="MELO46" creationdate="20140128T101209Z">
+        <seg>Grup Transducens, Universitat d'Alacant, Spain</seg>
       </tuv>
     </tu>
     <tu>
