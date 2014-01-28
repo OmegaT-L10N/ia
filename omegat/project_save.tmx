@@ -5482,6 +5482,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Split UT&lt;/f0&gt;: Selected a row, separates the unit of translation in two new units each of which it will be aligned to blank.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T111928Z" creationid="MELO46" creationdate="20140128T111928Z">
+        <seg>&lt;f0&gt;Finde UT&lt;/f0&gt;: seligite un rango, separa le unitate de traduction in duo nove unitates cata del qual illo essera alineate e un rango blanc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Split&lt;/f0&gt;: Once a row is selected, you must indicate the division point in the row; you just have to click in the edit box before the position where you wish to split the segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140128T105932Z" creationid="MELO46" creationdate="20140128T105814Z">
@@ -27505,6 +27513,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144301Z">
         <seg>Nota que tu necessitara le programma ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) pro construer tu proprie version de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that, if the point of division is not selected, the row will be divided in position 0, that is, the whole row will go down as if you introduced a blank line (it can be useful to lower all the rows one or more positions).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T111556Z" creationid="MELO46" creationdate="20140128T111556Z">
+        <seg>Nota que, si le puncto de division non es seligite, le rango essera partite in position 0, id es, le toto rango essera descendite a basso como si tu introduceva un linea blanc (il pote esser utile pro abassar omne le rangos de un o plus positiones).</seg>
       </tuv>
     </tu>
     <tu>
