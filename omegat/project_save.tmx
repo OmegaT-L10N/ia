@@ -11498,6 +11498,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bitext Aligner/Editor Utility</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101450Z" creationid="MELO46" creationdate="20140128T101450Z">
+        <seg>Utilitate Bitext Alineator/Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bitext2tmx: Bitext aligner/editor</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140128T101129Z" creationid="MELO46" creationdate="20140128T101129Z">
@@ -14627,6 +14635,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T195307Z">
         <seg>Description re OmegaT (2008).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101416Z" creationid="MELO46" creationdate="20140128T101416Z">
+        <seg>Description:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18419,6 +18435,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T153929Z">
         <seg>Ab un puncto de vista practic, the plus importante par de numeros is the secunde par: illo dice, quanto tu ha intertanto have facite, in relation al total o secunde numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the Source/Target selection dialog, accessible through the &lt;f0&gt;Open...&lt;/f0&gt; menuitem in the &lt;f1&gt;File&lt;/f1&gt; menu, Source and Target text files, along with their corresponding languages can be chosen.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101925Z" creationid="MELO46" creationdate="20140128T101925Z">
+        <seg>Ab le fenestra de dialogo de selection Source/Target selection dialog, accessible through the &lt;f0&gt;Open...&lt;/f0&gt; menuitem in the &lt;f1&gt;File&lt;/f1&gt; menu, Source and Target text files, along with their corresponding languages can be chosen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29761,6 +29785,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original version supported by the Ministry of Science and Technology of Spain through grant TIC2003-08681-C02-01</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101709Z" creationid="MELO46" creationdate="20140128T101410Z">
+        <seg>Version original supportate per le Ministerio del Scientia e Technologia de Espania per concession TIC2003-08681-C02-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T064723Z">
@@ -38597,6 +38629,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The interface consists of a main window with table views of the source/target segments, text areas for the selected segments, menubar and function buttons.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101850Z" creationid="MELO46" creationdate="20140128T101638Z">
+        <seg>Le interfacie consiste de un fenestra principal con le vistas del tabella del segmentos fonte/destination, areas de texto pro le segmentos seligite, barra del menu e buttones de function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T163352Z">
@@ -44874,6 +44914,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T131520Z">
         <seg>Gruppo del usatores&lt;/u3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Interface</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140128T101454Z" creationid="MELO46" creationdate="20140128T101454Z">
+        <seg>Le interfacie del usator </seg>
       </tuv>
     </tu>
     <tu>
