@@ -776,6 +776,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231457Z" creationid="MELO46" creationdate="20140129T231457Z">
+        <seg>&amp;Fotia le via breve a "f" pro le tags &lt;it pos="end"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags (applies to 3.x filter only)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T165036Z" creationid="MELO46" creationdate="20131219T165036Z">
@@ -1292,6 +1300,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094848Z">
         <seg>Instrumen&amp;Tos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231245Z" creationid="MELO46" creationdate="20140129T231245Z">
+        <seg>&amp;Traducite</seg>
       </tuv>
     </tu>
     <tu>
@@ -17095,6 +17111,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fi&amp;les</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231256Z" creationid="MELO46" creationdate="20140129T231256Z">
+        <seg>Fi&amp;les</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fijian</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135003Z">
@@ -21603,6 +21627,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to add values to &lt;e0&gt;VMOptions&lt;/e0&gt;, put a space between them.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T230934Z" creationid="MELO46" creationdate="20140129T230934Z">
+        <seg>Si tu vole adder valores a&lt;e0&gt; VMOptions&lt;/e0&gt;, pone un spatio inter illos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to add values to&lt;e0&gt; VMOptions&lt;/e0&gt;, put a space between them.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T222850Z">
@@ -24409,6 +24441,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140352Z">
         <seg>Coreano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KoreanAnalyzer-3x-120223.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231021Z" creationid="MELO46" creationdate="20140129T231021Z">
+        <seg>KoreanAnalyzer-3x-120223.jar (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35788,6 +35828,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Susana Santos Antón, Sergio Ortíz Rojas, Raymond Martin</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T230539Z" creationid="MELO46" creationdate="20140129T230539Z">
+        <seg>Susana Santos Antón, Sergio Ortíz Rojas, Raymond Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swahili</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233807Z">
@@ -38449,6 +38497,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T230656Z" creationid="MELO46" creationdate="20140106T230656Z">
         <seg>Le lista sequente include expressiones que tu pote trovar utile quando cerca per le memoria de traduction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following options apply to the 3.x filter only</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231345Z" creationid="MELO46" creationdate="20140129T231345Z">
+        <seg>Le optiones sequente referer se al filtro 3.x solmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -47592,6 +47648,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;VMOptions&lt;/e1&gt; part of the package &lt;a2&gt;&lt;e3&gt;Info.plist&lt;/e3&gt;&lt;/a2&gt; file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T230914Z" creationid="MELO46" creationdate="20140129T230914Z">
+        <seg>Tu pote modificar le comportamento de OmegaT per le modifica del file &lt;e0&gt;Properties&lt;/e0&gt; o del file &lt;e1&gt;VMOptions&lt;/e1&gt; parte del pacchetto  &lt;a2&gt;&lt;e3&gt;Info.plist&lt;/e3&gt;&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;VMOptions&lt;/e1&gt; part.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T123857Z">
@@ -53599,6 +53663,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T134005Z">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-DDhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231008Z" creationid="MELO46" creationdate="20140129T231008Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -59762,6 +59834,26 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140126T011134Z" creationid="MELO46" creationdate="20140126T011134Z">
         <seg>.*\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_02_L10N_Full/OmegaT_3.0.8_02_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">CT_STATSMATCH_PER_FILE_WindowHeader</prop>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231200Z" creationid="MELO46" creationdate="20140129T231200Z">
+        <seg>Statistica del concordantias per File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_02_L10N_Full/OmegaT_3.0.8_02_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_SINGLE_COMPILE</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140129T231140Z" creationid="MELO46" creationdate="20140129T231140Z">
+        <seg>Crea le Documento Actual Rendite &amp;Documento</seg>
       </tuv>
     </tu>
     <tu>
