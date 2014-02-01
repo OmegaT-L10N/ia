@@ -14537,8 +14537,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Data exported from Trados MultiTerm can be used as &lt;a0&gt;OmegaT&lt;/a0&gt; glossaries without further modification, provided they are given the file extension &lt;f1&gt;.tab&lt;/f1&gt; and the source and target term fields are the first two fields respectively.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T182802Z">
-        <seg>Le datos exportate ex Trados MultiTerm pote esser usate como glossarios de &lt;a0&gt;OmegaT&lt;/a0&gt; sin ulterior modification, a condition que on provide illos del extension &lt;f1&gt;.tab&lt;/f1&gt; e le campos del termino original e final es le prime duo campos respectivemente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T122040Z">
+        <seg>Le datos exportate ab Trados MultiTerm pote esser usate como glossarios de &lt;a0&gt;OmegaT&lt;/a0&gt; sin ulterior modification, a condition que on provide illos del extension &lt;f1&gt;.tab&lt;/f1&gt; e le campos del termino original e final es le prime duo campos respectivemente.</seg>
       </tuv>
     </tu>
     <tu>
