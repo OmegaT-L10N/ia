@@ -18873,8 +18873,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T181358Z">
-        <seg>Le files glossario es files de texto simple continente listas de tres columnas, delimitate ab tabulation con le terminos primari e final respectivemente in the prime e secunde columnas.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T114118Z">
+        <seg>Le formato del files glossario es le texto simple, continente listas de tres columnas, delimitate ab signo de tabulation, con le terminos fonte e de destination respectivemente in the prime e secunde columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18889,8 +18889,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary files can be either in system default encoding (and indicated by the extension .tab) or in UTF-8 (the extension .utf8).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T181722Z">
-        <seg>Le files glossario pote esser o in codification base del systema (e indicate per le extension .tab) o in UTF-8 (le extension .utf8).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T114318Z">
+        <seg>Le files glossario pote etiam esser o in codification base del systema (e indicate per le extension .tab) o in UTF-8 (le extension .utf8).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27391,8 +27391,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T182240Z">
-        <seg>Nota que in le caso precedente, isto es justo medietate (o mesmo minus) del historia, pois que le lingua final (sloveno) usa le declination.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113835Z">
+        <seg>Nota que in le caso precedente, isto es justo le medio (o mesmo minus) del labor, pois que le lingua final (sloveno) usa le declination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34876,16 +34876,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T181045Z">
-        <seg>Assi il es probabilemente plus rapide dactylographar le termino correctemente juste immediatemente sin penar con le glossario e su vias breve.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113926Z">
+        <seg>Assi il es probabilemente plus rapide dactylographar le termino correctemente justo immediatemente sin penar con le glossario e su vias breve.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T180652Z">
-        <seg>Assi le  "pojavni meni" inserite in le forma nominative - debe esser cambiate a "pojavnem meniju" , id es al locativo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113850Z">
+        <seg>Assi le  "pojavni meni" inserite in le forma nominative - debe esser cambiate in "pojavnem meniju" , id es al locativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40225,8 +40225,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T161425Z">
-        <seg>Le tertie columna pote esser usate pro information additional.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T114145Z">
+        <seg>Le tertie columna pote esser usate pro information additional (commentos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47602,8 +47602,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T181528Z">
-        <seg>Tu pote haber entratas con le columna final mancante, id es continente justo le termino primari e le commento.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T114218Z">
+        <seg>Tu pote haber entratas con le columna de destination mancante, id es continente justo le termino fonte e le commento.</seg>
       </tuv>
     </tu>
     <tu>
