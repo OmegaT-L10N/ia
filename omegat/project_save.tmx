@@ -19457,8 +19457,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T180517Z">
-        <seg>Marcante lo in le le quadro pro le Glossario e pois cliccante lo con le dextera, insere lo al position del cursor in le segmento final.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113733Z">
+        <seg>Si marcate lo in le le quadro Glossario e pois cliccate lo con le dextera, insere lo al position del cursor in le segmento final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26871,8 +26871,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T164422Z">
-        <seg>Le terminos addite novemente essera trovate un vice que le cambios in le file de texto essera salvate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113424Z">
+        <seg>Un vice que le cambios del glossario essera salvate, essera trovate le nove terminos addite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39977,8 +39977,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T164655Z">
-        <seg>Le termino primari non debe esser un articulo de un sol parola, como monstra le exemplo sequente:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113624Z">
+        <seg>Le termino primari non debe esser necessarimente de un sol parola, como monstra le exemplo sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40473,8 +40473,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T160748Z">
-        <seg>Le entrata del vocabulario pote haber addite un commento.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113036Z">
+        <seg>Al entrata del vocabulario pote esser addite un commento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40521,8 +40521,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T102911Z">
-        <seg>Le parola avante al signo = es le termino original, e su traduction es le parola(s) post =.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T113156Z">
+        <seg>Le parola ante le signo '=' es le termino original, e su traduction es le parola(s) post le signo '='.</seg>
       </tuv>
     </tu>
     <tu>
