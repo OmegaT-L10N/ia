@@ -8412,8 +8412,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;u1&gt;Microsoft Terminology Collection&lt;/u1&gt; &lt;i2/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101312Z">
-        <seg>On pote discargar le &lt;u1&gt;Collection de terminologia Microsoft&lt;/u1&gt; &lt;i2/&gt; in quasi 100 linguas e can servir como le glossario petra angular del technologia informatic (IT).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121124Z">
+        <seg>On pote discargar le &lt;u1&gt;Collection de terminologia Microsoft&lt;/u1&gt; &lt;i2/&gt; in quasi 100 linguas e can servir como glossario petra angular del technologia informatic (IT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8684,8 +8684,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T163042Z">
-        <seg>Se displica un fenestra de dialogo, que permitte te de inscriber le termino original, le termino final e omne le commentos que tu vole:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121455Z">
+        <seg>Se displica un fenestra de dialogo, que permitte te de inscriber le termino fonte, le termino de destination e omne le commentos que tu vole:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12993,8 +12993,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T161921Z">
-        <seg>Le campo del Commento es alsi separate per un virgula ','.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T120930Z">
+        <seg>Le campo Commento es alsi separate per un virgula ','.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22005,8 +22005,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101311Z">
-        <seg>in plus al formato texto plan, le formato TBX &lt;i0/&gt; es alsi supportate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121003Z">
+        <seg>in plus al formato texto simple, le formato TBX &lt;i0/&gt; es alsi supportate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27679,8 +27679,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF8 and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T173346Z">
-        <seg>Nihil a dicer contra le uso de Notepad++ sur Windows, GEdit sur Linux per exemplo o alicun programma de folio de calculo pro iste proposito: omne application, que pote tractar UTF8 e que pote monstrar spatio blanc (de maniera que tu non care le characteres&lt;k1&gt;TAB&lt;/k1&gt; ) pote esser utilisate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121846Z">
+        <seg>Nihil a dicer contra le uso de Notepad++ sur Windows, GEdit sur Linux per exemplo o alicun programma de folio de calculo (per exemplo OpenOffice Calc) pro iste proposito: omne application, que pote tractar UTF8 e que pote monstrar spatio blanc (de maniera que tu non perde le character &lt;k1&gt;TAB&lt;/k1&gt; ) pote esser utilisate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32660,8 +32660,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T163727Z">
-        <seg>Clicca con le dextero in le quadro pro le Glossario o calca &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pro adder un entrata nove.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121236Z">
+        <seg>Clicca con le dextero in le Quadro del glossario o pulsa &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pro adder un entrata nove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35934,8 +35934,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T165839Z">
-        <seg>TBX - Term Base eXchange - es le standard aperte, basate sur XML pro le excambio del datos terminologic structurate, TBX esseva approbate quam un standard international per LISA e ISO.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121041Z">
+        <seg>TBX - Term Base eXchange - es le standard aperte, basate sur XML pro le excambio del datos terminologic structurate, TBX esseva approbate como standard international per LISA e ISO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39513,8 +39513,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The project setting allows one can enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T171950Z">
-        <seg>Le preparation del projecto permitte le entrata de un nomine pro un file glossario scribibile (vide initio de iste capitulo).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121157Z">
+        <seg>Le preparation del projecto permitte de denominar un file glossario scribibile (vide initio de iste capitulo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39569,8 +39569,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T160313Z">
-        <seg>Le extensiones admittite es &lt;f1&gt;TXT&lt;/f1&gt; e &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T121537Z">
+        <seg>Le extensiones admittite son &lt;f1&gt;TXT&lt;/f1&gt; e &lt;f2&gt;UTF8&lt;/f2&gt; </seg>
       </tuv>
     </tu>
     <tu>
