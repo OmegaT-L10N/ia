@@ -18809,8 +18809,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T212225Z">
-        <seg>Le glossarios es files create e renovate manualmente pro uso in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T102458Z">
+        <seg>Le glossarios son files create e renovate manualmente pro uso in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20645,8 +20645,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T154439Z">
-        <seg>Si le file existe jam, nulle tentativa es facite pro verificar le formato o le serie de character del file: le nove entratas essera semper in formato 'separate per signos de tabulation' e UTF-8.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T102748Z">
+        <seg>Si le file existe jam, nulle tentativa es facite pro verificar le formato o le serie de character del file: le nove entratas essera semper in formato 'separate per signo de tabulation' e codice UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40521,8 +40521,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T181930Z">
-        <seg>Le parola avante que le signo = es le termino original, e su traduction es le parola(s) post =.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T102911Z">
+        <seg>Le parola avante al signo = es le termino original, e su traduction es le parola(s) post =.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47882,8 +47882,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T153335Z">
-        <seg>Tu defini su ubication e nomine in le fenestra de dialogo proprietates del projecto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140201T102613Z">
+        <seg>Tu defini su ubication e nomine in le fenestra de dialogo Proprietates del projecto.</seg>
       </tuv>
     </tu>
     <tu>
