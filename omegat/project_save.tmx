@@ -12492,8 +12492,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T185053Z">
-        <seg>Controla le qual tu files dict es in le plica correcte (o  in un sub plica sub illo).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140225T094737Z">
+        <seg>Controla qual files dict ha in tu plica correcte (o  in un sub plicas sub illo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14809,8 +14809,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130325T212830Z">
-        <seg>Le dictionarios in &lt;a0&gt;OmegaT&lt;/a0&gt; es basate super le formato DSL StarDict o sur le Lingvo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140225T094503Z">
+        <seg>Le dictionarios in &lt;a0&gt;OmegaT&lt;/a0&gt; es basate super le formato StarDict o sur le Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27375,8 +27375,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100734Z">
-        <seg>Nota que extra le dictionarios "original-final" tu pote obtener, usante le characteristica Dictionario, accesso a information como:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140225T094633Z">
+        <seg>Nota que extra le dictionarios "fonte-destinatio" tu pote obtener, con le function Dictionario, accesso a information como:</seg>
       </tuv>
     </tu>
     <tu>
