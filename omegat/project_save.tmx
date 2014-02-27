@@ -5100,8 +5100,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T181917Z">
-        <seg>&lt;e0&gt;Le cliente VCS: &lt;/e0&gt;Pro tu interfacie con le server debe esser installate un cliente SVN o Git sur le computatores del "administratores del projecto" implicate in le projecto OmegaT. &amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184357Z">
+        <seg>&lt;e0&gt;Le cliente VCS: &lt;/e0&gt;Pro tu interfacie con le server debe esser installate un cliente SVN o Git sur le computatores del "administratores del projecto" implicate in le projecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6620,8 +6620,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T170157Z">
-        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Cercator de stirpe&lt;/s1&gt;t</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184542Z">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7028,8 +7028,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T170139Z">
-        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Cercator de stirpe (tokenizer)&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184459Z">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8980,8 +8980,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T171051Z">
-        <seg>Un cercator del stirpe pro le anglese, exempli gratia, deberea identificar le linea "cats" (e possibilemente "catlike", "catty" etc.) como basate super le radice "cat", e "stemmer", "stemming", "stemmed" como basate super "stem".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184640Z">
+        <seg>&amp;&amp;&amp;&amp;Un cercator del stirpe pro le anglese, exempli gratia, deberea identificar le linea "cats" (e possibilemente "catlike", "catty" etc.) como basate super le radice "cat", e "stemmer", "stemming", "stemmed" como basate super "stem".</seg>
       </tuv>
     </tu>
     <tu>
@@ -17975,6 +17975,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you wish to use the Lucene CJK tokenizer in source and the Lucene French tokenizer in target, your command will look like this:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184113Z" creationid="MELO46" creationdate="20140227T183717Z">
+        <seg>Per exemplo, si tu desira usar le Lucene CJK tokenizer in le fonte e le Lucene French tokenizer in le destination, tu  commando habera un aspecto como isto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T222233Z" creationid="MELO46" creationdate="20140106T222233Z">
@@ -25461,6 +25469,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X specifics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184156Z" creationid="MELO46" creationdate="20140227T184156Z">
+        <seg>Specificas pro Mac OS X &amp;&amp;&amp;&amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T165208Z">
@@ -28971,8 +28987,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130817T073145Z">
-        <seg>OmegaT recognoscera que illo es un projecto in equipa, e synchronisara omne cosa automaticamente, tote le tres minutas, per arrangiamento initial.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184407Z">
+        <seg>OmegaT recognoscera que illo es un projecto in equipa, e synchronisara omne cosa automaticamente, tote le tres minutas, per arrangiamento base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40303,6 +40319,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tokenizer names are given in the Readme.txt file distributed with the tokenizer files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T183834Z" creationid="MELO46" creationdate="20140227T183714Z">
+        <seg>Le nomines del tokenizer es date in le file Readme.txt distribuite con le files tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T070321Z">
@@ -43466,6 +43490,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To run OmegaT with the tokenizer you need to specify which tokenizer you'll use for the source language and which tokenizer you'll use for the target language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T183651Z" creationid="MELO46" creationdate="20140227T183651Z">
+        <seg>pro exequer OmegaT con le tokenizer tu necessita specificar qual tokenizer tu usara pro le lingua fonte e qual tokenizer tu usara pro le lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To run OmegaT, a valid OmegaT project must be available.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T090709Z">
@@ -43668,8 +43700,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Tokenizer plugin</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T170150Z">
-        <seg>Plugin Cercator de stirpe</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T184515Z">
+        <seg>Plugin Tokenizer&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53807,6 +53839,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T090347Z">
         <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar --ITokenizer=[source language tokenizer name] --ITokenizerTarget=[target language tokenizer name]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T183704Z" creationid="MELO46" creationdate="20140227T183704Z">
+        <seg>java -jar OmegaT.jar --ITokenizer=[source language tokenizer name] --ITokenizerTarget=[target language tokenizer name]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T183841Z" creationid="MELO46" creationdate="20140227T183841Z">
+        <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
