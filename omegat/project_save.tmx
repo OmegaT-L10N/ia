@@ -8980,8 +8980,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T184640Z">
-        <seg>&amp;&amp;&amp;&amp;Un cercator del stirpe pro le anglese, exempli gratia, deberea identificar le linea "cats" (e possibilemente "catlike", "catty" etc.) como basate super le radice "cat", e "stemmer", "stemming", "stemmed" como basate super "stem".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T193804Z">
+        <seg>Un cercator del stirpe pro le anglese deberea identificar, exempli gratia, le linea de character "cats" (e possibilemente "catlike", "catty" etc.) como basate sur le mesme radice "cat", e "stemmer", "stemming", "stemmed" como basate sur "stem".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9004,8 +9004,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A tokenizer package adapted from the Lucene project is distributed as an OmegaT plug-in at http://sourceforge.net/projects/omegat-plugins/files/.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T183017Z" creationid="MELO46" creationdate="20140227T183017Z">
-        <seg>Un pacchetto tokenizer conformate a partir del projecto Lucene es distribuite quam un plug-in OmegaT plug-in al ligamine http://sourceforge.net/projects/omegat-plugins/files/.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194243Z" creationid="MELO46" creationdate="20140227T183017Z">
+        <seg>Un pacchetto tokenizer conformate a partir del projecto Lucene es distribuite quam un plug-in OmegaT al ligamine http://sourceforge.net/projects/omegat-plugins/files/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17607,6 +17607,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow the instructions above to access the &lt;f1&gt;info.plist&lt;/f1&gt; file and edit it so that it looks as follows for the example we just gave:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194817Z" creationid="MELO46" creationdate="20140227T194817Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;Follow the instructions above to access the &lt;f1&gt;info.plist&lt;/f1&gt; file and edit it so that it looks as follows for the example we just gave:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T125040Z">
@@ -21715,6 +21723,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to use the tokenizers with the Mac OS X OmegaT.app package, the tokenizer installation described above applies (right-click on OmegaT.app to find the location of OmegaT.jar), but you'll need to specify the tokenizer names in the &lt;f0&gt;info.plist &lt;/f0&gt;that contains the Java launch options.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194804Z" creationid="MELO46" creationdate="20140227T194804Z">
+        <seg>Si tu desira usar le  tokenizers con le pacchetto OmegaT.app de Mac OS X, le installation de tokenizer describite supra se refere (Clicca con le dextero sur OmegaT.app pro trovar le ubication de OmegaT.jar), sed tu debera specificar le nomines del tokenizer in le  &lt;f0&gt;info.plist &lt;/f0&gt;que contine le optiones de lanceamento de Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish, the</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094644Z">
@@ -23173,8 +23189,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Installation and command line use</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T165209Z">
-        <seg>Installation e uso in linea de commando</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194146Z">
+        <seg>Installation e uso del linea de commando</seg>
       </tuv>
     </tu>
     <tu>
@@ -25471,8 +25487,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mac OS X specifics</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T184156Z" creationid="MELO46" creationdate="20140227T184156Z">
-        <seg>Specificas pro Mac OS X &amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194320Z" creationid="MELO46" creationdate="20140227T184156Z">
+        <seg>Specificas pro Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -41988,8 +42004,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T171846Z">
-        <seg>Ce es in modo special utile in caso de  linguas que usa formas con pre- e suffixo pro le parolas stirpe.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194102Z">
+        <seg>Isto es in modo special utile in caso de linguas que usa formas con prefixo e suffixo pro le parolas stirpe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43492,8 +43508,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To run OmegaT with the tokenizer you need to specify which tokenizer you'll use for the source language and which tokenizer you'll use for the target language.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T183651Z" creationid="MELO46" creationdate="20140227T183651Z">
-        <seg>pro exequer OmegaT con le tokenizer tu necessita specificar qual tokenizer tu usara pro le lingua fonte e qual tokenizer tu usara pro le lingua de destination.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194258Z" creationid="MELO46" creationdate="20140227T183651Z">
+        <seg>Pro exequer OmegaT con le tokenizer tu necessita specificar qual tokenizer tu usara pro le lingua fonte e qual tokenizer tu usara pro le lingua de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55053,8 +55069,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T064355Z">
-        <seg>najlepših - superlative, plural, genitive pro M,F,N</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T194133Z">
+        <seg>najlepših - superlative, plural, genitive pro M, F,  N</seg>
       </tuv>
     </tu>
     <tu>
