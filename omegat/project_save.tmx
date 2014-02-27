@@ -2694,8 +2694,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130927Z">
-        <seg>.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T182733Z">
+        <seg>U.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8998,6 +8998,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T182127Z">
         <seg>Un file texto continente duo lineas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A tokenizer package adapted from the Lucene project is distributed as an OmegaT plug-in at http://sourceforge.net/projects/omegat-plugins/files/.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T183017Z" creationid="MELO46" creationdate="20140227T183017Z">
+        <seg>Un pacchetto tokenizer conformate a partir del projecto Lucene es distribuite quam un plug-in OmegaT plug-in al ligamine http://sourceforge.net/projects/omegat-plugins/files/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,6 +15587,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T074022Z">
         <seg>Discarga le file&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; e clicca sur illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the most recent files (OmegaT-tokenizers_0.4_2-2.1.zip at the time of this writing).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T183122Z" creationid="MELO46" creationdate="20140227T183122Z">
+        <seg>Discarga le plus recente  files (OmegaT-tokenizers_0.4_2-2.1.zip al tempore de iste scriptura).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39407,6 +39423,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.5 documentation from Oracle: &lt;u0&gt;Java 1.5 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T182724Z" creationid="MELO46" creationdate="20140227T182724Z">
+        <seg>Le possibile eventos del clave(s) es listate in le documentation sequente de Java 1.5 ex Oracle: &lt;u0&gt;Java 1.5 vias breve e eventos de clave,&lt;/u0&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T051452Z">
@@ -43190,6 +43214,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T170723Z">
         <seg>Pro installar le files necessari pro le formato StarDict, procede como seque:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install the tokenizer, create a folder with the name "plugins" in the folder where OmegaT.jar is found and unpack the above files within that folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T183351Z" creationid="MELO46" creationdate="20140227T183351Z">
+        <seg>Pro installar le tokenizer, crea un plica con le nomine "plugins" in le plica ubi OmegaT.jar is trovate e dispacchetta le files precedente intra celle plica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52487,6 +52519,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T185345Z">
         <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/1.5.0/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T182702Z" creationid="MELO46" creationdate="20140227T182702Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
     </tu>
     <tu>
