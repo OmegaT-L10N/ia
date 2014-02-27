@@ -5100,8 +5100,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T161417Z">
-        <seg>&lt;e0&gt;Le cliente VCS: &lt;/e0&gt;Pro tu interfacie con le server debe esser installate un cliente SVN o Git sur le computatores del "administratores del projecto" implicate in le projecto OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181917Z">
+        <seg>&lt;e0&gt;Le cliente VCS: &lt;/e0&gt;Pro tu interfacie con le server debe esser installate un cliente SVN o Git sur le computatores del "administratores del projecto" implicate in le projecto OmegaT. &amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8372,8 +8372,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T051133Z">
-        <seg>o&lt;via breve&gt; debe esser del forma sequente: 0 o plus &lt;c0&gt;&lt;modificator&gt;&lt;/c0&gt; sequite per 0 o 1 &lt;c1&gt;&lt;evento&gt;&lt;/c1&gt; sequite per 1 &lt;c2&gt;&lt;clave&gt;&lt;/c2&gt;, ubi:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T180850Z">
+        <seg>&lt;via breve&gt; debe esser del forma sequente: 0 o plus &lt;c0&gt;&lt;modificator&gt;&lt;/c0&gt; sequite per 0 o 1 &lt;c1&gt;&lt;evento&gt;&lt;/c1&gt; sequite per 1 &lt;c2&gt;&lt;clave&gt;&lt;/c2&gt;, ubi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25895,16 +25895,16 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T054840Z">
-        <seg>Marca Segmentos Non Unic</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181055Z">
+        <seg>Marca le Segmentos Non Unic</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T115658Z">
-        <seg>Marca le spatios Non-frangibile</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181133Z">
+        <seg>Marca le Spatios Non-frangibile</seg>
       </tuv>
     </tu>
     <tu>
@@ -25927,8 +25927,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mark Segments with Notes</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T115627Z">
-        <seg>Marca segmentos con Notas</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181117Z">
+        <seg>Marca le Segmentos con Notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -33140,8 +33140,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Saving and Output...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T090013Z">
-        <seg>Sal&amp;vamento e Output...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181429Z">
+        <seg>Salvamento e Output...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37875,8 +37875,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T154013Z">
-        <seg>Le traduction de equipa (facite in collaboration) offerite ab OmegaT es basate super le 'functionalitate de version' o le 'Controlo de revision', largemente utilisate ab le communitate de software pro mantener le controlo del cambios al codice de un programma e permitter le collaboration sin impedimentos intra le equipa de disveloppamento.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181746Z">
+        <seg>Le traduction in equipa (facite in collaboration) que OmegaT offere es basate sur le 'functionalitate de version' o le 'Controlo de revision', largemente utilisate ab le communitate de software pro mantener le controlo del cambios al codice de un programma e permitter le collaboration sin impedimentos intra le equipa de disveloppamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38657,6 +38657,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065036Z" creationid="MELO" creationdate="20131219T065036Z">
         <seg>The front cover must present the full title with all words of the title equally prominent and visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.5 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.5 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T180724Z" creationid="MELO46" creationdate="20140227T180724Z">
+        <seg>Le syntaxe complete pro le pulsationes de clave (vias breve) es definite in le documentation sequente de Java 1.5 ex Oracle (al fundo del pagina): &lt;u0&gt;Java 1.5 vias breve e pulsationes de clave&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39929,8 +39937,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T043859Z">
-        <seg>Le file definition de via breve debe esser nominate &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; e debe continer al maximo un definition de via breve definition per cata linea.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T180532Z">
+        <seg>Le file definition del via breve debe esser nominate &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; e debe continer al maximo un definition de via breve per cata linea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52483,6 +52491,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/1.5.0/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T180547Z" creationid="MELO46" creationdate="20140227T180547Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133526Z">
@@ -59858,6 +59874,94 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T154632Z" creationid="MELO46" creationdate="20140227T154632Z">
         <seg>Informationes legal e Recognitiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkUntranslatedSegmentsCheckBoxMenuItem</prop>
+      <prop type="next">viewDisplaySegmentSourceCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181045Z" creationid="MELO46" creationdate="20140227T181045Z">
+        <seg>Monstra le segmentos primari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">User Manual...</prop>
+      <prop type="next">helpContentsMenuItem</prop>
+      <tuv lang="EN">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181536Z" creationid="MELO46" creationdate="20140227T181536Z">
+        <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkWhitespaceCheckBoxMenuItem</prop>
+      <prop type="next">viewMarkBidiCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181306Z" creationid="MELO46" creationdate="20140227T181306Z">
+        <seg>Marca le Algorithmo Bidirectional de Controlo Characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkNBSPCheckBoxMenuItem</prop>
+      <prop type="next">viewMarkWhitespaceCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181152Z" creationid="MELO46" creationdate="20140227T181152Z">
+        <seg>Marca un Spatio blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsSaveOptionsMenuItem</prop>
+      <prop type="next">optionsViewOptionsMenuLoginItem</prop>
+      <tuv lang="EN">
+        <seg>Proxy login...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181441Z" creationid="MELO46" creationdate="20140227T181441Z">
+        <seg>Registrar se al Procurator (Proxy)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsViewOptionsMenuLoginItem</prop>
+      <prop type="next">optionsRestoreGUIMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181509Z" creationid="MELO46" creationdate="20140227T181509Z">
+        <seg>Restaura le fenestra principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsTagValidationMenuItem</prop>
+      <prop type="next">optionsTeamMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181413Z" creationid="MELO46" creationdate="20140227T181413Z">
+        <seg>Equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">Menu Item Code</prop>
+      <prop type="next">Ctrl +T</prop>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140227T181334Z" creationid="MELO46" creationdate="20140227T181334Z">
+        <seg>Valida le tags</seg>
       </tuv>
     </tu>
     <tu>
