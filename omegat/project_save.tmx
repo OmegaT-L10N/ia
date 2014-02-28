@@ -4020,8 +4020,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T143605Z">
-        <seg>&lt;a0&gt;Tu pote usar OmegaT&lt;/a0&gt; pro render files in plure formatos de file.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191204Z">
+        <seg>&lt;a0&gt;Tu pote usar OmegaT&lt;/a0&gt; pro render files con plure formatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7860,8 +7860,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T173644Z">
-        <seg>&lt;p0&gt;Files primari&lt;/p0&gt; &lt;s1&gt;Formatos del file&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191121Z">
+        <seg>&lt;p0&gt;Files fonte&lt;/p0&gt; &lt;s1&gt;Formatos del file&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8100,8 +8100,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T173721Z">
-        <seg>&lt;p0&gt;Files final&lt;/p0&gt; &lt;s1&gt;Formatos del file&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191138Z">
+        <seg>&lt;p0&gt;Files de destination&lt;/p0&gt; &lt;s1&gt;Formatos del file&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8148,8 +8148,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T173907Z">
-        <seg>&lt;p0&gt;Files final&lt;/p0&gt; &lt;s1&gt;Files de texto simple&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191333Z">
+        <seg>&lt;p0&gt;Files de destination&lt;/p0&gt; &lt;s1&gt;Files de texto simple&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14681,8 +14681,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T143734Z">
-        <seg>Actualmente, &lt;a1&gt;OmegaT&lt;/a1&gt; supporta Le formatos de simple texto sequente:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191533Z">
+        <seg>Actualmente &lt;a1&gt;OmegaT&lt;/a1&gt; supporta le sequente formatos de texto simple:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26159,8 +26159,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Magento CE Locale CSV files (*.csv)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T162852Z">
-        <seg>Files Magento CE Locale CSV (*.csv)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191555Z">
+        <seg>- files Magento CE Locale CSV (*.csv)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30731,8 +30731,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T060837Z" creationid="MELO46" creationdate="20140106T060131Z">
-        <seg>Altere typos de file de texto simple pote esser tractate per &lt;a0&gt;OmegaT&lt;/a0&gt; associante lor extension al typo de file supportate (exempli gratia, le files .pod pote esser associate al filtro de texto ASCII) e pre-processante illos con regulas de segmentation specific. </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191812Z" creationid="MELO46" creationdate="20140106T060131Z">
+        <seg>Altere typos de file in formato texto simple pote esser tractate per &lt;a0&gt;OmegaT&lt;/a0&gt; con lor extension associate al typo de file supportate (exempli gratia, le files .pod pote esser associate al filtro de texto ASCII) e con lor pre-processo per regulas de segmentation specific. </seg>
       </tuv>
     </tu>
     <tu>
@@ -41609,8 +41609,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>There are basically two types of file formats, plain text and formatted text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T065752Z">
-        <seg>Il ha in fundo duo typos de formatos de file, texto simple e texto formattate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191227Z">
+        <seg>Il ha basicamente duo typos de formatos de file, texto simple e texto formattate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42003,8 +42003,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>They are not able to contain or retain information regarding the color, font etc of the text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T084332Z">
-        <seg>Illos non es habile a continer o servar information re le color, typo de character etc. del texto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191414Z">
+        <seg>Illos non es habile a continer o servar information re le color, le typo de character et cetera del texto.</seg>
       </tuv>
     </tu>
     <tu>
