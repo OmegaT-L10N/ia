@@ -3890,6 +3890,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; requires Java 1.5 to run.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084941Z" creationid="MELO46" creationdate="20140228T084941Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; require Java 1.5 pro functionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; requires Java 1.6 to run.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055400Z">
@@ -4586,6 +4594,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084759Z" creationid="MELO46" creationdate="20140228T084759Z">
+        <seg>&lt;e0&gt;Adde o rescribe le declaration de codification in le files HTML e XHTML:&lt;/e0&gt;: frequentemente le files de destination debe haber le collection del character de codification differente de illo del file fonte (sia que isto es definite explicitemente o implicite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T154855Z" creationid="MELO46" creationdate="20131226T154855Z">
@@ -4858,6 +4874,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;e1&gt;OmegaT_2.n.n_Linux.tar.bz2.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084937Z" creationid="MELO46" creationdate="20140228T084937Z">
+        <seg>&lt;e0&gt;No / Io non sape:&lt;/e0&gt; discarga  &lt;e1&gt;OmegaT_2.x_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;e1&gt;OmegaT_3.n.n_Linux.tar.bz2.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T184307Z">
@@ -4874,10 +4898,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_2.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084917Z" creationid="MELO46" creationdate="20140228T084917Z">
+        <seg>&lt;e0&gt;No / Io non sape:&lt;/e0&gt; discarga&lt;e1&gt; OmegaT_2.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T183347Z">
         <seg>&lt;e0&gt;No / Io non sape:&lt;/e0&gt; discarga&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085107Z" creationid="MELO46" creationdate="20140228T085107Z">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtener un Java JRE pro tu systema (vide in sequito) e discargar &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5182,6 +5222,30 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T175425Z">
         <seg>&lt;e0&gt;Si: &lt;/e0&gt;que tu discarga  &lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.n.n_Windows_without_JRE.&lt;/e1&gt;zip.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085013Z" creationid="MELO46" creationdate="20140228T085013Z">
+        <seg>&lt;e0&gt;Si: &lt;/e0&gt;discarga &lt;e1&gt;OmegaT_2.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084901Z" creationid="MELO46" creationdate="20140228T084901Z">
+        <seg>&lt;e0&gt;Si: &lt;/e0&gt;discarga &lt;e1&gt;OmegaT_2.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084922Z" creationid="MELO46" creationdate="20140228T084922Z">
+        <seg>&lt;e0&gt;Si: &lt;/e0&gt;discarga &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15479,6 +15543,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;e0&gt;OmegaT_2.n.n_Mac.zip&lt;/e0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084949Z" creationid="MELO46" creationdate="20140228T084949Z">
+        <seg>Clicca duple sur &lt;e0&gt;OmegaT_2.n.n_Mac.zip&lt;/e0&gt; pro dispacchettar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double click on &lt;e0&gt;OmegaT_3.n.n_Mac.zip&lt;/e0&gt; to unpack it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055510Z">
@@ -15531,6 +15603,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094752Z">
         <seg>Discarga un  projec&amp;To de equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;e0&gt;OmegaT_2.n.n_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084944Z" creationid="MELO46" creationdate="20140228T084944Z">
+        <seg>Discarga &lt;e0&gt;OmegaT_2.n.n_Mac.zip.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24181,6 +24261,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Web Start technology (part of Java 1.5 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085250Z" creationid="MELO46" creationdate="20140228T085250Z">
+        <seg>Le technologia Java Web Start (depost Java 1.5 e sequente) pote essere usate pro le functionamento autonome del applicationes software Java con un sol clic sur le rete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Web Start technology (part of Java 1.6 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140104T161656Z">
@@ -29449,6 +29537,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;e5&gt;OmegaT_2.n.n_Mac.zip&lt;/e5&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085008Z" creationid="MELO46" creationdate="20140228T085008Z">
+        <seg>Un vice que tu ha exequite lo, tu pote deler le file &lt;e5&gt;OmegaT_2.n.n_Mac.zip&lt;/e5&gt;, illo non necessita plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have done this, you can delete the &lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt; file, it is no longer needed.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T072857Z">
@@ -29981,6 +30077,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T082749Z">
         <seg>Versiones Java Oracle (un vice Sun) : controla le requisitos del systema in le documentation de OmegaT (readme.txt) pro le precise version de Oracle Java requirite (i.e. si tu version de Java es satis recente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.5) and for Linux x64, Solaris x64, Windows x64 (Java 1.5) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085202Z" creationid="MELO46" creationdate="20140228T085202Z">
+        <seg>Oracle supple JREs pro Solaris SPARC/x86 (Java 1.5) e pro Linux x64, Solaris x64, Windows x64 (Java 1.5) in &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34684,8 +34788,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T125808Z">
-        <seg>deberea tu desirar non usar OmegaT pro render files de un certe typo, tu pote volver foras le filtro correspondente per le disactivation del quadrato de controlo al latere de su nomine.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084315Z">
+        <seg>Si tu deberea desirar de non usar OmegaT pro render files de un certe typo, tu pote volver foras le filtro correspondente per le disactivation del quadrato de controlo al latere de su nomine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39479,6 +39583,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The platform-independent package can be used on any platform with a working Java 1.5 runtime environment, including the platforms for which a specific package also exists.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084847Z" creationid="MELO46" creationdate="20140228T084847Z">
+        <seg>Le pacchetto, independente ab platteformas, pote esser usate sur omne platteforma con un ambiente runtime Java 1.5 functionante, includite le platteformas pro le qual existe alsi un pacchetto specific.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T124312Z">
@@ -41706,6 +41818,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;e2&gt;./OmegaT_2.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085237Z" creationid="MELO46" creationdate="20140228T085237Z">
+        <seg>Isto creara un plica &lt;e2&gt;./OmegaT_2.n.n_Without_JRE/&lt;/e2&gt; in le plica de labor, con tote le files necessari pro exequer &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This creates an &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T221345Z">
@@ -42446,6 +42566,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T195610Z">
         <seg>Iste option es utile pro alicun systemas de inscription de character: chinese, japonese o coreano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This package can be used on any platform where a Java 1.5 JRE compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085041Z" creationid="MELO46" creationdate="20140228T085041Z">
+        <seg>Iste pacchetto pote esser usate sur omne platteforma ubi es installate un Java 1.5 JRE compatibile JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43204,8 +43332,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To edit which files in which encodings the filter is to process, select the filter from the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T185830Z">
-        <seg>Pro rediger qual files in qual codificationes le filtro es a processar, selige le filtro ex le lista e clicca &lt;e1&gt;Modifica.&lt;/e1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084416Z">
+        <seg>Pro rediger qual files in qual codificationes le filtro debe processar, selige le filtro ex le lista e clicca &lt;e1&gt;Modifica.&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43254,6 +43382,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T212335Z">
         <seg>Pro installar &lt;a0&gt;OmegaT&lt;/a0&gt;, clicca duo vices sur le programma que tu ha discargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;e1&gt;OmegaT_2.n.n_Without_JRE.zip&lt;/e1&gt; file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085216Z" creationid="MELO46" creationdate="20140228T085216Z">
+        <seg>Pro installar &lt;a0&gt;OmegaT&lt;/a0&gt;, simplemente disimballa le file &lt;e1&gt;OmegaT_2.x_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43436,8 +43572,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T190134Z">
-        <seg>Pro modificar le optiones selige le filtro ex le lista e clicca sur &lt;e0&gt;Optiones&lt;/e0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T084456Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;VERIFICATO FIN QUI PROGRESSIVAMENTE&amp;&amp;&amp;&amp;&amp; Pro modificar le optiones selige le filtro ex le lista e clicca sur &lt;e0&gt;Optiones&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
