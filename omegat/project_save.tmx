@@ -29203,8 +29203,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT is supplied as a package that can be downloaded from SourceForge.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T143132Z">
-        <seg>OmegaT es supplite como un pacchetto que pote esser discargate ex SourceForge.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T111919Z">
+        <seg>OmegaT es supplite como un pacchetto que pote esser discargate ab SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39841,8 +39841,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The location of user files depends upon the platform you use:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130221T155712Z">
-        <seg>The location of user files depends upon the platform you use:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T111844Z">
+        <seg>Le ubication del files del usator depende ab qual platteforma tu usa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42836,8 +42836,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T083701Z">
-        <seg>Isto es un file html ordinari que, quando aperte in tu lector del tela Interrete, dirige te al gruppo del usator OmegaT sur Yahoo!</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T112321Z">
+        <seg>Isto es un file html ordinari que, quando aperte in tu navigator TTT, dirige te al gruppo del usator OmegaT sur Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48802,8 +48802,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You can open them in an Internet browser to obtain access to external links.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T083452Z">
-        <seg>Tu pote aperir los in un lector del tela Interrete pro obtener accesso al ligamines externe.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T112211Z">
+        <seg>Tu pote aperir los in un navigator TTT pro obtener accesso al ligamines externe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62489,6 +62489,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T110249Z" creationid="MELO46" creationdate="20140228T110249Z">
         <seg>Salta le testa del PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/FilesAndFolders.xml</prop>
+      <prop type="prev">File/ subfolder</prop>
+      <prop type="next">/docs/</prop>
+      <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T111958Z" creationid="MELO46" creationdate="20140228T111958Z">
+        <seg>Contentos</seg>
       </tuv>
     </tu>
     <tu>
