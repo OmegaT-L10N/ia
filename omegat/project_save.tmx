@@ -8404,8 +8404,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101247Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Glossario&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T193738Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;FIN QUI REVISIONATA&amp;&amp;&amp;&amp;&amp;&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Glossario&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12180,8 +12180,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T215304Z" creationid="MELO46" creationdate="20140106T215000Z">
-        <seg>per arrangiamento prefixate initial, le justification sinistre es usate pro le linguas ab Sinistra a Dextera (Left-To-Right - LTR) e le justification dextre pro le linguas ab Dextera a Sinistra (Right-To-Left - RTL).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192856Z" creationid="MELO46" creationdate="20140106T215000Z">
+        <seg>Per arrangiamento prefixate initial, le justification sinistre es usate pro le linguas ab Sinistra a Dextera (Left-To-Right - LTR) e le justification dextre pro le linguas ab Dextera a Sinistra (Right-To-Left - RTL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17649,8 +17649,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Files to translate</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T105541Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;VERIFICATO FIN QUI PROGRESSIVAMENTE&amp;&amp;&amp;&amp;&amp; Files a render</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T193804Z">
+        <seg>Files a render</seg>
       </tuv>
     </tu>
     <tu>
@@ -24429,8 +24429,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T222618Z" creationid="MELO46" creationdate="20140106T222618Z">
-        <seg>Il sia observate que quando &lt;a0&gt;OmegaT&lt;/a0&gt; es in modo RTL, tote le duo le fonte e le destination son monstrate in modo RTL.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T193354Z" creationid="MELO46" creationdate="20140106T222618Z">
+        <seg>Que on observa que quando &lt;a0&gt;OmegaT&lt;/a0&gt; es in modo RTL, tote le duo, le fonte e le destination son monstrate in modo RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39607,8 +39607,8 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T073816Z">
-        <seg>Le information in-line de formato facite possible per le formatos supportate (in particular DocBook, HTML, XHTML, Open Document Format(ODF) e Office Open XML (MS Office 2007 e sequente) al tempore de scriptura) es presentate como tags in OmegaT.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T193450Z">
+        <seg>Le information in-line de formato facite possibile per le formatos supportate (in particular DocBook, HTML, XHTML, Open Document Format(ODF) e Office Open XML (MS Office 2007 e sequente) al tempore de scriptura) son presentate como tags in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52237,8 +52237,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>default justification, that is as defined by the language</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T090124Z">
-        <seg>justification base prefixate, que es ut definite per le lingua</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192912Z">
+        <seg>- justification base, que es ut definite per le lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -55981,8 +55981,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>left justification</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T215521Z">
-        <seg>justification sinistre</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192918Z">
+        <seg>- justification sinistre</seg>
       </tuv>
     </tu>
     <tu>
@@ -58773,8 +58773,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>right justification</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T090141Z">
-        <seg>justification dextre</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T193107Z">
+        <seg>- justification dextre</seg>
       </tuv>
     </tu>
     <tu>
