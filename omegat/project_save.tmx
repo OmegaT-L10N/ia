@@ -7900,8 +7900,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Other file formats&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T174706Z">
-        <seg>&lt;p0&gt;Files primari&lt;/p0&gt; &lt;s1&gt;Altere formatos del files&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192515Z">
+        <seg>&lt;p0&gt;Files fonte&lt;/p0&gt; &lt;s1&gt;Altere formatos del files&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8140,8 +8140,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Other file formats&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T174603Z">
-        <seg>&lt;p0&gt;Files final&lt;/p0&gt; &lt;s1&gt;Altere formatos del files&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192455Z">
+        <seg>&lt;p0&gt;Files de destination&lt;/p0&gt; &lt;s1&gt;Altere formatos del files&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12756,8 +12756,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085753Z">
-        <seg>Controla le &lt;u0&gt;pagina initial OmegaT&lt;/u0&gt; pro un lista renovate del applicationes auxiliar de traduction.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192805Z">
+        <seg>Controla le &lt;u0&gt;pagina initial OmegaT&lt;/u0&gt; pro un lista actual del applicationes auxiliar de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18761,8 +18761,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Formatted text files contain information such as font type, size, color etc. as well as text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T213750Z" creationid="MELO46" creationdate="20140106T213750Z">
-        <seg>Le files de texto formattate contine information tal como typo de character, mesura, color et cetera assi como le texto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191950Z" creationid="MELO46" creationdate="20140106T213750Z">
+        <seg>Le files de texto formattate contine information tal quam typo de character, mesura, color et cetera assi como le texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19537,8 +19537,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T204114Z">
-        <seg>Compilator de Adjuta HTML (*.hhc, *.hhk)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192124Z">
+        <seg>- HTML Compilator de Adjuta (*.hhc, *.hhk)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20633,8 +20633,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T162119Z" creationid="MELO46" creationdate="20140106T202520Z">
-        <seg>Si pro un segmento fonte date Il non ha adhuc traduction existente in le memoria de traduction del projecto  (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quomodo traduction base.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T191913Z" creationid="MELO46" creationdate="20140106T202520Z">
+        <seg>Si pro un segmento fonte date Il non ha adhuc traduction existente in le memoria de traduction del projecto  (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quam traduction base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26807,8 +26807,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T203957Z">
-        <seg>Formato Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192149Z">
+        <seg>- formato Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28431,8 +28431,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T203938Z" creationid="MELO46" creationdate="20140106T203938Z">
-        <seg>ODF - Formato OASIS Open Document (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192134Z" creationid="MELO46" creationdate="20140106T203938Z">
+        <seg>- ODF - Formato OASIS Open Document (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30715,8 +30715,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T204759Z" creationid="MELO46" creationdate="20140106T204759Z">
-        <seg>Altere typos de file de texto formattate pote alsi esser tractate per OmegaT associante lor extensiones de file a un typo de file supportate, supponente que le regulas de segmentation correspondente segmentara illos correctemente.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192446Z" creationid="MELO46" creationdate="20140106T204759Z">
+        <seg>Altere typos de file de texto formattate pote alsi esser tractate per OmegaT con lor extension associate al typo de file supportate, e con le regulas de segmentation correspondente OmegaT segmentara los correctemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30739,8 +30739,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T100956Z" creationid="MELO" creationdate="20131219T100956Z">
-        <seg>Altere formatos del file texto simple o texto formattate commode pro processar in OmegaT pote alsi exister.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192619Z" creationid="MELO" creationdate="20131219T100956Z">
+        <seg>Altere formatos del file texto simple o texto formattate commode pro lor processo in OmegaT pote alsi exister.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47576,8 +47576,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>WiX Localization (*.wxl)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T204407Z">
-        <seg>Localisation WiX (*.wxl)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192232Z">
+        <seg>- Localisation WiX (*.wxl)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48176,8 +48176,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T162505Z">
-        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - varietate del fonte = destination</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192214Z">
+        <seg>- XLIFF (*.xlf, *.xliff, *.sdlxliff) - varietate del fonte = destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -55013,8 +55013,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>import the file into ODF writer</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T214555Z">
-        <seg>importa le file in un application de tractamento texto ODF</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192628Z">
+        <seg>- importa le file in un application de tractamento texto ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -56149,8 +56149,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>load the target file in ODF writer</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T214655Z">
-        <seg>carga le file rendite in le application de tractamento texto ODF</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192659Z">
+        <seg>- carga le file rendite in le application de tractamento texto ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -58981,16 +58981,16 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>save the file as a DOC file</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140106T214711Z">
-        <seg>salva le file como file DOC</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192737Z">
+        <seg>- salva le file como file DOC</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>save the file in ODT format</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085355Z">
-        <seg>salva le file in formato ODT</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192645Z">
+        <seg>- salva le file in formato ODT</seg>
       </tuv>
     </tu>
     <tu>
@@ -60861,8 +60861,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>translate it into the target ODT file</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T085431Z">
-        <seg>rende lo in le file ODT de destination</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T192651Z">
+        <seg>- rende lo in le file ODT de destination</seg>
       </tuv>
     </tu>
     <tu>
