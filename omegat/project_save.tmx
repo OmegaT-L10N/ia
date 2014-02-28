@@ -19249,8 +19249,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T114118Z">
-        <seg>Le formato del files glossario es le texto simple, continente listas de tres columnas, delimitate ab signo de tabulation, con le terminos fonte e de destination respectivemente in the prime e secunde columna.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T211352Z">
+        <seg>Le formato del files glossario es le texto simple, continente listas de tres columnas, delimitate ab signo de tabulation, con le terminos fonte e de destination respectivemente in le prime e in le secunde columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22541,8 +22541,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T121003Z">
-        <seg>in plus al formato texto simple, le formato TBX &lt;i0/&gt; es alsi supportate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T211537Z">
+        <seg>In plus al formato texto simple, le formato TBX &lt;i0/&gt; es alsi supportate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38845,8 +38845,8 @@ in vice.</seg>
       <tuv lang="EN">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T162809Z">
-        <seg>Le contentos del quadro pro le Glossario essera renovate in consequentia.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T211638Z">
+        <seg>Le contentos del quadro pro le Glossario essera implementate in consequentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39833,8 +39833,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T160132Z">
-        <seg>Le ubication del file glossario scribibile pote esser imponite in le fenestra de dialogo &lt;g0&gt;Projecto &gt; Proprietates ... &lt;/g0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T211919Z">
+        <seg>Le ubication del file glossario scribibile pote esser fixate in le fenestra de dialogo &lt;g0&gt;Projecto &gt; Proprietates ... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45824,8 +45824,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T172522Z">
-        <seg>Il es assatis simplice renovar un file glossario: calca &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; e scribe le termino nove, su traduction e omne le commentos que tu vole (assecurante te que tu calca le clave tabulation intra le campos) e salva le file.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T211604Z">
+        <seg>Il es assatis simplice implementar un file glossario: calca &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; e scribe le termino nove, su traduction e omne le commentos que tu vole (assecurante te que tu calca le clave tabulation intra le campos) e salva le file.</seg>
       </tuv>
     </tu>
     <tu>
