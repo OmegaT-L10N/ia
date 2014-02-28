@@ -7364,8 +7364,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T212754Z">
-        <seg>Proprietates del projecto&lt;p0&gt;&lt;/p0&gt;&lt;s1&gt;&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T215232Z">
+        <seg>&lt;p0&gt;Projecto&lt;/p0&gt; &lt;s1&gt;Proprietates&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7612,8 +7612,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Search window&lt;/p0&gt; &lt;s1&gt;Example&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T093947Z">
-        <seg>&lt;p0&gt;Fenestra de Recerca&lt;/p0&gt; &lt;s1&gt;Exemplo&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T214853Z">
+        <seg>&lt;p0&gt;Fenestra Recerca&lt;/p0&gt; &lt;s1&gt;Exemplo&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33492,8 +33492,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T222757Z">
-        <seg>Prioritate Regula</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T214823Z">
+        <seg>Prioritate del Regula</seg>
       </tuv>
     </tu>
     <tu>
@@ -34188,8 +34188,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Search window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T075118Z">
-        <seg>Fenestra del recerca</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T214849Z">
+        <seg>Fenestra Recerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -37487,8 +37487,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>Text search Window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130805T175631Z">
-        <seg>Fenestra de Recerca</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T214857Z">
+        <seg>Fenestra Recerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -40009,8 +40009,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T060709Z">
-        <seg>Le nomines del files debe exactemente corresponder al codice del lingua de tu lingua final como definite in le fenestra de dialogo Proprietates del projecto (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T214311Z">
+        <seg>Le nomines del files debe exactemente corresponder al codice del lingua de tu lingua final como definite in le fenestra de dialogo Proprietates del projecto (&lt;g0&gt;Projecto &gt; Proprietates&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40897,8 +40897,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102700Z">
-        <seg>Le corrector orthographic usa le codice del lingua final pro determinar le lingua a usar: si le lingua final es brasilian portugese (PT_BR), le subclassificator con le vocabularios debe continer le duo files vocabulario nominate &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T214458Z">
+        <seg>Le corrector orthographic usa le codice del lingua final pro determinar le lingua a usar: si le lingua final es brasilian portugese (PT_BR), le  sub plica con le vocabularios debe continer le duo files vocabulario nominate &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
