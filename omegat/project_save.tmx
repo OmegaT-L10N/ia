@@ -11028,8 +11028,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T154754Z">
-        <seg>Como le contento existente non essera alterate, eventual damnos a un file existente deberea esser limitate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210144Z">
+        <seg>Pois que le contento existente non essera alterate, eventual damnos a un file existente deberea esser limitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19185,8 +19185,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T102458Z">
-        <seg>Le glossarios son files create e renovate manualmente pro uso in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T205455Z">
+        <seg>Le glossarios son files create e implementate manualmente pro uso in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20513,8 +20513,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101249Z">
-        <seg>Si un projecto &lt;a0&gt;OmegaT&lt;/a0&gt; contine uno o plus glossarios, qualcunque terminos in le glossario que alsi es trovate in le actual segmento essera automaticamente exponite in le quadro "Glossario".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T205618Z">
+        <seg>Si un projecto &lt;a0&gt;OmegaT&lt;/a0&gt; contine uno o plus glossarios, qualcunque terminos in le glossario que alsi es trovate in le actual segmento essera automaticamente monstrate in le quadro "Glossario".</seg>
       </tuv>
     </tu>
     <tu>
@@ -21109,8 +21109,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T102748Z">
-        <seg>Si le file existe jam, nulle tentativa es facite pro verificar le formato o le serie de character del file: le nove entratas essera semper in formato 'separate per signo de tabulation' e codice UTF-8.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T205711Z">
+        <seg>Si le file existe jam, nulle tentativa es facite pro verificar le formato o le serie de character del file: le nove entratas essera semper in formato texto simple, 'separate per signo de tabulation' e codificate UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
