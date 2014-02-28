@@ -840,6 +840,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T091222Z" creationid="MELO46" creationdate="20140228T091222Z">
+        <seg>&amp;Ignora le attributos type e ctype quando construe &lt;ph&gt; vias breve de tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Import Source Files...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094753Z">
@@ -1456,6 +1464,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(2) offer you this license which gives you legal permission to copy,</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085555Z" creationid="MELO46" creationdate="20140228T085555Z">
+        <seg>(2) offer you this license which gives you legal permission to copy,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(?i)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T205513Z">
@@ -1508,6 +1524,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065024Z" creationid="MELO" creationdate="20131219T065024Z">
         <seg>(Here XYZ stands for a specific section name mentioned below, such as "Acknowledgements," "Dedications," "Endorsements," or "History.") To "Preserve the Title" of such a section when you modify the Document means that it remains a section "Entitled XYZ" according to this definition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Hereinafter, translation is included without limitation in</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085714Z" creationid="MELO46" creationdate="20140228T085714Z">
+        <seg>(Hereinafter, translation is included without limitation in</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,6 +1680,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T191858Z">
         <seg>(Le software que face isto es nominate "traductor automatic", pro illo tu debera querer alibi.) OmegaT ha le functiones sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Some other Free Software Foundation software is covered by</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085432Z" creationid="MELO46" creationdate="20140228T085432Z">
+        <seg>(Some other Free Software Foundation software is covered by</seg>
       </tuv>
     </tu>
     <tu>
@@ -4702,6 +4734,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T080542Z">
         <seg>&lt;e0&gt;Excel: &lt;/e0&gt;commentos, nomines de folio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Font antialiasing&lt;/e0&gt; - (Java 1.5 only)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085308Z" creationid="MELO46" creationdate="20140228T085308Z">
+        <seg>&lt;e0&gt;Typo del character antialiasing&lt;/e0&gt; - (Java 1.5 only)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9058,6 +9098,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source sentence might look like</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085352Z" creationid="MELO46" creationdate="20140228T085352Z">
+        <seg>Un phrase fonte poterea parer como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source sentence might look like:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T090016Z">
@@ -9334,6 +9382,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T082915Z" creationid="MELO46" creationdate="20140109T082915Z">
         <seg>Activar iste quadrato de controlo causara que OmegaT controlara si le tags simplice in java MessageFormat (como {0}) son processate correctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activities other than copying, distribution and modification are not</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085716Z" creationid="MELO46" creationdate="20140228T085716Z">
+        <seg>Activities other than copying, distribution and modification are not</seg>
       </tuv>
     </tu>
     <tu>
@@ -10034,6 +10090,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also, for each author's protection and ours, we want to make certain</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085600Z" creationid="MELO46" creationdate="20140228T085600Z">
+        <seg>Also, for each author's protection and ours, we want to make certain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T200325Z">
@@ -10450,6 +10514,14 @@ Le file TMX non essera cargate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155641Z" creationid="MELO46" creationdate="20131226T155641Z">
         <seg>And you must show them these terms so they</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And you must show them these terms so they know their</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085510Z" creationid="MELO46" creationdate="20140228T085510Z">
+        <seg>And you must show them these terms so they know their</seg>
       </tuv>
     </tu>
     <tu>
@@ -10970,6 +11042,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subfolders.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090827Z" creationid="MELO46" creationdate="20140228T090827Z">
+        <seg>Quando tu rende tu files, &lt;a0&gt;OmegaT&lt;/a0&gt; registra tu labor a omne instante in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in le sub plica del projecto /&lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T001649Z">
@@ -11404,8 +11484,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Bad regular expression!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095105Z">
-        <seg>Mal expression regulamentari!</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090431Z">
+        <seg>Mal expression regular!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12026,6 +12106,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By contrast, the GNU General Public</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085411Z" creationid="MELO46" creationdate="20140228T085411Z">
+        <seg>By contrast, the GNU General Public</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140126T010432Z">
@@ -12446,6 +12534,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T101253Z">
         <seg>Cambiar iste bandiera non modifica le segmentation del memorias de traduction jam existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T091222Z" creationid="MELO46" creationdate="20140228T091222Z">
+        <seg>Tabella del &amp;Character...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13767,6 +13863,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T091040Z" creationid="MELO46" creationdate="20140228T091040Z">
+        <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk e alteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134245Z">
@@ -14545,8 +14649,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Custom tag(s) regular expression</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T121827Z">
-        <seg>Expression regulamentari de tag(s) usual:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090350Z">
+        <seg>Expression regular de tag(s) usual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17535,6 +17639,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, any free program is threatened constantly by software</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085618Z" creationid="MELO46" creationdate="20140228T085618Z">
+        <seg>Finally, any free program is threatened constantly by software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, every program is threatened constantly by software patents.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144523Z">
@@ -18599,6 +18711,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Foundation's software and to any other program whose authors commit to</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085426Z" creationid="MELO46" creationdate="20140228T085426Z">
+        <seg>Foundation's software and to any other program whose authors commit to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Foundation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160036Z" creationid="MELO46" creationdate="20131226T160036Z">
@@ -18851,6 +18971,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105602Z">
         <seg>Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General Public License applies to most of the Free Software</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085425Z" creationid="MELO46" creationdate="20140228T085425Z">
+        <seg>General Public License applies to most of the Free Software</seg>
       </tuv>
     </tu>
     <tu>
@@ -20911,6 +21039,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T230713Z" creationid="MELO46" creationdate="20140108T225124Z">
         <seg>Si le regula concorda, o le cursor move se super sin inserer un interruption de segmento (pro un regula de exception) o es create un interruption de segmento nove al position del cursor actual (pro le regula de interruption).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the software is modified by someone else and passed on, we</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085612Z" creationid="MELO46" creationdate="20140228T085612Z">
+        <seg>If the software is modified by someone else and passed on, we</seg>
       </tuv>
     </tu>
     <tu>
@@ -25141,6 +25277,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>License is intended to guarantee your freedom to share and change free</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085415Z" creationid="MELO46" creationdate="20140228T085415Z">
+        <seg>License is intended to guarantee your freedom to share and change free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>License of the Program or a work on which the Program is based.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155846Z" creationid="MELO46" creationdate="20131226T155846Z">
@@ -28093,6 +28237,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source file (and in the translated file).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085345Z" creationid="MELO46" creationdate="20140228T085345Z">
+        <seg>Frequentemente le documentos habera alicun tags que ha nihil a facer con le formatos, ma que son alsi importante. In le file primari (e in le file rendite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T051912Z">
@@ -28201,6 +28353,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094555Z">
         <seg>OmegaT 2.0, File lege me</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 2.6 - User's Guide</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090019Z" creationid="MELO46" creationdate="20140228T090019Z">
+        <seg>OmegaT 2.6.3_07  - Guida del usator </seg>
       </tuv>
     </tu>
     <tu>
@@ -31298,6 +31458,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Program (independent of having been made by running the Program).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085725Z" creationid="MELO46" creationdate="20140228T085725Z">
+        <seg>Program (independent of having been made by running the Program).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Program specifies that a certain numbered version of the GNU General</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160030Z" creationid="MELO46" creationdate="20131226T160030Z">
@@ -32204,8 +32372,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regular expressions</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102400Z">
-        <seg>Expressiones &amp;Regulamentari</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090308Z">
+        <seg>Expressiones regular</seg>
       </tuv>
     </tu>
     <tu>
@@ -35020,8 +35188,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095253Z">
-        <seg>Salta le expression regulamentari del regulamentari del texto:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090601Z">
+        <seg>Salta le concordantia del texto del expression regular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35770,6 +35938,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text that you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T091020Z" creationid="MELO46" creationdate="20140228T091020Z">
+        <seg>Linea de character monstrante le differentias inter le fonte e le concordantia.&lt;e0&gt; Aviso:&lt;/e0&gt; usa isto si le texto, que tu es rendente  esseva renovate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translating has been updated.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T064510Z">
@@ -36152,6 +36328,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144525Z">
         <seg>TERMS AND CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085651Z" creationid="MELO46" creationdate="20140228T085651Z">
+        <seg>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</seg>
       </tuv>
     </tu>
     <tu>
@@ -37039,6 +37223,14 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Program", below,</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085657Z" creationid="MELO46" creationdate="20140228T085657Z">
+        <seg>The "Program", below,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130312T234747Z">
@@ -37765,6 +37957,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T213623Z">
         <seg>Le recerca precedente trova omne le segmentos de destination que contine characteres, assatis improbabile in le destination - id es lingua sloven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The act of</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085720Z" creationid="MELO46" creationdate="20140228T085720Z">
+        <seg>The act of</seg>
       </tuv>
     </tu>
     <tu>
@@ -39115,6 +39315,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155620Z" creationid="MELO46" creationdate="20131226T155620Z">
         <seg>The licenses for most software and other practical works are designed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The licenses for most software are designed to take away your</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085405Z" creationid="MELO46" creationdate="20140228T085405Z">
+        <seg>The licenses for most software are designed to take away your</seg>
       </tuv>
     </tu>
     <tu>
@@ -41225,6 +41433,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These restrictions translate to certain responsibilities for you if you</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085501Z" creationid="MELO46" creationdate="20140228T085501Z">
+        <seg>These restrictions translate to certain responsibilities for you if you</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T205840Z">
@@ -41598,6 +41814,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T064959Z" creationid="MELO" creationdate="20131219T064959Z">
         <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This License applies to any program or other work which contains</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085652Z" creationid="MELO46" creationdate="20140228T085652Z">
+        <seg>This License applies to any program or other work which contains</seg>
       </tuv>
     </tu>
     <tu>
@@ -43610,6 +43834,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To prevent this, we have made it clear that any</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085637Z" creationid="MELO46" creationdate="20140228T085637Z">
+        <seg>To prevent this, we have made it clear that any</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T171510Z">
@@ -43622,6 +43854,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T073526Z">
         <seg>Pro producer un traduction que es differente del traduction base, clicca con dextera le mus intra le segmento e selige "Crea traduction alternative".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To protect your rights, we need to make restrictions that forbid</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085500Z" creationid="MELO46" creationdate="20140228T085500Z">
+        <seg>To protect your rights, we need to make restrictions that forbid</seg>
       </tuv>
     </tu>
     <tu>
@@ -44946,6 +45186,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the &lt;e1&gt;OmegaT_2.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_2.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085327Z" creationid="MELO46" creationdate="20140228T085327Z">
+        <seg>Dispacchetta le file &lt;e1&gt;OmegaT_2.n.n_Source.zip&lt;/e1&gt; e entra in le plica OmegaT_2.n.n_Source o entra in le plica &lt;e2&gt;./omegat/&lt;/e2&gt; del codice SVN discargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T074354Z">
@@ -46048,8 +46296,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130220T094749Z">
-        <seg>Vito Smolej</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090217Z">
+        <seg>Vito Smolej (rendite in Interlingua per Carmelo Serraino in martio 2014)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46150,6 +46398,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We protect your rights with two steps: (1) copyright the software, and</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085552Z" creationid="MELO46" creationdate="20140228T085552Z">
+        <seg>We protect your rights with two steps: (1) copyright the software, and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We provide here two projects for self-training.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T111353Z">
@@ -46170,6 +46426,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094637Z">
         <seg>Dunque nos recommenda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We wish to avoid the danger that redistributors of a free</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085632Z" creationid="MELO46" creationdate="20140228T085632Z">
+        <seg>We wish to avoid the danger that redistributors of a free</seg>
       </tuv>
     </tu>
     <tu>
@@ -46738,6 +47002,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T174959Z">
         <seg>Si il essera adoptate o non, dependera in prime loco ab quanto le equipa de disveloppamento considera lo benefic pro OmegaT, e secundarimente, si un del disveloppatores es ben disposite a facer le labor de implementar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether that is true depends on what the Program does.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085727Z" creationid="MELO46" creationdate="20140228T085727Z">
+        <seg>Whether that is true depends on what the Program does.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48248,6 +48520,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may charge a fee for the physical act of transferring a copy, and</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085736Z" creationid="MELO46" creationdate="20140228T085736Z">
+        <seg>You may charge a fee for the physical act of transferring a copy, and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may charge any price or no price for each copy that you convey,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155742Z" creationid="MELO46" creationdate="20131226T155742Z">
@@ -48312,6 +48592,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may copy and distribute verbatim copies of the Program's</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085729Z" creationid="MELO46" creationdate="20140228T085729Z">
+        <seg>You may copy and distribute verbatim copies of the Program's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T082849Z">
@@ -48372,6 +48660,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155729Z" creationid="MELO46" creationdate="20131226T155729Z">
         <seg>You may make, run and propagate covered works that you do not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may modify your copy or copies of the Program or any portion</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085739Z" creationid="MELO46" creationdate="20140228T085739Z">
+        <seg>You may modify your copy or copies of the Program or any portion</seg>
       </tuv>
     </tu>
     <tu>
@@ -48492,6 +48788,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155640Z" creationid="MELO46" creationdate="20131226T155640Z">
         <seg>You must make sure that they, too, receive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must make sure that they, too, receive or can get the</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085505Z" creationid="MELO46" creationdate="20140228T085505Z">
+        <seg>You must make sure that they, too, receive or can get the</seg>
       </tuv>
     </tu>
     <tu>
@@ -49139,6 +49443,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a notice placed by the copyright holder saying it may be distributed</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085654Z" creationid="MELO46" creationdate="20140228T085654Z">
+        <seg>a notice placed by the copyright holder saying it may be distributed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a single file or a folder containing a set of files (check &lt;e0&gt;Search files)&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T091514Z">
@@ -49183,6 +49495,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144554Z">
         <seg>a) The work must carry prominent notices stating that you modified</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a) You must cause the modified files to carry prominent notices</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085742Z" creationid="MELO46" creationdate="20140228T085742Z">
+        <seg>a) You must cause the modified files to carry prominent notices</seg>
       </tuv>
     </tu>
     <tu>
@@ -49247,6 +49567,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160130Z" creationid="MELO46" creationdate="20131226T160130Z">
         <seg>above cannot be given local legal effect according to their terms,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>above, provided that you also meet all of these conditions:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085741Z" creationid="MELO46" creationdate="20140228T085741Z">
+        <seg>above, provided that you also meet all of these conditions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49363,6 +49691,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>along with the Program.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085735Z" creationid="MELO46" creationdate="20140228T085735Z">
+        <seg>along with this program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>along with this program.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144830Z">
@@ -49475,6 +49811,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and give any other recipients of the Program a copy of this License</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085734Z" creationid="MELO46" creationdate="20140228T085734Z">
+        <seg>and give any other recipients of the Program a copy of this License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and immediately after them, add the lines:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T085540Z">
@@ -49583,6 +49927,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155845Z" creationid="MELO46" creationdate="20131226T155845Z">
         <seg>any patent claim is infringed by making, using, selling, offering for</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>anyone to deny you these rights or to ask you to surrender the rights.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085501Z" creationid="MELO46" creationdate="20140228T085501Z">
+        <seg>anyone to deny you these rights or to ask you to surrender the rights.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49723,6 +50075,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>authors' reputations.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085616Z" creationid="MELO46" creationdate="20140228T085616Z">
+        <seg>authors' reputations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>authors' sake, the GPL requires that modified versions be marked as</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155644Z" creationid="MELO46" creationdate="20131226T155644Z">
@@ -49855,6 +50215,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144555Z">
         <seg>b) The work must carry prominent notices stating that it is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b) You must cause any work that you distribute or publish, that in</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090753Z" creationid="MELO46" creationdate="20140228T090753Z">
+        <seg>b) You must cause any work that you distribute or publish, that in</seg>
       </tuv>
     </tu>
     <tu>
@@ -50579,6 +50947,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>conspicuously and appropriately publish on each copy an appropriate</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085731Z" creationid="MELO46" creationdate="20140228T085731Z">
+        <seg>conspicuously and appropriately publish on each copy an appropriate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>contain the covered work, unless you entered into that arrangement,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155926Z" creationid="MELO46" creationdate="20131226T155926Z">
@@ -50683,6 +51059,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>copyright notice and disclaimer of warranty; keep intact all the</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085732Z" creationid="MELO46" creationdate="20140228T085732Z">
+        <seg>copyright notice and disclaimer of warranty; keep intact all the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>copyright on the Program, and are irrevocable provided the stated</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155726Z" creationid="MELO46" creationdate="20131226T155726Z">
@@ -50711,6 +51095,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155900Z" creationid="MELO46" creationdate="20131226T155900Z">
         <seg>country that you have reason to believe are valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>covered by this License; they are outside its scope.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085718Z" creationid="MELO46" creationdate="20140228T085718Z">
+        <seg>covered by this License; they are outside its scope.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51091,6 +51483,30 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>distribute and/or modify the software.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085557Z" creationid="MELO46" creationdate="20140228T085557Z">
+        <seg>distribute and/or modify the software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>distribute copies of the software, or if you modify it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085502Z" creationid="MELO46" creationdate="20140228T085502Z">
+        <seg>distribute copies of the software, or if you modify it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>distribute such modifications or work under the terms of Section 1</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085740Z" creationid="MELO46" creationdate="20140228T085740Z">
+        <seg>distribute such modifications or work under the terms of Section 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>distribution (with or without modification), making available to the</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155705Z" creationid="MELO46" creationdate="20131226T155705Z">
@@ -51383,6 +51799,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134855Z">
         <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>either verbatim or with modifications and/or translated into another</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085702Z" creationid="MELO46" creationdate="20140228T085702Z">
+        <seg>either verbatim or with modifications and/or translated into another</seg>
       </tuv>
     </tu>
     <tu>
@@ -52283,6 +52707,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>freedom to share and change it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085407Z" creationid="MELO46" creationdate="20140228T085407Z">
+        <seg>freedom to share and change it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>freedoms that you received.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155640Z" creationid="MELO46" creationdate="20131226T155640Z">
@@ -52479,6 +52911,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155818Z" creationid="MELO46" creationdate="20131226T155818Z">
         <seg>governed by this License along with a term that is a further</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gratis or for a fee, you must give the recipients all the rights that</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085503Z" creationid="MELO46" creationdate="20140228T085503Z">
+        <seg>gratis or for a fee, you must give the recipients all the rights that</seg>
       </tuv>
     </tu>
     <tu>
@@ -52799,6 +53239,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T214106Z">
         <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090225Z" creationid="MELO46" creationdate="20140228T090225Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090807Z" creationid="MELO46" creationdate="20140228T090807Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
     </tu>
     <tu>
@@ -53515,6 +53971,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if you want it, that you can change the software or use pieces of it</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085453Z" creationid="MELO46" creationdate="20140228T085453Z">
+        <seg>if you want it, that you can change the software or use pieces of it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ig</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135921Z">
@@ -53623,6 +54087,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155730Z" creationid="MELO46" creationdate="20131226T155730Z">
         <seg>in force.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in new free programs; and that you know you can do these things.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085459Z" creationid="MELO46" creationdate="20140228T085459Z">
+        <seg>in new free programs; and that you know you can do these things.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53847,6 +54319,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T145745Z">
         <seg>es un tag singule e non affice alicun contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is covered only if its contents constitute a work based on the</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085723Z" creationid="MELO46" creationdate="20140228T085723Z">
+        <seg>is covered only if its contents constitute a work based on the</seg>
       </tuv>
     </tu>
     <tu>
@@ -54875,6 +55355,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>means either the Program or any derivative work under copyright law:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085700Z" creationid="MELO46" creationdate="20140228T085700Z">
+        <seg>means either the Program or any derivative work under copyright law:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>measure under any applicable law fulfilling obligations under article</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155736Z" creationid="MELO46" creationdate="20131226T155736Z">
@@ -55507,6 +55995,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>notices that refer to this License and to the absence of any warranty;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085733Z" creationid="MELO46" creationdate="20140228T085733Z">
+        <seg>notices that refer to this License and to the absence of any warranty;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>nr</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141158Z">
@@ -55591,6 +56087,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155731Z" creationid="MELO46" creationdate="20131226T155731Z">
         <seg>of having them make modifications exclusively for you, or provide you</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>of it, thus forming a work based on the Program, and copy and</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085740Z" creationid="MELO46" creationdate="20140228T085740Z">
+        <seg>of it, thus forming a work based on the Program, and copy and</seg>
       </tuv>
     </tu>
     <tu>
@@ -56211,6 +56715,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>patent must be licensed for everyone's free use or not licensed at all.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085644Z" creationid="MELO46" creationdate="20140228T085644Z">
+        <seg>patent must be licensed for everyone's free use or not licensed at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>patent sublicenses in a manner consistent with the requirements of</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155850Z" creationid="MELO46" creationdate="20131226T155850Z">
@@ -56447,6 +56959,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155648Z" creationid="MELO46" creationdate="20131226T155648Z">
         <seg>products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>program proprietary.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085635Z" creationid="MELO46" creationdate="20140228T085635Z">
+        <seg>program proprietary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>program will individually obtain patent licenses, in effect making the</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085633Z" creationid="MELO46" creationdate="20140228T085633Z">
+        <seg>program will individually obtain patent licenses, in effect making the</seg>
       </tuv>
     </tu>
     <tu>
@@ -56827,6 +57355,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>refers to any such program or work, and a "work based on the Program"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085659Z" creationid="MELO46" creationdate="20140228T085659Z">
+        <seg>refers to any such program or work, and a "work based on the Program"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>regardless of how they are packaged.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144603Z">
@@ -56837,8 +57373,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>regular expressions</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102547Z">
-        <seg>Expressiones &amp;Regulamentari</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090710Z">
+        <seg>expressiones regular</seg>
       </tuv>
     </tu>
     <tu>
@@ -57111,6 +57647,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155832Z" creationid="MELO46" creationdate="20131226T155832Z">
         <seg>run a copy of the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>running the Program is not restricted, and the output from the Program</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085722Z" creationid="MELO46" creationdate="20140228T085722Z">
+        <seg>running the Program is not restricted, and the output from the Program</seg>
       </tuv>
     </tu>
     <tu>
@@ -57563,6 +58107,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>software--to make sure the software is free for all its users.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085419Z" creationid="MELO46" creationdate="20140228T085419Z">
+        <seg>software--to make sure the software is free for all its users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>som</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233611Z">
@@ -57587,10 +58139,26 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source code as you receive it, in any medium, provided that you</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085730Z" creationid="MELO46" creationdate="20140228T085730Z">
+        <seg>source code as you receive it, in any medium, provided that you</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>source code form), and must require no special password or key for</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155808Z" creationid="MELO46" creationdate="20131226T155808Z">
         <seg>source code form), and must require no special password or key for</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source code.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085505Z" creationid="MELO46" creationdate="20140228T085505Z">
+        <seg>Codice de origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -57751,6 +58319,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160145Z" creationid="MELO46" creationdate="20131226T160145Z">
         <seg>state the exclusion of warranty; and each file should have at least</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stating that you changed the files and the date of any change.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085802Z" creationid="MELO46" creationdate="20140228T085802Z">
+        <seg>stating that you changed the files and the date of any change.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58107,6 +58683,30 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>that any problems introduced by others will not reflect on the original</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085615Z" creationid="MELO46" creationdate="20140228T085615Z">
+        <seg>that any problems introduced by others will not reflect on the original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>that everyone understands that there is no warranty for this free</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085601Z" creationid="MELO46" creationdate="20140228T085601Z">
+        <seg>that everyone understands that there is no warranty for this free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>that is to say, a work containing the Program or a portion of it,</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085701Z" creationid="MELO46" creationdate="20140228T085701Z">
+        <seg>that is to say, a work containing the Program or a portion of it,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>that material) supplement the terms of this License with terms:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155816Z" creationid="MELO46" creationdate="20131226T155816Z">
@@ -58187,6 +58787,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the GNU Library General Public License instead.)  You can apply it to</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085434Z" creationid="MELO46" creationdate="20140228T085434Z">
+        <seg>the GNU Library General Public License instead.)  You can apply it to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the Java Runtime Environment are now available to save users the trouble of</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T180021Z">
@@ -58199,6 +58807,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155937Z" creationid="MELO46" creationdate="20131226T155937Z">
         <seg>the Program, the only way you could satisfy both those terms and this</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090954Z" creationid="MELO46" creationdate="20140228T090847Z">
+        <seg>le files TMX in le plica principal del projecto (vide supra) ora contine le traductiones in le par de linguas seligite, pro le files, que tu ha copiate in le plica /source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58387,6 +59003,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the term "modification".)  Each licensee is addressed as "you".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085715Z" creationid="MELO46" creationdate="20140228T085715Z">
+        <seg>the term "modification".)  Each licensee is addressed as "you".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the terms of this License in conveying all material for which you do</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155731Z" creationid="MELO46" creationdate="20131226T155731Z">
@@ -58495,6 +59119,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220938Z">
         <seg>ce script, displica un fenestra terminal (consola), cambia le plica in le plica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>this service if you wish), that you receive source code or can get it</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085449Z" creationid="MELO46" creationdate="20140228T085449Z">
+        <seg>this service if you wish), that you receive source code or can get it</seg>
       </tuv>
     </tu>
     <tu>
@@ -58963,6 +59595,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>under the terms of this General Public License.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085656Z" creationid="MELO46" creationdate="20140228T085656Z">
+        <seg>under the terms of this General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>under those permissions, but the entire Program remains governed by</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155811Z" creationid="MELO46" creationdate="20131226T155811Z">
@@ -59071,6 +59711,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155739Z" creationid="MELO46" creationdate="20131226T155739Z">
         <seg>users, your or third parties' legal rights to forbid circumvention of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>using it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085428Z" creationid="MELO46" creationdate="20140228T085428Z">
+        <seg>using it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59287,6 +59935,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155634Z" creationid="MELO46" creationdate="20131226T155634Z">
         <seg>want it, that you can change the software or use pieces of it in new</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>want its recipients to know that what they have is not the original, so</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085614Z" creationid="MELO46" creationdate="20140228T085614Z">
+        <seg>want its recipients to know that what they have is not the original, so</seg>
       </tuv>
     </tu>
     <tu>
@@ -59659,10 +60315,26 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>you have.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085504Z" creationid="MELO46" creationdate="20140228T085504Z">
+        <seg>you have.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>you inform other peers where the object code and Corresponding</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144640Z">
         <seg>you inform other peers where the object code and Corresponding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you may at your option offer warranty protection in exchange for a fee.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085738Z" creationid="MELO46" creationdate="20140228T085738Z">
+        <seg>you may at your option offer warranty protection in exchange for a fee.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60302,6 +60974,72 @@ crear su classificator de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/Searches.xml</prop>
+      <prop type="prev">Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</prop>
+      <prop type="next">The search string will be treated as a regular expression.</prop>
+      <tuv lang="EN">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T090415Z" creationid="MELO46" creationdate="20140228T090415Z">
+        <seg>expressiones regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/license.txt</prop>
+      <prop type="prev">either verbatim or with modifications and/or translated into another</prop>
+      <prop type="next">(Hereinafter, translation is included without limitation in</prop>
+      <tuv lang="EN">
+        <seg>language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085712Z" creationid="MELO46" creationdate="20140228T085712Z">
+        <seg>language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/license.txt</prop>
+      <prop type="prev">Finally, any free program is threatened constantly by software</prop>
+      <prop type="next">We wish to avoid the danger that redistributors of a free</prop>
+      <tuv lang="EN">
+        <seg>patents.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085631Z" creationid="MELO46" creationdate="20140228T085631Z">
+        <seg>patents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/license.txt</prop>
+      <prop type="prev">And you must show them these terms so they know their</prop>
+      <prop type="next">We protect your rights with two steps: (1) copyright the software, and</prop>
+      <tuv lang="EN">
+        <seg>rights.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085550Z" creationid="MELO46" creationdate="20140228T085550Z">
+        <seg>rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/license.txt</prop>
+      <prop type="prev">that everyone understands that there is no warranty for this free</prop>
+      <prop type="next">If the software is modified by someone else and passed on, we</prop>
+      <tuv lang="EN">
+        <seg>software.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085611Z" creationid="MELO46" creationdate="20140228T085611Z">
+        <seg>software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/license.txt</prop>
+      <prop type="prev">You must make sure that they, too, receive or can get the</prop>
+      <prop type="next">And you must show them these terms so they know their</prop>
+      <tuv lang="EN">
+        <seg>source code.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T085527Z" creationid="MELO46" creationdate="20140228T085527Z">
+        <seg>source code.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">OmegaT_3.0.1_L10N_Full/source/doc_src/en/EditingBehavior.xml</prop>
       <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</prop>
       <prop type="next">OmegaT leaves the editing field blank.</prop>
@@ -60321,6 +61059,26 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140126T011134Z" creationid="MELO46" creationdate="20140126T011134Z">
         <seg>.*\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_02_L10N_Full/OmegaT_3.0.8_02_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T091254Z" creationid="MELO46" creationdate="20140228T091254Z">
+        <seg>&amp;Salva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.0.8_02_L10N_Full/OmegaT_3.0.8_02_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_COMMENT</prop>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T091314Z" creationid="MELO46" creationdate="20140228T091314Z">
+        <seg>Commento</seg>
       </tuv>
     </tu>
     <tu>
