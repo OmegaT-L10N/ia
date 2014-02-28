@@ -7228,8 +7228,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Glossary subfolder&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101253Z">
-        <seg>&lt;p0&gt;Files del projecto&lt;/p0&gt; &lt;s1&gt;Subcamisa Glossario&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210330Z">
+        <seg>&lt;p0&gt;Files del projecto&lt;/p0&gt; &lt;s1&gt;Sub plica Glossario&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19193,8 +19193,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101255Z">
-        <seg>Glossarios, Quadro del glossario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210446Z">
+        <seg>Glossarios, Quadro Glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -19289,8 +19289,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140126T012033Z">
-        <seg>Quadro del Glossario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210627Z">
+        <seg>Quadro Glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -19857,8 +19857,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T113733Z">
-        <seg>Si marcate lo in le le quadro Glossario e pois cliccate lo con le dextera, insere lo al position del cursor in le segmento final.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T211008Z">
+        <seg>Si marcate lo in le le quadro Glossario e pois cliccate lo con le dextera, inserera lo al position del cursor in le segmento de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27479,8 +27479,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T113424Z">
-        <seg>Un vice que le cambios del glossario essera salvate, essera trovate le nove terminos addite.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210743Z">
+        <seg>Cata vice que le nove termino del glossario essera salvate, essera trovate le nove terminos addite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27999,8 +27999,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T113835Z">
-        <seg>Nota que in le caso precedente, isto es justo le medio (o mesmo minus) del labor, pois que le lingua final (sloveno) usa le declination.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T211039Z">
+        <seg>Nota que in le caso precedente, isto es justo le medietate (o mesmo minus) del labor, pois que le lingua final (sloveno) usa le declination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37407,8 +37407,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T155417Z">
-        <seg>Le terminos in le segmento currente que &lt;a3&gt;OmegaT&lt;/a3&gt; trova in le file(s) glossario es monstrate in le quadro pro le Glossario:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210429Z">
+        <seg>Le terminos in le segmento currente que &lt;a3&gt;OmegaT&lt;/a3&gt; trova in le file(s) glossario es monstrate in le quadro Glossario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40881,8 +40881,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140201T113624Z">
-        <seg>Le termino primari non debe esser necessarimente de un sol parola, como monstra le exemplo sequente:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210815Z">
+        <seg>Le termino fonte non debe esser necessarimente de un sol parola, como monstra le exemplo sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41289,8 +41289,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T164916Z">
-        <seg>Le articulo sublineate  "pop-up menu" pote esser trovate in le quadro pro le Glossario como "pojavni menu".</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T210909Z">
+        <seg>Le termino sublineate  "pop-up menu" pote esser trovate in le quadro pro le Glossario como "pojavni menu".</seg>
       </tuv>
     </tu>
     <tu>
