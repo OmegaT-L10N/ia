@@ -4852,8 +4852,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T212608Z">
-        <seg>• Installar in un classificator nove.&lt;e0&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221508Z">
+        <seg>&lt;e0&gt;Installar in un classificator nove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8548,8 +8548,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;t1/&gt;Click Choose and navigate to the “dictionaries” folder (&lt;f2&gt;screenshot, &lt;/f2&gt;&lt;f3&gt;a, &lt;/f3&gt;&lt;f4&gt;below)&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T154119Z">
-        <seg>&lt;t1/&gt;Clicca "Selige" e naviga al classificator “dictionarios” (&lt;f2&gt;imagine del schermo, &lt;/f2&gt;&lt;f3&gt; a, &lt;/f3&gt;&lt;f4&gt; in basso)&lt;/f4&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221817Z">
+        <seg>&lt;t1/&gt;Clicca "Selige" e naviga al plica “dictionarios” (&lt;f2&gt;imagine del schermo, &lt;/f2&gt;&lt;f3&gt; a, &lt;/f3&gt;&lt;f4&gt; in basso)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10348,8 +10348,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s0/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T154047Z">
-        <seg>Un exemplo es crear un plica denominate “dictionarios” in tu "Programmas" (Initio &gt; Ressources del Computer &gt; &lt;s0/&gt;Disco Local (C:) &gt; Programmas &gt; Clicca al derecta &gt; Nove Classificator, que tu lo denomina “dictionarios.”) Alora ab le menu de OmegaT, clicca Optiones &gt; Controlo orthographic.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221436Z">
+        <seg>Un exemplo es crear un plica denominate “dictionarios” in tu "Programmas" (Initio &gt; Ressources del Computer &gt; &lt;s0/&gt;Disco Local (C:) &gt; Programmas &gt; Clicca al derecta &gt; Nove Plica, que tu lo denomina “dictionarios.”) Alora ab le menu de OmegaT, clicca Optiones &gt; Controlo orthographic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15089,8 +15089,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dictionary File Folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095420Z">
-        <seg>Classificator del file dictionario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T222403Z">
+        <seg>Plica del File Dictionario</seg>
       </tuv>
     </tu>
     <tu>
@@ -19281,8 +19281,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095518Z">
-        <seg>Le classificator del glossario {0} non existe.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221657Z">
+        <seg>Le plica del Glossario {0} non existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25791,8 +25791,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Local Folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095532Z">
-        <seg>Classificator local:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221547Z">
+        <seg>Plica local:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30051,8 +30051,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T130326Z">
-        <seg>Un vice que tu es certe que non ha nulle errores de tags in tu traduction, que tu pressa  &lt;k0&gt;Ctrl+D&lt;/k0&gt; pro generar tu file final, le qual essera create in le subcamisa &lt;f1&gt;/target/&lt;/f1&gt; del classificator de tu projecto. </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221934Z">
+        <seg>Un vice que tu es certe que non ha nulle errores de tags in tu traduction, que tu pressa  &lt;k0&gt;Ctrl+D&lt;/k0&gt; pro generar tu file final, le qual essera create in le sub plica &lt;f1&gt;/target/&lt;/f1&gt; del plica de tu projecto. </seg>
       </tuv>
     </tu>
     <tu>
@@ -36004,8 +36004,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095517Z">
-        <seg>Le classificator primari {0} non existe.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T222104Z">
+        <seg>Le plica fonte {0} non existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37223,8 +37223,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>Target folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095517Z">
-        <seg>Le classificator final {0} non existe.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T222029Z">
+        <seg>Le plica de destination {0} non existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40393,8 +40393,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The project folder {0} is missing and could not be created.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095537Z">
-        <seg>Le classificator del projecto {0} es perdite e non es possibile lo crear.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221530Z">
+        <seg>Le plica del projecto {0} es perdite e non es possibile lo crear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41449,8 +41449,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095519Z">
-        <seg>Le file glossario scribibile non se trova intra le classificator del glossario</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221607Z">
+        <seg>Le file glossario scribibile non se trova intra le plica del glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -45148,8 +45148,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translation memory folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095518Z">
-        <seg>Le classificator del memoria de traduction {0} non existe.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221625Z">
+        <seg>Le plica del memoria de traduction {0} non existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47416,8 +47416,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>When/after downloading the zip file, place it in a suitable folder, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T153558Z">
-        <seg>Installa OmegaT postquam tu ha discargate le file zip, pone lo in un classificator convenibile, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T221947Z">
+        <seg>Installa OmegaT postquam tu ha discargate le file zip, pone lo in un plica convenibile, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
       </tuv>
     </tu>
     <tu>
