@@ -6564,8 +6564,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T071049Z">
-        <seg>&lt;p0&gt;Filtros de File&lt;/p0&gt; &lt;s1&gt;Exemplo de typo e nomine de file&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T110855Z">
+        <seg>&lt;p0&gt;Filtros de File&lt;/p0&gt; &lt;s1&gt;Modello de typo e nomine de file&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7868,8 +7868,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T160206Z">
-        <seg>&lt;p0&gt;Files fonte&lt;/p0&gt; &lt;s1&gt;Exemplo de typo e nomine de file&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T110829Z">
+        <seg>&lt;p0&gt;Files fonte&lt;/p0&gt; &lt;s1&gt;Modello de typo e nomine de file&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16185,8 +16185,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Edit filter dialog</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100852Z">
-        <seg>Editar le dialogo del filtro</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T110548Z">
+        <seg>Fenestra de dialogo de Modifica del filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -21021,8 +21021,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131228T160749Z" creationid="MELO46" creationdate="20131228T160749Z">
-        <seg>Si es establite le filtro appropriate, le file es assignate a Illo pro le processo.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T111101Z" creationid="MELO46" creationdate="20131228T160749Z">
+        <seg>Si le filtro appropriate es trovate, le file es assignate a Illo pro le successive processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35980,16 +35980,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source file type, filename pattern</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T160257Z">
-        <seg>Typo de file fonte, exemplo de nomine de file</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T110903Z">
+        <seg>Typo de file fonte, modello de nomine de file</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131228T161525Z" creationid="MELO46" creationdate="20131228T161525Z">
-        <seg>Le modellos de nomine de file fonte usa characteres carta salvage similabile a illos usate in le &lt;e2&gt;Recercas.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T111259Z" creationid="MELO46" creationdate="20131228T161525Z">
+        <seg>Le modellos de nomine de file fonte usa characteres 'carta salvage' similabile a illos usate in le &lt;e2&gt;Recercas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40585,8 +40585,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131226T154923Z" creationid="MELO" creationdate="20131219T100232Z">
-        <seg>Le fenestra de dialogo pro adder un modello es le mesme que pro editar un modello particular.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T110744Z" creationid="MELO" creationdate="20131219T100232Z">
+        <seg>Le fenestra de dialogo pro adder un modello es le mesme que illo pro modificar un modello particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44292,8 +44292,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131226T230716Z" creationid="MELO46" creationdate="20131226T230716Z">
-        <seg>Pro modificar un modello de filtro del file, o modifica le campos directemente o clicca &lt;e0&gt;Modifica.&lt;/e0&gt; Pro adder un nove modello de filtro del file, clicca &lt;e1&gt;Adde&lt;/e1&gt;.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T110639Z" creationid="MELO46" creationdate="20131226T230716Z">
+        <seg>Pro modificar un modello de filtro del file, modifica le campos directemente o clicca &lt;e0&gt;Modifica.&lt;/e0&gt; Pro adder un nove modello de filtro del file, clicca &lt;e1&gt;Adde&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62467,6 +62467,17 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T083107Z" creationid="MELO46" creationdate="20140228T083107Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/FileFilters.xml</prop>
+      <prop type="prev">PO header will be skipped and left unchanged, if this option is checked.</prop>
+      <prop type="next">The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</prop>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140228T110508Z" creationid="MELO46" creationdate="20140228T110508Z">
+        <seg>Auto reimplacia 'nplurals=INTEGER; plural=EXPRESSION;' in le testa</seg>
       </tuv>
     </tu>
     <tu>
