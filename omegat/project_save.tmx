@@ -15001,8 +15001,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Description:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140128T101416Z" creationid="MELO46" creationdate="20140128T101416Z">
-        <seg>Description:</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140408T093935Z" creationid="MELO46" creationdate="20140128T101416Z">
+        <seg>description:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25129,6 +25129,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140404T194944Z" creationid="MELO46" creationdate="20140404T143539Z">
         <seg>LB: Bon vespere, mi nomine es Luca Bertagnolio, e iste nocte io es parlante in nomine de "Atomi per la Pace". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LB: It was a pleasure, thank you so much.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140408T093916Z" creationid="MELO46" creationdate="20140408T093916Z">
+        <seg>LB: il esseva un agradamento, io regratia te tanto.</seg>
       </tuv>
     </tu>
     <tu>
