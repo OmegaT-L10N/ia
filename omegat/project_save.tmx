@@ -10276,8 +10276,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100625Z">
-        <seg>Confirma semper (&amp;Always) le cessation</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212252Z">
+        <seg>Confirma semper le cessation</seg>
       </tuv>
     </tu>
     <tu>
@@ -11356,8 +11356,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100833Z">
-        <seg>Auto reimplacia 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in le testa</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212541Z">
+        <seg>Auto reimplacia 'nplurals=INTEGER; plural=EXPRESSION;' in le testa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11366,6 +11366,30 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T093852Z" creationid="MELO46" creationdate="20131224T093526Z">
         <seg>Configuration del Vista Auto-completori del Glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211601Z" creationid="MELO46" creationdate="20140416T211601Z">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211608Z" creationid="MELO46" creationdate="20140416T211608Z">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211556Z" creationid="MELO46" creationdate="20140416T211556Z">
+        <seg>Auto-completamento/Glossario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12444,8 +12468,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Camtasia for Windows (*.camproj)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101115Z">
-        <seg>- Camtasia pro Windows (*.camproj)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212720Z">
+        <seg>Camtasia pro Windows (*.camproj)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13609,8 +13633,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101023Z">
-        <seg>Con&amp;tentos</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212622Z">
+        <seg>Contentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -14599,6 +14623,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+K</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211053Z" creationid="MELO46" creationdate="20140416T211053Z">
+        <seg>Ctrl+K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+L</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T054416Z">
@@ -14727,6 +14759,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211018Z" creationid="MELO46" creationdate="20140416T211018Z">
+        <seg>Ctrl +T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+U</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133939Z">
@@ -14755,6 +14795,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133912Z">
         <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211138Z" creationid="MELO46" creationdate="20140416T211138Z">
+        <seg>Ctrl+↑</seg>
       </tuv>
     </tu>
     <tu>
@@ -14835,6 +14883,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095441Z">
         <seg>Seca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cycle Case To...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211311Z" creationid="MELO46" creationdate="20140416T211311Z">
+        <seg>Rota le formato Character a...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15329,8 +15385,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100611Z">
-        <seg>monstra le segmentos primari (&amp;Source)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212041Z">
+        <seg>Monstra le segmentos fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -15507,14 +15563,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095352Z">
         <seg>Expone le traduction del segmento primari per le servicios de traduction a machina que tu seligeva in 'Optiones &gt; Traduction a machina', si celle servicios es disponibile.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Distribution and modifications</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T155539Z">
-        <seg>Distribution and modifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -17929,8 +17977,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Flash XML export (*.xml)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101114Z">
-        <seg>- exportation Flash XML (*.xml)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212717Z">
+        <seg>exportation Flash XML (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19801,8 +19849,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Help (*.xml) and Manual (*.hmxp) files</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101112Z">
-        <seg>- Files Help (*.xml) e Manual (*.hmxp)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212701Z">
+        <seg>Files Help (*.xml) e Manual (*.hmxp)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20393,8 +20441,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Iceni Infix (*.xml)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101114Z">
-        <seg>- Iceni Infix (*.xml)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212716Z">
+        <seg>Iceni Infix (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23733,8 +23781,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Insert the best fuzzy match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073934Z">
-        <seg>Insere le melior (&amp;best) concordantia partial</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212442Z">
+        <seg>Insere le melior concordantia partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -25501,6 +25549,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212401Z" creationid="MELO46" creationdate="20140416T212401Z">
+        <seg>Last Changes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T072856Z">
@@ -26831,8 +26887,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100610Z">
-        <seg>Marca segmentos non rendite (&amp;Untranslated)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212004Z">
+        <seg>Marca segmentos non rendite</seg>
       </tuv>
     </tu>
     <tu>
@@ -26889,6 +26945,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162241Z" creationid="MELO46" creationdate="20131219T162241Z">
         <seg>Statistica del concordantias per &amp;File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211441Z" creationid="MELO46" creationdate="20140416T211441Z">
+        <seg>Statistica del concordantias per File</seg>
       </tuv>
     </tu>
     <tu>
@@ -32666,6 +32730,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212349Z" creationid="MELO46" creationdate="20140416T212349Z">
+        <seg>Registrar se al Procurator (Proxy)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T222101Z">
@@ -33142,6 +33214,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T123238Z">
         <seg>Instrumentos Regex e exemplos de uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211841Z" creationid="MELO46" creationdate="20140416T211841Z">
+        <seg>Register Identical Translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -33684,8 +33764,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Restore Main Window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100639Z">
-        <seg>&amp;Restaura le fenestra principal</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212355Z">
+        <seg>Restaura le fenestra principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -34914,14 +34994,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>See the GNU General Public License for more detail.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T064633Z">
-        <seg>See the GNU General Public License for more detail.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>See the GNU General Public License for more details.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T155507Z">
@@ -35658,6 +35730,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+D</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211005Z" creationid="MELO46" creationdate="20140416T211005Z">
+        <seg>Shift+Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+G</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T052058Z">
@@ -35674,6 +35754,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211721Z" creationid="MELO46" creationdate="20140416T211721Z">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+R</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133920Z">
@@ -35686,6 +35774,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133922Z">
         <seg>Shift+Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+U</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211416Z" creationid="MELO46" creationdate="20140416T211416Z">
+        <seg>Shift+Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+V</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212143Z" creationid="MELO46" creationdate="20140416T212143Z">
+        <seg>Shift+Ctrl+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -35996,8 +36100,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Skip PO header</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100832Z">
-        <seg>&amp;Salta le testa del PO</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212521Z">
+        <seg>Salta le testa del PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -37104,6 +37208,30 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115259Z">
         <seg>Swing-Layout 1.0.2 (Licentia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211819Z" creationid="MELO46" creationdate="20140416T211819Z">
+        <seg>Cambia Character a Minuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211256Z" creationid="MELO46" creationdate="20140416T211256Z">
+        <seg>Cambia Character a Majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211829Z" creationid="MELO46" creationdate="20140416T211829Z">
+        <seg>Cambia Character a Majuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -45820,8 +45948,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Typo3 LocManager (*.xml)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101113Z">
-        <seg>- Typo3 LocManager (*.xml)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212712Z">
+        <seg>Typo3 LocManager (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46456,8 +46584,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100624Z">
-        <seg>Usa le clave "&amp;Tab" pro avantiar</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212225Z">
+        <seg>Usa le clave "Tab" pro avantiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -47062,6 +47190,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212155Z" creationid="MELO46" creationdate="20140416T212155Z">
+        <seg>Valida Tags pro le Actual Documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate tags when leaving a segment</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T091505Z">
@@ -47280,8 +47416,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Visio (*.vxd)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101116Z">
-        <seg>- Visio (*.vxd)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212722Z">
+        <seg>Visio (*.vxd)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48088,8 +48224,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>WiX Localization (*.wxl)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T192232Z">
-        <seg>- Localisation WiX (*.wxl)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212714Z">
+        <seg>Localisation WiX (*.wxl)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48456,8 +48592,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Wordfast TXML (*.txml)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101115Z">
-        <seg>- Wordfast TXML (*.txml)</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212719Z">
+        <seg>Wordfast TXML (*.txml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53723,6 +53859,22 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211854Z" creationid="MELO46" creationdate="20140416T211854Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211056Z" creationid="MELO46" creationdate="20140416T211056Z">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editSelectFuzzy1MenuItem</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133930Z">
@@ -53759,6 +53911,30 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133933Z">
         <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211804Z" creationid="MELO46" creationdate="20140416T211804Z">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211142Z" creationid="MELO46" creationdate="20140416T211142Z">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211022Z" creationid="MELO46" creationdate="20140416T211022Z">
+        <seg>editTagNextMissedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -53815,14 +53991,6 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135335Z">
         <seg>ell</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140123T223539Z">
-        <seg>ia</seg>
       </tuv>
     </tu>
     <tu>
@@ -54939,6 +55107,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211427Z" creationid="MELO46" creationdate="20140416T211427Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gotoNextUntranslatedMenuItem</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133940Z">
@@ -55127,6 +55303,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T134018Z">
         <seg>helpContentsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211651Z" creationid="MELO46" creationdate="20140416T211651Z">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211652Z" creationid="MELO46" creationdate="20140416T211652Z">
+        <seg>helpLogMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -58699,6 +58891,30 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211602Z" creationid="MELO46" creationdate="20140416T211602Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211614Z" creationid="MELO46" creationdate="20140416T211614Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211558Z" creationid="MELO46" creationdate="20140416T211558Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T134014Z">
@@ -59559,6 +59775,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T043457Z">
         <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211006Z" creationid="MELO46" creationdate="20140416T211006Z">
+        <seg>projectSingleCompileMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -62363,6 +62587,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211500Z" creationid="MELO46" creationdate="20140416T211500Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133959Z">
@@ -62375,6 +62607,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T043437Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212159Z" creationid="MELO46" creationdate="20140416T212159Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -65400,6 +65640,182 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T072202Z" creationid="MELO46" creationdate="20131224T072202Z">
         <seg>Crear le documentos rendite ( &amp;Document)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">projectCompileMenuItem</prop>
+      <prop type="next">Shift+Ctrl+D</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T210947Z" creationid="MELO46" creationdate="20140416T210947Z">
+        <seg>Crea le documentos rendite actual Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">Select Next Match</prop>
+      <prop type="next">editSelectFuzzyNextMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211236Z" creationid="MELO46" creationdate="20140416T211236Z">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsAutoCompleteCharTableMenuItem</prop>
+      <prop type="next">optionsFontSelectionMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211649Z" creationid="MELO46" creationdate="20140416T211649Z">
+        <seg>Font...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">helpLastChangesMenuItem</prop>
+      <prop type="next">helpLogMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211713Z" creationid="MELO46" creationdate="20140416T211713Z">
+        <seg>Log...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkWhitespaceCheckBoxMenuItem</prop>
+      <prop type="next">viewMarkBidiCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212123Z" creationid="MELO46" creationdate="20140416T212123Z">
+        <seg>Marca algorithmo Bidirectional de controlo characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">Menu Item Code</prop>
+      <prop type="next">viewMarkTranslatedSegmentsCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211951Z" creationid="MELO46" creationdate="20140416T211951Z">
+        <seg>Marca le segmentos Traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkNBSPCheckBoxMenuItem</prop>
+      <prop type="next">viewMarkWhitespaceCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212059Z" creationid="MELO46" creationdate="20140416T212059Z">
+        <seg>Marca un Spatio blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">gotoNextUntranslatedMenuItem</prop>
+      <prop type="next">Shift+Ctrl+U</prop>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211412Z" creationid="MELO46" creationdate="20140416T211412Z">
+        <seg>Segmento sequente Traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">gotoNextNoteMenuItem</prop>
+      <prop type="next">gotoPreviousNoteMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211909Z" creationid="MELO46" creationdate="20140416T211909Z">
+        <seg>Nota previe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">editFindInProjectMenuItem</prop>
+      <prop type="next">Ctrl+K</prop>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211050Z" creationid="MELO46" creationdate="20140416T211050Z">
+        <seg>Cerca e replacia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">editSelectFuzzyPrevMenuItem</prop>
+      <prop type="next">Ctrl+↓</prop>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211159Z" creationid="MELO46" creationdate="20140416T211159Z">
+        <seg>Selige le concordantia sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">editReplaceInProjectMenuItem</prop>
+      <prop type="next">Ctrl+↑</prop>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T211114Z" creationid="MELO46" creationdate="20140416T211114Z">
+        <seg>Selige le concordantia previe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsTagValidationMenuItem</prop>
+      <prop type="next">optionsTeamMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212325Z" creationid="MELO46" creationdate="20140416T212325Z">
+        <seg>Equipa... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">Menu Item Code</prop>
+      <prop type="next">Shift+Ctrl+V</prop>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212138Z" creationid="MELO46" creationdate="20140416T212138Z">
+        <seg>Valida le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/EditingBehavior.xml</prop>
+      <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</prop>
+      <prop type="next">If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</prop>
+      <tuv lang="EN">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212456Z" creationid="MELO46" creationdate="20140416T212456Z">
+        <seg>Tenta de converter le numeros quando insere un concordantia confuse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/EditingBehavior.xml</prop>
+      <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</prop>
+      <prop type="next">OmegaT leaves the editing field blank.</prop>
+      <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T212420Z" creationid="MELO46" creationdate="20140416T212420Z">
+        <seg>Lassa le segmento vacue</seg>
       </tuv>
     </tu>
   </body>
