@@ -17385,8 +17385,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>External TMXs...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100635Z">
-        <seg>TM&amp;Xs externe...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T213943Z">
+        <seg>TMXs externe...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17835,6 +17835,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095138Z">
         <seg>Impossibile cargar le filtro '{0}' ab '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T214234Z" creationid="MELO46" creationdate="20140416T214234Z">
+        <seg>Entratas filtro in editor conforme al recerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -18307,6 +18315,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130331T204155Z">
         <seg>Pro cata combination de idioma, un file glossario (.txt) esseva create pro te continente alicun parolas pro le combination sollicite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T214459Z" creationid="MELO46" creationdate="20140416T214407Z">
+        <seg>Pro plus facile navigation in le recerca resultato imponite, tu pote applicar le recerca al editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32788,8 +32804,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Proxy login...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100638Z">
-        <seg>Registrar se al &amp;Procurator (Proxy)...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T213952Z">
+        <seg>Registrar se al Procurator (Proxy)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33444,8 +33460,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remove Tags</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T121600Z">
-        <seg>Remove le Ta&amp;gs</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T213826Z">
+        <seg>Remove le Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -33620,16 +33636,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Replace with match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102155Z">
-        <seg>R&amp;eimplacia con le concordantia</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T214040Z">
+        <seg>Reimplacia con le concordantia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Replace with source</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102158Z">
-        <seg>Reim&amp;placia con fonte</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T214044Z">
+        <seg>Reimplacia con fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -37943,8 +37959,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>Team...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T125628Z">
-        <seg>Equipa... (Tea&amp;m)...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T213937Z">
+        <seg>Equipa... </seg>
       </tuv>
     </tu>
     <tu>
@@ -54027,6 +54043,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T214104Z" creationid="MELO46" creationdate="20140416T214104Z">
+        <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>en.wikipedia.org/wiki/Biocoenosis&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T063058Z" creationid="MELO" creationdate="20131219T063058Z">
@@ -65863,6 +65887,17 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">With &lt;e3&gt;TransTips/Exact Match &lt;/e3&gt; checked, only complete words will be checked, otherwise parts of words will be matched as well.</prop>
+      <prop type="next">Shows the dialog to modify the text display font.</prop>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T213916Z" creationid="MELO46" creationdate="20140416T213916Z">
+        <seg>Font...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/Menu.xml</prop>
       <prop type="prev">If checked, non-breakable spaces in the segment will be displayed with a grey background.</prop>
       <prop type="next">Setting the Display Modification option to &lt;e0&gt;Selected&lt;/e0&gt; will display the time and the author of the last change in the current segment.</prop>
       <tuv lang="EN">
@@ -65870,6 +65905,28 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T213804Z" creationid="MELO46" creationdate="20140416T213804Z">
         <seg>Information de Modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">reserved for future use by plugins</prop>
+      <prop type="next">Allows you to activate/deactivate &lt;e0&gt;TransTips &lt;/e0&gt;feature and set its option&lt;e1&gt; Exact Match.&lt;/e1&gt; With &lt;e2&gt;TransTips&lt;/e2&gt; activated a right click on a highlighted word in the source will open a pop up menu with the glossary entries for the word you clicked.</prop>
+      <tuv lang="EN">
+        <seg>TransTips</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T213906Z" creationid="MELO46" creationdate="20140416T213906Z">
+        <seg>TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/doc_src/en/Searches.xml</prop>
+      <prop type="prev">The following search methods are available:</prop>
+      <prop type="next">Search for segments containing the exact string you specified.</prop>
+      <tuv lang="EN">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140416T214141Z" creationid="MELO46" creationdate="20140416T214141Z">
+        <seg>Cerca Exacte</seg>
       </tuv>
     </tu>
   </body>
