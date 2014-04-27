@@ -27008,8 +27008,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140416T213739Z">
-        <seg>Marca le segmentos Traducite</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140427T153132Z">
+        <seg>Marca le Segmentos Rendite</seg>
       </tuv>
     </tu>
     <tu>
@@ -64865,14 +64865,25 @@ crear su classificator de configuration.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_Keyboard.xml</prop>
+      <prop type="prev">page down through the document</prop>
+      <prop type="next">move to the beginning of the line in the segment</prop>
+      <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140427T153042Z" creationid="MELO46" creationdate="20140427T153042Z">
+        <seg>A domo*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">OmegaT_2.6.3_07_L10N_Full/OmegaT_2.6.3_07_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
       <prop type="prev">viewMarkUntranslatedSegmentsCheckBoxMenuItem</prop>
       <prop type="next">viewDisplaySegmentSourceCheckBoxMenuItem</prop>
       <tuv lang="EN">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T181045Z" creationid="MELO46" creationdate="20140227T181045Z">
-        <seg>Monstra le segmentos primari</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140427T153149Z" creationid="MELO46" creationdate="20140227T181045Z">
+        <seg>Monstra le segmentos fonte</seg>
       </tuv>
     </tu>
     <tu>
