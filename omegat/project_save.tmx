@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20433,8 +20433,9 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>I have been talking about it for years and using it as an example of where Greenpeace was totally wrong on an issue,</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140419T072458Z" creationid="MELO46" creationdate="20140419T065108Z">
-        <seg>Io ha parlate re lo desde annos e usante lo qual exemplo quo Greenpeace esseva totalmente incorrecte re un question,</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140519T205242Z" creationid="MELO46" creationdate="20140419T065108Z">
+        <seg>io ha parlate re isto per annos e usante lo, qual exemplo, como Greenpeace esseva totalmente incorrecte re un question,
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -52193,8 +52194,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>and then encourage these activists in Philippines to destroy the golden rice field trials I decided to get active,</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140419T065040Z" creationid="MELO46" creationdate="20140419T064820Z">
-        <seg>e alora incoragia iste activistas in Philippinas a destruer le essayos in campo del golden rice io decideva facer me active,</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140519T205032Z" creationid="MELO46" creationdate="20140419T064820Z">
+        <seg>e incoragiar iste activistas in Philippinas a destruer le essayos in campo del “Golden rice”, io decideva de facer me active,</seg>
       </tuv>
     </tu>
     <tu>
@@ -52241,8 +52242,9 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>and there's a long history of this, so last year when Greenpeace decided to trash the scientist who did the feeding trials on children to prove the golden rice works</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140419T072008Z" creationid="MELO46" creationdate="20140419T064704Z">
-        <seg>e il ha un longe historia re isto, assi le anno passate ubi Greenpeace decideva de vilipender le scientista qui ha facite le essayos de sustentamento sur le pueros, pro provar que le golden rice functiona</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140519T204948Z" creationid="MELO46" creationdate="20140419T064704Z">
+        <seg>e il ha un longe historia re isto, assi le anno passate, quando Greenpeace decideva de vilipender le scientista qui ha facite le essayos de sustentamento del pueros, pro provar que le “Golden rice” functiona
+a</seg>
       </tuv>
     </tu>
     <tu>
@@ -53273,8 +53275,9 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>but this time I decided to act, and so my brother Michael and I, and other members of our families are sons and daughters and wives came together and formed the "Allow Golden Rice Society"</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140419T072531Z" creationid="MELO46" creationdate="20140419T070421Z">
-        <seg>alora io decideva de ager, itaque mi  fratre Michael e io, e altere membros de nostre familias e filios e filias e sposas es venite insimul e formava le "Allow Golden Rice Society"</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140519T205311Z" creationid="MELO46" creationdate="20140419T070421Z">
+        <seg>sed alora io decideva de ager, itaque mi fratre Michael e io, e altere membros de nostre familias e filios e filias e sposas es venite insimul e formava le "Allow Golden Rice Society"
+</seg>
       </tuv>
     </tu>
     <tu>
