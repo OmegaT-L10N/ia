@@ -2086,8 +2086,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- Create a TMX file containing all strings, with identical source and target&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T170712Z">
-        <seg>- Create a TMX file continente omne le textos, con identic origine e destination&lt;br4/&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T065815Z">
+        <seg>- Crear un file TMX continente omne le textos, con fonte e destination identic&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10472,8 +10472,8 @@ Le file TMX non essera cargate.</seg>
       <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T165254Z">
-        <seg>Un instrumento de alineamento intelligente a linea de commando pro le production de files memoria de traduction ex precedente textos e lor traductiones.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T065716Z">
+        <seg>Un application de alineamento intelligente, a linea de commando, pro le production de files memoria de traduction ex textos previe e lor traductiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29586,8 +29586,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T185250Z">
-        <seg>OmegaT ha un Gruppo del usator multo active, supportante e multilingual &lt;a0&gt;ci&lt;/a0&gt;, al qual Usatores son fortemente incitate a adherer.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T070220Z">
+        <seg>OmegaT ha un Gruppo del usator multo active, supportante e multilingual &lt;a0&gt;ci&lt;/a0&gt;, al qual le usatores son fortemente incitate a adherer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42309,8 +42309,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T054224Z">
-        <seg>Le Gruppo del usatores alsi servi como le principal puncto de contacto inter usatores e equipa del projecto.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T070354Z">
+        <seg>Le Gruppo del usator alsi servi como le principal puncto de contacto inter usatores e equipa del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47629,8 +47629,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Valid XHTML</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130505T082952Z">
-        <seg>Valid XHTML</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T065934Z">
+        <seg>XHTML valide </seg>
       </tuv>
     </tu>
     <tu>
