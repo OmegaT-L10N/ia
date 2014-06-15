@@ -1964,6 +1964,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Firefox, homepage set to Apertium Wiki</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T205837Z" creationid="MELO46" creationdate="20140615T205837Z">
+        <seg>* Firefox, con pagina domo prefixate a Apertium Wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* From the command line (all systems):</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094655Z">
@@ -2036,10 +2044,34 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* VirtualBox 4.3.10 Guest Additions</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T205447Z" creationid="MELO46" creationdate="20140615T205447Z">
+        <seg>*Additiones del Hospite de VirtualBox 4.3.10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Windows users:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T221210Z">
         <seg>*Usatores de Windows </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* XChat, set to automatically connect to Freenode #apertium as nick ap-vbox (appending -2 or -3 on conflict), preconfigured in UTF-8 mode</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T205721Z" creationid="MELO46" creationdate="20140615T205721Z">
+        <seg>* XChat, prefixate a connecter automaticamente a Freenode #apertium como nick ap-vbox (appending -2 o -3 sur conflicto), pre-configurate in modo UTF-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Xubuntu 14.04, so Xfce4 instead of Unity (Ubuntu's fancy-yet-useless interface), trimmed of all non-essential packages</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T205341Z" creationid="MELO46" creationdate="20140615T205341Z">
+        <seg>* Xubuntu 14.04, assi Xfce4 in loco de Unity (Le interfacie ornamento-quamquam-inutile de Ubuntu), nettate de omne le pacchettos non essential</seg>
       </tuv>
     </tu>
     <tu>
