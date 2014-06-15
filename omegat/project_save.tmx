@@ -1176,6 +1176,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075721Z" creationid="MELO46" creationdate="20140615T075721Z">
+        <seg>&amp;Remove le lineas de characteres non rendite in le files de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162442Z">
@@ -15831,6 +15839,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074831Z" creationid="MELO46" creationdate="20140615T074831Z">
+        <seg>Vole tu continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T083044Z">
@@ -25151,6 +25167,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075613Z" creationid="MELO46" creationdate="20140615T075613Z">
+        <seg>Optiones del filtro pro Java Resource Bundles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140124T232505Z">
@@ -26312,6 +26336,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075511Z" creationid="MELO46" creationdate="20140615T075511Z">
+        <seg>Longitude del linea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lingala</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140458Z">
@@ -27368,6 +27400,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075529Z" creationid="MELO46" creationdate="20140615T075529Z">
+        <seg>Longitude del linea Maxime:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095104Z">
@@ -27964,6 +28004,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T210822Z">
         <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075033Z" creationid="MELO46" creationdate="20140615T075033Z">
+        <seg>Optiones filtro Mozilla DTD</seg>
       </tuv>
     </tu>
     <tu>
@@ -31256,6 +31304,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130221T155216Z">
         <seg>Menu Optiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075451Z" creationid="MELO46" creationdate="20140615T075451Z">
+        <seg>Optiones pro imponer le longitude del linea in le documentos de destination (0 = nulle limite)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35146,6 +35202,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T145714Z" creationid="MELO46" creationdate="20140109T145714Z">
         <seg>Le recercas son effectuate per arrangiamento initial in ambe le sectiones fonte e de destination del projecto, sed tu pote can limitar tu recerca al texto fonte sol o al texto de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches can be performed in the source and/or in the translation and/or in notes and/or in comments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075002Z" creationid="MELO46" creationdate="20140615T075002Z">
+        <seg>Le recercas pote esser effectuate in le fonte vel in le translation vel in le notas vel in le commentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39255,6 +39319,14 @@ vice essera usate le classificator actual.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T200519Z">
         <seg>On pote render, directemente in OmegaT, le files in formato Microsoft Office XML.; plus information pote esser trovate &lt;a0&gt;hic&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075313Z" creationid="MELO46" creationdate="20140615T075313Z">
+        <seg>Le filtro Mozilla DTD generava un exception:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49567,6 +49639,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T054609Z">
         <seg>Tu es un usator de OmegaT e ha un requesta ab un cliente pro delivrar un traduction in le formato de file de Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074801Z" creationid="MELO46" creationdate="20140615T074801Z">
+        <seg>Tu va a modificar {0} segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67776,6 +67856,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T073318Z" creationid="MELO46" creationdate="20140615T073318Z">
         <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MOZDTD_FILTER_REMOVE_STRINGS_UNTRANSLATED</prop>
+      <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075122Z" creationid="MELO46" creationdate="20140615T075122Z">
+        <seg>&amp;Remove lineas de characteres non rendite in le files de destination</seg>
       </tuv>
     </tu>
     <tu>
