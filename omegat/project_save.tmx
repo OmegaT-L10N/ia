@@ -592,6 +592,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Character Table...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143031Z" creationid="MELO46" creationdate="20140615T143031Z">
+        <seg>Tabella del &amp;Character...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Character table...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162426Z" creationid="MELO46" creationdate="20131219T162426Z">
@@ -748,6 +756,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094743Z">
         <seg>&amp;Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142939Z" creationid="MELO46" creationdate="20140615T142939Z">
+        <seg>&amp;Fini</seg>
       </tuv>
     </tu>
     <tu>
@@ -1184,6 +1200,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142834Z" creationid="MELO46" creationdate="20140615T142746Z">
+        <seg>&amp;Replacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142922Z" creationid="MELO46" creationdate="20140615T142922Z">
+        <seg>&amp;Replacia le Successivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162442Z">
@@ -1252,6 +1284,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094932Z">
         <seg>Me&amp;Sura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142900Z" creationid="MELO46" creationdate="20140615T142900Z">
+        <seg>&amp;Salta</seg>
       </tuv>
     </tu>
     <tu>
@@ -8436,32 +8476,32 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Dictionary pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T074447Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Dictionario&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142345Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Dictionario&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T073406Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Modifica (Editor)&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142307Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Modifica (Editor)&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T081805Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Concordantias Partial&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142318Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Concordantias Partial&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt; &lt;t2&gt;Customizing&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T074129Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del concordantias partial (fuzzy)&lt;/s1&gt; &lt;t2&gt;Personalisation&lt;/t2&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142327Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del concordantias partial (fuzzy)&lt;/s1&gt; &lt;t2&gt;Personalisation&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8476,8 +8516,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Machine Translation pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T074804Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Traduction automatic (MT)&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142401Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Traduction automatic (MT)&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8492,8 +8532,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T073757Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del concordantias - figura&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142253Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del concordantias - figura&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8508,8 +8548,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Multiple Translations pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T074551Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Traductiones multiple&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142354Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Traductiones multiple&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8524,16 +8564,16 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Project files&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T074928Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Files del Projecto&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142408Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Files del Projecto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Search pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T075046Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Recerca&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142429Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Recerca&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14341,6 +14381,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095450Z">
         <seg>Crea un traduction alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143009Z" creationid="MELO46" creationdate="20140615T143009Z">
+        <seg>Crea le &amp;Documento Rendite Actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -27114,6 +27162,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manfred Martin</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142734Z" creationid="MELO46" creationdate="20140615T142734Z">
+        <seg>Manfred Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manx</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140646Z">
@@ -27966,6 +28022,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095319Z">
         <seg>Move a basso (Do&amp;wn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move First</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143101Z" creationid="MELO46" creationdate="20140615T143101Z">
+        <seg>Move al Primo</seg>
       </tuv>
     </tu>
     <tu>
@@ -33500,6 +33564,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094743Z">
         <seg>Re&amp;move le Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142842Z" creationid="MELO46" creationdate="20140615T142815Z">
+        <seg>Re&amp;placia Toto</seg>
       </tuv>
     </tu>
     <tu>
@@ -68342,6 +68414,26 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T121457Z" creationid="MELO46" creationdate="20140615T121457Z">
         <seg>Lassa le segmento vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PF_MOVE_DOWN</prop>
+      <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143204Z" creationid="MELO46" creationdate="20140615T143204Z">
+        <seg>Move a Basso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PF_MOVE_UP</prop>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143126Z" creationid="MELO46" creationdate="20140615T143126Z">
+        <seg>Move in alto</seg>
       </tuv>
     </tu>
   </body>
