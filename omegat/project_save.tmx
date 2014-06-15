@@ -1956,6 +1956,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* 617277916 bytes (589 MB - smaller than an Ubuntu ISO !)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T204451Z" creationid="MELO46" creationdate="20140615T204451Z">
+        <seg>* 617277916 bytes (589 MB - minor que un Ubuntu ISO !)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* From the command line (all systems):</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094655Z">
@@ -2864,6 +2872,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T122140Z">
         <seg>... concorda le sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>...or if you prefer a ZIP file:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T204543Z" creationid="MELO46" creationdate="20140615T204543Z">
+        <seg>...o si tu prefere a file ZIP:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8734,6 +8750,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105342Z">
         <seg>==============================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==Contents==</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T204726Z" creationid="MELO46" creationdate="20140615T204726Z">
+        <seg>==Contentos==</seg>
       </tuv>
     </tu>
     <tu>
@@ -36954,6 +36978,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since so many have problems getting Apertium to run on Windows or OS X, or are limited in bandwidth, [[User:Tino_Didriksen|Tino Didriksen]] has put together a ready-to-use VirtualBox VDI:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T204417Z" creationid="MELO46" creationdate="20140615T204417Z">
+        <seg>Pois que tante ha problemas in le execution de Apertium sur Windows o  OS X, o es limitate in largessa de banda, [[La usator:Tino_Didriksen|Tino Didriksen]] ha ponite insimul un CassaVirtual (VirtualBox) VDI preste al uso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T151912Z">
@@ -40109,6 +40141,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140128T103750Z" creationid="MELO46" creationdate="20140128T103750Z">
         <seg>Le application segmenta le texto secundo un series de regulas, e tum monstra le duos textos alineate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The archive decompresses to a 4.28 GB vdi file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T204701Z" creationid="MELO46" creationdate="20140615T204701Z">
+        <seg>Le archivo decomprime se a un file vdi de 4,28 GB.</seg>
       </tuv>
     </tu>
     <tu>
