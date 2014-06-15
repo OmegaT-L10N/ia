@@ -4554,6 +4554,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T071048Z" creationid="MELO46" creationdate="20140615T071048Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T155029Z" creationid="MELO46" creationdate="20140227T155029Z">
@@ -32454,6 +32462,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T071453Z" creationid="MELO46" creationdate="20140615T071453Z">
+        <seg>Pulsa le button &lt;e0&gt;Filtro&lt;/e0&gt; sur le fundo pro limitar le entratas monstrate in le fenestra Modifica pro illos que concorda le recerca currente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt;Enter&lt;/k0&gt; will move the Editor pane to the top of the file selected</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T145143Z">
@@ -43201,8 +43217,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This HOWTO aims to provide information in this area.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T091605Z">
-        <seg>Iste GUIDA aspira a provider information in iste area.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T070707Z">
+        <seg>Iste GUIDA aspira a provider information re iste area.</seg>
       </tuv>
     </tu>
     <tu>
