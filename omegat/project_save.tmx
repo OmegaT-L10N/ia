@@ -11412,8 +11412,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100757Z">
-        <seg>Tenta de converter le &amp;numeros quando insere un concordantia confuse</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121648Z">
+        <seg>Tenta de converter le numeros quando insere un concordantia partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -68247,6 +68247,28 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">optionsAutoCompleteCharTableMenuItem</prop>
+      <prop type="next">optionsFontSelectionMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121359Z" creationid="MELO46" creationdate="20140615T121359Z">
+        <seg>Typo del character...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">helpLastChangesMenuItem</prop>
+      <prop type="next">helpLogMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121441Z" creationid="MELO46" creationdate="20140615T121441Z">
+        <seg>Log...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
       <prop type="prev">viewMarkWhitespaceCheckBoxMenuItem</prop>
       <prop type="next">viewMarkBidiCheckBoxMenuItem</prop>
       <tuv lang="EN">
@@ -68298,6 +68320,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T120844Z" creationid="MELO46" creationdate="20140615T120844Z">
         <seg>Selige le Concordantia Previe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/EditingBehavior.xml</prop>
+      <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</prop>
+      <prop type="next">OmegaT leaves the editing field blank.</prop>
+      <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121457Z" creationid="MELO46" creationdate="20140615T121457Z">
+        <seg>Lassa le segmento vacue</seg>
       </tuv>
     </tu>
   </body>
