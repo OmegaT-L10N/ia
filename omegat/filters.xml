@@ -155,4 +155,7 @@
     <filter className="org.omegat.filters3.xml.visio.VisioFilter" enabled="true">
         <files sourceFilenameMask="*.vdx" targetFilenamePattern="${filename}"/>
     </filter>
+    <filter className="org.omegat.filters2.mozlang.MozillaLangFilter" enabled="true">
+        <files sourceFilenameMask="*.lang" targetFilenamePattern="${filename}"/>
+    </filter>
 </filters>
