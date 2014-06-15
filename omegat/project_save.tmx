@@ -8906,6 +8906,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072249Z" creationid="MELO46" creationdate="20140615T072249Z">
+        <seg>Un file pote haber nulle entratas concordante, assi illo monstrara se vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T114502Z" creationid="MELO46" creationdate="20140109T114502Z">
@@ -9118,6 +9126,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T152613Z">
         <seg>Un function de recerca scruta le textos rendite anteriormente (sia in le documento actual, sia in le eventual memorias ex traductiones precedente), de maniera que le usator pote vider como un parola o un phrase esseva rendite anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072112Z" creationid="MELO46" creationdate="20140615T072112Z">
+        <seg>Un recerca pote esser limitate a 1000 articulos, assi si tu recerca sur un phrase commun, le editor monstra solmente illes 1000 entratas concordante, e non omne les entratas que concorda le criterios de recerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16799,6 +16815,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enrique Estévez Fernández</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072605Z" creationid="MELO46" creationdate="20140615T072605Z">
+        <seg>Enrique Estévez Fernández</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T224715Z">
@@ -20796,6 +20820,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155818Z" creationid="MELO46" creationdate="20131226T155818Z">
         <seg>If a license document contains</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072400Z" creationid="MELO46" creationdate="20140615T072400Z">
+        <seg>Si un recerca elimina le duplicatos, ille duplicatos non essera in le Editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27972,6 +28004,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140833Z">
         <seg>Māori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T071729Z" creationid="MELO46" creationdate="20140615T071729Z">
+        <seg>NB:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37624,6 +37664,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Swing-Layout 1.0.4 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072658Z" creationid="MELO46" creationdate="20140615T072658Z">
+        <seg>Swing-Layout 1.0.2 (Licentia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T211819Z" creationid="MELO46" creationdate="20140416T211819Z">
@@ -45455,6 +45503,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072514Z" creationid="MELO46" creationdate="20140615T072514Z">
+        <seg>Pro remover un filtro, pressa le button &lt;e0&gt;Remove filtro&lt;/e0&gt;, o recarga le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove all traces of OmegaT from your system:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T051327Z">
@@ -50105,6 +50161,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T072901Z">
         <seg>Tu pote usar un procedura simile pro crear  un button pro tu macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T071715Z" creationid="MELO46" creationdate="20140615T071715Z">
+        <seg>Tu pote usar le navigation normal pro adir per exemplo le segmento (non rendite) successive que concorda le criterios de recerca.</seg>
       </tuv>
     </tu>
     <tu>
