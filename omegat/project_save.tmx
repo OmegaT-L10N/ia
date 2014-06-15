@@ -10162,6 +10162,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All passwords set to 'apertium' for when root is needed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T210525Z" creationid="MELO46" creationdate="20140615T210525Z">
+        <seg>Omne le contrasignos prefixate a 'apertium' pro quando necessita root.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All rights granted under this License are granted for the term of</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155725Z" creationid="MELO46" creationdate="20131226T155725Z">
@@ -24732,6 +24740,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130705T185708Z">
         <seg>Illo alsi monstra le numero de concordantias partial e del glossario pro le segmento actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It automatically logs in to a 1024x768 desktop.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T210340Z" creationid="MELO46" creationdate="20140615T210340Z">
+        <seg>Illo connecte se automaticamente in un scriptorio de1024x768 punctos.</seg>
       </tuv>
     </tu>
     <tu>
