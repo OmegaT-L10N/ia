@@ -4586,6 +4586,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T120708Z" creationid="MELO46" creationdate="20140615T120708Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T155029Z" creationid="MELO46" creationdate="20140227T155029Z">
@@ -14961,6 +14969,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T120958Z" creationid="MELO46" creationdate="20140615T120958Z">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T171448Z">
@@ -15539,8 +15555,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140416T212041Z">
-        <seg>Monstra le segmentos fonte</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121140Z">
+        <seg>Monstra le Segmentos Fte</seg>
       </tuv>
     </tu>
     <tu>
@@ -32690,8 +32706,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Previous Note</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140416T213716Z">
-        <seg>Nota previe</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121111Z">
+        <seg>Nota Previe</seg>
       </tuv>
     </tu>
     <tu>
@@ -68205,6 +68221,83 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T084305Z" creationid="MELO46" creationdate="20140615T084305Z">
         <seg>Informationes legal e Recognitiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_Keyboard.xml</prop>
+      <prop type="prev">page down through the document</prop>
+      <prop type="next">move to the beginning of the line in the segment</prop>
+      <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T120619Z" creationid="MELO46" creationdate="20140615T120619Z">
+        <seg>A domo*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">projectCompileMenuItem</prop>
+      <prop type="next">Shift+Ctrl+D</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T120809Z" creationid="MELO46" creationdate="20140615T120809Z">
+        <seg>Crea le Documentos Rendite Actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkWhitespaceCheckBoxMenuItem</prop>
+      <prop type="next">viewMarkBidiCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121243Z" creationid="MELO46" creationdate="20140615T121243Z">
+        <seg>Marca le Algorithmo Bidirectional de Controlo Characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkNBSPCheckBoxMenuItem</prop>
+      <prop type="next">viewMarkWhitespaceCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121204Z" creationid="MELO46" creationdate="20140615T121204Z">
+        <seg>Marca le Spatio blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">gotoNextUntranslatedMenuItem</prop>
+      <prop type="next">Shift+Ctrl+U</prop>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T121052Z" creationid="MELO46" creationdate="20140615T121052Z">
+        <seg>Segmento Sequente Traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">editSelectFuzzyPrevMenuItem</prop>
+      <prop type="next">Ctrl+↓</prop>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T120919Z" creationid="MELO46" creationdate="20140615T120919Z">
+        <seg>Selige le Concordantia Sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">editReplaceInProjectMenuItem</prop>
+      <prop type="next">Ctrl+↑</prop>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T120844Z" creationid="MELO46" creationdate="20140615T120844Z">
+        <seg>Selige le Concordantia Previe</seg>
       </tuv>
     </tu>
   </body>
