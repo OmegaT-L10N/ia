@@ -1160,6 +1160,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073252Z" creationid="MELO46" creationdate="20140615T073252Z">
+        <seg>&amp;Remove le Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162442Z">
@@ -34998,6 +35006,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073550Z" creationid="MELO46" creationdate="20140615T073550Z">
+        <seg>Cerca e Replacia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for segments containing all keywords you specified, in any order.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T231118Z" creationid="MELO46" creationdate="20140106T231118Z">
@@ -37596,6 +37612,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233802Z">
         <seg>Sundanese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge-for_OmegaT.jar (LGPL license)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072735Z" creationid="MELO46" creationdate="20140615T072735Z">
+        <seg>SuperTMXMerge-for_OmegaT.jar (Licentia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56263,6 +56287,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>groovy-all-2.2.2.jar (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072826Z" creationid="MELO46" creationdate="20140615T072826Z">
+        <seg>groovy-all-2.2.2.jar (Licentia Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gu</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135414Z">
@@ -67626,6 +67658,126 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T214141Z" creationid="MELO46" creationdate="20140416T214141Z">
         <seg>Cerca Exacte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">BUTTON_FILTER_REPLACE_NEXT</prop>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073228Z" creationid="MELO46" creationdate="20140615T073228Z">
+        <seg>&amp;Reimplacia le Proximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">BUTTON_FILTER_SKIP</prop>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073121Z" creationid="MELO46" creationdate="20140615T073121Z">
+        <seg>&amp;Salta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">BUTTON_REMOVE_2</prop>
+      <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073058Z" creationid="MELO46" creationdate="20140615T073058Z">
+        <seg>R&amp;emove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">BUTTON_REPLACE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T072947Z" creationid="MELO46" creationdate="20140615T072947Z">
+        <seg>&amp;Reimplacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">BUTTON_REPLACE_ALL</prop>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073035Z" creationid="MELO46" creationdate="20140615T073035Z">
+        <seg>Reim&amp;placia Toto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">ERROR_TITLE</prop>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073318Z" creationid="MELO46" creationdate="20140615T073318Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MW_OPTIONSMENU_AUTOCOMPLETE_CHARTABLE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Character Table...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073618Z" creationid="MELO46" creationdate="20140615T073618Z">
+        <seg>Tabella del &amp;Characteres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PF_MOVE_DOWN</prop>
+      <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073722Z" creationid="MELO46" creationdate="20140615T073722Z">
+        <seg>Move in basso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PF_MOVE_FIRST</prop>
+      <tuv lang="EN">
+        <seg>Move First</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073653Z" creationid="MELO46" creationdate="20140615T073653Z">
+        <seg>Move in Prime loco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PF_MOVE_UP</prop>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073704Z" creationid="MELO46" creationdate="20140615T073704Z">
+        <seg>Move in alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_ERROR</prop>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073339Z" creationid="MELO46" creationdate="20140615T073339Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_SINGLE_COMPILE</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073501Z" creationid="MELO46" creationdate="20140615T073501Z">
+        <seg>Crea le &amp;Documento rendite actual</seg>
       </tuv>
     </tu>
   </body>
