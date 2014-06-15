@@ -856,6 +856,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074510Z" creationid="MELO46" creationdate="20140615T074510Z">
+        <seg>&amp;In traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Index entries</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095203Z">
@@ -890,8 +898,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095050Z">
-        <seg>Cerca parola clave (&amp;Keyword) </seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074043Z">
+        <seg>Cerca con parola clave (&amp;Keyword) </seg>
       </tuv>
     </tu>
     <tu>
@@ -16313,7 +16321,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>ERROR: {0}</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T131714Z">
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073933Z">
         <seg>ERROR:{0}</seg>
       </tuv>
     </tu>
@@ -23116,6 +23124,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074122Z" creationid="MELO46" creationdate="20140615T074122Z">
+        <seg>In le commentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In conjunction with the te-st-notags script, this provides a separate window in which tags are not displayed.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T170535Z">
@@ -23192,6 +23208,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095053Z">
         <seg>In no&amp;tas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074056Z" creationid="MELO46" creationdate="20140615T074056Z">
+        <seg>In le notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -38513,6 +38537,14 @@ IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074713Z" creationid="MELO46" creationdate="20140615T074713Z">
+        <seg>Replacia Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095059Z">
@@ -46023,6 +46055,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074628Z" creationid="MELO46" creationdate="20140615T074602Z">
+        <seg>Traducite (Trans&amp;lated) o nontraducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TransTips</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T120231Z" creationid="MELO46" creationdate="20131227T120231Z">
@@ -46515,6 +46555,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095154Z">
         <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074659Z" creationid="MELO46" creationdate="20140615T074659Z">
+        <seg>No&amp;ntraducite</seg>
       </tuv>
     </tu>
     <tu>
@@ -67712,6 +67760,16 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">CT_STATS_Files</prop>
+      <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073810Z" creationid="MELO46" creationdate="20140615T073810Z">
+        <seg>#Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">ERROR_TITLE</prop>
       <tuv lang="EN">
         <seg>Error</seg>
@@ -67728,6 +67786,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T073618Z" creationid="MELO46" creationdate="20140615T073618Z">
         <seg>Tabella del &amp;Characteres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">NDC_SELECT_UNIQUE_TITLE</prop>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073947Z" creationid="MELO46" creationdate="20140615T073947Z">
+        <seg>Error</seg>
       </tuv>
     </tu>
     <tu>
@@ -67752,12 +67820,102 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PF_MOVE_LAST</prop>
+      <tuv lang="EN">
+        <seg>Move Last</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073755Z" creationid="MELO46" creationdate="20140615T073755Z">
+        <seg>Move in Ultimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">PF_MOVE_UP</prop>
       <tuv lang="EN">
         <seg>Move Up</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T073704Z" creationid="MELO46" creationdate="20140615T073704Z">
         <seg>Move in alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PP_BUTTON_BROWSE_SRC</prop>
+      <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T073910Z" creationid="MELO46" creationdate="20140615T073910Z">
+        <seg>&amp;Browse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_CASE_SENSITIVE</prop>
+      <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074324Z" creationid="MELO46" creationdate="20140615T074324Z">
+        <seg>Sensibile al m&amp;ajuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_CHANGED_AFTER</prop>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074212Z" creationid="MELO46" creationdate="20140615T074212Z">
+        <seg>Mutate post::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_REPLACE_TEXT</prop>
+      <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074029Z" creationid="MELO46" creationdate="20140615T074029Z">
+        <seg>Reimplacia con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_REPLACE_UNTRANSLATED</prop>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074453Z" creationid="MELO46" creationdate="20140615T074453Z">
+        <seg>No&amp;ntraducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074418Z" creationid="MELO46" creationdate="20140615T074418Z">
+        <seg>&amp;Glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_MEMORY</prop>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074356Z" creationid="MELO46" creationdate="20140615T074356Z">
+        <seg>Memoria (Memor&amp;y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_TMS</prop>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T074407Z" creationid="MELO46" creationdate="20140615T074407Z">
+        <seg>T&amp;Ms</seg>
       </tuv>
     </tu>
     <tu>
