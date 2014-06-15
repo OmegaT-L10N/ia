@@ -10434,6 +10434,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080534Z" creationid="MELO46" creationdate="20140615T080534Z">
+        <seg>Un error occurreva durante le tentativa de execution del processo de consola: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T151517Z" creationid="MELO46" creationdate="20140109T151517Z">
@@ -13430,6 +13438,16 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094706Z">
         <seg>Le codice esseva contribuite ab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075939Z" creationid="MELO46" creationdate="20140615T075939Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -22804,6 +22822,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075939Z" creationid="MELO46" creationdate="20140615T075939Z">
+        <seg>Ignora le attributos type e ctype quando construe vias breve de tag &lt;&amp;bpt&gt; and &lt;ept&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import From Media&amp;Wiki...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094753Z">
@@ -27154,8 +27180,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T123255Z">
-        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080315Z">
+        <seg>Marca le Characteres de Controlo Algorithmo &amp;Bidirectional </seg>
       </tuv>
     </tu>
     <tu>
@@ -27180,6 +27206,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094908Z">
         <seg>Marca segmentos non rendite (&amp;Untranslated)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080158Z" creationid="MELO46" creationdate="20140615T080158Z">
+        <seg>Marca le Segmentos Auto-Populate</seg>
       </tuv>
     </tu>
     <tu>
@@ -27588,6 +27622,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T103444Z">
         <seg>Microsoft Word, Excel, Powerpoint (.docx, .xlsx, .pptx)&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080749Z" creationid="MELO46" creationdate="20140615T080749Z">
+        <seg>Mine</seg>
       </tuv>
     </tu>
     <tu>
@@ -34782,6 +34824,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080054Z" creationid="MELO46" creationdate="20140615T080054Z">
+        <seg>Salvar le statos auto-populate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save the PDF.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T092941Z">
@@ -34978,6 +35028,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T222121Z">
         <seg>Script &amp;Lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080405Z" creationid="MELO46" creationdate="20140615T080405Z">
+        <seg>Resultato del script</seg>
       </tuv>
     </tu>
     <tu>
@@ -36066,6 +36124,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233147Z">
         <seg>Serbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080731Z" creationid="MELO46" creationdate="20140615T080731Z">
+        <seg>Server (original)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080758Z" creationid="MELO46" creationdate="20140615T080758Z">
+        <seg>Server (renovate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37700,6 +37774,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233802Z">
         <seg>Sundanese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge-for_OmegaT.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075953Z" creationid="MELO46" creationdate="20140615T075953Z">
+        <seg>SuperTMXMerge-for_OmegaT.jar (Licentia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50994,8 +51076,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>[Fuzzy]</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095439Z">
-        <seg>[Confuse]</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080331Z">
+        <seg>[Partial]</seg>
       </tuv>
     </tu>
     <tu>
@@ -55659,6 +55741,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094651Z">
         <seg>esse exponite le extensiones del files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080428Z" creationid="MELO46" creationdate="20140615T080428Z">
+        <seg>extensiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67790,6 +67880,46 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_ABBREVIATION</prop>
+      <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080645Z" creationid="MELO46" creationdate="20140615T080645Z">
+        <seg>Via breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080619Z" creationid="MELO46" creationdate="20140615T080619Z">
+        <seg>&amp;Salva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_COMMENT</prop>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080657Z" creationid="MELO46" creationdate="20140615T080657Z">
+        <seg>Commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_CHARTABLE_VIEW</prop>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080554Z" creationid="MELO46" creationdate="20140615T080554Z">
+        <seg>Tabella del Characteres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">BUTTON_FILTER_REPLACE_NEXT</prop>
       <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
@@ -67855,6 +67985,26 @@ a</seg>
         <seg>Error</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T073318Z" creationid="MELO46" creationdate="20140615T073318Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">HUNSPELL_TOKENIZER_DICT_NOT_INSTALLED</prop>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080714Z" creationid="MELO46" creationdate="20140615T080714Z">
+        <seg>Advertimento!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">LOG_LEVEL_SEVERE</prop>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T080109Z" creationid="MELO46" creationdate="20140615T080109Z">
         <seg>Error</seg>
       </tuv>
     </tu>
@@ -67936,6 +68086,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T073910Z" creationid="MELO46" creationdate="20140615T073910Z">
         <seg>&amp;Browse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.0_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">RB_FILTER_EXCEPTION</prop>
+      <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T075811Z" creationid="MELO46" creationdate="20140615T075811Z">
+        <seg>Le filtro Java Resource Bundles generava un exception:</seg>
       </tuv>
     </tu>
     <tu>
