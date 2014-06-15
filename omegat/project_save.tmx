@@ -7204,8 +7204,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Windows and panes in OmegaT&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T072553Z">
-        <seg>&lt;p0&gt;Fenestras de OmegaT&lt;/p0&gt; &lt;s1&gt;Windows e quadros in OmegaT&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142227Z">
+        <seg>&lt;p0&gt;Fenestras de OmegaT&lt;/p0&gt; &lt;s1&gt;Fenestras e quadros in OmegaT&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,8 +8428,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Counters&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T080852Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Contatores&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142213Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Contatores&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8468,8 +8468,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T221038Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Glossario&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142106Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Quadro del Glossario&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8484,8 +8484,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Main window&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T071804Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Fenestra Principal&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142138Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Fenestra Principal&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8516,8 +8516,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Pane widgets&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T072419Z">
-        <seg>&lt;p0&gt;Windows e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Etiquettas del Quadro&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T142157Z">
+        <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Etiquettas del Quadro&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34578,8 +34578,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T163718Z">
-        <seg>Le 'runs' (elementos de texto) son fixate a RTL</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T141758Z">
+        <seg>Le elementos de texto son fixate a RTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -68247,6 +68247,17 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">viewMarkUntranslatedSegmentsCheckBoxMenuItem</prop>
+      <prop type="next">viewDisplaySegmentSourceCheckBoxMenuItem</prop>
+      <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T141307Z" creationid="MELO46" creationdate="20140615T141307Z">
+        <seg>Monstra le Segmentos Fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
       <prop type="prev">optionsAutoCompleteCharTableMenuItem</prop>
       <prop type="next">optionsFontSelectionMenuItem</prop>
       <tuv lang="EN">
@@ -68263,8 +68274,8 @@ a</seg>
       <tuv lang="EN">
         <seg>Log...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T121441Z" creationid="MELO46" creationdate="20140615T121441Z">
-        <seg>Log...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T141333Z" creationid="MELO46" creationdate="20140615T121441Z">
+        <seg>Registration...</seg>
       </tuv>
     </tu>
     <tu>
