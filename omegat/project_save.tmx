@@ -320,6 +320,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143258Z" creationid="MELO46" creationdate="20140615T143258Z">
+        <seg>#Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#N is a digit from 1 to 5.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T084842Z">
@@ -794,8 +802,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140129T231457Z" creationid="MELO46" creationdate="20140129T231457Z">
-        <seg>&amp;Fotia le via breve a "f" pro le tags &lt;it pos="end"&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144111Z" creationid="MELO46" creationdate="20140129T231457Z">
+        <seg>&amp;Fortia le via breve a "f" pro le tags &lt;it pos="end"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,6 +2672,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T091548Z">
         <seg>- empleo de qualcunque file TMX valide como referentia pro le traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143722Z" creationid="MELO46" creationdate="20140615T143722Z">
+        <seg>---- Notas de Localisation ----</seg>
       </tuv>
     </tu>
     <tu>
@@ -8658,6 +8674,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144049Z" creationid="MELO46" creationdate="20140615T144049Z">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T084125Z">
@@ -10158,6 +10182,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T130141Z">
         <seg>Permitte que le tags rendite es in un ordine differente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143612Z" creationid="MELO46" creationdate="20140615T143612Z">
+        <seg>Permitte le traduction de segmentos fonte &amp;blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -13496,6 +13528,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="IA" changeid="MELO46" changedate="20140615T075939Z" creationid="MELO46" creationdate="20140615T075939Z">
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144124Z" creationid="MELO46" creationdate="20140615T144124Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -20794,6 +20836,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143956Z" creationid="MELO46" creationdate="20140615T143956Z">
+        <seg>Identificator usate pro traductiones alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identify the .tmx file and the glossary (.txt) file for your language combination.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T211256Z">
@@ -27538,6 +27588,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143452Z" creationid="MELO46" creationdate="20140615T143452Z">
+        <seg>Memoria (Memor&amp;y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memory</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T090722Z">
@@ -28034,6 +28092,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Last</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143248Z" creationid="MELO46" creationdate="20140615T143248Z">
+        <seg>Move al Ultimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095318Z">
@@ -28150,6 +28216,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095147Z">
         <seg>Files Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143648Z" creationid="MELO46" creationdate="20140615T143648Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -32784,6 +32858,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144035Z" creationid="MELO46" creationdate="20140615T144035Z">
+        <seg>Paragraphos Previe e successive (&amp;next)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous contributors include:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094706Z">
@@ -34748,6 +34830,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095155Z">
         <seg>Files SVG Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143910Z" creationid="MELO46" creationdate="20140615T143910Z">
+        <seg>Imagine SVG e Exportation Adobe Illustrator</seg>
       </tuv>
     </tu>
     <tu>
@@ -38050,6 +38140,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143459Z" creationid="MELO46" creationdate="20140615T143459Z">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140201T121041Z">
@@ -39409,6 +39507,14 @@ vice essera usate le classificator actual.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T212356Z">
         <seg>Le JRE es ora supplite con OmegaT, on non debe lo obtener separatemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143830Z" creationid="MELO46" creationdate="20140615T143830Z">
+        <seg>Le filtro pro Java Resource Bundles generava un exception:</seg>
       </tuv>
     </tu>
     <tu>
@@ -68418,6 +68524,36 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144205Z" creationid="MELO46" creationdate="20140615T144205Z">
+        <seg>&amp;Salva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_COMMENT</prop>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144218Z" creationid="MELO46" creationdate="20140615T144218Z">
+        <seg>Commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">HUNSPELL_TOKENIZER_DICT_NOT_INSTALLED</prop>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144241Z" creationid="MELO46" creationdate="20140615T144241Z">
+        <seg>Advertimento!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">PF_MOVE_DOWN</prop>
       <tuv lang="EN">
         <seg>Move Down</seg>
@@ -68434,6 +68570,46 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T143126Z" creationid="MELO46" creationdate="20140615T143126Z">
         <seg>Move in alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_CHANGED_AFTER</prop>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143349Z" creationid="MELO46" creationdate="20140615T143349Z">
+        <seg>Cambiate post:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_REPLACE_TEXT</prop>
+      <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143319Z" creationid="MELO46" creationdate="20140615T143319Z">
+        <seg>Replacia con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143516Z" creationid="MELO46" creationdate="20140615T143516Z">
+        <seg>&amp;Glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_SPACE_MATCH_NBSP</prop>
+      <tuv lang="EN">
+        <seg>Space matches &amp;nbsp</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T143431Z" creationid="MELO46" creationdate="20140615T143431Z">
+        <seg>Concordantias spatio &amp;nbsp</seg>
       </tuv>
     </tu>
   </body>
