@@ -12810,6 +12810,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144944Z" creationid="MELO46" creationdate="20140615T144944Z">
+        <seg>Cambia data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change folder (directory) to the script folder, e.g. (on Windows XP systems):</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T091858Z">
@@ -12878,6 +12886,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095055Z">
         <seg>Mutate ante (&amp;before):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145009Z" creationid="MELO46" creationdate="20140615T145009Z">
+        <seg>Cambiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -13779,6 +13795,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144707Z" creationid="MELO46" creationdate="20140615T144707Z">
+        <seg>Resolution del Conflicto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144729Z" creationid="MELO46" creationdate="20140615T144729Z">
+        <seg>Conflicto {0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T155550Z">
@@ -14667,6 +14699,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145018Z" creationid="MELO46" creationdate="20140615T145018Z">
+        <seg>Creation del data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145022Z" creationid="MELO46" creationdate="20140615T145022Z">
+        <seg>Creator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Credentials are stored, so it isn't needed to enter them each time.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T184708Z">
@@ -15307,6 +15355,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144744Z" creationid="MELO46" creationdate="20140615T144744Z">
+        <seg>Delite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T223225Z" creationid="MELO46" creationdate="20140108T213818Z">
@@ -15403,10 +15459,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144852Z" creationid="MELO46" creationdate="20140615T144852Z">
+        <seg>Vider Detalio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T174834Z">
         <seg>Le discussion technic detaliate re le cambios es melio conducite directemente con le disveloppatores de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144517Z" creationid="MELO46" creationdate="20140615T144517Z">
+        <seg>Detalios indisponibile</seg>
       </tuv>
     </tu>
     <tu>
@@ -16103,6 +16175,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065304Z" creationid="MELO" creationdate="20131219T065304Z">
         <seg>Donationes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144640Z" creationid="MELO46" creationdate="20140615T144640Z">
+        <seg>Facite</seg>
       </tuv>
     </tu>
     <tu>
@@ -17855,6 +17935,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135003Z">
         <seg>Fijian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145106Z" creationid="MELO46" creationdate="20140615T145106Z">
+        <seg>File</seg>
       </tuv>
     </tu>
     <tu>
@@ -24544,6 +24632,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145054Z" creationid="MELO46" creationdate="20140615T145054Z">
+        <seg>Es le traduction base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is is politically neutral in that sense,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140503T101902Z" creationid="MELO46" creationdate="20140415T095843Z">
@@ -26572,6 +26668,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144827Z" creationid="MELO46" creationdate="20140615T144827Z">
+        <seg>Vider Lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T203623Z">
@@ -28436,6 +28540,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145128Z" creationid="MELO46" creationdate="20140615T145128Z">
+        <seg>Sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T090426Z">
@@ -28480,6 +28592,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T114926Z">
         <seg>Al Segmento sequente Non Rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144932Z" creationid="MELO46" creationdate="20140615T144932Z">
+        <seg>Sequente →</seg>
       </tuv>
     </tu>
     <tu>
@@ -28760,6 +28880,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T090139Z">
         <seg>Non solmente illo pote esser usate gratis, ma le usatores es etiam libere de facer copias de illo e los distribuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144802Z" creationid="MELO46" creationdate="20140615T144802Z">
+        <seg>Non presente</seg>
       </tuv>
     </tu>
     <tu>
@@ -32569,6 +32697,14 @@ pro resolver le fonte del error e reproba.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144414Z" creationid="MELO46" creationdate="20140615T144414Z">
+        <seg>Per favor resolve le conflictos per le selection de un traduction pro cata segmento sequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please see the file 'changes.txt' for detailed information about changes in</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094730Z">
@@ -32834,6 +32970,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145154Z" creationid="MELO46" creationdate="20140615T145154Z">
+        <seg>Previe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094846Z">
@@ -32974,6 +33118,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095423Z">
         <seg>Procede?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144718Z" creationid="MELO46" creationdate="20140615T144718Z">
+        <seg>Processo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40089,6 +40241,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The certificate is by "PnS Concept".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145307Z" creationid="MELO46" creationdate="20140615T145307Z">
+        <seg>Le certificato es ex "PnS Concept".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The certificate is self-signed by "Didier Briel".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T214626Z">
@@ -46611,6 +46771,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T145103Z" creationid="MELO46" creationdate="20140615T145103Z">
+        <seg>Traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T221222Z">
@@ -47547,6 +47715,30 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T212225Z">
         <seg>Usa le clave "Tab" pro avantiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144553Z" creationid="MELO46" creationdate="20140615T144553Z">
+        <seg>Usa omne mie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144607Z" creationid="MELO46" creationdate="20140615T144607Z">
+        <seg>Usa omne original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144626Z" creationid="MELO46" creationdate="20140615T144626Z">
+        <seg>Usa omne renovate</seg>
       </tuv>
     </tu>
     <tu>
@@ -66103,6 +66295,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}/{1}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144856Z" creationid="MELO46" creationdate="20140615T144856Z">
+        <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095407Z">
@@ -66459,6 +66659,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140429T215217Z" creationid="MELO46" creationdate="20140429T215217Z">
         <seg>“Bon juvenes, que vos seque vostre modo”, sed permane facer nostro, sed illes non vole que lassar nos al nostros, e illes face &lt;t0/&gt;nihil illes ipse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144911Z" creationid="MELO46" creationdate="20140615T144911Z">
+        <seg>← Retro</seg>
       </tuv>
     </tu>
     <tu>
@@ -68570,6 +68778,46 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T143126Z" creationid="MELO46" creationdate="20140615T143126Z">
         <seg>Move in alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_CONFLICTS</prop>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144445Z" creationid="MELO46" creationdate="20140615T144445Z">
+        <seg>{0} conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_CONFLICTS_SINGULAR</prop>
+      <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144456Z" creationid="MELO46" creationdate="20140615T144456Z">
+        <seg>1 conflicto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_UNITS</prop>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144427Z" creationid="MELO46" creationdate="20140615T144427Z">
+        <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_UNITS_SINGULAR</prop>
+      <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T144435Z" creationid="MELO46" creationdate="20140615T144435Z">
+        <seg>1 segmento</seg>
       </tuv>
     </tu>
     <tu>
