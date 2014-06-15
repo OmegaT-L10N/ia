@@ -24368,8 +24368,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Introduction into Tokenizer and Scripting plugins</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140416T210738Z">
-        <seg>Introduction a Tokenizer e al plugins Scripting</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T084243Z">
+        <seg>Introduction a Tokenizer e al plugins de Scripting</seg>
       </tuv>
     </tu>
     <tu>
@@ -68194,6 +68194,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T073501Z" creationid="MELO46" creationdate="20140615T073501Z">
         <seg>Crea le &amp;Documento rendite actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.1_L10N_Full/source/doc_src/en/AboutOmegaT.xml</prop>
+      <prop type="prev">Team Projects</prop>
+      <prop type="next">&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</prop>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140615T084305Z" creationid="MELO46" creationdate="20140615T084305Z">
+        <seg>Informationes legal e Recognitiones</seg>
       </tuv>
     </tu>
   </body>
