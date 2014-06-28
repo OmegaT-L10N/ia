@@ -18371,6 +18371,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finish the process by clicking "Create".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T151007Z" creationid="MELO46" creationdate="20140628T151007Z">
+        <seg>Finir le processo cliccante "Create".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095513Z">
@@ -18559,6 +18567,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130531T151831Z">
         <seg>Pro Abiword:&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Hard Disk, select the "Use an existing virtual hard drive file" radio button.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T151847Z" creationid="MELO46" creationdate="20140628T151847Z">
+        <seg>Pro le disco dur, selige le button radio "Usa un file disco dur virtual".</seg>
       </tuv>
     </tu>
     <tu>
@@ -31056,6 +31072,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On first boot it should look like this: http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.png</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150930Z" creationid="MELO46" creationdate="20140628T150930Z">
+        <seg>Al prime initio, illo deberea apparer assi: http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On first boot, it looks like:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T145612Z" creationid="MELO46" creationdate="20140628T145612Z">
@@ -32621,6 +32645,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T085318Z">
         <seg>Philosophia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick Apertium (Xubuntu 14.04).vdi from the drop-down menu, or if it isn't there, click the folder icon with the green arrow to the right and navigate to wherever you unzipped the file to.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T151703Z" creationid="MELO46" creationdate="20140628T151703Z">
+        <seg>Selige Apertium (Xubuntu 14.04).vdi ex le menu a tenta, o si il non ha illac, clicca le icone del plica con le flecha verde al derecta e naviga verso ubicunque  tu ha expandite navigate le file.</seg>
       </tuv>
     </tu>
     <tu>
