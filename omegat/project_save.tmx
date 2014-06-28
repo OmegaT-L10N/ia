@@ -25747,6 +25747,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyboard and timezone are set to Danish, but there is a shortcut for Keyboard configuration on the desktop.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T145513Z" creationid="MELO46" creationdate="20140628T145513Z">
+        <seg>Le claviero e le fuso horari es prefixate in danese, ma il ha un via breve per le configuration del claviero sur le scriptorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102135Z">
@@ -31016,6 +31024,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On first boot, it looks like:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T145612Z" creationid="MELO46" creationdate="20140628T145612Z">
+        <seg>Al prime initio, illo appare assi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T084617Z">
@@ -31028,6 +31044,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T051202Z">
         <seg>Sur le Mac, le modificator &lt;e0&gt;meta&lt;/e0&gt; debe esser utilisate pro specificar le clave &lt;e1&gt;commando&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the desktop is apertium-kaz-tat which works - compiling and testing that language pair should pretty much guarantee all required tools are installed and functional.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T145858Z" creationid="MELO46" creationdate="20140628T145858Z">
+        <seg>Sur le scriptorio es apertium-kaz-tat que opera - per le compilation e le test le qual par de linguas deberea assatis  multo garantir  omne le instrumentos necessari installate e functional.</seg>
       </tuv>
     </tu>
     <tu>
