@@ -8778,10 +8778,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>== Prerequisites ==</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150141Z" creationid="MELO46" creationdate="20140628T150141Z">
+        <seg>== Conditiones ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105342Z">
         <seg>==============================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==Clipboard==</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150210Z" creationid="MELO46" creationdate="20140628T150210Z">
+        <seg>==Tabula del fragmento==</seg>
       </tuv>
     </tu>
     <tu>
@@ -29444,6 +29460,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing else from svn is left checked out - all was wiped after installing in order to save space.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150039Z" creationid="MELO46" creationdate="20140628T150039Z">
+        <seg>nihil  altere ex svn es lassate marcate foras - toto esseva essugate post le installation pro  sparniar spatio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing in this License shall be construed as excluding or limiting</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155927Z" creationid="MELO46" creationdate="20131226T155927Z">
@@ -29536,6 +29560,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T111009Z">
         <seg>Ora simplemente mitte le cursor alicubi in le paragrapho e calca Ctrl+Shift+9 (o qual que sia  altere via breve de claviero tu ha seligite), e tu deberea vider le formato disparer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now you should have a system with all the prerequisites installed, and you should be able to follow [[Minimal installation from SVN]] to install a language pair (and possibly any required language modules).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150705Z" creationid="MELO46" creationdate="20140628T150705Z">
+        <seg>Ora tu deberea haber un systema con omne le conditiones installate, e  tu deberea esser habile a sequer [[Minimal installation from SVN]] pro installar un par de linguas (e possibilemente qualcunque modulos de lingua necessari).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41341,6 +41373,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The image is set up as a dynamically expanding hdd with max size 64 GB, where 8 GB is allocated to swap space.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150045Z" creationid="MELO46" creationdate="20140628T150045Z">
+        <seg>The image is set up as a dynamically expanding hdd with max size 64 GB, where 8 GB is allocated to swap space.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T193450Z">
@@ -45887,6 +45927,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T183312Z">
         <seg>Pro devenir implicate in le effortio de disveloppamento de &lt;a3&gt;OmegaT&lt;/a3&gt; tu pote adherer al gruppo de disveloppatores, viaTTT o con un email a &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; con "subscribe" como linea de subjecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get the clipboard working between the virtualbox and e.g. Windows, go into Options of that VBox -&gt; General -&gt; Advanced tab -&gt; Clipboard -&gt; Bidirectional.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150407Z" creationid="MELO46" creationdate="20140628T150407Z">
+        <seg>Pro obtener que le tabula del fragmento opera inter le CassaVirtual e per exemplo  Windows, va in Optiones de illo VBox -&gt; General -&gt; Advanced tab -&gt; Clipboard -&gt; Bidirectional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50717,6 +50765,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T123857Z">
         <seg>Tu pote modificar le &lt;e0&gt;Proprietates&lt;/e0&gt; assi como le parte &lt;e1&gt;VMOptions&lt;/e1&gt; part.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can now run the new virtual box.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T150821Z" creationid="MELO46" creationdate="20140628T150821Z">
+        <seg>Tu pote nunc exequer le cassa virtual nove.</seg>
       </tuv>
     </tu>
     <tu>
