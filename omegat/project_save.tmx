@@ -1964,10 +1964,42 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* 975284287 bytes (931 MB)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153335Z" creationid="MELO46" creationdate="20140628T153335Z">
+        <seg>* 975284287 bytes (931 MB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Apertium</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153353Z" creationid="MELO46" creationdate="20140628T153353Z">
+        <seg>* Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* CG-3</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153351Z" creationid="MELO46" creationdate="20140628T153351Z">
+        <seg>* CG-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Firefox, homepage set to Apertium Wiki</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T205837Z" creationid="MELO46" creationdate="20140615T205837Z">
         <seg>* Firefox, con pagina domo prefixate a Apertium Wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Foma 0.17</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153349Z" creationid="MELO46" creationdate="20140628T153349Z">
+        <seg>* Foma 0.17</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,6 +2016,22 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094654Z">
         <seg>* A partir de tu administrator de files (omne systemas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Gedit</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153347Z" creationid="MELO46" creationdate="20140628T153347Z">
+        <seg>* Gedit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* HFST 3.5.0</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153350Z" creationid="MELO46" creationdate="20140628T153350Z">
+        <seg>* HFST 3.5.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,6 +2064,22 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094648Z">
         <seg>* Altere (e.g., Solaris, FreeBSD:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* SHA-1: 30565fa2e73648a24ac4b4b0ff7e97d5c44b7fa0</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153331Z" creationid="MELO46" creationdate="20140628T153331Z">
+        <seg>* SHA-1: 30565fa2e73648a24ac4b4b0ff7e97d5c44b7fa0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* SHA-1: eda5bf5e29efb2873b3d6e6b551fc04e14a3d2f1</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153341Z" creationid="MELO46" creationdate="20140628T153341Z">
+        <seg>* SHA-1: eda5bf5e29efb2873b3d6e6b551fc04e14a3d2f1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,10 +2156,66 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* apertium-lex-tools</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153412Z" creationid="MELO46" creationdate="20140628T153412Z">
+        <seg>* apertium-lex-tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.7z</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153326Z" creationid="MELO46" creationdate="20140628T153326Z">
+        <seg>* http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.7z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.zip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153334Z" creationid="MELO46" creationdate="20140628T153334Z">
+        <seg>* http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* lttoolbox</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153354Z" creationid="MELO46" creationdate="20140628T153354Z">
+        <seg>* lttoolbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>** CentOS/RHEL/Fedora: &lt;code&gt;sudo yum install p7zip&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153454Z" creationid="MELO46" creationdate="20140628T153454Z">
+        <seg>** CentOS/RHEL/Fedora: &lt;code&gt;sudo yum install p7zip&lt;/code&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>** Mac OS X: http://kekaosx.com/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153452Z" creationid="MELO46" creationdate="20140628T153452Z">
+        <seg>** Mac OS X: http://kekaosx.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>** Other: http://google.com/search?q=p7zip</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T152859Z" creationid="MELO46" creationdate="20140628T152859Z">
         <seg>** Altero: http://google.com/search?q=p7zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>** Ubuntu/Debian/Mint: &lt;code&gt;sudo apt-get install p7zip&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153453Z" creationid="MELO46" creationdate="20140628T153453Z">
+        <seg>** Ubuntu/Debian/Mint: &lt;code&gt;sudo apt-get install p7zip&lt;/code&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24834,8 +24954,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It automatically logs in to a 1024x768 desktop.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T210340Z" creationid="MELO46" creationdate="20140615T210340Z">
-        <seg>Illo connecte se automaticamente in un scriptorio de1024x768 punctos.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153440Z" creationid="MELO46" creationdate="20140615T210340Z">
+        <seg>Illo connecte se automaticamente in un scriptorio de 1024x768 punctos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37988,8 +38108,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Start VirtualBox and click "New" to create a new virtual machine.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140628T152235Z" creationid="MELO46" creationdate="20140628T152235Z">
-        <seg>Lancea VirtualBox e clicca "Nove" pro crear un machina virtual nove.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153316Z" creationid="MELO46" creationdate="20140628T152235Z">
+        <seg>Lancea le CassaVirtual e clicca "Nove" pro crear un machina virtual nove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43607,6 +43727,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There should be exactly one thing in the unzipped folder - the Virtual Disk Image (VDI) entitled Apertium (Xubuntu 14.04).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153223Z" creationid="MELO46" creationdate="20140628T153223Z">
+        <seg>Illac deberea esser justo un cosa in le plica expandite - le Imagine Disco Virtual (VDI) denominate: Apertium (Xubuntu 14.04).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130410T174202Z">
@@ -47927,6 +48055,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use 7-Zip or a similar program to unzip the file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153002Z" creationid="MELO46" creationdate="20140628T153002Z">
+        <seg>Usa 7-Zip o un programma simile pro expander le file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/Resources/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T214327Z">
@@ -51736,6 +51872,22 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T080331Z">
         <seg>[Partial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Category:Installation]]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153534Z" creationid="MELO46" creationdate="20140628T153534Z">
+        <seg>[[Category:Installation]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[File:Apertium-VirtualBox.png|thumb|right]]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153321Z" creationid="MELO46" creationdate="20140628T153321Z">
+        <seg>[[File:Apertium-VirtualBox.png|thumb|right]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -57871,6 +58023,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114443Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.png</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T153444Z" creationid="MELO46" creationdate="20140628T153444Z">
+        <seg>http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.png</seg>
       </tuv>
     </tu>
     <tu>
