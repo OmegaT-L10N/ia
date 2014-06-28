@@ -1988,6 +1988,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* If you downloaded the 7z archive: 7-Zip from http://7-zip.org/ or something else that can decompress 7z files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152802Z" creationid="MELO46" creationdate="20140628T152802Z">
+        <seg>* Si tu ha discargate le archivo 7z: 7-Zip ex http://7-zip.org/ o alicun cosa altere que pote expander files 7z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Linux users:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220754Z">
@@ -2052,6 +2060,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* VirtualBox from http://virtualbox.org/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152559Z" creationid="MELO46" creationdate="20140628T152559Z">
+        <seg>* CassaVirtual ex http://virtualbox.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Windows users:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T221210Z">
@@ -2072,6 +2088,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T205341Z" creationid="MELO46" creationdate="20140615T205341Z">
         <seg>* Xubuntu 14.04, assi Xfce4 in loco de Unity (Le interfacie ornamento-quamquam-inutile de Ubuntu), nettate de omne le pacchettos non essential</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>** Other: http://google.com/search?q=p7zip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152859Z" creationid="MELO46" creationdate="20140628T152859Z">
+        <seg>** Altero: http://google.com/search?q=p7zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -8806,6 +8830,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T204726Z" creationid="MELO46" creationdate="20140615T204726Z">
         <seg>==Contentos==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==Step-by-Step Installation Instructions==</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152838Z" creationid="MELO46" creationdate="20140628T152838Z">
+        <seg>==Instructiones de installation passo a passo==</seg>
       </tuv>
     </tu>
     <tu>
@@ -16403,6 +16435,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file (http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.7z).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152917Z" creationid="MELO46" creationdate="20140628T152917Z">
+        <seg>Discarga le file (http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.7z).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140107T140027Z">
@@ -18603,6 +18643,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Memory, give it at least 512 MB RAM - it might run with less, but the more the better.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152025Z" creationid="MELO46" creationdate="20140628T152025Z">
+        <seg>Pro le memoria, da lo al minus 512 MB RAM - il pote functionar con minus, sed le magis le melio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T224452Z">
@@ -19167,6 +19215,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T220739Z">
         <seg>Pro probar e monstrar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the OS Type, select Linux, Ubuntu.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152124Z" creationid="MELO46" creationdate="20140628T152124Z">
+        <seg>Pro le typo de systema operative, selige Linux, Ubuntu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37930,6 +37986,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start VirtualBox and click "New" to create a new virtual machine.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152235Z" creationid="MELO46" creationdate="20140628T152235Z">
+        <seg>Lancea VirtualBox e clicca "Nove" pro crear un machina virtual nove.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095300Z">
@@ -41407,8 +41471,8 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The image is set up as a dynamically expanding hdd with max size 64 GB, where 8 GB is allocated to swap space.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140628T150045Z" creationid="MELO46" creationdate="20140628T150045Z">
-        <seg>The image is set up as a dynamically expanding hdd with max size 64 GB, where 8 GB is allocated to swap space.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140628T152551Z" creationid="MELO46" creationdate="20140628T150045Z">
+        <seg>Le imagine es prefixate como un disco dur expandente dynamicamente con dimension maxime de 64 GB, ubi 8 GB es allocate a spatio de excambio.</seg>
       </tuv>
     </tu>
     <tu>
