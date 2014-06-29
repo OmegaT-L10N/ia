@@ -14699,6 +14699,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T202638Z" creationid="MELO46" creationdate="20140629T202638Z">
+        <seg>Crea le Documentos Actual Rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095335Z">
@@ -15871,6 +15879,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094707Z">
         <seg>Didier Briel (director del disveloppamento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203043Z" creationid="MELO46" creationdate="20140629T203043Z">
+        <seg>Didier Briel es le Director del Projecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27124,6 +27140,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T202919Z" creationid="MELO46" creationdate="20140629T202919Z">
+        <seg>Log...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Log:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T211040Z">
@@ -27664,6 +27688,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114533Z">
         <seg>Marc Prior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior (webmaster)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203146Z" creationid="MELO46" creationdate="20140629T203146Z">
+        <seg>Marc Prior (webmaster)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33876,8 +33908,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T100519Z">
-        <seg>Proprietates ...</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T202704Z">
+        <seg>Proprietates...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33998,6 +34030,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141342Z">
         <seg>Pāli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA - Check Rules</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203403Z" creationid="MELO46" creationdate="20140629T203403Z">
+        <seg>QR - (Questiones e Responsas) del Regulas de Controlo</seg>
       </tuv>
     </tu>
     <tu>
@@ -69290,6 +69330,39 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T143431Z" creationid="MELO46" creationdate="20140615T143431Z">
         <seg>Concordantias spatio &amp;nbsp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">gotoNextUntranslatedMenuItem</prop>
+      <prop type="next">Shift+Ctrl+U</prop>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T202853Z" creationid="MELO46" creationdate="20140629T202853Z">
+        <seg>Segmento Sequente Rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">editSelectFuzzyPrevMenuItem</prop>
+      <prop type="next">Ctrl+↓</prop>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T202815Z" creationid="MELO46" creationdate="20140629T202815Z">
+        <seg>Selige le concordantia sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">editReplaceInProjectMenuItem</prop>
+      <prop type="next">Ctrl+↑</prop>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T202747Z" creationid="MELO46" creationdate="20140629T202747Z">
+        <seg>Selige le concordantia previe</seg>
       </tuv>
     </tu>
   </body>
