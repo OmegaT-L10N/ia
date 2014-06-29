@@ -23520,6 +23520,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T211133Z" creationid="MELO46" creationdate="20140629T211133Z">
+        <seg>Ignora le Majusculos del glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T075939Z" creationid="MELO46" creationdate="20140615T075939Z">
@@ -26508,6 +26516,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210917Z" creationid="MELO46" creationdate="20140629T210917Z">
+        <seg>APPRENDITE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LF Aligner</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130505T082941Z">
@@ -26864,6 +26880,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T090714Z">
         <seg>Disveloppator capo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210813Z" creationid="MELO46" creationdate="20140629T210813Z">
+        <seg>Apprende</seg>
       </tuv>
     </tu>
     <tu>
@@ -35042,6 +35066,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T211447Z" creationid="MELO46" creationdate="20140629T211447Z">
+        <seg>Replacia le tags personal con le spatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T211212Z" creationid="MELO46" creationdate="20140629T211212Z">
+        <seg>Replacia le sequentias escappate con le spatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094800Z">
@@ -38394,10 +38434,18 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210717Z" creationid="MELO46" creationdate="20140629T210717Z">
+        <seg>Controlo Orthographic - trovate errores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140629T210425Z" creationid="MELO46" creationdate="20140629T210425Z">
-        <seg>Spellchecker</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210609Z" creationid="MELO46" creationdate="20140629T210425Z">
+        <seg>Controlator Orthographic</seg>
       </tuv>
     </tu>
     <tu>
@@ -48539,6 +48587,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T114800Z">
         <seg>Usa como Traduction Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T211016Z" creationid="MELO46" creationdate="20140629T211016Z">
+        <seg>Usa le glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -69739,6 +69795,56 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T202747Z" creationid="MELO46" creationdate="20140629T202747Z">
         <seg>Selige le concordantia previe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/scripts/properties/spellcheck.properties</prop>
+      <prop type="id">btnIgnore</prop>
+      <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210952Z" creationid="MELO46" creationdate="20140629T210952Z">
+        <seg>Ignora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/scripts/properties/spellcheck.properties</prop>
+      <prop type="id">logIgnored</prop>
+      <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210628Z" creationid="MELO46" creationdate="20140629T210628Z">
+        <seg>IGNORATE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/scripts/properties/spellcheck.properties</prop>
+      <prop type="id">logLearned</prop>
+      <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210652Z" creationid="MELO46" creationdate="20140629T210652Z">
+        <seg>APPRENDITE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/scripts/properties/spellcheck.properties</prop>
+      <prop type="id">tabHeaderIgnore</prop>
+      <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210744Z" creationid="MELO46" creationdate="20140629T210744Z">
+        <seg>Ignora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/scripts/properties/spellcheck.properties</prop>
+      <prop type="id">tabTextIgnored</prop>
+      <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T210845Z" creationid="MELO46" creationdate="20140629T210845Z">
+        <seg>IGNORATE:</seg>
       </tuv>
     </tu>
   </body>
