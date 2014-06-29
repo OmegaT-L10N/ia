@@ -9490,6 +9490,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203537Z" creationid="MELO46" creationdate="20140629T203537Z">
+        <seg>Un simplice collection de QR Controlos pro le Projecto OmegaT actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source sentence might look like</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T085352Z" creationid="MELO46" creationdate="20140228T085352Z">
@@ -13234,6 +13242,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203606Z" creationid="MELO46" creationdate="20140629T203606Z">
+        <seg>Regulas de Controlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T202529Z">
@@ -15907,6 +15923,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204257Z" creationid="MELO46" creationdate="20140629T204257Z">
+        <seg>Punctuation differente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075200Z">
@@ -16487,6 +16511,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T072943Z">
         <seg>Clicca duo vices sur&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; o clicca sur su location in le Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204037Z" creationid="MELO46" creationdate="20140629T203933Z">
+        <seg>Blancos duplicate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204003Z" creationid="MELO46" creationdate="20140629T204003Z">
+        <seg>Parolas duplicate</seg>
       </tuv>
     </tu>
     <tu>
@@ -17591,6 +17631,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123242Z">
         <seg>Error {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203751Z" creationid="MELO46" creationdate="20140629T203751Z">
+        <seg>Trovate errores:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33154,6 +33202,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203717Z" creationid="MELO46" creationdate="20140629T203717Z">
+        <seg>Per favor tenta de nove postquam tu aperi un projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094754Z">
@@ -35218,6 +35274,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203802Z" creationid="MELO46" creationdate="20140629T203802Z">
+        <seg>Regula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T214823Z">
@@ -36334,6 +36398,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T202141Z" creationid="MELO46" creationdate="20140106T061105Z">
         <seg>Ab iste puncto de vista illos son files de texto simple&lt;e1&gt; plus&lt;/e1&gt; memorias de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203730Z" creationid="MELO46" creationdate="20140629T203730Z">
+        <seg>Segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -39181,6 +39253,14 @@ IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203839Z" creationid="MELO46" creationdate="20140629T203839Z">
+        <seg>Destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target filename</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T131659Z">
@@ -39193,6 +39273,22 @@ IS WITH YOU.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T222029Z">
         <seg>Le plica de destination {0} non existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204205Z" creationid="MELO46" creationdate="20140629T204205Z">
+        <seg>Destination plus longe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204143Z" creationid="MELO46" creationdate="20140629T204011Z">
+        <seg>Destination plus curte</seg>
       </tuv>
     </tu>
     <tu>
@@ -49787,6 +49883,22 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220315Z">
         <seg>Spatio blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203856Z" creationid="MELO46" creationdate="20140629T203856Z">
+        <seg>Spatio blanc - initial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T203908Z" creationid="MELO46" creationdate="20140629T203908Z">
+        <seg>Spatio blanc - final</seg>
       </tuv>
     </tu>
     <tu>
