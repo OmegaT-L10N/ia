@@ -13250,10 +13250,58 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205330Z" creationid="MELO46" creationdate="20140629T205330Z">
+        <seg>Controla pro le Spatios blanc duplicate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205403Z" creationid="MELO46" creationdate="20140629T205403Z">
+        <seg>Controla pro le parolas duplicate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205223Z" creationid="MELO46" creationdate="20140629T205223Z">
+        <seg>Controla pro le Spatio blanc initial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205455Z" creationid="MELO46" creationdate="20140629T205455Z">
+        <seg>Controla pro le destination plus longe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T202529Z">
         <seg>Controla pro eventual errores de Tag con &lt;k0&gt;Ctrl+T &lt;/k0&gt;e segmentos non rendite con &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205435Z" creationid="MELO46" creationdate="20140629T205435Z">
+        <seg>Controla pro le destination plus curte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205237Z" creationid="MELO46" creationdate="20140629T205237Z">
+        <seg>Controla pro le Spatio blanc final</seg>
       </tuv>
     </tu>
     <tu>
@@ -13382,6 +13430,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T220814Z">
         <seg>Controla le sito TTT pro le ultime lista del pares de linguas implementate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205157Z" creationid="MELO46" creationdate="20140629T205157Z">
+        <seg>Controla le projecto integre</seg>
       </tuv>
     </tu>
     <tu>
@@ -15931,6 +15987,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204520Z" creationid="MELO46" creationdate="20140629T204520Z">
+        <seg>Initial majuscula differente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075200Z">
@@ -17455,6 +17519,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094945Z">
         <seg>Pagina ephemere&lt;p&gt;Io es le schermo azur del morte&lt;p&gt;Necuno ascolta tu critos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204604Z" creationid="MELO46" creationdate="20140629T204537Z">
+        <seg>Fonte &amp; destination equal</seg>
       </tuv>
     </tu>
     <tu>
@@ -24396,6 +24468,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T163904Z">
         <seg>Incompatibilitates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205022Z" creationid="MELO46" creationdate="20140629T204919Z">
+        <seg>numeros inconsistente</seg>
       </tuv>
     </tu>
     <tu>
@@ -38202,6 +38282,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T205108Z" creationid="MELO46" creationdate="20140629T205108Z">
+        <seg>Error(es) orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spotlight search field.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094702Z">
@@ -39169,6 +39257,30 @@ IS WITH YOU.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T122402Z">
         <seg>Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204632Z" creationid="MELO46" creationdate="20140629T204632Z">
+        <seg>Tags - numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204941Z" creationid="MELO46" creationdate="20140629T204916Z">
+        <seg>Tags - ordinal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204638Z" creationid="MELO46" creationdate="20140629T204638Z">
+        <seg>Tags - spatios</seg>
       </tuv>
     </tu>
     <tu>
@@ -48059,6 +48171,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T174855Z">
         <seg>usque/sinon tu face lo, il essera nulle cambios a discoperir/monstrar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140629T204623Z" creationid="MELO46" creationdate="20140629T204623Z">
+        <seg>Segmento non rendite</seg>
       </tuv>
     </tu>
     <tu>
