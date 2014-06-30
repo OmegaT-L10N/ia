@@ -12946,6 +12946,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T220910Z" creationid="MELO46" creationdate="20140630T220910Z">
+        <seg>Annullate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095536Z">
@@ -13562,6 +13570,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T220840Z" creationid="MELO46" creationdate="20140630T220840Z">
+        <seg>Selige le deposito SVN deposito pro effectuar le Reparation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T052430Z">
@@ -13590,6 +13606,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134201Z">
         <seg>Chuvash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cleanup done!!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T220957Z" creationid="MELO46" creationdate="20140630T220957Z">
+        <seg>Reparation facite!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29420,6 +29444,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not a local repository</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T221043Z" creationid="MELO46" creationdate="20140630T221043Z">
+        <seg>non un deposito local </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095109Z">
@@ -33041,6 +33073,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T220700Z" creationid="MELO46" creationdate="20140630T220523Z">
+        <seg>Exeque le reparation de SVN sur le projecto actual o qualcunque deposito local de SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T085238Z">
@@ -35710,6 +35750,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095519Z">
         <seg>initio del execution de SVN '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T220459Z" creationid="MELO46" creationdate="20140630T220459Z">
+        <seg>Reparation de SVN</seg>
       </tuv>
     </tu>
     <tu>
