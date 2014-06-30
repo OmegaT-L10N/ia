@@ -34890,6 +34890,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T215754Z" creationid="MELO46" creationdate="20140630T215754Z">
+        <seg>Remove le tags de OmegaT que ha &lt;br&gt;littera minuscule avante e post illo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095506Z">
@@ -34922,6 +34930,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T215856Z" creationid="MELO46" creationdate="20140630T215856Z">
+        <seg>Remove le fragmentos definite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing tags</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T215720Z">
@@ -34934,6 +34950,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T215841Z">
         <seg>Leva le spatios blanc initial e final in le projectos non segmentate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140630T215820Z" creationid="MELO46" creationdate="20140630T215820Z">
+        <seg>Remove le mnemonicas</seg>
       </tuv>
     </tu>
     <tu>
