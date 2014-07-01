@@ -832,6 +832,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113223Z" creationid="MELO46" creationdate="20140701T113223Z">
+        <seg>&amp;Glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094914Z">
@@ -12812,8 +12820,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095056Z">
-        <seg>sensibile al C&amp;ase</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113109Z">
+        <seg>Sensibile al C&amp;ase</seg>
       </tuv>
     </tu>
     <tu>
@@ -13142,6 +13150,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095055Z">
         <seg>Mutate ante (&amp;before):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113049Z" creationid="MELO46" creationdate="20140701T113024Z">
+        <seg>Mutate post:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13991,6 +14007,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="IA" changeid="MELO46" changedate="20131219T165139Z" creationid="MELO46" creationdate="20131219T165139Z">
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113553Z" creationid="MELO46" creationdate="20140701T113553Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -15899,6 +15925,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113717Z" creationid="MELO46" creationdate="20140701T113717Z">
+        <seg>On va a discoperir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T164604Z">
@@ -16103,6 +16137,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075200Z">
         <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dis&amp;play all matching segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113344Z" creationid="MELO46" creationdate="20140701T113344Z">
+        <seg>Monstra (Dis&amp;play) omne le segmentos que concorda</seg>
       </tuv>
     </tu>
     <tu>
@@ -28788,6 +28830,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T112840Z" creationid="MELO46" creationdate="20140701T112840Z">
+        <seg>Move in basso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move First</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T143101Z" creationid="MELO46" creationdate="20140615T143101Z">
@@ -30092,6 +30142,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113508Z" creationid="MELO46" creationdate="20140701T113508Z">
+        <seg>Numero del segmentos concordante: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nr of results: {0}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095107Z">
@@ -30112,6 +30170,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094936Z">
         <seg>Numero de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113417Z" creationid="MELO46" creationdate="20140701T113417Z">
+        <seg>Numero del segmentos concordante:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35194,6 +35260,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T112912Z" creationid="MELO46" creationdate="20140701T112912Z">
+        <seg>Replacia con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replaces the current target segment contents with the selected match (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T084555Z">
@@ -38430,6 +38504,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233640Z">
         <seg>Sotho meridional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Space matches &amp;nbsp</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113210Z" creationid="MELO46" creationdate="20140701T113210Z">
+        <seg>Concordantias del Spatio &amp;nbsp</seg>
       </tuv>
     </tu>
     <tu>
@@ -69933,6 +70015,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T210845Z" creationid="MELO46" creationdate="20140629T210845Z">
         <seg>IGNORATE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_NR_OF_MORE</prop>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113526Z" creationid="MELO46" creationdate="20140701T113526Z">
+        <seg>+{0} plus</seg>
       </tuv>
     </tu>
   </body>
