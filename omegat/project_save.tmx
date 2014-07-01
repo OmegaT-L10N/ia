@@ -672,6 +672,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T112511Z" creationid="MELO46" creationdate="20140701T112353Z">
+        <seg>Monstra (&amp;Display) le Description Contextual pro le Glossarios de TBX </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Display tags</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T121350Z">
@@ -786,8 +794,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Font</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T123509Z">
-        <seg>&amp;Font</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T112614Z">
+        <seg>Typo de character (&amp;Font)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16141,8 +16149,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094931Z">
-        <seg>Monstra le font</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T112524Z">
+        <seg>Monstra le typo de character</seg>
       </tuv>
     </tu>
     <tu>
@@ -28800,6 +28808,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095318Z">
         <seg>Move in alto (U&amp;p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T112753Z" creationid="MELO46" creationdate="20140701T112753Z">
+        <seg>Move in Alto</seg>
       </tuv>
     </tu>
     <tu>
@@ -45597,8 +45613,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094933Z">
-        <seg>Assi le texto apparera quando essera displicate.</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T112715Z">
+        <seg>Le texto apparera assi quando illo essera displicate.</seg>
       </tuv>
     </tu>
     <tu>
