@@ -592,6 +592,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124144Z" creationid="MELO46" creationdate="20140701T124144Z">
+        <seg>Naviga (&amp;Browse) in le Collectiones TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094742Z">
@@ -692,6 +700,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095342Z">
         <seg>Non (&amp;Do not) controlar le  variabiles de function printf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124547Z" creationid="MELO46" creationdate="20140701T124547Z">
+        <seg>&amp;Discarga</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,6 +1312,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124618Z" creationid="MELO46" creationdate="20140701T124618Z">
+        <seg>&amp;Selige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124314Z" creationid="MELO46" creationdate="20140701T124314Z">
+        <seg>&amp;Selige le Dominio Lookup del Terminologia TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095207Z">
@@ -1364,6 +1396,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094849Z">
         <seg>&amp;Statistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124340Z" creationid="MELO46" creationdate="20140701T124340Z">
+        <seg>Lookup del Terminologia &amp;TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -10314,6 +10354,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124603Z" creationid="MELO46" creationdate="20140701T124603Z">
+        <seg>Omne dominios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All existing Java class libraries can be used unchanged and without special setup; at the same time, a Java programmer can opt to just use the Rexx class from the runtime package for improved string handling in Java syntax source programs.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130421T091627Z">
@@ -15901,6 +15949,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124406Z" creationid="MELO46" creationdate="20140701T124406Z">
+        <seg>Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description of OmegaT (2008).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T195307Z">
@@ -16685,6 +16741,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124506Z" creationid="MELO46" creationdate="20140701T124506Z">
+        <seg>Dominios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065304Z" creationid="MELO" creationdate="20131219T065304Z">
@@ -16841,6 +16905,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T035105Z">
         <seg>Discarga e installa le Java Development Kit (JDK) e Apache Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124831Z" creationid="MELO46" creationdate="20140701T124831Z">
+        <seg>Discarga le collection {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35388,6 +35460,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124918Z" creationid="MELO46" creationdate="20140701T124918Z">
+        <seg>Error de requesta: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124052Z" creationid="MELO46" creationdate="20140701T124052Z">
+        <seg>Requesta a TaaS: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094606Z">
@@ -35504,6 +35592,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095456Z">
         <seg>Resultato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124735Z" creationid="MELO46" creationdate="20140701T124735Z">
+        <seg>Recupera le lista del collection...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124817Z" creationid="MELO46" creationdate="20140701T124817Z">
+        <seg>Recupera le lista del dominio...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37108,6 +37212,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124802Z" creationid="MELO46" creationdate="20140701T124802Z">
+        <seg>Selige le dominio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Tools &gt; Text tool.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T093107Z">
@@ -38404,6 +38516,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124438Z" creationid="MELO46" creationdate="20140701T124410Z">
+        <seg>Conto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094951Z">
@@ -39455,6 +39575,14 @@ IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124347Z" creationid="MELO46" creationdate="20140701T124347Z">
+        <seg>Collectiones TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123001Z">
@@ -39779,6 +39907,14 @@ IS WITH YOU.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T203839Z" creationid="MELO46" creationdate="20140629T203839Z">
         <seg>Destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124456Z" creationid="MELO46" creationdate="20140701T124414Z">
+        <seg>Conto destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -48261,6 +48397,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T125033Z" creationid="MELO46" creationdate="20140701T125025Z">
+        <seg>Requesta non autorisate al servicio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130309T115001Z">
@@ -48629,6 +48773,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T223126Z">
         <seg>Que tu expande le files, e los mitte toto in le plica  "plugins" ubicate in le plica de installation de OmegaT, id es le plica que contine OmegaT.jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124524Z" creationid="MELO46" creationdate="20140701T124524Z">
+        <seg>Renovate</seg>
       </tuv>
     </tu>
     <tu>
@@ -50957,6 +51109,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095529Z">
         <seg>Incorrecte authentication</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T125026Z" creationid="MELO46" creationdate="20140701T125026Z">
+        <seg>Wrong response format from TaaS service</seg>
       </tuv>
     </tu>
     <tu>
@@ -70153,6 +70313,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T113526Z" creationid="MELO46" creationdate="20140701T113526Z">
         <seg>+{0} plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TAAS_LIST_NAME</prop>
+      <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124400Z" creationid="MELO46" creationdate="20140701T124400Z">
+        <seg>Nomine</seg>
       </tuv>
     </tu>
   </body>
