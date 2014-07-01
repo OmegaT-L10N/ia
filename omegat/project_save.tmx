@@ -2876,6 +2876,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--% (-- left) / --% (-- left), --</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123331Z" creationid="MELO46" creationdate="20140701T123331Z">
+        <seg>--% (-- restante) / --% (-- restante), --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T143722Z" creationid="MELO46" creationdate="20140615T143722Z">
@@ -3152,6 +3160,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T091430Z" creationid="MELO46" creationdate="20140228T091430Z">
         <seg>1 and 2 above on a medium customarily used for software interchange; or,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123939Z" creationid="MELO46" creationdate="20140701T123939Z">
+        <seg>1 segmentq</seg>
       </tuv>
     </tu>
     <tu>
@@ -14061,6 +14077,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123827Z" creationid="MELO46" creationdate="20140701T123827Z">
+        <seg>Commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140201T120930Z">
@@ -18657,6 +18681,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094929Z">
         <seg>File: rendite / numero de segmentos (projecto: unic rendite / unic, numero total de segmentos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123444Z" creationid="MELO46" creationdate="20140701T123444Z">
+        <seg>File: rendite unic  % (restante unic) / projecto: rendite unic % (restante unic), numero total de segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -33411,6 +33443,14 @@ pro resolver le fonte del error e reproba.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123738Z" creationid="MELO46" creationdate="20140701T123738Z">
+        <seg>Per favor duple-controla lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T142845Z">
@@ -45005,6 +45045,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123637Z" creationid="MELO46" creationdate="20140701T123637Z">
+        <seg>Iste URL appare non valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's 12 place holders available for scripts.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T062342Z" creationid="MELO" creationdate="20131219T062342Z">
@@ -45465,6 +45513,22 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T141846Z">
         <seg>Iste information es computate pro le segmentos, pro le parolas e pro le characteres (sin e con spatios includite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123537Z" creationid="MELO46" creationdate="20140701T123537Z">
+        <seg>Hic es un deposito Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123600Z" creationid="MELO46" creationdate="20140701T123600Z">
+        <seg>Hic es un deposito Subversion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49693,6 +49757,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095125Z">
         <seg>Advertimento re linea {0}, columna {1} durante le analyse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123905Z" creationid="MELO46" creationdate="20140701T123905Z">
+        <seg>Advertimento!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60326,6 +60398,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>left</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123457Z" creationid="MELO46" creationdate="20140701T123457Z">
+        <seg>restante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>left justification</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T192918Z">
@@ -70023,6 +70103,46 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T210845Z" creationid="MELO46" creationdate="20140629T210845Z">
         <seg>IGNORATE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123813Z" creationid="MELO46" creationdate="20140701T123813Z">
+        <seg>&amp;Salva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_CONFLICTS</prop>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123959Z" creationid="MELO46" creationdate="20140701T123959Z">
+        <seg>{0} conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_CONFLICTS_SINGULAR</prop>
+      <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T124027Z" creationid="MELO46" creationdate="20140701T124027Z">
+        <seg>1 conflicto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.2_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_UNITS</prop>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T123930Z" creationid="MELO46" creationdate="20140701T123930Z">
+        <seg>{0} segmentos</seg>
       </tuv>
     </tu>
     <tu>
