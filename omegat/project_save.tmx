@@ -10762,6 +10762,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the repo type.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140701T113904Z" creationid="MELO46" creationdate="20140701T113904Z">
+        <seg>Tentante a discoperir le typo de deposito, occurreva un error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095049Z">
