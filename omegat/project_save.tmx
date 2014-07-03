@@ -1852,6 +1852,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This alternative is</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135615Z" creationid="MELO46" creationdate="20140703T135615Z">
+        <seg>(This alternative is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T220243Z">
@@ -7180,8 +7188,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130216T141641Z">
-        <seg>&lt;p0&gt;Traduction automatica&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135954Z">
+        <seg>&lt;p0&gt;Traduction automatic&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14093,6 +14101,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T140310Z" creationid="MELO46" creationdate="20140703T140310Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CodeZapper macro</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T083819Z">
@@ -16189,6 +16207,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel is the the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T140301Z" creationid="MELO46" creationdate="20140703T140301Z">
+        <seg>Didier Briel es le Director del Projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130215T234523Z">
@@ -17161,6 +17187,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160124Z" creationid="MELO46" creationdate="20131226T160124Z">
         <seg>EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EXCEPT WHEN</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T140338Z" creationid="MELO46" creationdate="20140703T140338Z">
+        <seg>EXCEPT WHEN</seg>
       </tuv>
     </tu>
     <tu>
@@ -21225,6 +21259,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131220T030021Z">
         <seg>Comocunque, OpenOffice.org facilita le uso de OmegaT (per exemplo, como constatate supra, con le facilitar a manear le files de Microsoft Office), e forni additional &lt;/f1&gt;&lt;f2&gt;functiones utile pro le traductores e non connexe con OmegaT, assi como le function &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;pro le creation de files PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, as a</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135721Z" creationid="MELO46" creationdate="20140703T135721Z">
+        <seg>However, as a</seg>
       </tuv>
     </tu>
     <tu>
@@ -27816,8 +27858,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095351Z">
-        <seg>Traduction automatica</seg>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135945Z">
+        <seg>Traduction automatic</seg>
       </tuv>
     </tu>
     <tu>
@@ -29186,6 +29228,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T071729Z" creationid="MELO46" creationdate="20140615T071729Z">
         <seg>NB:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NO WARRANTY</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T140327Z" creationid="MELO46" creationdate="20140703T140327Z">
+        <seg>NO WARRANTY</seg>
       </tuv>
     </tu>
     <tu>
@@ -44655,6 +44705,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065027Z" creationid="MELO" creationdate="20131219T065027Z">
         <seg>These Warranty Disclaimers are considered to be included by reference in this License, but only as regards disclaiming warranties: any other implication that these Warranty Disclaimers may have is void and has no effect on the meaning of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These actions are</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135728Z" creationid="MELO46" creationdate="20140703T135728Z">
+        <seg>These actions are</seg>
       </tuv>
     </tu>
     <tu>
@@ -60510,6 +60568,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135615Z" creationid="MELO46" creationdate="20140703T135615Z">
+        <seg>language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lao</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140501Z">
@@ -60954,6 +61020,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155735Z" creationid="MELO46" creationdate="20131226T155735Z">
         <seg>makes it unnecessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>making modifications to it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135615Z" creationid="MELO46" creationdate="20140703T135615Z">
+        <seg>making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62702,6 +62776,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>patents.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135615Z" creationid="MELO46" creationdate="20140703T135615Z">
+        <seg>patents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>path need not be entered.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T215725Z">
@@ -63106,6 +63188,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155852Z" creationid="MELO46" creationdate="20131226T155852Z">
         <seg>propagate the contents of its contributor version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>proprietary programs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T140343Z" creationid="MELO46" creationdate="20140703T140343Z">
+        <seg>proprietary programs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63610,6 +63700,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155729Z" creationid="MELO46" creationdate="20131226T155729Z">
         <seg>rights of fair use or other equivalent, as provided by copyright law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rights.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135615Z" creationid="MELO46" creationdate="20140703T135615Z">
+        <seg>rights.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64322,6 +64420,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T085419Z" creationid="MELO46" creationdate="20140228T085419Z">
         <seg>software--to make sure the software is free for all its users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>software.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO46" changedate="20140703T135615Z" creationid="MELO46" creationdate="20140703T135615Z">
+        <seg>software.</seg>
       </tuv>
     </tu>
     <tu>
