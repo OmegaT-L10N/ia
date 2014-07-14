@@ -42018,6 +42018,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The early Earth contained no oxygen and was converted to the oxygen-rich atmosphere we have today 2.5 billion years ago by the "invention" of the water splitting process in Photosystem II (PSII).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="melo46" changedate="20140714T150652Z" creationid="melo46" creationdate="20140714T150652Z">
+        <seg>Le terra primitive non contineva oxygeno e esseva convertite al atmosphera ric de oxygeno, nos hodie ha  2.5 billion de annos desde le "invention" del processo de fission in le Photosystem II (PSII).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T063514Z">
