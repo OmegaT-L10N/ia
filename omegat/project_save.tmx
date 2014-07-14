@@ -11422,6 +11422,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arizona State University</seg>
+      </tuv>
+      <tuv lang="IA" changeid="melo46" changedate="20140714T143358Z" creationid="melo46" creationdate="20140714T143358Z">
+        <seg>Universitate statal del Arizona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Armenian</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094425Z">
@@ -26311,6 +26319,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>July 9, 2014</seg>
+      </tuv>
+      <tuv lang="IA" changeid="melo46" changedate="20140714T143258Z" creationid="melo46" creationdate="20140714T143258Z">
+        <seg>9 julio 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T215031Z">
@@ -39276,6 +39292,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T164117Z">
         <seg>Summario del commandos de propagation e concordantia un a multe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="melo46" changedate="20140714T143315Z" creationid="melo46" creationdate="20140714T143315Z">
+        <seg>Summario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -68154,6 +68178,17 @@ a</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">First snapshots of water splitting in photosynthesis.odt</prop>
+      <prop type="prev">First snapshots of water splitting in photosynthesis</prop>
+      <prop type="next">July 9, 2014</prop>
+      <tuv lang="EN">
+        <seg>Source:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="melo46" changedate="20140714T143221Z" creationid="melo46" creationdate="20140714T143221Z">
+        <seg>Fonte:</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OmegaT for Beginners.odt</prop>
       <prop type="prev">en.wikipedia.org/wiki/Russian&lt;br0/&gt;</prop>
