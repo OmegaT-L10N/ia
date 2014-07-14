@@ -1,16 +1,17 @@
-09/07/14 11.55
+14/07/14 8.40
 Statistiche del progetto
 
                  	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
-Totali:          	   21167	181565	                 959487	              1118051	  146	
-Restanti:        	       0	     0	                      0	                    0	    0	
-Univoci:         	    8405	 86129	                 447065	               523931	   90	
-Univoci restanti:	       0	     0	                      0	                    0	    0	
+Totali:          	   21229	183097	                 968226	              1128260	  147	
+Restanti:        	      59	  1509	                   8583	                10033	    1	
+Univoci:         	    8466	 87634	                 455655	               533965	   91	
+Univoci restanti:	      58	  1482	                   8434	                 9858	    1	
 
 
 Statistiche file singoli:
 
 Nome del file                                                                                            	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+First snapshots of water splitting in photosynthesis.odt                                                 	             62	               59	              61	                       58	         1532	           1509	           1505	                    1482	                          8739	                            8583	                           8590	                                    8434	                       10209	                         10033	                        10034	                                  9858	
 TrascrizionePatrickMooreprimarevisioneCopia.odt                                                          	            411	                0	             411	                        0	         9537	              0	           9537	                       0	                         42697	                               0	                          42697	                                       0	                       51809	                             0	                        51809	                                     0	
 OmegaT_3.1.2_L10N_Full\source\src\org\omegat\Bundle.properties                                           	           1137	                0	            1099	                        0	         5212	              0	           5119	                       0	                         29753	                               0	                          29174	                                       0	                       33716	                             0	                        33082	                                     0	
 OmegaT_3.1.2_L10N_Full\source\scripts\properties\svn_cleanup_selected.properties                         	              6	                0	               6	                        0	           26	              0	             26	                       0	                           142	                               0	                            142	                                       0	                         163	                             0	                          163	                                     0	
