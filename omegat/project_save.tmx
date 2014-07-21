@@ -14591,6 +14591,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convention on the Rights of the Child</seg>
+      </tuv>
+      <tuv lang="IA" changeid="melo46" changedate="20140721T222231Z" creationid="melo46" creationdate="20140721T222231Z">
+        <seg>Convention sur le Derectos del Infantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they can work together.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T141316Z">
@@ -68355,6 +68363,17 @@ a</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Convention on the Rights of the Child.docx</prop>
+      <prop type="prev">entry into force 2 September 1990, in accordance with article 49</prop>
+      <prop type="next">The States Parties to the present Convention,</prop>
+      <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="IA" changeid="melo46" changedate="20140721T222314Z" creationid="melo46" creationdate="20140721T222314Z">
+        <seg>Preambulo</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">First snapshots of water splitting in photosynthesis.odt</prop>
       <prop type="prev">First snapshots of water splitting in photosynthesis</prop>
