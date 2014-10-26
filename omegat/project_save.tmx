@@ -18273,8 +18273,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Entries with modified tags</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T121632Z">
-        <seg>Entratas con le tags (tags) modificate </seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103753Z">
+        <seg>Entratas con le tags modificate </seg>
       </tuv>
     </tu>
     <tu>
@@ -19009,8 +19009,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094921Z">
-        <seg>Mancate carga del files del projecto!</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103719Z">
+        <seg>Mancate cargamento del files del projecto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19025,16 +19025,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094921Z">
-        <seg>Mancate carga del projecto specificate!</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103706Z">
+        <seg>Mancate cargamento del projecto specificate!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094920Z">
-        <seg>Mancate carga del memoria de traduction {0} pro le projecto!</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103658Z">
+        <seg>Mancate cargamento del memoria de traduction {0} pro le projecto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -30155,8 +30155,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>No tag errors detected</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T120805Z">
-        <seg>Nulle errores de tag detectate</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103807Z">
+        <seg>Nulle error de tag detectate</seg>
       </tuv>
     </tu>
     <tu>
@@ -50430,8 +50430,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Validating Tags...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T120940Z">
-        <seg>Validante le tags...</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103827Z">
+        <seg>Validante le Tags...</seg>
       </tuv>
     </tu>
     <tu>
@@ -71289,6 +71289,16 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MW_OPTIONSMENU_ALWAYS_CONFIRM_QUIT</prop>
+      <tuv lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103549Z" creationid="Melo" creationdate="20141026T103549Z">
+        <seg>Confirma Semper (&amp;Always) le cessation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">MW_OPTIONSMENU_AUTOCOMPLETE_AUTOTEXT</prop>
       <tuv lang="EN">
         <seg>&amp;Auto-text...</seg>
@@ -71305,6 +71315,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T103524Z" creationid="Melo" creationdate="20141026T103524Z">
         <seg>Tabella del &amp;Characteres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MW_REOPEN_QUESTION</prop>
+      <tuv lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103627Z" creationid="Melo" creationdate="20141026T103627Z">
+        <seg>Reaperir le projecto nunc?</seg>
       </tuv>
     </tu>
     <tu>
