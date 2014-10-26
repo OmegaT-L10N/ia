@@ -5292,8 +5292,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140121T221417Z">
-        <seg>&lt;e0&gt;Vias breve de claviero in le Editor&lt;/e0&gt;: le lista del vias breve usate in le Modifica</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095152Z">
+        <seg>&lt;e0&gt;Vias breve del claviero in Modifica&lt;/e0&gt;: le lista del vias breve usate in le Modifica</seg>
       </tuv>
     </tu>
     <tu>
@@ -5524,8 +5524,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130312T234219Z">
-        <seg>&lt;e0&gt;Personalisation del vias breve:&lt;/e0&gt; le vias breve pote esser personalisate pro los adaptar a tu preferentias personal</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095217Z">
+        <seg>&lt;e0&gt;Personalisation del vias breve:&lt;/e0&gt; le vias breve pote esser personalisate pro adaptar los a tu preferentias personal</seg>
       </tuv>
     </tu>
     <tu>
@@ -40740,8 +40740,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>Team Projects</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130508T131843Z">
-        <seg>Projectos in equipa</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095224Z">
+        <seg>Projectos in Equipa</seg>
       </tuv>
     </tu>
     <tu>
