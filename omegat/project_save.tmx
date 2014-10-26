@@ -22041,6 +22041,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095928Z" creationid="Melo" creationdate="20141026T095928Z">
+        <seg>IGNORATE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160118Z" creationid="MELO46" creationdate="20131226T160118Z">
@@ -29969,6 +29977,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095749Z" creationid="Melo" creationdate="20141026T095749Z">
+        <seg>Segmento Sequente Rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T114926Z">
@@ -37887,10 +37903,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095724Z" creationid="Melo" creationdate="20141026T095724Z">
+        <seg>Selige le Concordantia Sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Options &gt; Machine Translate</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T085911Z">
         <seg>Selige Optiones &gt; Traduction Automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095649Z" creationid="Melo" creationdate="20141026T095649Z">
+        <seg>Selige le Concordantia Previe</seg>
       </tuv>
     </tu>
     <tu>
@@ -71170,6 +71202,37 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T124400Z" creationid="MELO46" creationdate="20140701T124400Z">
         <seg>Nomine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/doc_src/en/AboutOmegaT.xml</prop>
+      <prop type="prev">Team Projects</prop>
+      <prop type="next">&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</prop>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095309Z" creationid="Melo" creationdate="20141026T095309Z">
+        <seg>Informationes legal e Recognitiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/scripts/properties/spellcheck.properties</prop>
+      <prop type="id">logIgnored</prop>
+      <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095901Z" creationid="Melo" creationdate="20141026T095901Z">
+        <seg>IGNORATE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/scripts/properties/spellcheck.properties</prop>
+      <prop type="id">tabHeaderIgnore</prop>
+      <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095915Z" creationid="Melo" creationdate="20141026T095915Z">
+        <seg>Ignora</seg>
       </tuv>
     </tu>
   </body>
