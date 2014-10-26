@@ -1434,8 +1434,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Source Tokenizer Behaviour:</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T104720Z" creationid="Melo" creationdate="20141026T104720Z">
-        <seg>Comportamento  del Tokenizer Fonte (&amp;Source):</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104845Z" creationid="Melo" creationdate="20141026T104720Z">
+        <seg>Comportamento  del Tokenizer del Fonte (&amp;Source):</seg>
       </tuv>
     </tu>
     <tu>
@@ -1468,6 +1468,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T081903Z">
         <seg>Tokenizer del lingua origine (&amp;Source):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104832Z" creationid="Melo" creationdate="20141026T104832Z">
+        <seg>Comportamento  del Tokenizer del Destination (&amp;Target):</seg>
       </tuv>
     </tu>
     <tu>
@@ -16625,8 +16633,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095029Z">
-        <seg>Classificator del dictionario:</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104929Z">
+        <seg>Plica del dictionario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -71351,6 +71359,36 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T103627Z" creationid="Melo" creationdate="20141026T103627Z">
         <seg>Reaperir le projecto nunc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">PP_BUTTON_BROWSE_SRC_EXCLUDES</prop>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T105007Z" creationid="Melo" creationdate="20141026T105007Z">
+        <seg>E&amp;xclusiones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_ADVANCED_OPTIONS</prop>
+      <tuv lang="EN">
+        <seg>Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T105055Z" creationid="Melo" creationdate="20141026T105055Z">
+        <seg>&amp;Optiones Avantiate </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_DISPLAY_LABEL</prop>
+      <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T105117Z" creationid="Melo" creationdate="20141026T105117Z">
+        <seg>Monstra:</seg>
       </tuv>
     </tu>
     <tu>
