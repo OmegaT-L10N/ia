@@ -71289,6 +71289,26 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MW_OPTIONSMENU_AUTOCOMPLETE_AUTOTEXT</prop>
+      <tuv lang="EN">
+        <seg>&amp;Auto-text...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103456Z" creationid="Melo" creationdate="20141026T103456Z">
+        <seg>&amp;Auto-texto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MW_OPTIONSMENU_AUTOCOMPLETE_CHARTABLE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Character Table...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103524Z" creationid="Melo" creationdate="20141026T103524Z">
+        <seg>Tabella del &amp;Characteres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">TF_MENU_EDIT_COMPARE</prop>
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
@@ -71395,6 +71415,36 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T101641Z" creationid="Melo" creationdate="20141026T101641Z">
         <seg>Discarga un  Projec&amp;To de Equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_OPTIONSMENU_GLOSSARY_TBX_DISPLAY_CONTEXT</prop>
+      <tuv lang="EN">
+        <seg>&amp;Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103359Z" creationid="Melo" creationdate="20141026T103359Z">
+        <seg>Monstra le &amp;Description Contextual pro le Glossarios de TBX </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_OPTIONSMENU_MACHINETRANSLATE</prop>
+      <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103304Z" creationid="Melo" creationdate="20141026T103304Z">
+        <seg>Traduction Automatic (&amp;h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_OPTIONSMENU_TRANSTIPS_ENABLE</prop>
+      <tuv lang="EN">
+        <seg>Enable &amp;TransTips</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103423Z" creationid="Melo" creationdate="20141026T103423Z">
+        <seg>Habilita le Avisos (&amp;TransTips)</seg>
       </tuv>
     </tu>
   </body>
