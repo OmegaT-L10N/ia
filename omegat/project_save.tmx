@@ -978,8 +978,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Insert Match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094800Z">
-        <seg>&amp;Introduce le concordantia</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102006Z">
+        <seg>&amp;Introduce le Concordantia</seg>
       </tuv>
     </tu>
     <tu>
@@ -19113,8 +19113,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094758Z">
-        <seg>File &amp;Filtros...</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101957Z">
+        <seg>&amp;Filtros del File...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22027,8 +22027,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094801Z">
-        <seg>I&amp;nsere fonte</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102132Z">
+        <seg>I&amp;nsere le Fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -35265,8 +35265,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094800Z">
-        <seg>R&amp;eimplacia con le concordantia</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102013Z">
+        <seg>R&amp;eimplacia con le Concordantia</seg>
       </tuv>
     </tu>
     <tu>
@@ -36049,8 +36049,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094800Z">
-        <seg>Reimplacia con le traduction a &amp;Machina</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102115Z">
+        <seg>Reimplacia con le Traduction Auto&amp;Matic</seg>
       </tuv>
     </tu>
     <tu>
@@ -71275,6 +71275,26 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T101819Z" creationid="Melo" creationdate="20141026T101819Z">
         <seg>Copia del File Fallite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_EDIT_EXPORT_SELECTION</prop>
+      <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102217Z" creationid="Melo" creationdate="20141026T102217Z">
+        <seg>E&amp;xporta le Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_EDIT_SOURCE_OVERWRITE</prop>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102200Z" creationid="Melo" creationdate="20141026T102200Z">
+        <seg>Reim&amp;placia con Fonte</seg>
       </tuv>
     </tu>
     <tu>
