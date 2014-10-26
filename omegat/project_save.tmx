@@ -52238,8 +52238,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T074801Z" creationid="MELO46" creationdate="20140615T074801Z">
-        <seg>Tu va a modificar {0} segmentos.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T105336Z" creationid="MELO46" creationdate="20140615T074801Z">
+        <seg>Tu sta per modificar {0} segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54333,6 +54333,14 @@ crear su classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T091622Z" creationid="MELO46" creationdate="20140228T091622Z">
         <seg>all its terms and conditions for copying, distributing or modifying</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T105145Z" creationid="Melo" creationdate="20141026T105145Z">
+        <seg>omne segmentos concordante</seg>
       </tuv>
     </tu>
     <tu>
@@ -71389,6 +71397,26 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T105117Z" creationid="Melo" creationdate="20141026T105117Z">
         <seg>Monstra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_FILE_NAMES</prop>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T105236Z" creationid="Melo" creationdate="20141026T105236Z">
+        <seg>nomine del files </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_NR_OF_MORE</prop>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T105347Z" creationid="Melo" creationdate="20141026T105347Z">
+        <seg>+{0} plus</seg>
       </tuv>
     </tu>
     <tu>
