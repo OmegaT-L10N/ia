@@ -770,8 +770,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Editing Behaviour...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094910Z">
-        <seg>Comportamento pro &amp;Editar...</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T100845Z">
+        <seg>Comportamento del Modifica (&amp;Edit)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16131,6 +16131,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T191533Z">
         <seg>Actualmente &lt;a1&gt;OmegaT&lt;/a1&gt; supporta le sequente formatos de texto simple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Co&amp;lours...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T100659Z" creationid="Melo" creationdate="20141026T100659Z">
+        <seg>Co&amp;lori Personali...</seg>
       </tuv>
     </tu>
     <tu>
