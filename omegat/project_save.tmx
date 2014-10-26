@@ -24285,6 +24285,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T095940Z" creationid="Melo" creationdate="20141026T095940Z">
+        <seg>Ignora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095417Z">
@@ -32849,6 +32857,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095025Z">
         <seg>Aperir le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T100044Z" creationid="Melo" creationdate="20141026T100044Z">
+        <seg>Aperi Projecto Recente</seg>
       </tuv>
     </tu>
     <tu>
