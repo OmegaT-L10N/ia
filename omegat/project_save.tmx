@@ -5316,8 +5316,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T071502Z">
-        <seg>&lt;e0&gt; Guida de initio rapide:&lt;/e0&gt; iste capitulo es designate como un rapide parve instruction sia pro novicios sia pro gente que jam cognosce le applicationes CAT, monstra le procedura complete ab le apertura de un nove projecto de traduction, al completamento del traduction..</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T093852Z">
+        <seg>&lt;e0&gt; Guida de initio rapide:&lt;/e0&gt; iste capitulo es designate como un rapide parve instruction sia pro novicios, sia pro gente que jam cognosce le applicationes CAT, monstra le procedura complete a partir del apertura de un nove projecto de traduction, usque al completamento del traduction..</seg>
       </tuv>
     </tu>
     <tu>
@@ -5620,8 +5620,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T093130Z">
-        <seg>&lt;e0&gt;Processo de traduction:&lt;/e0&gt; Figura te de deber traducer alique; a partir de un sol file fin a un plica continente sub-plicas, cata plica con plure files in plure formatos.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T093907Z">
+        <seg>&lt;e0&gt;Processo de traduction:&lt;/e0&gt; Figura te de deber traducer alique; a partir de un sol file usque a un plica continente sub-plicas, cata plica con plure files in plure formatos.</seg>
       </tuv>
     </tu>
     <tu>
