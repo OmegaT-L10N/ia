@@ -25511,8 +25511,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T213829Z">
-        <seg>Insere le proxime tag mancante</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102415Z">
+        <seg>Insere le Tag Mancante Sequente</seg>
       </tuv>
     </tu>
     <tu>
@@ -71289,12 +71289,32 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_EDIT_IDENTICAL_TRANSLATION</prop>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102516Z" creationid="Melo" creationdate="20141026T102516Z">
+        <seg>Registrar Traduction Identic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">TF_MENU_EDIT_SOURCE_OVERWRITE</prop>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T102200Z" creationid="Melo" creationdate="20141026T102200Z">
         <seg>Reim&amp;placia con Fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_EDIT_TAGPAINT</prop>
+      <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T102303Z" creationid="Melo" creationdate="20141026T102303Z">
+        <seg>Insere le &amp;Tags Fonte Mancante </seg>
       </tuv>
     </tu>
     <tu>
