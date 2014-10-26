@@ -1432,6 +1432,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104720Z" creationid="Melo" creationdate="20141026T104720Z">
+        <seg>Comportamento  del Tokenizer Fonte (&amp;Source):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094849Z">
@@ -33215,8 +33223,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094956Z">
-        <seg>Segmentos orphano</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104617Z">
+        <seg>Segmentos orphane</seg>
       </tuv>
     </tu>
     <tu>
