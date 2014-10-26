@@ -18457,8 +18457,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094925Z">
-        <seg>Error durante que tenta a editar le projecto!</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104037Z">
+        <seg>Error durante que tu tenta a editar le projecto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26546,8 +26546,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T214542Z">
-        <seg>Il non esseva possibile crear le documentos rendite, post que alicun tags es mancante o damnificate.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103856Z">
+        <seg>Il non ha essite possibile crear le documentos rendite, post que alicun tags es mancante o damnificate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34168,8 +34168,8 @@ pro resolver le fonte del error e reproba.</seg>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T214842Z">
-        <seg>Per favor corrige le questiones del tags ante que usar novemente Crea documentos rendite.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T103957Z">
+        <seg>Per favor corrige le questiones del tags ante que usa novemente le commando Crea Documentos Rendite.</seg>
       </tuv>
     </tu>
     <tu>
