@@ -20465,8 +20465,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T142239Z">
-        <seg>Pro tu referentia, OmegaT monstra le traduction de omne le parolas del glossario que  sia es presente in le segmento sia es registrata in le glossario.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T093002Z">
+        <seg>Pro tu referentia, OmegaT monstra le traduction de omne le parolas del glossario que sia presente in le segmento e registrata in le glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32007,8 +32007,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T115308Z">
-        <seg>OmegaT usa glossarios continente traductiones de parolas singule o parve phrases: un dictionario bilingue simplificate pro un specific dominio.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T092828Z">
+        <seg>OmegaT usa glossarios continente traductiones de parolas singule o parve phrases: un dictionario bilingue pro specific dominios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32039,8 +32039,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T071305Z">
-        <seg>Pro registrar e acceder le memorias de traduction OmegaT usa le formato de file standard TMX, le qual garanti que tu pote excambiar tu material de traduction con altere applicationes CAT que supporta le mesme formato de file.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T092735Z">
+        <seg>Pro registrar e acceder al memorias de traduction, OmegaT usa le formato de file standard TMX, le qual garanti que tu pote excambiar tu production de traduction con altere applicationes CAT que supporta le mesme formato de file.</seg>
       </tuv>
     </tu>
     <tu>
