@@ -5620,8 +5620,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T223012Z">
-        <seg>&lt;e0&gt;Processo de traduction:&lt;/e0&gt; Figura te de deber traducer alique; ab un sol file a un plica continente sub-plicas, cata con plure files in un varietate de formatos.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T093130Z">
+        <seg>&lt;e0&gt;Processo de traduction:&lt;/e0&gt; Figura te de deber traducer alique; a partir de un sol file fin a un plica continente sub-plicas, cata plica con plure files in plure formatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51174,8 +51174,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T120456Z">
-        <seg>Quando tu face saper a OmegaT le files que tu debe traducer, illo examina le files que comprende, con le regulas de filtration del files, recognosce le partes textual intra illos, divide le gruppos de texto secundo le regulas de segmentation e expone le segmentos uno a uno, de maniera que tu pote proceder con le traduction.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T093241Z">
+        <seg>Quando indica a OmegaT le files que tu debe traducer, illo examina le files que comprende con le regulas de filtration del files, recognosce le partes textual intra illos, divide le gruppos de texto secundo le regulas de segmentation e expone le segmentos uno a uno, de maniera que tu pote proceder con le traduction.</seg>
       </tuv>
     </tu>
     <tu>
