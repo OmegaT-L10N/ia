@@ -26864,6 +26864,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104213Z" creationid="Melo" creationdate="20141026T104213Z">
+        <seg>Saltante al segmento modificate ultime...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T215031Z">
@@ -27515,8 +27523,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094930Z">
-        <seg>Ultime modificate ab {0}</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104351Z">
+        <seg>Ultime modificate per {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -71265,6 +71273,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T095915Z" creationid="Melo" creationdate="20141026T095915Z">
         <seg>Ignora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">CT_COMPILE_DONE_MX_SINGULAR</prop>
+      <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T104430Z" creationid="Melo" creationdate="20141026T104430Z">
+        <seg>Documento Rendite Create</seg>
       </tuv>
     </tu>
     <tu>
