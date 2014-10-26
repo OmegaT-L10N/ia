@@ -24407,8 +24407,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T072546Z">
-        <seg>In OmegaT, le segmentos pote esser basate sur paragraphos o regulas de segmentation.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T094353Z">
+        <seg>In OmegaT le segmentos es basate o sur paragraphos o sur regulas de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35657,8 +35657,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T093610Z">
-        <seg>Regular expressiones es alsi usate amplemente in le regulas de segmentation.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T094552Z">
+        <seg>Le expressiones regular es alsi usate amplemente in le regulas de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44094,8 +44094,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140121T220458Z">
-        <seg>Le segmentation basate sur le regulas es habitualmente synonyme con le segmentation basate super le phrases.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T094443Z">
+        <seg>Le segmentation basate sur regulas es habitualmente synonyme con segmentation basate sur phrases.</seg>
       </tuv>
     </tu>
     <tu>
