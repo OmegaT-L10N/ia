@@ -1739,9 +1739,9 @@ java -jar OmegaT.jar $*</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T171615Z">
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101359Z">
         <seg>(In le manual del usator, vide 'Files a render' &gt; 'Formatos del file' pro un lista del formatos de file supportate.)
-Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le fenestra "Files del projecto" o commanda iste action ab le menu "Projecto" e selige le files fonte que tu vole copiar.</seg>
+Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le fenestra "Files del projecto" o commanda iste action per le menu "Projecto" e selige le files fonte que tu vole copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31927,8 +31927,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T220354Z">
-        <seg>OmegaT functionava foras de memoria, e quitara quando tu pressa OK.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101315Z">
+        <seg>OmegaT ha functionate foras de memoria, e quitara quando tu pressara OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52976,8 +52976,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094751Z">
-        <seg>Tu pote anque copiar le files in le classificator "Primari" de tu projectos per medio de tu favorite administrator de files e recargar le projecto con le commando "Recarga" ex le menu "Projecto".</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101528Z">
+        <seg>Tu pote anque copiar le files in le classificator "Primari" de tu projectos per medio de tu Administrator de files favorite e recargar tu projecto con le commando "Recarga" del menu "Projecto".</seg>
       </tuv>
     </tu>
     <tu>
