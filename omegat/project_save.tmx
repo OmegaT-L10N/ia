@@ -1154,8 +1154,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T220617Z">
-        <seg>Aperi (&amp;Open)...</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101743Z">
+        <seg>Aperi (&amp;O)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -71265,6 +71265,36 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T095915Z" creationid="Melo" creationdate="20141026T095915Z">
         <seg>Ignora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MAIN_ERROR_File_Import_Failed</prop>
+      <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101819Z" creationid="Melo" creationdate="20141026T101819Z">
+        <seg>Copia del File Fallite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_COMPILE</prop>
+      <tuv lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101908Z" creationid="Melo" creationdate="20141026T101908Z">
+        <seg>Crea documentos &amp;Traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TF_MENU_FILE_TEAM_CREATE</prop>
+      <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101641Z" creationid="Melo" creationdate="20141026T101641Z">
+        <seg>Discarga un  Projec&amp;To de Equipa...</seg>
       </tuv>
     </tu>
   </body>
