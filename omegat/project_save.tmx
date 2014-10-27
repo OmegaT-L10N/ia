@@ -19347,8 +19347,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Filename Variables:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095247Z">
-        <seg>Variabiles nomine del file:</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214407Z">
+        <seg>Variabiles Nomine del file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30813,8 +30813,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095250Z">
-        <seg>Nota: le arrangiamento del codification del file primari affice solmente le files HTML que non contine declaration de codification.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214550Z">
+        <seg>Nota: le arrangiamento del codification del file fonte affice solmente le files HTML que non contine declaration de codification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34891,8 +34891,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095248Z">
-        <seg>Projecto autosalvate sur {0}</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214532Z">
+        <seg>Projecto auto-salvate sur le {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -48764,8 +48764,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095142Z">
-        <seg>Modello nomine del file rendite</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214433Z">
+        <seg>Modello del Nomine del file Rendite</seg>
       </tuv>
     </tu>
     <tu>
