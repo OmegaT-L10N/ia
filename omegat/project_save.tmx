@@ -18251,8 +18251,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095335Z">
-        <seg>Inscribe un termino primari, un termino final e un commento:</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215803Z">
+        <seg>Inscribe un termino fonte, un termino de destination e un commento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23569,8 +23569,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095338Z">
-        <seg>Si tu usa un proxy authenticate, per favor inscribe ci tu usuario e contrasigno.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215921Z">
+        <seg>Si tu usa un proxy authenticate, per favor inscribe ci tu nomine de usator e tu contrasigno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40862,8 +40862,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>Target term:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095336Z">
-        <seg>Termino final:</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215834Z">
+        <seg>Termino de destination:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49938,6 +49938,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T114800Z">
         <seg>Usa como Traduction Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification info</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215738Z" creationid="Melo" creationdate="20141027T215738Z">
+        <seg>Usa modellos personal pro le informationes del modifica</seg>
       </tuv>
     </tu>
     <tu>
