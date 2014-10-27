@@ -9988,8 +9988,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add glossary entry</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T123400Z">
-        <seg>Adde un entrata del glossario</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220129Z">
+        <seg>Adde un entrata al glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -18379,8 +18379,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095339Z">
-        <seg>Error de decodification del usuario e contrasigno.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220024Z">
+        <seg>Error de decodification del usator e del contrasigno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31839,8 +31839,8 @@ interne al classificator de configuration.</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T142030Z">
-        <seg>A OmegaT es refusate le accesso al proprietate del systema continente
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220236Z">
+        <seg>A OmegaT ha refusate le accesso al proprietate del systema continente
 le nomine de tu OS o al proprietate del systema continente
 tu plica base.</seg>
       </tuv>
@@ -71479,6 +71479,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T101819Z" creationid="Melo" creationdate="20141026T101819Z">
         <seg>Copia del File Fallite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MATCHES_MULTI_FILE_HINT</prop>
+      <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220248Z" creationid="Melo" creationdate="20141027T220248Z">
+        <seg>(+{0} plus)</seg>
       </tuv>
     </tu>
     <tu>
