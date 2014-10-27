@@ -568,6 +568,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221800Z" creationid="Melo" creationdate="20141027T221800Z">
+        <seg>&amp;Applica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Apply this font to the Project Files window</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162544Z">
@@ -1292,6 +1300,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T142922Z" creationid="MELO46" creationdate="20140615T142922Z">
         <seg>&amp;Replacia le Successivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset to Default</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221737Z" creationid="Melo" creationdate="20141027T221737Z">
+        <seg>P&amp;Refixa al arrangiamento Base initial</seg>
       </tuv>
     </tu>
     <tu>
@@ -34408,6 +34424,14 @@ pro resolver le origine del error e reproba.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221937Z" creationid="Melo" creationdate="20141027T221937Z">
+        <seg>Per favor reinitia le application pro monstrar correctemente le colores nove.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please see the file 'changes.txt' for detailed information about changes in</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094730Z">
@@ -43858,6 +43882,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T075127Z">
         <seg>Le nomines del files debe exactemente corresponder al codice del lingua de tu lingua final como definite in le fenestra de dialogo Proprietates del projecto (Projecto &gt; Proprietates).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221835Z" creationid="Melo" creationdate="20141027T221835Z">
+        <seg>Le nove colores esseva salvate.</seg>
       </tuv>
     </tu>
     <tu>
