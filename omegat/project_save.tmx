@@ -16185,6 +16185,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221033Z" creationid="Melo" creationdate="20141027T221033Z">
+        <seg>Selection del Colores Personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T100315Z" creationid="MELO46" creationdate="20131224T100315Z">
@@ -36049,6 +36057,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221243Z" creationid="Melo" creationdate="20141027T221243Z">
+        <seg>Remove le texto de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095452Z">
@@ -37941,6 +37957,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T170106Z">
         <seg>Segmentos le qual occurre plus que un vice es denominate in OmegaT como "segmentos non unic".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221120Z" creationid="Melo" creationdate="20141027T221120Z">
+        <seg>Segmentos con notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -71525,6 +71549,56 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T220634Z" creationid="Melo" creationdate="20141027T220634Z">
         <seg>&amp;Salva...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_NBSP</prop>
+      <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221259Z" creationid="Melo" creationdate="20141027T221259Z">
+        <seg>Spatios non-frangibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_NON_UNIQUE</prop>
+      <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221227Z" creationid="Melo" creationdate="20141027T221227Z">
+        <seg>Segmentos non-unic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_SOURCE</prop>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221055Z" creationid="Melo" creationdate="20141027T221055Z">
+        <seg>Segmentation del texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_TRANSLATED</prop>
+      <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221204Z" creationid="Melo" creationdate="20141027T221204Z">
+        <seg>Segmentos rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_UNTRANSLATED</prop>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221135Z" creationid="Melo" creationdate="20141027T221135Z">
+        <seg>Segmentos non rendite</seg>
       </tuv>
     </tu>
     <tu>
