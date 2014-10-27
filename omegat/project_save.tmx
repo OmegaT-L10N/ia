@@ -17827,8 +17827,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Edit Pattern</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095245Z">
-        <seg>Edita le schema</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214223Z">
+        <seg>Edita le Modello</seg>
       </tuv>
     </tu>
     <tu>
@@ -24347,6 +24347,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095417Z">
         <seg>Ignora toto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214152Z" creationid="Melo" creationdate="20141027T214152Z">
+        <seg>Ignora le contexto del file quando es identificante segmentos con traductiones alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -39267,8 +39275,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source File Encoding:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095246Z">
-        <seg>Codification del file primari:</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214330Z">
+        <seg>Codification del file Fonte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39283,8 +39291,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095245Z">
-        <seg>Modello nomine del file primari:</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214301Z">
+        <seg>Modello de Nomine del file Fonte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48748,8 +48756,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translated File Encoding:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095246Z">
-        <seg>Codification del file rendite:</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214350Z">
+        <seg>Codification del File Rendite:</seg>
       </tuv>
     </tu>
     <tu>
