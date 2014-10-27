@@ -18105,6 +18105,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220618Z" creationid="Melo" creationdate="20141027T220618Z">
+        <seg>Fini rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130215T235549Z">
@@ -39729,6 +39737,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220602Z" creationid="Melo" creationdate="20141027T220602Z">
+        <seg>Initia rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T122301Z">
@@ -40968,6 +40984,22 @@ IS WITH YOU.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095535Z">
         <seg>Synchronisation del equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220533Z" creationid="Melo" creationdate="20141027T220533Z">
+        <seg>Synchronisation del equipa: salvante le translation in {0} s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220447Z" creationid="Melo" creationdate="20141027T220447Z">
+        <seg>Synchronisation del equipa: attendente del tu fin de iste segmento...</seg>
       </tuv>
     </tu>
     <tu>
@@ -71459,6 +71491,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T095915Z" creationid="Melo" creationdate="20141026T095915Z">
         <seg>Ignora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">AC_AUTOTEXT_BUTTON_SAVE</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220634Z" creationid="Melo" creationdate="20141027T220634Z">
+        <seg>&amp;Salva...</seg>
       </tuv>
     </tu>
     <tu>
