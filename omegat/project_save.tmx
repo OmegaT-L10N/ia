@@ -14548,6 +14548,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     <tu>
       <tuv lang="EN">
         <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213626Z" creationid="Melo" creationdate="20141027T213626Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T113553Z" creationid="MELO46" creationdate="20140701T113553Z">
@@ -17555,6 +17565,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T215853Z">
         <seg>Duplicato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213523Z" creationid="Melo" creationdate="20141027T213523Z">
+        <seg>Texto Fallbac&amp;k Duplicate</seg>
       </tuv>
     </tu>
     <tu>
@@ -29235,8 +29253,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T083155Z">
-        <seg>Files Open XML - Microsoft </seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213415Z">
+        <seg>Files XML Open - Microsoft </seg>
       </tuv>
     </tu>
     <tu>
@@ -36739,6 +36757,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115401Z">
         <seg>SVNKit 1.7.5 (Licentia TMate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit 1.8.5 (TMate License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213712Z" creationid="Melo" creationdate="20141027T213712Z">
+        <seg>SVNKit 1.8.5 (TMate License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50408,6 +50434,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115044Z">
         <seg>VLDocking Framework 2.1.4 ex VLSolutions (Licentia CeCILL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework 3.0.4 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213653Z" creationid="Melo" creationdate="20141027T213653Z">
+        <seg>VLDocking Framework 3.0.4 (LGPL License)</seg>
       </tuv>
     </tu>
     <tu>
