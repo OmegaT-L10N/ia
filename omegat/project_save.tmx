@@ -20754,6 +20754,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215255Z" creationid="Melo" creationdate="20141027T215255Z">
+        <seg>Texto plen , includente tags e numeros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T214638Z">
@@ -30219,6 +30227,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215212Z" creationid="Melo" creationdate="20141027T215212Z">
+        <seg>Nulle tags e nulle numeros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No, if it's the 11th most common element in the Earth's crust in fact, but most importantly is the most important of all the elements for public health and medicine</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140406T220058Z" creationid="MELO46" creationdate="20140406T175102Z">
@@ -39241,6 +39257,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215058Z" creationid="Melo" creationdate="20141027T215058Z">
+        <seg>Ordina le concordantias partial per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort target terms alphabetically</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T093347Z" creationid="MELO46" creationdate="20131224T093347Z">
@@ -39733,6 +39757,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130409T074835Z">
         <seg>Barra del Stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215153Z" creationid="Melo" creationdate="20141027T215153Z">
+        <seg>Stirpe, nulle tags e nulle numeros</seg>
       </tuv>
     </tu>
     <tu>
