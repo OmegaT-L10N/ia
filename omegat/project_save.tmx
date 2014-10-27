@@ -12540,8 +12540,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095105Z">
-        <seg>Mal nomine del classificator {0}</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T211850Z">
+        <seg>Mal nomine del plica {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27066,8 +27066,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095102Z">
-        <seg>Le cercas per parola clave reguarda le linea de question specificate como un equipamento de parolas clave de cerca (separate per spatio) e rende omne segmentos que contine omne le parolas del question, in omne arrangiamento.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T211829Z">
+        <seg>Le cercas per parolas clave reguarda le linea de cerca specificate, como un equipamento de parolas clave de cerca (separate per spatio) e rende tote le segmentos que contine tote le parolas del cerca, in omne arrangiamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30131,8 +30131,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>No matches returned by search.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141027T210619Z">
-        <seg>Nulle concordantias rendite per cerca.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T212049Z">
+        <seg>Nulle concordantias rendite per le cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37297,8 +37297,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095106Z">
-        <seg>Le elaboration de cerca moriva inexpectatemente!</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T211942Z">
+        <seg>Le elaboration del cerca es terminate inexpectatemente!</seg>
       </tuv>
     </tu>
     <tu>
