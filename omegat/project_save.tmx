@@ -1368,6 +1368,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Set Colour</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221613Z" creationid="Melo" creationdate="20141027T221613Z">
+        <seg>Impone (&amp;Set) le Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095207Z">
@@ -20705,6 +20713,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221448Z" creationid="Melo" creationdate="20141027T221448Z">
+        <seg>Ex le memoria 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221431Z" creationid="Melo" creationdate="20141027T221431Z">
+        <seg>Ex le memoria ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From Version 1.7.1 onwards, OmegaT has been able to handle Microsoft Office 2007 files directly, without conversion.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T080344Z">
@@ -20717,6 +20741,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T153929Z">
         <seg>Ab un puncto de vista practic, the plus importante par de numeros is the secunde par: illo dice, quanto tu ha intertanto have facite, in relation al total o secunde numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221509Z" creationid="Melo" creationdate="20141027T221509Z">
+        <seg>Ex le memoria auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221410Z" creationid="Melo" creationdate="20141027T221410Z">
+        <seg>Ex le memoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -71553,6 +71593,16 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_BIDIMARKERS</prop>
+      <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221357Z" creationid="Melo" creationdate="20141027T221357Z">
+        <seg>Characteres de controlo bidirectional </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">COLOR_NBSP</prop>
       <tuv lang="EN">
         <seg>Non-breakable spaces</seg>
@@ -71603,12 +71653,32 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">COLOR_WHITESPACE</prop>
+      <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221312Z" creationid="Melo" creationdate="20141027T221312Z">
+        <seg>Spatios blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">CT_COMPILE_DONE_MX_SINGULAR</prop>
       <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T104430Z" creationid="Melo" creationdate="20141026T104430Z">
         <seg>Documento Rendite Create</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">GUI_COLORS_COLOR</prop>
+      <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221527Z" creationid="Melo" creationdate="20141027T221527Z">
+        <seg>Commando:</seg>
       </tuv>
     </tu>
     <tu>
