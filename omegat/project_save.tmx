@@ -9018,6 +9018,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213124Z" creationid="Melo" creationdate="20141027T213124Z">
+        <seg>&lt;trans-unit&gt; &amp;resname ascribite ubi disponibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T144049Z" creationid="MELO46" creationdate="20140615T144049Z">
@@ -42956,8 +42964,8 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140129T231345Z" creationid="MELO46" creationdate="20140129T231345Z">
-        <seg>Le optiones sequente referer se al filtro 3.x solmente</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213323Z" creationid="MELO46" creationdate="20140129T231345Z">
+        <seg>Le optiones sequente se referer al filtro 3.x solmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -51136,6 +51144,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T233144Z" creationid="MELO46" creationdate="20140108T233144Z">
         <seg>Quando on rende inter linguas RTL e LTR, legente correctemente le tags ex le fonte e inscribente illos debitemente in le destination pote requirer que le traductor commuta inter modos LTR e RTL numerose vices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213225Z" creationid="Melo" creationdate="20141027T213225Z">
+        <seg>Quando indisponibile, le ID essera usate qua fallback</seg>
       </tuv>
     </tu>
     <tu>
