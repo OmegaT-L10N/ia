@@ -30131,8 +30131,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>No matches returned by search.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095107Z">
-        <seg>Nulle concordantias rendite ab cerca.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T210619Z">
+        <seg>Nulle concordantias rendite per cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68496,6 +68496,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T083756Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T210730Z" creationid="Melo" creationdate="20141027T210730Z">
+        <seg>{0} +{1} plus</seg>
       </tuv>
     </tu>
     <tu>
