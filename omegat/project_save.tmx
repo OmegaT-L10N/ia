@@ -21660,8 +21660,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095239Z">
-        <seg>Ci tu pote preparar le modellos de nomine de file primari que le filtro processara, accostuma le nomine de files rendite, e selige le codificationes illo usara pro cargar le file e salvar su pendant rendite.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T214007Z">
+        <seg>Ci tu pote preparar le modellos de nomine de file fonte que le filtro processara, accostuma le nomine de files rendite, e selige le codificationes illo usara pro cargar le file e salvar su pendant rendite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36661,6 +36661,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115326Z">
         <seg>SJXP 1.0.2 (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213729Z" creationid="Melo" creationdate="20141027T213729Z">
+        <seg>SQLJet 1.1.10 (GPL License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64995,6 +65003,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j-*.jar (MIT License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213753Z" creationid="Melo" creationdate="20141027T213753Z">
+        <seg>slf4j-*.jar (MIT License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slk</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233527Z">
@@ -67201,6 +67217,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130805T175302Z">
         <seg>le segmento rendite es vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2-1.0.0-build217 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T213743Z" creationid="Melo" creationdate="20141027T213743Z">
+        <seg>trilead-ssh2-1.0.0-build217 (Trilead SSH license)</seg>
       </tuv>
     </tu>
     <tu>
