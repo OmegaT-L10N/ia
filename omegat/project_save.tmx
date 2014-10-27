@@ -6170,6 +6170,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220942Z" creationid="Melo" creationdate="20141027T220942Z">
+        <seg>&lt;html&gt;Tu pote adder modellos per cartas generic (stilo ant): '*', '?' e '**', como '**/.svn/**'&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;http://fsf.org/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144453Z">
@@ -18817,6 +18825,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion patterns</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220750Z" creationid="Melo" creationdate="20141027T220750Z">
+        <seg>Modellos de Exclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123558Z">
@@ -29007,6 +29023,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114507Z">
         <seg>Martin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220805Z" creationid="Melo" creationdate="20141027T220805Z">
+        <seg>Masca</seg>
       </tuv>
     </tu>
     <tu>
@@ -71605,6 +71629,36 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_CONFLICTS</prop>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220700Z" creationid="Melo" creationdate="20141027T220700Z">
+        <seg>{0} conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_CONFLICTS_SINGULAR</prop>
+      <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220714Z" creationid="Melo" creationdate="20141027T220714Z">
+        <seg>1 conflicto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">STM_NUMBER_OF_UNITS</prop>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220648Z" creationid="Melo" creationdate="20141027T220648Z">
+        <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
       <prop type="id">SW_ADVANCED_OPTIONS</prop>
       <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
@@ -71641,6 +71695,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T105347Z" creationid="Melo" creationdate="20141026T105347Z">
         <seg>+{0} plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.1.7_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TAAS_LIST_NAME</prop>
+      <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T220729Z" creationid="Melo" creationdate="20141027T220729Z">
+        <seg>Nomine</seg>
       </tuv>
     </tu>
     <tu>
