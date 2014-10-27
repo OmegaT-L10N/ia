@@ -16865,6 +16865,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display text in protected parts tooltip in bold</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215527Z" creationid="Melo" creationdate="20141027T215527Z">
+        <seg>monstra le texto in le tooltip del partes protegite in nigrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T093439Z">
@@ -29427,6 +29435,22 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215600Z" creationid="Melo" creationdate="20141027T215600Z">
+        <seg>Modifica le modello del info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215637Z" creationid="Melo" creationdate="20141027T215637Z">
+        <seg>Modifica le modello del info pro le segmentos sin data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130219T225755Z">
@@ -35973,6 +35997,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140630T215820Z" creationid="MELO46" creationdate="20140630T215820Z">
         <seg>Remove le mnemonicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove paired tags from protected parts tooltip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T215426Z" creationid="Melo" creationdate="20141027T215426Z">
+        <seg>Remove le tags accopulate ex le tooltip del partes protegite</seg>
       </tuv>
     </tu>
     <tu>
