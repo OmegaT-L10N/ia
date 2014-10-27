@@ -1386,8 +1386,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Set Colour</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141027T221613Z" creationid="Melo" creationdate="20141027T221613Z">
-        <seg>Impone (&amp;Set) le Color</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T221959Z" creationid="Melo" creationdate="20141027T221613Z">
+        <seg>Impone (&amp;Set) le Colores</seg>
       </tuv>
     </tu>
     <tu>
@@ -4990,6 +4990,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T071048Z" creationid="MELO46" creationdate="20140615T071048Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T222031Z" creationid="Melo" creationdate="20141027T222031Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10134,6 +10142,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T231232Z" creationid="MELO46" creationdate="20140106T231232Z">
         <seg>In addition pro uno del methodos precedente tu pote seliger le sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adiel Mittmann</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T222100Z" creationid="Melo" creationdate="20141027T222100Z">
+        <seg>Adiel Mittmann</seg>
       </tuv>
     </tu>
     <tu>
@@ -36837,6 +36853,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T213729Z" creationid="Melo" creationdate="20141027T213729Z">
         <seg>SQLJet 1.1.10 (GPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL v2)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T222107Z" creationid="Melo" creationdate="20141027T222107Z">
+        <seg>SQLJet 1.1.10 (GPL v2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -65231,6 +65255,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233534Z">
         <seg>sl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141027T222136Z" creationid="Melo" creationdate="20141027T222136Z">
+        <seg>slf4j (MIT License)</seg>
       </tuv>
     </tu>
     <tu>
