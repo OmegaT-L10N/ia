@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"&lt;img src=""FlashCards_Accessories_Scarf.jpg"" /&gt;"	Scarf	[sound:FlashCards_Accessories_Scarf.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215506Z" creationid="Melo" creationdate="20141029T215506Z">
+        <seg>"&lt;img src=""FlashCards_Accessories_Scarf.jpg"" /&gt;"	pannello de collo	[sound:FlashCards_Accessories_Scarf.mp3]	Accessories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"A crucial problem facing our Center for Bio-Inspired Fuel Production (Bisfuel) at ASU and similar research groups around the world is discovering an efficient, inexpensive catalyst for oxidizing water to oxygen gas, hydrogen ions and electrons," said ASU Regents' Professor Devens Gust, the center's director.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T180139Z" creationid="melo46" creationdate="20140714T152245Z">
@@ -6286,6 +6294,30 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140122T231717Z">
         <seg>&lt;i2/&gt;Le optiones per le initio del programma in iste caso essera legite ab le file  &lt;e3&gt;&lt;a4&gt;OmegaT &lt;/a4&gt;.l4J.ini &lt;/e3&gt;, le qual reside in le mesme plica que le file .exe e que tu pote editar per respicer tu preparation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Accessories_Glasses.jpg'&gt;	Glasses	[sound:FlashCards_Accessories_Glasses.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215329Z" creationid="Melo" creationdate="20141029T215329Z">
+        <seg>&lt;img src='FlashCards_Accessories_Glasses.jpg'&gt;	berillos	[sound:FlashCards_Accessories_Glasses.mp3]	Accessories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Accessories_Gloves.jpg'&gt;	Gloves	[sound:FlashCards_Accessories_Gloves.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215341Z" creationid="Melo" creationdate="20141029T215341Z">
+        <seg>&lt;img src='FlashCards_Accessories_Gloves.jpg'&gt;	guantos	[sound:FlashCards_Accessories_Gloves.mp3]	Accessories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Accessories_Purse.jpg'&gt;	Purse	[sound:FlashCards_Accessories_Purse.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215409Z" creationid="Melo" creationdate="20141029T215409Z">
+        <seg>&lt;img src='FlashCards_Accessories_Purse.jpg'&gt;	bursa	[sound:FlashCards_Accessories_Purse.mp3]	Accessories</seg>
       </tuv>
     </tu>
     <tu>
