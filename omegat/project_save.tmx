@@ -6402,6 +6402,62 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Hoof.jpg'&gt;	Hoof	[sound:FlashCards_Animal body parts_Hoof.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220222Z" creationid="Melo" creationdate="20141029T220222Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Hoof.jpg'&gt;	ungula	[sound:FlashCards_Animal body parts_Hoof.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Horn.jpg'&gt;	Horn	[sound:FlashCards_Animal body parts_Horn.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220228Z" creationid="Melo" creationdate="20141029T220228Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Horn.jpg'&gt;	corno	[sound:FlashCards_Animal body parts_Horn.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Mane.jpg'&gt;	Mane	[sound:FlashCards_Animal body parts_Mane.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220237Z" creationid="Melo" creationdate="20141029T220237Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Mane.jpg'&gt;	criniera	[sound:FlashCards_Animal body parts_Mane.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Paw.jpg'&gt;	Paw	[sound:FlashCards_Animal body parts_Paw.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220353Z" creationid="Melo" creationdate="20141029T220353Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Paw.jpg'&gt;	pata	[sound:FlashCards_Animal body parts_Paw.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Scale.jpg'&gt;	Scale	[sound:FlashCards_Animal body parts_Scale.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220408Z" creationid="Melo" creationdate="20141029T220408Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Scale.jpg'&gt;	squama	[sound:FlashCards_Animal body parts_Scale.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tail.jpg'&gt;	Tail	[sound:FlashCards_Animal body parts_Tail.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220415Z" creationid="Melo" creationdate="20141029T220415Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tail.jpg'&gt;	cauda	[sound:FlashCards_Animal body parts_Tail.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tentacle.jpg'&gt;	Tentacle	[sound:FlashCards_Animal body parts_Tentacle.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220422Z" creationid="Melo" creationdate="20141029T220422Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tentacle.jpg'&gt;	tentaculo	[sound:FlashCards_Animal body parts_Tentacle.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_gill.jpg'&gt;	gill	[sound:FlashCards_Animal body parts_gill.mp3]	Animal body parts</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141029T220116Z" creationid="Melo" creationdate="20141029T220116Z">
