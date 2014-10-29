@@ -6458,6 +6458,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tusk.jpg'&gt;	Tusk	[sound:FlashCards_Animal body parts_Tusk.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T220559Z" creationid="Melo" creationdate="20141029T220559Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tusk.jpg'&gt;	defensa	[sound:FlashCards_Animal body parts_Tusk.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_gill.jpg'&gt;	gill	[sound:FlashCards_Animal body parts_gill.mp3]	Animal body parts</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141029T220116Z" creationid="Melo" creationdate="20141029T220116Z">
