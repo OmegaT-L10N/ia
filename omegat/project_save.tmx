@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"&lt;img src=""FlashCards_Accessories_Suspenders.jpg"" /&gt;"	Suspenders	[sound:FlashCards_Accessories_Suspenders.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215729Z" creationid="Melo" creationdate="20141029T215729Z">
+        <seg>"&lt;img src=""FlashCards_Accessories_Suspenders.jpg"" /&gt;"	suspensores	[sound:FlashCards_Accessories_Suspenders.mp3]	Accessories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"A crucial problem facing our Center for Bio-Inspired Fuel Production (Bisfuel) at ASU and similar research groups around the world is discovering an efficient, inexpensive catalyst for oxidizing water to oxygen gas, hydrogen ions and electrons," said ASU Regents' Professor Devens Gust, the center's director.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T180139Z" creationid="melo46" creationdate="20140714T152245Z">
@@ -6318,6 +6326,30 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141029T215409Z" creationid="Melo" creationdate="20141029T215409Z">
         <seg>&lt;img src='FlashCards_Accessories_Purse.jpg'&gt;	bursa	[sound:FlashCards_Accessories_Purse.mp3]	Accessories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Accessories_Sunglasses.jpg'&gt;	Sunglasses	[sound:FlashCards_Accessories_Sunglasses.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215559Z" creationid="Melo" creationdate="20141029T215559Z">
+        <seg>&lt;img src='FlashCards_Accessories_Sunglasses.jpg'&gt;	berillos antisolar	[sound:FlashCards_Accessories_Sunglasses.mp3]	Accessories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Accessories_Tie.jpg'&gt;	Tie	[sound:FlashCards_Accessories_Tie.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215738Z" creationid="Melo" creationdate="20141029T215738Z">
+        <seg>&lt;img src='FlashCards_Accessories_Tie.jpg'&gt;	cravata	[sound:FlashCards_Accessories_Tie.mp3]	Accessories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Accessories_Umbrella.jpg'&gt;	Umbrella	[sound:FlashCards_Accessories_Umbrella.mp3]	Accessories</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141029T215748Z" creationid="Melo" creationdate="20141029T215748Z">
+        <seg>&lt;img src='FlashCards_Accessories_Umbrella.jpg'&gt;	umbrella	[sound:FlashCards_Accessories_Umbrella.mp3]	Accessories</seg>
       </tuv>
     </tu>
     <tu>
