@@ -6810,10 +6810,122 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Woodpecker.jpg'&gt;	Woodpecker	[sound:FlashCards_Birds_Woodpecker.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073027Z" creationid="Melo" creationdate="20141030T073027Z">
+        <seg>&lt;img src='FlashCards_Birds_Woodpecker.jpg'&gt;	pico	[sound:FlashCards_Birds_Woodpecker.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Birds_gull.jpg'&gt;	gull	[sound:FlashCards_Birds_gull.mp3]	Birds</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141030T072912Z" creationid="Melo" creationdate="20141030T072912Z">
         <seg>&lt;img src='FlashCards_Birds_gull.jpg'&gt;	laro	[sound:FlashCards_Birds_gull.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Arm.jpg'&gt;	Arm	[sound:FlashCards_Body parts_Arm.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073040Z" creationid="Melo" creationdate="20141030T073040Z">
+        <seg>&lt;img src='FlashCards_Body parts_Arm.jpg'&gt;	brachio	[sound:FlashCards_Body parts_Arm.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Armpit.jpg'&gt;	Armpit	[sound:FlashCards_Body parts_Armpit.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073046Z" creationid="Melo" creationdate="20141030T073046Z">
+        <seg>&lt;img src='FlashCards_Body parts_Armpit.jpg'&gt;	axilla	[sound:FlashCards_Body parts_Armpit.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Back.jpg'&gt;	Back	[sound:FlashCards_Body parts_Back.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073059Z" creationid="Melo" creationdate="20141030T073059Z">
+        <seg>&lt;img src='FlashCards_Body parts_Back.jpg'&gt;	dorso	[sound:FlashCards_Body parts_Back.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Beard.jpg'&gt;	Beard	[sound:FlashCards_Body parts_Beard.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073105Z" creationid="Melo" creationdate="20141030T073105Z">
+        <seg>&lt;img src='FlashCards_Body parts_Beard.jpg'&gt;	barba	[sound:FlashCards_Body parts_Beard.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Belly button.jpg'&gt;	Belly button	[sound:FlashCards_Body parts_Belly button.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073130Z" creationid="Melo" creationdate="20141030T073130Z">
+        <seg>&lt;img src='FlashCards_Body parts_Belly button.jpg'&gt;	ventre	[sound:FlashCards_Body parts_Belly button.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Brain.jpg'&gt;	Brain	[sound:FlashCards_Body parts_Brain.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073135Z" creationid="Melo" creationdate="20141030T073135Z">
+        <seg>&lt;img src='FlashCards_Body parts_Brain.jpg'&gt;	cerebro	[sound:FlashCards_Body parts_Brain.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Buttocks.jpg'&gt;	Buttocks	[sound:FlashCards_Body parts_Buttocks.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073144Z" creationid="Melo" creationdate="20141030T073144Z">
+        <seg>&lt;img src='FlashCards_Body parts_Buttocks.jpg'&gt;	culo	[sound:FlashCards_Body parts_Buttocks.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Cheek.jpg'&gt;	Cheek	[sound:FlashCards_Body parts_Cheek.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073157Z" creationid="Melo" creationdate="20141030T073157Z">
+        <seg>&lt;img src='FlashCards_Body parts_Cheek.jpg'&gt;	gena	[sound:FlashCards_Body parts_Cheek.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Chest.jpg'&gt;	Chest	[sound:FlashCards_Body parts_Chest.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073203Z" creationid="Melo" creationdate="20141030T073203Z">
+        <seg>&lt;img src='FlashCards_Body parts_Chest.jpg'&gt;	pectore	[sound:FlashCards_Body parts_Chest.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Chin.jpg'&gt;	Chin	[sound:FlashCards_Body parts_Chin.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073210Z" creationid="Melo" creationdate="20141030T073210Z">
+        <seg>&lt;img src='FlashCards_Body parts_Chin.jpg'&gt;	mento	[sound:FlashCards_Body parts_Chin.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Ear.jpg'&gt;	Ear	[sound:FlashCards_Body parts_Ear.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073217Z" creationid="Melo" creationdate="20141030T073217Z">
+        <seg>&lt;img src='FlashCards_Body parts_Ear.jpg'&gt;	aure	[sound:FlashCards_Body parts_Ear.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Elbow.jpg'&gt;	Elbow	[sound:FlashCards_Body parts_Elbow.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073223Z" creationid="Melo" creationdate="20141030T073223Z">
+        <seg>&lt;img src='FlashCards_Body parts_Elbow.jpg'&gt;	cubito	[sound:FlashCards_Body parts_Elbow.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Eye.jpg'&gt;	Eye	[sound:FlashCards_Body parts_Eye.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073228Z" creationid="Melo" creationdate="20141030T073228Z">
+        <seg>&lt;img src='FlashCards_Body parts_Eye.jpg'&gt;	oculo	[sound:FlashCards_Body parts_Eye.mp3]	Body parts</seg>
       </tuv>
     </tu>
     <tu>
