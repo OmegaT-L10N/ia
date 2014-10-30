@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"&lt;img src=""FlashCards_Art_Portrait.jpg"" /&gt;"	Portrait	[sound:FlashCards_Art_Portrait.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T070224Z" creationid="Melo" creationdate="20141030T070224Z">
+        <seg>"&lt;img src=""FlashCards_Art_Portrait.jpg"" /&gt;"	Portrait	[sound:FlashCards_Art_Portrait.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"A crucial problem facing our Center for Bio-Inspired Fuel Production (Bisfuel) at ASU and similar research groups around the world is discovering an efficient, inexpensive catalyst for oxidizing water to oxygen gas, hydrogen ions and electrons," said ASU Regents' Professor Devens Gust, the center's director.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T180139Z" creationid="melo46" creationdate="20140714T152245Z">
@@ -6518,6 +6526,38 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141030T070002Z" creationid="Melo" creationdate="20141030T070002Z">
         <seg>&lt;img src='FlashCards_Art_Mosaic.jpg'&gt;	mosaico	[sound:FlashCards_Art_Mosaic.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Palette.jpg'&gt;	Palette	[sound:FlashCards_Art_Palette.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T070138Z" creationid="Melo" creationdate="20141030T070138Z">
+        <seg>&lt;img src='FlashCards_Art_Palette.jpg'&gt;	Paletta	[sound:FlashCards_Art_Palette.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Picture.jpg'&gt;	Picture	[sound:FlashCards_Art_Picture.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T070152Z" creationid="Melo" creationdate="20141030T070152Z">
+        <seg>&lt;img src='FlashCards_Art_Picture.jpg'&gt;	pictura	[sound:FlashCards_Art_Picture.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Sculpture.jpg'&gt;	Sculpture	[sound:FlashCards_Art_Sculpture.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T070234Z" creationid="Melo" creationdate="20141030T070234Z">
+        <seg>&lt;img src='FlashCards_Art_Sculpture.jpg'&gt;	sculptura	[sound:FlashCards_Art_Sculpture.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Sketch.jpg'&gt;	Sketch	[sound:FlashCards_Art_Sketch.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T070245Z" creationid="Melo" creationdate="20141030T070245Z">
+        <seg>&lt;img src='FlashCards_Art_Sketch.jpg'&gt;	schizzo	[sound:FlashCards_Art_Sketch.mp3]	Art</seg>
       </tuv>
     </tu>
     <tu>
