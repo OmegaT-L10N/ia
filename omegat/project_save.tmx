@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"&lt;img src=""FlashCards_Birds_Sparrow.jpg"" /&gt;"	Sparrow	[sound:FlashCards_Birds_Sparrow.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073010Z" creationid="Melo" creationdate="20141030T073010Z">
+        <seg>"&lt;img src=""FlashCards_Birds_Sparrow.jpg"" /&gt;"	passere	[sound:FlashCards_Birds_Sparrow.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"A crucial problem facing our Center for Bio-Inspired Fuel Production (Bisfuel) at ASU and similar research groups around the world is discovering an efficient, inexpensive catalyst for oxidizing water to oxygen gas, hydrogen ions and electrons," said ASU Regents' Professor Devens Gust, the center's director.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T180139Z" creationid="melo46" creationdate="20140714T152245Z">
@@ -6726,6 +6734,86 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141030T072642Z" creationid="Melo" creationdate="20141030T072642Z">
         <seg>&lt;img src='FlashCards_Birds_Falcon.jpg'&gt;	falcon	[sound:FlashCards_Birds_Falcon.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Flamingo.jpg'&gt;	Flamingo	[sound:FlashCards_Birds_Flamingo.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072758Z" creationid="Melo" creationdate="20141030T072758Z">
+        <seg>&lt;img src='FlashCards_Birds_Flamingo.jpg'&gt;	Flamingo	[sound:FlashCards_Birds_Flamingo.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Heron.jpg'&gt;	Heron	[sound:FlashCards_Birds_Heron.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072918Z" creationid="Melo" creationdate="20141030T072918Z">
+        <seg>&lt;img src='FlashCards_Birds_Heron.jpg'&gt;	hairon	[sound:FlashCards_Birds_Heron.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Ostrich.jpg'&gt;	Ostrich	[sound:FlashCards_Birds_Ostrich.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072929Z" creationid="Melo" creationdate="20141030T072929Z">
+        <seg>&lt;img src='FlashCards_Birds_Ostrich.jpg'&gt;	struthio	[sound:FlashCards_Birds_Ostrich.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Parrot.jpg'&gt;	Parrot	[sound:FlashCards_Birds_Parrot.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072941Z" creationid="Melo" creationdate="20141030T072941Z">
+        <seg>&lt;img src='FlashCards_Birds_Parrot.jpg'&gt;	papagai	[sound:FlashCards_Birds_Parrot.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Pelican.jpg'&gt;	Pelican	[sound:FlashCards_Birds_Pelican.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072953Z" creationid="Melo" creationdate="20141030T072953Z">
+        <seg>&lt;img src='FlashCards_Birds_Pelican.jpg'&gt;	pelicano	[sound:FlashCards_Birds_Pelican.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Penguin.jpg'&gt;	Penguin	[sound:FlashCards_Birds_Penguin.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072959Z" creationid="Melo" creationdate="20141030T072959Z">
+        <seg>&lt;img src='FlashCards_Birds_Penguin.jpg'&gt;	pinguin	[sound:FlashCards_Birds_Penguin.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Pigeon.jpg'&gt;	Pigeon	[sound:FlashCards_Birds_Pigeon.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073005Z" creationid="Melo" creationdate="20141030T073005Z">
+        <seg>&lt;img src='FlashCards_Birds_Pigeon.jpg'&gt;	columba	[sound:FlashCards_Birds_Pigeon.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Stork.jpg'&gt;	Stork	[sound:FlashCards_Birds_Stork.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073015Z" creationid="Melo" creationdate="20141030T073015Z">
+        <seg>&lt;img src='FlashCards_Birds_Stork.jpg'&gt;	ciconia	[sound:FlashCards_Birds_Stork.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Swallow.jpg'&gt;	Swallow	[sound:FlashCards_Birds_Swallow.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073020Z" creationid="Melo" creationdate="20141030T073020Z">
+        <seg>&lt;img src='FlashCards_Birds_Swallow.jpg'&gt;	hirundine	[sound:FlashCards_Birds_Swallow.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_gull.jpg'&gt;	gull	[sound:FlashCards_Birds_gull.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072912Z" creationid="Melo" creationdate="20141030T072912Z">
+        <seg>&lt;img src='FlashCards_Birds_gull.jpg'&gt;	laro	[sound:FlashCards_Birds_gull.mp3]	Birds</seg>
       </tuv>
     </tu>
     <tu>
