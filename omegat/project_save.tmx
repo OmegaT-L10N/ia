@@ -7330,10 +7330,51 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Walkie-talkie.jpg'&gt;	Walkie-talkie	[sound:FlashCards_Camping_Walkie-talkie.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T075951Z" creationid="Melo" creationdate="20141030T075951Z">
+        <seg>&lt;img src='FlashCards_Camping_Walkie-talkie.jpg'&gt;	transmissor-receptor portabile 
+	[sound:FlashCards_Camping_Walkie-talkie.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Camping_sleeping bag.jpg'&gt;	sleeping bag	[sound:FlashCards_Camping_sleeping bag.mp3]	Camping</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141030T075428Z" creationid="Melo" creationdate="20141030T075428Z">
         <seg>&lt;img src='FlashCards_Camping_sleeping bag.jpg'&gt;	sacco pro somno	[sound:FlashCards_Camping_sleeping bag.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Airbag.jpg'&gt;	Airbag	[sound:FlashCards_Car_Airbag.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080035Z" creationid="Melo" creationdate="20141030T080035Z">
+        <seg>&lt;img src='FlashCards_Car_Airbag.jpg'&gt;	Airbag	[sound:FlashCards_Car_Airbag.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Battery.jpg'&gt;	Battery	[sound:FlashCards_Car_Battery.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080040Z" creationid="Melo" creationdate="20141030T080040Z">
+        <seg>&lt;img src='FlashCards_Car_Battery.jpg'&gt;	batteria	[sound:FlashCards_Car_Battery.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Brake.jpg'&gt;	Brake	[sound:FlashCards_Car_Brake.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080150Z" creationid="Melo" creationdate="20141030T080102Z">
+        <seg>&lt;img src='FlashCards_Car_Brake.jpg'&gt;	freno	[sound:FlashCards_Car_Brake.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Bulb.jpg'&gt;	Bulb	[sound:FlashCards_Car_Bulb.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080202Z" creationid="Melo" creationdate="20141030T080104Z">
+        <seg>&lt;img src='FlashCards_Car_Bulb.jpg'&gt;	bulbo	[sound:FlashCards_Car_Bulb.mp3]	Car</seg>
       </tuv>
     </tu>
     <tu>
