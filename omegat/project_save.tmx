@@ -6626,6 +6626,38 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Shower.jpg'&gt;	Shower	[sound:FlashCards_Bathroom_Shower.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T071437Z" creationid="Melo" creationdate="20141030T071437Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Shower.jpg'&gt;	ducha	[sound:FlashCards_Bathroom_Shower.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Sink.jpg'&gt;	Sink	[sound:FlashCards_Bathroom_Sink.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T071609Z" creationid="Melo" creationdate="20141030T071609Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Sink.jpg'&gt;	lavabo	[sound:FlashCards_Bathroom_Sink.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Soap.jpg'&gt;	Soap	[sound:FlashCards_Bathroom_Soap.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T071614Z" creationid="Melo" creationdate="20141030T071614Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Soap.jpg'&gt;	sapon	[sound:FlashCards_Bathroom_Soap.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Sponge.jpg'&gt;	Sponge	[sound:FlashCards_Bathroom_Sponge.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T071619Z" creationid="Melo" creationdate="20141030T071619Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Sponge.jpg'&gt;	spongia	[sound:FlashCards_Bathroom_Sponge.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
