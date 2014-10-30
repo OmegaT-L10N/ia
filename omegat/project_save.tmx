@@ -7396,6 +7396,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Door handle.jpg'&gt;	Door handle	[sound:FlashCards_Car_Door handle.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080654Z" creationid="Melo" creationdate="20141030T080654Z">
+        <seg>&lt;img src='FlashCards_Car_Door handle.jpg'&gt;	pessulo	[sound:FlashCards_Car_Door handle.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Drivers license.jpg'&gt;	Driver's license	[sound:FlashCards_Car_Driver's license.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080827Z" creationid="Melo" creationdate="20141030T080827Z">
+        <seg>&lt;img src='FlashCards_Car_Drivers license.jpg'&gt;	patente	[sound:FlashCards_Car_Driver's license.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
