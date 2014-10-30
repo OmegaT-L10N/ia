@@ -7412,6 +7412,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Engine.jpg'&gt;	Engine	[sound:FlashCards_Car_Engine.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080959Z" creationid="Melo" creationdate="20141030T080959Z">
+        <seg>&lt;img src='FlashCards_Car_Engine.jpg'&gt;	motor	[sound:FlashCards_Car_Engine.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Handbrake.jpg'&gt;	Handbrake	[sound:FlashCards_Car_Handbrake.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T081143Z" creationid="Melo" creationdate="20141030T081143Z">
+        <seg>&lt;img src='FlashCards_Car_Handbrake.jpg'&gt;	freno a mano 	[sound:FlashCards_Car_Handbrake.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
