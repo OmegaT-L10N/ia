@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"&lt;img src=""FlashCards_Art_Paints.jpg"" /&gt;"	Paints	[sound:FlashCards_Art_Paints.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T070036Z" creationid="Melo" creationdate="20141030T070036Z">
+        <seg>"&lt;img src=""FlashCards_Art_Paints.jpg"" /&gt;"	rouges	[sound:FlashCards_Art_Paints.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"A crucial problem facing our Center for Bio-Inspired Fuel Production (Bisfuel) at ASU and similar research groups around the world is discovering an efficient, inexpensive catalyst for oxidizing water to oxygen gas, hydrogen ions and electrons," said ASU Regents' Professor Devens Gust, the center's director.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T180139Z" creationid="melo46" creationdate="20140714T152245Z">
@@ -6466,10 +6474,50 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Animal body parts_Wing.jpg'&gt;	Wing	[sound:FlashCards_Animal body parts_Wing.mp3]	Animal body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T065909Z" creationid="Melo" creationdate="20141030T065909Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Wing.jpg'&gt;	ala	[sound:FlashCards_Animal body parts_Wing.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_gill.jpg'&gt;	gill	[sound:FlashCards_Animal body parts_gill.mp3]	Animal body parts</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141029T220116Z" creationid="Melo" creationdate="20141029T220116Z">
         <seg>&lt;img src='FlashCards_Animal body parts_gill.jpg'&gt;	branchia	[sound:FlashCards_Animal body parts_gill.mp3]	Animal body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Brush.jpg'&gt;	Brush	[sound:FlashCards_Art_Brush.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T065929Z" creationid="Melo" creationdate="20141030T065929Z">
+        <seg>&lt;img src='FlashCards_Art_Brush.jpg'&gt;	pincel	[sound:FlashCards_Art_Brush.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Frame.jpg'&gt;	Frame	[sound:FlashCards_Art_Frame.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T065948Z" creationid="Melo" creationdate="20141030T065948Z">
+        <seg>&lt;img src='FlashCards_Art_Frame.jpg'&gt;	ossatura	[sound:FlashCards_Art_Frame.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Landscape.jpg'&gt;	Landscape	[sound:FlashCards_Art_Landscape.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T065955Z" creationid="Melo" creationdate="20141030T065955Z">
+        <seg>&lt;img src='FlashCards_Art_Landscape.jpg'&gt;	paisage	[sound:FlashCards_Art_Landscape.mp3]	Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Art_Mosaic.jpg'&gt;	Mosaic	[sound:FlashCards_Art_Mosaic.mp3]	Art</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T070002Z" creationid="Melo" creationdate="20141030T070002Z">
+        <seg>&lt;img src='FlashCards_Art_Mosaic.jpg'&gt;	mosaico	[sound:FlashCards_Art_Mosaic.mp3]	Art</seg>
       </tuv>
     </tu>
     <tu>
