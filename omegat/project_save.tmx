@@ -7379,6 +7379,23 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Bumper.jpg'&gt;	Bumper	[sound:FlashCards_Car_Bumper.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080243Z" creationid="Melo" creationdate="20141030T080243Z">
+        <seg>&lt;img src='FlashCards_Car_Bumper.jpg'&gt;	paracolpos	[sound:FlashCards_Car_Bumper.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Dashboard.jpg'&gt;	Dashboard	[sound:FlashCards_Car_Dashboard.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T080407Z" creationid="Melo" creationdate="20141030T080407Z">
+        <seg>&lt;img src='FlashCards_Car_Dashboard.jpg'&gt;	pannello a instrumentos 
+	[sound:FlashCards_Car_Dashboard.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
