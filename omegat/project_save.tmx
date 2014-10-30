@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"&lt;img src=""FlashCards_Bathroom_Toothpaste.jpg"" /&gt;"	Toothpaste	[sound:FlashCards_Bathroom_Toothpaste.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072531Z" creationid="Melo" creationdate="20141030T072531Z">
+        <seg>"&lt;img src=""FlashCards_Bathroom_Toothpaste.jpg"" /&gt;"	pasta de dentes	[sound:FlashCards_Bathroom_Toothpaste.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"A crucial problem facing our Center for Bio-Inspired Fuel Production (Bisfuel) at ASU and similar research groups around the world is discovering an efficient, inexpensive catalyst for oxidizing water to oxygen gas, hydrogen ions and electrons," said ASU Regents' Professor Devens Gust, the center's director.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T180139Z" creationid="melo46" creationdate="20140714T152245Z">
@@ -6654,6 +6662,70 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141030T071619Z" creationid="Melo" creationdate="20141030T071619Z">
         <seg>&lt;img src='FlashCards_Bathroom_Sponge.jpg'&gt;	spongia	[sound:FlashCards_Bathroom_Sponge.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Suds.jpg'&gt;	Suds	[sound:FlashCards_Bathroom_Suds.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072429Z" creationid="Melo" creationdate="20141030T072429Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Suds.jpg'&gt;	bullas	[sound:FlashCards_Bathroom_Suds.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Tap.jpg'&gt;	Tap	[sound:FlashCards_Bathroom_Tap.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072438Z" creationid="Melo" creationdate="20141030T072438Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Tap.jpg'&gt;	valvula	[sound:FlashCards_Bathroom_Tap.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Toothbrush.jpg'&gt;	Toothbrush	[sound:FlashCards_Bathroom_Toothbrush.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072511Z" creationid="Melo" creationdate="20141030T072511Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Toothbrush.jpg'&gt;	brossa de dentes	[sound:FlashCards_Bathroom_Toothbrush.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_Towel.jpg'&gt;	Towel	[sound:FlashCards_Bathroom_Towel.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072541Z" creationid="Melo" creationdate="20141030T072541Z">
+        <seg>&lt;img src='FlashCards_Bathroom_Towel.jpg'&gt;	toalia	[sound:FlashCards_Bathroom_Towel.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Bathroom_toilet-paper.jpg'&gt;	toilet-paper	[sound:FlashCards_Bathroom_toilet-paper.mp3]	Bathroom</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072502Z" creationid="Melo" creationdate="20141030T072502Z">
+        <seg>&lt;img src='FlashCards_Bathroom_toilet-paper.jpg'&gt;	papiro de toilette	[sound:FlashCards_Bathroom_toilet-paper.mp3]	Bathroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Crow.jpg'&gt;	Crow	[sound:FlashCards_Birds_Crow.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072630Z" creationid="Melo" creationdate="20141030T072630Z">
+        <seg>&lt;img src='FlashCards_Birds_Crow.jpg'&gt;	corvo	[sound:FlashCards_Birds_Crow.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Eagle.jpg'&gt;	Eagle	[sound:FlashCards_Birds_Eagle.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072635Z" creationid="Melo" creationdate="20141030T072635Z">
+        <seg>&lt;img src='FlashCards_Birds_Eagle.jpg'&gt;	aquila	[sound:FlashCards_Birds_Eagle.mp3]	Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Birds_Falcon.jpg'&gt;	Falcon	[sound:FlashCards_Birds_Falcon.mp3]	Birds</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T072642Z" creationid="Melo" creationdate="20141030T072642Z">
+        <seg>&lt;img src='FlashCards_Birds_Falcon.jpg'&gt;	falcon	[sound:FlashCards_Birds_Falcon.mp3]	Birds</seg>
       </tuv>
     </tu>
     <tu>
