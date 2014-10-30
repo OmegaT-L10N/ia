@@ -7452,6 +7452,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_Jack.jpg'&gt;	Jack	[sound:FlashCards_Car_Jack.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T081631Z" creationid="Melo" creationdate="20141030T081631Z">
+        <seg>&lt;img src='FlashCards_Car_Jack.jpg'&gt;	cric	[sound:FlashCards_Car_Jack.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Car_License plate.jpg'&gt;	License plate	[sound:FlashCards_Car_License plate.mp3]	Car</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T081753Z" creationid="Melo" creationdate="20141030T081753Z">
+        <seg>&lt;img src='FlashCards_Car_License plate.jpg'&gt;	Placa de matriculation	[sound:FlashCards_Car_License plate.mp3]	Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
