@@ -7282,6 +7282,54 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Ice axe.jpg'&gt;	Ice axe	[sound:FlashCards_Camping_Ice axe.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T075337Z" creationid="Melo" creationdate="20141030T075337Z">
+        <seg>&lt;img src='FlashCards_Camping_Ice axe.jpg'&gt;	hachetta de glacie	[sound:FlashCards_Camping_Ice axe.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Lantern.jpg'&gt;	Lantern	[sound:FlashCards_Camping_Lantern.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T075342Z" creationid="Melo" creationdate="20141030T075342Z">
+        <seg>&lt;img src='FlashCards_Camping_Lantern.jpg'&gt;	lanterna	[sound:FlashCards_Camping_Lantern.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Map.jpg'&gt;	Map	[sound:FlashCards_Camping_Map.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T075348Z" creationid="Melo" creationdate="20141030T075348Z">
+        <seg>&lt;img src='FlashCards_Camping_Map.jpg'&gt;	mappa	[sound:FlashCards_Camping_Map.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Rope.jpg'&gt;	Rope	[sound:FlashCards_Camping_Rope.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T075355Z" creationid="Melo" creationdate="20141030T075355Z">
+        <seg>&lt;img src='FlashCards_Camping_Rope.jpg'&gt;	corda	[sound:FlashCards_Camping_Rope.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Tent.jpg'&gt;	Tent	[sound:FlashCards_Camping_Tent.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T075443Z" creationid="Melo" creationdate="20141030T075443Z">
+        <seg>&lt;img src='FlashCards_Camping_Tent.jpg'&gt;	tenta	[sound:FlashCards_Camping_Tent.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_sleeping bag.jpg'&gt;	sleeping bag	[sound:FlashCards_Camping_sleeping bag.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T075428Z" creationid="Melo" creationdate="20141030T075428Z">
+        <seg>&lt;img src='FlashCards_Camping_sleeping bag.jpg'&gt;	sacco pro somno	[sound:FlashCards_Camping_sleeping bag.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
