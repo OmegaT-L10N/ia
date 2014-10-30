@@ -7234,6 +7234,54 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Books_Magazine.jpg'&gt;	Magazine	[sound:FlashCards_Books_Magazine.mp3]	Books</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T074635Z" creationid="Melo" creationdate="20141030T074635Z">
+        <seg>&lt;img src='FlashCards_Books_Magazine.jpg'&gt;	Magazine	[sound:FlashCards_Books_Magazine.mp3]	Books</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Books_Newspaper.jpg'&gt;	Newspaper	[sound:FlashCards_Books_Newspaper.mp3]	Books</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T074707Z" creationid="Melo" creationdate="20141030T074707Z">
+        <seg>&lt;img src='FlashCards_Books_Newspaper.jpg'&gt;	jornal	[sound:FlashCards_Books_Newspaper.mp3]	Books</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Binoculars.jpg'&gt;	Binoculars	[sound:FlashCards_Camping_Binoculars.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T074713Z" creationid="Melo" creationdate="20141030T074713Z">
+        <seg>&lt;img src='FlashCards_Camping_Binoculars.jpg'&gt;	binoculo	[sound:FlashCards_Camping_Binoculars.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Canteen.jpg'&gt;	Canteen	[sound:FlashCards_Camping_Canteen.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T074723Z" creationid="Melo" creationdate="20141030T074723Z">
+        <seg>&lt;img src='FlashCards_Camping_Canteen.jpg'&gt;	cantina	[sound:FlashCards_Camping_Canteen.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Compass.jpg'&gt;	Compass	[sound:FlashCards_Camping_Compass.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T074729Z" creationid="Melo" creationdate="20141030T074729Z">
+        <seg>&lt;img src='FlashCards_Camping_Compass.jpg'&gt;	bussola	[sound:FlashCards_Camping_Compass.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Camping_Fire.jpg'&gt;	Fire	[sound:FlashCards_Camping_Fire.mp3]	Camping</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T074736Z" creationid="Melo" creationdate="20141030T074736Z">
+        <seg>&lt;img src='FlashCards_Camping_Fire.jpg'&gt;	foco	[sound:FlashCards_Camping_Fire.mp3]	Camping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
