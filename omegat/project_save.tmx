@@ -7082,6 +7082,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Mustache.jpg'&gt;	Mustache	[sound:FlashCards_Body parts_Mustache.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073745Z" creationid="Melo" creationdate="20141030T073745Z">
+        <seg>&lt;img src='FlashCards_Body parts_Mustache.jpg'&gt;	mustachio	[sound:FlashCards_Body parts_Mustache.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Body parts_Nail.jpg'&gt;	Nail	[sound:FlashCards_Body parts_Nail.mp3]	Body parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141030T073752Z" creationid="Melo" creationdate="20141030T073752Z">
+        <seg>&lt;img src='FlashCards_Body parts_Nail.jpg'&gt;	ungula	[sound:FlashCards_Body parts_Nail.mp3]	Body parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
