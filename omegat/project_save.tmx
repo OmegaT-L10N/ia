@@ -8972,6 +8972,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Cookie.jpg'&gt;	Cookie	[sound:FlashCards_Food_Cookie.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T144705Z" creationid="Melo" creationdate="20141031T144705Z">
+        <seg>&lt;img src='FlashCards_Food_Cookie.jpg'&gt;	biscuit	[sound:FlashCards_Food_Cookie.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Food_Eggs.jpg'&gt;	Eggs	[sound:FlashCards_Food_Eggs.mp3]	Food</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120757Z" creationid="Melo" creationdate="20141031T120757Z">
