@@ -8636,6 +8636,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Ashtray.jpg'&gt;	Ashtray	[sound:FlashCards_Fire_Ashtray.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T143142Z" creationid="Melo" creationdate="20141031T143142Z">
+        <seg>&lt;img src='FlashCards_Fire_Ashtray.jpg'&gt;	cineriera	[sound:FlashCards_Fire_Ashtray.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Fire_Candle.jpg'&gt;	Candle	[sound:FlashCards_Fire_Candle.mp3]	Fire</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120040Z" creationid="Melo" creationdate="20141031T120040Z">
