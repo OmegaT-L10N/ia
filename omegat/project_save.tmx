@@ -9100,6 +9100,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_pool.jpg'&gt;	pool	[sound:FlashCards_Garden_pool.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T134239Z" creationid="Melo" creationdate="20141031T134239Z">
+        <seg>&lt;img src='FlashCards_Garden_pool.jpg'&gt;	piscina	[sound:FlashCards_Garden_pool.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Garden_seesaw.jpg'&gt;	seesaw	[sound:FlashCards_Garden_seesaw.mp3]	Garden</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121939Z" creationid="Melo" creationdate="20141031T121939Z">
@@ -9256,6 +9264,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T133730Z" creationid="Melo" creationdate="20141031T133730Z">
         <seg>&lt;img src='FlashCards_In a pocket_Wallet.jpg'&gt;	portafolio	[sound:FlashCards_In a pocket_Wallet.mp3]	In a pocket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_In a pocket_driving license.jpg'&gt;	driving license	[sound:FlashCards_In a pocket_driving license.mp3]	In a pocket</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T134014Z" creationid="Melo" creationdate="20141031T134014Z">
+        <seg>&lt;img src='FlashCards_In a pocket_driving license.jpg'&gt;	patente	[sound:FlashCards_In a pocket_driving license.mp3]	In a pocket</seg>
       </tuv>
     </tu>
     <tu>
