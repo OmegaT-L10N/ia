@@ -7908,6 +7908,62 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Board.jpg'&gt;	Board	[sound:FlashCards_Construction_Board.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112557Z" creationid="Melo" creationdate="20141031T112557Z">
+        <seg>&lt;img src='FlashCards_Construction_Board.jpg'&gt;	tabula	[sound:FlashCards_Construction_Board.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Brick.jpg'&gt;	Brick	[sound:FlashCards_Construction_Brick.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112604Z" creationid="Melo" creationdate="20141031T112604Z">
+        <seg>&lt;img src='FlashCards_Construction_Brick.jpg'&gt;	bricca	[sound:FlashCards_Construction_Brick.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Bulldozer.jpg'&gt;	Bulldozer	[sound:FlashCards_Construction_Bulldozer.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112635Z" creationid="Melo" creationdate="20141031T112635Z">
+        <seg>&lt;img src='FlashCards_Construction_Bulldozer.jpg'&gt;	Bulldozer	[sound:FlashCards_Construction_Bulldozer.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Cement.jpg'&gt;	Cement	[sound:FlashCards_Construction_Cement.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112641Z" creationid="Melo" creationdate="20141031T112641Z">
+        <seg>&lt;img src='FlashCards_Construction_Cement.jpg'&gt;	cemento	[sound:FlashCards_Construction_Cement.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Crane.jpg'&gt;	Crane	[sound:FlashCards_Construction_Crane.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112646Z" creationid="Melo" creationdate="20141031T112646Z">
+        <seg>&lt;img src='FlashCards_Construction_Crane.jpg'&gt;	grue	[sound:FlashCards_Construction_Crane.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Excavator.jpg'&gt;	Excavator	[sound:FlashCards_Construction_Excavator.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112653Z" creationid="Melo" creationdate="20141031T112653Z">
+        <seg>&lt;img src='FlashCards_Construction_Excavator.jpg'&gt;	excavator	[sound:FlashCards_Construction_Excavator.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_hard hat.jpg'&gt;	hard hat	[sound:FlashCards_Construction_hard hat.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112817Z" creationid="Melo" creationdate="20141031T112817Z">
+        <seg>&lt;img src='FlashCards_Construction_hard hat.jpg'&gt;	casco	[sound:FlashCards_Construction_hard hat.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
