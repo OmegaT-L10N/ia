@@ -8996,6 +8996,126 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Chandelier.jpg'&gt;	Chandelier	[sound:FlashCards_Furniture_Chandelier.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121651Z" creationid="Melo" creationdate="20141031T121651Z">
+        <seg>&lt;img src='FlashCards_Furniture_Chandelier.jpg'&gt;	lustro	[sound:FlashCards_Furniture_Chandelier.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Cupboard.jpg'&gt;	Cupboard	[sound:FlashCards_Furniture_Cupboard.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121725Z" creationid="Melo" creationdate="20141031T121725Z">
+        <seg>&lt;img src='FlashCards_Furniture_Cupboard.jpg'&gt;	armario	[sound:FlashCards_Furniture_Cupboard.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Stool.jpg'&gt;	Stool	[sound:FlashCards_Furniture_Stool.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121746Z" creationid="Melo" creationdate="20141031T121746Z">
+        <seg>&lt;img src='FlashCards_Furniture_Stool.jpg'&gt;	scabello	[sound:FlashCards_Furniture_Stool.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Table.jpg'&gt;	Table	[sound:FlashCards_Furniture_Table.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121755Z" creationid="Melo" creationdate="20141031T121755Z">
+        <seg>&lt;img src='FlashCards_Furniture_Table.jpg'&gt;	Tabula	[sound:FlashCards_Furniture_Table.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Wall shelf.jpg'&gt;	Wall shelf	[sound:FlashCards_Furniture_Wall shelf.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121815Z" creationid="Melo" creationdate="20141031T121815Z">
+        <seg>&lt;img src='FlashCards_Furniture_Wall shelf.jpg'&gt;	muro	[sound:FlashCards_Furniture_Wall shelf.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_couch.jpg'&gt;	couch	[sound:FlashCards_Furniture_couch.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121719Z" creationid="Melo" creationdate="20141031T121719Z">
+        <seg>&lt;img src='FlashCards_Furniture_couch.jpg'&gt;	lecto de reposo	[sound:FlashCards_Furniture_couch.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_curtain.jpg'&gt;	curtain	[sound:FlashCards_Furniture_curtain.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121733Z" creationid="Melo" creationdate="20141031T121733Z">
+        <seg>&lt;img src='FlashCards_Furniture_curtain.jpg'&gt;	cortina	[sound:FlashCards_Furniture_curtain.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_bench.jpg'&gt;	bench	[sound:FlashCards_Garden_bench.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121820Z" creationid="Melo" creationdate="20141031T121820Z">
+        <seg>&lt;img src='FlashCards_Garden_bench.jpg'&gt;	banco	[sound:FlashCards_Garden_bench.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_fence.jpg'&gt;	fence	[sound:FlashCards_Garden_fence.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121829Z" creationid="Melo" creationdate="20141031T121829Z">
+        <seg>&lt;img src='FlashCards_Garden_fence.jpg'&gt;	barriera	[sound:FlashCards_Garden_fence.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_garden hose.jpg'&gt;	garden hose	[sound:FlashCards_Garden_garden hose.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121840Z" creationid="Melo" creationdate="20141031T121840Z">
+        <seg>&lt;img src='FlashCards_Garden_garden hose.jpg'&gt;	jardin	[sound:FlashCards_Garden_garden hose.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_grill.jpg'&gt;	grill	[sound:FlashCards_Garden_grill.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121846Z" creationid="Melo" creationdate="20141031T121846Z">
+        <seg>&lt;img src='FlashCards_Garden_grill.jpg'&gt;	grillia	[sound:FlashCards_Garden_grill.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_hammock.jpg'&gt;	hammock	[sound:FlashCards_Garden_hammock.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121854Z" creationid="Melo" creationdate="20141031T121854Z">
+        <seg>&lt;img src='FlashCards_Garden_hammock.jpg'&gt;	hamaca	[sound:FlashCards_Garden_hammock.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_lawn.jpg'&gt;	lawn	[sound:FlashCards_Garden_lawn.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121902Z" creationid="Melo" creationdate="20141031T121902Z">
+        <seg>&lt;img src='FlashCards_Garden_lawn.jpg'&gt;	gazon	[sound:FlashCards_Garden_lawn.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_seesaw.jpg'&gt;	seesaw	[sound:FlashCards_Garden_seesaw.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121939Z" creationid="Melo" creationdate="20141031T121939Z">
+        <seg>&lt;img src='FlashCards_Garden_seesaw.jpg'&gt;	balanciatoria	[sound:FlashCards_Garden_seesaw.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_slide.jpg'&gt;	slide	[sound:FlashCards_Garden_slide.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121946Z" creationid="Melo" creationdate="20141031T121946Z">
+        <seg>&lt;img src='FlashCards_Garden_slide.jpg'&gt;	glissa	[sound:FlashCards_Garden_slide.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
