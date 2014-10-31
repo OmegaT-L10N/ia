@@ -8316,6 +8316,46 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Phone.jpg'&gt;	Phone	[sound:FlashCards_Electronics_Phone.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115454Z" creationid="Melo" creationdate="20141031T115454Z">
+        <seg>&lt;img src='FlashCards_Electronics_Phone.jpg'&gt;	telephono	[sound:FlashCards_Electronics_Phone.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Refrigerator.jpg'&gt;	Refrigerator	[sound:FlashCards_Electronics_Refrigerator.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115512Z" creationid="Melo" creationdate="20141031T115512Z">
+        <seg>&lt;img src='FlashCards_Electronics_Refrigerator.jpg'&gt;	refrigerator	[sound:FlashCards_Electronics_Refrigerator.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Toaster.jpg'&gt;	Toaster	[sound:FlashCards_Electronics_Toaster.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115529Z" creationid="Melo" creationdate="20141031T115529Z">
+        <seg>&lt;img src='FlashCards_Electronics_Toaster.jpg'&gt;	tostator	[sound:FlashCards_Electronics_Toaster.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Vacuum cleaner.jpg'&gt;	Vacuum cleaner	[sound:FlashCards_Electronics_Vacuum cleaner.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115606Z" creationid="Melo" creationdate="20141031T115606Z">
+        <seg>&lt;img src='FlashCards_Electronics_Vacuum cleaner.jpg'&gt;	aspirator	[sound:FlashCards_Electronics_Vacuum cleaner.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Wall outlet.jpg'&gt;	Wall outlet	[sound:FlashCards_Electronics_Wall outlet.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115629Z" creationid="Melo" creationdate="20141031T115629Z">
+        <seg>&lt;img src='FlashCards_Electronics_Wall outlet.jpg'&gt;	prisa de currente	[sound:FlashCards_Electronics_Wall outlet.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
