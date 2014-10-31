@@ -8644,6 +8644,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Burner.jpg'&gt;	Burner	[sound:FlashCards_Fire_Burner.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T143428Z" creationid="Melo" creationdate="20141031T143428Z">
+        <seg>&lt;img src='FlashCards_Fire_Burner.jpg'&gt;	becco	[sound:FlashCards_Fire_Burner.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Fire_Candle.jpg'&gt;	Candle	[sound:FlashCards_Fire_Candle.mp3]	Fire</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120040Z" creationid="Melo" creationdate="20141031T120040Z">
@@ -8696,6 +8704,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120155Z" creationid="Melo" creationdate="20141031T120155Z">
         <seg>&lt;img src='FlashCards_Fire_Pipe.jpg'&gt;	pipa	[sound:FlashCards_Fire_Pipe.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_fire extinguisher.jpg'&gt;	fire extinguisher	[sound:FlashCards_Fire_fire extinguisher.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T143554Z" creationid="Melo" creationdate="20141031T143554Z">
+        <seg>&lt;img src='FlashCards_Fire_fire extinguisher.jpg'&gt;	extinctor de incendios	[sound:FlashCards_Fire_fire extinguisher.mp3]	Fire</seg>
       </tuv>
     </tu>
     <tu>
