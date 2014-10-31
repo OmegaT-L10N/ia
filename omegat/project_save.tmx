@@ -9292,6 +9292,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Bilberry.jpg'&gt;	Bilberry	[sound:FlashCards_Fruits_Bilberry.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150442Z" creationid="Melo" creationdate="20141031T150442Z">
+        <seg>&lt;img src='FlashCards_Fruits_Bilberry.jpg'&gt;	myrtillo	[sound:FlashCards_Fruits_Bilberry.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Fruits_Cherry.jpg'&gt;	Cherry	[sound:FlashCards_Fruits_Cherry.mp3]	Fruits</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121246Z" creationid="Melo" creationdate="20141031T121246Z">
@@ -9332,10 +9340,42 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Kiwi.jpg'&gt;	Kiwi	[sound:FlashCards_Fruits_Kiwi.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150508Z" creationid="Melo" creationdate="20141031T150508Z">
+        <seg>&lt;img src='FlashCards_Fruits_Kiwi.jpg'&gt;	Kiwi	[sound:FlashCards_Fruits_Kiwi.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Fruits_Lemon.jpg'&gt;	Lemon	[sound:FlashCards_Fruits_Lemon.mp3]	Fruits</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121342Z" creationid="Melo" creationdate="20141031T121342Z">
         <seg>&lt;img src='FlashCards_Fruits_Lemon.jpg'&gt;	limon	[sound:FlashCards_Fruits_Lemon.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Mango.jpg'&gt;	Mango	[sound:FlashCards_Fruits_Mango.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150511Z" creationid="Melo" creationdate="20141031T150511Z">
+        <seg>&lt;img src='FlashCards_Fruits_Mango.jpg'&gt;	Mango	[sound:FlashCards_Fruits_Mango.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Melon.jpg'&gt;	Melon	[sound:FlashCards_Fruits_Melon.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150515Z" creationid="Melo" creationdate="20141031T150515Z">
+        <seg>&lt;img src='FlashCards_Fruits_Melon.jpg'&gt;	Melon	[sound:FlashCards_Fruits_Melon.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Orange.jpg'&gt;	Orange	[sound:FlashCards_Fruits_Orange.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150520Z" creationid="Melo" creationdate="20141031T150520Z">
+        <seg>&lt;img src='FlashCards_Fruits_Orange.jpg'&gt;	Orange	[sound:FlashCards_Fruits_Orange.mp3]	Fruits</seg>
       </tuv>
     </tu>
     <tu>
