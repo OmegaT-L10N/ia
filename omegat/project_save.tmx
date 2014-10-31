@@ -8364,10 +8364,18 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Air conditioner.jpg'&gt;	Air conditioner	[sound:FlashCards_Electronics_Air conditioner.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T135937Z" creationid="Melo" creationdate="20141031T135937Z">
+        <seg>&lt;img src='FlashCards_Electronics_Air conditioner.jpg'&gt;	climatisator	[sound:FlashCards_Electronics_Air conditioner.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Electronics_Camera.jpg'&gt;	Camera	[sound:FlashCards_Electronics_Camera.mp3]	Electronics</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141031T115206Z" creationid="Melo" creationdate="20141031T115206Z">
-        <seg>&lt;img src='FlashCards_Electronics_Camera.jpg'&gt;	apparato	[sound:FlashCards_Electronics_Camera.mp3]	Electronics</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T140204Z" creationid="Melo" creationdate="20141031T115206Z">
+        <seg>&lt;img src='FlashCards_Electronics_Camera.jpg'&gt;	Camera	[sound:FlashCards_Electronics_Camera.mp3]	Electronics</seg>
       </tuv>
     </tu>
     <tu>
