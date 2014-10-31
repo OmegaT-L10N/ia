@@ -8388,6 +8388,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Cooker.jpg'&gt;	Cooker	[sound:FlashCards_Electronics_Cooker.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T140436Z" creationid="Melo" creationdate="20141031T140436Z">
+        <seg>&lt;img src='FlashCards_Electronics_Cooker.jpg'&gt;	cocina	[sound:FlashCards_Electronics_Cooker.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Electronics_DVD player.jpg'&gt;	DVD player	[sound:FlashCards_Electronics_DVD player.mp3]	Electronics</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T115253Z" creationid="Melo" creationdate="20141031T115253Z">
@@ -8456,6 +8464,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T115753Z" creationid="Melo" creationdate="20141031T115753Z">
         <seg>&lt;img src='FlashCards_Electronics_Washing machine.jpg'&gt;	lavator	[sound:FlashCards_Electronics_Washing machine.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_cell phone.jpg'&gt;	cell phone	[sound:FlashCards_Electronics_cell phone.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T140322Z" creationid="Melo" creationdate="20141031T140322Z">
+        <seg>&lt;img src='FlashCards_Electronics_cell phone.jpg'&gt;	telephono cellular 	[sound:FlashCards_Electronics_cell phone.mp3]	Electronics</seg>
       </tuv>
     </tu>
     <tu>
