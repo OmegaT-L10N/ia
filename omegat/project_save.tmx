@@ -7694,8 +7694,24 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Clothing parts_Cufflink.jpg'&gt;	Cufflink	[sound:FlashCards_Clothing parts_Cufflink.mp3]	Clothing parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141031T111041Z" creationid="Melo" creationdate="20141031T111041Z">
-        <seg>&lt;img src='FlashCards_Clothing parts_Cufflink.jpg'&gt;	Cufflink	[sound:FlashCards_Clothing parts_Cufflink.mp3]	Clothing parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T111230Z" creationid="Melo" creationdate="20141031T111041Z">
+        <seg>&lt;img src='FlashCards_Clothing parts_Cufflink.jpg'&gt;	button de manchette	[sound:FlashCards_Clothing parts_Cufflink.mp3]	Clothing parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Clothing parts_Lapel.jpg'&gt;	Lapel	[sound:FlashCards_Clothing parts_Lapel.mp3]	Clothing parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T111325Z" creationid="Melo" creationdate="20141031T111325Z">
+        <seg>&lt;img src='FlashCards_Clothing parts_Lapel.jpg'&gt;	reverso	[sound:FlashCards_Clothing parts_Lapel.mp3]	Clothing parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Clothing parts_Lining.jpg'&gt;	Lining	[sound:FlashCards_Clothing parts_Lining.mp3]	Clothing parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T111336Z" creationid="Melo" creationdate="20141031T111336Z">
+        <seg>&lt;img src='FlashCards_Clothing parts_Lining.jpg'&gt;	foderatura	[sound:FlashCards_Clothing parts_Lining.mp3]	Clothing parts</seg>
       </tuv>
     </tu>
     <tu>
