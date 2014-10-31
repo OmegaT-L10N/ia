@@ -7860,6 +7860,54 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Computer_Laptop.jpg'&gt;	Laptop	[sound:FlashCards_Computer_Laptop.mp3]	Computer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112202Z" creationid="Melo" creationdate="20141031T112202Z">
+        <seg>&lt;img src='FlashCards_Computer_Laptop.jpg'&gt;	Laptop	[sound:FlashCards_Computer_Laptop.mp3]	Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Computer_Microphone.jpg'&gt;	Microphone	[sound:FlashCards_Computer_Microphone.mp3]	Computer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112212Z" creationid="Melo" creationdate="20141031T112212Z">
+        <seg>&lt;img src='FlashCards_Computer_Microphone.jpg'&gt;	microphono	[sound:FlashCards_Computer_Microphone.mp3]	Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Computer_Monitor.jpg'&gt;	Monitor	[sound:FlashCards_Computer_Monitor.mp3]	Computer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112217Z" creationid="Melo" creationdate="20141031T112217Z">
+        <seg>&lt;img src='FlashCards_Computer_Monitor.jpg'&gt;	monitor	[sound:FlashCards_Computer_Monitor.mp3]	Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Computer_Printer.jpg'&gt;	Printer	[sound:FlashCards_Computer_Printer.mp3]	Computer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112226Z" creationid="Melo" creationdate="20141031T112226Z">
+        <seg>&lt;img src='FlashCards_Computer_Printer.jpg'&gt;	printer	[sound:FlashCards_Computer_Printer.mp3]	Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Computer_Speaker.jpg'&gt;	Speaker	[sound:FlashCards_Computer_Speaker.mp3]	Computer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112308Z" creationid="Melo" creationdate="20141031T112308Z">
+        <seg>&lt;img src='FlashCards_Computer_Speaker.jpg'&gt;	altoparlator	[sound:FlashCards_Computer_Speaker.mp3]	Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Blueprint.jpg'&gt;	Blueprint	[sound:FlashCards_Construction_Blueprint.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T112437Z" creationid="Melo" creationdate="20141031T112437Z">
+        <seg>&lt;img src='FlashCards_Construction_Blueprint.jpg'&gt;	cyanogramma	[sound:FlashCards_Construction_Blueprint.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
