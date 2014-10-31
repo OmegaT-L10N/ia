@@ -9716,6 +9716,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_Toque.jpg'&gt;	Toque	[sound:FlashCards_Hats_Toque.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T153315Z" creationid="Melo" creationdate="20141031T153315Z">
+        <seg>&lt;img src='FlashCards_Hats_Toque.jpg'&gt;	bonetto	[sound:FlashCards_Hats_Toque.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Hats_Turban.jpg'&gt;	Turban	[sound:FlashCards_Hats_Turban.mp3]	Hats</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T122204Z" creationid="Melo" creationdate="20141031T122204Z">
