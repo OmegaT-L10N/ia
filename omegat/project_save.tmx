@@ -9484,6 +9484,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Bookcase.jpg'&gt;	Bookcase	[sound:FlashCards_Furniture_Bookcase.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150623Z" creationid="Melo" creationdate="20141031T150623Z">
+        <seg>&lt;img src='FlashCards_Furniture_Bookcase.jpg'&gt;	bibliotheca	[sound:FlashCards_Furniture_Bookcase.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Furniture_Chandelier.jpg'&gt;	Chandelier	[sound:FlashCards_Furniture_Chandelier.mp3]	Furniture</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121651Z" creationid="Melo" creationdate="20141031T121651Z">
@@ -9496,6 +9504,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121725Z" creationid="Melo" creationdate="20141031T121725Z">
         <seg>&lt;img src='FlashCards_Furniture_Cupboard.jpg'&gt;	armario	[sound:FlashCards_Furniture_Cupboard.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Standard lamp.jpg'&gt;	Standard lamp	[sound:FlashCards_Furniture_Standard lamp.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150746Z" creationid="Melo" creationdate="20141031T150746Z">
+        <seg>&lt;img src='FlashCards_Furniture_Standard lamp.jpg'&gt;	Lampa Standard	[sound:FlashCards_Furniture_Standard lamp.mp3]	Furniture</seg>
       </tuv>
     </tu>
     <tu>
