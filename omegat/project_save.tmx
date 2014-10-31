@@ -7996,10 +7996,130 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Shovel.jpg'&gt;	Shovel	[sound:FlashCards_Construction_Shovel.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114432Z" creationid="Melo" creationdate="20141031T114432Z">
+        <seg>&lt;img src='FlashCards_Construction_Shovel.jpg'&gt;	pala	[sound:FlashCards_Construction_Shovel.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Construction_Wheelbarrow.jpg'&gt;	Wheelbarrow	[sound:FlashCards_Construction_Wheelbarrow.mp3]	Construction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114447Z" creationid="Melo" creationdate="20141031T114447Z">
+        <seg>&lt;img src='FlashCards_Construction_Wheelbarrow.jpg'&gt;	carretta a manos	[sound:FlashCards_Construction_Wheelbarrow.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Construction_hard hat.jpg'&gt;	hard hat	[sound:FlashCards_Construction_hard hat.mp3]	Construction</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T112817Z" creationid="Melo" creationdate="20141031T112817Z">
         <seg>&lt;img src='FlashCards_Construction_hard hat.jpg'&gt;	casco	[sound:FlashCards_Construction_hard hat.mp3]	Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Barrel.jpg'&gt;	Barrel	[sound:FlashCards_Containers_Barrel.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114453Z" creationid="Melo" creationdate="20141031T114453Z">
+        <seg>&lt;img src='FlashCards_Containers_Barrel.jpg'&gt;	barril	[sound:FlashCards_Containers_Barrel.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Basket.jpg'&gt;	Basket	[sound:FlashCards_Containers_Basket.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114509Z" creationid="Melo" creationdate="20141031T114509Z">
+        <seg>&lt;img src='FlashCards_Containers_Basket.jpg'&gt;	corbe	[sound:FlashCards_Containers_Basket.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Bottle.jpg'&gt;	Bottle	[sound:FlashCards_Containers_Bottle.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114515Z" creationid="Melo" creationdate="20141031T114515Z">
+        <seg>&lt;img src='FlashCards_Containers_Bottle.jpg'&gt;	bottilia	[sound:FlashCards_Containers_Bottle.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Box.jpg'&gt;	Box	[sound:FlashCards_Containers_Box.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114522Z" creationid="Melo" creationdate="20141031T114522Z">
+        <seg>&lt;img src='FlashCards_Containers_Box.jpg'&gt;	buxo	[sound:FlashCards_Containers_Box.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Can.jpg'&gt;	Can	[sound:FlashCards_Containers_Can.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114602Z" creationid="Melo" creationdate="20141031T114602Z">
+        <seg>&lt;img src='FlashCards_Containers_Can.jpg'&gt;	latta	[sound:FlashCards_Containers_Can.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Carton.jpg'&gt;	Carton	[sound:FlashCards_Containers_Carton.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114609Z" creationid="Melo" creationdate="20141031T114609Z">
+        <seg>&lt;img src='FlashCards_Containers_Carton.jpg'&gt;	Carton	[sound:FlashCards_Containers_Carton.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Jar.jpg'&gt;	Jar	[sound:FlashCards_Containers_Jar.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114626Z" creationid="Melo" creationdate="20141031T114626Z">
+        <seg>&lt;img src='FlashCards_Containers_Jar.jpg'&gt;	jarra	[sound:FlashCards_Containers_Jar.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Containers_Pail.jpg'&gt;	Pail	[sound:FlashCards_Containers_Pail.mp3]	Containers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114633Z" creationid="Melo" creationdate="20141031T114633Z">
+        <seg>&lt;img src='FlashCards_Containers_Pail.jpg'&gt;	situla	[sound:FlashCards_Containers_Pail.mp3]	Containers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Domestic animals_Calf.jpg'&gt;	Calf	[sound:FlashCards_Domestic animals_Calf.mp3]	Domestic animals</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114647Z" creationid="Melo" creationdate="20141031T114647Z">
+        <seg>&lt;img src='FlashCards_Domestic animals_Calf.jpg'&gt;	sura	[sound:FlashCards_Domestic animals_Calf.mp3]	Domestic animals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Domestic animals_Cat.jpg'&gt;	Cat	[sound:FlashCards_Domestic animals_Cat.mp3]	Domestic animals</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114658Z" creationid="Melo" creationdate="20141031T114658Z">
+        <seg>&lt;img src='FlashCards_Domestic animals_Cat.jpg'&gt;	catto	[sound:FlashCards_Domestic animals_Cat.mp3]	Domestic animals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Domestic animals_Chick.jpg'&gt;	Chick	[sound:FlashCards_Domestic animals_Chick.mp3]	Domestic animals</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114712Z" creationid="Melo" creationdate="20141031T114712Z">
+        <seg>&lt;img src='FlashCards_Domestic animals_Chick.jpg'&gt;	gallinetta	[sound:FlashCards_Domestic animals_Chick.mp3]	Domestic animals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Domestic animals_Chicken.jpg'&gt;	Chicken	[sound:FlashCards_Domestic animals_Chicken.mp3]	Domestic animals</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114727Z" creationid="Melo" creationdate="20141031T114727Z">
+        <seg>&lt;img src='FlashCards_Domestic animals_Chicken.jpg'&gt;	galletto	[sound:FlashCards_Domestic animals_Chicken.mp3]	Domestic animals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Domestic animals_Cow.jpg'&gt;	Cow	[sound:FlashCards_Domestic animals_Cow.mp3]	Domestic animals</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T114731Z" creationid="Melo" creationdate="20141031T114731Z">
+        <seg>&lt;img src='FlashCards_Domestic animals_Cow.jpg'&gt;	vacca	[sound:FlashCards_Domestic animals_Cow.mp3]	Domestic animals</seg>
       </tuv>
     </tu>
     <tu>
