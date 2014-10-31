@@ -8444,6 +8444,78 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Candle.jpg'&gt;	Candle	[sound:FlashCards_Fire_Candle.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120040Z" creationid="Melo" creationdate="20141031T120040Z">
+        <seg>&lt;img src='FlashCards_Fire_Candle.jpg'&gt;	candela	[sound:FlashCards_Fire_Candle.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Charcoal.jpg'&gt;	Charcoal	[sound:FlashCards_Fire_Charcoal.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120049Z" creationid="Melo" creationdate="20141031T120049Z">
+        <seg>&lt;img src='FlashCards_Fire_Charcoal.jpg'&gt;	carbon de ligno	[sound:FlashCards_Fire_Charcoal.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Chimney.jpg'&gt;	Chimney	[sound:FlashCards_Fire_Chimney.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120059Z" creationid="Melo" creationdate="20141031T120059Z">
+        <seg>&lt;img src='FlashCards_Fire_Chimney.jpg'&gt;	camino	[sound:FlashCards_Fire_Chimney.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Cigarette.jpg'&gt;	Cigarette	[sound:FlashCards_Fire_Cigarette.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120106Z" creationid="Melo" creationdate="20141031T120106Z">
+        <seg>&lt;img src='FlashCards_Fire_Cigarette.jpg'&gt;	cigaretta	[sound:FlashCards_Fire_Cigarette.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Fireplace.jpg'&gt;	Fireplace	[sound:FlashCards_Fire_Fireplace.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120124Z" creationid="Melo" creationdate="20141031T120124Z">
+        <seg>&lt;img src='FlashCards_Fire_Fireplace.jpg'&gt;	camino	[sound:FlashCards_Fire_Fireplace.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Flame.jpg'&gt;	Flame	[sound:FlashCards_Fire_Flame.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120145Z" creationid="Melo" creationdate="20141031T120145Z">
+        <seg>&lt;img src='FlashCards_Fire_Flame.jpg'&gt;	flamma	[sound:FlashCards_Fire_Flame.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Pipe.jpg'&gt;	Pipe	[sound:FlashCards_Fire_Pipe.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120155Z" creationid="Melo" creationdate="20141031T120155Z">
+        <seg>&lt;img src='FlashCards_Fire_Pipe.jpg'&gt;	pipa	[sound:FlashCards_Fire_Pipe.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_smoke.jpg'&gt;	smoke	[sound:FlashCards_Fire_smoke.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120218Z" creationid="Melo" creationdate="20141031T120218Z">
+        <seg>&lt;img src='FlashCards_Fire_smoke.jpg'&gt;	fumo	[sound:FlashCards_Fire_smoke.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fishing tackle_fishing line.jpg'&gt;	fishing line	[sound:FlashCards_Fishing tackle_fishing line.mp3]	Fishing tackle</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120308Z" creationid="Melo" creationdate="20141031T120308Z">
+        <seg>&lt;img src='FlashCards_Fishing tackle_fishing line.jpg'&gt;	linea de pisca	[sound:FlashCards_Fishing tackle_fishing line.mp3]	Fishing tackle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
