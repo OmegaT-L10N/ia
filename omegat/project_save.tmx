@@ -8988,10 +8988,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_French fries.jpg'&gt;	French fries	[sound:FlashCards_Food_French fries.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T145041Z" creationid="Melo" creationdate="20141031T145041Z">
+        <seg>&lt;img src='FlashCards_Food_French fries.jpg'&gt;	patatas frite	[sound:FlashCards_Food_French fries.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Food_Ham.jpg'&gt;	Ham	[sound:FlashCards_Food_Ham.mp3]	Food</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120810Z" creationid="Melo" creationdate="20141031T120810Z">
         <seg>&lt;img src='FlashCards_Food_Ham.jpg'&gt;	gambon	[sound:FlashCards_Food_Ham.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Hamburger.jpg'&gt;	Hamburger	[sound:FlashCards_Food_Hamburger.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T145118Z" creationid="Melo" creationdate="20141031T145118Z">
+        <seg>&lt;img src='FlashCards_Food_Hamburger.jpg'&gt;	Hamburger	[sound:FlashCards_Food_Hamburger.mp3]	Food</seg>
       </tuv>
     </tu>
     <tu>
