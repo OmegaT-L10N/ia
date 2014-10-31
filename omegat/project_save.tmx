@@ -8868,6 +8868,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Flowers_Snowdrop.jpg'&gt;	Snowdrop	[sound:FlashCards_Flowers_Snowdrop.mp3]	Flowers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T144441Z" creationid="Melo" creationdate="20141031T144441Z">
+        <seg>&lt;img src='FlashCards_Flowers_Snowdrop.jpg'&gt;	galanthus nivalis	[sound:FlashCards_Flowers_Snowdrop.mp3]	Flowers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Flowers_Sunflower.jpg'&gt;	Sunflower	[sound:FlashCards_Flowers_Sunflower.mp3]	Flowers</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120605Z" creationid="Melo" creationdate="20141031T120605Z">
@@ -8936,6 +8944,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120730Z" creationid="Melo" creationdate="20141031T120730Z">
         <seg>&lt;img src='FlashCards_Food_Cheese.jpg'&gt;	caseo	[sound:FlashCards_Food_Cheese.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Chewing gum.jpg'&gt;	Chewing gum	[sound:FlashCards_Food_Chewing gum.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T144558Z" creationid="Melo" creationdate="20141031T144558Z">
+        <seg>&lt;img src='FlashCards_Food_Chewing gum.jpg'&gt;	· gumma de masticar	[sound:FlashCards_Food_Chewing gum.mp3]	Food</seg>
       </tuv>
     </tu>
     <tu>
