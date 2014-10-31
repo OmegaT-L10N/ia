@@ -8932,6 +8932,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Pistachio nut.jpg'&gt;	Pistachio nut	[sound:FlashCards_Fruits_Pistachio nut.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T134405Z" creationid="Melo" creationdate="20141031T134405Z">
+        <seg>&lt;img src='FlashCards_Fruits_Pistachio nut.jpg'&gt;	pistacio	[sound:FlashCards_Fruits_Pistachio nut.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Fruits_Plum.jpg'&gt;	Plum	[sound:FlashCards_Fruits_Plum.mp3]	Fruits</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121502Z" creationid="Melo" creationdate="20141031T121502Z">
