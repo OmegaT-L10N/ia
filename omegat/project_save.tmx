@@ -9686,8 +9686,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Hats_Earmuffs.jpg'&gt;	Earmuffs	[sound:FlashCards_Hats_Earmuffs.mp3]	Hats</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141031T151259Z" creationid="Melo" creationdate="20141031T151259Z">
-        <seg>&lt;img src='FlashCards_Hats_Earmuffs.jpg'&gt;	Earmuffs	[sound:FlashCards_Hats_Earmuffs.mp3]	Hats</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T152441Z" creationid="Melo" creationdate="20141031T151259Z">
+        <seg>&lt;img src='FlashCards_Hats_Earmuffs.jpg'&gt;	protege aures	[sound:FlashCards_Hats_Earmuffs.mp3]	Hats</seg>
       </tuv>
     </tu>
     <tu>
@@ -9696,6 +9696,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T122145Z" creationid="Melo" creationdate="20141031T122145Z">
         <seg>&lt;img src='FlashCards_Hats_Hat.jpg'&gt;	cappello	[sound:FlashCards_Hats_Hat.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_Hijab.jpg'&gt;	Hijab	[sound:FlashCards_Hats_Hijab.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T152631Z" creationid="Melo" creationdate="20141031T152631Z">
+        <seg>&lt;img src='FlashCards_Hats_Hijab.jpg'&gt;	Velo	[sound:FlashCards_Hats_Hijab.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_Sweatband.jpg'&gt;	Sweatband	[sound:FlashCards_Hats_Sweatband.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T153110Z" creationid="Melo" creationdate="20141031T153110Z">
+        <seg>&lt;img src='FlashCards_Hats_Sweatband.jpg'&gt;	Banda de sudor	[sound:FlashCards_Hats_Sweatband.mp3]	Hats</seg>
       </tuv>
     </tu>
     <tu>
@@ -9720,6 +9736,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T151249Z" creationid="Melo" creationdate="20141031T151249Z">
         <seg>&lt;img src='FlashCards_Hats_baseball cap.jpg'&gt;	bonetto de baseball	[sound:FlashCards_Hats_baseball cap.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_fur cap.jpg'&gt;	fur cap	[sound:FlashCards_Hats_fur cap.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T152537Z" creationid="Melo" creationdate="20141031T152537Z">
+        <seg>&lt;img src='FlashCards_Hats_fur cap.jpg'&gt;	tocca de pelle	[sound:FlashCards_Hats_fur cap.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_straw hat.jpg'&gt;	straw hat	[sound:FlashCards_Hats_straw hat.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T152655Z" creationid="Melo" creationdate="20141031T152655Z">
+        <seg>&lt;img src='FlashCards_Hats_straw hat.jpg'&gt;	cappello de palea	[sound:FlashCards_Hats_straw hat.mp3]	Hats</seg>
       </tuv>
     </tu>
     <tu>
