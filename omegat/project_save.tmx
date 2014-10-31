@@ -9036,10 +9036,34 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Ketchup.jpg'&gt;	Ketchup	[sound:FlashCards_Food_Ketchup.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T145419Z" creationid="Melo" creationdate="20141031T145419Z">
+        <seg>&lt;img src='FlashCards_Food_Ketchup.jpg'&gt;	sauce de tomate	[sound:FlashCards_Food_Ketchup.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Food_Lamb.jpg'&gt;	Lamb	[sound:FlashCards_Food_Lamb.mp3]	Food</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120920Z" creationid="Melo" creationdate="20141031T120920Z">
         <seg>&lt;img src='FlashCards_Food_Lamb.jpg'&gt;	agno	[sound:FlashCards_Food_Lamb.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Milkshake.jpg'&gt;	Milkshake	[sound:FlashCards_Food_Milkshake.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T145526Z" creationid="Melo" creationdate="20141031T145526Z">
+        <seg>&lt;img src='FlashCards_Food_Milkshake.jpg'&gt;	frullato	[sound:FlashCards_Food_Milkshake.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Muesli.jpg'&gt;	Muesli	[sound:FlashCards_Food_Muesli.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T145547Z" creationid="Melo" creationdate="20141031T145547Z">
+        <seg>&lt;img src='FlashCards_Food_Muesli.jpg'&gt;	Muesli	[sound:FlashCards_Food_Muesli.mp3]	Food</seg>
       </tuv>
     </tu>
     <tu>
@@ -9136,6 +9160,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121208Z" creationid="Melo" creationdate="20141031T121208Z">
         <seg>&lt;img src='FlashCards_Food_Waffle.jpg'&gt;	wafla	[sound:FlashCards_Food_Waffle.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_hot dog.jpg'&gt;	hot dog	[sound:FlashCards_Food_hot dog.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T145405Z" creationid="Melo" creationdate="20141031T145405Z">
+        <seg>&lt;img src='FlashCards_Food_hot dog.jpg'&gt;	hotdog	[sound:FlashCards_Food_hot dog.mp3]	Food</seg>
       </tuv>
     </tu>
     <tu>
