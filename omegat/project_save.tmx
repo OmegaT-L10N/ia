@@ -7652,6 +7652,38 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Clothing parts_Belt.jpg'&gt;	Belt	[sound:FlashCards_Clothing parts_Belt.mp3]	Clothing parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T110330Z" creationid="Melo" creationdate="20141031T110330Z">
+        <seg>&lt;img src='FlashCards_Clothing parts_Belt.jpg'&gt;	cinctura	[sound:FlashCards_Clothing parts_Belt.mp3]	Clothing parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Clothing parts_Buckle.jpg'&gt;	Buckle	[sound:FlashCards_Clothing parts_Buckle.mp3]	Clothing parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T110438Z" creationid="Melo" creationdate="20141031T110438Z">
+        <seg>&lt;img src='FlashCards_Clothing parts_Buckle.jpg'&gt;	fibula	[sound:FlashCards_Clothing parts_Buckle.mp3]	Clothing parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Clothing parts_Button.jpg'&gt;	Button	[sound:FlashCards_Clothing parts_Button.mp3]	Clothing parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T110444Z" creationid="Melo" creationdate="20141031T110444Z">
+        <seg>&lt;img src='FlashCards_Clothing parts_Button.jpg'&gt;	button	[sound:FlashCards_Clothing parts_Button.mp3]	Clothing parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Clothing parts_Collar.jpg'&gt;	Collar	[sound:FlashCards_Clothing parts_Collar.mp3]	Clothing parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T110546Z" creationid="Melo" creationdate="20141031T110546Z">
+        <seg>&lt;img src='FlashCards_Clothing parts_Collar.jpg'&gt;	collo	[sound:FlashCards_Clothing parts_Collar.mp3]	Clothing parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
