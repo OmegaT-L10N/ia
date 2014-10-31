@@ -8436,10 +8436,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Mixer.jpg'&gt;	Mixer	[sound:FlashCards_Electronics_Mixer.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T142331Z" creationid="Melo" creationdate="20141031T142331Z">
+        <seg>&lt;img src='FlashCards_Electronics_Mixer.jpg'&gt;	miscitor	[sound:FlashCards_Electronics_Mixer.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Electronics_Phone.jpg'&gt;	Phone	[sound:FlashCards_Electronics_Phone.mp3]	Electronics</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T115454Z" creationid="Melo" creationdate="20141031T115454Z">
         <seg>&lt;img src='FlashCards_Electronics_Phone.jpg'&gt;	telephono	[sound:FlashCards_Electronics_Phone.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Radio.jpg'&gt;	Radio	[sound:FlashCards_Electronics_Radio.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T142340Z" creationid="Melo" creationdate="20141031T142340Z">
+        <seg>&lt;img src='FlashCards_Electronics_Radio.jpg'&gt;	Radio	[sound:FlashCards_Electronics_Radio.mp3]	Electronics</seg>
       </tuv>
     </tu>
     <tu>
