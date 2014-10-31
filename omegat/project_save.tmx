@@ -9188,6 +9188,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Scrambled eggs.jpg'&gt;	Scrambled eggs	[sound:FlashCards_Food_Scrambled eggs.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150116Z" creationid="Melo" creationdate="20141031T150116Z">
+        <seg>&lt;img src='FlashCards_Food_Scrambled eggs.jpg'&gt;	ovos miscite	[sound:FlashCards_Food_Scrambled eggs.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Food_Soup.jpg'&gt;	Soup	[sound:FlashCards_Food_Soup.mp3]	Food</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121130Z" creationid="Melo" creationdate="20141031T121130Z">
@@ -9212,10 +9220,34 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Sushi.jpg'&gt;	Sushi	[sound:FlashCards_Food_Sushi.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150121Z" creationid="Melo" creationdate="20141031T150121Z">
+        <seg>&lt;img src='FlashCards_Food_Sushi.jpg'&gt;	Sushi	[sound:FlashCards_Food_Sushi.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Tacos.jpg'&gt;	Tacos	[sound:FlashCards_Food_Tacos.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150226Z" creationid="Melo" creationdate="20141031T150226Z">
+        <seg>&lt;img src='FlashCards_Food_Tacos.jpg'&gt;	Tacos	[sound:FlashCards_Food_Tacos.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Food_Waffle.jpg'&gt;	Waffle	[sound:FlashCards_Food_Waffle.mp3]	Food</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121208Z" creationid="Melo" creationdate="20141031T121208Z">
         <seg>&lt;img src='FlashCards_Food_Waffle.jpg'&gt;	wafla	[sound:FlashCards_Food_Waffle.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Yogurt.jpg'&gt;	Yogurt	[sound:FlashCards_Food_Yogurt.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150240Z" creationid="Melo" creationdate="20141031T150240Z">
+        <seg>&lt;img src='FlashCards_Food_Yogurt.jpg'&gt;	Yogurt	[sound:FlashCards_Food_Yogurt.mp3]	Food</seg>
       </tuv>
     </tu>
     <tu>
@@ -9248,6 +9280,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121235Z" creationid="Melo" creationdate="20141031T121235Z">
         <seg>&lt;img src='FlashCards_Fruits_Apricot.jpg'&gt;	albricoc	[sound:FlashCards_Fruits_Apricot.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Banana.jpg'&gt;	Banana	[sound:FlashCards_Fruits_Banana.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150243Z" creationid="Melo" creationdate="20141031T150243Z">
+        <seg>&lt;img src='FlashCards_Fruits_Banana.jpg'&gt;	Banana	[sound:FlashCards_Fruits_Banana.mp3]	Fruits</seg>
       </tuv>
     </tu>
     <tu>
