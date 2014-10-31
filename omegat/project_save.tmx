@@ -8580,6 +8580,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fairy tale_Mermaid.jpg'&gt;	Mermaid	[sound:FlashCards_Fairy tale_Mermaid.mp3]	Fairy tale</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T142836Z" creationid="Melo" creationdate="20141031T142836Z">
+        <seg>&lt;img src='FlashCards_Fairy tale_Mermaid.jpg'&gt;	sirena	[sound:FlashCards_Fairy tale_Mermaid.mp3]	Fairy tale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Fairy tale_Prince.jpg'&gt;	Prince	[sound:FlashCards_Fairy tale_Prince.mp3]	Fairy tale</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T115930Z" creationid="Melo" creationdate="20141031T115930Z">
@@ -8600,6 +8608,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T115945Z" creationid="Melo" creationdate="20141031T115945Z">
         <seg>&lt;img src='FlashCards_Fairy tale_Unicorn.jpg'&gt;	unicornio	[sound:FlashCards_Fairy tale_Unicorn.mp3]	Fairy tale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fairy tale_Witch.jpg'&gt;	Witch	[sound:FlashCards_Fairy tale_Witch.mp3]	Fairy tale</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T142926Z" creationid="Melo" creationdate="20141031T142926Z">
+        <seg>&lt;img src='FlashCards_Fairy tale_Witch.jpg'&gt;	maga	[sound:FlashCards_Fairy tale_Witch.mp3]	Fairy tale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fairy tale_Wizard.jpg'&gt;	Wizard	[sound:FlashCards_Fairy tale_Wizard.mp3]	Fairy tale</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T143040Z" creationid="Melo" creationdate="20141031T143040Z">
+        <seg>&lt;img src='FlashCards_Fairy tale_Wizard.jpg'&gt;	mago	[sound:FlashCards_Fairy tale_Wizard.mp3]	Fairy tale</seg>
       </tuv>
     </tu>
     <tu>
