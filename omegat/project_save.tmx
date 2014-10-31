@@ -7564,6 +7564,30 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Casino_Chip.jpg'&gt;	Chip	[sound:FlashCards_Casino_Chip.mp3]	Casino</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T105152Z" creationid="Melo" creationdate="20141031T105152Z">
+        <seg>&lt;img src='FlashCards_Casino_Chip.jpg'&gt;	fiche	[sound:FlashCards_Casino_Chip.mp3]	Casino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Casino_Clubs.jpg'&gt;	Clubs	[sound:FlashCards_Casino_Clubs.mp3]	Casino</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T105154Z" creationid="Melo" creationdate="20141031T105154Z">
+        <seg>&lt;img src='FlashCards_Casino_Clubs.jpg'&gt;	Clubs	[sound:FlashCards_Casino_Clubs.mp3]	Casino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Casino_Diamonds.jpg'&gt;	Diamonds	[sound:FlashCards_Casino_Diamonds.mp3]	Casino</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T105237Z" creationid="Melo" creationdate="20141031T105237Z">
+        <seg>&lt;img src='FlashCards_Casino_Diamonds.jpg'&gt;	diamantes	[sound:FlashCards_Casino_Diamonds.mp3]	Casino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
