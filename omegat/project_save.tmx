@@ -9612,6 +9612,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_sandbox.jpg'&gt;	sandbox	[sound:FlashCards_Garden_sandbox.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T150941Z" creationid="Melo" creationdate="20141031T150941Z">
+        <seg>&lt;img src='FlashCards_Garden_sandbox.jpg'&gt;	arena	[sound:FlashCards_Garden_sandbox.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Garden_seesaw.jpg'&gt;	seesaw	[sound:FlashCards_Garden_seesaw.mp3]	Garden</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T121939Z" creationid="Melo" creationdate="20141031T121939Z">
@@ -9640,6 +9648,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T122037Z" creationid="Melo" creationdate="20141031T122037Z">
         <seg>&lt;img src='FlashCards_Garden_trampoline.jpg'&gt;	trampolino	[sound:FlashCards_Garden_trampoline.mp3]	Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Garden_watering can.jpg'&gt;	watering can	[sound:FlashCards_Garden_watering can.mp3]	Garden</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T151203Z" creationid="Melo" creationdate="20141031T151203Z">
+        <seg>&lt;img src='FlashCards_Garden_watering can.jpg'&gt;	rigatorio	[sound:FlashCards_Garden_watering can.mp3]	Garden</seg>
       </tuv>
     </tu>
     <tu>
