@@ -9660,6 +9660,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_Beret.jpg'&gt;	Beret	[sound:FlashCards_Hats_Beret.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T151255Z" creationid="Melo" creationdate="20141031T151255Z">
+        <seg>&lt;img src='FlashCards_Hats_Beret.jpg'&gt;	Beret	[sound:FlashCards_Hats_Beret.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Hats_Bonnet.jpg'&gt;	Bonnet	[sound:FlashCards_Hats_Bonnet.mp3]	Hats</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T122048Z" creationid="Melo" creationdate="20141031T122048Z">
@@ -9670,8 +9678,16 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Hats_Cap.jpg'&gt;	Cap	[sound:FlashCards_Hats_Cap.mp3]	Hats</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141031T122107Z" creationid="Melo" creationdate="20141031T122107Z">
-        <seg>&lt;img src='FlashCards_Hats_Cap.jpg'&gt;	tocca	[sound:FlashCards_Hats_Cap.mp3]	Hats</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T151341Z" creationid="Melo" creationdate="20141031T122107Z">
+        <seg>&lt;img src='FlashCards_Hats_Cap.jpg'&gt;	bonetto	[sound:FlashCards_Hats_Cap.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_Earmuffs.jpg'&gt;	Earmuffs	[sound:FlashCards_Hats_Earmuffs.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T151259Z" creationid="Melo" creationdate="20141031T151259Z">
+        <seg>&lt;img src='FlashCards_Hats_Earmuffs.jpg'&gt;	Earmuffs	[sound:FlashCards_Hats_Earmuffs.mp3]	Hats</seg>
       </tuv>
     </tu>
     <tu>
@@ -9696,6 +9712,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T122213Z" creationid="Melo" creationdate="20141031T122213Z">
         <seg>&lt;img src='FlashCards_Hats_Veil.jpg'&gt;	velo	[sound:FlashCards_Hats_Veil.mp3]	Hats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Hats_baseball cap.jpg'&gt;	baseball cap	[sound:FlashCards_Hats_baseball cap.mp3]	Hats</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T151249Z" creationid="Melo" creationdate="20141031T151249Z">
+        <seg>&lt;img src='FlashCards_Hats_baseball cap.jpg'&gt;	bonetto de baseball	[sound:FlashCards_Hats_baseball cap.mp3]	Hats</seg>
       </tuv>
     </tu>
     <tu>
