@@ -8468,6 +8468,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Scales.jpg'&gt;	Scales	[sound:FlashCards_Electronics_Scales.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T142458Z" creationid="Melo" creationdate="20141031T142458Z">
+        <seg>&lt;img src='FlashCards_Electronics_Scales.jpg'&gt;	balancia	[sound:FlashCards_Electronics_Scales.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_TV set.jpg'&gt;	TV set	[sound:FlashCards_Electronics_TV set.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T142537Z" creationid="Melo" creationdate="20141031T142537Z">
+        <seg>&lt;img src='FlashCards_Electronics_TV set.jpg'&gt;	televisor	[sound:FlashCards_Electronics_TV set.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Electronics_Toaster.jpg'&gt;	Toaster	[sound:FlashCards_Electronics_Toaster.mp3]	Electronics</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T115529Z" creationid="Melo" creationdate="20141031T115529Z">
@@ -8496,6 +8512,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T115753Z" creationid="Melo" creationdate="20141031T115753Z">
         <seg>&lt;img src='FlashCards_Electronics_Washing machine.jpg'&gt;	lavator	[sound:FlashCards_Electronics_Washing machine.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Wire.jpg'&gt;	Wire	[sound:FlashCards_Electronics_Wire.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T142700Z" creationid="Melo" creationdate="20141031T142700Z">
+        <seg>&lt;img src='FlashCards_Electronics_Wire.jpg'&gt;	filo electric	[sound:FlashCards_Electronics_Wire.mp3]	Electronics</seg>
       </tuv>
     </tu>
     <tu>
