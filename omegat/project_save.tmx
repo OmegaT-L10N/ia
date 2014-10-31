@@ -8644,6 +8644,118 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Candy.jpg'&gt;	Candy	[sound:FlashCards_Food_Candy.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120714Z" creationid="Melo" creationdate="20141031T120714Z">
+        <seg>&lt;img src='FlashCards_Food_Candy.jpg'&gt;	bonbon	[sound:FlashCards_Food_Candy.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Caviar.jpg'&gt;	Caviar	[sound:FlashCards_Food_Caviar.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120725Z" creationid="Melo" creationdate="20141031T120725Z">
+        <seg>&lt;img src='FlashCards_Food_Caviar.jpg'&gt;	caviar	[sound:FlashCards_Food_Caviar.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Cheese.jpg'&gt;	Cheese	[sound:FlashCards_Food_Cheese.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120730Z" creationid="Melo" creationdate="20141031T120730Z">
+        <seg>&lt;img src='FlashCards_Food_Cheese.jpg'&gt;	caseo	[sound:FlashCards_Food_Cheese.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Chicken.jpg'&gt;	Chicken	[sound:FlashCards_Food_Chicken.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120740Z" creationid="Melo" creationdate="20141031T120740Z">
+        <seg>&lt;img src='FlashCards_Food_Chicken.jpg'&gt;	galletto	[sound:FlashCards_Food_Chicken.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Chocolate.jpg'&gt;	Chocolate	[sound:FlashCards_Food_Chocolate.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120746Z" creationid="Melo" creationdate="20141031T120746Z">
+        <seg>&lt;img src='FlashCards_Food_Chocolate.jpg'&gt;	chocolate	[sound:FlashCards_Food_Chocolate.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Eggs.jpg'&gt;	Eggs	[sound:FlashCards_Food_Eggs.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120757Z" creationid="Melo" creationdate="20141031T120757Z">
+        <seg>&lt;img src='FlashCards_Food_Eggs.jpg'&gt;	ovos	[sound:FlashCards_Food_Eggs.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Ham.jpg'&gt;	Ham	[sound:FlashCards_Food_Ham.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120810Z" creationid="Melo" creationdate="20141031T120810Z">
+        <seg>&lt;img src='FlashCards_Food_Ham.jpg'&gt;	gambon	[sound:FlashCards_Food_Ham.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Honey.jpg'&gt;	Honey	[sound:FlashCards_Food_Honey.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120819Z" creationid="Melo" creationdate="20141031T120819Z">
+        <seg>&lt;img src='FlashCards_Food_Honey.jpg'&gt;	melle	[sound:FlashCards_Food_Honey.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Ice cream.jpg'&gt;	Ice cream	[sound:FlashCards_Food_Ice cream.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120857Z" creationid="Melo" creationdate="20141031T120857Z">
+        <seg>&lt;img src='FlashCards_Food_Ice cream.jpg'&gt;	gelato	[sound:FlashCards_Food_Ice cream.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Jam.jpg'&gt;	Jam	[sound:FlashCards_Food_Jam.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120906Z" creationid="Melo" creationdate="20141031T120906Z">
+        <seg>&lt;img src='FlashCards_Food_Jam.jpg'&gt;	confectura	[sound:FlashCards_Food_Jam.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Lamb.jpg'&gt;	Lamb	[sound:FlashCards_Food_Lamb.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120920Z" creationid="Melo" creationdate="20141031T120920Z">
+        <seg>&lt;img src='FlashCards_Food_Lamb.jpg'&gt;	agno	[sound:FlashCards_Food_Lamb.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Omelet.jpg'&gt;	Omelet	[sound:FlashCards_Food_Omelet.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120933Z" creationid="Melo" creationdate="20141031T120933Z">
+        <seg>&lt;img src='FlashCards_Food_Omelet.jpg'&gt;	omelette	[sound:FlashCards_Food_Omelet.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Pancake.jpg'&gt;	Pancake	[sound:FlashCards_Food_Pancake.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T120942Z" creationid="Melo" creationdate="20141031T120942Z">
+        <seg>&lt;img src='FlashCards_Food_Pancake.jpg'&gt;	torta de patella	[sound:FlashCards_Food_Pancake.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Food_Pickles.jpg'&gt;	Pickles	[sound:FlashCards_Food_Pickles.mp3]	Food</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121010Z" creationid="Melo" creationdate="20141031T121010Z">
+        <seg>&lt;img src='FlashCards_Food_Pickles.jpg'&gt;	pickles	[sound:FlashCards_Food_Pickles.mp3]	Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
