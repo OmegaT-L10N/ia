@@ -9212,6 +9212,102 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Shirt.jpg'&gt;	Shirt	[sound:FlashCards_Indoor clothes_Shirt.mp3]	Indoor clothes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133606Z" creationid="Melo" creationdate="20141031T133606Z">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Shirt.jpg'&gt;	camisa	[sound:FlashCards_Indoor clothes_Shirt.mp3]	Indoor clothes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Skirt.jpg'&gt;	Skirt	[sound:FlashCards_Indoor clothes_Skirt.mp3]	Indoor clothes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133543Z" creationid="Melo" creationdate="20141031T133543Z">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Skirt.jpg'&gt;	gonna	[sound:FlashCards_Indoor clothes_Skirt.mp3]	Indoor clothes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Vest.jpg'&gt;	Vest	[sound:FlashCards_Indoor clothes_Vest.mp3]	Indoor clothes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133445Z" creationid="Melo" creationdate="20141031T133445Z">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Vest.jpg'&gt;	habito	[sound:FlashCards_Indoor clothes_Vest.mp3]	Indoor clothes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Ant.jpg'&gt;	Ant	[sound:FlashCards_Insects_Ant.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133437Z" creationid="Melo" creationdate="20141031T133437Z">
+        <seg>&lt;img src='FlashCards_Insects_Ant.jpg'&gt;	formica	[sound:FlashCards_Insects_Ant.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Bee.jpg'&gt;	Bee	[sound:FlashCards_Insects_Bee.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133429Z" creationid="Melo" creationdate="20141031T133429Z">
+        <seg>&lt;img src='FlashCards_Insects_Bee.jpg'&gt;	ape	[sound:FlashCards_Insects_Bee.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Beetle.jpg'&gt;	Beetle	[sound:FlashCards_Insects_Beetle.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133421Z" creationid="Melo" creationdate="20141031T133421Z">
+        <seg>&lt;img src='FlashCards_Insects_Beetle.jpg'&gt;	scarabeo	[sound:FlashCards_Insects_Beetle.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Butterfly.jpg'&gt;	Butterfly	[sound:FlashCards_Insects_Butterfly.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133404Z" creationid="Melo" creationdate="20141031T133404Z">
+        <seg>&lt;img src='FlashCards_Insects_Butterfly.jpg'&gt;	papilion	[sound:FlashCards_Insects_Butterfly.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Caterpillar.jpg'&gt;	Caterpillar	[sound:FlashCards_Insects_Caterpillar.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133359Z" creationid="Melo" creationdate="20141031T133359Z">
+        <seg>&lt;img src='FlashCards_Insects_Caterpillar.jpg'&gt;	eruca	[sound:FlashCards_Insects_Caterpillar.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Cockroach.jpg'&gt;	Cockroach	[sound:FlashCards_Insects_Cockroach.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133348Z" creationid="Melo" creationdate="20141031T133348Z">
+        <seg>&lt;img src='FlashCards_Insects_Cockroach.jpg'&gt;	blatta	[sound:FlashCards_Insects_Cockroach.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Dragonfly.jpg'&gt;	Dragonfly	[sound:FlashCards_Insects_Dragonfly.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133339Z" creationid="Melo" creationdate="20141031T133339Z">
+        <seg>&lt;img src='FlashCards_Insects_Dragonfly.jpg'&gt;	libellula	[sound:FlashCards_Insects_Dragonfly.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Fly.jpg'&gt;	Fly	[sound:FlashCards_Insects_Fly.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133331Z" creationid="Melo" creationdate="20141031T133331Z">
+        <seg>&lt;img src='FlashCards_Insects_Fly.jpg'&gt;	musca	[sound:FlashCards_Insects_Fly.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Insects_Grasshopper.jpg'&gt;	Grasshopper	[sound:FlashCards_Insects_Grasshopper.mp3]	Insects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T133325Z" creationid="Melo" creationdate="20141031T133325Z">
+        <seg>&lt;img src='FlashCards_Insects_Grasshopper.jpg'&gt;	locusta	[sound:FlashCards_Insects_Grasshopper.mp3]	Insects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Insects_Spider.jpg'&gt;	Spider	[sound:FlashCards_Insects_Spider.mp3]	Insects</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T133258Z" creationid="Melo" creationdate="20141031T133258Z">
