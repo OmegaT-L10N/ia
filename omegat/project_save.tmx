@@ -9772,6 +9772,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_House_Garage.jpg'&gt;	Garage	[sound:FlashCards_House_Garage.mp3]	House</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T155057Z" creationid="Melo" creationdate="20141031T155057Z">
+        <seg>&lt;img src='FlashCards_House_Garage.jpg'&gt;	Garage	[sound:FlashCards_House_Garage.mp3]	House</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_House_Gate.jpg'&gt;	Gate	[sound:FlashCards_House_Gate.mp3]	House</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T122227Z" creationid="Melo" creationdate="20141031T122227Z">
@@ -9896,6 +9904,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T133707Z" creationid="Melo" creationdate="20141031T133707Z">
         <seg>&lt;img src='FlashCards_Indoor clothes_Blouse.jpg'&gt;	blusa	[sound:FlashCards_Indoor clothes_Blouse.mp3]	Indoor clothes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Dress.jpg'&gt;	Dress	[sound:FlashCards_Indoor clothes_Dress.mp3]	Indoor clothes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T155056Z" creationid="Melo" creationdate="20141031T155056Z">
+        <seg>&lt;img src='FlashCards_Indoor clothes_Dress.jpg'&gt;	vestimento	[sound:FlashCards_Indoor clothes_Dress.mp3]	Indoor clothes</seg>
       </tuv>
     </tu>
     <tu>
