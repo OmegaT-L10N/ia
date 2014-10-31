@@ -8692,6 +8692,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Firewood.jpg'&gt;	Firewood	[sound:FlashCards_Fire_Firewood.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T143732Z" creationid="Melo" creationdate="20141031T143732Z">
+        <seg>&lt;img src='FlashCards_Fire_Firewood.jpg'&gt;	ligno	[sound:FlashCards_Fire_Firewood.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Fire_Flame.jpg'&gt;	Flame	[sound:FlashCards_Fire_Flame.mp3]	Fire</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120145Z" creationid="Melo" creationdate="20141031T120145Z">
@@ -8704,6 +8712,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120155Z" creationid="Melo" creationdate="20141031T120155Z">
         <seg>&lt;img src='FlashCards_Fire_Pipe.jpg'&gt;	pipa	[sound:FlashCards_Fire_Pipe.mp3]	Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fire_Poker.jpg'&gt;	Poker	[sound:FlashCards_Fire_Poker.mp3]	Fire</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T143740Z" creationid="Melo" creationdate="20141031T143740Z">
+        <seg>&lt;img src='FlashCards_Fire_Poker.jpg'&gt;	Poker	[sound:FlashCards_Fire_Poker.mp3]	Fire</seg>
       </tuv>
     </tu>
     <tu>
@@ -8760,6 +8776,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T120426Z" creationid="Melo" creationdate="20141031T120426Z">
         <seg>&lt;img src='FlashCards_Fishing tackle_hook.jpg'&gt;	croc	[sound:FlashCards_Fishing tackle_hook.mp3]	Fishing tackle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fishing tackle_reel.jpg'&gt;	reel	[sound:FlashCards_Fishing tackle_reel.mp3]	Fishing tackle</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T143812Z" creationid="Melo" creationdate="20141031T143812Z">
+        <seg>&lt;img src='FlashCards_Fishing tackle_reel.jpg'&gt;	bobina	[sound:FlashCards_Fishing tackle_reel.mp3]	Fishing tackle</seg>
       </tuv>
     </tu>
     <tu>
