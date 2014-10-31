@@ -8884,6 +8884,118 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Hazelnut.jpg'&gt;	Hazelnut	[sound:FlashCards_Fruits_Hazelnut.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121334Z" creationid="Melo" creationdate="20141031T121334Z">
+        <seg>&lt;img src='FlashCards_Fruits_Hazelnut.jpg'&gt;	avellana	[sound:FlashCards_Fruits_Hazelnut.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Lemon.jpg'&gt;	Lemon	[sound:FlashCards_Fruits_Lemon.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121342Z" creationid="Melo" creationdate="20141031T121342Z">
+        <seg>&lt;img src='FlashCards_Fruits_Lemon.jpg'&gt;	limon	[sound:FlashCards_Fruits_Lemon.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Peach.jpg'&gt;	Peach	[sound:FlashCards_Fruits_Peach.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121401Z" creationid="Melo" creationdate="20141031T121401Z">
+        <seg>&lt;img src='FlashCards_Fruits_Peach.jpg'&gt;	persica	[sound:FlashCards_Fruits_Peach.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Peanut.jpg'&gt;	Peanut	[sound:FlashCards_Fruits_Peanut.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121412Z" creationid="Melo" creationdate="20141031T121412Z">
+        <seg>&lt;img src='FlashCards_Fruits_Peanut.jpg'&gt;	arachide	[sound:FlashCards_Fruits_Peanut.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Pear.jpg'&gt;	Pear	[sound:FlashCards_Fruits_Pear.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121424Z" creationid="Melo" creationdate="20141031T121424Z">
+        <seg>&lt;img src='FlashCards_Fruits_Pear.jpg'&gt;	pira	[sound:FlashCards_Fruits_Pear.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Pineapple.jpg'&gt;	Pineapple	[sound:FlashCards_Fruits_Pineapple.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121433Z" creationid="Melo" creationdate="20141031T121433Z">
+        <seg>&lt;img src='FlashCards_Fruits_Pineapple.jpg'&gt;	ananas	[sound:FlashCards_Fruits_Pineapple.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Plum.jpg'&gt;	Plum	[sound:FlashCards_Fruits_Plum.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121502Z" creationid="Melo" creationdate="20141031T121502Z">
+        <seg>&lt;img src='FlashCards_Fruits_Plum.jpg'&gt;	pruna	[sound:FlashCards_Fruits_Plum.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Raisin.jpg'&gt;	Raisin	[sound:FlashCards_Fruits_Raisin.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121509Z" creationid="Melo" creationdate="20141031T121509Z">
+        <seg>&lt;img src='FlashCards_Fruits_Raisin.jpg'&gt;	uva sic	[sound:FlashCards_Fruits_Raisin.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Raspberry.jpg'&gt;	Raspberry	[sound:FlashCards_Fruits_Raspberry.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121521Z" creationid="Melo" creationdate="20141031T121521Z">
+        <seg>&lt;img src='FlashCards_Fruits_Raspberry.jpg'&gt;	frambese	[sound:FlashCards_Fruits_Raspberry.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Strawberry.jpg'&gt;	Strawberry	[sound:FlashCards_Fruits_Strawberry.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121532Z" creationid="Melo" creationdate="20141031T121532Z">
+        <seg>&lt;img src='FlashCards_Fruits_Strawberry.jpg'&gt;	fraga	[sound:FlashCards_Fruits_Strawberry.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Walnut.jpg'&gt;	Walnut	[sound:FlashCards_Fruits_Walnut.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121543Z" creationid="Melo" creationdate="20141031T121543Z">
+        <seg>&lt;img src='FlashCards_Fruits_Walnut.jpg'&gt;	nuce	[sound:FlashCards_Fruits_Walnut.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Watermelon.jpg'&gt;	Watermelon	[sound:FlashCards_Fruits_Watermelon.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121557Z" creationid="Melo" creationdate="20141031T121557Z">
+        <seg>&lt;img src='FlashCards_Fruits_Watermelon.jpg'&gt;	melon de aqua	[sound:FlashCards_Fruits_Watermelon.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Fruits_Wild cherry.jpg'&gt;	Wild cherry	[sound:FlashCards_Fruits_Wild cherry.mp3]	Fruits</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121629Z" creationid="Melo" creationdate="20141031T121629Z">
+        <seg>&lt;img src='FlashCards_Fruits_Wild cherry.jpg'&gt;	ceresia salvage	[sound:FlashCards_Fruits_Wild cherry.mp3]	Fruits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Furniture_Bed.jpg'&gt;	Bed	[sound:FlashCards_Furniture_Bed.mp3]	Furniture</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T121642Z" creationid="Melo" creationdate="20141031T121642Z">
+        <seg>&lt;img src='FlashCards_Furniture_Bed.jpg'&gt;	lecto	[sound:FlashCards_Furniture_Bed.mp3]	Furniture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
