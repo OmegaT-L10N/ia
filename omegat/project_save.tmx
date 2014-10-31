@@ -8244,6 +8244,78 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Drinks_Cream.jpg'&gt;	Cream	[sound:FlashCards_Drinks_Cream.mp3]	Drinks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115049Z" creationid="Melo" creationdate="20141031T115049Z">
+        <seg>&lt;img src='FlashCards_Drinks_Cream.jpg'&gt;	crema	[sound:FlashCards_Drinks_Cream.mp3]	Drinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Drinks_Juice.jpg'&gt;	Juice	[sound:FlashCards_Drinks_Juice.mp3]	Drinks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115111Z" creationid="Melo" creationdate="20141031T115111Z">
+        <seg>&lt;img src='FlashCards_Drinks_Juice.jpg'&gt;	succo	[sound:FlashCards_Drinks_Juice.mp3]	Drinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Drinks_Tea.jpg'&gt;	Tea	[sound:FlashCards_Drinks_Tea.mp3]	Drinks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115131Z" creationid="Melo" creationdate="20141031T115131Z">
+        <seg>&lt;img src='FlashCards_Drinks_Tea.jpg'&gt;	the	[sound:FlashCards_Drinks_Tea.mp3]	Drinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Drinks_Water.jpg'&gt;	Water	[sound:FlashCards_Drinks_Water.mp3]	Drinks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115147Z" creationid="Melo" creationdate="20141031T115147Z">
+        <seg>&lt;img src='FlashCards_Drinks_Water.jpg'&gt;	aqua	[sound:FlashCards_Drinks_Water.mp3]	Drinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Camera.jpg'&gt;	Camera	[sound:FlashCards_Electronics_Camera.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115206Z" creationid="Melo" creationdate="20141031T115206Z">
+        <seg>&lt;img src='FlashCards_Electronics_Camera.jpg'&gt;	apparato	[sound:FlashCards_Electronics_Camera.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Clock.jpg'&gt;	Clock	[sound:FlashCards_Electronics_Clock.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115219Z" creationid="Melo" creationdate="20141031T115219Z">
+        <seg>&lt;img src='FlashCards_Electronics_Clock.jpg'&gt;	horologio	[sound:FlashCards_Electronics_Clock.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_DVD player.jpg'&gt;	DVD player	[sound:FlashCards_Electronics_DVD player.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115253Z" creationid="Melo" creationdate="20141031T115253Z">
+        <seg>&lt;img src='FlashCards_Electronics_DVD player.jpg'&gt;	lector de DVD	[sound:FlashCards_Electronics_DVD player.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Lamp.jpg'&gt;	Lamp	[sound:FlashCards_Electronics_Lamp.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115308Z" creationid="Melo" creationdate="20141031T115308Z">
+        <seg>&lt;img src='FlashCards_Electronics_Lamp.jpg'&gt;	lampa	[sound:FlashCards_Electronics_Lamp.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Electronics_Microwave oven.jpg'&gt;	Microwave oven	[sound:FlashCards_Electronics_Microwave oven.mp3]	Electronics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T115344Z" creationid="Melo" creationdate="20141031T115344Z">
+        <seg>&lt;img src='FlashCards_Electronics_Microwave oven.jpg'&gt;	furno a microundas	[sound:FlashCards_Electronics_Microwave oven.mp3]	Electronics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
