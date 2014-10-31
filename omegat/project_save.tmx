@@ -7548,6 +7548,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Casino_Ace.jpg'&gt;	Ace	[sound:FlashCards_Casino_Ace.mp3]	Casino</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T102027Z" creationid="Melo" creationdate="20141031T102027Z">
+        <seg>&lt;img src='FlashCards_Casino_Ace.jpg'&gt;	asse	[sound:FlashCards_Casino_Ace.mp3]	Casino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Casino_Cards.jpg'&gt;	Cards	[sound:FlashCards_Casino_Cards.mp3]	Casino</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141031T102049Z" creationid="Melo" creationdate="20141031T102049Z">
+        <seg>&lt;img src='FlashCards_Casino_Cards.jpg'&gt;	cartas	[sound:FlashCards_Casino_Cards.mp3]	Casino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
