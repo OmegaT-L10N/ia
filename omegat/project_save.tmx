@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10312,6 +10312,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141031T155232Z" creationid="Melo" creationdate="20141031T155232Z">
         <seg>&lt;img src='FlashCards_Kitchen_Dustpan.jpg'&gt;	Dustpan	[sound:FlashCards_Kitchen_Dustpan.mp3]	Kitchen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;img src='FlashCards_Kitchen_Frying pan.jpg'&gt;	Frying pan	[sound:FlashCards_Kitchen_Frying pan.mp3]	Kitchen</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141101T232040Z" creationid="Melo46" creationdate="20141101T232040Z">
+        <seg>&lt;img src='FlashCards_Kitchen_Frying pan.jpg'&gt;	Frying pan	[sound:FlashCards_Kitchen_Frying pan.mp3]	Kitchen</seg>
       </tuv>
     </tu>
     <tu>
@@ -51388,6 +51396,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This page translated into other languages:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141101T232220Z" creationid="Melo46" creationdate="20141101T232220Z">
+        <seg>Iste pagina rendite in altere linguas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T074758Z">
@@ -53336,6 +53352,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130513T122141Z">
         <seg>Traduction: notas general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translations</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141101T232127Z" creationid="Melo46" creationdate="20141101T232127Z">
+        <seg>Traductiones</seg>
       </tuv>
     </tu>
     <tu>
