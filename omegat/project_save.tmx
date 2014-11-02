@@ -2974,8 +2974,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- even practicing guitar chords!</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141102T064545Z" creationid="Melo46" creationdate="20141102T064545Z">
-        <seg>- quidem practicar chordas de guitarra!</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141102T093038Z" creationid="Melo46" creationdate="20141102T064545Z">
+        <seg>- quidem practicar accordos de guitarra!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49764,6 +49764,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T063345Z">
         <seg>Il ha duo possibilitates pro exequer un server SVN: tu pote install SVN sur tu proprie server o tu pote usar un servicio hospite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two simple concepts behind Anki: 'active recall testing' and 'spaced</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141102T093029Z" creationid="Melo46" creationdate="20141102T093029Z">
+        <seg>There are two simple concepts behind Anki: 'active recall testing' and 'spaced</seg>
       </tuv>
     </tu>
     <tu>
