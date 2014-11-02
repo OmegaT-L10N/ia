@@ -43107,6 +43107,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since it is content-agnostic and supports images, audio, videos and scientific</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141102T061711Z" creationid="Melo46" creationdate="20141102T061646Z">
+        <seg>Depois que illo es agnostic al contento e supporta imagines, audio, videos e notation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T200430Z">
@@ -66289,6 +66297,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140850Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>markup (via LaTeX), the possibilities are endless.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141102T061654Z" creationid="Melo46" creationdate="20141102T061654Z">
+        <seg>markup (via LaTeX), the possibilities are endless.</seg>
       </tuv>
     </tu>
     <tu>
