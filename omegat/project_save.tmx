@@ -49770,8 +49770,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>There are two simple concepts behind Anki: 'active recall testing' and 'spaced</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141102T093029Z" creationid="Melo46" creationdate="20141102T093029Z">
-        <seg>There are two simple concepts behind Anki: 'active recall testing' and 'spaced</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141102T093255Z" creationid="Melo46" creationdate="20141102T093029Z">
+        <seg>Il ha duo simple conceptos detra Anki: 'essayo de reclamo active' e 'repetition</seg>
       </tuv>
     </tu>
     <tu>
@@ -68905,6 +68905,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T223030Z">
         <seg>renomina le file &lt;f0&gt;project_save.tmx&lt;/f0&gt; actual ( per exemplo a &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repetition'.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141102T093334Z" creationid="Melo46" creationdate="20141102T093334Z">
+        <seg>differite':</seg>
       </tuv>
     </tu>
     <tu>
