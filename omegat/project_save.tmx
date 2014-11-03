@@ -2940,6 +2940,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- When we're unable to answer a question, it tells us we need to return to</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141103T063504Z" creationid="Melo46" creationdate="20141103T063504Z">
+        <seg>- Quando nos es incapace a responder a un question, illo indica nos le necessitate a retornar al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- WiX Localization (*.wxl)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T113826Z">
@@ -70954,6 +70962,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T064714Z">
         <seg>le lista de omne files traducibile in le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the material to review or relearn it</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141103T063711Z" creationid="Melo46" creationdate="20141103T063711Z">
+        <seg>material pro revider o reapprender lo</seg>
       </tuv>
     </tu>
     <tu>
