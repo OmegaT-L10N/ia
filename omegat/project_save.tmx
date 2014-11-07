@@ -48,16 +48,16 @@
       <tuv lang="EN">
         <seg>"&lt;img src=""FlashCards_Art_Paints.jpg"" /&gt;"	Paints	[sound:FlashCards_Art_Paints.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T070036Z" creationid="Melo" creationdate="20141030T070036Z">
-        <seg>"&lt;img src=""FlashCards_Art_Paints.jpg"" /&gt;"	rouges	[sound:FlashCards_Art_Paints.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174718Z" creationid="Melo" creationdate="20141030T070036Z">
+        <seg>"&lt;img src=""FlashCards_Art_Paints.jpg"" /&gt;"	rouges	[sound:FlashCards_Art_Paints.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"&lt;img src=""FlashCards_Art_Portrait.jpg"" /&gt;"	Portrait	[sound:FlashCards_Art_Portrait.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T070224Z" creationid="Melo" creationdate="20141030T070224Z">
-        <seg>"&lt;img src=""FlashCards_Art_Portrait.jpg"" /&gt;"	Portrait	[sound:FlashCards_Art_Portrait.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174734Z" creationid="Melo" creationdate="20141030T070224Z">
+        <seg>"&lt;img src=""FlashCards_Art_Portrait.jpg"" /&gt;"	Portrait	[sound:FlashCards_Art_Portrait.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
@@ -6540,56 +6540,56 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_Mane.jpg'&gt;	Mane	[sound:FlashCards_Animal body parts_Mane.mp3]	Animal body parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141029T220237Z" creationid="Melo" creationdate="20141029T220237Z">
-        <seg>&lt;img src='FlashCards_Animal body parts_Mane.jpg'&gt;	criniera	[sound:FlashCards_Animal body parts_Mane.mp3]	Animal body parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174449Z" creationid="Melo" creationdate="20141029T220237Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Mane.jpg'&gt;	criniera	[sound:FlashCards_Animal body parts_Mane.mp3]	Partes del corpore del animales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_Paw.jpg'&gt;	Paw	[sound:FlashCards_Animal body parts_Paw.mp3]	Animal body parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141029T220353Z" creationid="Melo" creationdate="20141029T220353Z">
-        <seg>&lt;img src='FlashCards_Animal body parts_Paw.jpg'&gt;	pata	[sound:FlashCards_Animal body parts_Paw.mp3]	Animal body parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174502Z" creationid="Melo" creationdate="20141029T220353Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Paw.jpg'&gt;	pata	[sound:FlashCards_Animal body parts_Paw.mp3]	Partes del corpore del animales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_Scale.jpg'&gt;	Scale	[sound:FlashCards_Animal body parts_Scale.mp3]	Animal body parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141029T220408Z" creationid="Melo" creationdate="20141029T220408Z">
-        <seg>&lt;img src='FlashCards_Animal body parts_Scale.jpg'&gt;	squama	[sound:FlashCards_Animal body parts_Scale.mp3]	Animal body parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174514Z" creationid="Melo" creationdate="20141029T220408Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Scale.jpg'&gt;	squama	[sound:FlashCards_Animal body parts_Scale.mp3]	Partes del corpore del animales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_Tail.jpg'&gt;	Tail	[sound:FlashCards_Animal body parts_Tail.mp3]	Animal body parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141029T220415Z" creationid="Melo" creationdate="20141029T220415Z">
-        <seg>&lt;img src='FlashCards_Animal body parts_Tail.jpg'&gt;	cauda	[sound:FlashCards_Animal body parts_Tail.mp3]	Animal body parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174527Z" creationid="Melo" creationdate="20141029T220415Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tail.jpg'&gt;	cauda	[sound:FlashCards_Animal body parts_Tail.mp3]	Partes del corpore del animales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_Tentacle.jpg'&gt;	Tentacle	[sound:FlashCards_Animal body parts_Tentacle.mp3]	Animal body parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141029T220422Z" creationid="Melo" creationdate="20141029T220422Z">
-        <seg>&lt;img src='FlashCards_Animal body parts_Tentacle.jpg'&gt;	tentaculo	[sound:FlashCards_Animal body parts_Tentacle.mp3]	Animal body parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174546Z" creationid="Melo" creationdate="20141029T220422Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tentacle.jpg'&gt;	tentaculo	[sound:FlashCards_Animal body parts_Tentacle.mp3]	Partes del corpore del animales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_Tusk.jpg'&gt;	Tusk	[sound:FlashCards_Animal body parts_Tusk.mp3]	Animal body parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141029T220559Z" creationid="Melo" creationdate="20141029T220559Z">
-        <seg>&lt;img src='FlashCards_Animal body parts_Tusk.jpg'&gt;	defensa	[sound:FlashCards_Animal body parts_Tusk.mp3]	Animal body parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174555Z" creationid="Melo" creationdate="20141029T220559Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Tusk.jpg'&gt;	defensa	[sound:FlashCards_Animal body parts_Tusk.mp3]	Partes del corpore del animales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Animal body parts_Wing.jpg'&gt;	Wing	[sound:FlashCards_Animal body parts_Wing.mp3]	Animal body parts</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T065909Z" creationid="Melo" creationdate="20141030T065909Z">
-        <seg>&lt;img src='FlashCards_Animal body parts_Wing.jpg'&gt;	ala	[sound:FlashCards_Animal body parts_Wing.mp3]	Animal body parts</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174608Z" creationid="Melo" creationdate="20141030T065909Z">
+        <seg>&lt;img src='FlashCards_Animal body parts_Wing.jpg'&gt;	ala	[sound:FlashCards_Animal body parts_Wing.mp3]	Partes del corpore del animales</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,48 +6604,48 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Art_Brush.jpg'&gt;	Brush	[sound:FlashCards_Art_Brush.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T065929Z" creationid="Melo" creationdate="20141030T065929Z">
-        <seg>&lt;img src='FlashCards_Art_Brush.jpg'&gt;	pincel	[sound:FlashCards_Art_Brush.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174644Z" creationid="Melo" creationdate="20141030T065929Z">
+        <seg>&lt;img src='FlashCards_Art_Brush.jpg'&gt;	pincel	[sound:FlashCards_Art_Brush.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Art_Frame.jpg'&gt;	Frame	[sound:FlashCards_Art_Frame.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T065948Z" creationid="Melo" creationdate="20141030T065948Z">
-        <seg>&lt;img src='FlashCards_Art_Frame.jpg'&gt;	ossatura	[sound:FlashCards_Art_Frame.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174651Z" creationid="Melo" creationdate="20141030T065948Z">
+        <seg>&lt;img src='FlashCards_Art_Frame.jpg'&gt;	ossatura	[sound:FlashCards_Art_Frame.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Art_Landscape.jpg'&gt;	Landscape	[sound:FlashCards_Art_Landscape.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T065955Z" creationid="Melo" creationdate="20141030T065955Z">
-        <seg>&lt;img src='FlashCards_Art_Landscape.jpg'&gt;	paisage	[sound:FlashCards_Art_Landscape.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174704Z" creationid="Melo" creationdate="20141030T065955Z">
+        <seg>&lt;img src='FlashCards_Art_Landscape.jpg'&gt;	paisage	[sound:FlashCards_Art_Landscape.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Art_Mosaic.jpg'&gt;	Mosaic	[sound:FlashCards_Art_Mosaic.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T070002Z" creationid="Melo" creationdate="20141030T070002Z">
-        <seg>&lt;img src='FlashCards_Art_Mosaic.jpg'&gt;	mosaico	[sound:FlashCards_Art_Mosaic.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174710Z" creationid="Melo" creationdate="20141030T070002Z">
+        <seg>&lt;img src='FlashCards_Art_Mosaic.jpg'&gt;	mosaico	[sound:FlashCards_Art_Mosaic.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Art_Palette.jpg'&gt;	Palette	[sound:FlashCards_Art_Palette.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T070138Z" creationid="Melo" creationdate="20141030T070138Z">
-        <seg>&lt;img src='FlashCards_Art_Palette.jpg'&gt;	Paletta	[sound:FlashCards_Art_Palette.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174725Z" creationid="Melo" creationdate="20141030T070138Z">
+        <seg>&lt;img src='FlashCards_Art_Palette.jpg'&gt;	Paletta	[sound:FlashCards_Art_Palette.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Art_Picture.jpg'&gt;	Picture	[sound:FlashCards_Art_Picture.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T070152Z" creationid="Melo" creationdate="20141030T070152Z">
-        <seg>&lt;img src='FlashCards_Art_Picture.jpg'&gt;	pictura	[sound:FlashCards_Art_Picture.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174728Z" creationid="Melo" creationdate="20141030T070152Z">
+        <seg>&lt;img src='FlashCards_Art_Picture.jpg'&gt;	pictura	[sound:FlashCards_Art_Picture.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
@@ -6660,8 +6660,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;img src='FlashCards_Art_Sketch.jpg'&gt;	Sketch	[sound:FlashCards_Art_Sketch.mp3]	Art</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141030T070245Z" creationid="Melo" creationdate="20141030T070245Z">
-        <seg>&lt;img src='FlashCards_Art_Sketch.jpg'&gt;	schizzo	[sound:FlashCards_Art_Sketch.mp3]	Art</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141107T174743Z" creationid="Melo" creationdate="20141030T070245Z">
+        <seg>&lt;img src='FlashCards_Art_Sketch.jpg'&gt;	schizzo	[sound:FlashCards_Art_Sketch.mp3]	Arte</seg>
       </tuv>
     </tu>
     <tu>
