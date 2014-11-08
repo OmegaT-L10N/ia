@@ -28913,6 +28913,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In SuperMemo's spaced repetition system, every time you answer a question, you</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T113929Z" creationid="Melo46" creationdate="20141108T113929Z">
+        <seg>In le systema de Iterationes Spatiate de SuperMemo, cata vice tu responde a un question, tu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T071355Z">
@@ -72143,6 +72151,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>to review material and optimizes itself based on the performance of</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T113749Z" creationid="Melo46" creationdate="20141108T113749Z">
+        <seg>pro revider le material e se optimisa in base al performance del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155621Z" creationid="MELO46" creationdate="20131226T155621Z">
@@ -76951,6 +76967,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T103423Z" creationid="Melo" creationdate="20141026T103423Z">
         <seg>Habilita le Avisos (&amp;TransTips)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">to review material and optimizes itself based on the performance of</prop>
+      <prop type="next">In SuperMemo's spaced repetition system, every time you answer a question, you</prop>
+      <tuv lang="EN">
+        <seg>the user.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T113809Z" creationid="Melo46" creationdate="20141108T113809Z">
+        <seg>usator.</seg>
       </tuv>
     </tu>
   </body>
