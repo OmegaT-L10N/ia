@@ -49464,6 +49464,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text below assumes that "Basic" is selected.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T154950Z" creationid="Melo46" creationdate="20141108T154939Z">
+        <seg>Le texto sequente assume que es seligite "Basic".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130703T065853Z">
@@ -49532,6 +49540,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T183834Z" creationid="MELO46" creationdate="20140227T183714Z">
         <seg>Le nomines del tokenizer es date in le file Readme.txt distribuite con le files tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The top left of the window shows us the current note type.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T154835Z" creationid="Melo46" creationdate="20141108T154835Z">
+        <seg>Le summitate sinistre del fenestra monstra nos le typo de nota.</seg>
       </tuv>
     </tu>
     <tu>
