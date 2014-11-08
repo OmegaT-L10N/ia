@@ -43299,6 +43299,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since a memory gets stronger each time you successfully recall</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T114931Z" creationid="Melo46" creationdate="20141108T114909Z">
+        <seg>Pois que un memoria deveni plus forte cata vice tu revoca lo con bon successo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T203614Z">
@@ -65785,6 +65793,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144554Z">
         <seg>it, and giving a relevant date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it, the time between reviews gets bigger and bigger - so you may see a</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T114939Z" creationid="Melo46" creationdate="20141108T114939Z">
+        <seg>le time between reviews gets bigger and bigger - so you may see a</seg>
       </tuv>
     </tu>
     <tu>
