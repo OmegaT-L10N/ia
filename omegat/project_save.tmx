@@ -51934,8 +51934,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This was a great improvement over a single box of cards, and</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141107T232406Z" creationid="Melo46" creationdate="20141107T232406Z">
-        <seg>Isto esseva un grande melioration trans un singule buxo de cartas, e</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T112309Z" creationid="Melo46" creationdate="20141107T232406Z">
+        <seg>Isto era un grande melioration supra un singule cassa de cartas, e</seg>
       </tuv>
     </tu>
     <tu>
@@ -63772,6 +63772,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glance a rough estimate of how well a card was known and when it should be</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T112101Z" creationid="Melo46" creationdate="20141108T112101Z">
+        <seg>reguardo un rude estimation del quam ben un carta era note e quando illo serea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gle</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135853Z">
@@ -69417,6 +69425,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T042134Z">
         <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>reviewed again.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141108T112136Z" creationid="Melo46" creationdate="20141108T112136Z">
+        <seg>de nove revidite.</seg>
       </tuv>
     </tu>
     <tu>
