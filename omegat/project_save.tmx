@@ -13996,6 +13996,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A: O</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T075327Z" creationid="Melo46" creationdate="20141112T075327Z">
+        <seg>R: O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T180636Z">
@@ -14550,8 +14558,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After thinking about it, and deciding the answer is O, you click the show</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141112T075059Z" creationid="Melo46" creationdate="20141112T075059Z">
-        <seg>Postquam tu ha pensate re illo, e que tu ha decidite que le replica es 'O', tu clicca le  show</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T075128Z" creationid="Melo46" creationdate="20141112T075059Z">
+        <seg>Postquam tu ha pensate re illo, e que tu ha decidite que le replica es 'O', tu clicca le button </seg>
       </tuv>
     </tu>
     <tu>
@@ -60447,6 +60455,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T091349Z" creationid="MELO46" creationdate="20140228T091349Z">
         <seg>announcement including an appropriate copyright notice and a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>answer button, and Anki shows you:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T075256Z" creationid="Melo46" creationdate="20141112T075107Z">
+        <seg>de 'Monstra le replica', e Anki te monstrara:</seg>
       </tuv>
     </tu>
     <tu>
