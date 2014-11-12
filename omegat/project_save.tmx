@@ -13420,6 +13420,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A 'deck' is a group of cards.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T080049Z" creationid="Melo46" creationdate="20141112T080049Z">
+        <seg>Un 'fasce' es un gruppo de cartas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T110548Z">
@@ -51520,6 +51528,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T141846Z">
         <seg>Iste information es computate pro le segmentos, pro le parolas e pro le characteres (sin e con spatios includite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T080143Z" creationid="Melo46" creationdate="20141112T080143Z">
+        <seg>Isto es </seg>
       </tuv>
     </tu>
     <tu>
