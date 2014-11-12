@@ -24475,6 +24475,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you're studying basic</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T074409Z" creationid="Melo46" creationdate="20141112T074329Z">
+        <seg>Per exemplo, si tu studia chimia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T222233Z" creationid="MELO46" creationdate="20140106T222233Z">
@@ -61470,8 +61478,8 @@ a</seg>
       <tuv lang="EN">
         <seg>card doesn't actually look like a physical card, and when you show the answer</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141112T074117Z" creationid="Melo46" creationdate="20141112T074117Z">
-        <seg>'carta' non appare in veritate como un carta physic, e quando tu monstra le replica</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T074240Z" creationid="Melo46" creationdate="20141112T074117Z">
+        <seg>'carta' non appare in veritate como un carta physic e quando tu monstra le replica,</seg>
       </tuv>
     </tu>
     <tu>
@@ -61696,6 +61704,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134112Z">
         <seg>che</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>chemistry, you might see a question like:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T074348Z" creationid="Melo46" creationdate="20141112T074348Z">
+        <seg>, you might see a question like:</seg>
       </tuv>
     </tu>
     <tu>
@@ -71946,6 +71962,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T105136Z">
         <seg>le definition del filtros projecto-specific - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the question remains visible by default.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T074215Z" creationid="Melo46" creationdate="20141112T074215Z">
+        <seg>per arrangiamento base le question remane visibile.</seg>
       </tuv>
     </tu>
     <tu>
