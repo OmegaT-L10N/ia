@@ -13308,6 +13308,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>== Card Generation &amp; Deletion ==</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083302Z" creationid="Melo46" creationdate="20141112T083302Z">
+        <seg>== Generation e Deletion del Cartas ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>== Prerequisites ==</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T150141Z" creationid="MELO46" creationdate="20140628T150141Z">
@@ -70077,6 +70085,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>replacements:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083430Z" creationid="Melo46" creationdate="20141112T083430Z">
+        <seg>reimplaciamentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>reproducible sequence of event that triggered something not supposed to</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094726Z">
@@ -77760,6 +77776,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T054823Z" creationid="Melo46" creationdate="20141112T054823Z">
         <seg>E dum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">[[cloze]]</prop>
+      <prop type="next">---------------</prop>
+      <tuv lang="EN">
+        <seg>Cloze Deletion</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083211Z" creationid="Melo46" creationdate="20141112T083211Z">
+        <seg>Deletion Cloze</seg>
       </tuv>
     </tu>
     <tu>
