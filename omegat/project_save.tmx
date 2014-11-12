@@ -23619,6 +23619,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Features</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083103Z" creationid="Melo46" creationdate="20141112T083103Z">
+        <seg>Characteristicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140121T222338Z">
@@ -34289,6 +34297,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T210208Z">
         <seg>On pote assignar nove vias breve al major parte del commandos que appare in le menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of them</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T082949Z" creationid="Melo46" creationdate="20141112T082949Z">
+        <seg>Le major parte de illos</seg>
       </tuv>
     </tu>
     <tu>
@@ -60739,6 +60755,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>are discoverable in the interface: menu items list their shortcuts next to</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083014Z" creationid="Melo46" creationdate="20141112T083014Z">
+        <seg>es discoverable in the interface: menu items list their shortcuts next to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>are using paper flashcards, it's easy to flick through all of them if you only</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141107T230101Z" creationid="Melo46" creationdate="20141107T230101Z">
@@ -77718,6 +77742,17 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">[[studyshortcuts]]</prop>
+      <prop type="next">Many of the common operations in Anki have keyboard shortcuts.</prop>
+      <tuv lang="EN">
+        <seg>== Keyboard Shortcuts  ==</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T082917Z" creationid="Melo46" creationdate="20141112T082917Z">
+        <seg>== Vias breve del Claviero ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
       <prop type="prev">software, meaning end-users can't extend it or access the raw data.</prop>
       <prop type="next">very old versions are made available for free, they are quite limited for</prop>
       <tuv lang="EN">
@@ -77725,6 +77760,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T054823Z" creationid="Melo46" creationdate="20141112T054823Z">
         <seg>E dum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">[[editor]]</prop>
+      <prop type="next">=======</prop>
+      <tuv lang="EN">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083047Z" creationid="Melo46" creationdate="20141112T083047Z">
+        <seg>Modificar</seg>
       </tuv>
     </tu>
     <tu>
