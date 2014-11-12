@@ -15368,6 +15368,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And it's considerably easier to use</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T060433Z" creationid="Melo46" creationdate="20141112T060433Z">
+        <seg>e  il es assatis plus facile a usar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And it's… What they are doing I said very clearly</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140518T092133Z" creationid="MELO46" creationdate="20140419T074049Z">
@@ -31156,6 +31164,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's multi-platform, running on Windows, Mac OSX,</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T060307Z" creationid="Melo46" creationdate="20141112T060307Z">
+        <seg>Il es plure-platteforma, executabile sur Windows, Mac OSX,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's open source, with an already flourishing library of add-ons</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T055846Z" creationid="Melo46" creationdate="20141112T055846Z">
@@ -32577,6 +32593,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T081431Z">
         <seg>Usatores de Linux: ambe MS Office 2007 e le plugin de compatibilitate Microsoft opera sur &lt;a0&gt;Linux Crossover.&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux/FreeBSD, and some mobile devices.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T060344Z" creationid="Melo46" creationdate="20141112T060344Z">
+        <seg>Linux/FreeBSD, e alicun  mobile devices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77339,6 +77363,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141108T114248Z" creationid="Melo46" creationdate="20141108T114248Z">
         <seg>et cetera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">And it's considerably easier to use</prop>
+      <prop type="next">Internally, Anki's spaced repetition system is based on an older version of</prop>
+      <tuv lang="EN">
+        <seg>than SuperMemo.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T060505Z" creationid="Melo46" creationdate="20141112T060505Z">
+        <seg>quam SuperMemo.</seg>
       </tuv>
     </tu>
     <tu>
