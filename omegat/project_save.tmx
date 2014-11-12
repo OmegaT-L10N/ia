@@ -21283,6 +21283,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display Order</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T082829Z" creationid="Melo46" creationdate="20141112T082829Z">
+        <seg>Ordine del Monstra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Source Segments</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T121140Z">
@@ -22359,6 +22367,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095324Z">
         <seg>Editar le optiones de comportamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing and More</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T082657Z" creationid="Melo46" creationdate="20141112T082657Z">
+        <seg>Modificar e Magis</seg>
       </tuv>
     </tu>
     <tu>
@@ -26831,8 +26847,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>If</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131226T155710Z" creationid="MELO46" creationdate="20131226T155710Z">
-        <seg>If</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T082713Z" creationid="MELO46" creationdate="20131226T155710Z">
+        <seg>Si</seg>
       </tuv>
     </tu>
     <tu>
@@ -41223,6 +41239,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T195446Z">
         <seg>Recension re OmegaT, 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviewing</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T082556Z" creationid="Melo46" creationdate="20141112T082556Z">
+        <seg>Revider</seg>
       </tuv>
     </tu>
     <tu>
