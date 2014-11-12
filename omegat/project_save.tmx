@@ -28953,6 +28953,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Anki a</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T073926Z" creationid="Melo46" creationdate="20141112T073926Z">
+        <seg>In Anki un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T084710Z">
@@ -51518,8 +51526,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This is based on a paper</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141112T062352Z" creationid="Melo46" creationdate="20141112T062352Z">
-        <seg>Isto es fundate sur an flashcard</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T073856Z" creationid="Melo46" creationdate="20141112T062352Z">
+        <seg>Isto es fundate sur un flashcard</seg>
       </tuv>
     </tu>
     <tu>
@@ -61456,6 +61464,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T161851Z">
         <seg>Canterbury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>card doesn't actually look like a physical card, and when you show the answer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T074117Z" creationid="Melo46" creationdate="20141112T074117Z">
+        <seg>'carta' non appare in veritate como un carta physic, e quando tu monstra le replica</seg>
       </tuv>
     </tu>
     <tu>
