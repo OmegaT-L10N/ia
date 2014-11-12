@@ -70543,8 +70543,8 @@ a</seg>
       <tuv lang="EN">
         <seg>software, meaning end-users can't extend it or access the raw data.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141110T002304Z" creationid="Melo46" creationdate="20141110T002304Z">
-        <seg>proprietari, meaning end-users can't extend it or access the raw data.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T054750Z" creationid="Melo46" creationdate="20141110T002304Z">
+        <seg>proprietari, intendente que le usator final non pote extender lo o acceder al data crude.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77242,6 +77242,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141108T160014Z" creationid="Melo46" creationdate="20141108T160014Z">
         <seg>"Retro"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">software, meaning end-users can't extend it or access the raw data.</prop>
+      <prop type="next">very old versions are made available for free, they are quite limited for</prop>
+      <tuv lang="EN">
+        <seg>And while</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T054823Z" creationid="Melo46" creationdate="20141112T054823Z">
+        <seg>E dum</seg>
       </tuv>
     </tu>
     <tu>
