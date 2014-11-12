@@ -13308,6 +13308,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>= AnkiWeb and Synchronization =</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083939Z" creationid="Melo46" creationdate="20141112T083939Z">
+        <seg>= AnkiWeb e Synchronisation =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>= Deck Options =</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T083834Z" creationid="Melo46" creationdate="20141112T083834Z">
+        <seg>= Optiones del Fasce =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>== Browser Appearance ==</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T083627Z" creationid="Melo46" creationdate="20141112T083627Z">
@@ -77811,6 +77827,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T083211Z" creationid="Melo46" creationdate="20141112T083211Z">
         <seg>Deletion Cloze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">filesystem.</prop>
+      <prop type="next">----------</prop>
+      <tuv lang="EN">
+        <seg>Conflicts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141112T084009Z" creationid="Melo46" creationdate="20141112T084009Z">
+        <seg>Conflictos</seg>
       </tuv>
     </tu>
     <tu>
