@@ -15648,6 +15648,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anki starts with a deck called "default"; any cards which have somehow become</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T223013Z" creationid="Melo46" creationdate="20141113T223013Z">
+        <seg>Anki initia con un fasce denominate "default"; omne cartas que have aliqua deveni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anki uses "::" to show different levels.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141113T221408Z" creationid="Melo46" creationdate="20141113T221408Z">
@@ -68577,6 +68585,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144504Z">
         <seg>of this license document, but changing it is not allowed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>often called 'subdecks', and top-level decks are sometimes called 'superdecks'.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T222858Z" creationid="Melo46" creationdate="20141113T222858Z">
+        <seg>saepe denominate 'sub-fasces', e le fasces al apice es alicun vices denominate 'super-fasces'.</seg>
       </tuv>
     </tu>
     <tu>
