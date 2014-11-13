@@ -13620,6 +13620,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A deck called "Chinese::Hanzi" refers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T221434Z" creationid="Melo46" creationdate="20141113T221434Z">
+        <seg>A fasce denominate "Chinese::Hanzi" se refere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T172436Z">
@@ -15636,6 +15644,14 @@ Le file TMX non essera cargate.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T081704Z" creationid="Melo46" creationdate="20141112T081704Z">
         <seg>Anki resolve iste problemas permittente te de finder le contento de tu cartas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anki uses "::" to show different levels.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T221408Z" creationid="Melo46" creationdate="20141113T221408Z">
+        <seg>Anki usa le symbolo "::" pro indicar nivellos distincte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20823,6 +20839,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T080018Z" creationid="Melo46" creationdate="20141112T080018Z">
         <seg>Fasces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decks can contain other decks, which allows you to organize decks into a tree.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T221257Z" creationid="Melo46" creationdate="20141113T221257Z">
+        <seg>Le fasces pote continer altere fasces, assi tu pote organisar le fasces in un structura a arbore.</seg>
       </tuv>
     </tu>
     <tu>
