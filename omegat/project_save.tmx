@@ -20859,6 +20859,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Decks that have been nested</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T222441Z" creationid="Melo46" creationdate="20141113T222441Z">
+        <seg>Le fasces que ha essite annidate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095314Z">
@@ -53364,6 +53372,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To place decks into a tree, you can either name them with "::" between each</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T222236Z" creationid="Melo46" creationdate="20141113T222236Z">
+        <seg>Pro poner le cartas in un arbore, tu pote denominar los con le symbolo  "::" inter cata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To prevent this, the GPL assures that</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155652Z" creationid="MELO46" creationdate="20131226T155652Z">
@@ -67121,6 +67137,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T064044Z">
         <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>level, or drag and drop them from the deck list.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141113T222410Z" creationid="Melo46" creationdate="20141113T222410Z">
+        <seg>grado, o traher e lassar cader los ex le lista del fasces.</seg>
       </tuv>
     </tu>
     <tu>
