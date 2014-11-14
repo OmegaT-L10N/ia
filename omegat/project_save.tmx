@@ -24827,6 +24827,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For information on how decks affect the order cards are displayed in, please</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214338Z" creationid="Melo46" creationdate="20141114T214338Z">
+        <seg>Pro informationes re quomodo le fasces affice le ordine pro monstrar le fasces, per favor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130807T161459Z">
