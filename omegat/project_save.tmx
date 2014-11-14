@@ -15124,6 +15124,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you may rename</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T212304Z" creationid="Melo46" creationdate="20141114T212304Z">
+        <seg>Alternativemente, tu pote renominar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T200728Z">
@@ -62344,6 +62352,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220952Z">
         <seg>continente le script OmegaT.jar e linux-install.sh, e exeque le</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains no cards and you have added other decks.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T212218Z" creationid="Melo46" creationdate="20141114T212218Z">
+        <seg>non contine cartas e tu ha addite altere fasces.</seg>
       </tuv>
     </tu>
     <tu>
