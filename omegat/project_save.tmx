@@ -18716,6 +18716,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click 'Add' in the main window, and the Add</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214538Z" creationid="Melo46" creationdate="20141114T214522Z">
+        <seg>Clicca 'Add' in le fenestra principal, e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T061341Z">
@@ -35759,8 +35767,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Notes window will appear.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141108T125606Z" creationid="Melo46" creationdate="20141108T125606Z">
-        <seg>Apparera le fenestra Notas.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214601Z" creationid="Melo46" creationdate="20141108T125606Z">
+        <seg>apparera le fenestra Notas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57776,6 +57784,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214629Z" creationid="Melo46" creationdate="20141114T214629Z">
+        <seg>Tu pote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130407T221711Z">
@@ -78058,6 +78074,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141108T160014Z" creationid="Melo46" creationdate="20141108T160014Z">
         <seg>"Retro"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">history button to search for a recently added card in the browser.</prop>
+      <prop type="next">is a separate window that allows you to look at, search for, and modify cards</prop>
+      <tuv lang="EN">
+        <seg>(The browser</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214701Z" creationid="Melo46" creationdate="20141114T214701Z">
+        <seg>(Le navigator</seg>
       </tuv>
     </tu>
     <tu>
