@@ -1704,6 +1704,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'flashcards'.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215211Z" creationid="Melo46" creationdate="20141114T215211Z">
+        <seg>'flashcards'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T091753Z">
@@ -2396,6 +2404,22 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* http://192.167.9.6/Anki_ITA/Manual_ITA.htm[Italiano]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215153Z" creationid="Melo46" creationdate="20141114T215153Z">
+        <seg>* http://192.167.9.6/Anki_ITA/Manual_ITA.htm[Italiano]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://ankisrs.net/docs/manual.fr.html[Français]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215148Z" creationid="Melo46" creationdate="20141114T215148Z">
+        <seg>* http://ankisrs.net/docs/manual.fr.html[Français]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.7z</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T153326Z" creationid="MELO46" creationdate="20140628T153326Z">
@@ -2408,6 +2432,54 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T153334Z" creationid="MELO46" creationdate="20140628T153334Z">
         <seg>* http://tinodidriksen.com/uploads/Apertium-VirtualBox-20140418.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://wikiwiki.jp/rage2050/?FrontPage[日本語]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215155Z" creationid="Melo46" creationdate="20141114T215155Z">
+        <seg>* http://wikiwiki.jp/rage2050/?FrontPage[日本語]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://www.ankichina.net/anki20.html[简体中文]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215157Z" creationid="Melo46" creationdate="20141114T215157Z">
+        <seg>* http://www.ankichina.net/anki20.html[简体中文]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://www.dennisproksch.de/anki[German]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215150Z" creationid="Melo46" creationdate="20141114T215150Z">
+        <seg>* http://www.dennisproksch.de/anki[German]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://www.youtube.com/watch?v=5tYObQ3ocrw[Typing in the Answer]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215143Z" creationid="Melo46" creationdate="20141114T215143Z">
+        <seg>* http://www.youtube.com/watch?v=5tYObQ3ocrw[Typing in the Answer]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://www.youtube.com/watch?v=DnbKwHEQ1mA[Switching Card Order]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215135Z" creationid="Melo46" creationdate="20141114T215135Z">
+        <seg>* http://www.youtube.com/watch?v=DnbKwHEQ1mA[Switching Card Order]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* http://www.youtube.com/watch?v=F1j1Zx0mXME[Styling Cards]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215137Z" creationid="Melo46" creationdate="20141114T215137Z">
+        <seg>* http://www.youtube.com/watch?v=F1j1Zx0mXME[Styling Cards]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3184,6 +3256,46 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T143722Z" creationid="MELO46" creationdate="20140615T143722Z">
         <seg>---- Notas de Localisation ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-----</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215349Z" creationid="Melo46" creationdate="20141114T215349Z">
+        <seg>-----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---------</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215327Z" creationid="Melo46" creationdate="20141114T215327Z">
+        <seg>---------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-----------------</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215325Z" creationid="Melo46" creationdate="20141114T215325Z">
+        <seg>-----------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>------------------</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215213Z" creationid="Melo46" creationdate="20141114T215213Z">
+        <seg>------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---------------------</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215208Z" creationid="Melo46" creationdate="20141114T215208Z">
+        <seg>---------------------</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4318,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T124111Z">
         <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>:ankiweb: https://ankiweb.net/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215201Z" creationid="Melo46" creationdate="20141114T215201Z">
+        <seg>:ankiweb: https://ankiweb.net/</seg>
       </tuv>
     </tu>
     <tu>
@@ -13376,6 +13496,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T150141Z" creationid="MELO46" creationdate="20140628T150141Z">
         <seg>== Conditiones ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==========</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215347Z" creationid="Melo46" creationdate="20141114T215347Z">
+        <seg>==========</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>============</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215133Z" creationid="Melo46" creationdate="20141114T215133Z">
+        <seg>============</seg>
       </tuv>
     </tu>
     <tu>
@@ -59149,6 +59285,14 @@ crear su classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[[active-recall]]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215204Z" creationid="Melo46" creationdate="20141114T215204Z">
+        <seg>[[active-recall]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[\.,]\s*[\.,]+</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T093720Z">
@@ -78129,6 +78273,17 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">document.getElementById("navmanual").className += " active";</prop>
+      <prop type="next">++++++++++++++++++++++++++++++</prop>
+      <tuv lang="EN">
+        <seg>&lt;/script&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215129Z" creationid="Melo46" creationdate="20141114T215129Z">
+        <seg>&lt;/script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
       <prop type="prev">&lt;h1&gt;Anki 2.0 User Manual&lt;/h1&gt;</prop>
       <prop type="next">document.getElementById("navmanual").className += " active";</prop>
       <tuv lang="EN">
@@ -78191,6 +78346,39 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T083047Z" creationid="Melo46" creationdate="20141112T083047Z">
         <seg>Modificar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">that material for two weeks, you'll probably have forgotten most of it.</prop>
+      <prop type="next">fact, studies show we forget about 75% of material learnt within a 48 hour</prop>
+      <tuv lang="EN">
+        <seg>In</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215241Z" creationid="Melo46" creationdate="20141114T215241Z">
+        <seg>In</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">differences in scheduling algorithms, see the bottom of the page.</prop>
+      <prop type="next">The Basics</prop>
+      <tuv lang="EN">
+        <seg>[[basics]]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215343Z" creationid="Melo46" creationdate="20141114T215343Z">
+        <seg>[[basics]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">becomes unwieldy.</prop>
+      <prop type="next">Spaced Repetition</prop>
+      <tuv lang="EN">
+        <seg>[[spaced-repetition]]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215315Z" creationid="Melo46" creationdate="20141114T215315Z">
+        <seg>[[spaced-repetition]]</seg>
       </tuv>
     </tu>
     <tu>
