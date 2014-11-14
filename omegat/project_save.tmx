@@ -20877,8 +20877,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Decks are best used to hold broad categories of cards, rather than specific</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20141114T213446Z" creationid="Melo46" creationdate="20141114T213446Z">
-        <seg>On usa melio le fasces fro caricar categorias large de cartas, plus tosto quam specific</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214008Z" creationid="Melo46" creationdate="20141114T213446Z">
+        <seg>On usa melio le fasces pro continer categorias large de cartas, plus tosto quam specific</seg>
       </tuv>
     </tu>
     <tu>
@@ -24887,6 +24887,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130331T205806Z">
         <seg>Pro le usatores plus avantiate, il ha un plugin nominate OmegaT-tokenizers (pro le version 2.1.1 e le subsequente versiones de OmegaT), le qual permitte a OmegaT de recognoscer le formas declinate de un parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more info on this, please see</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214024Z" creationid="Melo46" creationdate="20141114T213920Z">
+        <seg>Pro plus info re isto, per favor vide</seg>
       </tuv>
     </tu>
     <tu>
@@ -72138,6 +72146,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160146Z" creationid="MELO46" creationdate="20131226T160146Z">
         <seg>the "copyright" line and a pointer to where the full notice is found.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the &lt;&lt;manydecks,using decks appropriately&gt;&gt; section.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214109Z" creationid="Melo46" creationdate="20141114T214109Z">
+        <seg>le  section &lt;&lt;manydecks,using decks appropriately&gt;&gt;.</seg>
       </tuv>
     </tu>
     <tu>
