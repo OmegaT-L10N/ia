@@ -3388,6 +3388,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.Best Practices</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215013Z" creationid="Melo46" creationdate="20141114T215013Z">
+        <seg>.Optime Practiches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/** Number of fuzzy matches to display */&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T042353Z">
@@ -4210,10 +4218,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;%def name="title()"&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215021Z" creationid="Melo46" creationdate="20141114T215021Z">
+        <seg>&lt;%def name="title()"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095301Z">
         <seg>&lt;&amp;br&gt; (interruptiones)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/%def&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215026Z" creationid="Melo46" creationdate="20141114T215026Z">
+        <seg>&lt;/%def&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63092,6 +63116,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>document.getElementById("navmanual").className += " active";</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215049Z" creationid="Melo46" creationdate="20141114T215049Z">
+        <seg>document.getElementById("navmanual").className += " active";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>documentation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T120133Z">
@@ -66088,6 +66120,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140502T122219Z" creationid="MELO46" creationdate="20140502T122219Z">
         <seg>in le ala politic de omne pais in le mundo, e io attribue isto al facto que per mi  analyse del psyche german e le cultura german</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in your collection.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T214748Z" creationid="Melo46" creationdate="20141114T214748Z">
+        <seg>in tu collection).</seg>
       </tuv>
     </tu>
     <tu>
@@ -78085,6 +78125,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141114T214701Z" creationid="Melo46" creationdate="20141114T214701Z">
         <seg>(Le navigator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">&lt;h1&gt;Anki 2.0 User Manual&lt;/h1&gt;</prop>
+      <prop type="next">document.getElementById("navmanual").className += " active";</prop>
+      <tuv lang="EN">
+        <seg>&lt;script&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141114T215044Z" creationid="Melo46" creationdate="20141114T215044Z">
+        <seg>&lt;script&gt;</seg>
       </tuv>
     </tu>
     <tu>
