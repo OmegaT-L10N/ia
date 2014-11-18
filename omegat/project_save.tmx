@@ -34677,6 +34677,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most shared decks are created by people who are learning material outside of</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054531Z" creationid="Melo46" creationdate="20141118T054531Z">
+        <seg>Most shared decks are created by people who are learning material outside of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most users will find the default file filter options sufficient.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T061050Z">
@@ -78417,6 +78425,17 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">Do not learn if you do not understand.</prop>
+      <prop type="next">Most shared decks are created by people who are learning material outside of</prop>
+      <tuv lang="EN">
+        <seg>-- SuperMemo</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054438Z" creationid="Melo46" creationdate="20141118T054438Z">
+        <seg>-- SuperMemo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
       <prop type="prev">document.getElementById("navmanual").className += " active";</prop>
       <prop type="next">++++++++++++++++++++++++++++++</prop>
       <tuv lang="EN">
@@ -78512,6 +78531,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141114T215241Z" creationid="Melo46" creationdate="20141114T215241Z">
         <seg>In</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">English: Hello</prop>
+      <prop type="next">-----</prop>
+      <tuv lang="EN">
+        <seg>Page: 12</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054407Z" creationid="Melo46" creationdate="20141118T054407Z">
+        <seg>Pagina: 12</seg>
       </tuv>
     </tu>
     <tu>
