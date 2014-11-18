@@ -14236,6 +14236,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A: Bonjour</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054250Z" creationid="Melo46" creationdate="20141118T054250Z">
+        <seg>A: Bonjour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A: O</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T075327Z" creationid="Melo46" creationdate="20141112T075327Z">
@@ -38898,6 +38906,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page #12</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054227Z" creationid="Melo46" creationdate="20141118T054227Z">
+        <seg>Pagina #12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094943Z">
@@ -40399,6 +40415,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T074543Z" creationid="Melo46" creationdate="20141112T074543Z">
         <seg>Q: Symbolo chimic del oxygeno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q: Hello</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054250Z" creationid="Melo46" creationdate="20141118T054250Z">
+        <seg>Q: Hello</seg>
       </tuv>
     </tu>
     <tu>
@@ -62140,6 +62164,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cards for you, and updating them if you make any edits in the future.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054211Z" creationid="Melo46" creationdate="20141118T054211Z">
+        <seg>cartas pro te, e ajornar los si tu face alicun modifica in le futuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cat</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T133857Z">
@@ -78425,6 +78457,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T054823Z" creationid="Melo46" creationdate="20141112T054823Z">
         <seg>E dum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">manual.txt.UTF8</prop>
+      <prop type="prev">-----</prop>
+      <prop type="next">-----</prop>
+      <tuv lang="EN">
+        <seg>And:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T054248Z" creationid="Melo46" creationdate="20141118T054248Z">
+        <seg>E:</seg>
       </tuv>
     </tu>
     <tu>
