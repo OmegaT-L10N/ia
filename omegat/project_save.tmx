@@ -58578,6 +58578,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then tell Anki which pieces of</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T053530Z" creationid="Melo46" creationdate="20141118T053530Z">
+        <seg>Tum tu pote dicer a Anki qual partes de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130217T000619Z">
@@ -66408,6 +66416,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141116T114111Z" creationid="Melo46" creationdate="20141116T114111Z">
         <seg>duo vices le informationes, un vice for cata carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>information you want on each card, and Anki will take care of creating the</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20141118T053755Z" creationid="Melo46" creationdate="20141118T053755Z">
+        <seg>informationes tu vole sur cata carta, e Anki prendera carga de crear le</seg>
       </tuv>
     </tu>
     <tu>
