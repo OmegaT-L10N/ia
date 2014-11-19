@@ -28313,6 +28313,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If we put them together, they'd look</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T110904Z" creationid="Melo" creationdate="20141119T110904Z">
+        <seg>Si nos pone los insimul, illos appare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt; Go To Next Untranslated Segment&lt;/e0&gt;stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T075923Z">
@@ -29437,6 +29445,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T073926Z" creationid="Melo46" creationdate="20141112T073926Z">
         <seg>In Anki un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Anki, this related information is called a 'note', and each piece of</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T111015Z" creationid="Melo" creationdate="20141119T111015Z">
+        <seg>In Anki, iste information pertinente es denominate un 'nota', e cata pecia del</seg>
       </tuv>
     </tu>
     <tu>
@@ -66480,6 +66496,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T093027Z">
         <seg>infix4.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>information is called a 'field'.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T111048Z" creationid="Melo" creationdate="20141119T111048Z">
+        <seg>information es denominate un 'campo'.</seg>
       </tuv>
     </tu>
     <tu>
