@@ -14244,10 +14244,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A: Hello</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T201336Z" creationid="Melo" creationdate="20141119T201336Z">
+        <seg>R: Hello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A: O</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T075327Z" creationid="Melo46" creationdate="20141112T075327Z">
         <seg>R: O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A: {{English}}&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T201617Z" creationid="Melo" creationdate="20141119T201617Z">
+        <seg>R: {{anglese}}&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30105,6 +30121,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above French example, we wanted the recognition card to look like this:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T201325Z" creationid="Melo" creationdate="20141119T201325Z">
+        <seg>In le exemplo precedente francese, nos desirava le carta de recognition apparer assi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above case, the segments already translated are shown in yellow.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T064815Z">
@@ -38994,6 +39018,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page #{{Page}}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T201635Z" creationid="Melo" creationdate="20141119T201635Z">
+        <seg>Pagina #{{pagina}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094943Z">
@@ -40503,6 +40535,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141118T054250Z" creationid="Melo46" creationdate="20141118T054250Z">
         <seg>Q: Hello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q: {{English}}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T201742Z" creationid="Melo" creationdate="20141119T201742Z">
+        <seg>Q: {{anglese}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q: {{French}}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T201559Z" creationid="Melo" creationdate="20141119T201559Z">
+        <seg>Q: {{francese}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53440,6 +53488,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T173301Z">
         <seg>Pro facer isto, aperi un terminal (alsi note como un consola o fenestra pro linea de commando; programmas commun pro isto es konsole (KDE) e gnome-terminal (GNOME)), e scribe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this, we can set the template question and answer to:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T201553Z" creationid="Melo" creationdate="20141119T201553Z">
+        <seg>Pro facer isto, nos pote poner le question e le replica del modello in:</seg>
       </tuv>
     </tu>
     <tu>
