@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29341,6 +29341,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T075939Z" creationid="MELO46" creationdate="20140615T075939Z">
         <seg>Ignora le attributos type e ctype quando construe vias breve de tag &lt;&amp;bpt&gt; and &lt;ept&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Imagine we want to study French vocabulary, and we want to include the page</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T105834Z" creationid="Melo" creationdate="20141119T105834Z">
+        <seg>Que nos imagina de studer le vocabulario  francese, e que nos desira includer le pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -68825,6 +68833,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T064544Z">
         <seg>numero de segmentos - unic contra total in le Projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number on the back of each cards.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141119T105853Z" creationid="Melo" creationdate="20141119T105853Z">
+        <seg>retro de cata carta  per exemplo.</seg>
       </tuv>
     </tu>
     <tu>
