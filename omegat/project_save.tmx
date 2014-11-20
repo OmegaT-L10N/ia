@@ -15848,6 +15848,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anki allows you to create different types of notes for different material.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141120T145910Z" creationid="Melo" creationdate="20141120T145910Z">
+        <seg>Anki permitte te de crear typos differente de notas pro le differente materiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anki is a program which makes remembering things easy.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141102T060732Z" creationid="Melo46" creationdate="20141102T060514Z">
@@ -35633,6 +35641,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T183809Z">
         <seg>Nota &lt;e0&gt;interesar&lt;/e0&gt; e&lt;e1&gt; navegar&lt;/e1&gt; in espaniol, son rendite correctemente como verbos interest e sail respectivemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note Types</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141120T145748Z" creationid="Melo" creationdate="20141120T145748Z">
+        <seg>Typo de notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -63984,6 +64000,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133913Z">
         <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editing notes.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20141120T145716Z" creationid="Melo" creationdate="20141120T145716Z">
+        <seg>modificar le notas.</seg>
       </tuv>
     </tu>
     <tu>
