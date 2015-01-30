@@ -76628,6 +76628,16 @@ a</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">OmegaT_2.6.3_10_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">BUTTON_FILTER</prop>
+      <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150130T194034Z" creationid="Melo" creationdate="20150130T194034Z">
+        <seg>&amp;Filtra</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">OmegaT_3.0.1_L10N_Full/source/doc_src/en/EditingBehavior.xml</prop>
       <prop type="prev">&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</prop>
       <prop type="next">OmegaT leaves the editing field blank.</prop>
