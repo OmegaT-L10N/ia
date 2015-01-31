@@ -6020,8 +6020,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T093907Z">
-        <seg>&lt;e0&gt;Processo de traduction:&lt;/e0&gt; Figura te de deber traducer alique; a partir de un sol file usque a un plica continente sub-plicas, cata plica con plure files in plure formatos.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150131T070854Z">
+        <seg>&lt;e0&gt;Processo de traduction:&lt;/e0&gt; Figura te de deber traducer alique, a partir de un sol file usque a un plica continente sub-plicas, cata plica con plure files in plure formatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25469,8 +25469,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T093002Z">
-        <seg>Pro tu referentia, OmegaT monstra le traduction de omne le parolas del glossario que sia presente in le segmento e registrata in le glossario.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150131T070747Z">
+        <seg>Pro tu referentia, OmegaT monstra le traduction de omne le parolas del glossario que sia presente in le segmento e registrate in le glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37347,8 +37347,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T065921Z" creationid="MELO" creationdate="20131219T065812Z">
-        <seg>OmegaT registra tu traductiones e propone eventual traductiones ab segmentos simile jam registrate in le files memoria de traduction.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150131T070916Z" creationid="MELO" creationdate="20131219T065812Z">
+        <seg>OmegaT registra tu traductiones e propone eventual traductiones ex segmentos simile jam registrate in le files memoria de traduction.</seg>
       </tuv>
     </tu>
     <tu>
