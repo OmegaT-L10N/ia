@@ -31097,6 +31097,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to tokenizers and scripts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150131T070144Z" creationid="Melo46" creationdate="20150131T070144Z">
+        <seg>Introduction al tokenizeres e al scriptes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inuktitut</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140046Z">
@@ -37443,8 +37451,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T114820Z">
-        <seg>OmegaT usa le memorias de traduction pro registrar tu previe traductiones e alora suggere traductiones verosimilante pro le texto que tu es actualmente traducente.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150131T070349Z">
+        <seg>OmegaT usa le memorias de traduction pro registrar tu previe traductiones e alora suggere traductiones verosimilante pro le texto que tu actualmente rende.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51372,8 +51380,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T114843Z">
-        <seg>Iste memorias de traduction pote esser multo utile in un documento jam rendite, que necessita de actualisation.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150131T070402Z">
+        <seg>Iste memorias de traduction pote esser multo utile in un documento jam rendite, que necessita de ajornamento.</seg>
       </tuv>
     </tu>
     <tu>
