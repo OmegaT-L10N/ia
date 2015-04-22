@@ -11798,8 +11798,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T085014Z">
-        <seg>&lt;p0&gt;Menu projecto &lt;/p0&gt; &lt;s1&gt;Nove...&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T142159Z">
+        <seg>&lt;p0&gt;Menu Projecto&lt;/p0&gt;:&lt;s1&gt; Nove...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12166,8 +12166,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T142024Z">
-        <seg>&lt;p0&gt;Projecto&lt;/p0&gt;:&lt;s1&gt; crea / aperi un nove&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T142221Z">
+        <seg>&lt;p0&gt;Projecto&lt;/p0&gt;:&lt;s1&gt; Crea / Aperi un nove&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54190,8 +54190,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T085145Z">
-        <seg>Pro comenciar a usar OmegaT, in prime loco crea un projecto que detenera omne tu files, como tu file fonte, memorias de traduction, glossarios, e eventualmente tu file rendite.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T142357Z">
+        <seg>Pro initia a usar OmegaT, crea in prime loco un projecto que detenera omne tu files, qual tu file fonte, le memorias de traduction, le glossarios, e successivemente tu file rendite.</seg>
       </tuv>
     </tu>
     <tu>
