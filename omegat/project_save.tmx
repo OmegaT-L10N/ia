@@ -28707,8 +28707,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If you check the OmegaT log and you see words like</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094723Z">
-        <seg>Si tu controla le OmegaT bloco e tu vide parolas simile a</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T073645Z">
+        <seg>Si tu controla le bloco de OmegaT e tu vide parolas similante a</seg>
       </tuv>
     </tu>
     <tu>
@@ -56392,6 +56392,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T073522Z" creationid="Melo" creationdate="20150422T073522Z">
+        <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Valid XHTML</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T065934Z">
@@ -56628,6 +56636,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T090818Z">
         <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T073508Z" creationid="Melo" creationdate="20150422T073508Z">
+        <seg>Vincent Bidaux (director del documentation)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67521,6 +67537,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140054Z">
         <seg>jpn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet-1.0.3.jar (GPL v2)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T073601Z" creationid="Melo" creationdate="20150422T073601Z">
+        <seg>juniversalchardet-1.0.3.jar (GPL v2)</seg>
       </tuv>
     </tu>
     <tu>
