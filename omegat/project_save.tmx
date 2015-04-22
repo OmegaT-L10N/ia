@@ -52094,8 +52094,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T093432Z">
-        <seg>Iste documentation es designate sia como un parve instruction, sia como un guida de referentia.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T032058Z">
+        <seg>Iste documentation es designate sia como parve instruction, sia como un guida de referentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57258,8 +57258,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T093241Z">
-        <seg>Quando indica a OmegaT le files que tu debe traducer, illo examina le files que comprende con le regulas de filtration del files, recognosce le partes textual intra illos, divide le gruppos de texto secundo le regulas de segmentation e expone le segmentos uno a uno, de maniera que tu pote proceder con le traduction.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T031951Z">
+        <seg>Quando tu indica a OmegaT le files que tu debe traducer, illo examina le files del formatos que pote recognoscer, con le regulas de filtration del files, recognosce le partes textual intra illos, divide le gruppos de texto secundo le regulas de segmentation e expone le segmentos uno a uno, de maniera que tu pote proceder al traduction.</seg>
       </tuv>
     </tu>
     <tu>
