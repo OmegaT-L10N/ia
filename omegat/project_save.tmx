@@ -16830,8 +16830,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T090920Z">
-        <seg>Al fin de tu traduction, OmegaT exporta tres memorias de traduction nominate &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt;e &lt;f2&gt;omegat&lt;/f2&gt;, in le plica de tu projecto</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T075806Z">
+        <seg>Al fin de tu traduction, OmegaT exporta in le plica de tu projecto tres memorias de traduction, cata denominate: &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt;e &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54044,6 +54044,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T075600Z" creationid="Melo" creationdate="20150422T075600Z">
+        <seg>Pro rememorar te del preparationes initial del projecto, aperi le fenestra de dialogo Proprietates del projecto pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140121T222520Z">
@@ -54118,8 +54126,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T090550Z">
-        <seg>Per vider le lista del files in le projecto, aperi le fenestra de dialogo &lt;g1&gt;Files del projecto&lt;/g1&gt; pulsante  &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T075640Z">
+        <seg>Pro vider le lista del files in le projecto, aperi le fenestra de dialogo &lt;g1&gt;Files del projecto&lt;/g1&gt; pulsante  &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
