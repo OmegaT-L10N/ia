@@ -37475,8 +37475,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T092735Z">
-        <seg>Pro registrar e acceder al memorias de traduction, OmegaT usa le formato de file standard TMX, le qual garanti que tu pote excambiar tu production de traduction con altere applicationes CAT que supporta le mesme formato de file.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T103120Z">
+        <seg>Pro registrar e acceder al memorias de traduction, OmegaT usa le formato de file standard TMX, le qual garanti que tu pote excambiar tu production de traductiones con usatores de altere applicationes CAT que supporta le mesme formato de file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52126,8 +52126,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T032058Z">
-        <seg>Iste documentation es designate sia como parve instruction, sia como un guida de referentia.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T103228Z">
+        <seg>Iste documentation es designate sia qual parve instruction, sia qual guida de referentia.</seg>
       </tuv>
     </tu>
     <tu>
