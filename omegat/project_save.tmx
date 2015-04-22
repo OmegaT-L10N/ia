@@ -14006,8 +14006,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T104618Z">
-        <seg>Plure collectiones de regulas es ja fornite, dum additional regulas pote esser definite ab le usator, como describe iste capitulo. &amp;&amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T143336Z">
+        <seg>Plure collectiones de regulas es ja fornite, dum additional regulas pote esser definite ab le usator, como describe iste capitulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14862,8 +14862,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T085751Z">
-        <seg>Postquam le files original essera cargate in le quadro &lt;g3&gt;Modifica&lt;/g3&gt;, tu pote clauder le fenestra de dialogo &lt;g4&gt;Files del  Projecto&lt;/g4&gt;.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T143248Z">
+        <seg>Postquam le file fonte essera cargate in le quadro &lt;g3&gt;Modifica&lt;/g3&gt;, tu potera clauder le fenestra de dialogo &lt;g4&gt;Files del Projecto&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54606,8 +54606,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T132434Z">
-        <seg>Render le file</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T143258Z">
+        <seg>Render le file&amp;&amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
