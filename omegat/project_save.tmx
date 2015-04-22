@@ -14910,8 +14910,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T161342Z">
-        <seg>Postquam tu ha rendite cata segmento, pressa &lt;k0&gt;Ctrl+U &lt;/k0&gt; pro mover al segmento sequente nondum rendite (o &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;pro mover al sequente segmento rendite).</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080635Z">
+        <seg>Postquam tu ha rendite cata segmento, pulsa &lt;k0&gt;Ctrl+U &lt;/k0&gt; pro mover al segmento sequente nondum rendite (o &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;pro mover al sequente segmento rendite).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30419,8 +30419,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>In this case, call up the OmegaT documentation by selecting Help &gt; User's Manual, or by pressing F1.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T102521Z">
-        <seg>In iste caso, que tu evoca le documentation de OmegaT con seliger "Adjuta &gt; Manual del usator", o que tu pressa F1.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080458Z">
+        <seg>In iste caso, que tu evoca le documentation de OmegaT con seliger "Adjuta &gt; Manual del usator", o que tu pulsa F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38027,8 +38027,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T221934Z">
-        <seg>Un vice que tu es certe que non ha nulle errores de tags in tu traduction, que tu pressa  &lt;k0&gt;Ctrl+D&lt;/k0&gt; pro generar tu file final, le qual essera create in le sub plica &lt;f1&gt;/target/&lt;/f1&gt; del plica de tu projecto. </seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080743Z">
+        <seg>Un vice que tu es certe que non ha nulle errores de tags in tu traduction, que tu pulsa  &lt;k0&gt;Ctrl+D&lt;/k0&gt; pro generar tu file final, le qual essera create in le sub plica &lt;f1&gt;/target/&lt;/f1&gt; del plica de tu projecto. </seg>
       </tuv>
     </tu>
     <tu>
@@ -44205,8 +44205,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Simply click through these by pressing Enter to confirm that the target is to remain the same.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130330T213348Z">
-        <seg>Clicca simplemente a transverso istos pressante Enter pro confirmar que le texto final debe remaner idem.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080556Z">
+        <seg>Clicca simplemente a transverso istos pulsante Enter pro confirmar que le texto final debe remaner idem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51210,8 +51210,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T102724Z" creationid="MELO" creationdate="20131219T102724Z">
-        <seg>Eo, que tu pressa &lt;k0&gt;Ctrl+T+V&lt;/k0&gt; ante que tu genera tu files rendite, pro validar que tu tags son correcte.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080724Z" creationid="MELO" creationdate="20131219T102724Z">
+        <seg>Eo, que tu pulsa &lt;k0&gt;Ctrl+T+V&lt;/k0&gt; ante que tu genera tu files rendite, pro validar que tu tags son correcte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57394,8 +57394,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T053747Z">
-        <seg>Quandocunque tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pressa &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro generar le documentos rendite, que essera create in le sub-plica  &lt;f3&gt;/target/&lt;/f3&gt; de tu projecto.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080713Z">
+        <seg>Quandocunque tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pulsa &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro generar le documentos rendite, que essera create in le sub-plica  &lt;f3&gt;/target/&lt;/f3&gt; de tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59549,8 +59549,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You type your translation into the field provided, confirm by hitting Enter, and so on.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T160105Z">
-        <seg>Tu scribe tu traduction in le campo final fornite, confirma pressante Invio, et cetera.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080518Z">
+        <seg>Tu scribe tu traduction in le campo final fornite, confirma pulsante Invio, et cetera.</seg>
       </tuv>
     </tu>
     <tu>
