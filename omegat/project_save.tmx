@@ -5028,8 +5028,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Remove Translation&lt;/b0&gt;: deletes the content of the segment, causing (when Enter is pressed) the default translation to be inserted.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T214219Z">
-        <seg>&lt;b0&gt;Remove traduction&lt;/b0&gt;: dele le contento del segmento, causante le insertion (quando es pressate Enter) del traduction base.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080245Z">
+        <seg>&lt;b0&gt;Remove traduction&lt;/b0&gt;: dele le contento del segmento, causante le insertion (quando es pulsate Enter) del traduction base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37963,8 +37963,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T204831Z">
-        <seg>un vice (que) isto esseva copiate o ligate a tu percurso de execution (facite automaticamente si  tu usa le script de installation fornite), tu pote lancear OmegaT pressante le pulsante &lt;i0&gt;Alt+F2&lt;/i0&gt;, pois scribente &lt;i1&gt;omegat&lt;/i1&gt; e confirmante con ENTER.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080439Z">
+        <seg>un vice (que) isto esseva copiate o ligate a tu percurso de execution (facite automaticamente si  tu usa le script de installation fornite), tu pote lancear OmegaT pulsante &lt;i0&gt;Alt+F2&lt;/i0&gt;, pois scribente &lt;i1&gt;omegat&lt;/i1&gt; e confirmante con ENTER.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46768,8 +46768,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T174741Z">
-        <seg>Que tu recordava de pressar Ctrl+s, Ctrl+d in OmegaT.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080322Z">
+        <seg>Que tu recordava de pulsar Ctrl+s, Ctrl+d in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57010,8 +57010,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T173626Z">
-        <seg>Quando actuate, isto lancea tu lector del tela con un pagina simulacro instruente te a preparar le function de renovation automatic, quem tu deberea dunque facer, e pois pressar Ctrl+s, Ctrl+d in OmegaT pro lancear le renovation automatic del lector del tela.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080305Z">
+        <seg>Quando actuate, isto lancea tu lector del tela con un pagina simulacro instruente te a preparar le function de renovation automatic, quem tu deberea dunque facer, e pois pulsar Ctrl+s, Ctrl+d in OmegaT pro lancear le renovation automatic del lector del tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71695,8 +71695,8 @@ a</seg>
       <tuv lang="EN">
         <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T212807Z">
-        <seg>selection.txt - contine le texto marcate per le usator, quando o es pressate Ctrl-Shift-C  o es seligite Modifica &gt; Exporta le selection</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080220Z">
+        <seg>selection.txt - contine le texto marcate per le usator, quando o es Pulsate Ctrl-Shift-C  o es seligite Modifica &gt; Exporta le selection</seg>
       </tuv>
     </tu>
     <tu>
