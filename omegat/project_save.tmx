@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29465,6 +29465,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ilia Vinogradov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T073426Z" creationid="Melo" creationdate="20150422T073426Z">
+        <seg>Ilia Vinogradov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imagine we want to study French vocabulary, and we want to include the page</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141119T105910Z" creationid="Melo" creationdate="20141119T105834Z">
@@ -53078,8 +53086,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140119T120357Z">
-        <seg>Le  traduction presente es obra de Carmelo Serraino, copyright© 2014.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T073347Z">
+        <seg>Le traduction presente es obra de Carmelo Serraino, copyright© 2015.</seg>
       </tuv>
     </tu>
     <tu>
