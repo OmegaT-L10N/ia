@@ -29379,8 +29379,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T090003Z">
-        <seg>Si tu files primari son files formattate, per exemplo: Microsoft Word, LibreOffice Writer o HTML, OmegaT convertera le formato in tags que ambira le texto que tu va render.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T165042Z">
+        <seg>Si tu files fonte es formattate, per exemplo in formato: Microsoft Word, LibreOffice Writer o HTML, OmegaT convertera le formato in tags que ambira le texto que tu va render.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57402,8 +57402,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T080713Z">
-        <seg>Quandocunque tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pulsa &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro generar le documentos rendite, que essera create in le sub-plica  &lt;f3&gt;/target/&lt;/f3&gt; de tu projecto.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T164935Z">
+        <seg>Quando tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pulsa &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro generar le documentos rendite, que essera create in le sub-plica  &lt;f3&gt;/target/&lt;/f3&gt; de tu projecto. Si tu vole vider solmente le documento active, que tu pulsa &lt;k3&gt;Ctrl+Shift+D&lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58618,8 +58618,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T090433Z" creationid="MELO" creationdate="20131219T102959Z">
-        <seg>Tu pote crear un novo projecto pro cata nove obra o tu pote adder nove files fonte a un projecto in omne momento.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T165111Z" creationid="MELO" creationdate="20131219T102959Z">
+        <seg>Tu pote crear un nove projecto pro cata nove obra o tu pote adder nove files fonte a un projecto in omne momento.</seg>
       </tuv>
     </tu>
     <tu>
