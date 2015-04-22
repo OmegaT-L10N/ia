@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37539,8 +37539,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T085907Z">
-        <seg>OmegaT proponera te un segmento a un vice, pro render lo.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T164030Z">
+        <seg>OmegaT te proponera un segmento a un vice, pro render lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54606,8 +54606,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T143258Z">
-        <seg>Render le file&amp;&amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T164003Z">
+        <seg>Render le file</seg>
       </tuv>
     </tu>
     <tu>
