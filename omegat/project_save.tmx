@@ -55680,6 +55680,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn on Mac) to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T033624Z" creationid="Melo46" creationdate="20150422T033624Z">
+        <seg>Usa &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn sur Mac) pro commutar successivemente intra le optiones &lt;e2&gt;Entratas del Glossarios&lt;/e2&gt;, &lt;e3&gt;Entratas de Auto-text,&lt;/e3&gt; &lt;e4&gt;Tags Missing&lt;/e4&gt; e &lt;e5&gt;Tabella del Characteres&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T184445Z">
