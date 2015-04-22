@@ -14510,8 +14510,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T100247Z" creationid="MELO46" creationdate="20131224T100247Z">
-        <seg>Adde characteres al tabella personal per duplice-cliccar, o per marcar e pressar le clave Insere.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081430Z" creationid="MELO46" creationdate="20131224T100247Z">
+        <seg>Adde characteres al tabella personal per duplice-cliccar, o per marcar e pulsar le clave Insere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28651,8 +28651,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T152614Z">
-        <seg>Si tu non pote vider omne le quadros (sia los aperte o minimisate), que tu pressa &lt;g0&gt; Optiones &gt; Restaura Fenestra Principal &lt;/g0&gt; e tu restaurara los al lor preparation initial.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081124Z">
+        <seg>Si tu non pote vider omne le quadros (sia los aperte o minimisate), que tu pulsa &lt;g0&gt; Optiones &gt; Restaura Fenestra Principal &lt;/g0&gt; e tu restaurara los al lor preparation initial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37331,8 +37331,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T101315Z">
-        <seg>OmegaT ha functionate foras de memoria, e quitara quando tu pressara OK.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081315Z">
+        <seg>OmegaT ha functionate foras de memoria, e quitara quando tu pulsara OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39933,8 +39933,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Pressing &lt;k0&gt;Enter&lt;/k0&gt; will move the Editor pane to the top of the file selected</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T145143Z">
-        <seg>Pressante &lt;k0&gt;Enter&lt;/k0&gt; movera le quadro del Modifica al summitate del file seligite</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081226Z">
+        <seg>Pulsante &lt;k0&gt;Enter&lt;/k0&gt; movera le quadro del Modifica al summitate del file seligite</seg>
       </tuv>
     </tu>
     <tu>
@@ -48896,8 +48896,8 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The help browser (which displays this manual) can be opened by pressing &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; or navigating to &lt;g2&gt;&lt;i3/&gt;Help → User Manual...&lt;/g2&gt; in the main menu.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T072131Z">
-        <seg>Le Lector del Adjuta (que monstra iste manual) pote esser aperte pressante &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; o navigante a &lt;g2&gt;&lt;i3/&gt;Adjuta → Manual del usator...&lt;/g2&gt; in le menu principal.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081252Z">
+        <seg>Le Lector del Adjuta (que monstra iste manual) pote esser aperte pulsante &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; o navigante a &lt;g2&gt;&lt;i3/&gt;Adjuta → Manual del usator...&lt;/g2&gt; in le menu principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59380,8 +59380,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T065548Z">
-        <seg>Tu pote seliger un concordantia differente pressante &lt;g0&gt;Ctrl+2, 3, 4, o 5&lt;/g0&gt;.&lt;i1/&gt; Naturalmente, pressante &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; non habera alicun effecto, si il non ha alicun concordantia #5.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081212Z">
+        <seg>Tu pote seliger un concordantia differente pulsante &lt;g0&gt;Ctrl+2, 3, 4, o 5&lt;/g0&gt;.&lt;i1/&gt; Naturalmente, pulsante &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; non habera alicun effecto, si il non ha alicun concordantia #5.</seg>
       </tuv>
     </tu>
     <tu>
