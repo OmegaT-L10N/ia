@@ -24701,8 +24701,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T091209Z">
-        <seg>Pro un plus comprehensive introduction, que tu vide  &lt;u0&gt;OmegaT pro novicios&lt;/u0&gt; sur le sito TTT de OmegaT.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T165421Z">
+        <seg>Pro un plus comprehensive introduction, que tu vide  &lt;u0&gt;OmegaT pro novicios&lt;/u0&gt; sur le sito Web de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31515,8 +31515,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T080120Z">
-        <seg>Es frequentemente utile recercar parolas e phrases in le texto primari o in tu traduction, assi que tu pulsa &lt;k0&gt;Ctrl+F&lt;/k0&gt; pro le fenestra de dialogo &lt;g1&gt;Cerca Texto&lt;/g1&gt;in qualcunque tempore.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T165345Z">
+        <seg>Es frequentemente utile recercar parolas e phrases in le texto fonte o in tu traduction, que tu pulsa &lt;k0&gt;Ctrl+F&lt;/k0&gt; pro le fenestra de dialogo &lt;g1&gt;Cerca Texto&lt;/g1&gt;in qualcunque tempore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54054,8 +54054,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T075600Z" creationid="Melo" creationdate="20150422T075600Z">
-        <seg>Pro rememorar te del preparationes initial del projecto, aperi le fenestra de dialogo Proprietates del projecto pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T165156Z" creationid="Melo" creationdate="20150422T075600Z">
+        <seg>Pro rememorar te del preparationes initial del projecto, aperi le fenestra de dialogo Proprietates del projecto, pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58402,8 +58402,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T080007Z">
-        <seg>Tu pote adder un nove termino al glossario pulsante &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o copiar glossarios existente in le sub plica &lt;f1&gt;/glossario/&lt;/f1&gt; de tu projecto, e OmegaT querera automaticamente le parolas in illos.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T165233Z">
+        <seg>Tu pote adder un nove termino al glossario, pulsante &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o copiar glossarios existente in le sub plica &lt;f1&gt;/glossario/&lt;/f1&gt; de tu projecto, e OmegaT querera automaticamente le parolas in illos.</seg>
       </tuv>
     </tu>
     <tu>
