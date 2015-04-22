@@ -17980,6 +17980,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080857Z" creationid="Melo" creationdate="20150422T080857Z">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T080827Z">
@@ -39885,8 +39893,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T054642Z">
-        <seg>Pressa &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; pro monstrar KRunner.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080930Z">
+        <seg>Pulsa &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; pro monstrar KRunner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44053,8 +44061,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140416T213524Z">
-        <seg>Le vias breve es activate pressante &lt;k0&gt;Ctrl&lt;/k0&gt; e un littera.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081039Z">
+        <seg>Le vias breve es activate pulsante &lt;k0&gt;Ctrl&lt;/k0&gt; e un littera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46882,8 +46890,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T133336Z">
-        <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pressa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080834Z">
+        <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pulsa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54062,8 +54070,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T072514Z" creationid="MELO46" creationdate="20140615T072514Z">
-        <seg>Pro remover un filtro, pressa le button &lt;e0&gt;Remove filtro&lt;/e0&gt;, o recarga le projecto.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T081109Z" creationid="MELO46" creationdate="20140615T072514Z">
+        <seg>Pro remover un filtro, pulsa le button &lt;e0&gt;Remove filtro&lt;/e0&gt;, o recarga le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58290,8 +58298,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T140534Z">
-        <seg>Tu compli le identic action per deler le segmento final e pressar &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080910Z">
+        <seg>Tu compli le identic action per deler le segmento final e pulsar &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58908,8 +58916,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20131219T062428Z" creationid="MELO" creationdate="20131219T062428Z">
-        <seg>Tu pote lancear le macros seligite ab le menu principal o con lor entratas in le menu  &lt;g0&gt;Instrumentos &lt;/g0&gt;o pressante&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (con # de 1 a 12).</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150422T080855Z" creationid="MELO" creationdate="20131219T062428Z">
+        <seg>Tu pote lancear le macros seligite ab le menu principal o con lor entratas in le menu  &lt;g0&gt;Instrumentos &lt;/g0&gt;o pulsante&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (con # de 1 a 12).</seg>
       </tuv>
     </tu>
     <tu>
