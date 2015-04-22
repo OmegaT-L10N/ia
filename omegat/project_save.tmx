@@ -78884,6 +78884,17 @@ a</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/AboutOmegaT.xml</prop>
+      <prop type="prev">Team Projects</prop>
+      <prop type="next">&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</prop>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T032711Z" creationid="Melo46" creationdate="20150422T032711Z">
+        <seg>Informationes legal e Recognitiones</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">manual.txt.UTF8</prop>
       <prop type="prev">Below the note type, you'll see some buttons, and an area labeled "Front" and</prop>
       <prop type="next">Front and Back are called 'fields', and you can add, remove and</prop>
