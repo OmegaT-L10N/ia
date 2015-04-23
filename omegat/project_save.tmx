@@ -12932,6 +12932,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting missing source tags&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222524Z" creationid="Melo46" creationdate="20150423T222524Z">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt;: &lt;s1&gt;inserer le tags fonte perdite&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting source tags&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T212611Z">
@@ -41989,8 +41997,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Replaces the whole target segment with the source.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T191405Z">
-        <seg>Reimplacia le segmento final integre con le segmento original.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222237Z">
+        <seg>Replacia le segmento final integre con le segmento original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79542,6 +79550,17 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Insert Source</prop>
+      <prop type="next">Inserts the source at the cursor position.</prop>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222329Z" creationid="Melo46" creationdate="20150423T222329Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
       <prop type="prev">Replace With Source</prop>
       <prop type="next">Replaces the whole target segment with the source.</prop>
       <tuv lang="EN">
@@ -79549,6 +79568,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T222219Z" creationid="Melo46" creationdate="20150423T222219Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Insert Missing Source Tags</prop>
+      <prop type="next">&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting missing source tags&lt;/s1&gt;</prop>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222417Z" creationid="Melo46" creationdate="20150423T222417Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -79571,6 +79601,28 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T221333Z" creationid="Melo46" creationdate="20150423T221333Z">
         <seg>Discargar un  projecto de equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Inserts the source at the cursor position.</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</prop>
+      <tuv lang="EN">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222350Z" creationid="Melo46" creationdate="20150423T222350Z">
+        <seg>Insere le Tags fonte mancante </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Replaces the whole target segment with the source.</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</prop>
+      <tuv lang="EN">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222312Z" creationid="Melo46" creationdate="20150423T222312Z">
+        <seg>Inserer fonte</seg>
       </tuv>
     </tu>
     <tu>
