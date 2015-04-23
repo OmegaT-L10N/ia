@@ -29817,6 +29817,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T120220Z" creationid="Melo46" creationdate="20150423T120220Z">
+        <seg>In le caso que nulle tokenizer exists pro le lingua currente, OmegaT usa Hunspell in vice (in iste caso, face te secur que es installate le dictionarios Hunspell pertinente ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T154008Z">
@@ -41511,6 +41519,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095452Z">
         <seg>Remove le traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T120504Z" creationid="Melo46" creationdate="20150423T120504Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55344,6 +55360,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150422T102732Z">
         <seg>Le phrases sin alteration es automaticamente rendite, dum le phrases renovate es monstrate con le traduction del phrases vetere le plus similabile, si il ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T120410Z" creationid="Melo46" creationdate="20150423T120410Z">
+        <seg>Dismarca iste option pro prevenir omne damno sur le tags (i.e., partial deletion) durante le modifica.</seg>
       </tuv>
     </tu>
     <tu>
