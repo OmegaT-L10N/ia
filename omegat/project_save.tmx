@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16672,6 +16672,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T192614Z">
         <seg>Como alterubi in le projecto OmegaT, le labor de programmation de OmegaT es facite con voluntarios, e in harmonia con la philosophia del projecto, le disveloppamentos e le meliorationes que illes face a OmegaT es finalmente a lor discretion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T190203Z" creationid="Melo" creationdate="20150423T190203Z">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49114,6 +49122,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T163617Z">
         <seg>Le file glossario non ha le extension correcte (.tab o .utf8).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T190359Z" creationid="Melo" creationdate="20150423T190359Z">
+        <seg>Le file glossario non ha le extension correcte (.tab, .utf8 o .txt).</seg>
       </tuv>
     </tu>
     <tu>
