@@ -32829,6 +32829,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T115539Z" creationid="Melo46" creationdate="20150423T115539Z">
+        <seg>Selection del linguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lao</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140500Z">
@@ -42719,6 +42727,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T130516Z">
         <seg>Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T115453Z" creationid="Melo46" creationdate="20150423T115453Z">
+        <seg>Linguages de Script</seg>
       </tuv>
     </tu>
     <tu>
@@ -54436,6 +54452,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T115502Z" creationid="Melo46" creationdate="20150423T115502Z">
+        <seg>Tokenizers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T171026Z">
@@ -58516,6 +58540,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T220138Z">
         <seg>Tu pote adder copias de files, portiones del bloco, sequentia del schermo, alicun cosa que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T115415Z" creationid="Melo46" creationdate="20150423T115415Z">
+        <seg>Tu pote adder nove scripts ibi, si que Illos apparera in le lista del scripts disponibile in le fenestra de Scripting.</seg>
       </tuv>
     </tu>
     <tu>
