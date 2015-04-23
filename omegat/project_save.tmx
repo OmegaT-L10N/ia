@@ -19292,6 +19292,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221748Z" creationid="Melo46" creationdate="20150423T221748Z">
+        <seg>Cliccar sur un salvara le projecto currente, claudera lo e aperira le altere projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on the text in question will display a text box and formatting marks.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T093826Z">
@@ -19973,8 +19981,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T093157Z">
-        <seg>Copia le files seligite in le classificator &lt;f0&gt;source&lt;/f0&gt; e  recarga le projecto pro cargar le nove files.&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221819Z">
+        <seg>Copia le files seligite in le plica &lt;f0&gt;source&lt;/f0&gt; e  recarga le projecto pro cargar le nove files.&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26136,6 +26144,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T142746Z">
         <seg>Initio del execution de Git '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give access to the five last edited projects.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221619Z" creationid="Melo46" creationdate="20150423T221619Z">
+        <seg>Da accesso al cinque projectos modificate plus recentemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79498,6 +79514,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T164621Z" creationid="Melo46" creationdate="20150423T164621Z">
         <seg>Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</prop>
+      <prop type="next">Downloads units from MediaWiki pages, based on the URL entered.</prop>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221843Z" creationid="Melo46" creationdate="20150423T221843Z">
+        <seg>Discarga un pagina MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
