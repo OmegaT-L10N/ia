@@ -20395,6 +20395,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221948Z" creationid="Melo46" creationdate="20150423T221948Z">
+        <seg>Crea le Documento Rendite Actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Current Translated Documents</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T202638Z" creationid="MELO46" creationdate="20140629T202638Z">
@@ -20559,6 +20567,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102010Z">
         <seg>Crear e desplicar un nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222153Z" creationid="Melo46" creationdate="20150423T222153Z">
+        <seg>Crea le documento de destination in su proprie formato final correspondente al documento actualmente in traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22527,6 +22543,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130326T210847Z">
         <seg>Discargar le materiales supplementari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloads units from MediaWiki pages, based on the URL entered.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221926Z" creationid="Melo46" creationdate="20150423T221926Z">
+        <seg>Discarga le unitates ab le paginas de MediaWiki, basate super le URL inserite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79514,6 +79538,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T164621Z" creationid="Melo46" creationdate="20150423T164621Z">
         <seg>Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Replace With Source</prop>
+      <prop type="next">Replaces the whole target segment with the source.</prop>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222219Z" creationid="Melo46" creationdate="20150423T222219Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
