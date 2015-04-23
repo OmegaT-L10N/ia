@@ -50240,6 +50240,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T065151Z" creationid="Melo" creationdate="20150423T065151Z">
+        <seg>Le vias breve &lt;k2&gt;Ctrl+A&lt;/k2&gt; e &lt;k3&gt;Ctrl+C&lt;/k3&gt; opera in le quadros, permittente copiar tote o alcun del informationes al tabula del fragmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The simplest way to launch OmegaT, however, is to execute the&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; program.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130407T220257Z">
