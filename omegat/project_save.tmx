@@ -38729,6 +38729,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222729Z" creationid="Melo46" creationdate="20150423T222729Z">
+        <seg>Aperi un nove &lt;l0&gt;fenestra de Cerca e Replacia&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T213420Z">
@@ -79550,6 +79558,39 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Search and Replace...</prop>
+      <prop type="next">Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</prop>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222615Z" creationid="Melo46" creationdate="20150423T222615Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Export Selection</prop>
+      <prop type="next">Exports the current selection to a text file for processing.</prop>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222541Z" creationid="Melo46" creationdate="20150423T222541Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Create Glossary Entry</prop>
+      <prop type="next">Allows the user create an entry in the default glossary file.</prop>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222557Z" creationid="Melo46" creationdate="20150423T222557Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
       <prop type="prev">Insert Source</prop>
       <prop type="next">Inserts the source at the cursor position.</prop>
       <tuv lang="EN">
@@ -79645,6 +79686,28 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T221446Z" creationid="Melo46" creationdate="20150423T221446Z">
         <seg>Aperi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">If no text is selected, &lt;a1&gt;OmegaT&lt;/a1&gt; selects the word that contains the letter immediately to the right of the cursor.</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</prop>
+      <tuv lang="EN">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222844Z" creationid="Melo46" creationdate="20150423T222844Z">
+        <seg>Selige le Concordantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</prop>
+      <prop type="next">&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; (see text)</prop>
+      <tuv lang="EN">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T222802Z" creationid="Melo46" creationdate="20150423T222802Z">
+        <seg>Cambia le littera in</seg>
       </tuv>
     </tu>
     <tu>
