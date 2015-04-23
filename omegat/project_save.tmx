@@ -20915,6 +20915,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064508Z" creationid="Melo" creationdate="20150423T064508Z">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+T</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T211018Z" creationid="MELO46" creationdate="20140416T211018Z">
@@ -68831,16 +68839,16 @@ a</seg>
       <tuv lang="EN">
         <seg>move to the beginning of the line in the segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073045Z">
-        <seg>mover a le comenciamento del linea in le segmento</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064259Z">
+        <seg>mover a le initio del linea in le segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the end of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131530Z">
-        <seg>mover ale fin del documento  (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064336Z">
+        <seg>mover al fin del documento  (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68863,16 +68871,16 @@ a</seg>
       <tuv lang="EN">
         <seg>move to the start of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131519Z">
-        <seg>mover ale comenciamento del documento  (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064321Z">
+        <seg>mover ale initio del documento  (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the start of the segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131453Z">
-        <seg>mover al comenciamento del segmento</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064308Z">
+        <seg>mover al initio del segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -69631,8 +69639,8 @@ a</seg>
       <tuv lang="EN">
         <seg>one word right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131415Z">
-        <seg>un parola a Dextra, salvo non plus quam le fin del segmento</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064246Z">
+        <seg>un parola a Dextra, salvo non plus que le fin del segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -69647,16 +69655,16 @@ a</seg>
       <tuv lang="EN">
         <seg>open a dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T033144Z" creationid="Melo46" creationdate="20150422T033144Z">
-        <seg>aperi un  cassa de dialogo con le suggestiones contextual (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064538Z" creationid="Melo46" creationdate="20150422T033144Z">
+        <seg>aperir un  cassa de dialogo con le suggestiones contextual (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073223Z">
-        <seg>aperir le segmento previe (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064449Z">
+        <seg>aperir le segmento precedente (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -71135,32 +71143,32 @@ a</seg>
       <tuv lang="EN">
         <seg>remove char after cursor</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094358Z">
-        <seg>levar le character depost le cursor</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064404Z">
+        <seg>levar le character post le cursor</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove char before cursor</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131556Z">
-        <seg>levar le character ante que le cursor</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064349Z">
+        <seg>levar le character ante le cursor</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073148Z">
-        <seg>levar le characteres usque a le comenciamento del parola sequente (Mac: &lt;e0&gt;Alt+Canc&lt;/e0&gt;)</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064433Z">
+        <seg>levar le characteres usque a le initio del parola sequente (Mac: &lt;e0&gt;Alt+Canc&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T131551Z">
-        <seg>levar le characteres usque al comenciamento del parola currente (Mac: Alt+Backspace)&lt;e0&gt;&lt;/e0&gt;</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064420Z">
+        <seg>levar le characteres usque al Initio del parola currente (Mac: Alt+Backspace)&lt;e0&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
