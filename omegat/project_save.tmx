@@ -25251,6 +25251,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T220345Z" creationid="Melo46" creationdate="20150423T220345Z">
+        <seg>For instance, &lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T150930Z" creationid="MELO46" creationdate="20140109T150930Z">
@@ -53860,6 +53868,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the amount of memory available, edit directly the lauching line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T220313Z" creationid="Melo46" creationdate="20150423T220313Z">
+        <seg>Pro cambiar le quantitate de memoria disponibile, cambiar directemente le fila de commando del lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T080418Z">
@@ -54264,6 +54280,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T124002Z">
         <seg>Pro lancear occurrentias multiple de &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, clicca duo vices le file &lt;e2&gt;JavaApplicationStub&lt;/e2&gt; ubicate in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T220400Z" creationid="Melo46" creationdate="20150423T220400Z">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
