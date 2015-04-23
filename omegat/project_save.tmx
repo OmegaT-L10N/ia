@@ -20539,6 +20539,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221427Z" creationid="Melo46" creationdate="20150423T221427Z">
+        <seg>Crear un copia local de un projecto OmegaT remote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creates and opens a new project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102010Z">
@@ -79490,6 +79498,39 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T164621Z" creationid="Melo46" creationdate="20150423T164621Z">
         <seg>Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">See</prop>
+      <prop type="next">Creates a local copy of a remote OmegaT project.</prop>
+      <tuv lang="EN">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221333Z" creationid="Melo46" creationdate="20150423T221333Z">
+        <seg>Discargar un  projecto de equipa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Project menu</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</prop>
+      <tuv lang="EN">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221259Z" creationid="Melo46" creationdate="20150423T221259Z">
+        <seg>Nove...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Creates a local copy of a remote OmegaT project.</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</prop>
+      <tuv lang="EN">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221446Z" creationid="Melo46" creationdate="20150423T221446Z">
+        <seg>Aperi...</seg>
       </tuv>
     </tu>
     <tu>
