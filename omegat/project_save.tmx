@@ -19196,6 +19196,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T115031Z" creationid="Melo46" creationdate="20150423T115031Z">
+        <seg>Cliccar sur &lt;g0&gt;Instrumentos &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; pro displicar the fenestra de dialogo de Scripting:&lt;s2&gt; &lt;s3&gt;Fenestra de dialogo Scripting&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking &lt;g3&gt;Scripting&lt;/g3&gt; opens the Scripting dialog:&lt;s4&gt; &lt;s5&gt;Scripting dialog&lt;/s5&gt; &lt;m6&gt; &lt;i7&gt; &lt;i8/&gt; &lt;/i7&gt; &lt;/m6&gt; &lt;/s4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T123439Z">
@@ -47612,6 +47620,14 @@ vice essera usate le classificator actual.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130325T210906Z">
         <seg>Le plugin Scripting pro OmegaT pote esser discargate ex le sito de discarga del plugins de &lt;u0&gt;OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T115137Z" creationid="Melo46" creationdate="20150423T115137Z">
+        <seg>Le Fenestra de Scripting te permitte de cargar un script existente in le area texto e exequer lo verso le projecto aperte currente.</seg>
       </tuv>
     </tu>
     <tu>
