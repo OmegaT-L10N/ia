@@ -30169,6 +30169,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to get credentials for MS Translator, follow these steps:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221029Z" creationid="Melo46" creationdate="20150423T221029Z">
+        <seg>Pro procurar se le credentiales pro MS Translator, sequer iste grados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T220720Z">
@@ -33705,6 +33713,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123458Z">
         <seg>Location</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log into Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221218Z" creationid="Melo46" creationdate="20150423T221218Z">
+        <seg>Connecte te in Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -66224,6 +66240,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T100510Z">
         <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://datamarket.azure.com/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T221032Z" creationid="Melo46" creationdate="20150423T221032Z">
+        <seg>http://datamarket.azure.com/</seg>
       </tuv>
     </tu>
     <tu>
