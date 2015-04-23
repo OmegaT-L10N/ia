@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32350,8 +32350,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Keyboard shortcuts in the editor</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131058Z">
-        <seg>Vias breve ex le claviero in le editor</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064038Z">
+        <seg>Vias breve del Claviero in le editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -53070,8 +53070,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T132839Z">
-        <seg>Isto breve texto describe le comportamento de claves in le quadro del modifica, le editor del segmentos.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064135Z">
+        <seg>Isto breve texto describe le comportamento de claves in le quadro del Modifica, le editor del segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69607,24 +69607,24 @@ a</seg>
       <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T133046Z">
-        <seg>un character a sinistra, salvo non plus quam le initio del segmento</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064146Z">
+        <seg>un character a sinistra, salvo non plus que le initio del segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one char right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T133103Z">
-        <seg>un character a dextra, salvo non plus quam le fin del segmento</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064158Z">
+        <seg>un character a dextra, salvo non plus que le fin del segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one word left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T133138Z">
-        <seg>un parola a sinistra, salvo non plus quam le comenciamento del segmento</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064215Z">
+        <seg>un parola a sinistra, salvo non plus que le initio del segmento</seg>
       </tuv>
     </tu>
     <tu>
