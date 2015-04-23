@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50266,8 +50266,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150423T171541Z" creationid="Melo46" creationdate="20150423T171541Z">
-        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150423T215734Z" creationid="Melo46" creationdate="20150423T171541Z">
+        <seg>Le resultatos ex le glossario del prioritate (per option predefinite, glossary/glossary.txt) appare in le prime locos in le quadro del Glossario e in le TransTips.</seg>
       </tuv>
     </tu>
     <tu>
