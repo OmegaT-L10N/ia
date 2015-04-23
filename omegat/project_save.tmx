@@ -25003,6 +25003,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T204004Z" creationid="Melo" creationdate="20150423T204004Z">
+        <seg>Per exemplo, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (sin le #) lanceara &lt;a2&gt;OmegaT&lt;/a2&gt; con le Interfacie del Usator in japonese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T074747Z" creationid="MELO" creationdate="20131219T074747Z">
@@ -25319,6 +25327,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160200Z" creationid="MELO46" creationdate="20131226T160200Z">
         <seg>For more information on this, and how to apply and follow the GNU GPL, see</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T203800Z" creationid="Melo" creationdate="20150423T203800Z">
+        <seg>Per optiones pre-definite, remover le # ante un parametro pro habilitar lo.</seg>
       </tuv>
     </tu>
     <tu>
