@@ -46922,8 +46922,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T080834Z">
-        <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pulsa le clave "Shift" , omne le claves move le cursor in su consuete faction, foras que in le caso del combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064847Z">
+        <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pulsa le clave "Shift", omne le claves move le cursor in su consuete faction, foras que in le caso del combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55762,8 +55762,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn on Mac) to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T033624Z" creationid="Melo46" creationdate="20150422T033624Z">
-        <seg>Usa &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn sur Mac) pro commutar successivemente intra le optiones &lt;e2&gt;Entratas del Glossarios&lt;/e2&gt;, &lt;e3&gt;Entratas de Auto-text,&lt;/e3&gt; &lt;e4&gt;Tags Missing&lt;/e4&gt; e &lt;e5&gt;Tabella del Characteres&lt;/e5&gt;.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150423T064723Z" creationid="Melo46" creationdate="20150422T033624Z">
+        <seg>Usa &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn sur Mac) pro commutar successivemente intra le optiones &lt;e2&gt;Entratas del Glossarios&lt;/e2&gt;, &lt;e3&gt;Entratas de Auto-texto,&lt;/e3&gt; &lt;e4&gt;Tags perdite&lt;/e4&gt; e &lt;e5&gt;Tabella del Characteres&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
