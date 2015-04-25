@@ -6562,6 +6562,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T213002Z" creationid="Melo46" creationdate="20150425T213002Z">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: controla pro tags mancante o displaciate in le files formattate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T194221Z">
@@ -10620,6 +10628,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211434Z" creationid="Melo46" creationdate="20150425T211434Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; o &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214450Z">
@@ -10632,6 +10648,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T215051Z">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt;Enter&lt;/k3&gt; o &lt;k4&gt;Return&lt;/k4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Enter&lt;/k5&gt; &lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211448Z" creationid="Melo46" creationdate="20150425T211448Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; o &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Enter&lt;/k5&gt; &lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10820,6 +10844,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211530Z" creationid="Melo46" creationdate="20150425T211530Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T221055Z">
@@ -10832,6 +10864,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T221117Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211129Z" creationid="Melo46" creationdate="20150425T211129Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21987,6 +22027,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T213428Z" creationid="Melo46" creationdate="20150425T213428Z">
+        <seg>Monstra le Statisticas del Concordantia pro cata file del projecto: le numero del repetitiones, del concordantias exacte, del concordantias partial e del  non-concordantias, pro le segmentos, le parolas e in le characteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T195302Z">
@@ -27765,6 +27813,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211929Z" creationid="Melo46" creationdate="20150425T211929Z">
+        <seg>Si activate, le spatios non  non-frangibile essera monstrate con un fundo gris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T115613Z">
@@ -27785,6 +27841,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T115544Z">
         <seg>Si activate, le segmentos fonte essera monstrate e marcate in verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in /tm/auto for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T212748Z" creationid="Melo46" creationdate="20150425T212748Z">
+        <seg>Si marcate, le fundo de omne le segmentos ubi le segmento de destination ha essite auto-populate (per exemplo per TMXs ubicate in le plica /tm/auto) es monstrate in color.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27817,6 +27881,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T115534Z">
         <seg>Si activate, le segmentos non rendite essera marcate in violetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T212138Z" creationid="Melo46" creationdate="20150425T212138Z">
+        <seg>Si activate, le spatios blanc essera monstrate con un parve puncto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35349,6 +35421,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211117Z" creationid="Melo46" creationdate="20150425T211117Z">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T211656Z">
@@ -35377,6 +35457,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102212Z">
         <seg>Move a le segmento del numero inscribite ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211845Z" creationid="Melo46" creationdate="20150425T211845Z">
+        <seg>Mover al segmento que corresponde al concordantia currente seligite in le quadro &lt;g0&gt;Concordantias partial&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38797,6 +38885,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T135505Z">
         <seg>Aperir tu file rendite final in un lector del tela es facile quando tu file original es in formato .html, ma le traductiones plus frequentemente implica files de processor de textos, que in OmegaT es habitualmente tractate in formato .docx o .odt .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T213947Z" creationid="Melo46" creationdate="20150425T213947Z">
+        <seg>Aperi un cassa del dialogo ubi le location del scriptes pte esser preparate, e ubi le scriptes pote esser scripte, fluer e associate con un via breve (vider le &lt;l0&gt;Fenestra del scriptes&lt;/l0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42727,6 +42823,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114511Z">
         <seg>Sabine Cretella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Same as above, but only for the current document in translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T213213Z" creationid="Melo46" creationdate="20150425T213213Z">
+        <seg>Simile al precedente, sed sol pro le documento in traduction currente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48474,6 +48578,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The colours are displayed as long as the "Save auto-populated status" (in Options/Editing behaviour..) option is checked.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T212814Z" creationid="Melo46" creationdate="20150425T212814Z">
+        <seg>The colours are displayed as long as the "Save auto-populated status" (in Options/Editing behaviour..) option is checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The combined work need only contain one copy of this License, and multiple identical Invariant Sections may be replaced with a single copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065109Z" creationid="MELO" creationdate="20131219T065109Z">
@@ -53400,6 +53512,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T161145Z">
         <seg>Iste option permitte te de scriber le traduction sin le necessitate de remover le texto original, assi tu sparnia duo percussiones de clave (&lt;e0&gt;Ctrl+A &lt;/e0&gt;e &lt;e1&gt;Del).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T212336Z" creationid="Melo46" creationdate="20150425T212336Z">
+        <seg>Iste option monstra le &lt;u0&gt;characteres de controlo bidirectional&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67020,6 +67140,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T212144Z" creationid="Melo46" creationdate="20150425T212144Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T132429Z">
@@ -79818,6 +79946,28 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">If checked, non-breakable spaces will be displayed with a grey background.</prop>
+      <prop type="next">If checked, white spaces will be displayed with a small dot.</prop>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211952Z" creationid="Melo46" creationdate="20150425T211952Z">
+        <seg>Marca un Spatio blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt;</prop>
+      <prop type="next">Next Segment</prop>
+      <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211415Z" creationid="Melo46" creationdate="20150425T211415Z">
+        <seg>Mover al successive segmento ja traducite, ignorante le segmentos non rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
       <prop type="prev">Project menu</prop>
       <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</prop>
       <tuv lang="EN">
@@ -79840,6 +79990,17 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</prop>
+      <prop type="next">Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</prop>
+      <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T213456Z" creationid="Melo46" creationdate="20150425T213456Z">
+        <seg>Script...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
       <prop type="prev">If no text is selected, &lt;a1&gt;OmegaT&lt;/a1&gt; selects the word that contains the letter immediately to the right of the cursor.</prop>
       <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</prop>
       <tuv lang="EN">
@@ -79851,6 +80012,17 @@ a</seg>
     </tu>
     <tu>
       <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">The previous segment with a note will open.</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</prop>
+      <tuv lang="EN">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T211527Z" creationid="Melo46" creationdate="20150425T211527Z">
+        <seg>Fonte del Concordantia Seligite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
       <prop type="prev">Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</prop>
       <prop type="next">&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; (see text)</prop>
       <tuv lang="EN">
@@ -79858,6 +80030,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T222802Z" creationid="Melo46" creationdate="20150423T222802Z">
         <seg>Cambia le littera in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">Mark Auto-Populated Segments</prop>
+      <prop type="next">If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in /tm/auto for example) are displayed in colour.</prop>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T212411Z" creationid="Melo46" creationdate="20150425T212411Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
     </tu>
     <tu>
