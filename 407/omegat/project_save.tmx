@@ -21163,6 +21163,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T184706Z" creationid="Melo46" creationdate="20150425T184526Z">
+        <seg>?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customer ID = microsoft.api.client_id (needed to configure your Microsoft Translator access)&lt;br13/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T151109Z">
@@ -28997,6 +29005,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065031Z" creationid="MELO" creationdate="20131219T065031Z">
         <seg>If you distribute a large enough number of copies you must also follow the conditions in section 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T184407Z" creationid="Melo46" creationdate="20150425T184407Z">
+        <seg>In prime loco tu habera necessitate de registrar un conto Azure Marketplace, si tu non ha jam uno de illos.&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40383,6 +40399,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094706Z">
         <seg>Le previe contributores include:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T184631Z" creationid="Melo46" creationdate="20150425T184506Z">
+        <seg>?</seg>
       </tuv>
     </tu>
     <tu>
@@ -79642,6 +79666,28 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T164621Z" creationid="Melo46" creationdate="20150423T164621Z">
         <seg>Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/MachineTranslation.xml</prop>
+      <prop type="prev">If you do not already have an Azure Marketplace account you will need to register one first.</prop>
+      <prop type="next">Near the bottom you will see entries and values for:</prop>
+      <tuv lang="EN">
+        <seg>Click on the My Account option at the top of the page.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T184423Z" creationid="Melo46" creationdate="20150425T184423Z">
+        <seg>Clicca sur le option My Account al summitate del pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/MachineTranslation.xml</prop>
+      <prop type="prev">Click on the My Account option at the top of the page.</prop>
+      <prop type="next">Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</prop>
+      <tuv lang="EN">
+        <seg>Near the bottom you will see entries and values for:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T184447Z" creationid="Melo46" creationdate="20150425T184447Z">
+        <seg>Presso le fundo tu videra entratas e precios pro:</seg>
       </tuv>
     </tu>
     <tu>
