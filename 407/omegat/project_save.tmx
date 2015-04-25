@@ -5338,6 +5338,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dyandex.api.key=&lt;/e0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T184339Z" creationid="Melo46" creationdate="20150425T184339Z">
+        <seg>&lt;e0&gt;-Dyandex.api.key=&lt;/e0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;This command assigns more memory to &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T075613Z">
@@ -14384,6 +14392,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115542Z">
         <seg>ANTLR 3.4 (Licentia ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T184330Z" creationid="Melo46" creationdate="20150425T184330Z">
+        <seg>Le claves API pote esser requirite per un &lt;u0&gt;modulo de requesta de clave API &lt;/u0&gt;, e viste sur le pagina &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
     </tu>
     <tu>
