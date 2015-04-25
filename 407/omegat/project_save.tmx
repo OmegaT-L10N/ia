@@ -36141,6 +36141,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T183405Z" creationid="Melo46" creationdate="20150425T183405Z">
+        <seg>Nota que in Windows tu pote cambiar le file &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; pro reflecter tu preferentias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T082855Z">
@@ -56332,6 +56340,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T133727Z">
         <seg>Usa lo si OmegaT non synchronisa le contentos del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150425T183204Z" creationid="Melo46" creationdate="20150425T183204Z">
+        <seg>Usa le file &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; ubicate in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/Resources/Java/&lt;/e2&gt; pro lancear  &lt;a4&gt;OmegaT&lt;/a4&gt; ab le linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
