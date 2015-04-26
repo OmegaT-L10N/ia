@@ -19228,6 +19228,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091342Z" creationid="Melo46" creationdate="20150426T091342Z">
+        <seg> Cliccar sur &lt;g0&gt;Auto-texto...&lt;/g0&gt; pro configurar le optiones de Auto-texto e adder o remover entratas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150426T091145Z" creationid="Melo46" creationdate="20150426T091145Z">
@@ -21223,6 +21231,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T221033Z" creationid="Melo" creationdate="20141027T221033Z">
         <seg>Selection del Colores Personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom colours...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091510Z" creationid="Melo46" creationdate="20150426T091510Z">
+        <seg>Colores Personal...</seg>
       </tuv>
     </tu>
     <tu>
