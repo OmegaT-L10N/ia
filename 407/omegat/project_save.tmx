@@ -10868,6 +10868,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;S&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T015252Z" creationid="Melo46" creationdate="20150426T015252Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;S&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150425T211129Z" creationid="Melo46" creationdate="20150425T211129Z">
@@ -30577,6 +30585,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T015247Z" creationid="Melo46" creationdate="20150426T015247Z">
+        <seg>In le Editor, le translation es monstrate ut &lt;VACUE&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T063400Z">
@@ -30749,6 +30765,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T055820Z">
         <seg>Al mesme maniera, le usatores de applicationes CAT, includente OmegaT, que non possede Déjà Vu pote render files preparate per un usator de Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T015156Z" creationid="Melo46" creationdate="20150426T015156Z">
+        <seg>In le documento rendite, pro iste segmento apparera nil.</seg>
       </tuv>
     </tu>
     <tu>
