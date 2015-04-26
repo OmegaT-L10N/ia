@@ -36653,6 +36653,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T090151Z" creationid="Melo46" creationdate="20150426T090151Z">
+        <seg>Notar: le colores es personalisabile per le fenestra de dialogo &lt;g0&gt;Optiones / Colores personal...&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095240Z">
@@ -38971,8 +38979,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150425T213947Z" creationid="Melo46" creationdate="20150425T213947Z">
-        <seg>Aperi un cassa del dialogo ubi le location del scriptes pte esser preparate, e ubi le scriptes pote esser scripte, fluer e associate con un via breve (vider le &lt;l0&gt;Fenestra del scriptes&lt;/l0&gt;)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T090205Z" creationid="Melo46" creationdate="20150425T213947Z">
+        <seg>Aperi un cassa del dialogo ubi le location del scriptes pote esser preparate, e ubi le scriptes pote esser scripte, fluer e associate con un via breve (vider le &lt;l0&gt;Fenestra del scriptes&lt;/l0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
