@@ -50080,6 +50080,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T013645Z" creationid="Melo46" creationdate="20150426T013645Z">
+        <seg>Tu debe passar al lanceamento a OmegaT le clave API obtenite at startup con le parametro de linea de commando &lt;c0&gt;yandex.api.key&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The omegat folder contains the &lt;f0&gt;project_save.tmx&lt;/f0&gt; and possibly a number of backup TMX files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130326T071226Z">
