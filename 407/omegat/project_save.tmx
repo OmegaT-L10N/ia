@@ -21491,6 +21491,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T014429Z" creationid="Melo46" creationdate="20150426T014429Z">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T223225Z" creationid="MELO46" creationdate="20140108T213818Z">
@@ -31181,6 +31189,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T212442Z">
         <seg>Insere le melior concordantia partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T014332Z" creationid="Melo46" creationdate="20150426T014332Z">
+        <seg>Inserer sol un tag (sur le una perdite) al position del cursor.</seg>
       </tuv>
     </tu>
     <tu>
