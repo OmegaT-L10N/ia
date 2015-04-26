@@ -25589,8 +25589,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150426T085319Z" creationid="Melo46" creationdate="20150426T085319Z">
-        <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T085549Z" creationid="Melo46" creationdate="20150426T085319Z">
+        <seg>Pro le detalios, vider le &lt;u0&gt;Requestas Pro Meliorationes&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44523,10 +44523,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T085834Z" creationid="Melo46" creationdate="20150426T085834Z">
+        <seg>Prefixar illo a&lt;e1&gt; Omne le segmentos &lt;/e1&gt;monstrara iste information pro omne segmentos, e &lt;e2&gt;Necun&lt;/e2&gt; disactiva iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting it to&lt;e1&gt; All &lt;/e1&gt;shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T115834Z">
         <seg>Prefixar illo a&lt;e1&gt; Omne &lt;/e1&gt;monstra iste information pro omne segmentos e &lt;e2&gt;Necun&lt;/e2&gt; disactiva iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T085725Z" creationid="Melo46" creationdate="20150426T085725Z">
+        <seg>Prefixar le option Modification del Apparentia a &lt;e0&gt;Segmento currente&lt;/e0&gt; monstrara le tempore e le autor del ultime cambio in le segmento currente.</seg>
       </tuv>
     </tu>
     <tu>
