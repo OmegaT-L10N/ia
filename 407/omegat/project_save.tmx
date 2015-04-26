@@ -17156,6 +17156,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091011Z" creationid="Melo46" creationdate="20150426T091011Z">
+        <seg>Auto-completamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T211601Z" creationid="MELO46" creationdate="20140416T211601Z">
@@ -19216,6 +19224,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095407Z">
         <seg>Clicca sur le item '{0}' del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091145Z" creationid="Melo46" creationdate="20150426T091145Z">
+        <seg>Cliccar sur &lt;g0&gt;Glossario...&lt;/g0&gt; pro configurar le Vista del Glossario Auto-completator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47668,6 +47684,14 @@ vice essera usate le classificator actual.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130326T073749Z">
         <seg>Le plica /tm/ pote continer qualcunque numero de  memorias de traduction auxiliar - id es files tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T090940Z" creationid="Melo46" creationdate="20150426T090940Z">
+        <seg>Le 3 altere optiones es describite in le specific pagina reguardante &lt;l0&gt;TaaS&lt;/l0&gt; (Terminologia 'as' Servicio).</seg>
       </tuv>
     </tu>
     <tu>
