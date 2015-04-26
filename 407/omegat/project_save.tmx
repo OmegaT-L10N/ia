@@ -30329,6 +30329,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T013144Z" creationid="Melo46" creationdate="20150426T013144Z">
+        <seg>Al fin que tu usa Yandex Translate in OmegaT, tu necessita &lt;u0&gt;obtener un clave API ab Yandex&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T233734Z" creationid="MELO46" creationdate="20140106T233734Z">
