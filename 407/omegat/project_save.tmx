@@ -2590,8 +2590,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- ASCII text (.txt, etc.)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094616Z">
-        <seg>- texto ASCII (.txt, etc.)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054532Z">
+        <seg>- Texto ASCII (.txt, et cetera)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,8 +2670,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094618Z">
-        <seg>- files DTD (*.DTD)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054616Z">
+        <seg>- Files DTD (*.DTD)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,16 +2686,16 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- DocuWiki files (*.txt)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094618Z">
-        <seg>- files DocuWiki (*.txt)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054622Z">
+        <seg>- Files DocuWiki (*.txt)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>- Encoded text (*.UTF8)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094617Z">
-        <seg>- texto codificate (*.UTF8)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054540Z">
+        <seg>- Texto codificate (*.UTF8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,8 +2758,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- INI (key=value) files (*.ini)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094617Z">
-        <seg>- files INI (key=value) (*.ini)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054609Z">
+        <seg>- Files INI (key=value) (*.ini)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,8 +2806,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- Java resource bundles (*.properties)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094617Z">
-        <seg>- pacchettos  ressource Java (*.properties)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054557Z">
+        <seg>- Pacchettos de ressource Java (*.properties)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,16 +2886,16 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- PO files (*.po)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094617Z">
-        <seg>- files PO (*.po)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054603Z">
+        <seg>- Files PO (*.po)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>- Plain text file formats</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094616Z">
-        <seg>- formato de file in texto plan</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054502Z">
+        <seg>- Formatos de file de texto plan</seg>
       </tuv>
     </tu>
     <tu>
@@ -37939,8 +37939,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports the following file formats out of the box:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094616Z">
-        <seg>OmegaT supporta le formatos de file sequente:</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054417Z">
+        <seg>OmegaT supporta le sequente formatos de file:</seg>
       </tuv>
     </tu>
     <tu>
