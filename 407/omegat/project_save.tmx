@@ -15388,6 +15388,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows you to choose different colours for each part of the User Interface.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T144202Z" creationid="Melo46" creationdate="20150426T144202Z">
+        <seg>Permitte seliger colores differente pro cata parte del Interfacie del Usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T152436Z">
