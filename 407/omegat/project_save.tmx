@@ -2942,8 +2942,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- SubRip title files (*.srt)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094618Z">
-        <seg>- files titulo SubRip (*.srt)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054725Z">
+        <seg>- Files titulo SubRip (*.srt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38035,8 +38035,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will automatically parse even the most complex source folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T091927Z">
-        <seg>OmegaT analysara automaticamente etiam le plus complexe hierarchias de plica fonte, </seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054801Z">
+        <seg>OmegaT analysara automaticamente etiam le plus complexe hierarchias del plicas fonte </seg>
       </tuv>
     </tu>
     <tu>
@@ -66534,8 +66534,8 @@ a</seg>
       <tuv lang="EN">
         <seg>hierarchies, to access all the supported files, and produce a target folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140112T091946Z">
-        <seg>pro acceder omne files supportate, e produce un plica final</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T054900Z">
+        <seg>pro acceder omne le files supportate, e producer un plica de destination</seg>
       </tuv>
     </tu>
     <tu>
