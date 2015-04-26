@@ -47760,6 +47760,14 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; folder) in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T090628Z" creationid="Melo46" creationdate="20150426T090628Z">
+        <seg>Le option &lt;g0&gt;Monstra le Description Contextual pro le Glossaries TBX&lt;/g0&gt; permitte de exhibir o occultar le informationes contextual con le terminos (que veni ex glossarios TBX locate in le plica &lt;f1&gt;glossary&lt;/f1&gt; ) in quadro Glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T090004Z">
