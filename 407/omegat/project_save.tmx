@@ -51792,6 +51792,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T213633Z" creationid="Melo46" creationdate="20150426T213633Z">
+        <seg>Le parola o phrase es inscribite in le Cassa pro le Recerca automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The word or phrase is entered in the Search for box automatically.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T092603Z" creationid="MELO46" creationdate="20140106T230830Z">
@@ -57312,6 +57320,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using TaaS in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T213925Z" creationid="Melo46" creationdate="20150426T213925Z">
+        <seg>Usar TaaS in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Trados MultiTerm</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101320Z">
@@ -58188,6 +58204,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T145943Z" creationid="MELO46" creationdate="20140109T145943Z">
         <seg>Quando tu cerca per le files (al contrario al memorias de traduction), &lt;a0&gt;OmegaT&lt;/a0&gt; restringe le recerca al files in le formatos del file fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T213902Z" creationid="Melo46" creationdate="20150426T213902Z">
+        <seg>Quando tu cerca per le files (al contrario al memorias de traduction), OmegaT restringe le recerca al files in le formatos del file fonte.</seg>
       </tuv>
     </tu>
     <tu>
