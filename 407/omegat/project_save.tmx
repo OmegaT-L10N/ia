@@ -13948,6 +13948,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T211526Z" creationid="Melo46" creationdate="20150426T211526Z">
+        <seg>Un script prefixate denominate Cambia le Themas del Color supple un "obscur" base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T172436Z">
