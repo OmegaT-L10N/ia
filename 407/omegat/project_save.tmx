@@ -22123,6 +22123,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091630Z" creationid="Melo46" creationdate="20150426T091630Z">
+        <seg>Monstra le file log currente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095351Z">
@@ -32806,8 +32814,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Keyboard shortcuts</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102135Z">
-        <seg>Claviero,  vias breve</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091740Z">
+        <seg>Vias breve del Claviero</seg>
       </tuv>
     </tu>
     <tu>
@@ -49464,8 +49472,8 @@ classificator currente.</seg>
       <tuv lang="EN">
         <seg>The following shortcuts are available from the main window.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T221836Z">
-        <seg>Le vias breve sequente son disponibile ab le fenestra principal.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091759Z">
+        <seg>Le vias breve sequente son disponibile per le fenestra principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80150,6 +80158,17 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T222312Z" creationid="Melo46" creationdate="20150423T222312Z">
         <seg>Inserer fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/doc_src/en/Menu.xml</prop>
+      <prop type="prev">The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</prop>
+      <prop type="next">Keyboard shortcuts</prop>
+      <tuv lang="EN">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T091717Z" creationid="Melo46" creationdate="20150426T091717Z">
+        <seg>Vias breve del Claviero</seg>
       </tuv>
     </tu>
     <tu>
