@@ -15508,6 +15508,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T213548Z" creationid="Melo46" creationdate="20150426T213548Z">
+        <seg>Alias, in le Fenestra de Modifica, selige un parola o phrase in le campo de modifica (texto de destination del segmento currente) e pulsa &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T092541Z" creationid="MELO46" creationdate="20140109T092541Z">
@@ -38973,6 +38981,22 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102141Z">
         <seg>Aperir le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T213338Z" creationid="Melo46" creationdate="20150426T213338Z">
+        <seg>Aperi le Fenestra de Cerca e replacia con &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; e inscribe le parola o phrase que tu desidera pro recercar in le Cassa  &lt;e3&gt;pro le Recerca&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T213527Z" creationid="Melo46" creationdate="20150426T213527Z">
+        <seg>Aperi le Fenestra de Recerca con &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; e inscribe le parola o phrase que tu desidera pro recercar in le Cassa pro le Recerca.</seg>
       </tuv>
     </tu>
     <tu>
