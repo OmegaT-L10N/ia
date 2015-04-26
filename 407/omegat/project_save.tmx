@@ -29177,6 +29177,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemps to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T212648Z" creationid="Melo46" creationdate="20150426T212648Z">
+        <seg>Si tu decide in medio al traduction de cambiar de segmentation a phrase al segmentation a paragrapho, le memoria de traduction interne del projecto non essera cambiate (OmegaT pote promover vetule memorias de traduction que non usa segmentation a phrase, ma non vice versa), sed OmegaT tentara crear concordantia partial de paragrapho collante insimul traductiones de sententias existente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T211503Z">
