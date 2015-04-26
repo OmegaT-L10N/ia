@@ -13004,6 +13004,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting next missing tag&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T014119Z" creationid="Melo46" creationdate="20150426T014119Z">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserer le tag successive perdite&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting source tags&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T212611Z">
@@ -54336,6 +54344,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144805Z">
         <seg>To do so, attach the following notices to the program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do that edit OmegaT launcher or see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T013931Z" creationid="Melo46" creationdate="20150426T013931Z">
+        <seg>Modificar le lanceator de OmegaT o vider le capitulo &lt;l1&gt;Installar e Facer Fluer&lt;/l1&gt; pro apprender como lancear OmegaT per le linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
