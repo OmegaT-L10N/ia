@@ -21493,8 +21493,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Deletes the translation and set the segment as untranslated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150426T014429Z" creationid="Melo46" creationdate="20150426T014429Z">
-        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T014747Z" creationid="Melo46" creationdate="20150426T014429Z">
+        <seg>Deler le translation e poner le segmento como non rendite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41917,8 +41917,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remove Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150425T184947Z" creationid="Melo46" creationdate="20150425T184947Z">
-        <seg>Remove le traduction</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T014626Z" creationid="Melo46" creationdate="20150425T184947Z">
+        <seg>Remover le Traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -44221,8 +44221,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T144145Z">
-        <seg>Selige iste commando del menu, si le traduction currente non referer se e inscribe le traduction alternative.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T014606Z">
+        <seg>Seliger iste commando del menu, si le traduction currente non se referer se e inserer le traduction alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44405,8 +44405,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095452Z">
-        <seg>Fixa un traduction vacue</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T014806Z">
+        <seg>Fixar un traduction vacue</seg>
       </tuv>
     </tu>
     <tu>
