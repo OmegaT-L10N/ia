@@ -25587,6 +25587,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T085319Z" creationid="Melo46" creationdate="20150426T085319Z">
+        <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T220739Z">
@@ -39317,6 +39325,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T192619Z" creationid="MELO" creationdate="20131219T100956Z">
         <seg>Altere formatos del file texto simple o texto formattate commode pro lor processo in OmegaT pote alsi exister.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T085318Z" creationid="Melo46" creationdate="20150426T085318Z">
+        <seg>Altere traductiones, identificate specificamente in le memorias TMX, pote esser monstrate con colores differente.</seg>
       </tuv>
     </tu>
     <tu>
