@@ -49654,6 +49654,14 @@ classificator currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fuzzy matches can be also sorted in different ways (for displaying only; no influence on statistics).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150426T212043Z" creationid="Melo46" creationdate="20150426T212043Z">
+        <seg> Le Concordantias Partial pote esser ordinate in manieras differente (sol pro displicar; sin alcun influentia sur le statistica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The general principle is that you translate the text between tags and leave the tags untouched.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T150211Z">
