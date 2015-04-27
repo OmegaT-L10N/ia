@@ -1056,6 +1056,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051424Z" creationid="Melo46" creationdate="20150427T051424Z">
+        <seg>&amp;Insere le Concordantia o le Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095421Z">
@@ -19448,6 +19456,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T083512Z">
         <seg>Cliccar sur omne file aperira lo pro le traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051351Z" creationid="Melo46" creationdate="20150427T051351Z">
+        <seg>Cliccar sur qualcunque file aperira lo pro le traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -43995,6 +44011,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;e1&gt;Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051135Z" creationid="Melo46" creationdate="20150427T051135Z">
+        <seg>Vide le appendice &lt;e1&gt;Menu Principal&lt;/e1&gt; pro un description complete re omne le menus e le commandos del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T064633Z">
@@ -52286,6 +52310,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155835Z" creationid="MELO46" creationdate="20131226T155835Z">
         <seg>These actions infringe copyright if you do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051254Z" creationid="Melo46" creationdate="20150427T051254Z">
+        <seg>Istos es le files presente in le plica /source in un formato que OmegaT es habile a recognoscer.</seg>
       </tuv>
     </tu>
     <tu>
