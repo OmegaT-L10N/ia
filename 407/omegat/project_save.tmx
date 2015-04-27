@@ -48674,6 +48674,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T045536Z" creationid="Melo46" creationdate="20150427T045536Z">
+        <seg>Quando le segmento es lassate le fundo es restaurate a normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The bash script is a very basic file that can be edited manually with command-line options for launching and configuring OmegaT.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T104048Z">
