@@ -20109,6 +20109,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150427T071748Z" creationid="Melo" creationdate="20150427T071748Z">
+        <seg>Contine optiones pro monstrar informationes re le textos e le modificationes in manieras differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains the option to have all source segments in bold and to mark the first non-unique segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T200300Z">
@@ -49666,6 +49674,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T145013Z" creationid="Melo46" creationdate="20150423T145013Z">
         <seg>Le fenestra de dialogo permitte preparar le optiones sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150427T072133Z" creationid="Melo" creationdate="20150427T072133Z">
+        <seg>Le buxo de dialogo permitte alsi fixar commandos externe de Post-processo (que essera executate post le commando &lt;g0&gt;Crear le Documentos Traducite&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
