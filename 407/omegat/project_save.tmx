@@ -40651,6 +40651,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051031Z" creationid="Melo46" creationdate="20150427T051031Z">
+        <seg>Pulsar &lt;k0&gt;Ctrl+M&lt;/k0&gt; pro reimplaciar le traduction del segmento currente con le traduction automatic suggerite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T165754Z" creationid="MELO46" creationdate="20131219T165754Z">
@@ -69625,6 +69633,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141109T105209Z" creationid="Melo46" creationdate="20141102T061654Z">
         <seg>scientific (con LaTeX), le possibilitates es sin fin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>match percentage (taking into account tokenizers)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T050824Z" creationid="Melo46" creationdate="20150427T050824Z">
+        <seg>percentage de concordantia (tenente conto del tokenizers)</seg>
       </tuv>
     </tu>
     <tu>
