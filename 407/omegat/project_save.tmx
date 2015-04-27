@@ -51184,6 +51184,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T050510Z" creationid="Melo46" creationdate="20150427T050510Z">
+        <seg>Le solution in nostre exemplo es de copiar le memoria de traduction existente in le sub plica tm/tmx2source/ e renominar lo ZH_CN.tmx pro indicar le nove lingua de destination del TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The solution is simple, however: 'review'.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141107T222853Z" creationid="Melo46" creationdate="20141107T222853Z">
@@ -51642,8 +51650,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130822T155054Z">
-        <seg>Al traductor essera monstrate traductiones anglese pro le segmentos fonte in nederlandese e usa los pro crear le traduction chinese.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T050608Z">
+        <seg>Al traductor essera monstrate le traductiones anglese pro le segmentos fonte in nederlandese e usar los pro crear le traduction chinese.</seg>
       </tuv>
     </tu>
     <tu>
