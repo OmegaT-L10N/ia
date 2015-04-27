@@ -69088,11 +69088,35 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T081608Z" creationid="Melo46" creationdate="20150427T081608Z">
+        <seg>non essera copiate in le plica /target durante le processo de creation del files rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T081330Z" creationid="Melo46" creationdate="20150427T081330Z">
+        <seg>non essera monstrate in le quadro Edtor,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>is not logical and that's why they use it, then if they were certain they would have it written down somewhere where they were certain</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140427T130630Z" creationid="MELO46" creationdate="20140409T220354Z">
         <seg>non es logic: e id es le ration pro le qual illes usa lo, si illes esseva certe illes haberea scripte ubi illes esseva acertate.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T081426Z" creationid="Melo46" creationdate="20150427T081415Z">
+        <seg>non essera tenite in conto in le statisticas,</seg>
       </tuv>
     </tu>
     <tu>
