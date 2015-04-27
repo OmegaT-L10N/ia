@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15880,6 +15880,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T081249Z" creationid="Melo46" creationdate="20150427T081249Z">
+        <seg>Un file o un plica ignorate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065015Z" creationid="MELO" creationdate="20131219T065015Z">
@@ -19304,6 +19312,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T100357Z" creationid="MELO46" creationdate="20131224T100357Z">
         <seg>Clara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T081137Z" creationid="Melo46" creationdate="20150427T081137Z">
+        <seg>Cliccar sur &lt;g0&gt;Exclusiones...&lt;/g0&gt; pro definir le files o plicas que essera ignorate per &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
