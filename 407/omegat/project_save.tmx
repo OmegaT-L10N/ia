@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3526,8 +3526,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T170405Z">
-        <seg>...ma le mesme characteres es monstrate debitemente in le quadro pro Editar: le extension e le codification del file non concorda.</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150427T071012Z">
+        <seg>...ma le mesme characteres es monstrate debitemente in le quadro Editor: le extension e le codification del file non concorda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41242,8 +41242,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T165018Z">
-        <seg>Problema: In le quadro pro le Glossario, qualque characteres non es monstrate debitemente</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150427T071108Z">
+        <seg>Problema: in le quadro Glossario, qualque character non es monstrate debitemente</seg>
       </tuv>
     </tu>
     <tu>
