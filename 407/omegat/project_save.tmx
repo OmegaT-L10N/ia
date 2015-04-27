@@ -22382,6 +22382,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150427T072714Z" creationid="Melo" creationdate="20150427T072714Z">
+        <seg>Monstra le lista del nove functionalitates, meliorationes e reparationes del defectos pro cata nove edition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the project's settings for modification, if required.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T085328Z">
@@ -58920,6 +58928,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150426T213902Z" creationid="Melo46" creationdate="20150426T213902Z">
         <seg>Quando tu cerca per le files (al contrario al memorias de traduction), OmegaT restringe le recerca al files in le formatos del file fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, LanguageTool checks the translations, and underline potential issues in blue.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150427T072426Z" creationid="Melo" creationdate="20150427T072426Z">
+        <seg>Quando seligite, LanguageTool controla le traductiones, e sublinea le potential problemas in blau.</seg>
       </tuv>
     </tu>
     <tu>
