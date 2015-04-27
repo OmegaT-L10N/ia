@@ -48752,6 +48752,14 @@ vice essera usate le classificator actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Match Display Template area also allows changing how fuzzy matches are displayed, through the use of pre-configured variables.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150427T071604Z" creationid="Melo" creationdate="20150427T071604Z">
+        <seg>Le Area del Apparentia del Concordantia permitte alsi cambiar quomodo es monstrate le concordantias partial, per le uso de variabiles pre-configurate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Match Statistics are tab-separated and you can use &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; to copy/paste them, for instance into a spreadsheet or into your cost-accounting application.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T221206Z">
