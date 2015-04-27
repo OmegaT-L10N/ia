@@ -30921,6 +30921,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T050046Z" creationid="Melo46" creationdate="20150427T050046Z">
+        <seg>In iste caso le memoria de traduction NL-EN pote servir como un medio pro adjutar a generar le traduction de NL a ZH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL-ZH translation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T154641Z">
@@ -52130,8 +52138,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130822T154246Z">
-        <seg>Poterea esser le casos ubi tu ha facite un projecto con per exemplo fontes nederlandese, e un translation in anglese.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T050127Z">
+        <seg>Poterea esser le casos ubi tu ha facite un projecto con, per exemplo, fontes nederlandese, e un translation in anglese.</seg>
       </tuv>
     </tu>
     <tu>
