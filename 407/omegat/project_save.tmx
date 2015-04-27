@@ -640,6 +640,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051528Z" creationid="Melo46" creationdate="20150427T051528Z">
+        <seg>&amp;Applicar iste typo del character al datos tabular (files del projecto, statisticas, et cetera)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Apply this font to the Project Files window</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162544Z">
@@ -1636,6 +1644,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T121620Z">
         <seg>&amp;Valida le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate Tags...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051501Z" creationid="Melo46" creationdate="20150427T051501Z">
+        <seg>&amp;Validar le Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -15348,6 +15364,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051713Z" creationid="Melo46" creationdate="20150427T051713Z">
+        <seg>Permitte que le tags rendite es in un ordine di&amp;fferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T130141Z">
@@ -18324,6 +18348,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051600Z" creationid="Melo46" creationdate="20150427T051600Z">
+        <seg>C&amp;opiar Omne Datos al Tabula del fragmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130520T130912Z">
@@ -18776,6 +18808,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095343Z">
         <seg>Controla omne (&amp;all) le variabiles printf (e.g., %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051708Z" creationid="Melo46" creationdate="20150427T051708Z">
+        <seg>Controla le variabiles &amp;simple del function printf (e.g., %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19480,6 +19520,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T093826Z">
         <seg>Cliccar sur le texto in question displicara un cassa pro texto e marcas de formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051551Z" creationid="Melo46" creationdate="20150427T051551Z">
+        <seg>Clauder (Clo&amp;se)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20531,6 +20579,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051719Z" creationid="Melo46" creationdate="20150427T051719Z">
+        <seg>Contar le texto &amp;protegite e le tags personalisate in le statistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cover illustration is from &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt;, in the public domain.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T063002Z" creationid="MELO" creationdate="20131219T063002Z">
@@ -20543,6 +20599,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094802Z">
         <seg>Crea un entrata del &amp;Glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051449Z" creationid="Melo46" creationdate="20150427T051449Z">
+        <seg>Crear un Entrata del &amp;Glossario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22075,6 +22139,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051604Z" creationid="Melo46" creationdate="20150427T051604Z">
+        <seg>Monstra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T093439Z">
@@ -22263,6 +22335,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130517T090449Z">
         <seg>NON los includer in tu entratas real.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051718Z" creationid="Melo46" creationdate="20150427T051718Z">
+        <seg>Non permitter le creation de documentos rendite con quest&amp;iones de tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -22819,6 +22899,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051518Z" creationid="Melo46" creationdate="20150427T051518Z">
+        <seg>Segmentos Duplicate: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094630Z">
@@ -22903,6 +22991,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095021Z">
         <seg>Habilita (E&amp;nable) le segmentation al nivello del phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051602Z" creationid="Melo46" creationdate="20150427T051602Z">
+        <seg>E&amp;xclusiones...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24727,6 +24823,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100825Z">
         <seg>Optiones del filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051549Z" creationid="Melo46" creationdate="20150427T051549Z">
+        <seg>Filtrar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27569,6 +27673,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T095928Z" creationid="Melo" creationdate="20141026T095928Z">
         <seg>IGNORATE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051626Z" creationid="Melo46" creationdate="20150427T051626Z">
+        <seg>File de lingua ILIAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -31281,6 +31393,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051720Z" creationid="Melo46" creationdate="20150427T051720Z">
+        <seg>Inserer le Concordantia o le Selection In le Traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T213943Z">
@@ -31725,6 +31845,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135941Z">
         <seg>Inupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051741Z" creationid="Melo46" creationdate="20150427T051741Z">
+        <seg>Clave API Invalide</seg>
       </tuv>
     </tu>
     <tu>
@@ -35541,6 +35669,30 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051545Z" creationid="Melo46" creationdate="20150427T051545Z">
+        <seg>Move a basso (&amp;Down)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051543Z" creationid="Melo46" creationdate="20150427T051543Z">
+        <seg>Move al Primo (&amp;First)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051547Z" creationid="Melo46" creationdate="20150427T051547Z">
+        <seg>Move al Ultimo (&amp;Last)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095319Z">
@@ -36001,6 +36153,14 @@ interne al classificator de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T095749Z" creationid="Melo" creationdate="20141026T095749Z">
         <seg>Segmento Sequente Rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051455Z" creationid="Melo46" creationdate="20150427T051455Z">
+        <seg>Segmento Uni&amp;que Sequente</seg>
       </tuv>
     </tu>
     <tu>
@@ -41555,6 +41715,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051441Z" creationid="Melo46" creationdate="20150427T051441Z">
+        <seg>R&amp;eimplacia con le Concordantia o le Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T093844Z" creationid="MELO46" creationdate="20140228T093844Z">
@@ -42335,6 +42503,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095438Z">
         <seg>Reimplacia le traduction con le concordantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051721Z" creationid="Melo46" creationdate="20150427T051721Z">
+        <seg>Reimplaciar le Traduction con le Concordantia o le Selection</seg>
       </tuv>
     </tu>
     <tu>
@@ -44139,6 +44315,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051522Z" creationid="Melo46" creationdate="20150427T051522Z">
+        <seg>Segmento {0,numero,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T091808Z">
@@ -45055,6 +45239,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T123541Z">
         <seg>Simplifica le texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simplify tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051656Z" creationid="Melo46" creationdate="20150427T051656Z">
+        <seg>Simplificar le tooltips sur le partes protegite</seg>
       </tuv>
     </tu>
     <tu>
@@ -46914,6 +47106,22 @@ IS WITH YOU.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T121627Z">
         <seg>&amp;Validation del tags...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Process&amp;ing...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051513Z" creationid="Melo46" creationdate="20150427T051513Z">
+        <seg>Elaborat&amp;ion del Tags...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing Options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051700Z" creationid="Melo46" creationdate="20150427T051700Z">
+        <seg>Optiones del Processo del tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -52700,6 +52908,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This API key has been blocked</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051743Z" creationid="Melo46" creationdate="20150427T051743Z">
+        <seg>Iste clave API ha essite blocate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This General Public License does not permit incorporating your program into</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T093922Z" creationid="MELO46" creationdate="20140228T093922Z">
@@ -55788,6 +56004,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051555Z" creationid="Melo46" creationdate="20150427T051555Z">
+        <seg>Documento Rendite Create</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated documents created</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094953Z">
@@ -56504,6 +56728,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T063807Z">
         <seg>Le numeration unic permitte al tags, correspondente a cata altere, de esser regruppate insimul e distincte inter le tags que ha le mesme character de connexion, ma son de facto differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051535Z" creationid="Melo46" creationdate="20150427T051535Z">
+        <seg>Segmentos unic</seg>
       </tuv>
     </tu>
     <tu>
@@ -57596,6 +57828,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162202Z" creationid="MELO46" creationdate="20131219T162202Z">
         <seg>Valida Tags pro le Actual (&amp;Current) Documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for &amp;Current Document...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051507Z" creationid="Melo46" creationdate="20150427T051507Z">
+        <seg>Validar le Tags pro le Documento &amp;Currente</seg>
       </tuv>
     </tu>
     <tu>
@@ -59392,6 +59632,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051623Z" creationid="Melo46" creationdate="20150427T051623Z">
+        <seg>Folio de calculo XML 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XSLT is most often used to convert data between different XML schemas or to convert XML data into web pages or PDF documents.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130421T100709Z">
@@ -59460,6 +59708,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150425T183815Z" creationid="Melo46" creationdate="20150425T183815Z">
         <seg>Yandex Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051739Z" creationid="Melo46" creationdate="20150427T051739Z">
+        <seg>Yandex Translate - Nulle clave API Specificate</seg>
       </tuv>
     </tu>
     <tu>
@@ -65992,6 +66248,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135004Z">
         <seg>fij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150427T051611Z" creationid="Melo46" creationdate="20150427T051611Z">
+        <seg>nomines del files </seg>
       </tuv>
     </tu>
     <tu>
