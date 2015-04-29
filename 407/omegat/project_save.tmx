@@ -38132,6 +38132,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221023Z" creationid="Melo46" creationdate="20150429T221023Z">
+        <seg>Le lanceatores de configuration de OmegaT (OmegaT.l4J.ini, omegat.kaptn e OmegaT.sh) contine un modello entrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130805T195015Z">
@@ -50772,6 +50780,14 @@ classificator currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T204210Z">
         <seg>Le script Kaptain (o "grammatica", como le scriptes kaptain es terminate) habilita te a seliger le optiones del lanceamento e del configuration de un GUI facile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T220855Z" creationid="Melo46" creationdate="20150429T220855Z">
+        <seg>Le clave debe alora esser date a OmegaT usante -Dtaas.user.key=xxxxx.</seg>
       </tuv>
     </tu>
     <tu>
