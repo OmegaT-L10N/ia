@@ -1784,6 +1784,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173645Z" creationid="Melo46" creationdate="20150429T173645Z">
+        <seg>(+{0} more)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(1) assert copyright on the software, and (2) offer you this License</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155642Z" creationid="MELO46" creationdate="20131226T155642Z">
@@ -2600,6 +2608,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T085517Z">
         <seg>+49 209 94757413</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173852Z" creationid="Melo46" creationdate="20150429T173852Z">
+        <seg>+{0} more</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5634,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T170554Z" creationid="Melo46" creationdate="20150429T170554Z">
+        <seg>&lt;e0&gt;Monstrar: tote le segmentos concordante: &lt;/e0&gt;i marcate, tote le segmentos es monstrate uno per uno, etsi si illos es presente plure voce in mesme documento o in documentos differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T170926Z" creationid="Melo46" creationdate="20150429T170926Z">
+        <seg>&lt;e0&gt;Monstrar: nomines del files: &lt;/e0&gt;si marcate, le nomine del file ubi cata segmento es trovate es monstrate ante cata resultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T062423Z">
@@ -6010,6 +6042,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T171737Z" creationid="Melo46" creationdate="20150429T171737Z">
+        <seg>&lt;e0&gt;Recerca in le files: &lt;/e0&gt;recerca in un file singule o in un plica continente un collection de files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T171203Z" creationid="Melo46" creationdate="20150429T171203Z">
+        <seg>&lt;e0&gt;Cercar in le projecto&lt;/e0&gt;: marcar &lt;e1&gt;Memoria&lt;/e1&gt; pro includer le memoria de traduction del projecto (le file project_save.tmx) in le recherca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T120133Z">
@@ -6058,6 +6106,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T165714Z" creationid="Melo46" creationdate="20150429T165714Z">
+        <seg>&lt;e0&gt;Concorda spatio nbsp&lt;/e0&gt;: quando es marcate iste option, un character spatio del fila de recerca concorda sia un normal character de spatio que un character (\u00A) de spatio ininterrumpibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on: the &lt;br&gt;&lt;/e0&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T074023Z" creationid="MELO" creationdate="20131219T074023Z">
@@ -6098,6 +6154,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T165850Z" creationid="Melo46" creationdate="20150429T165850Z">
+        <seg>&lt;e0&gt;Rendite o non rendite: &lt;/e0&gt;recercar in ambe le segmentos rendite e non rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T170047Z" creationid="Melo46" creationdate="20150429T170047Z">
+        <seg>&lt;e0&gt;Rendite: &lt;/e0&gt;recercar sol in le segmentos rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subdirectories containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130309T121851Z">
@@ -6126,6 +6198,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150131T070854Z">
         <seg>&lt;e0&gt;Processo de traduction:&lt;/e0&gt; Figura te de deber traducer alique, a partir de un sol file usque a un plica continente sub-plicas, cata plica con plure files in plure formatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T170139Z" creationid="Melo46" creationdate="20150429T170139Z">
+        <seg>&lt;e0&gt;Non rendite: &lt;/e0&gt;recercar sol in le segmentos non rendite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6670,6 +6750,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T211127Z">
         <seg>&lt;html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173827Z" creationid="Melo46" creationdate="20150429T173827Z">
+        <seg>&lt;html&gt;&lt;i&gt;Optiones&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB pro avantiar&lt;/i&gt; es marcate&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14676,6 +14764,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T172531Z" creationid="Melo46" creationdate="20150429T172531Z">
+        <seg>Accesso al servicio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094104Z">
@@ -18932,6 +19028,22 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T171400Z" creationid="Melo46" creationdate="20150429T171400Z">
+        <seg>Marcar &lt;e2&gt;TMs&lt;/e2&gt; pro includer in le recerca le memorias de traduction ubicate in le plica  &lt;f3&gt;tm&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T171553Z" creationid="Melo46" creationdate="20150429T171553Z">
+        <seg>Marcar &lt;e4&gt;Glossarios&lt;/e4&gt; pro includer in le recerca le glossarios ubicate in le plica &lt;f5&gt;glossary&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T090022Z">
@@ -19572,6 +19684,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T165211Z" creationid="Melo46" creationdate="20150429T165211Z">
+        <seg>Cliccar le flecha a cadita del cassa &lt;e0&gt;Recercar pro&lt;/e0&gt; al fin de acceder al ultime 10 recerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click “Install” and you will be given a list of many possible dictionaries (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130331T212952Z">
@@ -19795,6 +19915,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="IA" changeid="MELO46" changedate="20131219T165139Z" creationid="MELO46" creationdate="20131219T165139Z">
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173625Z" creationid="Melo46" creationdate="20150429T173625Z">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -28534,6 +28664,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T164937Z" creationid="Melo46" creationdate="20150429T164937Z">
+        <seg>Si le segmento de destination non ha essite replaciate, le destination essera “vacuate”, id es, illo remanera non rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T213335Z">
@@ -32114,6 +32252,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T141427Z">
         <seg>Systema de revision del questiones/defectos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T172411Z" creationid="Melo46" creationdate="20150429T172411Z">
+        <seg>Illo permitte accesso sia al datos public e private, ubi le glossarios private (denominate "collectiones") pote esser extrahite ex le documentos xistente, e le terminos de destination in parte populate automaticamente ex fontes varie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39600,8 +39746,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130630T110853Z">
-        <seg>Le apertura del manual del usator in iste maniera habilita te alsi a sequer ligamines externe, a mesura que le Lector del Adjuta integrate non accepta ligamines externe de Interrete.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173443Z">
+        <seg>Le apertura del manual del usator in iste maniera habilita te alsi a sequer ligamines externe, tal que le Lector del adjuta integrate non accepta ligamines externe de Rete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41328,6 +41474,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T172718Z" creationid="Melo46" creationdate="20150429T172718Z">
+        <seg>Le collectiones private es displicate in nigrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T090855Z">
@@ -41916,6 +42070,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141342Z">
         <seg>Pāli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q: Bonjour</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173924Z" creationid="Melo46" creationdate="20150429T173924Z">
+        <seg>Q: Bonjour</seg>
       </tuv>
     </tu>
     <tu>
@@ -49018,8 +49180,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The Project Files Window displays the following information:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130706T064630Z">
-        <seg>Le fenestra Files del Projecto monstra le information sequente:</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173037Z">
+        <seg>Le fenestra Files del projecto monstra le information sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49126,6 +49288,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T212123Z">
         <seg>Le standard TMX existe in differente &lt;s0&gt;versiones&lt;/s0&gt; e in differente &lt;s1&gt;nivellos&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T171959Z" creationid="Melo46" creationdate="20150429T171959Z">
+        <seg>Le servicio TaaS al sito https://demo.taas-project.eu/info supple servicios de terminologia in  le linguas europee (plus russo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54556,6 +54726,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173214Z" creationid="Melo46" creationdate="20150429T173214Z">
+        <seg>Iste numero es monstrate in parentheses, proxime al titulo  del "File del projecto" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This operation will affect {0} segments and cannot be undone.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T092208Z">
@@ -55690,6 +55868,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T154332Z">
         <seg>Pro render traduction base un traduction alternative, clicca con le dextero con le mouse e selige "Usa como translation base".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T164618Z" creationid="Melo46" creationdate="20150429T164618Z">
+        <seg>Pro render lo possibile (ben que Cerca e replacia opera sol in memoria), OmegaT copiara le segmento fonte al destination ante que occurre le operation replacia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69681,6 +69867,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>juniversalchardet-1.0.3.jar (GPL)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173642Z" creationid="Melo46" creationdate="20150429T173642Z">
+        <seg>juniversalchardet-1.0.3.jar (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>just a couple of things right: if those generators had been in underground bunkers higher up with wires underground dedicated to the pumps,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140505T180444Z" creationid="MELO46" creationdate="20140505T180444Z">
@@ -75570,6 +75764,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173018Z" creationid="Melo46" creationdate="20150429T173018Z">
+        <seg>le numero total del files traducibile in le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the translation memory - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T124934Z">
@@ -81441,6 +81643,16 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150426T123705Z" creationid="Melo46" creationdate="20150426T123705Z">
         <seg>Generalitates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.4_L10N_Full/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">version-template</prop>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T173842Z" creationid="Melo46" creationdate="20150429T173842Z">
+        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
