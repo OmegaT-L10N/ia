@@ -38030,8 +38030,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150429T220524Z" creationid="Melo46" creationdate="20150429T220432Z">
-        <seg>OmegaT permitte acceder le public part of TaaS without any registration.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T220624Z" creationid="Melo46" creationdate="20150429T220432Z">
+        <seg>OmegaT permitte acceder le parte public de TaaS sin ulle registration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55330,6 +55330,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150423T201423Z" creationid="Melo46" creationdate="20150423T012930Z">
         <seg>Pro acceder &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt;, cliccar con le dextero sur &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; e seliger "monstrar le contentos del pacchetto", tunc aperir le file in Contents/MacOS cliccante con le dextero sur lo e seliger le editor de texto preferite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T220801Z" creationid="Melo46" creationdate="20150429T220801Z">
+        <seg>Pro acceder Le parte private, un usator debe crear un clave usante https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
     </tu>
     <tu>
