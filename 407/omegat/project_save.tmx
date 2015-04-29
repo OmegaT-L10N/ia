@@ -24834,8 +24834,8 @@ project_save.tmx non ha essite vermente cargate e SVN commutava in stato instabi
       <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095023Z">
-        <seg>Locationes del files</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T064549Z">
+        <seg>Positiones del files</seg>
       </tuv>
     </tu>
     <tu>
@@ -53812,6 +53812,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T064455Z" creationid="Melo46" creationdate="20150429T064455Z">
+        <seg>Iste commandos externe non pote includer "pipes", etc., que es perque es recommendate appellar un script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T070544Z">
@@ -68340,6 +68348,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150425T212144Z" creationid="Melo46" creationdate="20150425T212144Z">
         <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T064633Z" creationid="Melo46" creationdate="20150429T064633Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
       </tuv>
     </tu>
     <tu>
