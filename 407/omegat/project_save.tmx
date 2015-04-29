@@ -5618,6 +5618,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221721Z" creationid="Melo46" creationdate="20150429T221721Z">
+        <seg>&lt;e0&gt;Navigar per le collectiones TaaS&lt;/e0&gt; permittera le navigation inter le existe collectiones pro le linguas fonte e destination del projecto, e discargar los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150429T070534Z" creationid="Melo46" creationdate="20150429T070534Z">
@@ -6134,6 +6142,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T095758Z" creationid="MELO" creationdate="20131219T095758Z">
         <seg>&lt;e0&gt;Comencia un nove paragrapho sur: le tag HTML &lt;br&gt;&lt;/e0&gt; constituera un paragrapho pro le fines de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221740Z" creationid="Melo46" creationdate="20150429T221740Z">
+        <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15408,6 +15424,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T084824Z">
         <seg>Si toto vade ben, tu traduction venira foras con le mesme apparentia del original, ma rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221753Z" creationid="Melo46" creationdate="20150429T221753Z">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49740,6 +49764,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221733Z" creationid="Melo46" creationdate="20150429T221733Z">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The colours are displayed as long as the "Save auto-populated status" (in Options/Editing behaviour..) option is checked.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150425T212814Z" creationid="Melo46" creationdate="20150425T212814Z">
@@ -55916,6 +55948,14 @@ non pote esser determinate con bastante confidentia.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T220400Z" creationid="Melo46" creationdate="20150423T220400Z">
         <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221804Z" creationid="Melo46" creationdate="20150429T221804Z">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
