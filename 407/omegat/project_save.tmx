@@ -53524,6 +53524,14 @@ non pote esser determinate con bastante confidentia.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T064239Z" creationid="Melo46" creationdate="20150429T064239Z">
+        <seg>Iste area permitte scriber un commando externe post-processo (per exemplo, un script pro renominar le files) que essera applicate cata vice que es usate Crear le documentos rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This aspect makes it especially useful for repetitive material.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131220T025201Z">
