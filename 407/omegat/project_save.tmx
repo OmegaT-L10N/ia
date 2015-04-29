@@ -19556,6 +19556,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;e0&gt;Options, Glossary&lt;/e0&gt; to display the following options:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221418Z" creationid="Melo46" creationdate="20150429T221418Z">
+        <seg>Cliccar sur &lt;e0&gt;Optiones, glossario&lt;/e0&gt; pro monstrar le optiones sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150426T091342Z" creationid="Melo46" creationdate="20150426T091342Z">
@@ -59178,6 +59186,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140107T133946Z">
         <seg>Quando un regula es discatenate, le phrase correspondente essera sublineate in azur in le Editor (vide &lt;e1&gt;also &lt;/e1&gt;e &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in le imagine precedente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T221229Z" creationid="Melo46" creationdate="20150429T221229Z">
+        <seg>Quando on accede al servicio sin un clave private, essera mittite in le log le message sequente: Clave API del TaaS non trovate.</seg>
       </tuv>
     </tu>
     <tu>
