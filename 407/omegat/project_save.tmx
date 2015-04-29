@@ -23800,6 +23800,14 @@ project_save.tmx non ha essite vermente cargate e SVN commutava in stato instabi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T065435Z" creationid="Melo46" creationdate="20150429T065435Z">
+        <seg>Scriber le nove parola o phrase (le expressiones regular non es supportate) in le cassa &lt;e0&gt;Replacia con&lt;/e0&gt;, pois clicca un del optiones sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094923Z">
