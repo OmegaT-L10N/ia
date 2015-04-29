@@ -5978,6 +5978,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T065810Z" creationid="Melo46" creationdate="20150429T065810Z">
+        <seg>&lt;e0&gt;Replacia toto:&lt;/e0&gt; opera le replaciamento de tote le occurrentias (post displicate un fenestra de confirmation ubi es monstrate le numero de occurrentias).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Sample text:&lt;/e0&gt; field for immediate preview of the selected font</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T173407Z">
