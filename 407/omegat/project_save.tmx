@@ -5986,6 +5986,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T070112Z" creationid="Melo46" creationdate="20150429T070112Z">
+        <seg>&lt;e0&gt;Replacia:&lt;/e0&gt; opera un replaciamento "uno a uno", per le buttones in le &lt;e1&gt;testa del quadro Editor&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Sample text:&lt;/e0&gt; field for immediate preview of the selected font</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T173407Z">
