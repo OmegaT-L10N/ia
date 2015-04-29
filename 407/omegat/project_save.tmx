@@ -24312,6 +24312,14 @@ project_save.tmx non ha essite vermente cargate e SVN commutava in stato instabi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T071407Z" creationid="Melo46" creationdate="20150429T071407Z">
+        <seg>Excepte uno: controla &lt;e0&gt;Non rendite&lt;/e0&gt; pro operar Cerca e replacia et sur segmentos que non ha essite ja rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095238Z">
