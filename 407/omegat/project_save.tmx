@@ -38028,6 +38028,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T220524Z" creationid="Melo46" creationdate="20150429T220432Z">
+        <seg>OmegaT permitte acceder le public part of TaaS without any registration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T114733Z" creationid="Melo46" creationdate="20150423T114733Z">
@@ -42046,6 +42054,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160209Z" creationid="MELO46" creationdate="20131226T160209Z">
         <seg>Public License instead of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Public and private collections</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150429T220405Z" creationid="Melo46" creationdate="20150429T220405Z">
+        <seg>Collectiones public e private</seg>
       </tuv>
     </tu>
     <tu>
