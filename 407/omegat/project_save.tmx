@@ -50908,16 +50908,16 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The level1 file contains only textual information.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130326T072505Z">
-        <seg>Le file level1 contine sol information textual.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T202314Z">
+        <seg>Le file level1 contine sol informationes textual.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The level2 file encapsulates &lt;a0&gt;OmegaT&lt;/a0&gt; specific tags in correct tmx tags so that the file can be used with its formatting information in a translation tool that supports tmx level 2 memories, or &lt;a1&gt;OmegaT&lt;/a1&gt; itself.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130326T073344Z">
-        <seg>Le file level2 incapsula specific tags &lt;a0&gt;OmegaT&lt;/a0&gt; in correcte tags tmx a fin que on pote usar le file  con su information de formato in un instrumento de traduction que supporta memorias tmx nivello 2, o ipse &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T202545Z">
+        <seg>Le file level2 incapsula le tags specific de &lt;a0&gt;OmegaT&lt;/a0&gt; in tags tmx correcte al fin que on potera usar iste file, con su information de formato, in un application de traduction que supporta memorias tmx de nivello 2, o in &lt;a1&gt;OmegaT&lt;/a1&gt; mesme.</seg>
       </tuv>
     </tu>
     <tu>
