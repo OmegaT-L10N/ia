@@ -31312,6 +31312,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;e0&gt;mt&lt;/e0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T204544Z" creationid="Melo46" creationdate="20150430T204544Z">
+        <seg>In le quadro del Modifica, quando un concordantia es inserite per un TMX continite in un plica nominate &lt;e0&gt;mt&lt;/e0&gt;, le fundo del segmento active es cambiate in rubre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the end, the whole point that comes out of the movie is (that) nuclear is good for global warming because we can combat global warming by building more nuclear power.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140505T215403Z" creationid="MELO46" creationdate="20140412T065005Z">
@@ -58152,6 +58160,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T173636Z">
         <seg>Utilisate pro aperir le  fenestra  con le statisticas del projecto, monstra los, usante &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Instrumentos&lt;/g1&gt; &lt;g3&gt;Statisticas.&lt;/g3&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T204607Z" creationid="Melo46" creationdate="20150430T204607Z">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
