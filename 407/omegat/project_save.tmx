@@ -4788,8 +4788,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; projects can have translation memory files - i.e. files with the extension tmx - in five different places:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T061453Z">
-        <seg>Le projectos &lt;a0&gt;OmegaT&lt;/a0&gt; pote detener files memoria de traduction - id es files con le extension tmx - in cinque distincte locos:</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T202127Z">
+        <seg>Le projectos &lt;a0&gt;OmegaT&lt;/a0&gt; pote tener le files memoria de traduction - id es files con le extension tmx - in cinque distincte locos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,8 +13414,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Project main folder&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102708Z">
-        <seg>&lt;p0&gt;Memorias de traduction&lt;/p0&gt; &lt;s1&gt;Classificator principal del projecto&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T202141Z">
+        <seg>&lt;p0&gt;Memorias de traduction&lt;/p0&gt; &lt;s1&gt;Plica principal del projecto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51068,8 +51068,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The main project folder contains 3 tmx files, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; and &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name being the name of your project).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130326T072416Z">
-        <seg>Le classificator principal del projecto contine 3 files tmx, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; e &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name es le nomine de tu projecto).</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T202228Z">
+        <seg>Le plica principal del projecto contine 3 files tmx, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; e &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name es le nomine de tu projecto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70773,8 +70773,8 @@ a</seg>
       <tuv lang="EN">
         <seg>main project folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102709Z">
-        <seg>classificator principal del projecto</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T202159Z">
+        <seg>plica principal del projecto</seg>
       </tuv>
     </tu>
     <tu>
