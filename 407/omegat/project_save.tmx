@@ -29896,6 +29896,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T201812Z" creationid="Melo46" creationdate="20150430T201812Z">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have not already done so, add the Developer tab to the ribbon as follows: click on the Office button.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T065424Z">
@@ -56938,8 +56946,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>Translation memories in OmegaT</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102704Z">
-        <seg>Memorias de traduction in OmegaT</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T201915Z">
+        <seg>Le memorias de traduction in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -76367,8 +76375,8 @@ a</seg>
       <tuv lang="EN">
         <seg>tmx folders - location and purpose</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130326T070419Z">
-        <seg>Le plicas pro le tmx - ubication e proposito</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150430T201939Z">
+        <seg>Le plicas pro le tmx - ubication e propositos</seg>
       </tuv>
     </tu>
     <tu>
