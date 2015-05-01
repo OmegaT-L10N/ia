@@ -46389,8 +46389,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Some tag scenarios flagged in the tag validation window are necessary and are benign, others will cause problems when the translated document is created.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130630T173801Z">
-        <seg>Alicun scenarios de tag languite in le fenestra de validation del tag es necessari e benigne, alteres producera problemas quando es create le documento rendite.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T063112Z">
+        <seg>Alicun scenarios le tag displicate in le fenestra de validation del tag es necessari e benigne, alteres producera problemas quando essera create le documento rendite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52236,8 +52236,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="EN">
         <seg>The statistics window - accessed via &lt;e0&gt;Tools&gt;Statistics &lt;/e0&gt;- shows the statistics of the current OmegaT project, both in the summary form as well as in detail for every file to be translated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130630T174721Z">
-        <seg>Le fenestra del statisticas - accedite con &lt;e0&gt;Instrumentos&gt;Statisticas &lt;/e0&gt;- monstra le statisticas del projecto OmegaT actual, sia in le forma summario sia in detalio pro cata file a traducer.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T063251Z">
+        <seg>Le fenestra del statisticas - accedite via &lt;e0&gt;Instrumentos&gt;Statisticas &lt;/e0&gt;- monstra le statisticas del projecto OmegaT actual, sia in le forma summario sia in detalio pro cata file a traducer.</seg>
       </tuv>
     </tu>
     <tu>
