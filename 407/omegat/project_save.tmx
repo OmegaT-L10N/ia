@@ -44837,8 +44837,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T144923Z">
-        <seg>Vide le capitulo &lt;e0&gt;Regulas de segmentation&lt;/e0&gt;pro plus de information.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T062342Z">
+        <seg>Vider le capitulo &lt;e0&gt;Regulas de segmentation&lt;/e0&gt;pro plus de informationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48812,8 +48812,8 @@ vice essera usate le classificator actual.</seg>
       <tuv lang="EN">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T185830Z">
-        <seg>Le file &lt;f0&gt;project_stats.txt&lt;/f0&gt; ubicate in le plica omegat de tu projecto, contine information plus detaliate re le segmentos, partite per cata file.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T062212Z">
+        <seg>Le file &lt;f0&gt;project_stats.txt&lt;/f0&gt; ubicate in le plica omegat de tu projecto, contine informationes plus detaliate re le segmentos, partite per cata file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55256,8 +55256,8 @@ non pote esser determinate con bastante confidentia.</seg>
       <tuv lang="EN">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T190336Z">
-        <seg>Isto, comocunque, deberea generalmente esser evitate un vice que tu initiava le traduction del projecto.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T062246Z">
+        <seg>Isto, comocunque, deberea generalmente esser evitate un vice que tu ha initiate le traduction del projecto.</seg>
       </tuv>
     </tu>
     <tu>
