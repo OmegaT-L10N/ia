@@ -37476,6 +37476,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T061421Z" creationid="Melo46" creationdate="20150501T061421Z">
+        <seg>Nota: le nomines del files (in le prime columna) can esser ordinate alphabeticamente cliccante in le titulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095240Z">
