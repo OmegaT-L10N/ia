@@ -20802,8 +20802,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Correct the error if necessary and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130630T173319Z">
-        <seg>Corriger le error si necesse e calca &lt;g0&gt;Ctrl+T&lt;/g0&gt; pro retornar al fenestra de validation del tag pro corriger altere errores.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T062815Z">
+        <seg>Corriger le error si necesse e calca &lt;g0&gt;Ctrl+T&lt;/g0&gt; pro retornar al fenestra de validation del tag e corriger altere errores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47826,8 +47826,8 @@ IS WITH YOU.</seg>
       <tuv lang="EN">
         <seg>Tag errors are cases in which the tags in the translation do not correspond in order and number to the original segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T225347Z">
-        <seg>le errores de tag es casos in le qual le tags in le traduction non corresponde in ordine e numero al segmento original.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150501T062922Z">
+        <seg>le errores de tag es le casos in le qual le tags in le traduction non corresponde in ordine e numero al segmento original.</seg>
       </tuv>
     </tu>
     <tu>
