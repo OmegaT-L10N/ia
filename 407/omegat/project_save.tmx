@@ -11036,6 +11036,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074211Z" creationid="Melo" creationdate="20150609T074211Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150425T211530Z" creationid="Melo46" creationdate="20150425T211530Z">
@@ -11056,6 +11064,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T221117Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074157Z" creationid="Melo" creationdate="20150609T074157Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23072,6 +23088,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074135Z" creationid="Melo" creationdate="20150609T074135Z">
+        <seg>Discarga un pagina MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download OmegaT</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T141338Z">
@@ -23092,6 +23116,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T051926Z">
         <seg>Discarga Projecto de Equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073956Z" creationid="Melo" creationdate="20150609T073956Z">
+        <seg>Discarga un  projecto de equipa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39828,6 +39860,14 @@ tu plica base.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T134135Z">
         <seg>Aperi le vista&lt;e0&gt; Projects&lt;/e0&gt; pro tu conto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074017Z" creationid="Melo" creationdate="20150609T074017Z">
+        <seg>Aperi...</seg>
       </tuv>
     </tu>
     <tu>
