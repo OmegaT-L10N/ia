@@ -21720,6 +21720,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073734Z" creationid="Melo" creationdate="20150609T073734Z">
+        <seg>ID personal (corresponde al parametro de linea de commando &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customer ID = microsoft.api.client_id (needed to configure your Microsoft Translator access)&lt;br13/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T151109Z">
@@ -36612,6 +36620,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073909Z" creationid="Melo" creationdate="20150609T073909Z">
+        <seg>Nove...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T210743Z">
@@ -41516,8 +41532,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150609T073524Z" creationid="Melo46" creationdate="20150425T184506Z">
-        <seg>Clave del conto primari (corresponde a &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt; command-line parameter)</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073844Z" creationid="Melo46" creationdate="20150425T184506Z">
+        <seg>Clave del conto primari (corresponde al parametro de linea de commando &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; )</seg>
       </tuv>
     </tu>
     <tu>
