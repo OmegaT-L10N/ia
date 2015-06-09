@@ -1424,6 +1424,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T075227Z" creationid="Melo" creationdate="20150609T075227Z">
+        <seg>&amp;Salva como...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150427T051853Z" creationid="Melo46" creationdate="20150427T051853Z">
@@ -1644,6 +1652,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095430Z">
         <seg>Mai&amp;Uscola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T075333Z" creationid="Melo" creationdate="20150609T075333Z">
+        <seg>&amp;Usa le terminos que appare separate in le texto fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -58204,6 +58220,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use stemming for &amp;glossary entries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T075423Z" creationid="Melo" creationdate="20150609T075423Z">
+        <seg>Usa le cerca del stirpe pro le entratas del &amp;glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150425T183204Z" creationid="Melo46" creationdate="20150425T183204Z">
@@ -78418,6 +78442,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T083756Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T075520Z" creationid="Melo" creationdate="20150609T075520Z">
+        <seg>{0} ({1} restante) / {2} ({3} restante), {4}</seg>
       </tuv>
     </tu>
     <tu>
