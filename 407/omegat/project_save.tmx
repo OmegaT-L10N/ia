@@ -10940,6 +10940,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074344Z" creationid="Melo" creationdate="20150609T074344Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T213448Z">
@@ -11036,6 +11044,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074320Z" creationid="Melo" creationdate="20150609T074320Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074336Z" creationid="Melo" creationdate="20150609T074336Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150609T074211Z" creationid="Melo" creationdate="20150609T074211Z">
@@ -11080,6 +11104,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150426T015252Z" creationid="Melo46" creationdate="20150426T015252Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;S&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074300Z" creationid="Melo" creationdate="20150609T074300Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31856,6 +31888,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074252Z" creationid="Melo" creationdate="20150609T074252Z">
+        <seg>Insere le tags fonte mancante </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T102415Z">
@@ -45203,6 +45243,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074541Z" creationid="Melo" creationdate="20150609T074541Z">
+        <seg>Selige le concordantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T102636Z">
@@ -47563,6 +47611,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T053026Z">
         <seg>Cambia Character a Majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074513Z" creationid="Melo" creationdate="20150609T074513Z">
+        <seg>Commuta inter majuscula e minuscula</seg>
       </tuv>
     </tu>
     <tu>
