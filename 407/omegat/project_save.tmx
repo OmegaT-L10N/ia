@@ -19668,6 +19668,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the My Account option at the top of the page.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073207Z" creationid="Melo" creationdate="20150609T073207Z">
+        <seg>Cliccar sur le option My Account al summitate del pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T123752Z">
@@ -44287,6 +44295,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130325T210614Z">
         <seg>Plugin Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073100Z" creationid="Melo" creationdate="20150609T073100Z">
+        <seg>Scripts</seg>
       </tuv>
     </tu>
     <tu>
