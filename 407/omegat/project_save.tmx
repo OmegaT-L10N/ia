@@ -16688,6 +16688,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T080033Z" creationid="Melo" creationdate="20150609T080033Z">
+        <seg>Desira tu vermente reinitiar tote le colores personal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140124T234155Z">
@@ -21668,6 +21676,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T000217Z">
         <seg>Ctrl+Shift+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T080114Z" creationid="Melo" creationdate="20150609T080114Z">
+        <seg>Ctrl+Shift+O commuta le orientation inter LTR, RTL e dependente del lingua</seg>
       </tuv>
     </tu>
     <tu>
