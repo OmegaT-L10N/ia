@@ -16160,6 +16160,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T080439Z" creationid="Melo" creationdate="20150609T080439Z">
+        <seg>Un elemento nominate "{0}" ja existe in iste location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An online dictionary management tool that integrates with Omegat.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T065541Z">
@@ -23356,6 +23364,38 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055730Z">
         <seg>Traina e lassa cader &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; in le Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T080318Z" creationid="Melo" creationdate="20150609T080318Z">
+        <seg>Face cader le files TMX ci pro adder los al projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T080411Z" creationid="Melo" creationdate="20150609T080411Z">
+        <seg>Face cader un projecto ci pro aperir lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T080249Z" creationid="Melo" creationdate="20150609T080249Z">
+        <seg>Face cader le files ci pro adder los al projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T080303Z" creationid="Melo" creationdate="20150609T080303Z">
+        <seg>Face cader le files glossario ci pro adder los al projecto.</seg>
       </tuv>
     </tu>
     <tu>
