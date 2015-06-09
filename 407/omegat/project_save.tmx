@@ -36556,6 +36556,14 @@ interne al classificator de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Near the bottom you will see entries and values for:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073326Z" creationid="Melo" creationdate="20150609T073326Z">
+        <seg>Presso le base tu videra le entratas e le valores pro le:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nepali</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141137Z">
@@ -41508,8 +41516,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150425T184631Z" creationid="Melo46" creationdate="20150425T184506Z">
-        <seg>?</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T073524Z" creationid="Melo46" creationdate="20150425T184506Z">
+        <seg>Clave del conto primari (corresponde a &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
     </tu>
     <tu>
