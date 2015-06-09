@@ -46755,6 +46755,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074617Z" creationid="Melo" creationdate="20150609T074617Z">
+        <seg>Fonte del concordantia seligite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source of the work are being offered to the general public at no</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144641Z">
@@ -68662,6 +68670,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T065313Z">
         <seg>http://projectlocker.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150609T074633Z" creationid="Melo" creationdate="20150609T074633Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
     </tu>
     <tu>
