@@ -79046,6 +79046,26 @@ a</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">LICENSEDIALOG_PREFACE</prop>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150611T225911Z" creationid="Melo" creationdate="20150611T225911Z">
+        <seg>???????.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">LICENSEDIALOG_PREFACE</prop>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo" changedate="20150611T225754Z" creationid="Melo" creationdate="20150611T225754Z">
+        <seg>Iste programma es un software libere; tu pote redistribuer lo e/o modificar lo sub le terminos del GNU General Public License como edite per le Free Software Foundation; sia le version 3 del Licentia, sia (a tu option) cata version successive.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Convention on the Rights of the Child.docx</prop>
       <prop type="prev">Have agreed as follows:</prop>
       <prop type="next">Article 1</prop>
