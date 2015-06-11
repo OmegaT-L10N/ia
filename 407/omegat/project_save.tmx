@@ -21794,8 +21794,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T171448Z">
-        <seg>Le uso actual de memoria per le Memoria Virtual es: {0}MB; del qual, memoria libere: {1}MB; maximal disponibile: {2}MB;</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20150611T224742Z">
+        <seg>Le uso actual de memoria per le Memoria Virtual es: {0}MB; del qual, memoria libere: {1}MB; maxime disponibile: {2}MB;</seg>
       </tuv>
     </tu>
     <tu>
