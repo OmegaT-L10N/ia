@@ -1048,6 +1048,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170430Z" creationid="ia" creationdate="20170909T170430Z">
+        <seg>Activar (&amp;Enable) le completamento del chronologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095211Z">
@@ -1739,6 +1747,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151009T161520Z" creationid="Melo46" creationdate="20151009T161520Z">
+        <seg>Mon&amp;Strar automaticamente le suggestiones pertinente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170243Z" creationid="ia" creationdate="20170909T170243Z">
         <seg>Mon&amp;Strar automaticamente le suggestiones pertinente</seg>
       </tuv>
     </tu>
@@ -18626,6 +18642,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170331Z" creationid="ia" creationdate="20170909T170331Z">
+        <seg>Auto-completamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completer Glossary View configuration</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T093852Z" creationid="MELO46" creationdate="20131224T093526Z">
@@ -25720,6 +25744,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151117T070652Z" creationid="Melo46" creationdate="20151117T070652Z">
         <seg>Habilita le segmentation a nivello de phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170527Z" creationid="ia" creationdate="20170909T170527Z">
+        <seg>Activar le &amp;prediction del chronologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -52239,6 +52271,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170314Z" creationid="ia" creationdate="20170909T170314Z">
+        <seg>Excambiar le vistas con {0} e {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095536Z">
@@ -63417,6 +63457,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T121400Z">
         <seg>Usa &amp;XML pro le tags singule (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170221Z" creationid="ia" creationdate="20170909T170221Z">
+        <seg>Usar le concordantia partial (&amp;Fuzzy) pro le entratas del dictionario</seg>
       </tuv>
     </tu>
     <tu>
