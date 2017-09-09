@@ -33240,8 +33240,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094735Z">
-        <seg>Si tu vole usar le mesme lingua, in OmegaT, que es in uso durante le installation, compulsa le buxo in basso.</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T200740Z">
+        <seg>Si tu vole usar le mesme lingua, in OmegaT, que es in uso durante le installation, marca le buxo in basso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44250,8 +44250,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094735Z">
-        <seg>Alias, OmegaT usara le lingua del systema operative.</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T200844Z">
+        <seg>Alteremente, OmegaT usara le lingua del systema operative.</seg>
       </tuv>
     </tu>
     <tu>
