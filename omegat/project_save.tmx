@@ -42430,6 +42430,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233445Z" creationid="Karm46" creationdate="20170909T233445Z">
+        <seg>OmegaT es supplite con un manual del usator comprehensive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is supplied with a number of very basic segmentation patterns.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T110409Z">
@@ -45177,6 +45185,14 @@ pro resolver le origine del error e reproba.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T233256Z" creationid="Karm46" creationdate="20170909T233256Z">
         <seg>Per favor continge le &lt;a0&gt; gestor del projecto OmegaT&lt;/a0&gt; re qualque puncto non coperte supra.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233423Z" creationid="Karm46" creationdate="20170909T233423Z">
+        <seg>Per favor continge le &lt;a2&gt;webmaster&lt;/a2&gt; pro ulle puncto reguardante specificamente le sito web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61187,6 +61203,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233522Z" creationid="Karm46" creationdate="20170909T233522Z">
+        <seg>Pro advocar le manual ex intra OmegaT, selige simplemente Adjuta &gt; Manual del Usatores, o pressa F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the amount of memory available, edit directly the lauching line.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T220313Z" creationid="Melo46" creationdate="20150423T220313Z">
@@ -64131,6 +64155,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T134055Z">
         <seg>Lingua del interfacie del usator pro OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233433Z" creationid="Karm46" creationdate="20170909T233433Z">
+        <seg>Manuales del usator</seg>
       </tuv>
     </tu>
     <tu>
