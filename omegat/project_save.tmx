@@ -20440,6 +20440,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165221Z" creationid="ia" creationdate="20170909T165221Z">
+        <seg>Controla le problemas (&amp;Issues)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095343Z">
@@ -20484,6 +20492,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T090022Z">
         <seg>Marca Google Translate v2 (lassante non marcate le altere optiones)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165326Z" creationid="ia" creationdate="20170909T165326Z">
+        <seg>Controla problemas pro le documento &amp;Currente</seg>
       </tuv>
     </tu>
     <tu>
@@ -42624,8 +42640,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094749Z">
-        <seg>OmegaT nunc terminara.</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165045Z">
+        <seg>OmegaT ora terminara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67894,8 +67910,8 @@ crear su classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094750Z">
-        <seg>Tu projecto non contine alicun file in un formato supportate.</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165129Z">
+        <seg>Tu projecto non contine ulle file in formato supportate.</seg>
       </tuv>
     </tu>
     <tu>
