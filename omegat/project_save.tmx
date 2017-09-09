@@ -35430,6 +35430,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201724Z" creationid="ia" creationdate="20170909T201724Z">
+        <seg>Director del integration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intended readership</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T194344Z">
@@ -44040,6 +44048,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201618Z" creationid="ia" creationdate="20170909T201618Z">
+        <seg>Original autor del application OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T090341Z">
@@ -46128,6 +46144,14 @@ projecto local sin functionalitate de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102141Z">
         <seg>Vias breve de gestion del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201648Z" creationid="ia" creationdate="20170909T201648Z">
+        <seg>Director del projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -84843,10 +84867,26 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{% endif %}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201556Z" creationid="ia" creationdate="20170909T201556Z">
+        <seg>{% endif %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{% for author in site.data.credits.website %}</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201318Z" creationid="ia" creationdate="20170909T201318Z">
         <seg>{% for author in site.data.credits.website %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% for translator in site.data.credits.translators[site.lang] %}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201543Z" creationid="ia" creationdate="20170909T201543Z">
+        <seg>{% for translator in site.data.credits.translators[site.lang] %}</seg>
       </tuv>
     </tu>
     <tu>
@@ -84959,6 +84999,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201323Z" creationid="ia" creationdate="20170909T201323Z">
         <seg>{{ author }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{ translator }}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201548Z" creationid="ia" creationdate="20170909T201548Z">
+        <seg>{{ translator }}</seg>
       </tuv>
     </tu>
     <tu>
