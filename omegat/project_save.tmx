@@ -47174,6 +47174,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170012Z" creationid="ia" creationdate="20170909T170012Z">
+        <seg>Replaciar le entratas del &amp;glossario quando on insere texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T162607Z">
@@ -63397,6 +63405,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165847Z" creationid="ia" creationdate="20170909T165847Z">
+        <seg>Usar le radice&amp;s pro le entratas del glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use 7-Zip or a similar program to unzip the file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T153002Z" creationid="MELO46" creationdate="20140628T153002Z">
@@ -63529,6 +63545,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T133727Z">
         <seg>Usa lo si OmegaT non synchronisa le contentos del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165743Z" creationid="ia" creationdate="20170909T165743Z">
+        <seg>Usar terminos que &amp;appare separate in le texto fonte</seg>
       </tuv>
     </tu>
     <tu>
