@@ -32402,6 +32402,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234943Z" creationid="Karm46" creationdate="20170909T234943Z">
+        <seg>Si iste version non es disponibile, tu pote provar a &lt;a0&gt;discargar le version non firmate&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T162033Z">
@@ -51893,6 +51901,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T082227Z">
         <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name '}}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235117Z" creationid="Karm46" creationdate="20170909T235117Z">
+        <seg>Version Standard - {{site.data.versions.standard.name '}}</seg>
       </tuv>
     </tu>
     <tu>
