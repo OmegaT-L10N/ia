@@ -20440,6 +20440,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T161815Z" creationid="ia" creationdate="20170909T161815Z">
+        <seg>Billet &amp;Issues...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095343Z">
