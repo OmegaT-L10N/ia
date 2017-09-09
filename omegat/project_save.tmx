@@ -51209,6 +51209,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201005Z" creationid="ia" creationdate="20170909T201005Z">
+        <seg>Nos regretta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort alphabetically</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T094229Z" creationid="MELO46" creationdate="20131224T094229Z">
@@ -64899,6 +64907,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201109Z" creationid="ia" creationdate="20170909T201109Z">
+        <seg>Nos non pote trovar le pagina que tu recerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T064956Z" creationid="MELO" creationdate="20131219T064956Z">
@@ -67103,6 +67119,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T104319Z">
         <seg>Tu pote per exemplo usar lo pro seliger le lingua del interfacie del usator, pro assignar plus de memoria a OmegaT, o scriber un contrasigno de Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201222Z" creationid="ia" creationdate="20170909T201222Z">
+        <seg>Tu pote ir al &lt;a0&gt;pagina initial&lt;/a0&gt; e sperabilemente trovar le informationes que tu necessita ab illac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75625,6 +75649,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T230413Z" creationid="MELO46" creationdate="20131226T230413Z">
         <seg>entratas indice, signa-libros, referentias de signa-libro, notes, commentos, notas de presentation, ligamines (URL), nomines de pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T201008Z" creationid="ia" creationdate="20170909T201008Z">
+        <seg>index.html</seg>
       </tuv>
     </tu>
     <tu>
