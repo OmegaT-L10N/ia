@@ -21613,6 +21613,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170943Z" creationid="ia" creationdate="20170909T170943Z">
+        <seg>Committente la files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101323Z">
@@ -25784,6 +25792,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T081957Z">
         <seg>Habilita lo in &lt;b&gt;Optiones &gt; Salva...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171128Z" creationid="ia" creationdate="20170909T171128Z">
+        <seg>Activar los in &lt;b&gt;Preferentias &gt; Salvamento e Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50659,6 +50675,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171041Z" creationid="ia" creationdate="20170909T171041Z">
+        <seg>Dimension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T212521Z">
@@ -51227,6 +51251,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T111259Z" creationid="MELO46" creationdate="20131228T161525Z">
         <seg>Le modellos de nomine de file fonte usa characteres 'carta salvage' similabile a illos usate in le &lt;e2&gt;Recercas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171032Z" creationid="ia" creationdate="20170909T171032Z">
+        <seg>Files fonte committite</seg>
       </tuv>
     </tu>
     <tu>
