@@ -22572,6 +22572,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T161445Z" creationid="ia" creationdate="20170909T161445Z">
+        <seg>Crea un projecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095024Z">
@@ -43374,6 +43382,14 @@ tu plica base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T161353Z" creationid="ia" creationdate="20170909T161321Z">
+        <seg>Aperi un projecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open OmegaT.l4J.ini in a plain-text editor</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T090751Z">
@@ -45202,6 +45218,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095313Z">
         <seg>Polonese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T161640Z" creationid="ia" creationdate="20170909T161640Z">
+        <seg>Formattation directional Pop (PDF U+202C)</seg>
       </tuv>
     </tu>
     <tu>
