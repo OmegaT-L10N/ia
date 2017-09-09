@@ -1608,6 +1608,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171801Z" creationid="ia" creationdate="20170909T171801Z">
+        <seg>&amp;Restabilir le optiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T222339Z" creationid="Melo46" creationdate="20160729T222339Z">
@@ -38048,6 +38056,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171617Z" creationid="ia" creationdate="20170909T171617Z">
+        <seg>File/Plica local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local Folder:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T221547Z">
@@ -47006,6 +47022,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171648Z" creationid="ia" creationdate="20170909T171648Z">
+        <seg>File/Plica remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T233615Z" creationid="Melo46" creationdate="20160728T233615Z">
@@ -52021,6 +52045,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T060930Z" creationid="Melo46" creationdate="20141112T060930Z">
         <seg>Le versiones subsequente ha tractate pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171653Z" creationid="ia" creationdate="20170909T171653Z">
+        <seg>Subversion</seg>
       </tuv>
     </tu>
     <tu>
