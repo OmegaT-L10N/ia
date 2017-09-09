@@ -42154,6 +42154,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T232945Z" creationid="Karm46" creationdate="20170909T232945Z">
+        <seg>OmegaT ha un Gruppo del usatores multo active, supportante e multilingual &lt;a0&gt;ci&lt;/a0&gt;, al qual le usatores es fortemente incoragiate a adherer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T070220Z">
@@ -65079,6 +65087,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T232616Z" creationid="Karm46" creationdate="20170909T232616Z">
+        <seg>Director del sito web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100735Z">
@@ -74749,6 +74765,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://groups.yahoo.com/group/omegat</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T232735Z" creationid="Karm46" creationdate="20170909T232735Z">
+        <seg>http://groups.yahoo.com/group/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br10/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T082404Z">
@@ -79316,6 +79340,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160044Z" creationid="MELO46" creationdate="20131226T160044Z">
         <seg>permissions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>philosophy.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T232649Z" creationid="Karm46" creationdate="20170909T232649Z">
+        <seg>philosophy.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -84875,10 +84907,26 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{% endif %} {% endfor %}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T232643Z" creationid="Karm46" creationdate="20170909T232643Z">
+        <seg>{% endif %} {% endfor %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{% for author in site.data.credits.website %}</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201318Z" creationid="ia" creationdate="20170909T201318Z">
         <seg>{% for author in site.data.credits.website %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% for dev in site.data.contributors %} {% if dev.name.size &gt; 0 %}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T232633Z" creationid="Karm46" creationdate="20170909T232633Z">
+        <seg>{% for dev in site.data.contributors %} {% if dev.name.size &gt; 0 %}</seg>
       </tuv>
     </tu>
     <tu>
@@ -84999,6 +85047,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201323Z" creationid="ia" creationdate="20170909T201323Z">
         <seg>{{ author }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{ dev.name }}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T232638Z" creationid="Karm46" creationdate="20170909T232638Z">
+        <seg>{{ dev.name }}</seg>
       </tuv>
     </tu>
     <tu>
