@@ -16956,6 +16956,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233532Z" creationid="Karm46" creationdate="20170909T233532Z">
+        <seg>Un guida de initio celere, que guida te a transverso del proceduras e functiones principal de OmegaT, es displicate per arrangiamento initial in le interfacie del usator de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can "walk" through it with the source and target versions of each sentence displayed next to each other.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T160919Z">
@@ -35746,6 +35754,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T070617Z">
         <seg>Illo pote etiam deteger alicun errores de grammatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233559Z" creationid="Karm46" creationdate="20170909T233559Z">
+        <seg>Illo pote esser trovate in le sub plica  "docs" de tu plica del programma OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58113,6 +58129,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format (OmegaT version 3.6.0 update 5).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233856Z" creationid="Karm46" creationdate="20170909T233856Z">
+        <seg>Le manual del usator pro OmegaT in formato PDF OmegaT version 3.6.0 update 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user manual is an HTML document with links to different chapters.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T090609Z">
@@ -64159,6 +64183,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233735Z" creationid="Karm46" creationdate="20170909T233735Z">
+        <seg>Manual del Usator in interrete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T233433Z" creationid="Karm46" creationdate="20170909T233433Z">
@@ -66907,6 +66939,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094701Z">
         <seg>Tu pote alsi lo appellar in le</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233539Z" creationid="Karm46" creationdate="20170909T233539Z">
+        <seg>Tu pote alsi vocar le manual del usator supplite con OmegaT sin lancear OmegaT ipse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74953,6 +74993,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T083636Z">
         <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0 update 5/OmegaT_documentation_en.PDF/download</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233618Z" creationid="Karm46" creationdate="20170909T233618Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0 update 5/OmegaT_documentation_en.PDF/download</seg>
       </tuv>
     </tu>
     <tu>
