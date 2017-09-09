@@ -26468,6 +26468,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact &amp;match</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170101Z" creationid="ia" creationdate="20170909T170101Z">
+        <seg>Concordantia (&amp;match) exacte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095017Z">
@@ -63385,6 +63393,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140122T232758Z">
         <seg>Usa "Software Update..." ex le menu de Apple pro renovar tu version Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170154Z" creationid="ia" creationdate="20170909T170154Z">
+        <seg>Usar le concordantia partial (&amp;Fuzzy) pro le entratas del dictionario</seg>
       </tuv>
     </tu>
     <tu>
