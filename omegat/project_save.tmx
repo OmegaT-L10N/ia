@@ -194,6 +194,14 @@ works, such as semiconductor masks.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234424Z" creationid="Karm46" creationdate="20170909T234424Z">
+        <seg>Le documentos "Guida" sur iste sito, continente information sur le proceduras e characteristicas de OmegaT que non es coperite del manual, pro le usatores experte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Installation Information" for a User Product means any methods,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155757Z" creationid="MELO46" creationdate="20131226T155757Z">
@@ -524,6 +532,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T084842Z">
         <seg>#N es un numero ab 1 a 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#download-wizard</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234714Z" creationid="Karm46" creationdate="20170909T234714Z">
+        <seg>#download-wizard</seg>
       </tuv>
     </tu>
     <tu>
@@ -2236,6 +2252,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T175610Z">
         <seg>(Si tu vole lancear OmegaT con un lingua de interfacie del usator altere que le anglese, face le identic cambio in le apposite file localisate Bundle.properties file.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234703Z" creationid="Karm46" creationdate="20170909T234703Z">
+        <seg>(In russo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21695,6 +21719,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234433Z" creationid="Karm46" creationdate="20170909T234433Z">
+        <seg>Guidas re le Compatibilitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T215922Z">
@@ -23946,6 +23978,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T174515Z">
         <seg>Dependente sur le version de Tcl/Tk que tu ha installate, tu pote deber adder le numero de version al commando desirate, exempli gratia.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234629Z" creationid="Karm46" creationdate="20170909T234629Z">
+        <seg>Describe compatibilitate de OmegaT con altere productos software seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42086,6 +42126,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T150243Z">
         <seg>OmegaT non pote importar o leger files glossario in formatos binari proprietari, assi como Trados Multiterm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234459Z" creationid="Karm46" creationdate="20170909T234459Z">
+        <seg>Compatibilitate de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -74585,6 +74633,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155827Z" creationid="MELO46" creationdate="20131226T155827Z">
         <seg>holder fails to notify you of the violation by some reasonable means</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/compatibility.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T234439Z" creationid="Karm46" creationdate="20170909T234439Z">
+        <seg>howtos/compatibility.html</seg>
       </tuv>
     </tu>
     <tu>
