@@ -45173,6 +45173,14 @@ pro resolver le origine del error e reproba.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233256Z" creationid="Karm46" creationdate="20170909T233256Z">
+        <seg>Per favor continge le &lt;a0&gt; gestor del projecto OmegaT&lt;/a0&gt; re qualque puncto non coperte supra.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the Yahoo user group&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T153928Z">
@@ -75181,6 +75189,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233012Z" creationid="Karm46" creationdate="20170909T233012Z">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150317Z">
@@ -77256,6 +77272,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mailto:info@omegat.org</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233047Z" creationid="Karm46" creationdate="20170909T233047Z">
+        <seg>mailto:info@omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T065943Z">
@@ -77268,6 +77292,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T065946Z">
         <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:webmaster@omegat.org</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T233055Z" creationid="Karm46" creationdate="20170909T233055Z">
+        <seg>mailto:webmaster@omegat.org</seg>
       </tuv>
     </tu>
     <tu>
