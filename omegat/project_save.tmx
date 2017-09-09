@@ -24038,6 +24038,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235234Z" creationid="Karm46" creationdate="20170909T235234Z">
+        <seg>Instructiones detaliate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T174834Z">
@@ -34288,6 +34296,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T221029Z" creationid="Melo46" creationdate="20150423T221029Z">
         <seg>Pro procurar se le credentiales pro MS Translator, sequer iste grados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235255Z" creationid="Karm46" creationdate="20170909T235255Z">
+        <seg>Pro installar le version Web start, tu debe jam haber installate sur tu computer le version Java 1.3 o subsequente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45221,6 +45237,14 @@ toto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235136Z" creationid="Karm46" creationdate="20170909T235136Z">
+        <seg>Platteforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T085257Z">
@@ -45896,6 +45920,14 @@ projecto local sin functionalitate de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T161452Z">
         <seg>Priorview es un parve utilitate que provide un function vista preliminar pro uso con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235340Z" creationid="Karm46" creationdate="20170909T235340Z">
+        <seg>Information re le protection del intimitate: OmegaT Java Web Start non registra ullo re tu information in le servitores de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
