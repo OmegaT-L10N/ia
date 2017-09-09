@@ -22404,6 +22404,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172251Z" creationid="ia" creationdate="20170909T172251Z">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134245Z">
@@ -26792,6 +26800,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T210049Z">
         <seg>Exporta le selection currente in un file de texto pro processar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172245Z" creationid="ia" creationdate="20170909T172245Z">
+        <seg>Ligamines (Lin&amp;ks) externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -36855,8 +36871,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Key=Value Text</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T083056Z">
-        <seg> Files Key=Value Text</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172138Z">
+        <seg>Key=Value Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -42202,8 +42218,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130423T213450Z">
-        <seg>OmegaT es un instrumento gratuite de traduction assistite ab computator, multe-platteforma con concordantia partial, recerca con parola clave, glossarios, e fruition del translation in le renovation del projectos.</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172554Z">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.(OmegaT es un application gratuite de Traduction Assistite ab Computator (CAT), multe-platteforma con concordantia partial, recerca per parola clave, glossarios, e fruition del translation in le actualisation del projectos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64933,6 +64949,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172119Z" creationid="ia" creationdate="20170909T172119Z">
+        <seg>Subtitulos de WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Website content by:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T085548Z">
@@ -68086,6 +68110,14 @@ them.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T073138Z">
         <seg>Tu ergo essera capace a lancear OmegaT con le execution de iste file ab le linea de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172050Z" creationid="ia" creationdate="20170909T172050Z">
+        <seg>Subtitulos de YouTube</seg>
       </tuv>
     </tu>
     <tu>
