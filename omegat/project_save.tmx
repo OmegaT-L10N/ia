@@ -21434,6 +21434,16 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172725Z" creationid="ia" creationdate="20170909T172725Z">
+        <seg>Le codice ha essite contribuite per:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
@@ -45462,6 +45472,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172944Z" creationid="ia" creationdate="20170909T172944Z">
+        <seg>Retener spatios pro (&amp;for) tote le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces for all tags</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T091316Z">
@@ -47086,6 +47104,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172823Z" creationid="ia" creationdate="20170909T172823Z">
+        <seg>Remover le tags initia&amp;l e final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095300Z">
@@ -47162,6 +47188,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140630T215856Z" creationid="MELO46" creationdate="20140630T215856Z">
         <seg>Remove le fragmentos definite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T172921Z" creationid="ia" creationdate="20170909T172921Z">
+        <seg>Leva le spatios blanc initial e final in le projectos non-segmentate</seg>
       </tuv>
     </tu>
     <tu>
