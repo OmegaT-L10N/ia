@@ -26812,6 +26812,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171147Z" creationid="ia" creationdate="20170909T171147Z">
+        <seg>Recerca externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TM&amp;Xs...</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094911Z">
@@ -45226,6 +45234,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095039Z">
         <seg>Que tu selige le lingua de tu files primari e le lingua final verso que tu agrada render.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171547Z" creationid="ia" creationdate="20170909T171547Z">
+        <seg>Per favor elige le lingua de tu files fonte e le lingua de destination al qual tu ama traducer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67958,6 +67974,14 @@ them.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095039Z">
         <seg>Tu deberea specificar lor nove location o los recrear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T171226Z" creationid="ia" creationdate="20170909T171226Z">
+        <seg>Tu debe specificar lor nove position o recrear los.</seg>
       </tuv>
     </tu>
     <tu>
