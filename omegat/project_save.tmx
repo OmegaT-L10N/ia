@@ -1216,6 +1216,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="IA" changeid="ia" changedate="20170909T173346Z" creationid="ia" creationdate="20170909T173346Z">
+        <seg>&amp;Ignorar le contexto del file durante le identification del segmentos con altere traductiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T091222Z" creationid="MELO46" creationdate="20140228T091222Z">
