@@ -22422,6 +22422,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235734Z" creationid="Karm46" creationdate="20170909T235734Z">
+        <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2010-2012</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T043529Z">
@@ -25422,8 +25430,8 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
       <tuv lang="EN">
         <seg>Déjà Vu "External View"</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T055018Z">
-        <seg>"Vistas Externe" de Déjà Vu </seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235944Z">
+        <seg>"Vista Externe" de Déjà Vu </seg>
       </tuv>
     </tu>
     <tu>
@@ -36256,6 +36264,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T062157Z">
         <seg>Il es alicun vices utile pro esser habile a render alicun tags intraducibile sur le base del valor del attributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235719Z" creationid="Karm46" creationdate="20170909T235719Z">
+        <seg>Illo es supportate per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59665,6 +59681,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235920Z" creationid="Karm46" creationdate="20170909T235920Z">
+        <seg>Isto pote esser complite (pro Déjà Vu DVX) per usar del formato file Déjà Vu's "Vista externe".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External Views" file format.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T054944Z">
@@ -74725,6 +74749,22 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>howtos/compatibility_deja_vu</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235724Z" creationid="Karm46" creationdate="20170909T235724Z">
+        <seg>howtos/compatibility_deja_vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/export_uncleaned_rtf</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235704Z" creationid="Karm46" creationdate="20170909T235704Z">
+        <seg>howtos/export_uncleaned_rtf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>hr</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134425Z">
@@ -74753,6 +74793,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135604Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://anaphraseus.sourceforge.net/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235649Z" creationid="Karm46" creationdate="20170909T235649Z">
+        <seg>http://anaphraseus.sourceforge.net/</seg>
       </tuv>
     </tu>
     <tu>
@@ -75049,6 +75097,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T232735Z" creationid="Karm46" creationdate="20170909T232735Z">
         <seg>http://groups.yahoo.com/group/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://groups.yahoo.com/group/wordfast/files/Wf2Tmx-1.0.11.37.zip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170909T235640Z" creationid="Karm46" creationdate="20170909T235640Z">
+        <seg>http://groups.yahoo.com/group/wordfast/files/Wf2Tmx-1.0.11.37.zip</seg>
       </tuv>
     </tu>
     <tu>
