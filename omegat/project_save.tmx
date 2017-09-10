@@ -25154,6 +25154,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download and install the Java Development Kit (JDK)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000331Z" creationid="Karm46" creationdate="20170910T000331Z">
+        <seg>Discarga e installa le Java Development Kit (JDK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download and install the Java Development Kit (JDK) and Apache Ant</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T035105Z">
@@ -25650,6 +25658,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065135Z" creationid="MELO" creationdate="20131219T065135Z">
         <seg>Each version of the License is given a distinguishing version number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Earlier versions of OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000456Z" creationid="Karm46" creationdate="20170910T000456Z">
+        <seg>Justo versiones del OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27904,6 +27920,14 @@ this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T152025Z" creationid="MELO46" creationdate="20140628T152025Z">
         <seg>Pro le memoria, da lo al minus 512 MB RAM - il pote functionar con minus, sed le magis le melio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For OmegaT 4.0 and later, no additional software is required.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000433Z" creationid="Karm46" creationdate="20170910T000433Z">
+        <seg>Pro OmegaT 4.0 e subsequente, nulle altere software es requirite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54121,6 +54145,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000421Z" creationid="Karm46" creationdate="20170910T000421Z">
+        <seg>Il es necesse le &lt;a1&gt;Java Development Kit&lt;/a1&gt; (JDK).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; file includes &lt;a1&gt;OmegaT&lt;/a1&gt; specific formatting tags so that the file can be used in other &lt;a2&gt;OmegaT&lt;/a2&gt; projects</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130326T073324Z">
@@ -74845,6 +74877,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://ant.apache.org</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000437Z" creationid="Karm46" creationdate="20170910T000437Z">
+        <seg>http://ant.apache.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151115T002024Z" creationid="Melo" creationdate="20151115T002024Z">
@@ -75545,6 +75585,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T222937Z">
         <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000336Z" creationid="Karm46" creationdate="20170910T000336Z">
+        <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
       </tuv>
     </tu>
     <tu>
