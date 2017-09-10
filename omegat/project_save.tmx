@@ -3791,9 +3791,9 @@ configurationes del projecto).</seg>
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="IA" changeid="melo" changedate="20160812T153750Z" creationid="melo" creationdate="20160812T153750Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T092301Z" creationid="melo" creationdate="20160812T153750Z">
         <seg>--disable-location-save
-		Oblidar le ultime plica aperte in le selector de file del directorio.</seg>
+		Oblidar le ultime directorio aperte in le selector de file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,9 +3801,9 @@ configurationes del projecto).</seg>
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="melo" changedate="20160813T065122Z" creationid="melo" creationdate="20160812T153155Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T092035Z" creationid="melo" creationdate="20160812T153155Z">
         <seg>--disable-project-locking
-		Non tentatar a blocar le file de omegat.project.</seg>
+		Non tentar de blocar le file omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3811,9 +3811,9 @@ configurationes del projecto).</seg>
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160728T195036Z" creationid="Melo46" creationdate="20160728T194831Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T091904Z" creationid="Melo46" creationdate="20160728T194831Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Specificar un modo altere que lo predefinite (GUI).</seg>
+		Specifica un modo, altere que illo predefinite (GUI).</seg>
       </tuv>
     </tu>
     <tu>
