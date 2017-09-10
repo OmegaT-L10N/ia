@@ -1026,8 +1026,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094758Z">
-        <seg>&amp;Edita</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095202Z">
+        <seg>R&amp;Ediger</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,8 +1554,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Quit</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094758Z">
-        <seg>&amp;Quita</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095130Z">
+        <seg>&amp;Quitar</seg>
       </tuv>
     </tu>
     <tu>
@@ -22760,8 +22760,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T161445Z" creationid="ia" creationdate="20170909T161445Z">
-        <seg>Crea un projecto MED...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094937Z" creationid="ia" creationdate="20170909T161445Z">
+        <seg>Crear un projecto MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27256,8 +27256,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T101957Z">
-        <seg>&amp;Filtros del File...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095042Z">
+        <seg>&amp;Filtros de File...</seg>
       </tuv>
     </tu>
     <tu>
