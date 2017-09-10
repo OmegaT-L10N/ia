@@ -1562,8 +1562,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094759Z">
-        <seg>&amp;Reface le ultime action</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095223Z">
+        <seg>&amp;Refacer le ultime action</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,8 +1714,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search Project...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094759Z">
-        <seg>Recerca (&amp;S) le projecto...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095235Z">
+        <seg>Recercar (&amp;S) in le projecto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,8 +1954,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094759Z">
-        <seg>Disface le %Ultime action</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095215Z">
+        <seg>Disfacer le %Ultime action</seg>
       </tuv>
     </tu>
     <tu>
@@ -25478,8 +25478,8 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094801Z">
-        <seg>E&amp;xporta le selection</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095336Z">
+        <seg>E&amp;xportar le selection</seg>
       </tuv>
     </tu>
     <tu>
@@ -30808,8 +30808,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T102132Z">
-        <seg>I&amp;nsere le Fonte</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095325Z">
+        <seg>I&amp;nserer le fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -35248,8 +35248,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T213943Z">
-        <seg>Insere le &amp;Tags primari mancante </seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095347Z">
+        <seg>Inserer le &amp;Tags primari mancante </seg>
       </tuv>
     </tu>
     <tu>
@@ -35264,8 +35264,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T102415Z">
-        <seg>Insere le Tag Mancante Sequente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095355Z">
+        <seg>Inserer le Tag Mancante Sequente</seg>
       </tuv>
     </tu>
     <tu>
@@ -35304,8 +35304,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T213738Z">
-        <seg>insere le Tag {0}</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095403Z">
+        <seg>inserer le Tag {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46890,8 +46890,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094801Z">
-        <seg>Reim&amp;placia con fonte</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095331Z">
+        <seg>Reim&amp;placiar con fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -47202,8 +47202,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140416T211841Z" creationid="MELO46" creationdate="20140416T211841Z">
-        <seg>Register Identical Translation</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095507Z" creationid="MELO46" creationdate="20140416T211841Z">
+        <seg>Registrar un Identic traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -47578,8 +47578,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095452Z">
-        <seg>Remove le traduction</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095407Z">
+        <seg>Remover le traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -47763,8 +47763,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T102115Z">
-        <seg>Reimplacia con le Traduction Auto&amp;Matic</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095313Z">
+        <seg>Reimplaciar con le Traduction Auto&amp;Matic</seg>
       </tuv>
     </tu>
     <tu>
@@ -49215,8 +49215,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T073550Z" creationid="MELO46" creationdate="20140615T073550Z">
-        <seg>Cerca e Replacia...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095303Z" creationid="MELO46" creationdate="20140615T073550Z">
+        <seg>Cercar e Replaciar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50455,8 +50455,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095452Z">
-        <seg>Fixa un traduction vacue</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095412Z">
+        <seg>Fixar un traduction vacue</seg>
       </tuv>
     </tu>
     <tu>
