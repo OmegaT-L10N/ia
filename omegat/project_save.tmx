@@ -3898,10 +3898,10 @@ configurationes del projecto).</seg>
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160728T194824Z" creationid="Melo46" creationdate="20160728T194824Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T091827Z" creationid="Melo46" creationdate="20160728T194824Z">
         <seg>--remote-project
-		Discargar un file omegat.project ab le URL date como &lt;project
-		path&gt; e cargar le projecto.</seg>
+		Discarga un file omegat.project ab le URL date como &lt;project
+		path&gt; e carga le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3999,9 +3999,9 @@ configurationes del projecto).</seg>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160728T194713Z" creationid="Melo46" creationdate="20160728T194713Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T091722Z" creationid="Melo46" creationdate="20160728T194713Z">
         <seg>-h, --help
-		monstrar informationes de uso.</seg>
+		monstra le informationes del uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44230,10 +44230,10 @@ tu plica base.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160728T194443Z" creationid="Melo46" creationdate="20160728T194443Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T091703Z" creationid="Melo46" creationdate="20160728T194443Z">
         <seg>Optiones:
 	none: lancear le GUI
-	project path solmente: lancear le GUI e cargar le projecto specificate
+	solmente le itinere del projecto: lancear le GUI e cargar le projecto specificate
 	team
 		Application de projecto de equipa.</seg>
       </tuv>
