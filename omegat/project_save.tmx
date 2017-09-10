@@ -14734,6 +14734,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000108Z" creationid="Karm46" creationdate="20170910T000108Z">
+        <seg>Un file Déjà Vu "Vista Externe" prende le forma de un file RTF con un tabella multe columnas, includente columnas pro le texto de origine e de destination in le qual cata segmento occupa un cella del tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T174022Z">
@@ -16118,6 +16126,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T233324Z">
         <seg>Post controlate tu traduction, que tu controla que tu non ha damnificate ulle tags durante le processo de traduction: Instrumentos &gt; Valida Tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000214Z" creationid="Karm46" creationdate="20170910T000214Z">
+        <seg>Post le completion del traduction e le creation del documentos rendite, copia le columna rendite ex le file rendite in le columna &lt;s0&gt;destination&lt;/s0&gt; del file original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34746,6 +34762,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000054Z" creationid="Karm46" creationdate="20170910T000054Z">
+        <seg>Al mesme maniera, le usatores de applicationes CAT, includente OmegaT, que non possede Déjà Vu pote render files preparate per un usator de Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T055820Z">
@@ -35962,6 +35986,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T102602Z">
         <seg>Illo non traduce in tu vice!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000040Z" creationid="Karm46" creationdate="20170910T000040Z">
+        <seg>Illo habilita le redactores qui non possede Déjà Vu a rediger le traductiones producite in Déjà Vu in un tal modo que le emendamentos pote esser reincorporate facilemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54307,6 +54339,14 @@ Source.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065025Z" creationid="MELO" creationdate="20131219T065025Z">
         <seg>The Document may include Warranty Disclaimers next to the notice which states that this License applies to the Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000023Z" creationid="Karm46" creationdate="20170910T000023Z">
+        <seg>Le formato de file "Vistas Externe" es un function de Déjà Vu DVX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75253,6 +75293,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000228Z" creationid="Karm46" creationdate="20170910T000228Z">
+        <seg>http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151116T031624Z" creationid="Melo46" creationdate="20151116T031624Z">
@@ -75377,6 +75425,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T082643Z">
         <seg>http://www.apertium.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.atril.com/sites/default/files/InstructionsExternalView.pdf</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T000221Z" creationid="Karm46" creationdate="20170910T000221Z">
+        <seg>http://www.atril.com/sites/default/files/InstructionsExternalView.pdf</seg>
       </tuv>
     </tu>
     <tu>
