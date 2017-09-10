@@ -21967,10 +21967,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="melo" changedate="20160814T172458Z" creationid="Melo" creationdate="20160814T171501Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T092349Z" creationid="Melo" creationdate="20160814T171501Z">
         <seg>Modo console-pseudotranslatetmx:
 	--pseudotranslatetmx=&lt;path&gt;
-		Le file TMX de output pseudotraducite.</seg>
+		Le file TMX de output pseudo-traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21979,10 +21979,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="IA" changeid="melo" changedate="20160814T172404Z" creationid="melo" creationdate="20160814T172253Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T092742Z" creationid="melo" creationdate="20160814T172253Z">
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
-		Un lista blanc regex del files fonte a processar.</seg>
+		Un lista blanc de regular expressiones del files fonte a processar.</seg>
       </tuv>
     </tu>
     <tu>
