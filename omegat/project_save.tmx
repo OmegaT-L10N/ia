@@ -738,16 +738,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094746Z">
-        <seg>&amp;Adde</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093611Z">
+        <seg>&amp;Adder</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094746Z">
-        <seg>&amp;Adde...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093536Z">
+        <seg>&amp;Adder...</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,8 +930,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094743Z">
-        <seg>&amp;Claude</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093351Z">
+        <seg>&amp;Clauder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,8 +1034,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T171002Z">
-        <seg>Modifica (&amp;Edit)...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093600Z">
+        <seg>R&amp;Ediger...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,8 +1114,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094743Z">
-        <seg>&amp;Filtro</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093357Z">
+        <seg>&amp;Filtrar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,8 +1586,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T120300Z">
-        <seg>&amp;Remove</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093459Z">
+        <seg>&amp;Remover</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,8 +1610,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T142834Z" creationid="MELO46" creationdate="20140615T142746Z">
-        <seg>&amp;Replacia</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093409Z" creationid="MELO46" creationdate="20140615T142746Z">
+        <seg>&amp;Replaciar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,8 +1706,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094745Z">
-        <seg>Recerca (&amp;Search)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093447Z">
+        <seg>Recercar (&amp;Search)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15382,8 +15382,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094747Z">
-        <seg>A&amp;dde</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093619Z">
+        <seg>A&amp;dder</seg>
       </tuv>
     </tu>
     <tu>
@@ -46778,8 +46778,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094746Z">
-        <seg>&amp;Remove</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093519Z">
+        <seg>R&amp;emover</seg>
       </tuv>
     </tu>
     <tu>
@@ -46874,16 +46874,16 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094743Z">
-        <seg>Re&amp;move le Filtro</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093403Z">
+        <seg>Re&amp;mover le Filtro</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T142842Z" creationid="MELO46" creationdate="20140615T142815Z">
-        <seg>Re&amp;placia Toto</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093427Z" creationid="MELO46" creationdate="20140615T142815Z">
+        <seg>Re&amp;placiar Toto</seg>
       </tuv>
     </tu>
     <tu>
@@ -48051,8 +48051,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T101015Z">
-        <seg>Restaura  le prede&amp;finitos</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093656Z">
+        <seg>Restabilir le prede&amp;finitos</seg>
       </tuv>
     </tu>
     <tu>
@@ -49943,8 +49943,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094745Z">
-        <seg>Selige</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093442Z">
+        <seg>Eliger</seg>
       </tuv>
     </tu>
     <tu>
