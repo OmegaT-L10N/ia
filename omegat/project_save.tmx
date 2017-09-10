@@ -3887,9 +3887,9 @@ configurationes del projecto).</seg>
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="IA" changeid="melo" changedate="20160814T172643Z" creationid="melo" creationdate="20160814T172121Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T092935Z" creationid="melo" creationdate="20160814T172121Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		Lo con le qual emplir le file TMX pseudotraducite.</seg>
+		Con le qual plenar le file TMX pseudo-traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49551,8 +49551,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20160225T132913Z" creationid="Melo" creationdate="20160225T132913Z">
-        <seg>Vider Adjutar &gt; Manual del Usator pro plus de informationes.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093046Z" creationid="Melo" creationdate="20160225T132913Z">
+        <seg>Vider adjuta &gt; Manual del usator, pro plus de informationes.</seg>
       </tuv>
     </tu>
     <tu>
