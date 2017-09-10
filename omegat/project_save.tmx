@@ -68187,6 +68187,14 @@ recipients a copy of this License along with the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may have to set your &lt;c0&gt;JAVA_HOME&lt;/c0&gt; environment variable to point to the location of the JDK.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T091424Z" creationid="Karm46" creationdate="20170910T091424Z">
+        <seg>Tu pote ha a configurar tu &lt;c0&gt;JAVA_HOME&lt;/c0&gt; ambiente variabile a puncta a le position del JDK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may include a translation of this License, and all the license notices in the Document, and any Warranty Disclaimers, provided that you also include the &lt;t0/&gt;original English version of this License and the original versions of those notices and disclaimers.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065121Z" creationid="MELO" creationdate="20131219T065121Z">
