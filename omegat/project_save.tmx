@@ -1578,8 +1578,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Reload</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094754Z">
-        <seg>&amp;Recarga</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094748Z">
+        <seg>&amp;Recargar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1682,8 +1682,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Save</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094755Z">
-        <seg>&amp;Salva</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094800Z">
+        <seg>&amp;Salvar</seg>
       </tuv>
     </tu>
     <tu>
@@ -22712,8 +22712,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094755Z">
-        <seg>Crea documentos &amp;Traduct</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094825Z">
+        <seg>Crear le documentos &amp;Traducite</seg>
       </tuv>
     </tu>
     <tu>
@@ -22728,8 +22728,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T143009Z" creationid="MELO46" creationdate="20140615T143009Z">
-        <seg>Crea le &amp;Documento Rendite Actual</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094850Z" creationid="MELO46" creationdate="20140615T143009Z">
+        <seg>Crear le &amp;Documento rendite actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -25100,16 +25100,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T213555Z">
-        <seg>Discarga pagina Media&amp;Wiki...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094732Z">
+        <seg>Discargar pagina Media&amp;Wiki...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Download MediaWiki Page</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T213615Z">
-        <seg>Discarga pagina MediaWiki</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094659Z">
+        <seg>Discarga un pagina MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -43794,8 +43794,8 @@ tu plica base.</seg>
       <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T161353Z" creationid="ia" creationdate="20170909T161321Z">
-        <seg>Aperi un projecto MED...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094907Z" creationid="ia" creationdate="20170909T161321Z">
+        <seg>Aperir un projecto MED...</seg>
       </tuv>
     </tu>
     <tu>
