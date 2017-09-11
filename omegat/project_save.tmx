@@ -24418,6 +24418,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T230114Z" creationid="Karm46" creationdate="20170911T230114Z">
+        <seg>Monstrar le &amp;tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T112524Z">
@@ -27040,8 +27048,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>External TMX Options</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095330Z">
-        <seg>Optiones TMX Externe</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T230101Z">
+        <seg>Optiones de TMX Externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -35070,6 +35078,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="IA" changeid="melo" changedate="20160812T163006Z" creationid="melo" creationdate="20160812T163006Z">
         <seg>Includer le modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T230410Z" creationid="Karm46" creationdate="20170911T230410Z">
+        <seg>Includer le prime (&amp;first) segmento non-unic quando es marcate le segmentos non-unic</seg>
       </tuv>
     </tu>
     <tu>
@@ -52983,6 +52999,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T230231Z" creationid="Karm46" creationdate="20170911T230231Z">
+        <seg>Concordantia de TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095133Z">
@@ -64090,8 +64114,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T121400Z">
-        <seg>Usa &amp;XML pro le tags singule (e.g., &lt;i/&gt;)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T230127Z">
+        <seg>Usar &amp;XML pro le tags singule (e.g., &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -65634,8 +65658,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20160226T124430Z" creationid="Melo" creationdate="20160226T124430Z">
-        <seg>Quando un singule file ha plus segmentos que isto, additional segmentos essera cargate sur-demanda como tu rola.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T230049Z" creationid="Melo" creationdate="20160226T124430Z">
+        <seg>Quando un singule file ha plus segmentos que isto, additional segmentos essera cargate sur-demanda, quando tu rola.</seg>
       </tuv>
     </tu>
     <tu>
