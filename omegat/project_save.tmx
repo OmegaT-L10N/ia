@@ -1992,6 +1992,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225918Z" creationid="Karm46" creationdate="20170911T225918Z">
+        <seg>&amp;Validar le tags quando on abandona un segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095432Z">
@@ -16640,6 +16648,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225844Z" creationid="Karm46" creationdate="20170911T225844Z">
+        <seg>Permitte (Allo&amp;w) le modifica del tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T100335Z" creationid="MELO46" creationdate="20131224T100335Z">
@@ -25480,6 +25496,14 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170910T095336Z">
         <seg>E&amp;xportar le selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225806Z" creationid="Karm46" creationdate="20170911T225806Z">
+        <seg>E&amp;xportar le segmento a files de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -35208,8 +35232,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20160226T124333Z" creationid="Melo" creationdate="20160226T124333Z">
-        <seg>Cargar initialmente ce multe segmentos:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T230022Z" creationid="Melo" creationdate="20160226T124333Z">
+        <seg>Cargar initialmente iste numero de segmentos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48816,6 +48840,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T225307Z" creationid="Melo46" creationdate="20160729T225307Z">
         <seg>Salvar le TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225950Z" creationid="Karm46" creationdate="20170911T225950Z">
+        <seg>Salvar le stato aut&amp;o-populate</seg>
       </tuv>
     </tu>
     <tu>
