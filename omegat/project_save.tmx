@@ -1210,8 +1210,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094844Z">
-        <seg>&amp;Go; vade a</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T085810Z">
+        <seg>Vader (&amp;Go) a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45682,8 +45682,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T161640Z" creationid="ia" creationdate="20170909T161640Z">
-        <seg>Formattation directional Pop (PDF U+202C)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T085929Z" creationid="ia" creationdate="20170909T161640Z">
+        <seg>Formattation directional del Pop (PDF U+202C)</seg>
       </tuv>
     </tu>
     <tu>
