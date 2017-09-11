@@ -1090,8 +1090,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095051Z">
-        <seg>Cerca &amp;Exacte</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224732Z">
+        <seg>Cercar &amp;Exacte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,8 +1306,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T074043Z">
-        <seg>Cerca con parola clave (&amp;Keyword) </seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224531Z">
+        <seg>Cercar per parola clave (&amp;Keyword) </seg>
       </tuv>
     </tu>
     <tu>
@@ -47795,8 +47795,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace with:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140701T112912Z" creationid="MELO46" creationdate="20140701T112912Z">
-        <seg>Replacia con:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224517Z" creationid="MELO46" creationdate="20140701T112912Z">
+        <seg>Replaciar con:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49247,8 +49247,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Search for:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095050Z">
-        <seg>Cerca pro:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224511Z">
+        <seg>Cercar pro:</seg>
       </tuv>
     </tu>
     <tu>
