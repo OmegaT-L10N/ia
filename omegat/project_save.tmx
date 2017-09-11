@@ -15492,6 +15492,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T231245Z" creationid="Karm46" creationdate="20170911T231245Z">
+        <seg>Clave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151115T002048Z" creationid="Melo" creationdate="20151115T002048Z">
@@ -16852,6 +16860,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130818T151559Z">
         <seg>On pote seliger locationes alternative pro alicun del plicas al creation del projecto o durante le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T231159Z" creationid="Karm46" creationdate="20170911T231159Z">
+        <seg>Altere lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -25948,6 +25964,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T042357Z">
         <seg>Cata uno pote esser usate como le fonte o le destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T231214Z" creationid="Karm46" creationdate="20170911T231214Z">
+        <seg>E-posta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63458,6 +63482,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095422Z">
         <seg>URL del dictionarios online:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T231047Z" creationid="Karm46" creationdate="20170911T231047Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
