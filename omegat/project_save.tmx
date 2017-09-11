@@ -786,8 +786,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094916Z">
-        <seg>Confirma semper (&amp;Always) le cessation</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T090231Z">
+        <seg>Confirmar semper (&amp;Always) le cessation</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,8 +1314,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130426T214352Z">
-        <seg>Ultime (&amp;Last) cambios...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T090435Z">
+        <seg>Ultime (&amp;Last) cambiamentos...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,8 +1658,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T162442Z">
-        <seg>&amp;Restaura le Fenestra Principal</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T090335Z">
+        <seg>&amp;Restaurar le Fenestra Principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -34302,8 +34302,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094919Z">
-        <seg>A fin que le cambios sume effecto, OmegaT necessita de clauder e reaperir le projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T090506Z">
+        <seg>A fin que le cambiamentos sume effecto, OmegaT necessita clauder e reaperir le projecto.</seg>
       </tuv>
     </tu>
     <tu>
