@@ -14056,8 +14056,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Project main folder&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102708Z">
-        <seg>&lt;p0&gt;Memorias de traduction&lt;/p0&gt; &lt;s1&gt;Classificator principal del projecto&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224424Z">
+        <seg>&lt;p0&gt;Memorias de traduction&lt;/p0&gt; &lt;s1&gt;Plica principal del projecto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24244,16 +24244,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Dictionary file folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095420Z">
-        <seg>Classificator del file dictionario:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224424Z">
+        <seg>Plica del file dictionario:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
-        <seg>Le plica  inscribite del files dictionario, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224312Z">
+        <seg>Le plica inscribite del files dictionario, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29607,8 +29607,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
-        <seg>Le plica  inscribite del files glossario, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224235Z">
+        <seg>Le plica inscribite del files glossario, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -42116,8 +42116,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT Project Folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095047Z">
-        <seg>Classificator projecto OmegaT</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224424Z">
+        <seg>Plica projecto OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -49151,8 +49151,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Scripts Folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095459Z">
-        <seg>Classificator del scripturas:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224424Z">
+        <seg>Plica del scripturas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62851,8 +62851,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
-        <seg>Le plica  inscribite del files rendite, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224229Z">
+        <seg>Le plica inscribite del files rendite, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62955,8 +62955,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095027Z">
-        <seg>Classificator del memoria de traduction:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224424Z">
+        <seg>Plica del memoria de traduction:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63027,8 +63027,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
-        <seg>Le plica  inscribite del files memoria de traduction, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224302Z">
+        <seg>Le plica  inscribite del files memoria de traduction, non existe</seg>
       </tuv>
     </tu>
     <tu>
@@ -66709,8 +66709,8 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
-        <seg>Le plica  inscribite del files glossario scribibile, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224253Z">
+        <seg>Le plica inscribite del files glossario scribibile, non existe!</seg>
       </tuv>
     </tu>
     <tu>
