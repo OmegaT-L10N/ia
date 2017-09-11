@@ -1842,16 +1842,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095028Z">
-        <seg>Lingua del files primari (&amp;Source):</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182816Z">
+        <seg>Lingua del file&amp;S fonte:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T090601Z">
-        <seg>Tokenizer del lingua origine (&amp;Source):</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182832Z">
+        <seg>Tokenizer del lingua fonte (&amp;Source):</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,8 +1898,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T090656Z">
-        <seg>Tokenizer del lingua de destination (&amp;Target):</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182838Z">
+        <seg>&amp;Tokenizer del lingua de destination:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,8 +1946,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095028Z">
-        <seg>Lingua del files &amp;Traduct:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182823Z">
+        <seg>Lingua del files &amp;Traducite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7326,8 +7326,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T125232Z">
-        <seg>&lt;html&gt;Le commandos externe Per-project es invalidate e non essera executate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T183013Z">
+        <seg>&lt;html&gt;Le commandos externe Per-projecto es disactivate e non essera exequite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26968,16 +26968,16 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T125055Z">
-        <seg>Commando Externe Post-processo (invaliditate):</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182928Z">
+        <seg>Commando Externe de post-processo (disactivate):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>External Post-processing Command:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T124129Z">
-        <seg>Commando Externe Post-processo</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182917Z">
+        <seg>Commando Externe de post-processo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29535,8 +29535,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095026Z">
-        <seg>Classificator del glossarios:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182752Z">
+        <seg>Plica del glossarios:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47442,8 +47442,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T121638Z">
-        <seg>Remove le tags (Ta&amp;gs)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182909Z">
+        <seg>Remover le ta&amp;gs</seg>
       </tuv>
     </tu>
     <tu>
