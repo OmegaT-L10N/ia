@@ -25846,10 +25846,26 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225451Z" creationid="Karm46" creationdate="20170911T225451Z">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123304Z">
         <seg>Editor - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225448Z" creationid="Karm46" creationdate="20170911T225448Z">
+        <seg>Optiones del editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -35344,8 +35360,16 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095326Z">
-        <seg>Insere le melior (&amp;best) concordantia confuse</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225646Z">
+        <seg>Insere le melior (&amp;best) concordantia partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225630Z" creationid="Karm46" creationdate="20170911T225630Z">
+        <seg>Inserer le texto finte (&amp;source)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45579,8 +45603,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095325Z">
-        <seg>Per favor selige qual texto tu desirarea esser inserte in le segmento nondum rendite, quando tu move a illo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225517Z">
+        <seg>Per favor selige qual texto tu desirarea esser inserite in le segmento nondum rendite, quando tu move a illo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53515,6 +53539,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094911Z">
         <seg>Equipa (Tea&amp;m)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225421Z" creationid="Karm46" creationdate="20170911T225421Z">
+        <seg>Equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -68833,8 +68865,8 @@ crear su plica de configuration.</seg>
       <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095328Z">
-        <seg>[confuse]</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T225708Z">
+        <seg>[partial]</seg>
       </tuv>
     </tu>
     <tu>
