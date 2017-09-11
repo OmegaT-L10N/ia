@@ -6334,8 +6334,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T221508Z">
-        <seg>&lt;e0&gt;Installar in un classificator nove.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>&lt;e0&gt;Installar in un plica nove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15102,8 +15102,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095353Z">
-        <seg>Un note es solmente un commento re iste collection de texto primari e traduction</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Un note es solmente un commento re iste collection de texto fonte e traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -17134,8 +17134,8 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095049Z">
-        <seg>Un error occurreva durante le tentativa de crear un nove classificator</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Un error occurreva durante le tentativa de crear un nove plica</seg>
       </tuv>
     </tu>
     <tu>
@@ -20226,16 +20226,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094955Z">
-        <seg>On non pote acceder al classificator del glossario!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>On non pote acceder al plica del glossario!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094955Z">
-        <seg>On non pote crear le classificator pro le files rendite:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>On non pote crear le plica pro le files rendite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24252,8 +24252,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095046Z">
-        <seg>Le classificator  inscribite del files dictionario, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica  inscribite del files dictionario, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24396,8 +24396,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095432Z">
-        <seg>monstra le segmentos primari (&amp;Source)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>monstra le segmentos fonte (&amp;Source)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24428,8 +24428,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095334Z">
-        <seg>Monstra omne le segmentos primari (&amp;source) in nigrato</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Monstra omne le segmentos fonte (&amp;source) in nigrato</seg>
       </tuv>
     </tu>
     <tu>
@@ -24484,8 +24484,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T093439Z">
-        <seg>Monstra le fenestra de dialogo &lt;l0&gt;Proprietates del projecto&lt;/l0&gt; pro editar le linguas e le locationes del classificator del projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Monstra le fenestra de dialogo &lt;l0&gt;Proprietates del projecto&lt;/l0&gt; pro editar le linguas e le locationes del plica del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24516,8 +24516,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095354Z">
-        <seg>Monstra le commentos, si illos existe, in le segmento active, in le file primari e le file filtro que lo supporta (e.g. filtro-PO).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Monstra le commentos, si illos existe, in le segmento active, in le file fonte e le file filtro que lo supporta (e.g. filtro-PO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24596,8 +24596,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095351Z">
-        <seg>Expone le entratas del glossario trovate in le files dictionario locate in le classificator /dictionario/ si on ha in le segmento primari.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Expone le entratas del glossario trovate in le files dictionario locate in le plica /dictionario/ si on ha in le segmento fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24612,8 +24612,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095349Z">
-        <seg>Expone le entratas del glossario trovate in le files glossario locate in le classificator /glossario/ si on ha in le segmento primari.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Expone le entratas del glossario trovate in le files glossario locate in le plica /glossario/ si on ha in le segmento fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24636,8 +24636,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T091739Z">
-        <seg>Expone le segmentos del memorias de traduction que concorda con le segmento primari.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Expone le segmentos del memorias de traduction que concorda con le segmento fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27752,8 +27752,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095048Z">
-        <seg>Le classificator existe ja e non es vacue.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica existe ja e non es vacue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28092,8 +28092,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130531T150514Z">
-        <seg>Pro compilar OmegaT a partir del codice primari, vide le &lt;a0&gt;Guida compilar OmegaT ab origine&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Pro compilar OmegaT a partir del codice fonte, vide le &lt;a0&gt;Guida compilar OmegaT ab origine&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29607,8 +29607,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095044Z">
-        <seg>Le classificator  inscribite del files glossario, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica  inscribite del files glossario, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29703,8 +29703,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095437Z">
-        <seg>Vade al segmento primari</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Vade al segmento fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -33900,8 +33900,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In OmegaT, select &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Options &gt; Spell Checking&lt;/g2&gt;, then click &lt;g3&gt;Choose &lt;/g3&gt;beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102645Z">
-        <seg>In OmegaT, selige &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Optiones &gt; Controlo orthographic&lt;/g2&gt;, dunque clicca &lt;g3&gt;Elige &lt;/g3&gt;al latere del campo classificator del file Dictionario.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>In OmegaT, selige &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Optiones &gt; Controlo orthographic&lt;/g2&gt;, dunque clicca &lt;g3&gt;Elige &lt;/g3&gt;al latere del campo plica del file Dictionario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35012,8 +35012,8 @@ sue for patent infringement).</seg>
       <tuv lang="EN">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102644Z">
-        <seg>In tu administrator de file, crea un nove classificator in un position convenibile ubi immagazinar le dictionarios orthographic (D:\Translations\spellcheckers in le exemplo in basso).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>In tu administrator de file, crea un nove plica in un position convenibile ubi immagazinar le dictionarios orthographic (D:\Translations\spellcheckers in le exemplo in basso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35248,8 +35248,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T095347Z">
-        <seg>Inserer le &amp;Tags primari mancante </seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Inserer le &amp;Tags fonte mancante </seg>
       </tuv>
     </tu>
     <tu>
@@ -36422,8 +36422,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T052727Z">
-        <seg>Il pote occurrer, que memorias de traduction, disponibile in le sub-classificator &lt;f0&gt;tm&lt;/f0&gt;, contine segmentos con texto primari identic, ma textos final differente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Il pote occurrer, que memorias de traduction, disponibile in le sub-plica &lt;f0&gt;tm&lt;/f0&gt;, contine segmentos con texto fonte identic, ma textos final differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36528,9 +36528,9 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095404Z">
-        <seg>Non esseva possibile crear le classificator del scriptura
-interne al classificator de configuration.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Non esseva possibile crear le plica del scriptura
+interne al plica de configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36657,8 +36657,8 @@ interne al classificator de configuration.</seg>
       <tuv lang="EN">
         <seg>Its contents will always be sorted alphabetically by the source segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130326T072146Z">
-        <seg>Su contentos essera sempre ordinate alphabeticamente per le segmento primari.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Su contentos essera sempre ordinate alphabeticamente per le segmento fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39324,8 +39324,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095348Z">
-        <seg>On pote trovar le concordantias in tu actual traduction o in le files TMX que tu ha mittite in le classificator  /tm/ .</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>On pote trovar le concordantias in tu actual traduction o in le files TMX que tu ha mittite in le plica  /tm/ .</seg>
       </tuv>
     </tu>
     <tu>
@@ -40336,8 +40336,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Navigate to and select the folder you created for dictionaries.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102646Z">
-        <seg>Naviga e selige le classificator que tu creava pro le dictionarios.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Naviga e selige le plica que tu creava pro le dictionarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40608,8 +40608,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T101324Z">
-        <seg>Nulle file glossario trovate in le classificator "glossary".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Nulle file glossario trovate in le plica "glossary".</seg>
       </tuv>
     </tu>
     <tu>
@@ -41348,8 +41348,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095303Z">
-        <seg>Nota: le arrangiamento del codification del file primari affice solmente le files HHC e HHK que non contine un declaration de codification.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Nota: le arrangiamento del codification del file fonte affice solmente le files HHC e HHK que non contine un declaration de codification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41932,8 +41932,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T051912Z">
-        <seg>Frequentemente le documentos habera alicun tags que ha nihil a facer con le formatos, ma que son alsi importante. In le file primari (e in le file rendite).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Frequentemente le documentos habera alicun tags que ha nihil a facer con le formatos, ma que son alsi importante. In le file fonte (e in le file rendite).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42500,8 +42500,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T081450Z">
-        <seg>OmegaT es capabile de registrar traductiones que es identic al texto primari.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>OmegaT es capabile de registrar traductiones que es identic al texto fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45279,8 +45279,8 @@ toto.</seg>
       <tuv lang="EN">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102646Z">
-        <seg>Mitte le files dictionario Que tu vole usar in iste classificator.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Mitte le files dictionario Que tu vole usar in iste plica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45529,8 +45529,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095048Z">
-        <seg>Selige un classificator differente, per favor.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Selige un plica differente, per favor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48861,8 +48861,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Saves the current work to the internal translation memory (file project_save.tmx located in the project's &lt;f0&gt;omegat&lt;/f0&gt; folder).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T084233Z">
-        <seg>Salva le opera actual in le memoria de traduction interne (file project_save.tmx localisate in le classificator &lt;f0&gt;omegat&lt;/f0&gt; del projecto).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Salva le opera actual in le memoria de traduction interne (file project_save.tmx localisate in le plica &lt;f0&gt;omegat&lt;/f0&gt; del projecto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49839,8 +49839,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095149Z">
-        <seg>Segmenta le texto primari a paragraphos sur:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Segmenta le texto fonte a paragraphos sur:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51571,8 +51571,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source File Encoding</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095141Z">
-        <seg>Codification del file primari</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Codification del file fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -51587,8 +51587,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095140Z">
-        <seg>Modello nomine del file primari</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Modello nomine del file fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -51675,8 +51675,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095043Z">
-        <seg>Le classificator inscribite del files primari non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Le plica inscribite del files fonte non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -51723,8 +51723,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095131Z">
-        <seg>Impossibile trovar le segmento primari pro alcun unitates de traduction.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Impossibile trovar le segmento fonte pro alcun unitates de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51755,8 +51755,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095336Z">
-        <seg>Termino primari:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Termino fonte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51771,8 +51771,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source texts (files for translation)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T092615Z">
-        <seg>Le textos primari (files pro le traduction)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Le textos fonte (files pro le traduction)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53887,9 +53887,9 @@ Le ambito de un substitution de texto es le segmentos de destination del project
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T142203Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
         <seg>In 
-vice essera usate le classificator actual.</seg>
+vice essera usate le plica actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55370,8 +55370,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095404Z">
-        <seg>Le classificator de configuration essera usate
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica de configuration essera usate
 in vice.</seg>
       </tuv>
     </tu>
@@ -55500,9 +55500,9 @@ in vice.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T142419Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
         <seg>Essera usate in vice le 
-classificator currente.</seg>
+plica currente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56657,8 +56657,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="EN">
         <seg>The main project folder contains 3 tmx files, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; and &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name being the name of your project).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130326T072416Z">
-        <seg>Le classificator principal del projecto contine 3 files tmx, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; e &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name es le nomine de tu projecto).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica principal del projecto contine 3 files tmx, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; e &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name es le nomine de tu projecto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57487,8 +57487,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130310T071428Z">
-        <seg>Le regulas applicate (si ulle) dependera ex le lingua primari e final del projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Le regulas applicate (si ulle) dependera ex le lingua fonte e final del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57799,8 +57799,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095042Z">
-        <seg>Le lingua del file primari inscribite es invalide!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224009Z">
+        <seg>Le lingua del file fonte inscribite es invalide!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58539,8 +58539,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095045Z">
-        <seg>Le file glossario scribibile debe trovar se intra le classificator del glossario</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le file glossario scribibile debe trovar se intra le plica del glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -62465,8 +62465,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T171026Z">
-        <seg>Le cercatores del stirpe meliora le qualitate de concordantias con le recognition del parolas declinate in le datos del memoria primari e in le traduction.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>Le cercatores del stirpe meliora le qualitate de concordantias con le recognition del parolas declinate in le datos del memoria fonte e in le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62851,8 +62851,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095044Z">
-        <seg>Le classificator  inscribite del files rendite, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica  inscribite del files rendite, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -63027,8 +63027,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095046Z">
-        <seg>Le classificator  inscribite del files memoria de traduction, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica  inscribite del files memoria de traduction, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -66709,8 +66709,8 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095045Z">
-        <seg>Le classificator  inscribite del files glossario scribibile, non existe!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Le plica  inscribite del files glossario scribibile, non existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -67965,8 +67965,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T101528Z">
-        <seg>Tu pote anque copiar le files in le classificator "Primari" de tu projectos per medio de tu Administrator de files favorite e recargar tu projecto con le commando "Recarga" del menu "Projecto".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Tu pote anque copiar le files in le plica "Primari" de tu projectos per medio de tu Administrator de files favorite e recargar tu projecto con le commando "Recarga" del menu "Projecto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -68671,9 +68671,9 @@ them.</seg>
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095402Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
         <seg>Tu systema operative refusava a OmegaT de
-crear su classificator de configuration.</seg>
+crear su plica de configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77778,8 +77778,8 @@ a</seg>
       <tuv lang="EN">
         <seg>main project folder</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102709Z">
-        <seg>classificator principal del projecto</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>plica principal del projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -81786,8 +81786,8 @@ a</seg>
       <tuv lang="EN">
         <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130530T170359Z">
-        <seg>termino primari    &lt;tabulation&gt;    termino de destination    &lt;tabulation&gt;    altere information</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
+        <seg>termino fonte    &lt;tabulation&gt;    termino de destination    &lt;tabulation&gt;    altere information</seg>
       </tuv>
     </tu>
     <tu>
