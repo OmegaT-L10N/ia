@@ -50312,6 +50312,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T231329Z" creationid="Karm46" creationdate="20170911T231329Z">
+        <seg>Eliger un file de script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T094528Z">
