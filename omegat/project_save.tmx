@@ -1370,8 +1370,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095024Z">
-        <seg>Face (&amp;Make) le regulas de segmentation specific pro iste projecto</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182715Z">
+        <seg>Render (&amp;Make) le regulas de segmentation specific pro iste projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -22768,8 +22768,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create New Project</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095024Z">
-        <seg>Crea Nove Projecto</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182723Z">
+        <seg>Crear un nove projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -25462,8 +25462,8 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095021Z">
-        <seg>Habilita (E&amp;nable) le segmentation al nivello del phrase</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182658Z">
+        <seg>Activar (E&amp;nable) le segmentation al nivello del phrase</seg>
       </tuv>
     </tu>
     <tu>
@@ -51611,8 +51611,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095025Z">
-        <seg>Classificator del files primari:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182740Z">
+        <seg>Plica del files fonte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62817,8 +62817,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095026Z">
-        <seg>Classificator del files final:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T182743Z">
+        <seg>Plica del files rendite:</seg>
       </tuv>
     </tu>
     <tu>
