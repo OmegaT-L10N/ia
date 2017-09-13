@@ -17922,8 +17922,8 @@ paragraph of section 11).</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095321Z">
-        <seg>Es tu secur que tu vole remover le gruppo de regulas de segmentation {0} ?</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072912Z">
+        <seg>Desira tu vermente remover le gruppo de regulas de segmentation {0} ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35450,8 +35450,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T225630Z" creationid="Karm46" creationdate="20170911T225630Z">
-        <seg>Inserer le texto finte (&amp;source)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T073142Z" creationid="Karm46" creationdate="20170911T225630Z">
+        <seg>Inserer le texto fonte (&amp;source)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36480,8 +36480,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095323Z">
-        <seg>illo es usate pro signar tu traductiones.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072955Z">
+        <seg>Illo es usate pro signar tu traductiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45588,8 +45588,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095323Z">
-        <seg>per favor inscribe tu nomine/ID.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072925Z">
+        <seg>Per favor inscribe tu nomine/ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45693,8 +45693,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T225517Z">
-        <seg>Per favor selige qual texto tu desirarea esser inserite in le segmento nondum rendite, quando tu move a illo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T073056Z">
+        <seg>Per favor elige qual texto tu desira que es inserite in le segmento nondum rendite, quando tu move a illo.</seg>
       </tuv>
     </tu>
     <tu>
