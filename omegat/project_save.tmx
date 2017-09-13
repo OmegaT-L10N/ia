@@ -38262,6 +38262,16 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T171959Z" creationid="Karm46" creationdate="20170913T171959Z">
+        <seg>Licensing informationes
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like OpenOffice.org files, these file formats can be translated in OmegaT with very little risk of corruption.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T211727Z">
@@ -42745,6 +42755,18 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172011Z" creationid="Karm46" creationdate="20170913T172011Z">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T152456Z">
@@ -43105,6 +43127,14 @@ tu plica home.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T215752Z">
         <seg>Curso de exercitation de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172133Z" creationid="Karm46" creationdate="20170913T172133Z">
+        <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67798,6 +67828,16 @@ your programs, too.</seg>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094937Z">
         <seg>Tu pote trovar information statistic detaliate in le file:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172035Z" creationid="Karm46" creationdate="20170913T172035Z">
+        <seg>Tu pote cercar le texto del licentia in
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
