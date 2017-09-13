@@ -35666,6 +35666,16 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172835Z" creationid="Karm46" creationdate="20170913T172835Z">
+        <seg>Installar OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
@@ -42913,6 +42923,16 @@ tu plica home.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172958Z" creationid="Karm46" creationdate="20170913T172958Z">
+        <seg>OmegaT es jam preste
+a esser lanceate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T011949Z">
@@ -45526,6 +45546,14 @@ everything.</seg>
         <seg>Pone le files fonte in ./source e le
 material supplemental in ./tm, ./glossary, e ./dictionary como requirite, pois committe
 toto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172850Z" creationid="Karm46" creationdate="20170913T172850Z">
+        <seg>Poner le archivo in qualcunque convenibile plica e discassa illo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67982,6 +68010,15 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220833Z">
         <seg>Comocunque Tu pote obtener un installation plus nette e plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T173055Z" creationid="Karm46" creationdate="20170913T173055Z">
+        <seg>Comocunque tu pote obtener un installation plus nette e plus facile per medio del script de installation (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
