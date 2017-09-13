@@ -35666,6 +35666,16 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172538Z" creationid="Karm46" creationdate="20170913T172538Z">
+        <seg>Installar OmegaT (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -40234,6 +40244,16 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T112753Z" creationid="MELO46" creationdate="20140701T112753Z">
         <seg>Move in Alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172815Z" creationid="Karm46" creationdate="20170913T172815Z">
+        <seg>Move le plica a un
+position appropriate como le plica Applicationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64068,6 +64088,16 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T074354Z">
         <seg>Dispacchetta le file &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; e entra in le plica OmegaT_3.n.n_Source o entra in le plica &lt;e2&gt;./omegat/&lt;/e2&gt; del codice SVN discargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172723Z" creationid="Karm46" creationdate="20170913T172723Z">
+        <seg>Discassa le archivo OmegaT.zip pro obtener un plica que contine un
+file de documentation e le application OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
