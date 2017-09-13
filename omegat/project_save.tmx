@@ -21212,8 +21212,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095407Z">
-        <seg>Clicca sur le item '{0}' del menu</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T080835Z">
+        <seg>Clicca sur le commando '{0}' del menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -85728,8 +85728,8 @@ a</seg>
       <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095407Z">
-        <seg>{1}, realisate ab '{2}'</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T080755Z">
+        <seg>{1}, exequite de '{2}'</seg>
       </tuv>
     </tu>
     <tu>
