@@ -42318,8 +42318,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095341Z">
-        <seg>OmegaT pote alsi controlar pro variabiles  de programmation (variabiles de function printf) like '%s'.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T074621Z">
+        <seg>OmegaT pote alsi controlar le variabiles de programmation (variabiles de function printf) como '%s'.</seg>
       </tuv>
     </tu>
     <tu>
