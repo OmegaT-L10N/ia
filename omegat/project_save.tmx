@@ -25142,6 +25142,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T174946Z" creationid="Karm46" creationdate="20170913T174946Z">
+        <seg>Clicca duo vices sur le application OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on the file OmegaT.app.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094653Z">
@@ -32900,6 +32908,17 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T174827Z" creationid="Karm46" creationdate="20170913T174827Z">
+        <seg>Tu pote vider le file OmegaT, ma non OmegaT.exe in tu 
+gestor de files (Windows Explorer), cambia le configurationes assi que le extensiones del files 
+es monstrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
@@ -38056,6 +38075,16 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094649Z">
         <seg>Como lancear OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T174904Z" creationid="Karm46" creationdate="20170913T174904Z">
+        <seg>Como lancear OmegaT (Mac)
+======================</seg>
       </tuv>
     </tu>
     <tu>
