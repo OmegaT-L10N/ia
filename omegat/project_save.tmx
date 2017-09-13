@@ -1218,8 +1218,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095329Z">
-        <seg>Vade (&amp;Go) al proxime segmento non rendite, arresta quando il ha al minus un traduction alternativa</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T073234Z">
+        <seg>Ir (&amp;Go) al segmento successive non rendite, arrestar quando il ha al minus un traduction alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,8 +16658,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T225844Z" creationid="Karm46" creationdate="20170911T225844Z">
-        <seg>Permitte (Allo&amp;w) le modifica del tags</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T073252Z" creationid="Karm46" creationdate="20170911T225844Z">
+        <seg>Permitter le modification del tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -18686,8 +18686,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130512T091526Z">
-        <seg>Tenta de converter le &amp;numeros quando insere un concordantia partial</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T073245Z">
+        <seg>Tentar de converter le &amp;numeros quando on insere un concordantia partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -45652,8 +45652,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T121342Z">
-        <seg>Per favor selige como monstrar le tags del TMXs non-OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T073331Z">
+        <seg>Per favor eliger como monstrar le tags del TMXs non-OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
