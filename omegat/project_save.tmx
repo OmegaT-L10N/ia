@@ -12168,8 +12168,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094655Z">
-        <seg>&lt;nomine e via del file executabile Java&gt; -jar OmegaT.jar</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180109Z">
+        <seg>&lt;nomine e itinere del file executabile Java&gt; -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -31312,6 +31312,16 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180134Z" creationid="Karm46" creationdate="20170913T180134Z">
+        <seg>Si Java es installate a nivello de systema e es in le percurso del commando,  
+non necessita inserer le percurso integral.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140118T232205Z">
@@ -38139,6 +38149,16 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130531T113133Z">
         <seg>Lancear OmegaT ab le linea de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180026Z" creationid="Karm46" creationdate="20170913T180026Z">
+        <seg>Lancear OmegaT per linea de commando (tote le systemas)
+====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -55815,8 +55835,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The command to launch OmegaT is:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094655Z">
-        <seg>le commando pro lancear OmegaT es:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180044Z">
+        <seg>Le commando pro lancear OmegaT es:</seg>
       </tuv>
     </tu>
     <tu>
