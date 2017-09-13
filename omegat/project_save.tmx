@@ -33186,6 +33186,16 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T173655Z" creationid="Karm46" creationdate="20170913T173655Z">
+        <seg>Si tu ha jam Java installate sur tu Systema, un maniera pro installar OmegaT 
+es usar Java Web Start..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094629Z">
@@ -36783,6 +36793,16 @@ interne al plica de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114137Z">
         <seg>Illo installara le ambiente correcte pro tu computator e le mesme applicationes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T173814Z" creationid="Karm46" creationdate="20170913T173814Z">
+        <seg>Illo installara le correcte ambiente pro tu computator e le application
+ipse al prime lanceamento.</seg>
       </tuv>
     </tu>
     <tu>
