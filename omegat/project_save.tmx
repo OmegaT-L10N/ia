@@ -33820,6 +33820,16 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T174159Z" creationid="Karm46" creationdate="20170913T174159Z">
+        <seg>Si, durante le installation, tu ha create un via breve sur le scriptorio, duple-
+clicca sur ille via breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T232720Z">
@@ -38046,6 +38056,16 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094649Z">
         <seg>Como lancear OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T174107Z" creationid="Karm46" creationdate="20170913T174107Z">
+        <seg>Como lancear OmegaT (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -56776,6 +56796,16 @@ modification has been made.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094657Z">
         <seg>Le programma de installation pote te crear vias breve in le menu de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T174523Z" creationid="Karm46" creationdate="20170913T174523Z">
+        <seg>Le programma de installation pote crear vias breve pro te in le menu de initio, sur le
+scriptorio e in le area de lanceamento celere.</seg>
       </tuv>
     </tu>
     <tu>
