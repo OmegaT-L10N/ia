@@ -35686,6 +35686,16 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T173257Z" creationid="Karm46" creationdate="20170913T173257Z">
+        <seg>Installar OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -62804,6 +62814,20 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T173240Z" creationid="Karm46" creationdate="20170913T173240Z">
+        <seg>Pro usar ce script, aperi un 
+fenestra terminal (consola), cambia le plica in le plica
+continente le scriptes OmegaT.jar e linux-install.sh, e exeque le
+script ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Today, I mean, Ukraine there is where politics comes to a sharp focus: the people in Western Europe &lt;t0/&gt;have not had to deal with anything like this in recent history,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140505T062104Z" creationid="MELO46" creationdate="20140505T062104Z">
@@ -65060,6 +65084,16 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101434Z">
         <seg>Usar Java Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T173352Z" creationid="Karm46" creationdate="20170913T173352Z">
+        <seg>Usar Java Web Start pro installar OmegaT (tote le platteformas)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>
