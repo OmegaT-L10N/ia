@@ -17164,6 +17164,26 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T081443Z" creationid="Karm46" creationdate="20170913T081443Z">
+        <seg>Un error occurreva durante le tractamento de un evento de cambio de typo de characteres:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T081226Z" creationid="Karm46" creationdate="20170913T081226Z">
+        <seg>Un error occurreva durante le processo de un evento de nove file:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
@@ -17189,6 +17209,16 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T081026Z" creationid="Karm46" creationdate="20170913T081026Z">
         <seg>Un error occurreva durante le processo de un evento de lanceamento initial de application:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T081347Z" creationid="Karm46" creationdate="20170913T081347Z">
+        <seg>Un error occurreva durante le processo de un evento de entrata activate:
 {0}</seg>
       </tuv>
     </tu>
