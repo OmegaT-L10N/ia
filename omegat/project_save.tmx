@@ -24702,8 +24702,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T230822Z" creationid="Karm46" creationdate="20170911T230822Z">
-        <seg>Expone le traduction del segmento primari per le servicios de traduction a machina que tu seligeva in 'Preferentias &gt; Traduction automatic', si celle servicios es disponibile.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T075649Z" creationid="Karm46" creationdate="20170911T230822Z">
+        <seg>Monstra le traduction del segmento fonte per le servicios de traduction a machina que tu seligeva in 'Preferentias &gt; Traduction automatic', si ille servicios es disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41722,8 +41722,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160728T235709Z" creationid="Melo46" creationdate="20160728T235709Z">
-        <seg>Notificar me quando un segmento ha concordantias de glossario</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T075352Z" creationid="Melo46" creationdate="20160728T235709Z">
+        <seg>Notificar me quando un segmento ha concordantias de glossarios</seg>
       </tuv>
     </tu>
     <tu>
