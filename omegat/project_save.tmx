@@ -17174,6 +17174,26 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T081123Z" creationid="Karm46" creationdate="20170913T081123Z">
+        <seg>Un error occurreva durante le processo de un evento de arresto de application:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T081026Z" creationid="Karm46" creationdate="20170913T081026Z">
+        <seg>Un error occurreva durante le processo de un evento de lanceamento initial de application:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
