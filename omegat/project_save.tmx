@@ -1002,8 +1002,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095342Z">
-        <seg>Non (&amp;Do not) controlar le  variabiles de function printf</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T074703Z">
+        <seg>Non (&amp;Do not) controlar le variabiles de function printf</seg>
       </tuv>
     </tu>
     <tu>
@@ -16706,8 +16706,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20151016T224754Z" creationid="Melo" creationdate="20151016T224754Z">
-        <seg>Permitter que le tags rendite es in un ordine di&amp;fferente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T074849Z" creationid="Melo" creationdate="20151016T224754Z">
+        <seg>Permitter que le tags rendite es in ordine di&amp;fferente</seg>
       </tuv>
     </tu>
     <tu>
@@ -20620,8 +20620,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095343Z">
-        <seg>Controla omne (&amp;all) le variabiles printf (e.g., %s, %-s)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T074741Z">
+        <seg>Controlar tote (&amp;all) le variabiles printf (e.g., %s, %-s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20844,8 +20844,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095344Z">
-        <seg>Controla le modellos MessageFormat &amp;java simple (e.g. {0})</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T074748Z">
+        <seg>Controlar le modellos MessageFormat &amp;java simple (e.g. {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -29257,8 +29257,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095342Z">
-        <seg>Le controlo complete pote menar a false positivos in textos normal.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T074652Z">
+        <seg>Le controlo complete pote ducer a false positivos in textos normal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65464,8 +65464,8 @@ cercabile sin subscription:</seg>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T130443Z">
-        <seg>Advertimento: Le cambio del ordine del tags pote franger le documento rendite!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T074924Z">
+        <seg>Advertimento: Le cambio del ordine del tags pote corrumper le documento rendite!</seg>
       </tuv>
     </tu>
     <tu>
