@@ -15350,8 +15350,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T080904Z">
-        <seg>Un projecto de traduction &lt;e0&gt;Example_Project&lt;/e0&gt; con le preparationes base essera create como nove sub plica con le structura sequente:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Un projecto de traduction &lt;e0&gt;Example_Project&lt;/e0&gt; con le configurationes base essera create como nove sub plica con le structura sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16044,8 +16044,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Additional windows are available, as well as dialogs, used to change OmegaT project settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140126T011930Z">
-        <seg>Additional fenestras son disponibile, como le fenestras de dialogo, usate pro cambiar le preparationes del projecto OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Additional fenestras son disponibile, como le fenestras de dialogo, usate pro cambiar le configurationes del projecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17382,8 +17382,8 @@ work under this License, and how to view a copy of this License.</seg>
       <tuv lang="EN">
         <seg>An xml file with all the GUI accessible option settings</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T180615Z">
-        <seg>Un file xml con omne le preparationes del option accessibile per Interfacie Graphic del Usator (Graphical User Interface - GUI)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Un file xml con omne le configurationes del option accessibile per Interfacie Graphic del Usator (Graphical User Interface - GUI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18340,9 +18340,9 @@ paragraph of section 11).</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T142233Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Ergo,
-omne preparationes essera al lor preparation initial e tu
+omne configurationes essera al lor preparation initial e tu
 pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
     </tu>
@@ -20540,8 +20540,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T211631Z">
-        <seg>Cambiar le preparationes del segmentation pote producer alicun segmentos jam rendite ser fisse o mergite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Cambiar le configurationes del segmentation pote producer alicun segmentos jam rendite ser fisse o mergite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21148,8 +21148,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T061341Z">
-        <seg>Clicca &lt;e0&gt;preparationes base &lt;/e0&gt; pro prefixar le filtros de file al preparationes base.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Clicca &lt;e0&gt;configurationes base &lt;/e0&gt; pro prefixar le filtros de file al configurationes base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23882,8 +23882,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095314Z">
-        <seg>Jam arrangiate</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072333Z">
+        <seg>Jam prefixate</seg>
       </tuv>
     </tu>
     <tu>
@@ -24678,8 +24678,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the project's settings for modification, if required.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130706T085328Z">
-        <seg>Monstra le preparationes del projecto pro modificar los, si illo necesse.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Monstra le configurationes del projecto pro modificar los, si illo necesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31684,9 +31684,9 @@ excuse you from the conditions of this License.</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T142453Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Si un ulterior accesso al location desiderate essera accordate, 
-iste location essera usate e omne preparationes retornara al
+iste location essera usate e omne configurationes retornara al
 lor initio a causa del cambiamento de location.</seg>
       </tuv>
     </tu>
@@ -31702,8 +31702,8 @@ lor initio a causa del cambiamento de location.</seg>
       <tuv lang="EN">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102655Z">
-        <seg>Si necessari, edita le  nomines del file del dictionario o cambia tu preparationes pro le lingua de tu projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si necessari, edita le  nomines del file del dictionario o cambia tu configurationes pro le lingua de tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32234,8 +32234,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="EN">
         <seg>If the language of the user's system is not available, &lt;a6&gt;OmegaT&lt;/a6&gt; defaults to English.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140126T005703Z">
-        <seg>Si le lingua del systema del usator non es disponibile, &lt;a6&gt;OmegaT&lt;/a6&gt; adopta le preparationes base in anglese.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si le lingua del systema del usator non es disponibile, &lt;a6&gt;OmegaT&lt;/a6&gt; adopta le configurationes base in anglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32676,8 +32676,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T142927Z">
-        <seg>Si tu essera interessate re altere preparationes de iste fenestra de dialogo, tu pote revenir a illa in qualcunque tempore pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si tu essera interessate re altere configurationes de iste fenestra de dialogo, tu pote revenir a illa in qualcunque tempore pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32732,8 +32732,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T104832Z">
-        <seg>Si tu non pote lancear &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (nulle ambiente graphic disponibile): copia le files del preparationes ex alicun altere installation &lt;a1&gt;OmegaT&lt;/a1&gt; sur un altere machina verso un plica specific.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si tu non pote lancear &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (nulle ambiente graphic disponibile): copia le files del configurationes ex alicun altere installation &lt;a1&gt;OmegaT&lt;/a1&gt; sur un altere machina verso un plica specific.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32836,8 +32836,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130820T090420Z">
-        <seg>Si tu non pote exequer &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (nulle ambiente graphic disponibile): copia le files del preparationes ex alicun altere installation &lt;a1&gt;OmegaT&lt;/a1&gt; sur un altere machina a un plica specific.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si tu non pote exequer &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (nulle ambiente graphic disponibile): copia le files del configurationes ex alicun altere installation &lt;a1&gt;OmegaT&lt;/a1&gt; sur un altere machina a un plica specific.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33258,8 +33258,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T213449Z">
-        <seg>Si tu necessita preparationes alterate, le files de configuration debe esser disponibile.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si tu necessita configurationes alterate, le files de configuration debe esser disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33274,8 +33274,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you need non-standard settings, the corresponding configuration files (&lt;l0&gt;filters.conf&lt;/l0&gt; and &lt;l1&gt;segmentation.conf&lt;/l1&gt;) must be present.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130820T222913Z">
-        <seg>Si tu necessita preparationes non-standard, le files de configuration correspondente (&lt;l0&gt;filters.conf&lt;/l0&gt; e &lt;l1&gt;segmentation.conf&lt;/l1&gt;) debe esser presente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si tu necessita configurationes non-standard, le files de configuration correspondente (&lt;l0&gt;filters.conf&lt;/l0&gt; e &lt;l1&gt;segmentation.conf&lt;/l1&gt;) debe esser presente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33418,16 +33418,16 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T140603Z">
-        <seg>Si tu lancea &lt;a1&gt;OmegaT&lt;/a1&gt; in modo consola, il usara le mesme preparationes.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si tu lancea &lt;a1&gt;OmegaT&lt;/a1&gt; in modo consola, il usara le mesme configurationes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the settings you configured.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130820T092827Z">
-        <seg>Si tu lancea &lt;a1&gt;OmegaT&lt;/a1&gt; in modo consola, illo usara le preparationes que tu configurava.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Si tu lancea &lt;a1&gt;OmegaT&lt;/a1&gt; in modo consola, illo usara le configurationes que tu configurava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34174,8 +34174,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130822T154008Z">
-        <seg>In caso de plicas Projecto complete OmegaT - in in altere parolas le memorias de traduction implicate assi como le plicas fonte, le preparationes del projecto etc - son tractate per le RCS seligite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>In caso de plicas Projecto complete OmegaT - in in altere parolas le memorias de traduction implicate assi como le plicas fonte, le configurationes del projecto etc - son tractate per le RCS seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36242,8 +36242,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It is however worth customizing the filter settings for optimum results.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130529T212002Z">
-        <seg>Il es conveniente tamen personalisar le preparationes del filtro pro resultatos optime.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Il es conveniente tamen personalisar le configurationes del filtro pro resultatos optime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38558,8 +38558,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Losing them usually results in OmegaT reverting to its "factory settings".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T072946Z">
-        <seg>Le perdita de illos resulta habitualmente que OmegaT reverte a su "preparationes de fabrica".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Le perdita de illos resulta habitualmente que OmegaT reverte a su "configurationes de fabrica".</seg>
       </tuv>
     </tu>
     <tu>
@@ -38950,16 +38950,16 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Make sure that your &lt;e2&gt;PATH &lt;/e2&gt;settings are correct and that .&lt;e3&gt;jar&lt;/e3&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130817T072710Z">
-        <seg>Face secur te que tu preparationes PERCURSO es correcte e que le files .jar  es associate debitemente con un lanceator de Java.&lt;e2&gt;&lt;/e2&gt;&lt;e3&gt;&lt;/e3&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Face secur te que tu configurationes PERCURSO es correcte e que le files .jar  es associate debitemente con un lanceator de Java.&lt;e2&gt;&lt;/e2&gt;&lt;e3&gt;&lt;/e3&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Make sure that your &lt;e3&gt;PATH&lt;/e3&gt; settings are correct and that &lt;e4&gt;.jar &lt;/e4&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140124T232339Z">
-        <seg>Face secur te que tu preparationes del &lt;e3&gt;PATH&lt;/e3&gt; son correcte e que le files &lt;e4&gt;.jar &lt;/e4&gt; son associate debitemente con un lanceator Java.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Face secur te que tu configurationes del &lt;e3&gt;PATH&lt;/e3&gt; son correcte e que le files &lt;e4&gt;.jar &lt;/e4&gt; son associate debitemente con un lanceator Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41150,16 +41150,16 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that default segmentation rules and file filters can be overridden by project-specific setup (see above).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T180939Z">
-        <seg>Nota que le regulas de segmentation base e le filtros de file pote esser superscribite per preparationes specific del projecto (vide supra).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Nota que le regulas de segmentation base e le filtros de file pote esser superscribite per configurationes specific del projecto (vide supra).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T220613Z">
-        <seg>Nota que mesmo post que le preparationes de Word esseva cambiate de maniera que illos non insereva codices "enoiose", per exemplo pro le auto syllabation, tal codices pote ancora esser presente in le file e non removite per le cambio in le configuration.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Nota que mesmo post que le configurationes de Word esseva cambiate de maniera que illos non insereva codices "enoiose", per exemplo pro le auto syllabation, tal codices pote ancora esser presente in le file e non removite per le cambio in le configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41414,8 +41414,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095317Z">
-        <seg>Nota: omne le preparationes del regula de segmentation con un schema de lingua concordante es applicate in le arrangiamento date.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Nota: omne le configurationes del regula de segmentation con un schema de lingua concordante es applicate in le arrangiamento date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42302,8 +42302,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130817T075249Z">
-        <seg>OmegaT selige automaticamente un tokenizer pro le lingua fonte e uno pro le lingua de destination secundo le preparationes del lingua del projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>OmegaT selige automaticamente un tokenizer pro le lingua fonte e uno pro le lingua de destination secundo le configurationes del lingua del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46361,8 +46361,8 @@ projecto local sin functionalitate de equipa.</seg>
       <tuv lang="EN">
         <seg>Project Specific Segmentation Setup</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095316Z">
-        <seg>Preparation specific del segmentation del Projecto</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072353Z">
+        <seg>Configuration specific del segmentation del projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -47413,8 +47413,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Reloads the project to take external changes in source files, legacy translation memories, glossaries and project settings into account.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T113737Z">
-        <seg>Recarga le projecto pro recolliger cambios externe in le files fonte, le vetule memorias de traduction, le glossarios e le preparationes del projecto in le conto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Recarga le projecto pro recolliger cambios externe in le files fonte, le vetule memorias de traduction, le glossarios e le configurationes del projecto in le conto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48494,16 +48494,16 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and set the settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130820T092650Z">
-        <seg>Exequer &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (con le interfacie graphic, GUI) e adjustar le preparationes.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Exequer &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (con le interfacie graphic, GUI) e adjustar le configurationes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T221633Z">
-        <seg>Exeque &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (con le GUI) e specifica le preparationes.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Exeque &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (con le GUI) e specifica le configurationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49778,8 +49778,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>See font settings in &lt;l0&gt;Miscellanea&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T221459Z">
-        <seg>Vide le preparationes del typo del character in &lt;l0&gt;Miscellanea&lt;/l0&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Vide le configurationes del typo del character in &lt;l0&gt;Miscellanea&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50002,8 +50002,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Segmentation Setup</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095316Z">
-        <seg>Preparation del Segmentation</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072345Z">
+        <seg>Configuration del segmentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -50714,8 +50714,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130409T080400Z">
-        <seg>Fenestras de dialogo del preparationes</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Fenestras de dialogo del configurationes</seg>
       </tuv>
     </tu>
     <tu>
@@ -54220,8 +54220,8 @@ implementation is available to the public in source code form.</seg>
       <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T212525Z">
-        <seg>Le version "vetule" de OmegaT essera superscribite, ma omne le preparationes essera retenite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Le version "vetule" de OmegaT essera superscribite, ma omne le configurationes essera retenite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57810,8 +57810,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T200956Z">
-        <seg>Le preparationes del segmentation adressa sol le maniera con le qual le Files fonte son tractate per &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Le configurationes del segmentation adressa sol le maniera con le qual le Files fonte son tractate per &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57882,8 +57882,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The settings in your project indicate which is the source and which the target language.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T042513Z">
-        <seg>Le preparationes in tu projecto indica qual es le lingua fonte e qual le lingua de destination.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Le configurationes in tu projecto indica qual es le lingua fonte e qual le lingua de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60864,8 +60864,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This method will also use preferences and settings you have made from within OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130703T083805Z">
-        <seg>Iste methodo usara alsi le preferentias e le preparationes que tu ha facite inter OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Iste methodo usara alsi le preferentias e le configurationes que tu ha facite inter OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61296,8 +61296,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T210223Z">
-        <seg>Isto resultara in deletion del preparationes de configuration de omne usator que esseva facite (assi como cambios al regulas de segmentation), e – si le plica es delite "debitemente", id es. non simplemente movite al antiqualia, non pote esser restaurate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Isto resultara in deletion del configurationes de configuration de omne usator que esseva facite (assi como cambios al regulas de segmentation), e – si le plica es delite "debitemente", id es. non simplemente movite al antiqualia, non pote esser restaurate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62332,8 +62332,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T165156Z" creationid="Melo" creationdate="20150422T075600Z">
-        <seg>Pro rememorar te del preparationes initial del projecto, aperi le fenestra de dialogo Proprietates del projecto, pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z" creationid="Melo" creationdate="20150422T075600Z">
+        <seg>Pro rememorar te del configurationes initial del projecto, aperi le fenestra de dialogo Proprietates del projecto, pulsante &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64004,8 +64004,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130820T174512Z">
-        <seg>Usque tu ha qualque experientia con OmegaT, il es plus secur considerar tote le preparationes final un vice que le traduction initiava – a minus que, naturalmente, tu percipe que esseva facite un error major.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Usque tu ha qualque experientia con OmegaT, il es plus secur considerar tote le configurationes final un vice que le traduction initiava – a minus que, naturalmente, tu percipe que esseva facite un error major.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64676,16 +64676,16 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>User settings files</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140109T161548Z">
-        <seg>Files del preparationes del usator</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Files del configurationes del usator</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>User settings files: These are created when OmegaT's behavior is modified by user preference settings.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T065440Z">
-        <seg>Files del preparationes del usator: istos es create quando le comportamento de OmegaT es modificate per le preferentia del preparationes del usator.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Files del configurationes del usator: istos es create quando le comportamento de OmegaT es modificate per le preferentia del configurationes del usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67646,8 +67646,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can customize the kaptain launch script so that your preferences are the defaults; simply edit the omegat.kaptn file in a text editor.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T104601Z">
-        <seg>Tu pote personalisar le script kaptain lanceamento de maniera que tu preferentias sia le preparationes initial; redige simplemente le file omegat.kaptn in un editor de texto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
+        <seg>Tu pote personalisar le script kaptain lanceamento de maniera que tu preferentias sia le configurationes initial; redige simplemente le file omegat.kaptn in un editor de texto.</seg>
       </tuv>
     </tu>
     <tu>
