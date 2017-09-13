@@ -28128,6 +28128,16 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T175746Z" creationid="Karm46" creationdate="20170913T175746Z">
+        <seg>Pro un modo plus facile de lancear OmegaT, tu pote usar le 
+script Kaptain (omegat.kaptn) providite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a particular</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155753Z" creationid="MELO46" creationdate="20131226T155753Z">
@@ -33547,6 +33557,14 @@ es usar Java Web Start..</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065040Z" creationid="MELO" creationdate="20131219T065040Z">
         <seg>If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T175655Z" creationid="Karm46" creationdate="20170913T175655Z">
+        <seg>Si tu usava le script linux-install.sh, tu potera lancear OmegaT con:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62903,6 +62921,16 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T175817Z" creationid="Karm46" creationdate="20170913T175817Z">
+        <seg>A usar iste script tu debe primo installar
+Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -68371,6 +68399,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094659Z">
         <seg>Deinde tu pote lancear le scriptura de lancha de Kaptain con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T175918Z" creationid="Karm46" creationdate="20170913T175918Z">
+        <seg>Deinde tu pote lancear le script de lanceamento de Kaptain per:</seg>
       </tuv>
     </tu>
     <tu>
