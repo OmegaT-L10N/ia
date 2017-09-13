@@ -2264,6 +2264,16 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180442Z" creationid="Karm46" creationdate="20170913T180442Z">
+        <seg>(si tu pensa que tu ha significativemente contribuite al projecto OmegaT 
+ma tu non vide tu nomine in le listas, senti te libere de nos continger.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T175610Z">
@@ -22227,6 +22237,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094558Z">
         <seg>Contribuentes a OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180229Z" creationid="Karm46" creationdate="20170913T180229Z">
+        <seg>Le contributiones al codice es documentate in /docs/contributors.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180151Z" creationid="Karm46" creationdate="20170913T180151Z">
+        <seg>Contributores
+============</seg>
       </tuv>
     </tu>
     <tu>
@@ -44826,8 +44854,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>Other contributions by</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094714Z">
-        <seg>altere contributiones per</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180336Z">
+        <seg>Altere contributiones per</seg>
       </tuv>
     </tu>
     <tu>
@@ -70688,8 +70716,8 @@ crear su plica de configuration.</seg>
       <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094716Z">
-        <seg>e multe, multe magis maxime adjuvante gente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T180409Z">
+        <seg>e multe, multo plus maxime adjuvante personas</seg>
       </tuv>
     </tu>
     <tu>
