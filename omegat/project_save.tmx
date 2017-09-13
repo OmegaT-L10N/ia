@@ -35666,6 +35666,16 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172438Z" creationid="Karm46" creationdate="20170913T172438Z">
+        <seg>Installar OmegaT (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing a spelling dictionary</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T194457Z">
@@ -37954,6 +37964,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101457Z">
         <seg>Lancear argumentos de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172524Z" creationid="Karm46" creationdate="20170913T172524Z">
+        <seg>Lancea le programma de installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43035,6 +43053,16 @@ tu plica home.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172244Z" creationid="Karm46" creationdate="20170913T172244Z">
+        <seg>OmegaT necessita le Java Runtime Environment (JRE) version 1.8 o plus alte esser
+installate sur tu systema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
@@ -45969,6 +45997,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130407T222433Z">
         <seg>Pre-requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172213Z" creationid="Karm46" creationdate="20170913T172213Z">
+        <seg>Pre-requisitos pro installar OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -56786,6 +56824,16 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172146Z" creationid="Karm46" creationdate="20170913T172146Z">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The licenses for most software and other practical works are designed</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155620Z" creationid="MELO46" creationdate="20131226T155620Z">
@@ -65636,6 +65684,16 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T064958Z" creationid="MELO" creationdate="20131219T064958Z">
         <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T172430Z" creationid="Karm46" creationdate="20170913T172430Z">
+        <seg>Nos recommenda de usar le pacchettos de OmegaT que include le JRE, a salvar te del
+enoio de lo selectionar, obtener e installar.</seg>
       </tuv>
     </tu>
     <tu>
