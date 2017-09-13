@@ -21851,8 +21851,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095259Z">
-        <seg>Compressa le spatios in le documento rendite</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T071942Z">
+        <seg>Comprimer le spatios in le documento rendite</seg>
       </tuv>
     </tu>
     <tu>
@@ -26890,8 +26890,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095301Z">
-        <seg>Exception durante le edition del optiones:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072035Z">
+        <seg>Exception durante le redaction del optiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30001,8 +30001,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095302Z">
-        <seg>file HHC troppo grande!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072048Z">
+        <seg>File HHC troppo grande!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31254,8 +31254,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095303Z">
-        <seg>Si un file HHC e HHK contine un declaration de codification, isto essera usate in vice de qualcunque valor que tu attribue in iste dialogo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072212Z">
+        <seg>Si un file HHC e HHK contine un declaration de codification, isto essera usate in vice de ulle valor que tu specifica in iste dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41462,8 +41462,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
-        <seg>Nota: le arrangiamento del codification del file fonte affice solmente le files HHC e HHK que non contine un declaration de codification.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072136Z">
+        <seg>Nota: le configuration del codification del file fonte affice solmente le files HHC e HHK que non contine un declaration de codification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47533,8 +47533,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095300Z">
-        <seg>Remove le commentos HTML in le documento rendite</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T071958Z">
+        <seg>Remover le commentos HTML in le documento rendite</seg>
       </tuv>
     </tu>
     <tu>
@@ -52216,8 +52216,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095300Z">
-        <seg>Comencia un nove paragrapho sur:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170913T072012Z">
+        <seg>Comenciar un nove paragrapho sur:</seg>
       </tuv>
     </tu>
     <tu>
