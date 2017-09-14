@@ -898,8 +898,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Browse...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170914T093617Z" creationid="Karm46" creationdate="20170914T093617Z">
-        <seg> Navigation (&amp;Browse)...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100811Z" creationid="Karm46" creationdate="20170914T093617Z">
+        <seg>Navigation (&amp;Browse)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38833,6 +38833,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100804Z" creationid="Karm46" creationdate="20170914T100804Z">
+        <seg>Percurso del installation local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095534Z">
@@ -48014,6 +48022,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100702Z" creationid="Karm46" creationdate="20170914T100702Z">
+        <seg>&amp;servitor remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T171648Z" creationid="ia" creationdate="20170909T171648Z">
@@ -48995,6 +49011,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T203802Z" creationid="MELO46" creationdate="20140629T203802Z">
         <seg>Regula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100931Z" creationid="Karm46" creationdate="20170914T100931Z">
+        <seg>Le ID de regula pote solmente continer litteras latin, underscores, e punctos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51111,6 +51135,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T080758Z" creationid="MELO46" creationdate="20140615T080758Z">
         <seg>Server (renovate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100728Z" creationid="Karm46" creationdate="20170914T100728Z">
+        <seg>Typo de servicio</seg>
       </tuv>
     </tu>
     <tu>
