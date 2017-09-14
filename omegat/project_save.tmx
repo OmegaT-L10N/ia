@@ -37949,6 +37949,30 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094340Z" creationid="Karm46" creationdate="20170914T094340Z">
+        <seg>LanguageTool: mal percurso local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094408Z" creationid="Karm46" creationdate="20170914T094408Z">
+        <seg>LanguageTool: le porta local non es disponibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094529Z" creationid="Karm46" creationdate="20170914T094529Z">
+        <seg>LanguageTool: le servitor retornava XML quando JSON era exacte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTools Rules</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151011T043025Z" creationid="Melo46" creationdate="20151011T043025Z">
@@ -53299,6 +53323,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T170314Z" creationid="ia" creationdate="20170909T170314Z">
         <seg>Excambiar le vistas con {0} e {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094314Z" creationid="Karm46" creationdate="20170914T094314Z">
+        <seg>Cambio al version incorporate.</seg>
       </tuv>
     </tu>
     <tu>
