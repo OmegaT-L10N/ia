@@ -37925,6 +37925,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T101107Z" creationid="Karm46" creationdate="20170914T101107Z">
+        <seg>LanguageTool non es disponibile pro tu lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T105435Z">
@@ -49017,8 +49025,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170914T100931Z" creationid="Karm46" creationdate="20170914T100931Z">
-        <seg>Le ID de regula pote solmente continer litteras latin, underscores, e punctos.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T101011Z" creationid="Karm46" creationdate="20170914T100931Z">
+        <seg>Le ID de regula pote solmente continer litteras latin, lineas basse, e punctos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59667,6 +59675,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T101234Z" creationid="Karm46" creationdate="20170914T101234Z">
+        <seg>Un error occurreva al initialisation de LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There you will learn how translation memories, glossaries, and the search function work.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T152103Z">
@@ -60355,6 +60371,14 @@ le servitor.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T075136Z">
         <seg>Iste Guida provide punctos sur le traduction in OmegaT re files MS Office 2007 (e subsequente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T101031Z" creationid="Karm46" creationdate="20170914T100933Z">
+        <seg>Iste ID es ja usate.</seg>
       </tuv>
     </tu>
     <tu>
