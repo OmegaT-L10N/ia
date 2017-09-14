@@ -26742,6 +26742,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T162803Z" creationid="Karm46" creationdate="20170914T162803Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T182239Z">
