@@ -22423,8 +22423,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095441Z">
-        <seg>Copia</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095647Z">
+        <seg>Copiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -23856,8 +23856,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Cut</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095441Z">
-        <seg>Seca</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095642Z">
+        <seg>Secar</seg>
       </tuv>
     </tu>
     <tu>
@@ -26648,8 +26648,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095440Z">
-        <seg>Error al initio del application</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095626Z">
+        <seg>Error al comenciamento del application</seg>
       </tuv>
     </tu>
     <tu>
@@ -30521,8 +30521,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095439Z">
-        <seg>Occulta '{0}'</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095529Z">
+        <seg>Occultar '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -45559,8 +45559,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>Paste</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095442Z">
-        <seg>Colla</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095715Z">
+        <seg>Collar</seg>
       </tuv>
     </tu>
     <tu>
@@ -53544,6 +53544,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T230231Z" creationid="Karm46" creationdate="20170911T230231Z">
         <seg>Concordantia de TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095518Z" creationid="Karm46" creationdate="20170914T095518Z">
+        <seg>Optiones de concordantia del traduction automatic</seg>
       </tuv>
     </tu>
     <tu>
