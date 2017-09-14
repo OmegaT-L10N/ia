@@ -26616,8 +26616,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T165612Z" creationid="MELO46" creationdate="20131219T165612Z">
-        <seg>Error in le extraction del Traduction Automatic ex MyMemory, responsa:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T163053Z" creationid="MELO46" creationdate="20131219T165612Z">
+        <seg>Error in le extraction del Traduction Automatic ex MyMemory, responde:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26744,8 +26744,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170914T162803Z" creationid="Karm46" creationdate="20170914T162803Z">
-        <seg></seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T163024Z" creationid="Karm46" creationdate="20170914T163024Z">
+        <seg>Error durante le lectura del resultatos del traduction automatic</seg>
       </tuv>
     </tu>
     <tu>
@@ -46408,6 +46408,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T212251Z">
         <seg>Operation de salvamento del preferentias del systema fallite!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T163110Z" creationid="Karm46" creationdate="20170914T163110Z">
+        <seg>Edition premio</seg>
       </tuv>
     </tu>
     <tu>
