@@ -26430,6 +26430,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095901Z" creationid="Karm46" creationdate="20170914T095901Z">
+        <seg>Assecura te que es specificate le correcte version de API (le URL debe includer "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T224715Z">
@@ -37973,6 +37981,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100051Z" creationid="Karm46" creationdate="20170914T100051Z">
+        <seg>LanguageTool: tempore de initiation del servitor foras limite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T094340Z" creationid="Karm46" creationdate="20170914T094340Z">
@@ -37991,8 +38007,8 @@ ipse al prime lanceamento.</seg>
       <tuv lang="EN">
         <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170914T094529Z" creationid="Karm46" creationdate="20170914T094529Z">
-        <seg>LanguageTool: le servitor retornava XML quando JSON era exacte.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095748Z" creationid="Karm46" creationdate="20170914T094529Z">
+        <seg>LanguageTool: le servitor retornava XML, quando era exacte: JSON.</seg>
       </tuv>
     </tu>
     <tu>
