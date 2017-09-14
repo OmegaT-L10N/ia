@@ -896,6 +896,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T093617Z" creationid="Karm46" creationdate="20170914T093617Z">
+        <seg> Navigation (&amp;Browse)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170910T093343Z">
@@ -1834,8 +1842,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095426Z">
-        <seg>(&amp;Source) fonte (segmento {0}):</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T093932Z">
+        <seg>(segmento {0}) fonte (&amp;Source) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -17176,8 +17184,8 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20151014T064158Z" creationid="Melo46" creationdate="20151014T064158Z">
-        <seg>Un error occurreva tentante a discargar le dictionario.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T093838Z" creationid="Melo46" creationdate="20151014T064158Z">
+        <seg>Un error occurreva durante que tentava de discargar le dictionario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46532,8 +46540,8 @@ projecto local sin functionalitate de equipa.</seg>
       <tuv lang="EN">
         <seg>Proceed?</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095423Z">
-        <seg>Procede?</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T093732Z">
+        <seg>Proceder?</seg>
       </tuv>
     </tu>
     <tu>
