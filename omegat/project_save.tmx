@@ -37917,6 +37917,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094621Z" creationid="Karm46" creationdate="20170914T094621Z">
+        <seg>Configurationes de LanguageTool </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130217T001257Z">
@@ -37945,6 +37953,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T124412Z">
         <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094538Z" creationid="Karm46" creationdate="20170914T094538Z">
+        <seg>LanguageTool: Mal URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -39537,6 +39553,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094742Z" creationid="Karm46" creationdate="20170914T094742Z">
+        <seg>Marcar le se&amp;gmentos non-unic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T181055Z">
@@ -39563,8 +39587,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095433Z">
-        <seg>Marca segmentos con (&amp;with) notas</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094801Z">
+        <seg>Marcar segmentos con (&amp;with) notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -48891,6 +48915,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T214823Z">
         <seg>Prioritate del Regula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094626Z" creationid="Karm46" creationdate="20170914T094626Z">
+        <seg>Regulas</seg>
       </tuv>
     </tu>
     <tu>
