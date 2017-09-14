@@ -904,6 +904,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100516Z" creationid="Karm46" creationdate="20170914T100516Z">
+        <seg>Incorporate (&amp;Built-in, LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170910T093343Z">
@@ -1332,6 +1340,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T090435Z">
         <seg>Ultime (&amp;Last) cambiamentos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100625Z" creationid="Karm46" creationdate="20170914T100625Z">
+        <seg>&amp;Lancear le servitor local</seg>
       </tuv>
     </tu>
     <tu>
@@ -40931,6 +40947,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095322Z">
         <seg>Nove lingua e pais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100427Z" creationid="Karm46" creationdate="20170914T100427Z">
+        <seg>Nove regula de LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
