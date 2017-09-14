@@ -37869,6 +37869,22 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094130Z" creationid="Karm46" creationdate="20170914T094130Z">
+        <seg>Version API de LanguageTool discordante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094203Z" creationid="Karm46" creationdate="20170914T094203Z">
+        <seg>LanguageTool es mis-configurate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T105435Z">
@@ -37881,6 +37897,22 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234521Z">
         <seg>LanguageTool plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094018Z" creationid="Karm46" creationdate="20170914T094018Z">
+        <seg>Servitor de LanguageTool initiate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094044Z" creationid="Karm46" creationdate="20170914T094044Z">
+        <seg>Servitor de LanguageTool terminate</seg>
       </tuv>
     </tu>
     <tu>
