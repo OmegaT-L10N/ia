@@ -37020,6 +37020,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100205Z" creationid="Karm46" creationdate="20170914T100205Z">
+        <seg>Files JAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JAXB (GPLv2 + classpath exception)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T115317Z">
@@ -37941,6 +37949,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100144Z" creationid="Karm46" creationdate="20170914T100144Z">
+        <seg>LanguageTool essera disactivate usque le projecto es claudite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130217T001257Z">
@@ -37969,6 +37985,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T124412Z">
         <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100120Z" creationid="Karm46" creationdate="20170914T100120Z">
+        <seg>LanguageTool: un error occurreva durante que controlava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39405,6 +39429,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T142734Z" creationid="MELO46" creationdate="20140615T142734Z">
         <seg>Manfred Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100245Z" creationid="Karm46" creationdate="20170914T100245Z">
+        <seg>Regulas definite manualmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -50823,6 +50855,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T155744Z" creationid="MELO46" creationdate="20140109T155744Z">
         <seg>Selige "recerca parola clave" per perquirer pro omne numero de individual parolas complete, in omne ordine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100147Z" creationid="Karm46" creationdate="20170914T100147Z">
+        <seg>Eliger languagetool-server.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -63943,6 +63983,14 @@ script ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T083926Z">
         <seg>Scribe &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; pro exequer le commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T100402Z" creationid="Karm46" creationdate="20170914T100402Z">
+        <seg>Inscribe le ID del nove regula</seg>
       </tuv>
     </tu>
     <tu>
