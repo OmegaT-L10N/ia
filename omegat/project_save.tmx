@@ -16396,6 +16396,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095306Z" creationid="Karm46" creationdate="20170914T095306Z">
+        <seg>Typo de characteres (&amp;Font) de reserva aggressive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151017T042421Z" creationid="Melo46" creationdate="20151017T042421Z">
@@ -24532,8 +24540,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095434Z">
-        <seg>Monstra &amp;Nullo</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094824Z">
+        <seg>Monstrar &amp;Nihil</seg>
       </tuv>
     </tu>
     <tu>
@@ -24596,16 +24604,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095435Z">
-        <seg>Monstra pro omne (&amp;All) Segmentos</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094848Z">
+        <seg>Monstrar pro tote le (&amp;All) Segmentos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095435Z">
-        <seg>Monstra pro le &amp;Segmento actual</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094833Z">
+        <seg>Monstrar pro le &amp;Segmento actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -39427,8 +39435,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T123243Z">
-        <seg>Mar&amp;k Whitespace</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094951Z">
+        <seg>Marcar (&amp;k) le spatio blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -39481,18 +39489,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095055Z" creationid="Karm46" creationdate="20170914T095055Z">
+        <seg>Marcar le segmentos &amp;Auto-populate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140615T080315Z">
-        <seg>Marca le Characteres de Controlo Algorithmo &amp;Bidirectional </seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T095012Z">
+        <seg>Marcar le Characteres de controlo algorithmo &amp;Bidirectional </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095436Z">
-        <seg>Marca le spatios &amp;Non-frangibile</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T094900Z">
+        <seg>Marcar le spatios &amp;Non-frangibile</seg>
       </tuv>
     </tu>
     <tu>
