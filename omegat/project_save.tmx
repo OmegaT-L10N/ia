@@ -1714,8 +1714,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095455Z">
-        <seg>Curre (&amp;Run)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T163455Z">
+        <seg>Fluer (&amp;Run)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58385,8 +58385,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095456Z">
-        <seg>Le scriptura "{0}" es currente...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T163552Z">
+        <seg>Le script "{0}" flue...</seg>
       </tuv>
     </tu>
     <tu>
@@ -72611,8 +72611,8 @@ a</seg>
       <tuv lang="EN">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160729T212521Z" creationid="Melo46" creationdate="20160729T212521Z">
-        <seg>cancellate ({0} ms passate)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T163646Z" creationid="Melo46" creationdate="20160729T212521Z">
+        <seg>annullate ({0} ms passate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -73891,8 +73891,8 @@ a</seg>
       <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160729T212354Z" creationid="Melo46" creationdate="20160729T212354Z">
-        <seg>facite ({0} ms passate)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170914T163603Z" creationid="Melo46" creationdate="20160729T212354Z">
+        <seg>ja ({0} ms passate)</seg>
       </tuv>
     </tu>
     <tu>
