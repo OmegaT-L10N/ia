@@ -49,7 +49,7 @@
                 <mapping local="source/website/" repository="/"/>
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat-website/">
-                <mapping local="source/website/yml/uk.yml" repository="raw/master/_i18n/en.yml"/>
+                <mapping local="source/website/yml/ia.yml" repository="raw/master/_i18n/en.yml"/>
             </repository>            
         </repositories>
     </project>
