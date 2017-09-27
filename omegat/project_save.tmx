@@ -2534,6 +2534,16 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T132836Z" creationid="Karm46" creationdate="20170927T132836Z">
+        <seg>(Tu vole adhuc ser capace a usar OmegaT
+3.6 pro editar ce projecto como un projecto de equipa.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T093708Z">
@@ -46505,9 +46515,17 @@ language you would like to translate to.</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160729T214620Z" creationid="Melo46" creationdate="20160729T214620Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T132616Z" creationid="Melo46" creationdate="20160729T214620Z">
         <seg>Pulsa 'Cancellar' pro lassar le projecto non modificate e cargar lo como un
-projecto local sin functionalitate de equipa.</seg>
+projecto local sin functionalitates de equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T132503Z" creationid="Karm46" creationdate="20170927T132503Z">
+        <seg>Pulsa 'OK' pro converter le projecto in un projecto de equipa in stilo 4.x.</seg>
       </tuv>
     </tu>
     <tu>
