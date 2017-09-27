@@ -7416,6 +7416,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T132958Z" creationid="Karm46" creationdate="20170927T132958Z">
+        <seg>&lt;html&gt;URL de repositorio:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T220942Z" creationid="Melo" creationdate="20141027T220942Z">
@@ -46142,9 +46150,8 @@ pro resolver le origine del error e reproba.</seg>
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160729T215046Z" creationid="Melo46" creationdate="20160729T215046Z">
-        <seg>Per favor continge tu administrator de projecto pro cercar si necessita
- necessita esser prendite grados additional.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T132931Z" creationid="Melo46" creationdate="20160729T215046Z">
+        <seg>Per favor continge tu administrator de projecto pro cercar si necessita esser prendite grados additional.</seg>
       </tuv>
     </tu>
     <tu>
