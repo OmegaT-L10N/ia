@@ -43043,6 +43043,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T132345Z" creationid="Karm46" creationdate="20170927T132345Z">
+        <seg>OmegaT ha revelate un projecto de equipa in stilo OmegaT 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T204119Z">
@@ -58723,6 +58731,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151014T063744Z" creationid="Melo46" creationdate="20151014T063744Z">
         <seg>Le plica specificate del dictionario non existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T132230Z" creationid="Karm46" creationdate="20170927T132230Z">
+        <seg>Le projecto specificate es un projecto de equipa in stilo OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
