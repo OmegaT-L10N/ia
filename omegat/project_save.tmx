@@ -21122,8 +21122,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095532Z">
-        <seg>controlo del projecto...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133104Z">
+        <seg>Controlo del projecto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25366,8 +25366,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T051926Z">
-        <seg>Discarga Projecto de Equipa</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133020Z">
+        <seg>Discarga Projecto de equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -26618,16 +26618,16 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095533Z">
-        <seg>Error in le controlo del projecto ab le thesauro remote:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133144Z">
+        <seg>Error in le controlo del projecto ab le repositorio remote:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Error checking out the project from remote repository: {0}</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095533Z">
-        <seg>Error in le controlo del projecto ab le thesauro remote: {0}</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133237Z">
+        <seg>Error in le controlo del projecto ab le repositorio repositorio: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38909,8 +38909,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T095534Z">
-        <seg>Le traduction local non synchronisate con le thesauro remote.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133237Z">
+        <seg>Le traduction local non synchronisate con le repositorio remote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41037,6 +41037,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T100427Z" creationid="Karm46" creationdate="20170914T100427Z">
         <seg>Nove regula de LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133052Z" creationid="Karm46" creationdate="20170927T133052Z">
+        <seg>Nove plica de projecto local:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64190,8 +64198,8 @@ script ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Type the name and description of the repository.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130221T232120Z">
-        <seg>Scriber le nomine e le description del thesauro.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133237Z">
+        <seg>Scriber le nomine e le description del repositorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64894,8 +64902,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Upload disabled because repository in read-only mode</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170927T131847Z">
-        <seg>Cargamento impedite post que le thesauro es in modo sol lectura</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170927T133237Z">
+        <seg>Cargamento impedite post que le repositorio es in modo sol lectura</seg>
       </tuv>
     </tu>
     <tu>
