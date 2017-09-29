@@ -1384,6 +1384,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T211830Z" creationid="Karm46" creationdate="20170929T211830Z">
+        <seg>Saltar (&amp;Jump) al segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T224531Z">
@@ -1664,6 +1672,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T211927Z" creationid="Karm46" creationdate="20170929T211927Z">
+        <seg>&amp;Refrescar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T223058Z">
@@ -1876,6 +1892,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095207Z">
         <seg>Nomines del folio (&amp;Sheet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T211907Z" creationid="Karm46" creationdate="20170929T211907Z">
+        <seg>Monstrar (&amp;Show) toto</seg>
       </tuv>
     </tu>
     <tu>
@@ -36351,6 +36375,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140428T152457Z" creationid="MELO46" creationdate="20140412T031811Z">
         <seg>Es id lo que illes es dicente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T211956Z" creationid="Karm46" creationdate="20170929T211956Z">
+        <seg>Problemas</seg>
       </tuv>
     </tu>
     <tu>
