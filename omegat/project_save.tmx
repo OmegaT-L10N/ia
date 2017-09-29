@@ -1096,6 +1096,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T164109Z" creationid="Karm46" creationdate="20170929T164109Z">
+        <seg>Activar (&amp;Enable) le auto-texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T163956Z" creationid="Karm46" creationdate="20170929T163956Z">
@@ -52392,6 +52400,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T164254Z" creationid="Karm46" creationdate="20170929T164254Z">
+        <seg>Ordinar alphabeticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort alphabetically</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T094229Z" creationid="MELO46" creationdate="20131224T094229Z">
@@ -52404,6 +52420,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T094255Z" creationid="MELO46" creationdate="20131224T094255Z">
         <seg>Ordina per texto plen, non via breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T164137Z" creationid="Karm46" creationdate="20170929T164137Z">
+        <seg>Ordina per lon&amp;gor</seg>
       </tuv>
     </tu>
     <tu>
