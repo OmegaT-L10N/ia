@@ -21248,6 +21248,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212309Z" creationid="Karm46" creationdate="20170929T212309Z">
+        <seg>Controlo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170927T133104Z">
@@ -25352,6 +25360,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T124506Z" creationid="MELO46" creationdate="20140701T124506Z">
         <seg>Dominios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212447Z" creationid="Karm46" creationdate="20170929T212447Z">
+        <seg>Non Querer Lo que controlar In prime loco</seg>
       </tuv>
     </tu>
     <tu>
@@ -53116,6 +53132,22 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102650Z">
         <seg>Preparation del corrector orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212605Z" creationid="Karm46" creationdate="20170929T212526Z">
+        <seg>Orthographia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212518Z" creationid="Karm46" creationdate="20170929T212518Z">
+        <seg>Questiones de orthographia</seg>
       </tuv>
     </tu>
     <tu>
@@ -86916,6 +86948,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151009T164458Z" creationid="Melo46" creationdate="20151009T164433Z">
         <seg>{0} ({1} restante) / {2} ({3} restante), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212313Z" creationid="Karm46" creationdate="20170929T212313Z">
+        <seg>{0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
