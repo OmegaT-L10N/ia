@@ -19818,6 +19818,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T210649Z" creationid="Karm46" creationdate="20170929T210649Z">
+        <seg>Navigation...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browser</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T100942Z">
@@ -36325,8 +36333,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Is duplicate</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160729T223341Z" creationid="Melo46" creationdate="20160729T223341Z">
-        <seg>Duplicato</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T210626Z" creationid="Melo46" creationdate="20160729T223341Z">
+        <seg>Es duplicate</seg>
       </tuv>
     </tu>
     <tu>
@@ -45899,6 +45907,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144723Z">
         <seg>Patents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T210502Z" creationid="Karm46" creationdate="20170929T210502Z">
+        <seg>Via</seg>
       </tuv>
     </tu>
     <tu>
@@ -56966,6 +56982,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T170007Z">
         <seg>Le figura precedente monstra le modello base del apparentia del concordantia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T210833Z" creationid="Karm46" creationdate="20170929T210833Z">
+        <seg>Le file "{0}" non es gerite.</seg>
       </tuv>
     </tu>
     <tu>
