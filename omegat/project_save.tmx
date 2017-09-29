@@ -22239,6 +22239,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213929Z" creationid="Karm46" creationdate="20170929T213929Z">
+        <seg>Confirmar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T144707Z" creationid="MELO46" creationdate="20140615T144707Z">
@@ -26524,6 +26532,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094936Z">
         <seg>Codificar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213523Z" creationid="Karm46" creationdate="20170929T213523Z">
+        <seg>Codification:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40151,6 +40167,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T220805Z" creationid="Melo" creationdate="20141027T220805Z">
         <seg>Masca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213754Z" creationid="Karm46" creationdate="20170929T213754Z">
+        <seg>Contrasigno principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -70479,6 +70503,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T225708Z">
         <seg>[partial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213724Z" creationid="Karm46" creationdate="20170929T213724Z">
+        <seg>[{0}] “{1}” in fonte; attendite “{2}” in final</seg>
       </tuv>
     </tu>
     <tu>
