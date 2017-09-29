@@ -40461,6 +40461,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T165958Z" creationid="Karm46" creationdate="20170929T165958Z">
+        <seg>Texto del info de modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150422T102815Z">
