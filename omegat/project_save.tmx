@@ -21867,6 +21867,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T172209Z" creationid="Karm46" creationdate="20170929T172209Z">
+        <seg>Colores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095140Z">
@@ -52962,8 +52970,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140629T210411Z" creationid="MELO46" creationdate="20140629T210411Z">
-        <seg>Controlo Orthographic</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T171930Z" creationid="MELO46" creationdate="20140629T210411Z">
+        <seg>Controlo orthographic</seg>
       </tuv>
     </tu>
     <tu>
@@ -54765,6 +54773,14 @@ this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144707Z">
         <seg>TERMINATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T171945Z" creationid="Karm46" creationdate="20170929T171945Z">
+        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
