@@ -16654,6 +16654,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212253Z" creationid="Karm46" creationdate="20170929T212253Z">
+        <seg>Toto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T080327Z">
@@ -36387,6 +36395,38 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212122Z" creationid="Karm46" creationdate="20170929T212122Z">
+        <seg>Problemas ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212011Z" creationid="Karm46" creationdate="20170929T212011Z">
+        <seg>Problemas ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212207Z" creationid="Karm46" creationdate="20170929T212207Z">
+        <seg>Problemas pro {0} ({1} de {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212053Z" creationid="Karm46" creationdate="20170929T212053Z">
+        <seg>Problemas pro {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T141427Z">
@@ -41381,6 +41421,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101617Z">
         <seg>Deinde, se displica le dialogo 'archivos del projecto'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212241Z" creationid="Karm46" creationdate="20170929T212241Z">
+        <seg>No problemas trovate</seg>
       </tuv>
     </tu>
     <tu>
