@@ -840,6 +840,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T172520Z" creationid="Karm46" creationdate="20170929T172520Z">
+        <seg>&amp;Applicar a toto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095029Z">
@@ -7436,6 +7444,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T211127Z">
         <seg>&lt;html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T172310Z" creationid="Karm46" creationdate="20170929T172310Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferentias&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB pro avantiar&lt;/i&gt; es verificate&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25150,8 +25166,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20151014T232806Z" creationid="Melo" creationdate="20151014T232806Z">
-        <seg>Desira tu replaciar lo con lo que tu es movente?</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T172440Z" creationid="Melo" creationdate="20151014T232806Z">
+        <seg>Desira tu replaciar lo con illo que tu es movente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -86820,6 +86836,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151014T231213Z" creationid="Melo" creationdate="20151014T231213Z">
         <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T172431Z" creationid="Karm46" creationdate="20170929T172431Z">
+        <seg>{0} commuta le orientation inter LTR, RTL, e lingua-dependente</seg>
       </tuv>
     </tu>
     <tu>
