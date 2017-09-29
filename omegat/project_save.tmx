@@ -784,6 +784,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T162827Z" creationid="Karm46" creationdate="20170929T162827Z">
+        <seg>&amp;Alsi permitte le commandos externe per-projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095252Z">
@@ -24580,6 +24588,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T162926Z" creationid="Karm46" creationdate="20170929T162926Z">
+        <seg>Monstrar (Displa&amp;y) le terminos fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T094336Z" creationid="MELO46" creationdate="20131224T094336Z">
@@ -46286,8 +46302,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T122640Z">
-        <seg>Per favor selige le intervallo in le qual le projecto debe esser salvate automaticamente, in minutas e secundas.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T162750Z">
+        <seg>Per favor elige le intervallo de tempore in le qual le projecto debe esser salvate automaticamente, in minutas e secundas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51624,6 +51640,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T075850Z">
         <seg>Deberea tu desirar de reusar un memoria de traduction de un projecto previe (per exemplo quia le nove projecto es simile al projecto previe, o usa terminologia que poteva esser usate antea), tu pote usar iste memorias de traduction como "memorias de traduction de ingresso", id es pro importar los in tu nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T163013Z" creationid="Karm46" creationdate="20170929T163013Z">
+        <seg>Monstrar in prime loco le terminos de destination plus &amp;longe</seg>
       </tuv>
     </tu>
     <tu>
