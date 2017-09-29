@@ -15396,6 +15396,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T214137Z" creationid="Karm46" creationdate="20170929T214137Z">
+        <seg>Un re-initio es requirite in arrangiamento pro applicar iste cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A schematic diagram is shown below:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T085057Z">
@@ -46861,6 +46869,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213938Z" creationid="Karm46" creationdate="20170929T213938Z">
+        <seg>Preferentias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T212251Z">
@@ -52360,6 +52376,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T171041Z" creationid="ia" creationdate="20170909T171041Z">
         <seg>Dimension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T214021Z" creationid="Karm46" creationdate="20170929T214021Z">
+        <seg>Saltar</seg>
       </tuv>
     </tu>
     <tu>
