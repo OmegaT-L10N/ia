@@ -21979,6 +21979,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213206Z" creationid="Karm46" creationdate="20170929T213206Z">
+        <seg>Commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -26140,6 +26148,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20160808T100000Z" creationid="Melo" creationdate="20160808T100000Z">
         <seg>Rediger &gt; Replaciar con le fonte (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replacia con le actual segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213200Z" creationid="Karm46" creationdate="20170929T213200Z">
+        <seg>Editar le elemento de recerca externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -53760,6 +53776,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213103Z" creationid="Karm46" creationdate="20170929T213103Z">
+        <seg>Summario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary of chapters</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T093109Z">
@@ -54981,6 +55005,14 @@ this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T171945Z" creationid="Karm46" creationdate="20170929T171945Z">
         <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213025Z" creationid="Karm46" creationdate="20170929T212954Z">
+        <seg>Questiones de terminologia </seg>
       </tuv>
     </tu>
     <tu>
