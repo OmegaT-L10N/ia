@@ -21987,6 +21987,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213508Z" creationid="Karm46" creationdate="20170929T213508Z">
+        <seg>Commando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213304Z" creationid="Karm46" creationdate="20170929T213304Z">
+        <seg>Commandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -24344,6 +24360,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213425Z" creationid="Karm46" creationdate="20170929T213425Z">
+        <seg>Delimitator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T163718Z" creationid="MELO46" creationdate="20140108T213818Z">
@@ -26120,6 +26144,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213333Z" creationid="Karm46" creationdate="20170929T213333Z">
+        <seg>Red&amp;iger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T211104Z">
@@ -26156,6 +26188,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T213200Z" creationid="Karm46" creationdate="20170929T213200Z">
         <seg>Editar le elemento de recerca externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213408Z" creationid="Karm46" creationdate="20170929T213408Z">
+        <seg>Edita Externe Cerca URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -41233,6 +41273,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213244Z" creationid="Karm46" creationdate="20170929T213244Z">
+        <seg>Nomine:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T084609Z">
@@ -48455,6 +48503,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213312Z" creationid="Karm46" creationdate="20170929T213312Z">
+        <seg>Remo&amp;ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T100702Z" creationid="Karm46" creationdate="20170914T100702Z">
@@ -51892,6 +51948,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213300Z" creationid="Karm46" creationdate="20170929T213300Z">
+        <seg>Via breve:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T081039Z">
@@ -54801,6 +54865,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T070551Z">
         <seg>Texto final del concordantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T213502Z" creationid="Karm46" creationdate="20170929T213502Z">
+        <seg>De destination:</seg>
       </tuv>
     </tu>
     <tu>
