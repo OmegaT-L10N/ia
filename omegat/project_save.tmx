@@ -1104,6 +1104,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T164522Z" creationid="Karm46" creationdate="20170929T164522Z">
+        <seg>Activar (&amp;Enable) le tabella del characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T163956Z" creationid="Karm46" creationdate="20170929T163956Z">
@@ -19066,6 +19074,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T164425Z" creationid="Karm46" creationdate="20170929T164425Z">
+        <seg>Auto-texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T093601Z" creationid="MELO46" creationdate="20131219T170050Z">
@@ -23892,6 +23908,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150915Z">
         <seg>Customer ID&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T164542Z" creationid="Karm46" creationdate="20170929T164542Z">
+        <seg>Personalisar le &amp;tabella del characteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -52412,6 +52436,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T094229Z" creationid="MELO46" creationdate="20131224T094229Z">
         <seg>Ordina alphabeticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T164418Z" creationid="Karm46" creationdate="20170929T164418Z">
+        <seg>Ordina per texto plen (&amp;full), non via breve</seg>
       </tuv>
     </tu>
     <tu>
