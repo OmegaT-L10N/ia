@@ -3136,6 +3136,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212611Z" creationid="Karm46" creationdate="20170929T212611Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T043424Z">
@@ -16046,6 +16054,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212628Z" creationid="Karm46" creationdate="20170929T212628Z">
+        <seg>Adder al dictionario: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T081430Z" creationid="MELO46" creationdate="20131224T100247Z">
@@ -18106,6 +18122,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T073910Z">
         <seg>Files del application: iste es includite in le pacchetto que tu ha discargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212758Z" creationid="Karm46" creationdate="20170929T212758Z">
+        <seg>Applicar &amp;Fix</seg>
       </tuv>
     </tu>
     <tu>
@@ -24728,6 +24752,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095057Z">
         <seg>Monstra (Dis&amp;play) omne resultatos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212931Z" creationid="Karm46" creationdate="20170929T212931Z">
+        <seg>Disactivar le regula “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -34271,6 +34303,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212638Z" creationid="Karm46" creationdate="20170929T212638Z">
+        <seg>Ignorar: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ilia Vinogradov</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T073426Z" creationid="Melo" creationdate="20150422T073426Z">
@@ -38195,6 +38235,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T094130Z" creationid="Karm46" creationdate="20170914T094130Z">
         <seg>Version API de LanguageTool discordante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212840Z" creationid="Karm46" creationdate="20170929T212840Z">
+        <seg>Questiones re LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -54329,6 +54377,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T121627Z">
         <seg>&amp;Validation del tags...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212654Z" creationid="Karm46" creationdate="20170929T212654Z">
+        <seg>Etiquetta questiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -86996,6 +87052,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T172431Z" creationid="Karm46" creationdate="20170929T172431Z">
         <seg>{0} commuta le orientation inter LTR, RTL, e lingua-dependente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T212701Z" creationid="Karm46" creationdate="20170929T212701Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
