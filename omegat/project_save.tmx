@@ -1104,6 +1104,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T165722Z" creationid="Karm46" creationdate="20170929T165722Z">
+        <seg>Activar (&amp;Enable) le recerca del terminologia TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T164109Z" creationid="Karm46" creationdate="20170929T164109Z">
@@ -54085,6 +54093,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T165459Z" creationid="Karm46" creationdate="20170929T165459Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS API key not found.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T125236Z" creationid="MELO46" creationdate="20140701T125236Z">
@@ -54105,6 +54121,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T124347Z" creationid="MELO46" creationdate="20140701T124347Z">
         <seg>Collectiones TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170929T165525Z" creationid="Karm46" creationdate="20170929T165525Z">
+        <seg>Terminologia TaaS</seg>
       </tuv>
     </tu>
     <tu>
