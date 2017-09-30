@@ -37406,6 +37406,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170930T084418Z" creationid="Karm46" creationdate="20170930T084418Z">
+        <seg>Elemento es perdite scope</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151014T232519Z" creationid="Melo" creationdate="20151014T232519Z">
@@ -70567,6 +70575,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T225708Z">
         <seg>[partial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20170930T084422Z" creationid="Karm46" creationdate="20170930T084422Z">
+        <seg>[{0}] “{1}” in primari; attendite un re {2} in final</seg>
       </tuv>
     </tu>
     <tu>
