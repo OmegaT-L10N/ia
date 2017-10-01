@@ -1760,6 +1760,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T094222Z" creationid="Karm46" creationdate="20171001T094222Z">
+        <seg>&amp;Reset Principal Contrasigno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T171801Z" creationid="ia" creationdate="20170909T171801Z">
@@ -40275,6 +40283,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T094022Z" creationid="Karm46" creationdate="20171001T094022Z">
+        <seg>Contrasigno principal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095016Z">
@@ -43473,6 +43489,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T095831Z">
         <seg>OmegaT non supporta directemente iste formatos de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T093959Z" creationid="Karm46" creationdate="20171001T093959Z">
+        <seg>OmegaT cifra le contrasignos sensitive e le claves API con un contrasigno principal.</seg>
       </tuv>
     </tu>
     <tu>
