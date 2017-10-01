@@ -43357,6 +43357,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T090516Z" creationid="Karm46" creationdate="20171001T090516Z">
+        <seg>OmegaT pote generar e registrar un contrasigno principal assi tu non ha a inserer illo cata vice, ma isto es multo minus secur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T150243Z">
