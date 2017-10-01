@@ -7520,6 +7520,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T081635Z" creationid="Karm46" creationdate="20171001T081635Z">
+        <seg>&lt;html&gt;Termino: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossarios:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T220942Z" creationid="Melo" creationdate="20141027T220942Z">
@@ -70581,8 +70589,8 @@ crear su plica de configuration.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170930T084422Z" creationid="Karm46" creationdate="20170930T084422Z">
-        <seg>[{0}] “{1}” in primari; attendite un re {2} in final</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T081459Z" creationid="Karm46" creationdate="20170930T084422Z">
+        <seg>[{0}] “{1}” in le fonte; attendite un de {2} in le destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -87724,6 +87732,22 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140429T215217Z" creationid="MELO46" creationdate="20140429T215217Z">
         <seg>“Bon juvenes, que vos seque vostre modo”, sed permane facer nostro, sed illes non vole que lassar nos al nostros, e illes face &lt;t0/&gt;nihil illes ipse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T081512Z" creationid="Karm46" creationdate="20171001T081512Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T081505Z" creationid="Karm46" creationdate="20171001T081505Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
