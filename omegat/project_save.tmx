@@ -25478,8 +25478,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Don't ask before checking issues</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171001T083016Z" creationid="Karm46" creationdate="20171001T083016Z">
-        <seg>Non querer ante controlo questiones</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T083210Z" creationid="Karm46" creationdate="20171001T083016Z">
+        <seg>Non querer ante le controlo del problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -51796,6 +51796,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T083327Z" creationid="Karm46" creationdate="20171001T083327Z">
+        <seg>Fixa un contrasigno principal pro proteger tu datos private.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T234025Z" creationid="MELO46" creationdate="20140106T234025Z">
@@ -70365,6 +70373,14 @@ them.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080518Z">
         <seg>Tu scribe tu traduction in le campo final fornite, confirma pulsante Invio, et cetera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T084359Z" creationid="Karm46" creationdate="20171001T084359Z">
+        <seg>Te essera suggerite de inserer ce contrasigno tote le vices que tu lancea OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
