@@ -58670,6 +58670,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T085745Z" creationid="Karm46" creationdate="20171001T085745Z">
+        <seg>Le contrasignos non concorda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
