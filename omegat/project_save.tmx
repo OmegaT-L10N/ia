@@ -15422,8 +15422,8 @@ the only significant mode of use of the product.</seg>
       <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170929T214137Z" creationid="Karm46" creationdate="20170929T214137Z">
-        <seg>Un re-initio es requirite in arrangiamento pro applicar iste cambios</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T092827Z" creationid="Karm46" creationdate="20170929T214137Z">
+        <seg>Un re-initio es requirite a fin de applicar iste cambiamentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -49368,6 +49368,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T092722Z" creationid="Karm46" creationdate="20171001T092722Z">
+        <seg>Restabilir le optiones predefinite (&amp;Defaults)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170910T093656Z">
@@ -57166,6 +57174,14 @@ instead.</seg>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
         <seg>Essera usate in vice le 
 plica currente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T092910Z" creationid="Karm46" creationdate="20171001T092910Z">
+        <seg>Le actual projecto debe ser recargate a fin de applicar iste cambios</seg>
       </tuv>
     </tu>
     <tu>
