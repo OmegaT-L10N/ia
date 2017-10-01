@@ -7520,6 +7520,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T170633Z" creationid="Karm46" creationdate="20171001T170305Z">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: activar/disactivar controla aliquando ex le menu Optiones.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T172310Z" creationid="Karm46" creationdate="20170929T172310Z">
@@ -47631,6 +47639,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100506Z">
         <seg>Menu del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T170244Z" creationid="Karm46" creationdate="20171001T170244Z">
+        <seg>Recerca externe de projecto specific</seg>
       </tuv>
     </tu>
     <tu>
