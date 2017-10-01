@@ -880,6 +880,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T093618Z" creationid="Karm46" creationdate="20171001T093618Z">
+        <seg>Reportar &amp;Automaticamente le traductiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094744Z">
@@ -22235,6 +22243,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T071942Z">
         <seg>Comprimer le spatios in le documento rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T093356Z" creationid="Karm46" creationdate="20171001T093356Z">
+        <seg>Con&amp;figurar</seg>
       </tuv>
     </tu>
     <tu>
