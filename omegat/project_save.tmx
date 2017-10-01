@@ -29993,14 +29993,6 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>General</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T105602Z">
-        <seg>Generale</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>General Public License applies to most of the Free Software</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T085425Z" creationid="MELO46" creationdate="20140228T085425Z">
@@ -47873,8 +47865,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Provider</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170929T214214Z" creationid="Karm46" creationdate="20170929T214214Z">
-        <seg>Suppler</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T093843Z" creationid="Karm46" creationdate="20170929T214214Z">
+        <seg>Suppletor</seg>
       </tuv>
     </tu>
     <tu>
@@ -65712,6 +65704,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151014T232928Z" creationid="Melo" creationdate="20151014T232928Z">
         <seg>Segmentos non rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T093734Z" creationid="Karm46" creationdate="20171001T093734Z">
+        <seg>S&amp;olmente le segmentos non rendite</seg>
       </tuv>
     </tu>
     <tu>
