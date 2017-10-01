@@ -15768,6 +15768,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T170812Z" creationid="Karm46" creationdate="20171001T170812Z">
+        <seg>ASCII solo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101052Z">
@@ -41929,6 +41937,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T170827Z" creationid="Karm46" creationdate="20171001T170827Z">
+        <seg>Non-ASCII solo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -47711,6 +47727,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T090814Z">
         <seg>Coordinator del Projecto e director del sito TTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T171126Z" creationid="Karm46" creationdate="20171001T171126Z">
+        <seg>Projecto commandos es impedite pro rationes de securitate.</seg>
       </tuv>
     </tu>
     <tu>
