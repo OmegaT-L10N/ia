@@ -2080,6 +2080,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T092603Z" creationid="Karm46" creationdate="20171001T092603Z">
+        <seg>Disfacer (&amp;Undo) le cambiamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170910T095215Z">
@@ -46981,6 +46989,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T092432Z" creationid="Karm46" creationdate="20171001T092432Z">
+        <seg>Preferentias - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T212251Z">
@@ -50516,6 +50532,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T092438Z" creationid="Karm46" creationdate="20171001T092438Z">
+        <seg>Cercar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T215208Z">
@@ -51528,6 +51552,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T100438Z">
         <seg>Selige le Optiones de Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T092457Z" creationid="Karm46" creationdate="20171001T092457Z">
+        <seg>Elige un categoria</seg>
       </tuv>
     </tu>
     <tu>
