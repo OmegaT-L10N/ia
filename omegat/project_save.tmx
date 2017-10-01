@@ -16856,6 +16856,14 @@ restrictions" within the meaning of section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T094958Z" creationid="Karm46" creationdate="20171001T094958Z">
+        <seg>Tote le preferentias protegite per le contrasigno principal essera restabilite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All rights granted under this License are granted for the term of</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155725Z" creationid="MELO46" creationdate="20131226T155725Z">
@@ -18250,6 +18258,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151014T232532Z" creationid="Melo" creationdate="20151014T232532Z">
         <seg>Desira tu vermente reinitiar tote le colores personal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T094713Z" creationid="Karm46" creationdate="20171001T094713Z">
+        <seg>Desira tu vermente restabilir le contrasigno principal?</seg>
       </tuv>
     </tu>
     <tu>
@@ -49388,6 +49404,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T222220Z" creationid="Melo" creationdate="20151014T232926Z">
         <seg>Restaurar tote le (&amp;All) Colores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T094528Z" creationid="Karm46" creationdate="20171001T094528Z">
+        <seg>Restabilir le contrasigno principal</seg>
       </tuv>
     </tu>
     <tu>
