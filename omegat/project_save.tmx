@@ -30457,6 +30457,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T171241Z" creationid="Karm46" creationdate="20171001T171241Z">
+        <seg>Vade a Preferentias &gt; Recerca externe a activar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T125401Z" creationid="MELO46" creationdate="20140701T125401Z">
