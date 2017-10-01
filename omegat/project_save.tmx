@@ -1762,8 +1762,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171001T094222Z" creationid="Karm46" creationdate="20171001T094222Z">
-        <seg>&amp;Reset Principal Contrasigno</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T094315Z" creationid="Karm46" creationdate="20171001T094222Z">
+        <seg>&amp;Restabilir le contrasigno principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -51912,6 +51912,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T214228Z" creationid="Karm46" creationdate="20170929T214228Z">
         <seg>Definir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T094459Z" creationid="Karm46" creationdate="20171001T094234Z">
+        <seg>Definite &amp; Salvate</seg>
       </tuv>
     </tu>
     <tu>
