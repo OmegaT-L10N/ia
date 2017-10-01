@@ -24456,6 +24456,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T170121Z" creationid="Karm46" creationdate="20171001T170121Z">
+        <seg>Delimitator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delimiter:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T213425Z" creationid="Karm46" creationdate="20170929T213425Z">
@@ -27644,6 +27652,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T182917Z">
         <seg>Commando Externe de post-processo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T170144Z" creationid="Karm46" creationdate="20171001T170144Z">
+        <seg>Recerca externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -50114,6 +50130,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T170055Z" creationid="Karm46" creationdate="20171001T170055Z">
+        <seg>Output de exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094933Z">
@@ -57130,6 +57154,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T204457Z">
         <seg>Le commando es sensibile al maiuscolas e minuscolas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T165956Z" creationid="Karm46" creationdate="20171001T165956Z">
+        <seg>Le commando debe includer "{target}", le qual essera replaciate con le texto &lt;de recerca.</seg>
       </tuv>
     </tu>
     <tu>
