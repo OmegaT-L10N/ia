@@ -32156,6 +32156,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T082923Z" creationid="Karm46" creationdate="20171001T082923Z">
+        <seg>Si controlo problema es lente, probar a disactivar alcunos del controlos facultative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it does</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141108T125632Z" creationid="Melo46" creationdate="20141108T125632Z">
@@ -51496,6 +51504,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T082641Z">
         <seg>Selige un filtro existente pro un formato simile a cello pro le filtro nove.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T082802Z" creationid="Karm46" creationdate="20171001T082802Z">
+        <seg>Selige le typos de problema a controlar.</seg>
       </tuv>
     </tu>
     <tu>
