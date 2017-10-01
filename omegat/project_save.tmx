@@ -46684,6 +46684,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T085429Z" creationid="Karm46" creationdate="20171001T085429Z">
+        <seg>Per favor inscribe tu contrasigno un altere vice pro confirmation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please make sure that a build.xml file is present in that folder.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T222223Z">
@@ -58642,6 +58650,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T221947Z">
         <seg>Le paginas ci listate esseva seligite como exemplos convenibile (e le files “hereditage” esseva create pro corresponder a illos), ma cambios su illos pote los facer minus convenibile, e illos pote mesmo disparer o mover se alterubi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T084743Z" creationid="Karm46" creationdate="20171001T084743Z">
+        <seg>Le contrasigno on non pote ser vacue.</seg>
       </tuv>
     </tu>
     <tu>
