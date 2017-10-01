@@ -56694,6 +56694,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171001T165908Z" creationid="Karm46" creationdate="20171001T165908Z">
+        <seg>Le URL debe includer "{target}", le qual essera replaciate con le texto &lt;de recerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T184514Z">
