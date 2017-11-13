@@ -22183,6 +22183,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190206Z" creationid="Karm46" creationdate="20171113T190206Z">
+        <seg>Committer le files de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170927T131720Z">
@@ -22195,6 +22203,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T170943Z" creationid="ia" creationdate="20170909T170943Z">
         <seg>Committente la files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190337Z" creationid="Karm46" creationdate="20171113T190337Z">
+        <seg>Committente le files de destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -27844,6 +27860,22 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T182033Z" creationid="ia" creationdate="20170909T170847Z">
         <seg>Fallite commission del file fonte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190242Z" creationid="Karm46" creationdate="20171113T190242Z">
+        <seg>Falta a committer le files fonte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190310Z" creationid="Karm46" creationdate="20171113T190310Z">
+        <seg>Falta a committer le files de destination!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55273,6 +55305,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T131659Z">
         <seg>Nomine del file final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190357Z" creationid="Karm46" creationdate="20171113T190357Z">
+        <seg>Files de destination committite</seg>
       </tuv>
     </tu>
     <tu>
