@@ -22611,6 +22611,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191924Z" creationid="Karm46" creationdate="20171113T191924Z">
+        <seg>Prioritate del menu de contexto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T223857Z" creationid="Melo46" creationdate="20160729T223857Z">
