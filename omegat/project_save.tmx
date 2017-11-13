@@ -1016,6 +1016,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190441Z" creationid="Karm46" creationdate="20171113T190441Z">
+        <seg>&amp;Copia Informationes de supporto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151013T230153Z" creationid="Melo46" creationdate="20151009T153322Z">
@@ -37606,6 +37614,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190539Z" creationid="Karm46" creationdate="20171113T190539Z">
+        <seg>Le nomine del elemento es vacue o mancante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151014T232519Z" creationid="Melo" creationdate="20151014T232519Z">
@@ -47773,8 +47789,8 @@ projecto local sin functionalitates de equipa.</seg>
       <tuv lang="EN">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171001T171126Z" creationid="Karm46" creationdate="20171001T171126Z">
-        <seg>Projecto commandos es impedite pro rationes de securitate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190626Z" creationid="Karm46" creationdate="20171001T171126Z">
+        <seg>Le commandos del projectos es disactivate pro rationes de securitate.</seg>
       </tuv>
     </tu>
     <tu>
