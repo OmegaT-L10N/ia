@@ -22099,6 +22099,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191013Z" creationid="Karm46" creationdate="20171113T191013Z">
+        <seg>Le commando es mancante del linea de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T213508Z" creationid="Karm46" creationdate="20170929T213508Z">
@@ -37602,6 +37610,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T161903Z">
         <seg>Ab le italiano al anglese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190741Z" creationid="Karm46" creationdate="20171113T190741Z">
+        <seg>Le elemento non ha ni URLs ni commandos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65410,6 +65426,38 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="IA" changeid="melo" changedate="20160812T162926Z" creationid="melo" creationdate="20160812T162926Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190857Z" creationid="Karm46" creationdate="20171113T190857Z">
+        <seg>Le URL non contine "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190835Z" creationid="Karm46" creationdate="20171113T190835Z">
+        <seg>Le URL manca del linea de URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190940Z" creationid="Karm46" creationdate="20171113T190940Z">
+        <seg>URL es mancante de codification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T190919Z" creationid="Karm46" creationdate="20171113T190919Z">
+        <seg>Le URL es mancante de destination</seg>
       </tuv>
     </tu>
     <tu>
