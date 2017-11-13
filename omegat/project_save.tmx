@@ -26664,6 +26664,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191842Z" creationid="Karm46" creationdate="20171113T191842Z">
+        <seg>Activar le commandos specific-del-projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T125325Z">
@@ -34763,6 +34771,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141119T111015Z" creationid="Melo" creationdate="20141119T111015Z">
         <seg>In Anki, iste information pertinente es denominate un 'nota', e cata pecia del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191407Z" creationid="Karm46" creationdate="20171113T191407Z">
+        <seg>In redactor</seg>
       </tuv>
     </tu>
     <tu>
