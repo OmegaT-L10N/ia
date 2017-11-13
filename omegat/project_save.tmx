@@ -922,8 +922,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Browse Online</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171001T093048Z" creationid="Karm46" creationdate="20171001T093048Z">
-        <seg>Navigar (&amp;Browse) in internet</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192520Z" creationid="Karm46" creationdate="20171001T093048Z">
+        <seg>Navigar (&amp;Browse) in Internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -56960,8 +56960,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171001T165908Z" creationid="Karm46" creationdate="20171001T165908Z">
-        <seg>Le URL debe includer "{target}", le qual essera replaciate con le texto &lt;de recerca.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192317Z" creationid="Karm46" creationdate="20171001T165908Z">
+        <seg>Le URL debe includer "{target}", le qual essera replaciate con le texto de recerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57400,8 +57400,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171001T165956Z" creationid="Karm46" creationdate="20171001T165956Z">
-        <seg>Le commando debe includer "{target}", le qual essera replaciate con le texto &lt;de recerca.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192414Z" creationid="Karm46" creationdate="20171001T165956Z">
+        <seg>Le commando debe includer "{target}", le qual essera replaciate con le texto de recerca.</seg>
       </tuv>
     </tu>
     <tu>
