@@ -31307,8 +31307,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>How to download and install dictionaries</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T131057Z">
-        <seg>Quomodo discargar e installar le dictionarios</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192611Z">
+        <seg>Como discargar e installar le dictionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -50952,6 +50952,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140107T140010Z">
         <seg>Cerca pro le combination de linguas requirite - per exemplo sur le &lt;u0&gt;&lt;i1/&gt;StarDict Platform&lt;/u0&gt; ante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T193013Z" creationid="Karm46" creationdate="20171113T193013Z">
+        <seg>Cerca pro le combination de linguas requirite - pro exemplo sur le &lt;u0&gt;&lt;i1/&gt;ligamines de dictionario providite per le Wiki de OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78110,6 +78118,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T161148Z" creationid="Melo46" creationdate="20160728T161148Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192631Z" creationid="Karm46" creationdate="20171113T192631Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Referentia%20Material/</seg>
       </tuv>
     </tu>
     <tu>
