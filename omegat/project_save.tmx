@@ -22099,10 +22099,50 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191342Z" creationid="Karm46" creationdate="20171113T191247Z">
+        <seg>Le delimitator de commando es vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191044Z" creationid="Karm46" creationdate="20171113T191044Z">
+        <seg>Le commando non contine "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command is missing command string</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171113T191013Z" creationid="Karm46" creationdate="20171113T191013Z">
         <seg>Le commando es mancante del linea de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191242Z" creationid="Karm46" creationdate="20171113T191242Z">
+        <seg>Le commando es mancante de delimitator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191135Z" creationid="Karm46" creationdate="20171113T191135Z">
+        <seg>Le commando es mancante de codification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191104Z" creationid="Karm46" creationdate="20171113T191104Z">
+        <seg>Le commando es mancante de destination</seg>
       </tuv>
     </tu>
     <tu>
