@@ -1944,6 +1944,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192035Z" creationid="Karm46" creationdate="20171113T192035Z">
+        <seg>Monstrar (&amp;Show) in le menu de contexto del Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T170243Z" creationid="ia" creationdate="20170909T170243Z">
@@ -26400,6 +26408,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192258Z" creationid="Karm46" creationdate="20171113T192139Z">
+        <seg>redige le commando de recerca externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T213200Z" creationid="Karm46" creationdate="20170929T213200Z">
@@ -26410,8 +26426,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Edit External Search URL</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170929T213408Z" creationid="Karm46" creationdate="20170929T213408Z">
-        <seg>Edita Externe Cerca URL</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192212Z" creationid="Karm46" creationdate="20170929T213408Z">
+        <seg>Rediger le URL de recerca externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -50844,6 +50860,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T192105Z" creationid="Karm46" creationdate="20171113T192105Z">
+        <seg>Configurar (Se&amp;t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T210245Z" creationid="MELO46" creationdate="20140629T210245Z">
@@ -53756,6 +53780,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T084901Z">
         <seg>In le filtros de file on pote prefixar comportamentos specific.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171113T191951Z" creationid="Karm46" creationdate="20171113T191951Z">
+        <seg>Specificar un mnemonic con "&amp;": "F&amp;oobar" pro usar O</seg>
       </tuv>
     </tu>
     <tu>
