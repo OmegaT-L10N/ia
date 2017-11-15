@@ -4386,6 +4386,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T221637Z" creationid="Karm46" creationdate="20171115T221637Z">
+        <seg>/** Numero de concordantias partial a monstrar */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/** Number of fuzzy matches to display */&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T042353Z">
@@ -63518,6 +63526,14 @@ le servitor.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T075136Z">
         <seg>Iste Guida provide punctos sur le traduction in OmegaT re files MS Office 2007 (e subsequente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T221839Z" creationid="Karm46" creationdate="20171115T221839Z">
+        <seg>Iste Guida provide suggestiones sur le traduction in OmegaT de files MS Office 2007 (e plus tarde).</seg>
       </tuv>
     </tu>
     <tu>
