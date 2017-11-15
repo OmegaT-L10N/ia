@@ -22777,8 +22777,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Compiling OmegaT is relevant for developers who wish to make modifications of their own to its code.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T035024Z">
-        <seg>Compilar OmegaT es pertinente pro disveloppatores qui desidera facer modificationes lor proprie a su codice.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T221019Z">
+        <seg>Compilar OmegaT es pertinente a disveloppatores qui desidera facer modificationes lor proprie a su codice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26930,8 +26930,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Earlier versions of OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T000456Z" creationid="Karm46" creationdate="20170910T000456Z">
-        <seg>Justo versiones del OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T221111Z" creationid="Karm46" creationdate="20170910T000456Z">
+        <seg>Precedente versiones del OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72765,8 +72765,8 @@ Fenestra trovator pro poter lo lancear ab qualcunque position.</seg>
       <tuv lang="EN">
         <seg>You may have to set your &lt;c0&gt;JAVA_HOME&lt;/c0&gt; environment variable to point to the location of the JDK.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T091424Z" creationid="Karm46" creationdate="20170910T091424Z">
-        <seg>Tu pote ha a configurar tu &lt;c0&gt;JAVA_HOME&lt;/c0&gt; ambiente variabile a puncta a le position del JDK.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T221310Z" creationid="Karm46" creationdate="20170910T091424Z">
+        <seg>Tu pote haber a configurar tu variabile de ambiente de &lt;c0&gt;JAVA_HOME&lt;/c0&gt; a punctar al position de JDK.</seg>
       </tuv>
     </tu>
     <tu>
