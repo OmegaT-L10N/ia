@@ -14674,6 +14674,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T214037Z" creationid="Karm46" creationdate="20171115T214037Z">
+        <seg>&lt;s0&gt;Usatores de Linux&lt;/s0&gt;: le major parte del distributiones de Linux es supplite con un Java Runtime Environment, ma ulle installationes open-source non functiona debitemente con OmegaT (ben que isto pote non parer subito).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T080615Z">
