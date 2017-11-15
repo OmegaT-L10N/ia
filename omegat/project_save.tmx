@@ -15592,6 +15592,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133903Z" creationid="Karm46" creationdate="20171115T133903Z">
+        <seg>Un guida passo a passo re le uso del utilitates de extraction del texto e de fusion del texto ex Rainbow pre pre- e post- processar le files a render con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T182127Z">
@@ -17710,6 +17718,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T142832Z">
         <seg>Existe un international standard pro le memorias de traduction: TMX, o Translation Memory eXchange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134015Z" creationid="Karm46" creationdate="20171115T134015Z">
+        <seg>Un video introductive a OmegaT in anglese per John Moran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27968,6 +27984,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133739Z" creationid="Karm46" creationdate="20171115T133739Z">
+        <seg>Documentation externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T163058Z">
@@ -31445,6 +31469,22 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T213243Z">
         <seg>Como remover importun codice de formato ab le files .docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133814Z" creationid="Karm46" creationdate="20171115T133814Z">
+        <seg>Quomodo render Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133830Z" creationid="Karm46" creationdate="20171115T133830Z">
+        <seg>Quomodo render files Wordpress XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -36231,6 +36271,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T091304Z">
         <seg>Information re OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133756Z" creationid="Karm46" creationdate="20171115T133756Z">
+        <seg>Information sur le proceduras e le functiones de OmegaT pro le usatores experte que on pote trovar sur altere sitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44061,6 +44109,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134007Z" creationid="Karm46" creationdate="20171115T134007Z">
+        <seg>OmegaT parve instruction introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140113T152606Z">
@@ -44674,6 +44730,14 @@ installate sur tu systema.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151125T232349Z" creationid="Melo" creationdate="20151125T232349Z">
         <seg>Version de OmegaT {0}, ajornamento {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133948Z" creationid="Karm46" creationdate="20171115T133948Z">
+        <seg>Videos re OmegaT sur le canal YouTube de Qabiria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47035,6 +47099,14 @@ toto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133941Z" creationid="Karm46" creationdate="20171115T133941Z">
+        <seg>Lista del visiones del videos de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150423T065637Z" creationid="Melo" creationdate="20150423T065637Z">
@@ -47847,6 +47919,30 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T132809Z" creationid="Karm46" creationdate="20171115T132722Z">
         <seg>Procedura pro configurar Microsoft Translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133823Z" creationid="Karm46" creationdate="20171115T133823Z">
+        <seg>Procedura pro usar OmegaT pro localisar Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133841Z" creationid="Karm46" creationdate="20171115T133841Z">
+        <seg>Procedura pro usar OmegaT pro localisar le files XLIFF exportate ex Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133810Z" creationid="Karm46" creationdate="20171115T133810Z">
+        <seg>Procedura pro usar OmegaT pro localisar le NetBeans IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61594,6 +61690,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133925Z" creationid="Karm46" creationdate="20171115T133925Z">
+        <seg>Iste utilitates habilita OmegaT a esser usate pro render formatos de file pro le qual es disponibile filtros de conversion in  XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They all involve the application of file filters in the&lt;e1&gt; Options &lt;/e1&gt;menu.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T083054Z" creationid="MELO46" creationdate="20140109T083054Z">
@@ -65146,6 +65250,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133934Z" creationid="Karm46" creationdate="20171115T133934Z">
+        <seg>Exercitationes video</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T210853Z" creationid="MELO46" creationdate="20140615T074602Z">
@@ -65348,6 +65460,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133803Z" creationid="Karm46" creationdate="20171115T133803Z">
+        <seg>Render NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095512Z">
@@ -65376,6 +65496,14 @@ script ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T080425Z">
         <seg>Non es habitualmente un proposition practic render le file PDF modificante lo directemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133844Z" creationid="Karm46" creationdate="20171115T133844Z">
+        <seg>Traduction con Rainbow e OmegaT</seg>
       </tuv>
     </tu>
     <tu>
