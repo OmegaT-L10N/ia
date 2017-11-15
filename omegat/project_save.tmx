@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2362,8 +2362,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="EN">
         <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T073338Z">
-        <seg>(Non confunder iste plica con le plica "dictionary" in le projectos de OmegaT.) Deinde selige le URL (adresse de un sito TTT) de un deposito in interrete ex le qual discargar le dictionarios, e colla iste URL in le campo "URL de dictionarios in interrete".</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>(Non confunder iste plica con le plica "dictionary" in le projectos de OmegaT.) Deinde selige le URL (adresse de un sito web) de un deposito in interrete ex le qual discargar le dictionarios, e colla iste URL in le campo "URL de dictionarios in interrete".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,8 +2544,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>(Refer to the "Downloads" page on the OmegaT website for details of the differences.)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T094418Z">
-        <seg>(refere al pagina "discargas" sur le sito TTT de OmegaT pro detalios del differentias.)</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>(refere al pagina "discargas" sur le sito web de OmegaT pro detalios del differentias.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,8 +5338,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; on the web</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T165554Z">
-        <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; sur le TTT</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; sur le web</seg>
       </tuv>
     </tu>
     <tu>
@@ -13108,48 +13108,48 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Contributing to OmegaT&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T130557Z">
-        <seg>&lt;p0&gt;OmegaT sur le TTT&lt;/p0&gt; &lt;s1&gt;Contribuer a OmegaT&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>&lt;p0&gt;OmegaT sur le web&lt;/p0&gt; &lt;s1&gt;Contribuer a OmegaT&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Development, Localizing&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T170519Z">
-        <seg>&lt;p0&gt;OmegaT sur le TTT&lt;/p0&gt; &lt;s1&gt;Disveloppamento, Localisation&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>&lt;p0&gt;OmegaT sur le web&lt;/p0&gt; &lt;s1&gt;Disveloppamento, Localisation&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Donating to OmegaT&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T130955Z">
-        <seg>&lt;p0&gt;OmegaT sur le TTT&lt;/p0&gt; &lt;s1&gt;Donar a OmegaT&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>&lt;p0&gt;OmegaT sur le web&lt;/p0&gt; &lt;s1&gt;Donar a OmegaT&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Financial support&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T170556Z">
-        <seg>&lt;p0&gt;OmegaT sur le TTT&lt;/p0&gt; &lt;s1&gt;Supporto financiari&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>&lt;p0&gt;OmegaT sur le web&lt;/p0&gt; &lt;s1&gt;Supporto financiari&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T172056Z">
-        <seg>&lt;p0&gt;OmegaT sur le TTT&lt;/p0&gt; &lt;s1&gt;Reportos de defectos&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>&lt;p0&gt;OmegaT sur le web&lt;/p0&gt; &lt;s1&gt;Reportos de defectos&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;SourceForge Project&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T165631Z">
-        <seg>&lt;p0&gt;OmegaT sur le TTT&lt;/p0&gt; &lt;s1&gt;Projecto SourceForge&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>&lt;p0&gt;OmegaT sur le web&lt;/p0&gt; &lt;s1&gt;Projecto SourceForge&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19788,8 +19788,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T045829Z">
-        <seg>Ultra al pagina TTT ubi le usatores pote simplemente collar le texto pro le traduction, Google Translate provide anque un interfacie (API) que pote esser usate per le applicationes CAT, pro acceder le servicio.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Ultra al pagina web ubi le usatores pote simplemente collar le texto pro le traduction, Google Translate provide anque un interfacie (API) que pote esser usate per le applicationes CAT, pro acceder le servicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21354,8 +21354,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T220814Z">
-        <seg>Controla le sito TTT pro le ultime lista del pares de linguas implementate.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Controla le sito web pro le ultime lista del pares de linguas implementate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21834,8 +21834,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Clicking on a link as you would do in a web browser brings the desired page to the front.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130630T110543Z">
-        <seg>Le cliccar sur un ligamine, ut tu facerea in un lector de TTT, porta avante le pagina desiderate.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Le cliccar sur un ligamine, ut tu facerea in un lector de web, porta avante le pagina desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23682,8 +23682,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T172209Z">
-        <seg>Crossover Linux e Crossover Macintosh pote esser obtenite ex le &lt;a0&gt;Sito TTT de Codeweaver&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Crossover Linux e Crossover Macintosh pote esser obtenite ex le &lt;a0&gt;Sito web de Codeweaver&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30667,8 +30667,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Google Translate is a payable service offered by Google, for translating sentences, web sites and complete texts between an ever-growing number of languages.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130629T081348Z">
-        <seg>Google Translate es un servicio pagabile offerite ex Google, pro render phrases, sitos TTT e textos complete inter un numero de linguas semper crescente.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Google Translate es un servicio pagabile offerite ex Google, pro render phrases, sitos web e textos complete inter un numero de linguas semper crescente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30835,8 +30835,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>HTML and XHTML, its XML equivalent, are the most common file format for web pages.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130529T204245Z">
-        <seg>HTML e XHTML, su equivalente  XML, es le plus commun formato de file pro paginas TTT.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>HTML e XHTML, su equivalente  XML, es le plus commun formato de file pro paginas web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33014,8 +33014,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="EN">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T111603Z">
-        <seg>Si le files a traducer son partes de un structura a arbore (como in un sito TTT), tu necessita sol specificar le sub plica de maxime nivello e OmegaT mantenera le contentos integre, dum tene intacte le structura a arbore.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Si le files a traducer son partes de un structura a arbore (como in un sito web), tu necessita sol specificar le sub plica de maxime nivello e OmegaT mantenera le contentos integre, dum tene intacte le structura a arbore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42647,8 +42647,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130808T152908Z">
-        <seg>Nota que illos es omne basate sur le TTT: tu debera esser on-line si tu vole usar los.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Nota que illos es omne basate sur le web: tu debera esser on-line si tu vole usar los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43253,8 +43253,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="EN">
         <seg>Obtain and install Iceni Infix Professional from the &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T052625Z">
-        <seg>obtene e installa Iceni Infix Professional ex le &lt;a0&gt;pagina TTT Iceni&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>obtene e installa Iceni Infix Professional ex le &lt;a0&gt;pagina web Iceni&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44244,8 +44244,8 @@ a esser lanceate.</seg>
       <tuv lang="EN">
         <seg>OmegaT on the web</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T165521Z">
-        <seg>OmegaT sur le TTT</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>OmegaT sur le web</seg>
       </tuv>
     </tu>
     <tu>
@@ -60718,8 +60718,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T165959Z">
-        <seg>Le sito TTT de&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/u0&gt;contine ligamines verso numerose ressources &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Le sito web de&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/u0&gt;contine ligamines verso numerose ressources &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62438,8 +62438,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T112321Z">
-        <seg>Isto es un file html ordinari que, quando aperte in tu navigator TTT, dirige te al gruppo del usator OmegaT sur Yahoo!</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Isto es un file html ordinari que, quando aperte in tu navigator web, dirige te al gruppo del usator OmegaT sur Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -63224,8 +63224,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This web site</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T110100Z">
-        <seg>Iste sito TTT</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Iste sito web</seg>
       </tuv>
     </tu>
     <tu>
@@ -63984,8 +63984,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T183312Z">
-        <seg>Pro devenir implicate in le effortio de disveloppamento de &lt;a3&gt;OmegaT&lt;/a3&gt; tu pote adherer al gruppo de disveloppatores, viaTTT o con un email a &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; con "subscribe" como linea de subjecto.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Pro devenir implicate in le effortio de disveloppamento de &lt;a3&gt;OmegaT&lt;/a3&gt; tu pote adherer al gruppo de disveloppatores, viaweb o con un email a &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; con "subscribe" como linea de subjecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70024,8 +70024,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can open them in an Internet browser to obtain access to external links.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T112211Z">
-        <seg>Tu pote aperir los in un navigator TTT pro obtener accesso al ligamines externe.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>Tu pote aperir los in un navigator web pro obtener accesso al ligamines externe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76332,16 +76332,16 @@ a</seg>
       <tuv lang="EN">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T182848Z">
-        <seg>in prime loco adhere al &lt;u0&gt;Gruppo del usatores&lt;/u0&gt; (via TTT o con un email a &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>in prime loco adhere al &lt;u0&gt;Gruppo del usatores&lt;/u0&gt; (via web o con un email a &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>first read the &lt;u0&gt;Localizing and Customizing &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; guide, and join the &lt;a2&gt;OmegaT&lt;/a2&gt; translators' group via web or by sending an email to &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; with subject "subscribe".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T183621Z">
-        <seg>in prime loco lege le guida &lt;u0&gt;Localisation e personalisation de &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; , e adherer al gruppo del traductores de &lt;a2&gt;OmegaT&lt;/a2&gt; via TTT o con un email a &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; con subjecto "subscribe".</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
+        <seg>in prime loco lege le guida &lt;u0&gt;Localisation e personalisation de &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; , e adherer al gruppo del traductores de &lt;a2&gt;OmegaT&lt;/a2&gt; via web o con un email a &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; con subjecto "subscribe".</seg>
       </tuv>
     </tu>
     <tu>
