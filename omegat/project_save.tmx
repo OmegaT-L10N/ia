@@ -14602,10 +14602,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135411Z" creationid="Karm46" creationdate="20171115T135411Z">
+        <seg>Le beneficio: un vice lanceate, futur actualisationes del  version Web Start essera installate automaticamente sur tu computator.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s3/&gt;(Various browsers have slightly different methods for doing this.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130327T195642Z">
         <seg>&lt;s3/&gt;(Varie lectores del tela ha methodos un pauc differente per lo facer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135536Z" creationid="Karm46" creationdate="20171115T135536Z">
+        <seg>&lt;s3&gt;Le drawback&lt;/s3&gt;: al presente, iste version non pote esser usate conjunctemente con le plugins, assi non omne le functiones es disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32630,6 +32646,14 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T130412Z">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135314Z" creationid="Karm46" creationdate="20171115T135314Z">
+        <seg>Si tu es in dubita, selige iste version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57430,6 +57454,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135340Z" creationid="Karm46" creationdate="20171115T135340Z">
+        <seg>Web Start es le version "installa e oblida".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130407T223323Z">
@@ -68294,6 +68326,14 @@ any other work released this way by its authors.</seg>
         <seg>We, the Free Software Foundation, use the
 GNU General Public License for most of our software; it applies also to
 any other work released this way by its authors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135321Z" creationid="Karm46" creationdate="20171115T135321Z">
+        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
