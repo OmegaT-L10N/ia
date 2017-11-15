@@ -24656,6 +24656,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T125249Z" creationid="Karm46" creationdate="20171115T125249Z">
+        <seg>Describe le compatibilitate de OmegaT con le files de Microsoft Office 2007, in modo special Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with selected other software products.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T122512Z" creationid="Karm46" creationdate="20170909T234629Z">
@@ -75276,8 +75284,8 @@ a</seg>
       <tuv lang="EN">
         <seg>docx compatibility</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T125120Z" creationid="Karm46" creationdate="20171115T125120Z">
-        <seg>compatibilitate docx</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T131400Z" creationid="Karm46" creationdate="20171115T125120Z">
+        <seg>compatibilitate de docx</seg>
       </tuv>
     </tu>
     <tu>
