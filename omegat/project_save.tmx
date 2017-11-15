@@ -34297,8 +34297,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130516T145337Z">
-        <seg>Si tu es relativemente nove re Linux, nos te avisa pro seliger un version de OmegaT con le JRE includite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T214119Z">
+        <seg>Si tu es relativemente nove re Linux, nos te consilia de seliger un version de OmegaT con le JRE includite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40964,6 +40964,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T214546Z" creationid="Karm46" creationdate="20171115T214546Z">
+        <seg>Mac OS X ha un functionalitate nominate Gatekeeper que accresce le securitate per render difficile exequer programmas non signate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X specifics</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T194320Z" creationid="MELO46" creationdate="20140227T184156Z">
@@ -42272,8 +42280,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130516T145543Z">
-        <seg>Le usatores plus experte de Linux pote preferer  installar le JRE de Oracle (un vice Sun) a nivello de systema.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T214133Z">
+        <seg>Le usatores plus experte de Linux pote preferer installar le JRE de Oracle (un vice Sun) a nivello de systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54170,6 +54178,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T160458Z">
         <seg>In prime loco signa in le site o - si il es vostre prime vece sur le site, que vos registra pro illo e que vos nota vos nomine del usator e contrasigno pro le futur projectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T214217Z" creationid="Karm46" creationdate="20171115T214217Z">
+        <seg>Signate/Non signate</seg>
       </tuv>
     </tu>
     <tu>
