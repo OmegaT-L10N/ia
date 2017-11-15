@@ -25224,6 +25224,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T173057Z" creationid="Karm46" creationdate="20171115T173057Z">
+        <seg>Disveloppator Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T164604Z">
@@ -55366,6 +55374,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T235117Z" creationid="Karm46" creationdate="20170909T235117Z">
         <seg>Version Standard - {{site.data.versions.standard.name '}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T173340Z" creationid="Karm46" creationdate="20171115T173340Z">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
