@@ -16334,6 +16334,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133122Z" creationid="Karm46" creationdate="20171115T133122Z">
+        <seg>Adde le recognition del formas declinate al functiones glossario e concordantia partial de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adiel Mittmann</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T222100Z" creationid="Melo" creationdate="20141027T222100Z">
@@ -16354,6 +16362,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095053Z">
         <seg>&amp;Optiones avantiate </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced feature HowTos</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133000Z" creationid="Karm46" creationdate="20171115T133000Z">
+        <seg>Guidas del functionalitates avantiate</seg>
       </tuv>
     </tu>
     <tu>
@@ -44484,6 +44500,14 @@ installate sur tu systema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT tokenizer plugin</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133017Z" creationid="Karm46" creationdate="20171115T133017Z">
+        <seg>Plugin tokenizer de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT training course.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T215752Z">
@@ -47541,6 +47565,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T222705Z">
         <seg>Impedir le Perdita del datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T132930Z" creationid="Karm46" creationdate="20171115T132930Z">
+        <seg>Visualisation preliminar</seg>
       </tuv>
     </tu>
     <tu>
@@ -52488,6 +52520,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150537Z">
         <seg>Preparation de MS Translator sur Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T132941Z" creationid="Karm46" creationdate="20171115T132941Z">
+        <seg>Preparation del function de vista preliminar pro le uso con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
