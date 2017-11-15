@@ -2450,6 +2450,14 @@ ma tu non vide tu nomine in le listas, senti te libere de nos continger.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134216Z" creationid="Karm46" creationdate="20171115T134216Z">
+        <seg>(In Italiano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In Russian)</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T234703Z" creationid="Karm46" creationdate="20170909T234703Z">
@@ -19898,6 +19906,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134145Z" creationid="Karm46" creationdate="20171115T134145Z">
+        <seg>Libros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T064024Z">
@@ -20230,6 +20246,14 @@ been installed in ROM).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T195429Z">
         <seg>Per Jan Reitsma (in germano).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134211Z" creationid="Karm46" creationdate="20171115T134148Z">
+        <seg>Ex Marco Cevoli e Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30120,6 +30144,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134031Z" creationid="Karm46" creationdate="20171115T134031Z">
+        <seg>Ex le series YouTube de OmegaT per Miguel Navarro (in espaniol).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From within this folder, execute Apache Ant by entering the ant executable.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T040518Z">
@@ -30893,6 +30925,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135354Z">
         <seg>Guaraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134153Z" creationid="Karm46" creationdate="20171115T134153Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -52468,6 +52508,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134429Z" creationid="Karm46" creationdate="20171115T134224Z">
+        <seg>Curso de exercitation in Internet in Anglese (pro comprar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T215501Z">
@@ -65242,6 +65290,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134224Z" creationid="Karm46" creationdate="20171115T134224Z">
+        <seg>Exercitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Training course</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T105812Z">
@@ -67750,6 +67806,30 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T161602Z">
         <seg>Clientes multo popular pro le ambiente Windows es &lt;u1&gt;TortoiseSVN&lt;/u1&gt; e &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134019Z" creationid="Karm46" creationdate="20171115T134019Z">
+        <seg>Video 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134052Z" creationid="Karm46" creationdate="20171115T134052Z">
+        <seg>Video 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134056Z" creationid="Karm46" creationdate="20171115T134056Z">
+        <seg>Video 3</seg>
       </tuv>
     </tu>
     <tu>
