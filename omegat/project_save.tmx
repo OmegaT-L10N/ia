@@ -39938,6 +39938,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T173718Z" creationid="Karm46" creationdate="20171115T173624Z">
+        <seg>Ultime version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140420Z">
@@ -55380,8 +55388,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T173340Z" creationid="Karm46" creationdate="20171115T173340Z">
-        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T173428Z" creationid="Karm46" creationdate="20171115T173340Z">
+        <seg>Version standard - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -90203,6 +90211,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T173614Z" creationid="Karm46" creationdate="20171115T173522Z">
+        <seg>{% else %} &lt;a0&gt;Discargamento&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{% endfor %}</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201327Z" creationid="ia" creationdate="20170909T201327Z">
@@ -90247,6 +90263,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201543Z" creationid="ia" creationdate="20170909T201543Z">
         <seg>{% for translator in site.data.credits.translators[site.lang] %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T173515Z" creationid="Karm46" creationdate="20171115T173441Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Discargamento&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
