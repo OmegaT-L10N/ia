@@ -34882,6 +34882,14 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T175452Z" creationid="Karm46" creationdate="20171115T175452Z">
+        <seg>Si tu installa le version de OmegaT con JRE, anque si le JRE es ja installate sur tu computator, le JRE de OmegaT essera installate separatemente atque testamento non collision con lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T080151Z">
@@ -36158,6 +36166,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T220720Z">
         <seg>Pro render plus clar le functionamentos del script, omne script essentialmente exeque sol un function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T174807Z" creationid="Karm46" creationdate="20171115T174807Z">
+        <seg>Pro fluer, OmegaT besonia que le Java Runtime Environment (JRE) es installate sur tu computator.</seg>
       </tuv>
     </tu>
     <tu>
