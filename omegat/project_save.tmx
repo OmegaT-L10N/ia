@@ -14682,6 +14682,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T213805Z" creationid="Karm46" creationdate="20171115T213805Z">
+        <seg>&lt;s0&gt;Usatores de Mac OS X&lt;/s0&gt;: JRE es ja installate normalmente sur Mac OS X; in consequentia non ha ulle version con JRE pro ille systema operative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T174246Z">
