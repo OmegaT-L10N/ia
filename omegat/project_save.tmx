@@ -62750,6 +62750,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T215215Z" creationid="Karm46" creationdate="20171115T215215Z">
+        <seg>On pote haber un retardo a publicar le versiones signate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T154246Z">
@@ -68814,6 +68822,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T034809Z">
         <seg>Dunque le usatores non necessita de compilar OmegaT ipse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T215700Z" creationid="Karm46" creationdate="20171115T215700Z">
+        <seg>Le usatores hastive pote usar le non version signate in vice; si tu ha difficultate a lancear le app, vide &lt;a0&gt;como aperir un app de un disveloppator non identificate&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
