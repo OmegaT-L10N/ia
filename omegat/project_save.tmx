@@ -16358,6 +16358,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administrative and technical procedure for localizating OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133644Z" creationid="Karm46" creationdate="20171115T133644Z">
+        <seg>Proceduras technic e administrative pro localisar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095053Z">
@@ -36723,6 +36731,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133731Z" creationid="Karm46" creationdate="20171115T133731Z">
+        <seg>Designate in particular pro usatores novicios de Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intended readership</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T194344Z">
@@ -39751,6 +39767,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T105918Z">
         <seg>Ressources de localisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133541Z" creationid="Karm46" creationdate="20171115T133541Z">
+        <seg>Localisation de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -67198,6 +67222,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T132700Z" creationid="Karm46" creationdate="20171115T132700Z">
         <seg>Usar OmegaT in conjunction con Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T133702Z" creationid="Karm46" creationdate="20171115T133702Z">
+        <seg>Usar OmegaT sur Linux</seg>
       </tuv>
     </tu>
     <tu>
