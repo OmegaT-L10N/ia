@@ -7648,6 +7648,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135836Z" creationid="Karm46" creationdate="20171115T135836Z">
+        <seg>&lt;i1&gt;OmegaT pote ser installate sur tote le systemas operative capabile de executar le version 1.6 del Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140122T231717Z">
@@ -29556,6 +29564,38 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135640Z" creationid="Karm46" creationdate="20171115T135640Z">
+        <seg>Pro le installation sur Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135649Z" creationid="Karm46" creationdate="20171115T135626Z">
+        <seg>Pro le installation sur Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135609Z" creationid="Karm46" creationdate="20171115T135609Z">
+        <seg>Pro le installation sur le systemas Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135655Z" creationid="Karm46" creationdate="20171115T135655Z">
+        <seg>Pro le installation sur altere systemas operative (assi como FreeBSD e Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130807T161459Z">
@@ -39707,6 +39747,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135628Z" creationid="Karm46" creationdate="20171115T135628Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T175616Z">
@@ -40135,6 +40183,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T132704Z" creationid="Karm46" creationdate="20171115T132704Z">
         <seg>MS Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135612Z" creationid="Karm46" creationdate="20171115T135612Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -52480,6 +52536,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T144145Z">
         <seg>Selige iste commando del menu, si le traduction currente non referer se e inscribe le traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135937Z" creationid="Karm46" creationdate="20171115T135937Z">
+        <seg>Selige si discargar OmegaT sin o includite le Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -69258,6 +69322,14 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T220920Z">
         <seg>Le vento captura le lilio&lt;p&gt;Petalos dispergite al vento:&lt;p&gt;Tu pagina non es trovate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135540Z" creationid="Karm46" creationdate="20171115T135540Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
