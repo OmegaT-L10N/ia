@@ -24680,6 +24680,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T132358Z" creationid="Karm46" creationdate="20171115T132358Z">
+        <seg>Describe le functionalitates de controlator orthographic de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T132227Z" creationid="Karm46" creationdate="20171115T132227Z">
@@ -28068,6 +28076,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095126Z">
         <seg>Error fatal re linea {0}, columna {1} durante le analyse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature HowTos</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T132305Z" creationid="Karm46" creationdate="20171115T132305Z">
+        <seg>GUIDAS del functionalitates</seg>
       </tuv>
     </tu>
     <tu>
@@ -48155,6 +48171,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T132506Z" creationid="Karm46" creationdate="20171115T132506Z">
+        <seg>Propagation e concordantia uno-a-plures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Propagation and one-to-many matching HowTo</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T162915Z">
@@ -53932,6 +53956,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102650Z">
         <seg>Preparation del corrector orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T132311Z" creationid="Karm46" creationdate="20171115T132311Z">
+        <seg>Controlator orthographic</seg>
       </tuv>
     </tu>
     <tu>
