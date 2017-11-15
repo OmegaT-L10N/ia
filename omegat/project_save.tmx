@@ -33116,8 +33116,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="EN">
         <seg>If in doubt, select this option.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T080204Z">
-        <seg>Si tu es dubitoso, selige iste option.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T141249Z">
+        <seg>Si tu es dubitose, selige iste option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59958,6 +59958,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T141528Z" creationid="Karm46" creationdate="20171115T141528Z">
+        <seg>Le JRE includite es le version a 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130528T181123Z">
@@ -70644,6 +70652,14 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T090724Z">
         <seg>Usatores de Windows: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T141328Z" creationid="Karm46" creationdate="20171115T141328Z">
+        <seg>Version con JRE 64-bit</seg>
       </tuv>
     </tu>
     <tu>
