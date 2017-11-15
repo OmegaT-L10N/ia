@@ -24658,8 +24658,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with selected other software products.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170909T234629Z" creationid="Karm46" creationdate="20170909T234629Z">
-        <seg>Describe compatibilitate de OmegaT con altere productos software seligite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T122512Z" creationid="Karm46" creationdate="20170909T234629Z">
+        <seg>Describe LE compatibilitate de OmegaT con altere productos software seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68778,6 +68778,14 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T160409Z">
         <seg>Con  texto minus gravate ab tags, tu pote deler le contento del campo del texto final e inscriber simplemente le traduction, o tu pote maestrar OmegaT a lo lassar ordinarimente blanco (Refere al Manual del Usator pro le detalios).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T124513Z" creationid="Karm46" creationdate="20171115T124513Z">
+        <seg>Con ligamines al GUIDAS plus detaliate.</seg>
       </tuv>
     </tu>
     <tu>
