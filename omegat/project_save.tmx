@@ -42890,6 +42890,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T220506Z" creationid="Karm46" creationdate="20171115T220506Z">
+        <seg>Navigate pro le radice re le OmegaT primari cifra (le classificator continente le file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ndonga</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141139Z">
@@ -63239,8 +63247,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>They can be found in the folders of the corresponding compiled versions.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170909T235505Z" creationid="Karm46" creationdate="20170909T235505Z">
-        <seg>On pote lo trovar in le plicas del versiones compilate correspondente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T220425Z" creationid="Karm46" creationdate="20170909T235505Z">
+        <seg>On lo pote trovar in le plicas del versiones compilate correspondente</seg>
       </tuv>
     </tu>
     <tu>
@@ -63436,8 +63444,8 @@ le servitor.</seg>
       <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130531T224302Z">
-        <seg>Iste guida explica como compilar OmegaT ex le codice origine.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T220627Z">
+        <seg>Iste guida explica como compilar OmegaT a partir del codice fonte.</seg>
       </tuv>
     </tu>
     <tu>
