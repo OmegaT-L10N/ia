@@ -38054,6 +38054,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135026Z" creationid="Karm46" creationdate="20171115T135026Z">
+        <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JRE.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105608Z">
@@ -45970,6 +45978,14 @@ installate sur tu systema.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T154509Z">
         <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135024Z" creationid="Karm46" creationdate="20171115T135024Z">
+        <seg>Systema operative</seg>
       </tuv>
     </tu>
     <tu>
@@ -61036,6 +61052,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135258Z" creationid="Karm46" creationdate="20171115T135258Z">
+        <seg>Version pro le installation per le usator, familiar al usatores existente de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140201T113036Z">
@@ -65322,6 +65346,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T135032Z" creationid="Karm46" creationdate="20171115T135032Z">
+        <seg>Traditional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trados "uncleaned RTF"</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130520T125950Z">
@@ -67822,6 +67854,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234244Z">
         <seg>Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T134946Z" creationid="Karm46" creationdate="20171115T134946Z">
+        <seg>Version</seg>
       </tuv>
     </tu>
     <tu>
