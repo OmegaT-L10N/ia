@@ -48527,6 +48527,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T174256Z" creationid="Karm46" creationdate="20171115T174256Z">
+        <seg>Files pre-compilate binari, es disponibile como compilationes Nightly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-defined themes can be set through a script.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151116T063356Z" creationid="Melo" creationdate="20151116T063356Z">
@@ -57412,6 +57420,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151111T133009Z" creationid="Melo46" creationdate="20151111T133009Z">
         <seg>work thus licensed is called the contributor's "contributor version".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T173927Z" creationid="Karm46" creationdate="20171115T173927Z">
+        <seg>Le version "/trunk" es un version "alpha" preliminar, ancora in disveloppamento.</seg>
       </tuv>
     </tu>
     <tu>
