@@ -552,6 +552,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T141038Z" creationid="Karm46" creationdate="20171115T141038Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T134316Z">
@@ -2424,6 +2432,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T072257Z">
+        <seg>(Si tu ha rendite in un lingua que non es le lingua del systema operative, vide sub, "Como OmegaT tracta le versiones localisate".)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you think you have significantly contributed to the OmegaT Project</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094716Z">
@@ -2534,6 +2550,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note: these are the English files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T230810Z">
+        <seg>(Nota: istos es le files in lingua anglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T203743Z">
@@ -2626,6 +2650,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T060622Z">
         <seg>(Le major facilitate de tractar le tag con le files .docx veni a costo de un legier perdita in controlo re le formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T214856Z">
+        <seg>(Le tokenizer pote esser usate con le versiones 2.0.x e 2.1.0, ma isto necessita ambe un differente version del tokenizer, e un differente procedura de installation.) Le usatores es avisate pro promover al ultime version beta de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,6 +2988,22 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130513T122929Z">
         <seg> * Le guida "initio rapide" (un curte introduction al uso de OmegaT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The OmegaT web pages (probably where you are reading this)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130525T190349Z">
+        <seg>* Le paginas TTT de OmegaT (probabilemente ubi tu es legente isto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130525T190333Z">
+        <seg>* Le file readme (un documento que contine information general re OmegaT)&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3500,6 +3548,22 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130517T084911Z">
         <seg>- Presso le fundo tu videra entratas e precios pro:&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T174621Z">
+        <seg>- Sur Linux, sur le linea de commando&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- On Windows, by clicking on the launch script file</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130609T215156Z">
+        <seg>- sur Windows, cliccante sur le file script de lanceamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -14610,6 +14674,54 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T080615Z">
+        <seg>&lt;s0&gt;Versiones/systemas Linux&lt;/s0&gt;: loca tu file script de lanceamento de OmegaT (OmegaT o OmegaT.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T174246Z">
+        <seg>&lt;s0&gt;OmegaT version 2.1.0 e precedente&lt;/s0&gt;: le actual tokenizer non es compatibile con iste versiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T080503Z">
+        <seg>&lt;s0&gt;Le version Platteforma neutre (sur Windows)&lt;/s0&gt;: loca tu file script de lanceamento de OmegaT (OmegaT.bat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Webstart version of OmegaT&lt;/s0&gt;: the tokenizer is not compatible with the Webstart version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122211Z">
+        <seg>&lt;s0&gt;Version Webstart de OmegaT&lt;/s0&gt;: le tokenizer non es compatibile con le version Webstart de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Windows versions of OmegaT&lt;/s0&gt;: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130609T215425Z">
+        <seg>&lt;s0&gt;Versiones Windows de OmegaT&lt;/s0&gt;:pro usar OmegaT (omne version) con le tokenizer, illo debe esser lanceate ab un file script de lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T225914Z">
+        <seg>&lt;s1&gt;Al fin de evitar que duo o plus traductores labora al mesme tempore sur le mesme lingua, es ergo assatis importante se signar in le plan de localisation quando on initia a laborar sur un traduction.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T135411Z" creationid="Karm46" creationdate="20171115T135411Z">
@@ -15328,6 +15440,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T072758Z">
+        <seg>Un file script de lanceamento non es supplite con le versiones de OmegaT pro Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T135615Z">
@@ -15652,6 +15772,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T194243Z" creationid="MELO46" creationdate="20140227T183017Z">
         <seg>Un pacchetto tokenizer conformate a partir del projecto Lucene es distribuite quam un plug-in OmegaT al ligamine http://sourceforge.net/projects/omegat-plugins/files/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A translation may also be provided for information, but it has no legal validity.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T070949Z">
+        <seg>Un traduction pote anque esser fornite pro information, ma non ha ulle validitate juridic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16230,6 +16358,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T073114Z">
+        <seg>Adde le argumento --ITokenizer= sequite per le nomine complete de iste tokenizer (copiante le linea integre, insere un spatio) al fin del commando de lanceamento in tu file script de lanceamento de OmegaT .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add the following argument to the launch command:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T085735Z">
@@ -16526,6 +16662,22 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After creating a launch script as described above, you can configure your system so that OmegaT is launched more conveniently, for example by creating a shortcut.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T081352Z">
+        <seg>Depost create un script de lanceamento como supra describite, tu pote configurar tu systema de maniera que OmegaT es lanceate plus convenibilemente, per exemplo creante un via breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After creating and testing the shortcut, you can add it to the Start menu by dragging it there.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T220359Z">
+        <seg>Depost create e probate le via breve, tu pote adder lo al menu Start lo illac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After deletion:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T090608Z">
@@ -16538,6 +16690,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T202332Z">
         <seg>Postquam tu ha discargate OmegaT (version pro Windows), que tu lancea le file .exe e que tu seque le instructiones sur-schermo, le quales essera auto-explicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T080319Z">
+        <seg>Depost le discargamento, pone le file in le plica principal de OmegaT (le plica continente le file OmegaT.jar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16558,6 +16718,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After joining, visit the &lt;a0&gt;OmegaT Localization Plan&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T225618Z">
+        <seg>Post le adhesion, visita le &lt;a0&gt;Plan de localisation de OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T153646Z">
@@ -16570,6 +16738,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T150357Z">
         <seg>Post le annidamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After preparing for installation (see above), install the tokenizer as follows:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T215125Z">
+        <seg>Depost le preparation pro le installation (vide precedente), installa le tokenizer como seque:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17268,6 +17444,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, right-click on the launch script.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T180749Z">
+        <seg>Alternativemente, clicca con le dextere sur le file script de lanceamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T184033Z">
@@ -17344,6 +17528,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T125057Z">
         <seg>Etiam si multe usatores es al currente de isto, lor reaction is frequentemente "Ma io non pote programmar!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130525T190721Z">
+        <seg>Ben que non essential, il es convenibile anque adherer al &lt;a0&gt;Mailing list del localisatores de OmegaT&lt;/a0&gt; (cognoscite etiam como "OmT-l10n").</seg>
       </tuv>
     </tu>
     <tu>
@@ -18890,6 +19082,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T100248Z">
+        <seg>Como su nomine suggere, le "Ultime" version de Omegat es le plus actualisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T070608Z">
@@ -19578,6 +19778,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133349Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T133449Z">
@@ -19758,6 +19966,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102643Z">
         <seg>Ante que le corrector orthographic pote functionar, on debe installar un dictionarios convenibile (i.e. pro tu lingua final).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T174109Z">
+        <seg>Avante que tu usa le tokenizer con OmegaT, tu debe in prime loco assecurar te que tu version de OmegaT es convenibile e preparate pro le uso con illo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20648,6 +20864,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T220818Z">
+        <seg>Traductiones CJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CO2 was 10 times higher and it was much warmer at 450 million years ago even though CO2 remained much higher than it is today there was an ice age which occurred</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140428T150106Z" creationid="MELO46" creationdate="20140411T111032Z">
@@ -20892,6 +21116,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T212821Z">
         <seg>Certe altere applicationes CAT (assi como TRADOS) es capace a exportar differente files TMX in differente versiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130528T140539Z">
+        <seg>Certe functiones del programma comocunque esseva commissionate per sponsores commercial que ha redonate le characteristicas al communitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21416,6 +21648,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that OmegaT is launched when you execute the launch script file:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T080706Z">
+        <seg>Controla que OmegaT es lanceate quando tu exeque le file script de lanceamento:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T081839Z">
@@ -21568,6 +21808,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose "Create Shortcuts Here".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T180621Z">
+        <seg>Seliger "Crea hic vias breve".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose MED project</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T233300Z" creationid="Melo46" creationdate="20160728T233300Z">
@@ -21604,6 +21852,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T223524Z" creationid="Melo46" creationdate="20160729T223524Z">
         <seg>Eliger le file de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose a tokenizer from the following list, according to your &lt;s0&gt;source&lt;/s0&gt; language:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T220147Z">
+        <seg>Selige un tokenizer ex le lista sequente, secundo tu lingua &lt;s0&gt;de origine&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the .png file type</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T073718Z">
+        <seg>Selige le formato de file .png</seg>
       </tuv>
     </tu>
     <tu>
@@ -22399,6 +22663,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T220900Z">
+        <seg>Commodity12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T101323Z">
@@ -23064,6 +23336,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T180533Z">
+        <seg>copia le files que tu ha expandite ex le pacchetto tokenizer directemente in iste sub plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T062334Z">
@@ -23172,6 +23452,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T235734Z" creationid="Karm46" creationdate="20170909T235734Z">
         <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2010-2011</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T180547Z">
+        <seg>Copyright Marc Prior 2010-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -24784,6 +25072,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T220009Z">
+        <seg>Dependente sur tu configuration del systema, le commando de lanceamento pote esser legiermente differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T131541Z" creationid="Karm46" creationdate="20171115T131541Z">
@@ -25168,6 +25464,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075200Z">
         <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133356Z">
+        <seg>Diptik</seg>
       </tuv>
     </tu>
     <tu>
@@ -25772,6 +26076,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T081347Z">
+        <seg>Documentation, in particular re nove characteristicas, essera minus comprehensive que cello del version Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T111622Z">
@@ -25944,6 +26256,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T204003Z" creationid="MELO46" creationdate="20140629T204003Z">
         <seg>Parolas duplicate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133409Z">
+        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -26254,6 +26574,14 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T145713Z">
+        <seg>Durante le installation, dependente de tu systema operative, tu pote reciper plure advertimentos de securitate.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094630Z">
@@ -26266,6 +26594,14 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T211838Z">
         <seg>Durante le installation, dependente de tu systema operative, tu pote reciper plure advertimentos de securitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T225503Z">
+        <seg> Que tu participa al Gruppo del usatores de OmegaT (cognoscite etiam como "OmT"). Durante le processo de adhesion, on debera inviar un breve message pro le moderatores del gruppo: isto es pro consentir lor de distinguer le usatores sincer ab le disturbatores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27320,6 +27656,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T074301Z">
+        <seg>In le mesme modo, si tu abandona le labor de traduction per ulle motivo, actualisa per favor tu voce in le plan per monstrar isto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094747Z">
@@ -27852,6 +28196,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T220750Z" creationid="Melo" creationdate="20141027T220750Z">
         <seg>Modellos de Exclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T073814Z">
+        <seg>Exeque iste file, e OmegaT deberea ora lancear  con le function tokenizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28744,6 +29096,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firstly, only the original English is legally valid.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T070942Z">
+        <seg>In primo loco, proque sol le original in lingua anglese es legalmente valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fix</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130426T220329Z">
@@ -29450,6 +29810,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T173824Z">
+        <seg>Per exemplo,illo recognoscera parolas declinate in textos e monstrara le correspondente entrata del glossario, etsi le entrata del glossario contine sol le forma non declinate de un parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T232412Z" creationid="MELO46" creationdate="20140108T232412Z">
@@ -29494,6 +29862,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T184337Z">
         <seg>Per exemplo, iste texto in anglese:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T073304Z">
+        <seg>Per exemplo, pro usar le tokenizer anglese (quando on rende a partir del anglese), tu commando de lanceamento pote ora esser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29652,6 +30028,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T075705Z">
+        <seg>Per exemplo, si tu es rendente ex le chinese al nederlandese, proba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T070557Z">
@@ -29706,6 +30090,14 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144839Z">
         <seg>For more information on this, and how to apply and follow the GNU GPL, see
 &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T084126Z">
+        <seg>Pro le major parte del usatores, istos non es interessante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31801,6 +32193,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T150411Z">
+        <seg>Comocunque, alicun usatores pote affrontar restrictiones (imponite ab lor systemas operative o version de Java) que pote resultar in un preferentia pro un version plus vetule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T204047Z">
@@ -31821,6 +32221,14 @@ later version.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T125007Z">
         <seg>Comocunque le projecto pro su superviventia e su progresso, fide magis plus sur le usatores de OmegaT providente supporto in altere formas, que sur le contributiones financiari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T100544Z">
+        <seg>Comocunque, le manual del usator pote esser non jam actualisate (e dunque possibilemente confuse), e qualque minor defectos es possibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32424,6 +32832,22 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T201119Z">
+        <seg>Si sur tu systema Windows es jam installate un convenibile version del JRE, selige "sin JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T225824Z">
+        <seg>Si un pecia apte del labor pro tu lingua non es etiam nunc initiate, tu pote lo signar in le plan per indicar que tu ha assumite le responsabilitate pro isto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T140053Z">
@@ -32690,6 +33114,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130518T080204Z">
+        <seg>Si tu es dubitoso, selige iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If in doubt, select this version.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T135314Z" creationid="Karm46" creationdate="20171115T135314Z">
@@ -32860,6 +33292,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T041423Z">
         <seg>Si non, essera monstrate messages de cernita  que (on spera) providera alicun idea re ubi es le problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130518T081641Z">
+        <seg>Si non, o si tu non es secur, selige le version "Con JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -33280,6 +33720,15 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T235059Z" creationid="MELO46" creationdate="20140106T235059Z">
         <seg>Si le documento permitte, le traductor es fortemente incitate a remover le information del stilo ab le documento fonte assi que in le interfacie OmegaT appare tam pauc tags quam possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T070856Z">
+        <seg>License) o GFDL (GNU Free Documentation License).
+Si le documento que tu es rendente lo contine, que tu &lt;s0&gt;NON&lt;/s0&gt; rende le licentia GPL (GNU Public License) o GFDL (GNU Free Documentation License).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33750,6 +34199,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T082733Z">
+        <seg>Si tu es confidente que sur tu computator es jam installate un convenibile version del JRE, tu pote discargar un version sin le JRE de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T134843Z" creationid="Karm46" creationdate="20171115T134843Z">
@@ -33798,6 +34255,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T145337Z">
+        <seg>Si tu es relativemente nove re Linux, nos te avisa pro seliger un version de OmegaT con le JRE includite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T165741Z">
@@ -33822,6 +34287,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T101343Z">
+        <seg>Si tu es secur que sur tu computator es jam installate un convenibile version del JRE, tu pote seliger le option sin JRE includite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are translating .html files, a convenient solution is to use a browser with an automatic refresh function to provide a ready-made preview function.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T211154Z">
@@ -33834,6 +34307,22 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Si tu non pote lancear &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (nulle ambiente graphic disponibile): copia le files del configurationes ex alicun altere installation &lt;a1&gt;OmegaT&lt;/a1&gt; sur un altere machina verso un plica specific.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130518T074734Z">
+        <seg>Si tu es insecur si un convenibile JRE es jam installate sur tu systema, tu pote ancora discargar e installar un version de OmegaT con JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T143936Z">
+        <seg>Si tu es insecur si tu ha un version convenibile del JRE o non, selige un version con JRE (o le version Default).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33890,6 +34379,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T153426Z">
         <seg>Si tu usa un altere systema, e tu pati problemas, le gruppo de usatores de OmegaT in Yahoo pote te adjutar (vide passo &lt;f0&gt;8&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using the Windows version with JRE, download the file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; If you are using the Windows version without JRE, download the file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T080135Z">
+        <seg>Si tu es usante le version Windows con JRE, discarga le file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; si tu es usante le version Windows sin JRE, discarga le file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34681,10 +35178,26 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T074737Z">
+        <seg>Si tu vole usar tokenizers differente perque tu rende ex plus que un lingua, crea un file script de lanceamento de OmegaT separate pro cata tokenizer que tu desidera usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T084202Z">
         <seg>Si tu desira usar tal files como traductiones de referentia in OmegaT, illos debe esser reparate, o OmegaT reportara un error e fallera a cargar los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130609T215044Z">
+        <seg>Si tu vole usar le tokenizer, installa le version standard de OmegaT (le ultime version beta) pro tu systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35035,6 +35548,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130520T132730Z">
         <seg>importante: pro usar le plugins, tu pote haber necessitate de installar un version de OmegaT plus recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T073723Z">
+        <seg>Importante: iste commando integre debe apparer sur un linea (mesmo si illo appare trovar se sur duo lineas in le apparentia in le qual tu es legente lo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35729,6 +36250,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T075544Z">
+        <seg>In alicun casos, tu pote trovar que le tokenizer del lingua de origine interfere con le tokenizer del corrector orthographic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T205343Z">
@@ -35781,6 +36310,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T222732Z">
         <seg>In le campo "Commando", usa le button de navigation pro trovar tu script de lanceamento de &lt;a0&gt;OmegaT&lt;/a0&gt; (le file nominate &lt;a1&gt;OmegaT&lt;/a1&gt; in le plica decomprimite), e selige lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T072126Z">
+        <seg>in le plica /docs/ del programma OmegaT, crear un sub-plica con le codice ISO de vostre lingua del systema operative (Renominar le plica existente temporaneemente si jam existe) e copiar le manual in iste plica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36007,6 +36544,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T215416Z">
+        <seg>In le plica principal del programma OmegaT (id es le plica continente le file OmegaT.jar), crea un sub plica nominate "plugins", si un sub plica con iste nomine non existe ja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T133918Z">
@@ -36131,6 +36676,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080458Z">
         <seg>In iste caso, que tu evoca le documentation de OmegaT con seliger "Adjuta &gt; Manual del usator", o que tu pulsa F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T091928Z">
+        <seg>In iste caso, non seliger le version Default; selige un version differente (exempli gratia. Standard o  Ultime), deinde selige un version marcate "Java not included".</seg>
       </tuv>
     </tu>
     <tu>
@@ -36875,10 +37428,26 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing the tokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130518T101310Z">
+        <seg>Installar le tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095400Z">
         <seg>Initio instantanee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T180330Z">
+        <seg>In vice, lancea un editor de texto (assi como Notepad o Wordpad), alora aperi le file script de lanceamento con File &gt; Aperi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36895,6 +37464,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130513T122748Z">
         <seg>In vice, illes qui es implicate in le projecto OmegaT spera que le traductiones essera fornite ante toto ab traductores qui ha experimentate OmegaT e es convincite de su valor pro le communitate complete del traductores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130526T085437Z">
+        <seg>Instituto Laue-Langevin</seg>
       </tuv>
     </tu>
     <tu>
@@ -37083,6 +37660,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invantive</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133437Z">
+        <seg>Invantive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T194537Z" creationid="Melo46" creationdate="20160728T194537Z">
@@ -37247,6 +37832,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130421T134204Z">
         <seg>Illo es basate sur le punctos forte de  Java ma ha additional characteristicas potente inspirate de linguas como Python, Ruby e Smalltalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can also be obtained using the subversion command:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T094501Z">
+        <seg>On pote anque lo obtener con le uso del commando subversion:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37475,6 +38068,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231252Z">
+        <seg>Il es avantagiose anque de demandar presso le &lt;a1&gt;lista del localisatores&lt;/a1&gt; (OmT-l10n) si alicuno ha ulle material de referentia que poterea facilitar le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102642Z">
@@ -37635,6 +38236,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T083734Z">
+        <seg>Illo es recommendate pro disveloppatores experte e probatores solmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is requested, but not required, that you contact the authors of the Document well before redistributing any large number of copies, to give them a chance to provide you with an updated version of the Document.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065041Z" creationid="MELO" creationdate="20131219T065041Z">
@@ -37705,10 +38314,26 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T100041Z">
+        <seg>Illo es le version recommendate pro le neophytos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T204644Z">
         <seg>Il es le segmento que es monstrate in duo partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T143640Z">
+        <seg>Il es ergo semper secur installar le version de OmegaT con JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37833,6 +38458,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T173520Z">
+        <seg>Illo provide melior concordantias partial o del glossario, con le computation del radices ("cerca del stirpe") del parolas original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It requires four light flashes to extract one molecule of oxygen from two water molecules bound to the metal cluster.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T190446Z" creationid="melo46" creationdate="20140714T190446Z">
@@ -37928,6 +38561,14 @@ interne al plica de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T232425Z">
         <seg>Illo committera in prime loco le contentos currente al deposito del server e pois renovate le copia local  del deposito - id es le contentos del sub plica .svn - de maniera que illo es renovate con le ultime version del deposito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T080713Z">
+        <seg>Illo tamen mancara de qualque characteristicas del version "Ultime".</seg>
       </tuv>
     </tu>
     <tu>
@@ -38066,6 +38707,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
         <seg>Su contentos essera sempre ordinate alphabeticamente per le segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T080459Z">
+        <seg>Su documentation, al minus in anglese, es de costume rationabilemente actualisate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38322,6 +38971,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T114500Z">
         <seg>John Moran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Join the &lt;a0&gt;OmegaT user group&lt;/a0&gt; (also known as "OmT").</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T225239Z">
+        <seg>adhere al &lt;a0&gt;Gruppo del usatores de OmegaT&lt;/a0&gt; (alsi note como "OmT").</seg>
       </tuv>
     </tu>
     <tu>
@@ -39249,6 +39906,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T201214Z">
+        <seg>Ultime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140420Z">
@@ -39301,6 +39966,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094649Z">
         <seg>Lancea OmegaT como seque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch OmegaT from the command line (MS-DOS window) with the following commands (if you are unsure how to do this, refer to the OmegaT user manual)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071851Z">
+        <seg>lancea OmegaT ab le riga de commando (fenestra MS-DOS) con le sequente commandos (se tu non es certe re le execution de iste operation, consulta le manual del usator de OmegaT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39501,6 +40174,22 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094348Z">
         <seg>Sinistre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T074932Z">
+        <seg>Versiones Vetule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T083443Z">
+        <seg>Le versiones vetule es senior versiones esseva supplantate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41517,6 +42206,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T145543Z">
+        <seg>Le usatores plus experte de Linux pote preferer  installar le JRE de Oracle (un vice Sun) a nivello de systema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More functions will usually be found in the "Latest" version.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T050759Z">
@@ -41603,6 +42300,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T152055Z">
         <seg>Le major parte del modern applicationes CAT monstra le texto in un forma orientate al segmento plus tosto que con su ultimate arrangiamento e formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the OmegaT documentation is licensed for re-use under the GNU Public License (GPL) or GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T075541Z">
+        <seg>Le major parte del documentation OmegaT es concedite in licentia pro le reusar sub le GNU Public License (GPL) o GNU Free Documentation License (GFDL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42017,6 +42722,22 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name the image NewImage.png</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T073754Z">
+        <seg>Denominar le imagine NewImage.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the launch script files appropriately, for example "OmegaT-EN.bat" for the launch script file containing the command with the English tokenizer and "OmegaT-TR.bat" for the launch script file containing the command with the Turkish tokenizer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T075353Z">
+        <seg>Denomina appropriatemente le files script de lanceamento, per exemplo  "OmegaT-EN.bat" pro le file script de lanceamento continente le commando con le tokenizer anglese e "OmegaT-TR.bat" pro le file script de lanceamento continente le commando con le tokenizer turco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T213244Z" creationid="Karm46" creationdate="20170929T213244Z">
@@ -42113,10 +42834,26 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Needless to say, we would prefer you to use OmegaT for the OmegaT localization work.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231405Z">
+        <seg>Inutile dicer que nos prefererea usar OmegaT pro le labor de localisation de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nepali</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141137Z">
         <seg>Nepali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T100917Z">
+        <seg>Totevia, le versiones "Ultime" de OmegaT es habitualmente multo stabile e es recommendate pro omne usatores qui jam ha alicun experientia con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42553,6 +43290,15 @@ measures.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171001T095251Z" creationid="Karm46" creationdate="20171001T095251Z">
         <seg>Necun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T075636Z">
+        <seg>Nihil de tote isto tu ha necessitate de te reguardar a minus que tu non es particularmente interessate al problemas de copyright.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -44077,6 +44823,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T141014Z" creationid="Karm46" creationdate="20171115T141014Z">
+        <seg>OmegaT actualmente require le version 1.6 de JRE o plus tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130805T195015Z">
@@ -45030,6 +45784,14 @@ installate sur tu systema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130518T073801Z">
+        <seg>OmegaT essera habitualmente exequite sur omne le systema Linux sur le qual pote esser installate un convenibile version del Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094649Z">
@@ -45886,6 +46648,14 @@ installate sur tu systema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open your launch script file in a text editor.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T175806Z">
+        <seg>Aperi tu file script de lanceamento in un editor de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T195846Z" creationid="Melo46" creationdate="20160728T195846Z">
@@ -46102,6 +46872,14 @@ installate sur tu systema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options &gt; File Filters &gt; Select "HTML and XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231158Z">
+        <seg>Optiones &gt; Filtros del files... &gt; Selige "files HTML e XHTML" &gt; Modifica &gt; Adde &gt; inde scribe "*.php" in le colonna "Modello del nomine del file original".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options &gt; Machine Translate ... and select the options you would like to turn on.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130517T091241Z">
@@ -46170,6 +46948,14 @@ installate sur tu systema.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140428T153016Z" creationid="MELO46" creationdate="20140412T031834Z">
         <seg>O illes es dicente: toto nunc nos vole es sol iste quantitate de calefaction, isto es precisemente perfecte! Lo que nos ha facite adhuc,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or if you are translating from Turkish, it might now be:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T073400Z">
+        <seg>O si tu es rendente ab turco, il pote ora esser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47396,6 +48182,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please do NOT deliver your entire OmegaT project file to the localization coordinator (he does not need to receive multiple copies of the entire project).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T074030Z">
+        <seg>NON committer tu integre file de projecto OmegaT al coordinator del localisation (ille non necessita de reciper plus copias del integre projecto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T120419Z">
@@ -47669,6 +48463,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Portavita</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133439Z">
+        <seg>Portavita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100143Z">
@@ -47745,6 +48547,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T163110Z" creationid="Karm46" creationdate="20170914T163110Z">
         <seg>Edition premio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preparation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122033Z">
+        <seg>Preparation</seg>
       </tuv>
     </tu>
     <tu>
@@ -48103,6 +48913,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100740Z">
         <seg>Problemas con le dictionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T224855Z">
+        <seg>Procedura</seg>
       </tuv>
     </tu>
     <tu>
@@ -48831,6 +49649,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Qabiria</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133444Z">
+        <seg>Qabiria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T210824Z">
@@ -48979,6 +49805,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
         <seg>plus tosto que trovar tote le casos de "abc" e corriger los ante que proceder (le qual es possibile, ma ha disavantages), illa poterea decider simplemente de corriger los intra del proxime minuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T074228Z">
+        <seg>Plus tosto, crea duo files. .zip, tar o gz, uno continente sol le documentos rendite e le altero continente le files .tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50424,6 +51258,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the launch script (OmegaT.bat), then keeping the right mouse button depressed, drag the script to a convenient location, such as your desktop.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T081625Z">
+        <seg>Clicca con le dextero sur le script de lanceamento (OmegaT.bat), pois tenente le button dextre del mouse depresse, trahe le script a un position commode, assi como tu scriptorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055103Z">
@@ -51524,6 +52366,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search the web and you will probably find the translations.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071139Z">
+        <seg>Que tu cerca in le TTT e probabilemente trovara le traductiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T211942Z">
@@ -52552,6 +53402,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T082441Z">
         <seg>Selige tu macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select: "Send to", then select "Desktop (create shortcut)".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T075934Z">
+        <seg>Selige: "Invia a", pois selige "Scriptorio (crea via breve)".</seg>
       </tuv>
     </tu>
     <tu>
@@ -54056,6 +54914,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T084003Z">
+        <seg>Le pacchettos de codice de origine non es requirite per usatores e  es designate sol pro le disveloppatores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140701T124438Z" creationid="MELO46" creationdate="20140701T124410Z">
@@ -54452,6 +55318,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T225832Z" creationid="Melo46" creationdate="20160729T225832Z">
         <seg>Divider le Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133259Z">
+        <seg>Financiamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -56273,6 +57147,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test your translation (optional).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071746Z">
+        <seg>Que tu proba tu traduction (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Testing</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130530T161434Z">
@@ -56596,6 +57478,14 @@ control those activities.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T095720Z">
+        <seg>Le version "Standard" de OmegaT include un complete manual del usator (al minus in anglese) e habitualmente essere probate pro alicun tempore pro eliminar alicun defectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "System Libraries" of an executable work include anything, other</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155714Z" creationid="MELO46" creationdate="20131226T155714Z">
@@ -56626,6 +57516,14 @@ implementation is available to the public in source code form.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065021Z" creationid="MELO" creationdate="20131219T065021Z">
         <seg>The "Title Page" means, for a printed book, the title page itself, plus such following pages as are needed to hold, legibly, the material this License requires to appear in the title page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130518T075629Z">
+        <seg>Le version de OmegaT "batterias includite": con su proprie Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56724,6 +57622,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130326T073749Z">
         <seg>Le plica /tm/ pote continer qualcunque numero de  memorias de traduction auxiliar - id es files tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The /trunk (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T094344Z">
+        <seg>Le version  /trunk (alpha) reflecte le ultimissime state del disveloppamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57180,6 +58086,22 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T081028Z">
+        <seg>Le version Ultime es un version plus recente del version Standard e include nove characteristicas non presente in isto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T081205Z">
+        <seg>Le version Ultime essera de costume rationabilemente stabile e usabile, ma pote haber alicun defectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T050654Z">
@@ -57300,6 +58222,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT tokenizer is a plugin for OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122015Z">
+        <seg>Le tokenizer de OmegaT es un  plugin pro OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT user group</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T093328Z">
@@ -57320,6 +58250,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T094631Z">
         <seg>Le version OmegaT habitualmente supplite es le version "Standard".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T230850Z">
+        <seg>le sito de OmegaT include files in HTML e, a partir del 2011, anque in formato PHP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57416,6 +58354,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T145048Z">
         <seg>Le traduction espaniol es melior que illa sloven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T080134Z">
+        <seg>Le version Standard esseva habitualmente in uso pro alicun tempore e es dunque experimentate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57522,6 +58468,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T135340Z" creationid="Karm46" creationdate="20171115T135340Z">
         <seg>Web Start es le version "installa e oblida".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T084317Z">
+        <seg>Le version Web Start offere un  alternative medio de installar OmegaT sur tu computator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57722,6 +58676,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140124T234103Z">
         <seg>Le commando basic esseva ja mentionate precedentemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic form of this command is:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T215839Z">
+        <seg>Le forma basic de iste commando is:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58346,6 +59308,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T083315Z">
+        <seg>Le discarga essera plus rapide, e le installation requirera  minus spatio sur tu disco dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The early Earth contained no oxygen and was converted to the oxygen-rich atmosphere we have today 2.5 billion years ago by the "invention" of the water splitting process in Photosystem II (PSII).</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140714T150652Z" creationid="melo46" creationdate="20140714T150652Z">
@@ -58786,6 +59756,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formatting is retained automatically if you use OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071213Z">
+        <seg>La forma es mantenite automaticamente si on ha usate OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting represented by the group you have duplicated will be applied to both sections.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130818T170948Z">
@@ -58806,6 +59784,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065036Z" creationid="MELO" creationdate="20131219T065036Z">
         <seg>The front cover must present the full title with all words of the title equally prominent and visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T230513Z">
+        <seg>Le pacchetto complete contine le 'Manual del usator', le 'Manual de initio rapide', le 'Equipamento de ressources de Interfacie del usator' e le file 'Lege me'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58886,6 +59872,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T161109Z">
         <seg>Le function del glossario discoperi solmente concordantias exacte con le entrata del glossario (e.g. non trova le formas declinate et cetera).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T220248Z">
+        <seg>Le grande majoritate de  labor sur le projecto OmegaT esseva clause sur base voluntari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59090,6 +60084,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130807T200422Z">
         <seg>Assi prevalera le ultime segmento con le identic texto fonte (Note: naturalmente ha plus senso evitar que isto occurre in le prime posto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The launch file script contains the OmegaT launch command.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T215814Z">
+        <seg>Le file script de lanceamento contine le commando de lanceamento de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59374,6 +60376,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T215252Z">
         <seg>Le messages que tu trovarea habitualmente in le barra de stato non son monstrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The minimal package contains the same files as the full package, except for the main user manual.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T230609Z">
+        <seg>Le pacchetto minime contine le mesme files del pacchetto complete, exception facite pro le manual principal del usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59718,6 +60728,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T141651Z">
+        <seg>Le permissiones que tu da a iste version (le qual pote esser describite como "accesso sin restriction al computator") non es differente del permissiones que tu assigna al version local , id es un  accesso al disco dur de tu computator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which might be mentioned as an</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094631Z">
@@ -59988,6 +61006,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T125826Z">
         <seg>OmegaT in modo linea de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T225837Z">
+        <seg>Le scopo del plan es celle de prevenir que duo o plus traductores labora sur le mesme traduction sin esser consciente (duplicatos del obras). </seg>
       </tuv>
     </tu>
     <tu>
@@ -61172,6 +62198,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The web pages are not licensed for re-use.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T075610Z">
+        <seg>Le paginas TTT non es concedite in licentia pro la reusar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T083820Z">
@@ -61288,6 +62322,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T083642Z">
         <seg>Ergo inscribe le commando ipse de lanceamento, e confirma con ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then launch OmegaT normally.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T072206Z">
+        <seg>Postea lancear OmegaT normalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61584,6 +62626,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T154246Z">
         <seg>Poterea esser le casos ubi tu ha facite un projecto con per exemplo fontes nederlandese, e un translation in anglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130529T142700Z">
+        <seg>On pote haber vetule versiones del memorias de traduction (files TMX) e/o documentation disponibile pro le lingua, in le qual es utile pro le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62724,6 +63774,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the document concerned to be released for translation by another translator.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T074318Z">
+        <seg>Isto consenti de emitter le documento in question pro le traduction ex un altere traductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the numerous suggestions to be managed more easily.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T203001Z">
@@ -62976,6 +64034,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155537Z" creationid="MELO46" creationdate="20131226T155537Z">
         <seg>Isto es acceptabile, a condition que le gruppo includente include totalmente le gruppo incluse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T073234Z">
+        <seg>Anque isto es facultative, ma si tu esseva in rango de lancear OmegaT con tu pacchetto localisate (vide super), Illo meliorara le qualitate de tu traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63558,6 +64624,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T225843Z">
+        <seg>Iste plan monstra qual labor de traduction e localisation esseva jam facite sur OmegaT, e qual labor es actualmente in curso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T074758Z">
@@ -63750,6 +64824,22 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T141125Z">
+        <seg>Iste version del JRE essera usate sol localmente pro OmegaT, non confligera con, non habera plus de importantia e non disinstallara ulle altere installation de JRE, e dunque es secur a usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130518T080050Z">
+        <seg>Iste version prendera plus de tempore pro discargar e requirera plus de spatio sur tu disco dur, ma tu pote esser confidente re su execution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This was a great improvement over a single box of cards, and</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141108T112309Z" creationid="Melo46" creationdate="20141107T232406Z">
@@ -63842,6 +64932,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T211955Z">
         <seg>Isto effectivemente los al stato "non rendite", pois que illos non concordara plus segmentos registrate in le memoria del projecto, etiam quanquam lor traduction original es adhuc eo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will greatly simplify updating of your translation in the future.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T073921Z">
+        <seg>Isto simplificara assatis le actualisation de vostre traduction in le futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64286,6 +65384,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T141025Z">
+        <seg>Pro verificar si alicun version del JRE es installate sur tu systema Linux, aperi un consola (fenestra pro linea de commando) e scribe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T175914Z">
@@ -64350,6 +65456,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a shortcut in Windows:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T180843Z">
+        <seg>Pro crear un via breve in Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T052205Z">
@@ -64370,6 +65484,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T081852Z" creationid="MELO46" creationdate="20140109T081852Z">
         <seg>Pro personalisar le obra con tags, on pote fixar alicun del regulas in le fenestra &lt;g0&gt;Optiones &gt; Validation del tag...&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133347Z">
+        <seg>In iste data, iste sponsores es:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64864,6 +65986,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T073655Z">
+        <seg>Pro producer un imagine del visor, lancear OmegaT e crear un pagina commode pro su captura, visualisante percursos typic como le fenestra de dialogo  "Crea nove projecto".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T073526Z">
@@ -65058,10 +66188,34 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test display of the Instant Start Guide at launch:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T072106Z">
+        <seg>Pro verificar le apparentia del Guida de initio rapide al lanceamento::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To test it, add some formatting to your Word document, for example by making one word bold.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T110646Z">
         <seg>Pro probar lo, adde alicun formatos a tu documento Word, per exemplo rendente un parola nigrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test the user interface:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071738Z">
+        <seg>Pro probar le interfacie del usator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T074025Z">
+        <seg>Pro essayar, controla si entratas glossario es monstrate mesmo ubi le segmento OmegaT actual  contine un termino in un forma declinate ex illo in le glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65094,6 +66248,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T090614Z">
         <seg>Per traducer le file in OmegaT, que tu procede como seque:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate the latter in OmegaT, you must register the .php extension with the HTML and XHTML filter as follows:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T230910Z">
+        <seg>Pro render isto ultime in OmegaT, es necesse registrar le extension .php con le filtro XHTML como seque:</seg>
       </tuv>
     </tu>
     <tu>
@@ -65546,6 +66708,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the files you have chosen.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231332Z">
+        <seg>Render le files que tu ha seligite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095256Z">
@@ -65828,6 +66998,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the &lt;a0&gt;"Files" section of the online user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231231Z">
+        <seg>Le files de memoria de traduction (TMX) del precedente localisationes de OmegaT, le documentation e le sito es disponibile in le &lt;a0&gt;section "File" del gruppo de usatores on-line&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memory (fuzzy match function)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T195532Z">
@@ -65932,6 +67110,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T224714Z">
+        <seg>Le traductores es libere de affrontar le quantitate de labor que illes vole. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Troubleshooting</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T085013Z">
@@ -65952,6 +67138,14 @@ script ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075717Z">
         <seg>Le files PDF ver (nominate alcun vices files PDF "native" o "distillate", ben que "distillate" ha un significato plus precise) es files PDF que esseva exportate ex un altere application, habitualmente un programma de Edition al scriptorio (DTP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trunk</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T095420Z">
+        <seg>Version Trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -66764,6 +67958,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unzip the files from the tokenizer zip package.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T174514Z">
+        <seg>Expande le files ab le pacchetto tokenizer zip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unzip the files, and put them all in the "plugins" folder located in OmegaT installation folder, that is the folder that contains the OmegaT.jar.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T223126Z">
@@ -67508,6 +68710,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140122T232933Z">
         <seg>Le usatores de altere platteformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) debe haber functionante un Java JRE compatibile sur lor systema pro esser capace de usar &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T081507Z">
+        <seg>Le usatores qui jam ha qualque experientia con OmegaT saepe prefere le version Ultime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68284,6 +69494,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071241Z">
+        <seg>Nos es grate per omne le traductiones, ma se le files es rendite in le mesme formato (e non, per exemplo, como files de Word) isto simplifica assatis nostre labor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201109Z" creationid="ia" creationdate="20170909T201109Z">
@@ -69020,6 +70238,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you release the right click, a dialog opens with a number of options.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T075839Z">
+        <seg>Quando tu relaxa le clicca dextre, un fenestra de dialogo se displica con plure optiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T123449Z">
@@ -69398,6 +70624,14 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130605T180130Z">
+        <seg>Usatores de Windows (in particular):  &lt;s0&gt;non&lt;/s0&gt; cliccar simplemente sur iste file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T211546Z">
@@ -69418,6 +70652,14 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T204318Z">
         <seg>Con &lt;e3&gt;TransTips/Concordantia Exacte &lt;/e3&gt; marcate, sol parolas complete essera verificate, alteremente essera anque concordate partes del parolas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T101420Z">
+        <seg>Version con JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -69558,10 +70800,26 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T084559Z">
+        <seg>Con iste version, le futur nove versiones essera installate automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With traditional paper flashcards, you write a question on one</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141108T120338Z" creationid="Melo46" creationdate="20141104T234428Z">
         <seg>Con le flashcards traditional de charta, tu scribe un demanda sur un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T082212Z">
+        <seg>Con/sin JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -69578,6 +70836,14 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T064649Z">
         <seg>Intra un segmento, le prime gruppo (par o singule) recipe le numero 0, le secunde le numero 1 etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130516T101401Z">
+        <seg>Version sin JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -70561,6 +71827,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can eliminate this problem by specifying a tokenizer for the target language as well (where available), with the argument --ITokenizerTarget=.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T081037Z">
+        <seg>Tu pote eliminar iste problema specificante (ubi disponibile) un tokenizer pro le lingua de destination, con le argumento --ITokenizerTarget=.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can enable project specific filters via the &lt;e0&gt;Project → Properties...&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T184932Z">
@@ -70654,6 +71928,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can however use other software if you wish.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231430Z">
+        <seg>Totevia il es possibile usar altere softwares, se on lo desira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T192159Z">
@@ -70698,6 +71980,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T123857Z">
         <seg>Tu pote modificar le &lt;e0&gt;Proprietates&lt;/e0&gt; assi como le parte &lt;e1&gt;VMOptions&lt;/e1&gt; part.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify, correct, add or delete information at your own discretion.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231639Z">
+        <seg>On pote modificar, corriger, adder o eliminar informationes a proprie discretion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70974,6 +72264,23 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T230636Z">
+        <seg>Tu non debe traducer un pacchetto complete; il es possibile, per exemplo, render solmente le Interfacie del usator (equipamento), o solmente le Guida de initio rapide.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have complete freedom in how you translate.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130514T231602Z">
+        <seg>Tu ha complete libertate re como render..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have probably encountered active recall testing in your school years</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141109T110111Z" creationid="Melo46" creationdate="20141103T063822Z">
@@ -71026,6 +72333,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065037Z" creationid="MELO" creationdate="20131219T065037Z">
         <seg>You may add other material on the covers in addition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130610T215641Z">
+        <seg>Tu pote alsi cliccar con le dextero con le mouse sur le file, pois seliger un editor de texto in le qual aperir lo</seg>
       </tuv>
     </tu>
     <tu>
@@ -71653,6 +72968,14 @@ them.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080518Z">
         <seg>Tu scribe tu traduction in le campo final fornite, confirma pulsante Invio, et cetera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be credited as the author of your work and named as joint copyright holder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T075709Z">
+        <seg>Tu essera accreditate como le autor de tu obra e nominate como detentor del copyright conjuncte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74834,6 +76157,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071913Z">
+        <seg>cd [percurso complete de OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd {folder}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T074245Z">
@@ -76054,6 +77385,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144700Z">
         <seg>e) Declining to grant rights under trademark law for use of some</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e-lexica</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133415Z">
+        <seg>e-lexica</seg>
       </tuv>
     </tu>
     <tu>
@@ -80013,6 +81352,30 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T081707Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T081656Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122307Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -jar OmegaT.jar --ITokenizer=[source language tokenizer name] --ITokenizerTarget=[target language tokenizer name]</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T183704Z" creationid="MELO46" creationdate="20140227T183704Z">
@@ -82545,6 +83908,246 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140503T101648Z" creationid="MELO46" creationdate="20140503T101648Z">
         <seg>o pro tu Stato, e il es essite le lucta tote tra le historia e id es le aspecto definir del Sinistra e Dextra,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122225Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122226Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122226Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122226Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122226Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122227Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122227Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122227Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122227Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122231Z">
+        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122232Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122232Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122233Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122233Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122234Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122234Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122235Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122235Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122236Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122237Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122238Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122238Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122239Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122239Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122240Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122242Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122242Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122245Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122246Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T122258Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -87679,6 +89282,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>weLocalize</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T133451Z">
+        <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>weeks telling people about how great it was, however, you're likely to still</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141109T113749Z" creationid="Melo" creationdate="20141107T180345Z">
@@ -87771,6 +89382,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140410T172342Z" creationid="MELO46" creationdate="20140404T202943Z">
         <seg>a ubi viveva in collegio a causa que mi genitores debeva remaner ubi illes laborava, sic io apprendeva a viver in le citate e alora io excelleva in le scientia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T072047Z">
+        <seg>ubi [percurso complete de OmegaT] es le percurso complete del plica continente le programma OmegaT e [nomine del equipamento del interfacie del usator con le percurso complete] es le nomine de vostre traduction del equipamento del ressources (bundle_en.properties, a minus que non ha cambiate le nomine) includite le percurso complete per su position.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88860,6 +90479,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075215Z">
         <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130515T071953Z">
+        <seg>     java -jar OmegaT.jar resource-bundle=[nomine del equipamento del interfacie del usator con le percurso complete]</seg>
       </tuv>
     </tu>
     <tu>
