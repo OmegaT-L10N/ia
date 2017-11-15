@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -67732,8 +67732,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>Website content authors</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T201314Z" creationid="ia" creationdate="20170909T201314Z">
-        <seg>Autores del sitos web</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T115455Z" creationid="ia" creationdate="20170909T201314Z">
+        <seg>Autores del contento del sito web</seg>
       </tuv>
     </tu>
     <tu>
@@ -69903,8 +69903,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T201222Z" creationid="ia" creationdate="20170909T201222Z">
-        <seg>Tu pote ir al &lt;a0&gt;pagina initial&lt;/a0&gt; e sperabilemente trovar le informationes que tu necessita ab illac.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T115307Z" creationid="ia" creationdate="20170909T201222Z">
+        <seg>Tu pote ir al &lt;a0&gt;pagina initial&lt;/a0&gt; e sperabilemente trovar le informationes que tu necessita per illo.</seg>
       </tuv>
     </tu>
     <tu>
