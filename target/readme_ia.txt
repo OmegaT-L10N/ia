@@ -1,4 +1,4 @@
-${translationNotice}
+@TRANSLATION_NOTICE@
 
 
 Que es OmegaT?
@@ -187,7 +187,7 @@ Le plus actual information circa OmegaT pote esser trovate al ligamine:
 Supporto al usator, al Gruppo del usatores Yahoo (multilingual), ubi le archivos es
 cercabile sin subscription:
 
-   http://tech.groups.yahoo.com/group/OmegaT/
+   https://groups.yahoo.com/neo/groups/OmegaT/info
 
 Demandas pro augmentationes (in anglese), in le sito SourceForge:
 
