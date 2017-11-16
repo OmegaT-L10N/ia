@@ -44719,6 +44719,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.0 or later</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T154124Z" creationid="Karm46" creationdate="20171116T154124Z">
+        <seg>OmegaT 4.0 o plus tarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T134906Z" creationid="Karm46" creationdate="20171115T134906Z">
@@ -72264,6 +72272,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can run OmegaT directly from the command line with</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T154307Z" creationid="Karm46" creationdate="20171116T154307Z">
+        <seg>Tu pote facer fluer OmegaT directemente per linea de commando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20160814T132305Z" creationid="Melo" creationdate="20160814T132305Z">
@@ -76365,6 +76381,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T154101Z" creationid="Karm46" creationdate="20171116T154101Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T215613Z">
@@ -79217,6 +79241,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155818Z" creationid="MELO46" creationdate="20131226T155818Z">
         <seg>governed by this License along with a term that is a further</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T154314Z" creationid="Karm46" creationdate="20171116T154314Z">
+        <seg>gradlew run</seg>
       </tuv>
     </tu>
     <tu>
