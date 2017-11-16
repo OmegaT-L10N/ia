@@ -2672,8 +2672,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130529T220243Z">
-        <seg>(Isto a proposito es un limitation de Java, non de OmegaT ipse.)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T143319Z">
+        <seg>(Isto incidentalmente es un limitation de Java, non de OmegaT ipse.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -54788,8 +54788,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130528T150129Z">
-        <seg>Alicun altere applicationes CAT es capabile de importar e exportar files glossario in iste formato, o in un formato de texto simple simile que pote esser producite de illo multo facilemente (per exemplo per un operation cerca &amp; reimplacia in Microsoft Word).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T143434Z">
+        <seg>Alicun altere applicationes CAT es capabile de importar e exportar files glossario in iste formato, o in un formato de texto simple simile que pote esser producite per illos multo facilemente (per exemplo per un operation recercar &amp; reimplaciar in Microsoft Word).</seg>
       </tuv>
     </tu>
     <tu>
