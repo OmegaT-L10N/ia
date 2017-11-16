@@ -18322,8 +18322,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130530T190755Z">
-        <seg>Un altere possibile fonte de  incompatibilitate es le codices de lingua a tres cifras, que non es supportate del toto per OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T140616Z">
+        <seg>Un altere possibile fonte de incompatibilitate es le codices de lingua a tres cifras, que non es supportate del toto per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55692,8 +55692,8 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130530T165227Z">
-        <seg>Strictemente parlante, le standard ISO pro le codices del lingua require "xx-YY" (per exemplo: "en-GB" pro le anglese britannic); etiam si iste variante es supportate in OmegaT, le convention jam arrangiate offerite ex OmegaT es "XX-YY", exempli gratia "EN-GB".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T140501Z">
+        <seg>Strictemente parlante, le standard ISO pro le codices del lingua require "xx-YY" (per exemplo: "en-GB" pro le anglese britannic); etiam si iste variante es supportate in OmegaT, le convention ordinari offerite per OmegaT es "XX-YY", e.g. "EN-GB".</seg>
       </tuv>
     </tu>
     <tu>
@@ -86738,8 +86738,8 @@ a</seg>
       <tuv lang="EN">
         <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
-        <seg>termino fonte    &lt;tabulation&gt;    termino de destination    &lt;tabulation&gt;    altere information</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T140806Z">
+        <seg>termino fonte    &lt;tabulation&gt;    termino de destination    &lt;tabulation&gt;    altere informationes</seg>
       </tuv>
     </tu>
     <tu>
