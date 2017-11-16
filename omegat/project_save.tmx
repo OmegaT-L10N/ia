@@ -34369,8 +34369,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T074734Z">
-        <seg>Si tu es insecur si un convenibile JRE es jam installate sur tu systema, tu pote ancora discargar e installar un version de OmegaT con JRE.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T073715Z">
+        <seg>Si tu non es secur si un convenibile JRE es jam installate sur tu systema, tu pote totevia discargar e installar un version de OmegaT con JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57674,8 +57674,8 @@ implementation is available to the public in source code form.</seg>
       <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T075629Z">
-        <seg>Le version de OmegaT "batterias includite": con su proprie Java Runtime Environment.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T073959Z">
+        <seg>Le version de OmegaT "batterias includite": con su proprie JRE includite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65010,8 +65010,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T141125Z">
-        <seg>Iste version del JRE essera usate sol localmente pro OmegaT, non confligera con, non habera plus de importantia e non disinstallara ulle altere installation de JRE, e dunque es secur a usar.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T073821Z">
+        <seg>Iste version del JRE essera usate sol localmente pro OmegaT, illo non confligera, non habera plus importantia e non disinstallara ulle altere installation de JRE, e dunque illo es secur a usar.</seg>
       </tuv>
     </tu>
     <tu>
