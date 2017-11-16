@@ -16656,8 +16656,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T000214Z" creationid="Karm46" creationdate="20170910T000214Z">
-        <seg>Post le completion del traduction e le creation del documentos rendite, copia le columna rendite ex le file rendite in le columna &lt;s0&gt;destination&lt;/s0&gt; del file original.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T153543Z" creationid="Karm46" creationdate="20170910T000214Z">
+        <seg>Post le completion del traduction e le creation del documentos rendite, copia le columna rendite ab le file rendite in le columna &lt;s0&gt;destination&lt;/s0&gt; del file original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22769,8 +22769,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Compile the code</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T221358Z">
-        <seg>Compila le codice&amp;&amp;&amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T153918Z">
+        <seg>Compila le codice</seg>
       </tuv>
     </tu>
     <tu>
@@ -42320,8 +42320,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T114250Z">
-        <seg>Plus de information sur le formato e le procedura pro su creation, pro ambe usatores de Déjà Vu e de altere instrumentos CAT, pote esser trovate sur le &lt;a0&gt;pertinente pagina Atril&lt;/a0&gt;, e sur le utile &lt;a1&gt;blog mantenite per Kevin Lossner&lt;/a1&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T153723Z">
+        <seg>Altere informationes sur le formato e le procedura pro su creation, pro ambe usatores de Déjà Vu e de altere instrumentos CAT, pote esser trovate sur le &lt;a0&gt;pagina pertinente de Atril&lt;/a0&gt;, e sur le utile &lt;a1&gt;blog mantenite per Kevin Lossner&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42908,8 +42908,8 @@ position appropriate como le plica Applicationes.</seg>
       <tuv lang="EN">
         <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T220506Z" creationid="Karm46" creationdate="20171115T220506Z">
-        <seg>Navigate pro le radice re le OmegaT primari cifra (le classificator continente le file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T154055Z" creationid="Karm46" creationdate="20171115T220506Z">
+        <seg>Naviga al radice del codice fonte de OmegaT (le plica continente le file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
       </tuv>
     </tu>
     <tu>
