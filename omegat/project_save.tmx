@@ -7722,8 +7722,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T135836Z" creationid="Karm46" creationdate="20171115T135836Z">
-        <seg>&lt;i1&gt;OmegaT pote ser installate sur tote le systemas operative capabile de executar le version 1.6 del Java runtime environment.&lt;/i1&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T073400Z" creationid="Karm46" creationdate="20171115T135836Z">
+        <seg>&lt;i1&gt;OmegaT pote ser installate sur tote le systemas operative capabile de facer fluer le version 1.6 de Java Runtime Environment (JRE).&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53520,8 +53520,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T135937Z" creationid="Karm46" creationdate="20171115T135937Z">
-        <seg>Selige si discargar OmegaT sin o includite le Java Runtime Environment (JRE).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T073545Z" creationid="Karm46" creationdate="20171115T135937Z">
+        <seg>Selige si discargar OmegaT sin o includente Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
