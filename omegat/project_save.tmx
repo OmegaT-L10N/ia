@@ -30680,6 +30680,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From within the root folder, execute Apache Ant by entering the ant executable.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T155423Z" creationid="Karm46" creationdate="20171116T155423Z">
+        <seg>Inter le plica radice, exeque Apache Ant per entrar le executabile de Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From within this folder, execute Apache Ant by entering the ant executable.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T040518Z">
@@ -44635,6 +44643,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141324Z">
         <seg>Old Church Slavon, Church Slave, Church Slavon, Old Bulgaro, Old Slavon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Older versions of OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T155117Z" creationid="Karm46" creationdate="20171116T155117Z">
+        <seg>Versiones precedente de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -61358,6 +61374,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T215734Z" creationid="Melo46" creationdate="20150423T171541Z">
         <seg>Le resultatos ex le glossario del prioritate (per option predefinite, glossary/glossary.txt) appare in le prime locos in le quadro del Glossario e in le TransTips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results will be in the &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T155042Z" creationid="Karm46" creationdate="20171116T155042Z">
+        <seg>Le resultatos essera in &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
