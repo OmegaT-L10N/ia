@@ -19130,6 +19130,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130606T060044Z">
+        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T075013Z">
@@ -35696,6 +35704,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130606T060020Z">
+        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T094353Z">
@@ -39884,6 +39900,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T212401Z" creationid="MELO46" creationdate="20140416T212401Z">
         <seg>Last Changes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130309T131029Z">
+        <seg>Al fin, ma non le minus: mi gratias a omne le contributores al &lt;u0&gt;  Calcator del documentation de OmegaT&lt;/u0&gt; pro omne le contradictiones trovate in le previe versiones del documentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54374,6 +54398,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130606T211950Z">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T082653Z">
@@ -54836,8 +54868,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T201005Z" creationid="ia" creationdate="20170909T201005Z">
-        <seg>Nos regretta!</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T064840Z" creationid="ia" creationdate="20170909T201005Z">
+        <seg>Nos regretta.</seg>
       </tuv>
     </tu>
     <tu>
