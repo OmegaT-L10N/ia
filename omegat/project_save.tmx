@@ -33722,6 +33722,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the code compiles successfully, you will see the &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; message.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T155711Z" creationid="Karm46" creationdate="20171116T155711Z">
+        <seg>Si le codice compila con bon successo, tu videra le message &lt;c0&gt;COMPILATION SUCCEDITE&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T144411Z">
@@ -38492,8 +38500,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>It may be necessary to enter the full path, e.g.:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T040710Z">
-        <seg>Il es possibile necessitar de scriber le percurso complete, e.g.:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T155457Z">
+        <seg>Il es possibile besoniar de scriber le percurso complete, e.g.:</seg>
       </tuv>
     </tu>
     <tu>
