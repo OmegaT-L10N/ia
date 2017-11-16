@@ -4668,8 +4668,8 @@ configurationes del projecto).</seg>
       <tuv lang="EN">
         <seg>1st example modification: changing the colour of segment highlighting</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T042121Z">
-        <seg>1st exemplo de modification: cambiar le color del marcator del segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T160321Z">
+        <seg>1me exemplo de modification: cambiar le color del marcator del segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -4932,6 +4932,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T204532Z">
         <seg>31175</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3a.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T160301Z" creationid="Karm46" creationdate="20171116T160301Z">
+        <seg>3a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46088,6 +46096,14 @@ installate sur tu systema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T160221Z" creationid="Karm46" creationdate="20171116T160221Z">
+        <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Error Resume Next&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075157Z">
@@ -76433,6 +76449,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T154101Z" creationid="Karm46" creationdate="20171116T154101Z">
         <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T160248Z" creationid="Karm46" creationdate="20171116T160248Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
