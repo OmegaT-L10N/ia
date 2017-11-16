@@ -38380,8 +38380,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>It is supported by several CAT tools, and in fact some CAT tools are effectively "designed around" the XLIFF standard: Heartsome and Swordfish are examples.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130528T181359Z">
-        <seg>Illo es supportate per plure applicationes CAT e in effecto alicun applicationes CAT es effectively "pojectate circum" le standard XLIFF: Heartsome e Swordfish es duo exemplos.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T144623Z">
+        <seg>Illo es supportate per plure applicationes CAT e in effecto alicun applicationes CAT es effectivemente "designate circum" le standard XLIFF: Heartsome e Swordfish es duo exemplos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54344,8 +54344,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T203614Z">
-        <seg>Pois que il es un standard, un avantage de XLIFF es que le filtros de file supplite per un  CAT tool venditor pro le conversion inter un certe formato e XLIFF (e, postere le completamento del fluxo de labor del traduction,  de nove al reverso) pote in theoria esser usate pro preparar files in le formato concernite pro traduction in qualcunque application CAT que supporta XLIFF.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T144821Z">
+        <seg>Pois que il es un standard, un avantage de XLIFF es que le filtros de file supplite per un venditor da applicationes CAT pro le conversion inter un certe formato e XLIFF (e, post le completamento del fluxo de labor del traduction, ancora al reverso) pote in theoria ser usate pro preparar files in le formato concernite pro traduction in qualcunque application CAT que supporta XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60128,8 +60128,8 @@ parts of the General Public License.</seg>
       <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130528T181123Z">
-        <seg>Le formatos de file bilingue describite in basso.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T144506Z">
+        <seg>Le particular formatos de file bilingue describite in basso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71394,8 +71394,8 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       <tuv lang="EN">
         <seg>XLIFF is the industry-standard bilingual file format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T125855Z">
-        <seg>XLIFF es le formato file bilingue standard del industria.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171116T144534Z">
+        <seg>XLIFF es le formato de file bilingue standard del industria.</seg>
       </tuv>
     </tu>
     <tu>
