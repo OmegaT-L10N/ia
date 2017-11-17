@@ -54502,14 +54502,6 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T211950Z">
-        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T082653Z">
@@ -63166,8 +63158,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T075322Z">
-        <seg>iste formatos es formalmente note como "Office Open XML", e ha respectivemente le extensiones .docx, .xlsx e .pptx.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171117T104027Z">
+        <seg>Iste formatos es formalmente note como "Office Open XML", e ha respectivemente le extensiones .docx, .xlsx e .pptx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63644,8 +63636,8 @@ le servitor.</seg>
       <tuv lang="EN">
         <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T221839Z" creationid="Karm46" creationdate="20171115T221839Z">
-        <seg>Iste Guida provide suggestiones sur le traduction in OmegaT de files MS Office 2007 (e plus tarde).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171117T104014Z" creationid="Karm46" creationdate="20171115T221839Z">
+        <seg>Iste Guida provide suggestiones re le traduction in OmegaT de files MS Office 2007 (e plus tarde).</seg>
       </tuv>
     </tu>
     <tu>
@@ -74836,6 +74828,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130516T103207Z">
         <seg>e reimplacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171117T103910Z" creationid="Karm46" creationdate="20171117T103910Z">
+        <seg>atque reimplacia &lt;c0&gt;= 5&lt;/c0&gt; con &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
