@@ -36610,6 +36610,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; open the file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171117T103203Z" creationid="Karm46" creationdate="20171117T103203Z">
+        <seg>In le classificator &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; aperir le file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in un texto editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T142530Z">
