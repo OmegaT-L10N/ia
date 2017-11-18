@@ -19146,6 +19146,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171118T123257Z" creationid="Karm46" creationdate="20171118T123257Z">
+        <seg>Depost le version 2.1.8, per per predefinition, iste tags multiple non es aggregate (condensate) in un sol tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T075013Z">
