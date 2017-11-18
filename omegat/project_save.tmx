@@ -35744,6 +35744,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171118T122145Z" creationid="Karm46" creationdate="20171118T122145Z">
+        <seg>In le versiones de OmegaT precedente le 2.1.8, cata cambiamento de formato in un fila de MS Office 2007 resultava in un longe serie de plure tags, que sovente rende le gestion de iste formato de file impractic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141026T094353Z">
