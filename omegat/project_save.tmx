@@ -19146,14 +19146,6 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T060044Z">
-        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T075013Z">
@@ -35748,14 +35740,6 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T075155Z">
         <seg>In Microsoft Word, exeque le macro sequente pro applicar le stilos apposite al documento(s) final:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T060020Z">
-        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
       </tuv>
     </tu>
     <tu>
