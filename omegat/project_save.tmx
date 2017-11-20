@@ -17590,8 +17590,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T200728Z">
-        <seg>Alias, tu deberea esser habile a traducer le file XML Infix con bon resultatos usante anterior versiones de OmegaT per medio del filtro HTML.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T230815Z">
+        <seg>Alias, tu deberea poter traducer le file XML Infix con bon resultatos per anterior versiones de OmegaT per le filtro HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64586,8 +64586,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
-        <seg>Isto es importante: quando tu exporta le file XML ex lo PDF, Infix produce un nota in le file a ubi tote le pieces de texto compete ("historias"), assi tu debera usar iste version del file quando re importara le file XML traducite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T230659Z">
+        <seg>Isto es importante: quando tu exporta le file XML ex lo PDF, Infix produce un nota in le file a ubi tote le pieces de texto compete ("historias"), assi tu debera usar iste version del file quando tu re-importara le file XML traducite.</seg>
       </tuv>
     </tu>
     <tu>
