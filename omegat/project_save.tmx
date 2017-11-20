@@ -54502,6 +54502,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130606T211950Z">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T082653Z">
@@ -69028,8 +69036,8 @@ cercabile sin subscription:</seg>
       <tuv lang="EN">
         <seg>Users wishing to translate MS Office 2007 files should therefore upgrade to OmegaT version 2.1.8 or later.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171118T123336Z">
-        <seg>Le usatores que desidera render le files MS Office 2007 deberea dunque promover al version 2.1.8 o subsequente de OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T174834Z">
+        <seg>Le usatores que desidera render le files MS Office 2007 deberea dunque promover al version 2.1.8 o plus tarde de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
