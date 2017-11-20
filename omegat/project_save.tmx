@@ -2648,8 +2648,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171118T123415Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;(Le major facilitate de tractar le tag con le files .docx veni a costo de un legier perdita in controlo re le formato.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T174916Z">
+        <seg>(Le major facilitate de tractar le tag con le files .docx veni a costo de un leve perdita in controlo re le formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29956,8 +29956,8 @@ freedoms that you received.</seg>
       <tuv lang="EN">
         <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T061114Z">
-        <seg>Exempli gratia, sin le function "aggrega le tags", ubi un parola in le texto original es in nigrato e italico, le traductor poterea seliger de render lo in nigrato solmente, o sol in italico.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T175040Z">
+        <seg>E.g. sin le function "aggrega le tags", ubi un parola in le texto original es in nigrato e italico, le traductor poterea seliger de render lo in nigrato solmente, o sol in italico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45664,8 +45664,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T213211Z">
-        <seg>OmegaT divide iste problema con altere applicationes CAT que tracta le formato .docx, e le solutiones es simile o identic.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T175152Z">
+        <seg>OmegaT comparti iste problema con altere applicationes CAT que tracta le formato .docx, e le solutiones es simile o identic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54498,14 +54498,6 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T115806Z">
         <seg>Desde le initio le projecto, illo ha recipite le supporto de dozenas de altere contributores, troppo numerose a mentionar ci, ma nos es multo grate pro lor auxilio.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T211950Z">
-        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
