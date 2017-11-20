@@ -478,6 +478,16 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T222711Z" creationid="Karm46" creationdate="20171120T222711Z">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T043842Z">
@@ -18142,6 +18152,14 @@ to receive a copy likewise does not require acceptance.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And remove "#" at the line head of -Dgoogle.api.key.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T222912Z" creationid="Karm46" creationdate="20171120T222912Z">
+        <seg>E remove "#" al initio del riga -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And subscribe to the translators' list:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094704Z">
@@ -29108,6 +29126,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T054953Z">
         <seg>Finalmente, salva le cambios con &lt;e0&gt;Salva - File.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the following lines;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T222707Z" creationid="Karm46" creationdate="20171120T222707Z">
+        <seg>Trova le rigas sequente;</seg>
       </tuv>
     </tu>
     <tu>
