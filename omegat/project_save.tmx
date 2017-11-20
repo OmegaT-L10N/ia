@@ -36066,8 +36066,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In conjunction with the te-st-notags script, this provides a separate window in which tags are not displayed.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T170535Z">
-        <seg>Conjunctemente con le script te-st-notags , isto provide un fenestra separate in le qual le tags non es monstrate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T185448Z">
+        <seg>Conjunctemente con le script te-st-notags, isto provide un fenestra separate in le qual le tags non es monstrate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42360,8 +42360,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>More advanced users may wish to try OmegaT's Text Export function.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T112451Z">
-        <seg>Le usatores plus experte pote desiderar probar le function Exporta Texto de OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T185401Z">
+        <seg>Le usatores plus experte pote desirar de probar le function Exporta Texto de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54514,6 +54514,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T115806Z">
         <seg>Desde le initio le projecto, illo ha recipite le supporto de dozenas de altere contributores, troppo numerose a mentionar ci, ma nos es multo grate pro lor auxilio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T185834Z" creationid="Karm46" creationdate="20171120T185834Z">
+        <seg>Pois que isto es incommode durante traduction, vale le pena de probar a remover iste tags enoiose ante le initio del traduction in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
