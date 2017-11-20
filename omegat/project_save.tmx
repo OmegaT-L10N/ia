@@ -37286,8 +37286,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert Trados segment delimiters</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T112725Z">
-        <seg>Insere le delimiters de segmento de Trados</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T190638Z">
+        <seg>Insere le delimitatores de segmento de Trados</seg>
       </tuv>
     </tu>
     <tu>
@@ -66310,6 +66310,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T085637Z" creationid="MELO46" creationdate="20140228T085637Z">
         <seg>To prevent this, we have made it clear that any</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T191703Z" creationid="Karm46" creationdate="20171120T191703Z">
+        <seg>Pro generar un file OpenOffice.Org bilingue continente le delimitatores de segmento de Trados, claude le projecto OmegaT, postea exeque le script AutoIt sequente (Windows es necesse) sur le file project_save.tmx del projecto:</seg>
       </tuv>
     </tu>
     <tu>
