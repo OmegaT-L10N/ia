@@ -508,6 +508,16 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T223818Z" creationid="Karm46" creationdate="20171120T223818Z">
+        <seg># Google Traducer v2 API clave
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T043842Z">
