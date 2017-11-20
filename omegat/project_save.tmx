@@ -5456,6 +5456,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (inexpensive)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T180935Z" creationid="Karm46" creationdate="20171120T180935Z">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (non costose)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (free)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T181023Z" creationid="Karm46" creationdate="20171120T180958Z">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (gratuite)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T160508Z">
@@ -63504,8 +63520,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>Third-party tools have been produced to deal with the problem.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171120T180709Z" creationid="Karm46" creationdate="20171120T180709Z">
-        <seg></seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T180820Z" creationid="Karm46" creationdate="20171120T180709Z">
+        <seg>Applicationes de tertie parte esseva producite pro tractar le problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67514,6 +67530,14 @@ script ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234139Z">
         <seg>Twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two of these are:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T180853Z" creationid="Karm46" creationdate="20171120T180853Z">
+        <seg>Ecce duo de illos:</seg>
       </tuv>
     </tu>
     <tu>
