@@ -489,6 +489,16 @@ License.</seg>
     <tu>
       <tuv lang="EN">
         <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T223322Z" creationid="Karm46" creationdate="20171120T223322Z">
+        <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
 -Dgoogle.api.key=xxxxx</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171120T222916Z" creationid="Karm46" creationdate="20171120T222916Z">
@@ -18182,6 +18192,14 @@ to receive a copy likewise does not require acceptance.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171120T222912Z" creationid="Karm46" creationdate="20171120T222912Z">
         <seg>E remove "#" al initio del riga -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T223406Z" creationid="Karm46" creationdate="20171120T223406Z">
+        <seg>E remove "#" al initio del riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64792,6 +64810,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T130416Z">
         <seg>This license covers the documentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This line defines GOOGLE_API_KEY.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T223435Z" creationid="Karm46" creationdate="20171120T223435Z">
+        <seg>Ce riga defini GOOGLE_API_KEY.</seg>
       </tuv>
     </tu>
     <tu>
