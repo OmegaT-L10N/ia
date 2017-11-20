@@ -38110,8 +38110,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It does not enable them to "translate" bilingual files supplied by their customers.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T171147Z">
-        <seg>Illo non habilita illes a  "traducer" le files bilingue supplite per lor clientes.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T190558Z">
+        <seg>Illo non habilita illes a "traducer" le files bilingue supplite per lor clientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63652,8 +63652,8 @@ le servitor.</seg>
       <tuv lang="EN">
         <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171120T190318Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Iste Guida explica como producer un file "RTF non mundate" ex un projecto OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T190546Z">
+        <seg>Iste Guida explica como producer un file "RTF non mundate" ex un projecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66310,14 +66310,6 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T085637Z" creationid="MELO46" creationdate="20140228T085637Z">
         <seg>To prevent this, we have made it clear that any</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
-      </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T171510Z">
-        <seg>Pro producer a file bilingue OpenOffice.Org continente le delimiters de segmento Trados, claude le projecto OmegaT, pois exeque le script AutoIt sequente (necessita Windows) sur le the file project_save.tmx del projecto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -90263,6 +90255,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144622Z">
         <seg>written offer, valid for at least three years and valid for as</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.leuce.com/autoit/uncleanifyTMX.zip</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T190327Z" creationid="Karm46" creationdate="20171120T190327Z">
+        <seg>www.leuce.com/autoit/uncleanifyTMX.zip</seg>
       </tuv>
     </tu>
     <tu>
