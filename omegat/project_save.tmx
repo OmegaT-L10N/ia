@@ -24280,6 +24280,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Cursor Up (this takes the cursor to the beginning of the paragraph)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T185933Z" creationid="Karm46" creationdate="20171120T185933Z">
+        <seg>Ctrl+Cursor In alto (isto porta le cursor al initio del paragrapho)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T054405Z">
