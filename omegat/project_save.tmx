@@ -41446,8 +41446,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T085431Z">
-        <seg>Face te secur que tu ha le lanceator Kaptain installate (&lt;a0&gt;refere te si necessari al Guida Linux)&lt;/a0&gt;, deinde scribe le clave de Google Translate API in le pertinente campo sur le etiquetta Connexivitate?????.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T224308Z">
+        <seg>Face te certe que tu ha le lanceator Kaptain installate (&lt;a0&gt;refere te si necessari al Guida de Linux)&lt;/a0&gt;, deinde scribe le clave API de Google Translate in le pertinente campo sur le scheda Connexiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52136,6 +52136,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T091009Z">
         <seg>Salva OmegaT.l4J.ini (e si necesse, move lo al reverso al plica OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T223954Z" creationid="Karm46" creationdate="20171120T223954Z">
+        <seg>Salva OmegaT.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89908,8 +89916,8 @@ a</seg>
       <tuv lang="EN">
         <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T085548Z">
-        <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T223939Z">
+        <seg>ubi "XXXXXXXX" es tu clave API de Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
