@@ -2210,8 +2210,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>' levelformat macro&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T082046Z">
-        <seg>' levelformat macro&lt;br3/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T183754Z">
+        <seg>' NivellarFormato macro&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30134,8 +30134,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="EN">
         <seg>For levelformat, this should be:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T064412Z">
-        <seg>Pro levelformat, isto deberea esser:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T183655Z">
+        <seg>Pro NivellarFormato, isto deberea esser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55884,8 +55884,8 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Sub levelformat()&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T082044Z">
-        <seg>Sub levelformat()&lt;br1/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171120T183712Z">
+        <seg>Sub NivellarFormato()&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
