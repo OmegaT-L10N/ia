@@ -46002,8 +46002,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130531T120816Z">
-        <seg>OmegaT ora essera exequite sur le installation Java OpenJDK supplite con alicun distributiones de Linux, ma alicun functiones (assi como le suite de optiones del linea de commando) pote non esser disponibile; pote esser supplite un serie de typo de characteres; e qualque defectos esseva reportate, assi como con monstra de fenestra e le function de segmentation.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T191407Z">
+        <seg>OmegaT ora fluera sur le installation Java OpenJDK supplite con alicun distributiones de Linux, ma alicun functiones (assi como le suite de optiones del linea de commando) pote non esser disponibile; pote esser supplite un serie de typo de characteres; e qualque defectos esseva reportate, assi como con le function de monstra de fenestra e de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63591,8 +63591,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T042829Z">
-        <seg>Versiones Java de tertie parte: usque durante le tempore recente, OmegaT functionava sol sur Java proprie de Oracle/Sun.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T191112Z">
+        <seg>Versiones Java de tertie parte: usque le tempore relativemente recente, OmegaT functionava sol sur Java proprie de Oracle/Sun.</seg>
       </tuv>
     </tu>
     <tu>
