@@ -35132,8 +35132,8 @@ es usar Java Web Start..</seg>
       <tuv lang="EN">
         <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T083514Z">
-        <seg>Si tu obtene le version Oracle de Java directemente ex Oracle, le installation essera probabilemente candide, ma tu debera lo configurar manualmente pro render lo version base a nivello de systema.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T192013Z">
+        <seg>Si tu obtene le version Oracle de Java directemente ex Oracle, le installation essera probabilemente correcte, ma tu debera lo configurar manualmente pro lo render le version ordinari, a nivello de systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64642,8 +64642,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is not recommended, particularly if you are unfamiliar with Linux.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T094253Z">
-        <seg>Isto non es recommendate, in particular si tu es estranie con Linux.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T192127Z">
+        <seg>Isto non es recommendate, in particular si tu non es familiar con Linux.</seg>
       </tuv>
     </tu>
     <tu>
