@@ -34898,8 +34898,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you establish that the version of Java installed at system level is not compatible with OmegaT and you wish to replace this Java version with the Oracle Java version, check first whether an Oracle package is available for your Linux distribution (SUSE, Ubuntu, etc.).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130531T121427Z">
-        <seg>Si tu constata que le version de Java installate a nivello de systema non es compatibile con OmegaT e tu desidera reimplaciar iste version de Java con le version Oracle de Java, controla in prime loco si es disponibile un Oracle pacchetto pro tu distribution de Linux (SUSE, Ubuntu, etc.).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T191810Z">
+        <seg>Si tu constata que le version de Java installate a nivello de systema non es compatibile con OmegaT e tu desidera reimplaciar iste version de Java con le version Oracle de Java, controla in prime loco si es disponibile un pacchetto Oracle pro tu distribution de Linux (SUSE, Ubuntu, Mint etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37510,16 +37510,16 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T083040Z">
-        <seg>Installa un secunde, non base version de Java a nivello de systema, e lancea OmegaT explicitemente usante iste version.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T191646Z">
+        <seg>Installar un secunde, version de Java non ordinari, a nivello de systema, e lancear OmegaT explicitemente usante iste version.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Install the OmegaT version with Java included.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130530T204302Z">
-        <seg>Installa le version OmegaT con Java includite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T191720Z">
+        <seg>Installar le version de OmegaT con Java includite.</seg>
       </tuv>
     </tu>
     <tu>
