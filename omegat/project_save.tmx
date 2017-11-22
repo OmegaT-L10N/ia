@@ -34481,8 +34481,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T165741Z">
-        <seg>Si tu es fidente sur, o desira usar, un installation Java non installate a nivello de systema, isto non essera sufficient: tu debe anque maestrar tu systema a ubi trovar Java.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T195740Z">
+        <seg>Si tu fide, o desira usar, un installation Java non installate a nivello de systema, isto non essera sufficiente: tu debe anque instruer tu systema a ubi trovar Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35012,8 +35012,8 @@ es usar Java Web Start..</seg>
       <tuv lang="EN">
         <seg>If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T173828Z">
-        <seg>Si tu ha installate un altere version de Java ma non ha rendite lo le version de arrangiamento base a nivello de systema, tu debe includer le integre percurso del file binari Java in le commando de lanceamento.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T195804Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Si tu ha installate un altere version de Java ma non ha rendite lo le version de arrangiamento base a nivello de systema, tu debe includer le integre percurso del file binari Java in le commando de lanceamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59274,8 +59274,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The command is case-sensitive.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130530T204457Z">
-        <seg>Le commando es sensibile al maiuscolas e minuscolas.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T195543Z">
+        <seg>Le commando es sensibile al majusculas.</seg>
       </tuv>
     </tu>
     <tu>
