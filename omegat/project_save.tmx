@@ -32888,8 +32888,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>If Java is already installed on your system (which is probably the case) and you plan to use this existing, system-wide Java installation in conjunction with OmegaT, first check that it is suitable.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130601T094126Z">
-        <seg>Si Java es jam installate sur tu systema (le qual es probabilemente le caso) e tu projecta usar iste existente installation Java de systema in conjunction con OmegaT, in prime loco controla que illo es convenibile.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T190755Z">
+        <seg>Si Java es jam installate sur tu systema que es probabilemente le caso) e tu projecta de usar iste existente installation Java de systema in conjunction con OmegaT, in prime loco controla que illo es convenibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47274,8 +47274,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T082749Z">
-        <seg>Versiones Java Oracle (un vice Sun) : controla le requisitos del systema in le documentation de OmegaT (readme.txt) pro le precise version de Oracle Java requirite (i.e. si tu version de Java es satis recente).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171122T190914Z">
+        <seg>Versiones Java Oracle (un vice Sun): controla le requisitos del systema in le documentation de OmegaT (readme.txt) pro le precise version de Oracle Java requirite (i.e. si tu version de Java es satis recente).</seg>
       </tuv>
     </tu>
     <tu>
