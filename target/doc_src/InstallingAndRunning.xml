@@ -47,11 +47,11 @@
 
       <literallayout><code># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
-# Memory 
--Xmx1024M 
-# Language 
+# Memory
+-Xmx1024M
+# Language
 -Duser.language=FR
-# Country 
+# Country
 -Duser.country=CA </code></literallayout>
 
       <para>Consilio: si OmegaT flue lentemente in Remote Desktop sessiones sub Windows, tu pote usar iste option:</para>
@@ -325,7 +325,7 @@
 
     <para>Le technologia Java Web Start (depost Java 1.6 e sequente) pote essere usate pro le functionamento autonome del applicationes software Java con un sol clic sur le rete. Java Web Start assecura que le ultime version del application essera displicate, assi como usate le correcte version de Java Runtime Environment (JRE). Pro initiar OmegaT le prime vice con Java Web Start, carga in tu navigator le sequente URL:</para>
 
-    <para><emphasis>http://omegat.sourceforge.net/webstart/<application>OmegaT</application>.jnlp</emphasis></para>
+    <para><emphasis>https://omegat.sourceforge.io/webstart/<application>OmegaT</application>.jnlp</emphasis></para>
 
     <para>Discarga le file<emphasis> <application>OmegaT</application>.jnlp</emphasis> e clicca sur illo. Durante le installation, dependente de tu systema operative, tu pote reciper plure advertimentos de securitate. Le permissiones que tu da a iste version (le qual pote apparer como &quot;accesso libere al computator&quot;) son identic al permissiones que  tu da al versiona local del OmegaT, id es, illos permitte accesso al disco dur del computator. Cliccas subsequente sur <emphasis><application>OmegaT</application>.jnlp</emphasis> controlara per omne renovationes, installara los, si il ha alicun, e alora lanceara <application>OmegaT</application>. Post le installation initial tu pote, naturalmente, alsi usar <emphasis><application>OmegaT</application>.jnlp</emphasis> alsi quando tu es off-line.</para>
 

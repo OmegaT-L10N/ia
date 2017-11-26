@@ -77,7 +77,7 @@ es usar Java Web Start..
 
 Pro ce fin, discarga le sequente file e pois exeque lo:
 
-   http://omegat.sourceforge.net/webstart/OmegaT.jnlp
+   https://omegat.sourceforge.io/webstart/OmegaT.jnlp
 
 Illo installara le correcte ambiente pro tu computator e le application
 ipse al prime lanceamento. Le successive executiones non habe necessitate de esser in linea.
