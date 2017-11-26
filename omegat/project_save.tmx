@@ -4372,8 +4372,8 @@ configurationes del projecto).</seg>
       <tuv lang="EN">
         <seg>.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T182733Z">
-        <seg>U.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T220153Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29244,6 +29244,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T054953Z">
         <seg>Finalmente, salva le cambios con &lt;e0&gt;Salva - File.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finally, there is the &lt;s0&gt;Beginner's Tutorial&lt;/s0&gt;, available &lt;a1&gt;here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T220537Z" creationid="Karm46" creationdate="20171126T220537Z">
+        <seg>Al fin, il ha le &lt;s0&gt;Parve instruction del novicio&lt;/s0&gt;, disponibile &lt;a1&gt;ci&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66854,8 +66862,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>To translate the latter in OmegaT, you must register the .php extension with the HTML and XHTML filter as follows:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T230910Z">
-        <seg>Pro render isto ultime in OmegaT, es necesse registrar le extension .php con le filtro XHTML como seque:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T220244Z">
+        <seg>Pro render istos ultime in OmegaT, es necesse registrar le extension .php con le filtro XHTML como seque:</seg>
       </tuv>
     </tu>
     <tu>
