@@ -34062,9 +34062,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="EN">
         <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T070856Z">
-        <seg>License) o GFDL (GNU Free Documentation License).
-Si le documento que tu es rendente lo contine, que tu &lt;s0&gt;NON&lt;/s0&gt; rende le licentia GPL (GNU Public License) o GFDL (GNU Free Documentation License).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T222600Z">
+        <seg>Si le documento que tu traduce los contine, &lt;s0&gt;NON&lt;/s0&gt; render le licentias GPL (GNU Public License) o GFDL (GNU Free Documentation License).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35110,6 +35109,14 @@ es usar Java Web Start..</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150423T170345Z" creationid="Melo46" creationdate="20150423T170345Z">
         <seg>Si on ha un systema de tractamento del terminologia existente il es ja possibile que illo offere le exportation del datos del in formato TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T222432Z" creationid="Karm46" creationdate="20171126T222432Z">
+        <seg>Si tu ha alcun questiones, le &lt;a0&gt;lista de OmT-l10n&lt;/a0&gt; es le melior loco pro los postar.</seg>
       </tuv>
     </tu>
     <tu>
