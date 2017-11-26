@@ -35482,6 +35482,14 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to translate the OmegaT website and/or the Beginner's Tutorial, please contact the &lt;a3&gt;OmegaT Website Manager&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T213736Z" creationid="Karm46" creationdate="20171126T213736Z">
+        <seg>Si tu desidera traducer le sito web de OmegaT e/o le Parve instruction del novicios, per favor continge le &lt;a3&gt;Administrator del Sito web de OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T074737Z">
