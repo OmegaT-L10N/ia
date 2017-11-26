@@ -400,8 +400,8 @@ License.</seg>
       <tuv lang="EN">
         <seg>"We" refers below to the OmegaT project team.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130513T122225Z">
-        <seg>Le termino "Nos" hic in ultra se refere al gruppo de projecto de OmegaT..</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T205344Z">
+        <seg>Le termino "Nos" hic in sequito se refere al equipa de projecto de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58626,6 +58626,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T091240Z">
         <seg>Le philosophia del projecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T205644Z" creationid="Karm46" creationdate="20171126T205644Z">
+        <seg>Le equipa de projecto de OmegaT non es un compania o un persona juridic formal, justo un gruppo de voluntarios implicate in le projecto de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
