@@ -20858,8 +20858,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130607T205408Z">
-        <seg>Per arrangiamento initial, the script de lanceamento es executabile, ma tu systema pote mutar su permissiones (exempli gratia durante disincassamento del archivo) e tu poterea deber facer lo de nove.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T193410Z">
+        <seg>De norma le script de lanceamento es executabile, ma tu systema pote mutar su permissiones (e.g. durante le disincassamento del archivo) e tu poterea deber lo render (executabile) de novo.</seg>
       </tuv>
     </tu>
     <tu>
