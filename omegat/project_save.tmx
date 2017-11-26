@@ -30544,6 +30544,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the full and minimal packages (user interface and documentation), you do not need to create an OmegaT project as you normally would in OmegaT: when unpacked, the files for localization of the OmegaT program are a ready-to-use OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T222106Z" creationid="Karm46" creationdate="20171126T222106Z">
+        <seg>Pro le pacchetto complete e illo minimal (interfacie del usatores e documentation), il non necesse crear un nove projecto de OmegaT como tu normalmente deberea in OmegaT: quando dispacchettate, le files pro le localisation del programma OmegaT es un projecto OmegaT preste a usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171122T193553Z">
