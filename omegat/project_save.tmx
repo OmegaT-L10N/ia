@@ -11812,8 +11812,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20151116T030645Z" creationid="Melo46" creationdate="20151116T030645Z">
-        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; o &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T141807Z" creationid="Melo46" creationdate="20151116T030645Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; o &lt;k3&gt;Enter/Tab&lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31459,8 +31459,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Go To menu</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T114844Z">
-        <seg>Menu Va</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T141745Z">
+        <seg>Menu Ir a</seg>
       </tuv>
     </tu>
     <tu>
@@ -68856,8 +68856,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use this command to register the translation to be identical to the source, even if "Allow translation to be equal to source" (in Options/Editing Behaviour...) is not checked.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20151125T001107Z" creationid="Melo46" creationdate="20151116T030251Z">
-        <seg>Usar iste commando pro registrar le segmento rendite es identic al segmento fonte, etiam si "Permitte traduction equal al fonte" (in Optiones/Comportamento de Modification...) non es marcate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T141616Z" creationid="Melo46" creationdate="20151116T030251Z">
+        <seg>Usar iste commando pro registrar que le segmento rendite es identic al segmento fonte, mesmo si "Permitter traduction equal al fonte" (in Optiones/Comportamento de Modification...) non es marcate.</seg>
       </tuv>
     </tu>
     <tu>
