@@ -35052,8 +35052,8 @@ es usar Java Web Start..</seg>
       <tuv lang="EN">
         <seg>If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171122T195804Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Si tu ha installate un altere version de Java ma non ha rendite lo le version de arrangiamento base a nivello de systema, tu debe includer le integre percurso del file binari Java in le commando de lanceamento.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T191941Z">
+        <seg>Si tu ha installate un altere version de Java, ma tu non ha rendite lo como version ordinari a nivello de systema, tu debe includer le integre percurso del file binari Java in le commando de lanceamento.</seg>
       </tuv>
     </tu>
     <tu>
