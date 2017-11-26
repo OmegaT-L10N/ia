@@ -6762,8 +6762,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T032552Z">
-        <seg>&lt;e0&gt;Vias breve del claviero in Modifica&lt;/e0&gt;: le lista del vias breve usate in le quadro Modifica</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T112241Z">
+        <seg>&lt;e0&gt;Vias breve del claviero in Modificar&lt;/e0&gt;: le lista del vias breve usate in le quadro Modificar</seg>
       </tuv>
     </tu>
     <tu>
@@ -59606,8 +59606,8 @@ plica currente.</seg>
       <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T171317Z">
-        <seg>Le fenestra de dialogo in &lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Comportamento del Modifica...&lt;/g2&gt; &lt;/m0&gt; habilita le usator a seliger, como le segmento actual in le campo del Modifica debe esser arrangiate al initio e tractate:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T112745Z">
+        <seg>Le fenestra de dialogo in &lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Comportamento de Modificar...&lt;/g2&gt; &lt;/m0&gt; habilita le usator a seliger, como le segmento actual in le campo de modification debe esser definite initialmente e tractate:</seg>
       </tuv>
     </tu>
     <tu>
