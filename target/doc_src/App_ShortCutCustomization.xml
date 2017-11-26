@@ -117,7 +117,7 @@
           </row>
 
           <row>
-            <entry>Aperi Projecto Recente</entry>
+            <entry>Aperir un projecto recente</entry>
 
             <entry/>
 
@@ -125,7 +125,7 @@
           </row>
 
           <row>
-            <entry>Copia le files in le plica \source...</entry>
+            <entry>Copiar le files in le plica \source...</entry>
 
             <entry/>
 
@@ -157,7 +157,7 @@
           </row>
 
           <row>
-            <entry>Salva</entry>
+            <entry>Salvar</entry>
 
             <entry><keycap>Ctrl+S</keycap></entry>
 
@@ -261,7 +261,7 @@
           </row>
 
           <row>
-            <entry>Quita</entry>
+            <entry>Quitar</entry>
 
             <entry><keycap>Ctrl+Q</keycap></entry>
 
@@ -297,7 +297,7 @@
 
         <tbody>
           <row>
-            <entry>Disface le Ultime Action</entry>
+            <entry>Disfacer le Ultime Action</entry>
 
             <entry><keycap>Ctrl+Z</keycap></entry>
 
@@ -305,7 +305,7 @@
           </row>
 
           <row>
-            <entry>Reface le ultime action</entry>
+            <entry>Refacer le ultime action</entry>
 
             <entry><keycap>Ctrl+Y</keycap></entry>
 
@@ -329,7 +329,7 @@
           </row>
 
           <row>
-            <entry>Reimplacia con le traduction a Machina</entry>
+            <entry>Replaciar con le traduction automatic</entry>
 
             <entry><keycap>Ctrl+M</keycap></entry>
 
@@ -337,7 +337,7 @@
           </row>
 
           <row>
-            <entry>Reim&amp;placia con fonte</entry>
+            <entry>Replaciar con le fonte</entry>
 
             <entry><keycap>Ctrl+Shift+R</keycap></entry>
 
@@ -345,7 +345,7 @@
           </row>
 
           <row>
-            <entry>I&amp;nsere fonte</entry>
+            <entry>Inserer fonte</entry>
 
             <entry><keycap>Ctrl+Shift+I</keycap></entry>
 
@@ -369,7 +369,7 @@
           </row>
 
           <row>
-            <entry>Exporta le selection</entry>
+            <entry>Exportar le selection</entry>
 
             <entry><keycap>Ctrl+Shift+C</keycap></entry>
 
@@ -513,7 +513,7 @@
           </row>
 
           <row>
-            <entry>Crea un traduction alternativa</entry>
+            <entry>Crear un traduction alternative</entry>
 
             <entry/>
 
@@ -614,7 +614,7 @@
           </row>
 
           <row>
-            <entry>N&amp;ota sequente</entry>
+            <entry>Nota sequente</entry>
 
             <entry/>
 

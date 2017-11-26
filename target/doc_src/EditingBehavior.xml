@@ -5,7 +5,7 @@
       <primary>Menu</primary> <secondary>Optiones</secondary> <tertiary>Comportamento de Modifica...</tertiary>
     </indexterm></title>
 
-  <para>Le fenestra de dialogo in <menuchoice> <guimenu>Optiones</guimenu> <guimenuitem>Comportamento del Modifica...</guimenuitem> </menuchoice> habilita le usator a seliger, como le segmento actual in le campo del Modifica debe esser arrangiate al initio e tractate:</para>
+  <para>Le fenestra de dialogo in <menuchoice> <guimenu>Optiones</guimenu> <guimenuitem>Comportamento de Modificar...</guimenuitem> </menuchoice> habilita le usator a seliger, como le segmento actual in le campo de modification debe esser definite initialmente e tractate:</para>
 
   <figure id="editing.behavior.options">
     <title>Optiones del comportamento de Modifica</title>
@@ -116,7 +116,7 @@
           </listitem>
 
           <listitem>
-            <para>Le texto marcate per le usator, quando es calcate <keycap>Ctrl+Shift+C</keycap> o es seligite <guimenuitem>Modifica &gt; Exporta le Selection</guimenuitem> (<filename>selection.txt</filename>).</para>
+            <para>Le texto marcate per le usator, quando es pulsate <keycap>Ctrl+Shift+C</keycap> o es seligite <guimenuitem>Modificar &gt; Exportar le Selection</guimenuitem> (<filename>selection.txt</filename>).</para>
           </listitem>
         </itemizedlist>
 

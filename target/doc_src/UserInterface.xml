@@ -20,7 +20,7 @@
 
         <tbody>
           <row>
-            <entry><guimenuitem>Quadro Modifica (Editor)</guimenuitem></entry>
+            <entry><guimenuitem>Quadro Modificar (Edit)</guimenuitem></entry>
 
             <entry>ubi tu scribe e redige le traduction</entry>
           </row>
@@ -34,13 +34,13 @@
           <row>
             <entry><guimenuitem>Quadro Glossario</guimenuitem></entry>
 
-            <entry>monstra le terminologia trovate pro le articulos in le segmento currente</entry>
+            <entry>monstra le terminologia trovate pro le elementos in le segmento currente</entry>
           </row>
 
           <row>
             <entry><guimenuitem>Quadro del Dictionario</guimenuitem></entry>
 
-            <entry>monstra le entratas del dictionario trovate pro le articulos in le segmento currente</entry>
+            <entry>monstra le entratas del dictionario trovate pro le elementos in le segmento currente</entry>
           </row>
 
           <row>
@@ -86,7 +86,7 @@
           <row>
             <entry><guimenuitem><indexterm class="singular">
                 <primary>Vias breve</primary> <secondary>Adjuta - F1</secondary>
-              </indexterm>Lector del Adjuta</guimenuitem></entry>
+              </indexterm>Navigator del Adjuta</guimenuitem></entry>
 
             <entry><para>Usate pro monstrar al usator le manual (aperir con le <keycap>F1</keycap>)<keycap/></para></entry>
           </row>
@@ -156,8 +156,8 @@
           </row>
 
           <row>
-            <entry><guimenuitem>Comportamento del Modifica (editor)<indexterm class="singular">
-                <primary>Comportamento del Modifica (editor)</primary>
+            <entry><guimenuitem>Comportamento de Modificar (Edit)<indexterm class="singular">
+                <primary>Comportamento de Modificar (Edit)</primary>
               </indexterm></guimenuitem></entry>
 
             <entry>Utilisate pro cambiar como <application>OmegaT</application> comporta se quando tu itera inter le segmentos (acceder via <menuchoice> <guimenu>Optiones</guimenu> <guimenuitem>Comportamento de modifica...</guimenuitem> </menuchoice>, close via <keycap>Esc</keycap>)</entry>
@@ -335,7 +335,7 @@
     <para>Ab un puncto de vista practic, the plus importante par de numeros is the secunde par: illo dice, quanto tu ha intertanto have facite, in relation al total o secunde numero. Le projecto in le exemplo es evidentemente finite, como tote le segmentos unic esseva jam rendite.</para>
 
     <section id="editor.pane">
-      <title>Quadro Modifica (Editor)<indexterm class="singular">
+      <title>Quadro Modificar (Edit)<indexterm class="singular">
           <primary>Fenestras e quadros in OmegaT</primary> <secondary>Quadro del Modifica (Editor)</secondary>
         </indexterm></title>
 
@@ -800,7 +800,7 @@
     </section>
 
     <section>
-      <title>Lector del Adjuta<indexterm class="singular">
+      <title>Navigator del Adjuta<indexterm class="singular">
           <primary>Menu Adjuta</primary> <secondary>Lector del Adjuta</secondary>
         </indexterm></title>
 
