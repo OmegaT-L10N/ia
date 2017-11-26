@@ -40362,8 +40362,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Launching OmegaT from a launch script</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130530T204616Z">
-        <seg>Lancear OmegaT ex un script de lanceamento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T192439Z">
+        <seg>Lancear OmegaT per un script de lanceamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -46522,8 +46522,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150422T080439Z">
-        <seg>un vice (que) isto esseva copiate o ligate a tu percurso de execution (facite automaticamente si  tu usa le script de installation fornite), tu pote lancear OmegaT pulsante &lt;i0&gt;Alt+F2&lt;/i0&gt;, pois scribente &lt;i1&gt;omegat&lt;/i1&gt; e confirmante con ENTER.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T192700Z">
+        <seg>Un vice que isto esseva copiate o ligate a tu percurso de execution (facite automaticamente si tu usa le script de installation fornite), tu pote lancear OmegaT per le &lt;i0&gt;Alt+F2&lt;/i0&gt;, pois scribente &lt;i1&gt;omegat&lt;/i1&gt; e confirmante con ENTER.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59950,8 +59950,8 @@ plica currente.</seg>
       <tuv lang="EN">
         <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T204335Z">
-        <seg>Le prime (con le commando cd) necessita si tu script de lanceamento non es in le mesme plica que OmegaT.jar.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T192354Z">
+        <seg>Le primo (con le commando cd) es necesse si tu script de lanceamento non es in le mesme plica que OmegaT.jar.</seg>
       </tuv>
     </tu>
     <tu>
