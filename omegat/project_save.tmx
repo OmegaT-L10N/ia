@@ -15090,6 +15090,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T110032Z" creationid="Karm46" creationdate="20171126T110032Z">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155716Z" creationid="MELO46" creationdate="20131226T155716Z">
@@ -37646,8 +37654,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140108T212246Z">
-        <seg>Installar e executar &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T110455Z">
+        <seg>Installar e facer fluer &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -80697,6 +80705,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150317Z">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T110112Z" creationid="Karm46" creationdate="20171126T110112Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
