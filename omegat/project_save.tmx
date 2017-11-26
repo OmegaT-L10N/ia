@@ -49500,6 +49500,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Produce a screenshot of OmegaT in your language (after translating the user interface).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T223243Z" creationid="Karm46" creationdate="20171126T223243Z">
+        <seg>Generar un instantaneo del schermo de OmegaT in tu lingua (post le traduction de interfacie del usatores).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Program (independent of having been made by running the Program).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T085725Z" creationid="MELO46" creationdate="20140228T085725Z">
@@ -64679,8 +64687,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T073234Z">
-        <seg>Anque isto es facultative, ma si tu esseva in rango de lancear OmegaT con tu pacchetto localisate (vide super), Illo meliorara le qualitate de tu traduction.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T223352Z">
+        <seg>Anque isto es facultative, ma si tu esseva in grado de lancear OmegaT con tu pacchetto localisate (vide supra), illo meliorara le qualitate de tu traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66643,8 +66651,8 @@ patents cannot be used to render the program non-free.</seg>
       <tuv lang="EN">
         <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T073655Z">
-        <seg>Pro producer un imagine del visor, lancear OmegaT e crear un pagina commode pro su captura, visualisante percursos typic como le fenestra de dialogo  "Crea nove projecto".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T223434Z">
+        <seg>Pro producer un instantaneo del schermo, lancea OmegaT e crea un pagina convenibile pro su captura, visualisante percursos typic como le fenestra de dialogo  "Crea nove projecto".</seg>
       </tuv>
     </tu>
     <tu>
