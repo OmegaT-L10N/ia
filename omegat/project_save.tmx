@@ -23171,6 +23171,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T210746Z" creationid="Karm46" creationdate="20171126T210746Z">
+        <seg>Continge le co-ordinator pertinente pro le labor de traduction:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T084750Z">
@@ -30540,6 +30548,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T082945Z">
         <seg>Pro usar le function de exportation del texto, tu debe in prime loco lo habilitar in OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T211341Z" creationid="Karm46" creationdate="20171126T211341Z">
+        <seg>Pro le interfacie del usatures, manual del usatores, Guida de initio instantanee e/e le file readme.txt, per favor continge le &lt;a1&gt;Co-ordinator de Localisation de OmegaT&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
