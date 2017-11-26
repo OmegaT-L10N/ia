@@ -33654,8 +33654,8 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160805T142637Z" creationid="Melo46" creationdate="20160805T142637Z">
-        <seg>Si alcun textos es selecte del concordantia partial, solmente iste selection replaciara totalmente le segmento de destination.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T135152Z" creationid="Melo46" creationdate="20160805T142637Z">
+        <seg>Si alcun texto del concordantia partial es seligite, solo iste selection replaciara tote le segmento de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51196,8 +51196,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T190445Z">
-        <seg>Reimplacia le integre segmento final con le concordantia partial actualmente seligite (per arrangiamento base es seligite le prime concordantia).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T134931Z">
+        <seg>Reimplacia le integre segmento final con le concordantia partial actualmente seligite (de norma es seligite le prime concordantia).</seg>
       </tuv>
     </tu>
     <tu>
