@@ -1392,6 +1392,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T103828Z" creationid="Karm46" creationdate="20171126T103828Z">
+        <seg>&amp;Ignorar  hits con maxime differente caso (e.g. FOO contra foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T091222Z" creationid="MELO46" creationdate="20140228T091222Z">
