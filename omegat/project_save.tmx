@@ -17686,8 +17686,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130525T190721Z">
-        <seg>Ben que non essential, il es convenibile anque adherer al &lt;a0&gt;Mailing list del localisatores de OmegaT&lt;/a0&gt; (cognoscite etiam como "OmT-l10n").</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T214202Z">
+        <seg>Ben que non essential, il es convenibile anque adherer al &lt;a0&gt;Lista postal del localisatores de OmegaT&lt;/a0&gt; (etiam note como "OmT-l10n").</seg>
       </tuv>
     </tu>
     <tu>
@@ -26620,6 +26620,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the files for translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T214228Z" creationid="Karm46" creationdate="20171126T214228Z">
+        <seg>Discarga le files pro le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the most recent files (OmegaT-tokenizers_0.4_2-2.1.zip at the time of this writing).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T183122Z" creationid="MELO46" creationdate="20140227T183122Z">
@@ -30446,6 +30454,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the &lt;s0&gt;OmegaT program and documentation&lt;/s0&gt;, these are either the &lt;a1&gt;"Full" package&lt;/a1&gt; or the &lt;a2&gt;"Minimal" package&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T214504Z" creationid="Karm46" creationdate="20171126T214504Z">
+        <seg>Pro le &lt;s0&gt;programma OmegaT e le documentation&lt;/s0&gt;, istos es o le &lt;a1&gt;pacchetto "Full"&lt;/a1&gt; o illo &lt;a2&gt;"Minimal"&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the OS Type, select Linux, Ubuntu.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140628T152124Z" creationid="MELO46" creationdate="20140628T152124Z">
@@ -33122,8 +33138,8 @@ not survive such relicensing or conveying.</seg>
       <tuv lang="EN">
         <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T225824Z">
-        <seg>Si un pecia apte del labor pro tu lingua non es etiam nunc initiate, tu pote lo signar in le plan per indicar que tu ha assumite le responsabilitate pro isto. </seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T214009Z">
+        <seg>Si un pecia apte del labor pro tu lingua non es etiam nunc initiate, tu pote lo signar in le plan pro indicar que tu ha assumite le responsabilitate pro illo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -61516,8 +61532,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T225837Z">
-        <seg>Le scopo del plan es celle de prevenir que duo o plus traductores labora sur le mesme traduction sin esser consciente (duplicatos del obras). </seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T214058Z">
+        <seg>Le scopo del plan es illo de prevenir que duo o plus traductores labora sur le mesme traduction sin esser consciente (duplicatos del obras). </seg>
       </tuv>
     </tu>
     <tu>
