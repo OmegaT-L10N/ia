@@ -2726,6 +2726,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This is not the case for the website localization files.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T222228Z" creationid="Karm46" creationdate="20171126T222228Z">
+        <seg>(Isto non es le caso pro le files de localisation del sito web.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065005Z" creationid="MELO" creationdate="20131219T065005Z">
@@ -72939,8 +72947,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You have complete freedom in how you translate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T231602Z">
-        <seg>Tu ha complete libertate re como render..</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T222258Z">
+        <seg>Tu ha complete libertate re como traducer.</seg>
       </tuv>
     </tu>
     <tu>
