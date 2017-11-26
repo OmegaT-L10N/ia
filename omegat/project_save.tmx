@@ -13196,8 +13196,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Edit&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130301T213547Z">
-        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Edita&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T134703Z">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Modificar&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35100,8 +35100,8 @@ es usar Java Web Start..</seg>
       <tuv lang="EN">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T114231Z">
-        <seg>Si tu non ha adhuc salvate le projecto, Isto confirma manualmente si tu vermente desidera quitar.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T134508Z">
+        <seg>Si tu non ha adhuc salvate le projecto, isto confirma manualmente si tu vermente desidera quitar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68066,8 +68066,8 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T114602Z">
-        <seg>Disface le Ultime Action</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T134902Z">
+        <seg>Disfacer le Ultime Action</seg>
       </tuv>
     </tu>
     <tu>
