@@ -1394,8 +1394,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171126T103828Z" creationid="Karm46" creationdate="20171126T103828Z">
-        <seg>&amp;Ignorar  hits con maxime differente caso (e.g. FOO contra foo)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T104449Z" creationid="Karm46" creationdate="20171126T103828Z">
+        <seg>&amp;Ignorar le exitos con caso multo differente (e.g. FOO contra foo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41724,6 +41724,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T104636Z" creationid="Karm46" creationdate="20171126T104636Z">
+        <seg>Marcar le concordantias de glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Needs Review</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T211247Z" creationid="melo" creationdate="20160814T173525Z">
@@ -50979,8 +50987,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171126T104037Z" creationid="ia" creationdate="20170909T170012Z">
-        <seg>Replaciar le exitos del &amp;glossario quando on insere le texto fonte</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T104336Z" creationid="ia" creationdate="20170909T170012Z">
+        <seg>Replaciar le exitos del &amp;glossarios quando on insere le texto fonte</seg>
       </tuv>
     </tu>
     <tu>
