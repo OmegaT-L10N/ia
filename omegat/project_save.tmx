@@ -2600,8 +2600,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>(Note: these are the English files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T230810Z">
-        <seg>(Nota: istos es le files in lingua anglese.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T215638Z">
+        <seg>(Nota: istos es files in lingua anglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35286,6 +35286,14 @@ es usar Java Web Start..</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130330T235442Z">
         <seg>Si tu prefere leger al transverso del texto clause sur le schermo, id es, in tu lector del tela, commuta inter le lector del tela e OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T215820Z" creationid="Karm46" creationdate="20171126T215820Z">
+        <seg>Si tu prefere traducer ab un lingua differente in le qual OmegaT ha ja essite localisate, per favor continge le &lt;a2&gt;webmaster de OmegaT&lt;/a2&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
