@@ -25130,8 +25130,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Delete the OmegaT program folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130606T051354Z">
-        <seg>dele le plica del programma OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T193911Z">
+        <seg>Dele le plica del programma OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65458,8 +65458,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
-        <seg>Isto resultara in deletion del configurationes de configuration de omne usator que esseva facite (assi como cambios al regulas de segmentation), e – si le plica es delite "debitemente", id es. non simplemente movite al antiqualia, non pote esser restaurate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T194127Z">
+        <seg>Isto delera le definitiones de configuration de omne usator que esseva facite (como le cambios al regulas de segmentation), e – si le plica es delite "debitemente", id es. non simplemente movite al antiqualia, non potera ser restaurate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70872,8 +70872,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T205520Z">
-        <seg>Si es habilitate le anti-aliasing (isto es un option de lanceamento a linea de commando, ma tu pote alsi adjustar lo in le script de lanceamento kaptain)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T193806Z">
+        <seg>Si es o non habilitate le anti-aliasing (isto es un option de lanceamento a linea de commando, ma tu pote alsi adjustar lo in le script de lanceamento kaptain)</seg>
       </tuv>
     </tu>
     <tu>
