@@ -24114,16 +24114,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creates a local copy of a remote OmegaT project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150423T221427Z" creationid="Melo46" creationdate="20150423T221427Z">
-        <seg>Crear un copia local de un projecto OmegaT remote.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T133139Z" creationid="Melo46" creationdate="20150423T221427Z">
+        <seg>Crea un copia local de un projecto OmegaT remote.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Creates and opens a new project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102010Z">
-        <seg>Crear e desplicar un nove projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T132941Z">
+        <seg>Crea e displica un nove projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26526,8 +26526,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download Team Project...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20151116T000510Z" creationid="Melo46" creationdate="20151116T000510Z">
-        <seg>Discargar un  projecto de equipa...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T133107Z" creationid="Melo46" creationdate="20151116T000510Z">
+        <seg>Discargar un projecto de equipa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -46858,8 +46858,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>Open Recent Project</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T100044Z" creationid="Melo" creationdate="20141026T100044Z">
-        <seg>Aperi Projecto Recente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T133257Z" creationid="Melo" creationdate="20141026T100044Z">
+        <seg>Aperir un projecto recente</seg>
       </tuv>
     </tu>
     <tu>
@@ -59622,8 +59622,8 @@ plica currente.</seg>
       <tuv lang="EN">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102011Z">
-        <seg>Le dialogo pro crear un projecto es le mesme que pro editar le projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T133033Z">
+        <seg>Le fenestra de dialogo pro crear un projecto es le mesme que pro modificar le projecto.</seg>
       </tuv>
     </tu>
     <tu>
