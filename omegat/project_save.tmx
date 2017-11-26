@@ -48757,6 +48757,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please keep translations of files in their original format, and do not change the file names.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T222949Z" creationid="Karm46" creationdate="20171126T222949Z">
+        <seg>Per favor mantene le traductiones del files in lor formato fontal, e non mutar le nomines del files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please make sure that a build.xml file is present in that folder.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T222223Z">
@@ -52993,6 +53001,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T064952Z" creationid="MELO" creationdate="20131219T064952Z">
         <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secondly, unless yours is a very uncommon language, both documents have in all probability already been translated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T222814Z" creationid="Karm46" creationdate="20171126T222814Z">
+        <seg>Secundarimente, a minus que le tue es un lingua multo poc commun, ambe le documentos ha, in omne probabilitate, ja essite traducite.</seg>
       </tuv>
     </tu>
     <tu>
