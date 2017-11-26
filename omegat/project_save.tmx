@@ -16216,6 +16216,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T134125Z" creationid="Karm46" creationdate="20171126T134125Z">
+        <seg>Acceder le contentos del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T162034Z" creationid="Melo46" creationdate="20160728T162034Z">
@@ -23922,8 +23930,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Current Translated Document</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150423T221948Z" creationid="Melo46" creationdate="20150423T221948Z">
-        <seg>Crea le Documento Rendite Actual</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T134025Z" creationid="Melo46" creationdate="20150423T221948Z">
+        <seg>Crear le Documento Rendite Actual</seg>
       </tuv>
     </tu>
     <tu>
