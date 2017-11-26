@@ -3066,8 +3066,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130513T122854Z">
-        <seg>* Le interfacie del usator (menu ecc.)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T210046Z">
+        <seg>* Le interfacie del usator (menu ecc.)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32429,6 +32429,14 @@ later version.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065125Z" creationid="MELO" creationdate="20131219T065125Z">
         <seg>However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T210004Z" creationid="Karm46" creationdate="20171126T210004Z">
+        <seg>Comocunque, pois que nos non es un projecto commercial, nos non ha budget pro le commission del traductiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62560,8 +62568,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>The user interface and documentation were originally written in English.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130513T122504Z">
-        <seg>Le interfacie del usator e le documentation esseva in origine scribite in anglese.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T205750Z">
+        <seg>Le interfacie de usator e le documentation esseva in origine scribite in anglese.</seg>
       </tuv>
     </tu>
     <tu>
