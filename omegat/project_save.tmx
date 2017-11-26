@@ -36715,8 +36715,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T072126Z">
-        <seg>in le plica /docs/ del programma OmegaT, crear un sub-plica con le codice ISO de vostre lingua del systema operative (Renominar le plica existente temporaneemente si jam existe) e copiar le manual in iste plica.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T223201Z">
+        <seg>In le plica /docs/ del programma OmegaT, crear un sub-plica con le codice ISO de vostre lingua del systema operative (Renominar le plica existente temporaneemente si jam existe) e copiar le manual in iste plica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66845,8 +66845,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>To test display of the Instant Start Guide at launch:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T072106Z">
-        <seg>Pro verificar le apparentia del Guida de initio rapide al lanceamento::</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T223123Z">
+        <seg>Pro verificar le apparentia del Guida de initio rapide al lanceamento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -90163,8 +90163,8 @@ a</seg>
       <tuv lang="EN">
         <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T072047Z">
-        <seg>ubi [percurso complete de OmegaT] es le percurso complete del plica continente le programma OmegaT e [nomine del equipamento del interfacie del usator con le percurso complete] es le nomine de vostre traduction del equipamento del ressources (bundle_en.properties, a minus que non ha cambiate le nomine) includite le percurso complete per su position.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T223105Z">
+        <seg>ubi [percurso complete de OmegaT] es le percurso complete del plica continente le programma OmegaT e [nomine del equipamento del interfacie del usator con le percurso complete] es le nomine de tu traduction del equipamento del ressources (bundle_en.properties, a minus que non ha cambiate le nomine) includite le percurso complete per su position.</seg>
       </tuv>
     </tu>
     <tu>
