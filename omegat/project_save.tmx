@@ -35441,6 +35441,14 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T134202Z" creationid="Karm46" creationdate="20171127T134202Z">
+        <seg>Si tu ha utilisate OmegaT o un altere application de CAT pro le labor, per favor alsi carga tu memoria de traduction (TMX file) al &lt;a0&gt;repositorio de memorias de traduction in le gruppo del usatores in internet&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T175655Z" creationid="Karm46" creationdate="20170913T175655Z">
