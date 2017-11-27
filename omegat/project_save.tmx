@@ -5304,6 +5304,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="MELO" changedate="20130611T081700Z">
+        <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>9319/16338</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T204531Z">
@@ -25212,6 +25220,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T213425Z" creationid="Karm46" creationdate="20170929T213425Z">
         <seg>Delimitator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT (user interface and documentation) or upload it to the website (website pages).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T093234Z" creationid="Karm46" creationdate="20171127T093234Z">
+        <seg>Committe tu file rendite al co-ordinator de localisation, qui lo passara al equipa de disveloppamento pro le inclusion in le proxime edition de OmegaT (interfacie del usatores e documentation) o carga lo pro le sito web (paginas del sito web).</seg>
       </tuv>
     </tu>
     <tu>
