@@ -3402,8 +3402,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171127T140631Z" creationid="Karm46" creationdate="20171127T140631Z">
-        <seg>- Per usar la API de Microsoft Translator, tu pote utilisar Microsoft Translator machine translation in le fenestra  Traduction automatic de OmegaT.&lt;br0/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140743Z" creationid="Karm46" creationdate="20171127T140631Z">
+        <seg>- Per usar la API de Microsoft Translator, tu pote utilisar Microsoft Translator in le fenestra  Traduction automatic de OmegaT.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5848,10 +5848,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140754Z" creationid="Karm46" creationdate="20171127T140754Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T083301Z">
         <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140835Z" creationid="Karm46" creationdate="20171127T140835Z">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/disveloppator/applicationes&lt;/a14&gt; &lt;br15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5924,6 +5940,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T083303Z">
         <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140817Z" creationid="Karm46" creationdate="20171127T140817Z">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6180,6 +6204,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T123015Z">
         <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140759Z" creationid="Karm46" creationdate="20171127T140759Z">
+        <seg>&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56343,6 +56375,14 @@ makes it unnecessary.</seg>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144547Z">
         <seg>Sublicensing is not allowed; section 10
 makes it unnecessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140750Z" creationid="Karm46" creationdate="20171127T140750Z">
+        <seg>Abonamento</seg>
       </tuv>
     </tu>
     <tu>
