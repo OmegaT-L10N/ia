@@ -26380,6 +26380,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't forget to &lt;s0&gt;update the OmegaT Localization Plan&lt;/s0&gt; (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T135245Z" creationid="Karm46" creationdate="20171127T135245Z">
+        <seg>Non oblidar de &lt;s0&gt;renovar le Plano de localisation de OmegaT&lt;/s0&gt; (vide le grado 2 del procedura) pro monstrar que tu ha completate de traduction de un particular documento, o version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065304Z" creationid="MELO" creationdate="20131219T065304Z">
@@ -48703,8 +48711,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please do NOT deliver your entire OmegaT project file to the localization coordinator (he does not need to receive multiple copies of the entire project).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T074030Z">
-        <seg>NON committer tu integre file de projecto OmegaT al coordinator del localisation (ille non necessita de reciper plus copias del integre projecto)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T134403Z">
+        <seg>NON committer tote ti files del projecto OmegaT al coordinator del localisation (ille non besonia de reciper plus copias de tote le projecto)</seg>
       </tuv>
     </tu>
     <tu>
