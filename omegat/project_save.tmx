@@ -23720,6 +23720,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright information</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T135906Z" creationid="Karm46" creationdate="20171127T135906Z">
+        <seg>Informationes re derecto de autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130512T091215Z">
@@ -42777,8 +42785,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Most of the OmegaT documentation is licensed for re-use under the GNU Public License (GPL) or GNU Free Documentation License (GFDL).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130515T075541Z">
-        <seg>Le major parte del documentation OmegaT es concedite in licentia pro le reusar sub le GNU Public License (GPL) o GNU Free Documentation License (GFDL).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140003Z">
+        <seg>Le major parte del documentation OmegaT es concedite in licentia pro lo reusar sub le licentias: GNU Public License (GPL) o GNU Free Documentation License (GFDL).</seg>
       </tuv>
     </tu>
     <tu>
