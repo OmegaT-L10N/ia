@@ -6160,6 +6160,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T140844Z" creationid="Karm46" creationdate="20171127T140844Z">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br14/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150543Z">
@@ -23756,6 +23764,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T150603Z">
         <seg>Copyright Will Helton 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T141026Z" creationid="Karm46" creationdate="20171127T141026Z">
+        <seg>Copyright Will Helton e OmegaT Japanese Localisation Equipa 2012-2015&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64043,8 +64059,8 @@ le servitor.</seg>
       <tuv lang="EN">
         <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T121656Z">
-        <seg>Iste Guida Explica como crear  un nove file filtro pro uso con OmegaT con description del creation de un rudimentari filtro file pro le formato TMX.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T141226Z">
+        <seg>Iste Guida explica como crear un nove file filtro pro uso con OmegaT, per le description del creation de un file de un filtro rudimentari pro le formato TMX.</seg>
       </tuv>
     </tu>
     <tu>
