@@ -17726,8 +17726,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130531T150255Z">
-        <seg>Ben que on poterea parer singular voler traducer le files TMX (le ration consuete pro crear un filtro de file), le addition de un filtro TMX ha Le interessante effecto que illo habilita le files TMX in omne location e esser cercate ab intra omne projecto OmegaT usante le function "Cerca files", alique non possibile in le compilation OmegaT standard.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T141358Z">
+        <seg>Ben que il poterea parer singular voler traducer le files TMX (le ration consuete pro crear un filtro de file), le addition de un filtro TMX ha Le interessante effecto que illo habilita le files TMX in omne location e esser cercate ab intra omne projecto OmegaT usante le function "Cerca files", alco non possibile in le compilation standard de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29872,8 +29872,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
-        <seg>Pro compilar OmegaT a partir del codice fonte, vide le &lt;a0&gt;Guida compilar OmegaT ab origine&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171127T141546Z">
+        <seg>Pro compilar OmegaT per le codice fonte, vide le &lt;a0&gt;Guida compilar OmegaT ab codice fonte&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
