@@ -15388,8 +15388,8 @@ on the Program.</seg>
       <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T110548Z">
-        <seg>Il es disponibile anque un &lt;a0&gt;Guida que describe le plugin tokenizers&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203313Z">
+        <seg>Il es disponibile anque un &lt;a0&gt;Guida que describe le plugin del tokenizers&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50314,16 +50314,16 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T213509Z">
-        <seg>Provide filtros pro le tractamento de additional formatos de file, includente le TTX Trados.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203412Z">
+        <seg>Provide filtros pro le tractamento de altere formatos de file, includente le TTX Trados.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T132018Z">
-        <seg>Provide le recognition del  formas declinate del occurrentias in le concordantias partial e in le glossario.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203206Z">
+        <seg>Provide le recognition del  formas declinate del exitos in le concordantias partial e in le glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67453,8 +67453,8 @@ script ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Tokenizers plug-in</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T105322Z">
-        <seg>Plugins tokenizer</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203118Z">
+        <seg>Plugin tokenizer</seg>
       </tuv>
     </tu>
     <tu>
