@@ -23413,8 +23413,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Contributed by Henry Pijffers.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T214705Z">
-        <seg>Contribuite ab Henry Pijffers.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203618Z">
+        <seg>Contribuite per Henry Pijffers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39520,16 +39520,16 @@ ipse al prime lanceamento.</seg>
       <tuv lang="EN">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T220133Z">
-        <seg>Script Java a linea de commando pro confunder duo o plus files TMX.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203503Z">
+        <seg>Script Java a linea de commando pro miscer duo o plus files TMX.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T220545Z">
-        <seg>Script Java a linea de commando pro remover unitates de traduction (TU)  "superflue" ex un file TMX: cancella tote le TUs sin segmento de destination o in qual le segmento de destination es identic al segmento de origine.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203532Z">
+        <seg>Script Java a linea de commando pro remover unitates de traduction (TU)  "superflue" ex un file TMX: cancella tote le TUs sin segmento de destination o in los qual le segmento de destination es identic al segmento de origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52967,8 +52967,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T214329Z">
-        <seg>Script pro extraher texto pro le traduction ex files de texto simple (exempli gratia codice de origine pro computator) pro le traduction in OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203730Z">
+        <seg>Script pro extraher texto pro le traduction ex files de texto simple (e.g. codice fonte pro computator) pro le traduction in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67605,8 +67605,8 @@ script ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Toxic was contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130519T215119Z">
-        <seg>Toxic esseva contribuite ab Marc Prior.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T203654Z">
+        <seg>Toxic esseva contribuite per Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
