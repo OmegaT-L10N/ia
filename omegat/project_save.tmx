@@ -5848,6 +5848,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204203Z" creationid="Karm46" creationdate="20171128T204203Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130505T082815Z">
@@ -57248,8 +57256,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T215553Z">
-        <seg>Files TMX de localisationes del documentation de OmegaT e de iste sito, pro le uso ab localisatores.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204125Z">
+        <seg>Files TMX de localisationes del documentation de OmegaT e de iste sito, pro le uso del localisatores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60437,8 +60445,8 @@ plica currente.</seg>
       <tuv lang="EN">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T110249Z">
-        <seg>Le files de iste sito, in un pacchetto commode pro celles que desidera lo localisar.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204148Z">
+        <seg>Le files de iste sito, in un pacchetto commode pro illes qui desidera lo localisar.</seg>
       </tuv>
     </tu>
     <tu>
