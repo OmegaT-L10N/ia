@@ -46045,8 +46045,8 @@ a esser lanceate.</seg>
       <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T142435Z">
-        <seg>OmegaT non es justo un producto; illo es un excitative projecto, e tu pote esser parte de illo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T183758Z">
+        <seg>OmegaT non es justo un producto; illo es un projecto excitante, e tu pote ser parte de illo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52125,6 +52125,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140107T133053Z">
         <seg>Dextra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T183653Z" creationid="Karm46" creationdate="20171128T183653Z">
+        <seg>Robert Angulo, Instituto Laue-Langevin, Francia</seg>
       </tuv>
     </tu>
     <tu>
@@ -59048,6 +59056,14 @@ software and other kinds of works.</seg>
         <seg>The OmegaT project and You</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T142205Z">
+        <seg>Le projecto OmegaT e tu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T183712Z" creationid="Karm46" creationdate="20171128T183712Z">
         <seg>Le projecto OmegaT e tu</seg>
       </tuv>
     </tu>
