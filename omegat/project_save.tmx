@@ -16622,6 +16622,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T205216Z" creationid="Karm46" creationdate="20171128T205216Z">
+        <seg>Adder numeros a tote le segmentos e render los tote "unic"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T071622Z">
@@ -51316,6 +51324,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151116T025911Z" creationid="Melo46" creationdate="20151116T025911Z">
         <seg>Remover le Traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T205428Z" creationid="Karm46" creationdate="20171128T205428Z">
+        <seg>Remover omne texto minus le tags, o tote le tags sin le texto</seg>
       </tuv>
     </tu>
     <tu>
