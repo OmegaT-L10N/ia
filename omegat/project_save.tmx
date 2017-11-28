@@ -3472,6 +3472,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [REGISTER] shown below "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T211947Z" creationid="Karm46" creationdate="20171128T211947Z">
+        <seg>- Clicca [REGISTER] monstrate sub "Registred Applications".&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Click on the Contents folder and make a backup/copy/duplicate of your info.plist file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130517T085744Z">
@@ -3748,6 +3756,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T105517Z">
         <seg>- QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T212019Z" creationid="Karm46" creationdate="20171128T212019Z">
+        <seg>- Registra un application con le sequente informationes:&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -91934,6 +91950,38 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T151142Z">
         <seg> &lt;key&gt;Properties&lt;/key&gt;&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T212036Z" creationid="Karm46" creationdate="20171128T212036Z">
+        <seg>   - Cliente ID: Alcun linea ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T212116Z" creationid="Karm46" creationdate="20171128T212116Z">
+        <seg>   - Cliente secret: Usar le linea displicate per norma&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T212042Z" creationid="Karm46" creationdate="20171128T212042Z">
+        <seg>   - Nomine: Alcun linea ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T212327Z" creationid="Karm46" creationdate="20171128T212327Z">
+        <seg>   - Re-dirige al URI: Alcun URI (Invalide URL requirite pro Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
