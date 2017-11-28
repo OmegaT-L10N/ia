@@ -35841,6 +35841,14 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T190518Z" creationid="Karm46" creationdate="20171128T190518Z">
+        <seg>Si tu es un programmator e sape Java, per favor marca le documentation in le &lt;a0&gt;codice fonte&lt;/a0&gt; infra /docs_devel pro informationes re como initiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you're a programmer and you happen to know Java, we'd like to hear from you.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130529T225703Z">
@@ -46053,8 +46061,8 @@ a esser lanceate.</seg>
       <tuv lang="EN">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T084911Z">
-        <seg>OmegaT es scripte in Java.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T190107Z">
+        <seg>OmegaT es scribite in Java.</seg>
       </tuv>
     </tu>
     <tu>
