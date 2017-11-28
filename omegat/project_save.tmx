@@ -21968,6 +21968,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204529Z" creationid="Karm46" creationdate="20171128T204529Z">
+        <seg>Controlo orthographia (varie proceduras)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check start case</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140629T205706Z" creationid="MELO46" creationdate="20140629T205607Z">
@@ -25538,8 +25546,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130424T165454Z">
-        <seg>Descriptiones e ligamines del scripts e proceduras ex Samuel Murray</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204457Z">
+        <seg>Descriptiones e ligamines del scripts/procedures ex Samuel Murray</seg>
       </tuv>
     </tu>
     <tu>
@@ -28860,6 +28868,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T163058Z">
         <seg>Applicationes externe pote esser usate a converter files a formatos supportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204729Z" creationid="Karm46" creationdate="20171128T204729Z">
+        <seg>Extraher tote le texto fonte ab le files de projecto in un sol, large file de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -53069,6 +53085,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204420Z" creationid="Karm46" creationdate="20171128T204420Z">
+        <seg>Scripts/procedures es disponibile pro activar tu pro face le sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripts/procedures are available to enable you to do the following:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T165850Z">
@@ -55225,6 +55249,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140416T212521Z">
         <seg>Salta le testa del PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T204613Z" creationid="Karm46" creationdate="20171128T204613Z">
+        <seg>Ignorar le segmentos continente un certe fila de characteres</seg>
       </tuv>
     </tu>
     <tu>
