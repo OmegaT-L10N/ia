@@ -14866,6 +14866,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T155439Z" creationid="Karm46" creationdate="20171128T155405Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Version ultime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T155402Z" creationid="Karm46" creationdate="20171128T155343Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Version standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T080150Z" creationid="Karm46" creationdate="20171115T214037Z">
@@ -26680,6 +26696,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T201846Z">
         <seg>Discargar OmegaT (ci, version 2.0.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T155338Z" creationid="Karm46" creationdate="20171128T155338Z">
+        <seg>Panorama del discargamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T155309Z" creationid="Karm46" creationdate="20171128T155309Z">
+        <seg>Selector del discargamentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -69475,6 +69507,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T233433Z" creationid="Karm46" creationdate="20170909T233433Z">
         <seg>Manuales del usator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T155554Z" creationid="Karm46" creationdate="20171128T155554Z">
+        <seg>Portrait del usator</seg>
       </tuv>
     </tu>
     <tu>
