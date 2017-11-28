@@ -20830,8 +20830,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T135014Z">
-        <seg>Ma il restara al minus al mesme puncto in le texto ubi le vista es renovate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T215212Z">
+        <seg>Ma illo restara al minus al mesme puncto in le texto ubi le vista es renovate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47179,6 +47179,14 @@ installate sur tu systema.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T140203Z">
         <seg>Un vice que tu ha installate o Abiword o le combination LibreOffice+Uniconv, tu pote converter le files final rendite per OmegaT in formato html pro los render legibile al lector del tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have installed either Abiword or the LibreOffice+Unoconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T215507Z" creationid="Karm46" creationdate="20171128T215507Z">
+        <seg>Un vice que tu ha installate o Abiword o le combination de LibreOffice+Unoconv, tu pote converter le files de destination producite per OmegaT al formato html in arrangiamento pro que los es legite per le navigator web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74413,8 +74421,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>Your browser won't automatically scroll as you work through the text; you have to do that yourself.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T134826Z">
-        <seg>Tu lector del tela non rolara automaticamente durante que tu laborar al transverso del texto; tu debe facer lo tu mesme.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T215142Z">
+        <seg>Tu navigator web non rolara automaticamente durante que tu labora tra le texto; tu debe facer lo tu mesme.</seg>
       </tuv>
     </tu>
     <tu>
