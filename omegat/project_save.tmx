@@ -3312,6 +3312,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*If you do not already have an Microsoft account, you will need to register one first.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T211007Z" creationid="Karm46" creationdate="20171128T211007Z">
+        <seg>*Si tu non ha ja un conto Microsoft, tu in prime loco habera a registrar uno.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>++++++++++++++++++++++++++++++</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141029T211244Z" creationid="Melo" creationdate="20141029T211244Z">
@@ -3372,6 +3380,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094616Z">
         <seg>- texto ASCII (.txt, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T210811Z" creationid="Karm46" creationdate="20171128T210811Z">
+        <seg>- Acceder le precedente sito web e [accede] a Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
