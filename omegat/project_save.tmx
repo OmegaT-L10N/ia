@@ -14890,6 +14890,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T152934Z" creationid="Karm46" creationdate="20171128T152934Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es un programma gratuite pro memoria de traduction, scribite in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T080503Z">
@@ -31321,6 +31329,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T152800Z" creationid="Karm46" creationdate="20171128T152800Z">
+        <seg>Initia con OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Getting involved in the OmegaT project</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094703Z">
@@ -38573,8 +38589,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T191806Z">
-        <seg> un application designate pro le traductores professional.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T153203Z">
+        <seg>Illo es un application destinate pro traductores professional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70039,6 +70055,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T134056Z" creationid="Karm46" creationdate="20171115T134056Z">
         <seg>Video 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T152824Z" creationid="Karm46" creationdate="20171128T152824Z">
+        <seg>Video ex &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
     </tu>
     <tu>
