@@ -3456,6 +3456,22 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T211851Z" creationid="Karm46" creationdate="20171128T211851Z">
+        <seg>- Clicca [DEVELOPERS] al sinistra del menu de "my account".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T211726Z" creationid="Karm46" creationdate="20171128T211652Z">
+        <seg>- Clicca [My Account] al summitate del pagina.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Click on the Contents folder and make a backup/copy/duplicate of your info.plist file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130517T085744Z">
