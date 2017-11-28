@@ -35481,6 +35481,14 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T213621Z" creationid="Karm46" creationdate="20171128T213621Z">
+        <seg>Si tu usava le plug-in tokenizer con un precedente version de OmegaT e tu ha promovite al version 3.0.0 o subsequente de OmegaT, dele le plug-in tokenizer in le files ex tu plica plug-in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171128T190051Z" creationid="Karm46" creationdate="20171128T190051Z">
@@ -60795,6 +60803,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following information is therefore applicable only if you are using a version of OmegaT earlier than 3.0.0.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T213331Z" creationid="Karm46" creationdate="20171128T213331Z">
+        <seg>Le sequente information es pro isto applicabile sol si tu usa un version de OmegaT precedente quam 3.0.0.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T230656Z" creationid="MELO46" creationdate="20140106T230656Z">
@@ -63113,6 +63129,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T183834Z" creationid="MELO46" creationdate="20140227T183714Z">
         <seg>Le nomines del tokenizer es date in le file Readme.txt distribuite con le files tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T213235Z" creationid="Karm46" creationdate="20171128T213235Z">
+        <seg>Le plug-in tokenizer era integrate in OmegaT in le version 3.0.0.</seg>
       </tuv>
     </tu>
     <tu>
