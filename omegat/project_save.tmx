@@ -5576,6 +5576,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T184652Z" creationid="Karm46" creationdate="20171128T184652Z">
+        <seg>Le &lt;a0&gt;Documentation&lt;/a0&gt; es multo importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T160508Z">
@@ -41317,8 +41325,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130529T223541Z">
-        <seg>Le localisation de OmegaT in altere linguas es etiam un labor currente, post que on adde semper nove characteristicas e functiones.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T185022Z">
+        <seg>Le localisation de OmegaT in altere linguas es etiam un labor in curso, perque on adde semper nove characteristicas e functiones.</seg>
       </tuv>
     </tu>
     <tu>
