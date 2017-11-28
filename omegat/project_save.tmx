@@ -3708,6 +3708,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T220106Z" creationid="Karm46" creationdate="20171128T220106Z">
+        <seg>- OmegaT usa le informationes "Cliente ID" e "Cliente secret" per los qual tu te registrava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T174621Z">
@@ -46465,6 +46473,14 @@ installate sur tu systema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT setting</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T220001Z" creationid="Karm46" creationdate="20171128T220001Z">
+        <seg>Preparation de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171120T175152Z">
@@ -46571,8 +46587,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171128T210628Z" creationid="Karm46" creationdate="20171128T210211Z">
-        <seg>OmegaT usa le informationes "Cliente ID" e "Cliente secret" per le qual tu te registrava&lt;br1/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T220135Z" creationid="Karm46" creationdate="20171128T210211Z">
+        <seg>OmegaT usa le informationes "Cliente ID" e "Cliente secret" per los qual tu te registrava&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
