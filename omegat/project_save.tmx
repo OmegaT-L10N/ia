@@ -2662,6 +2662,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T153255Z" creationid="Karm46" creationdate="20171128T153255Z">
+        <seg>(Le software que face isto es nominate "traductor automatic", pro illo tu debera querer alibi.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.) OmegaT has the following features:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T191858Z">
@@ -49632,6 +49640,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T223243Z" creationid="Karm46" creationdate="20171126T223243Z">
         <seg>Generar un instantaneo del schermo de OmegaT in tu lingua (post le traduction de interfacie del usatores).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T153357Z" creationid="Karm46" creationdate="20171128T153357Z">
+        <seg>Functionalitates professional</seg>
       </tuv>
     </tu>
     <tu>
