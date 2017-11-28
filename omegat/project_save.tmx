@@ -47073,8 +47073,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131224T184236Z">
-        <seg>Un ration pro isto es que le function desiderate poterea esser jam implementate, o que on pote haber rationes perque illo non pote esser implementate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T192421Z">
+        <seg>Un ration pro isto es que le function desiderate poterea esser jam implementate, o que il pote haber rationes perque illo non pote esser implementate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61821,6 +61821,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T203309Z">
         <seg>Le procedura es denominate: requesta pro melioration del characteristica  "RFE" (Request for Feature Enhancement) e es tractate &lt;a0&gt;ci&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T192733Z" creationid="Karm46" creationdate="20171128T192733Z">
+        <seg>Le procedura es denominate &lt;a0&gt;"RFE" (Demanda pro functionalitate meliorative) e es tractate ci&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
