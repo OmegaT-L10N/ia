@@ -35817,6 +35817,14 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T211538Z" creationid="Karm46" creationdate="20171128T211538Z">
+        <seg>Si tu vole seliger Abonamento basic (gratuite, usque a 2 million de characteres al mense), clicca [SIGN UP] al alto lista del abonamentos.&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T160550Z">
@@ -51148,6 +51156,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170910T095507Z" creationid="MELO46" creationdate="20140416T211841Z">
         <seg>Registrar un Identic traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register your application</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T211644Z" creationid="Karm46" creationdate="20171128T211644Z">
+        <seg>Registra tu application</seg>
       </tuv>
     </tu>
     <tu>
