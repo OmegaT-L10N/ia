@@ -14906,6 +14906,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T154431Z" creationid="Karm46" creationdate="20171128T154431Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es disponibile in multe distincte versiones pro convenir a numerose requisitos del usatores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T080503Z">
@@ -45310,6 +45318,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T154312Z" creationid="Karm46" creationdate="20171128T154312Z">
+        <seg>Instantaneo del schermo de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Spellchecking HowTo</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T070247Z">
@@ -66513,8 +66529,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T213312Z">
-        <seg>Pro trovar le version maxime convenibile pro te, seque le ligamine al Selector del discarga, in basso.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T154606Z">
+        <seg>Pro trovar le plus convenibile version pro te, seque le ligamine al Selector del discargamentos, infra.</seg>
       </tuv>
     </tu>
     <tu>
