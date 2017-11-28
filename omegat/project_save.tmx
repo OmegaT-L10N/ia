@@ -38021,8 +38021,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T102341Z">
-        <seg>Corrector orthographic integrate</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T154254Z">
+        <seg>Correctores orthographic integrate</seg>
       </tuv>
     </tu>
     <tu>
@@ -49178,6 +49178,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T123403Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T154200Z" creationid="Karm46" creationdate="20171128T154200Z">
+        <seg>Instrumentos potente</seg>
       </tuv>
     </tu>
     <tu>
@@ -68465,8 +68473,8 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       <tuv lang="EN">
         <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130518T102906Z">
-        <seg>Support pro Unicode (UTF-8): pote esser utilisate con alphabetos non latin</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171128T154226Z">
+        <seg>Supporto pro Unicode (UTF-8): pote esser utilisate con alphabetos non latin</seg>
       </tuv>
     </tu>
     <tu>
