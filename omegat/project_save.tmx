@@ -37777,8 +37777,8 @@ sue for patent infringement).</seg>
       <tuv lang="EN">
         <seg>In this example, the Help &amp; Manual filter has been selected as a basis.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T174612Z">
-        <seg>In iste exemplo, le filtro Adjuta &amp; Manual esseva seligite como un base.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T123506Z">
+        <seg>In iste exemplo esseva seligite como base le filtro: Help &amp; Manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41773,8 +41773,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Locate the folder src/org/omegat/filters3/xml, and make a copy the subfolder /helpandmanual, naming it /tmx.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T174821Z">
-        <seg>Loca le plica src/org/omegat/filters3/xml, e face un copia le sub plica /helpandmanual, nominante lo /tmx.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T123624Z">
+        <seg>Trova le plica src/org/omegat/filters3/xml, e face un copia del sub plica /helpandmanual, renominante lo /tmx.</seg>
       </tuv>
     </tu>
     <tu>
