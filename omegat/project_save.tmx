@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -522,6 +522,18 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T043842Z">
         <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20171129T092203Z" creationid="Melo46" creationdate="20171129T092203Z">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,6 +3432,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20171129T092248Z" creationid="Melo46" creationdate="20171129T092248Z">
+        <seg>- Post le modificationes de OmegaT.l4J.ini (a ubi Cliente ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171128T211141Z" creationid="Karm46" creationdate="20171128T211141Z">
@@ -3432,6 +3452,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094621Z">
         <seg>- Ressources Android (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20171129T092159Z" creationid="Melo46" creationdate="20171129T092159Z">
+        <seg>- Ante que modificar OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3784,6 +3812,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171128T212019Z" creationid="Karm46" creationdate="20171128T212019Z">
         <seg>- Registra un application con le sequente informationes:&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Melo46" changedate="20171129T092531Z" creationid="Melo46" creationdate="20171129T092438Z">
+        <seg>- Remove "#" al initios del riga, e reimplacia "xxxxx" con tu "Client ID" e "Client secret".&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
