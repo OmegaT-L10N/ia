@@ -3608,6 +3608,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T120441Z" creationid="Karm46" creationdate="20171129T120441Z">
+        <seg>- Ctrl+M (o Commando+M sur Mac) reimplaciara le traduction actual del segmento con iste traduction a machina.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094618Z">
