@@ -566,10 +566,10 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
 MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
 MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171129T094808Z" creationid="Karm46" creationdate="20171129T094808Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094955Z" creationid="Karm46" creationdate="20171129T094808Z">
         <seg># Microsoft Translator credentials
 MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
-MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=tu Client secret"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3452,6 +3452,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T173130Z">
         <seg>- Adder terminos a un glossario durante le traduction in OmegaT&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T115303Z" creationid="Karm46" creationdate="20171129T115303Z">
+        <seg>- Adde le sequente optiones pro lancear OmegaT (ubi Cliente ID: my_clientid1)</seg>
       </tuv>
     </tu>
     <tu>
