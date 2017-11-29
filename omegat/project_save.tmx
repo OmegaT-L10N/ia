@@ -65509,6 +65509,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T183702Z" creationid="Karm46" creationdate="20171129T183702Z">
+        <seg>Isto ha le effecto de render tote le instantias de segmentos non-unic traductiones alternative (vide plus avante "Concordantia uno-a-plures").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T151006Z">
