@@ -30360,8 +30360,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130609T213248Z">
-        <seg>Pro casos ubi duo o magis segmentos identic require traductiones distincte, OmegaT offere "le concordantia un a multe".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T183822Z">
+        <seg>Pro casos ubi duo o plus segmentos identic require traductiones differente, OmegaT offere "le concordantia uno-a-plures".</seg>
       </tuv>
     </tu>
     <tu>
@@ -47057,8 +47057,8 @@ installate sur tu systema.</seg>
       <tuv lang="EN">
         <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T171019Z">
-        <seg>Le function de concordantia un a multe de OmegaT in prime loco assume que segmentos identic debe esser rendite in le mesme maniera.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T183849Z">
+        <seg>Le function de concordantia uno-a-plures de OmegaT in prime loco assume que segmentos identic debe esser rendite in le mesme maniera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67579,8 +67579,8 @@ patents cannot be used to render the program non-free.</seg>
       <tuv lang="EN">
         <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073526Z">
-        <seg>Pro producer un traduction que es differente del traduction base, clicca con dextera le mus intra le segmento e selige "Crea traduction alternative".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T184010Z">
+        <seg>Pro producer un traduction que es differente del traduction base, clicca con dextera le mus intra le segmento e selige "Crear un traduction alternative".</seg>
       </tuv>
     </tu>
     <tu>
