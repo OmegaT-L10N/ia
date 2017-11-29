@@ -3712,6 +3712,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094224Z" creationid="Karm46" creationdate="20171129T094224Z">
+        <seg>- Trova le file OmegaT.l4J.ini (in le plica del programma OmegaT) e modifica le sequente rigas con tu editor de texto-simple preferite:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Log into Microsoft Azure Marketplace:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130517T084022Z">
