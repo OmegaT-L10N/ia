@@ -539,6 +539,18 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     <tu>
       <tuv lang="EN">
         <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094620Z" creationid="Karm46" creationdate="20171129T094620Z">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
 -Dmicrosoft.api.client_id=my_clientid1
 -Dmicrosoft.api.client_secret=your Client secret</seg>
       </tuv>
@@ -546,6 +558,18 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
         <seg># Microsoft Translator credentials
 -Dmicrosoft.api.client_id=my_clientid1
 -Dmicrosoft.api.client_secret=tu Client secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094808Z" creationid="Karm46" creationdate="20171129T094808Z">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,8 +3458,16 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20171129T092248Z" creationid="Melo46" creationdate="20171129T092248Z">
-        <seg>- Post le modificationes de OmegaT.l4J.ini (a ubi Cliente ID: my_clientid1)&lt;br0/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094735Z" creationid="Melo46" creationdate="20171129T092248Z">
+        <seg>- Post le modificationes de OmegaT.l4J.ini (ubi Cliente ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.sh (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094717Z" creationid="Karm46" creationdate="20171129T094717Z">
+        <seg>- Post le modificationes de OmegaT.sh (ubi Cliente ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3468,6 +3500,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171129T094326Z" creationid="Melo46" creationdate="20171129T092159Z">
         <seg>- Ante le modificationes de OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094608Z" creationid="Karm46" creationdate="20171129T094608Z">
+        <seg>- Ante le modificationes de OmegaT.sh&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
