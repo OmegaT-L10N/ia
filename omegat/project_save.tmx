@@ -70283,6 +70283,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Microsoft Translator machine translation in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T115435Z" creationid="Karm46" creationdate="20171129T115435Z">
+        <seg>Usar le traductor automatic Microsoft Translator in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T132700Z" creationid="Karm46" creationdate="20171115T132700Z">
@@ -82939,6 +82947,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T085835Z">
         <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T115309Z" creationid="Karm46" creationdate="20171129T115309Z">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
