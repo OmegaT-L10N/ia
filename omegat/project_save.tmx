@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3474,8 +3474,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171128T210151Z" creationid="Karm46" creationdate="20171127T140631Z">
-        <seg>- Pr usar la API de Microsoft Translator, tu pote utilisar Microsoft Translator in le fenestra  Traduction automatic de OmegaT.&lt;br0/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T093103Z" creationid="Karm46" creationdate="20171127T140631Z">
+        <seg>- Per usar la API de Microsoft Translator, tu pote utilisar Microsoft Translator in le fenestra Traduction automatic de OmegaT.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -92092,8 +92092,8 @@ a</seg>
       <tuv lang="EN">
         <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171128T212116Z" creationid="Karm46" creationdate="20171128T212116Z">
-        <seg>   - Cliente secret: Usar le linea displicate per norma&lt;br10/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T093207Z" creationid="Karm46" creationdate="20171128T212116Z">
+        <seg>   - Cliente secret: usa le linea displicate per norma&lt;br10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -92108,8 +92108,8 @@ a</seg>
       <tuv lang="EN">
         <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171128T212344Z" creationid="Karm46" creationdate="20171128T212327Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;   - Re-dirige al URI: Alcun URI (Invalide URL requirite pro Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T093302Z" creationid="Karm46" creationdate="20171128T212327Z">
+        <seg>  - Re-dirige al URI: Alcun URI (Invalide URL requirite pro Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
