@@ -3544,6 +3544,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Check [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T115705Z" creationid="Karm46" creationdate="20171129T115705Z">
+        <seg>- Marca [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Check spelling (various procedures)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T172634Z">
@@ -3768,6 +3776,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T115459Z" creationid="Karm46" creationdate="20171129T115459Z">
+        <seg>- Lancea OmegaT e aperi tu projecto.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171129T094224Z" creationid="Karm46" creationdate="20171129T094224Z">
@@ -3936,6 +3952,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T115608Z" creationid="Karm46" creationdate="20171129T115608Z">
+        <seg>- Selige [Optiones] &gt; [Traduction automatic]&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Skip segments containing a certain set of characters&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T172656Z">
@@ -4052,6 +4076,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141109T110041Z" creationid="Melo46" creationdate="20141103T063504Z">
         <seg>- Quando nos es incapace a responder a un question, illo indica nos le necessitate a revenir al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T115752Z" creationid="Karm46" creationdate="20171129T115752Z">
+        <seg>- Quando tu selige alcun segmentos, su traduction essera displicate in le fenestra Traduction automatic de OmegaT.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
