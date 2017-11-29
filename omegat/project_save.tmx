@@ -47567,6 +47567,14 @@ installate sur tu systema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One-to-many matching</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T182707Z" creationid="Karm46" creationdate="20171129T182707Z">
+        <seg>Concordantia uno-a-plures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One-to-many matching (version 2.5.0 onwards)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T163824Z">
