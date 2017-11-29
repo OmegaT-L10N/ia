@@ -92226,6 +92226,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T120228Z" creationid="Karm46" creationdate="20171129T120228Z">
+        <seg>   - Si tu trova un message includente "Bad Request" in le fenestra Traduction automatic, verifica si le valores "Cliente ID" e "Cliente secret" es appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171128T212042Z" creationid="Karm46" creationdate="20171128T212042Z">
