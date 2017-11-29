@@ -54375,8 +54375,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T170106Z">
-        <seg>Segmentos le qual occurre plus que un vice es denominate in OmegaT como "segmentos non unic".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T181931Z">
+        <seg>Le segmentos que occurre plus de un vice es denominate in OmegaT "segmentos non unic".</seg>
       </tuv>
     </tu>
     <tu>
@@ -54815,8 +54815,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T175811Z">
-        <seg>Selectionar Vista &gt; marca le Segmentos Non Unic causa solmente le prime occurrentia de un segmento non unic esser monstrate in nigre, e secundo e ulterior occurrentias esser monstrate in gris.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T182103Z">
+        <seg>Selectionar Vista &gt; Marcar le Segmentos Non Unic causa solmente que le prime occurrentia de un segmento non unic essera monstrate in nigre, e le secunde e ulterior occurrentias essera monstrate in gris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65897,8 +65897,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T170612Z">
-        <seg>Isto es utile quando on debe verificar le traduction, depois que solmente le prime occurrentia del segmentos identic pote necessitar de esser verificate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T182338Z">
+        <seg>Isto es utile quando on debe verificar le traduction, pois que pote ser necesse de verificar solo le prime occurrentia del segmentos identic.</seg>
       </tuv>
     </tu>
     <tu>
