@@ -3466,8 +3466,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20171129T092159Z" creationid="Melo46" creationdate="20171129T092159Z">
-        <seg>- Ante que modificar OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094326Z" creationid="Melo46" creationdate="20171129T092159Z">
+        <seg>- Ante le modificationes de OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3588,6 +3588,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T172641Z">
         <seg>- Extraher omne le texto origine ex le files del projecto in un singule, grande file de texto&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094545Z" creationid="Karm46" creationdate="20171129T094545Z">
+        <seg>- Trova le file OmegaT.app/Contentos/MacOS/OmegaT.sh e modifica le sequente rigas con tu editor de texto-simple preferite:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3852,6 +3860,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094621Z">
         <seg>- Files ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Right-click on OmegaT.app and select "Show Package Contents."&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171129T094438Z" creationid="Karm46" creationdate="20171129T094438Z">
+        <seg>- Clicca-dextre sur OmegaT.app e selige "Monstrar le contentos del pacchetto."&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
