@@ -16,7 +16,7 @@
 
     <para>Le syntaxe de definition del via breve es le sequente: <code>&lt;codice del commando del menu&gt;=&lt;via breve&gt;</code>, ubi <emphasis>&lt;codice del commando del menu&gt;</emphasis> es un codice ex le tabellas sequente e <emphasis>&lt;via breve&gt;</emphasis> es un combination de percussiones de clave specificate per le usator<footnote>
         <para>Le syntaxe complete pro le percussiones de clave (vias breve) es definite in le documentation sequente de Java 1.6 ex Oracle (al fundo del pagina): <ulink url="http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html">Java 1.6 vias breve e percussiones de clave,</ulink></para>
-      </footnote>U.</para>
+      </footnote>.</para>
 
     <para>&lt;via breve&gt; debe esser del forma sequente: 0 o plus <code>&lt;modificator&gt;</code> sequite per 0 o 1 <code>&lt;evento&gt;</code> sequite per 1 <code>&lt;clave&gt;</code>, ubi:<itemizedlist>
         <listitem>
@@ -33,7 +33,7 @@
         <listitem>
           <para>e <code>&lt;clave&gt;</code> pote esser qualcunque clave disponibile sur tu claviero<footnote>
               <para>Le possibile evento del clave(s) es listate in le documentation sequente de Java 1.6 ex Oracle: <ulink url="http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html">Java 1.6 vias breve e eventos de clave,</ulink>&gt;</para>
-            </footnote>U.</para>
+            </footnote>.</para>
         </listitem>
       </itemizedlist></para>
 

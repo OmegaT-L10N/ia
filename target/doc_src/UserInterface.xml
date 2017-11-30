@@ -389,7 +389,7 @@
           <primary>Vias breve</primary> <secondary>Insere texto - Ctrl+I</secondary>
         </indexterm></guimenuitem> pro inserer lo al position del cursor.</para>
 
-      <para>Le percentage de concordantia es grosso modo equivalente a prender le numero de parolas commun in le segmentos concordate e divider los per le numero de parolas in le plus longe del duos. Le concordantia partial seligite es marcate in nigrato, le parolas que es mancante in le segmento que tu es rendente es colorate azur e le parolas adjacente al partes mancante in verde. In le precedente exemplo le segmento fonte es <emphasis role="bold">Commando del menu contexto</emphasis>. Le concordantia summe es 100%, proque omne parolas concorda. Assi facer le sequente duo concordantias, e le concordantia #4 son similabile, ma differente. Le linea con le percentage del concordantia include alsi le nomine del of memoria de traduction <indexterm class="singular">
+      <para>Le percentage de concordantia es grosso modo equivalente a prender le numero de parolas commun in le segmentos concordate e divider los per le numero de parolas in le plus longe del duos. Le concordantia partial seligite es marcate in nigrato, le parolas que es mancante in le segmento que tu rende es colorate azur e le parolas adjacente al partes mancante in verde. In le precedente exemplo le segmento fonte es <emphasis role="bold">Commando del menu contexto</emphasis>. Le concordantia summe es 100%, proque omne parolas concorda. Assi facer le sequente duo concordantias, e le concordantia #4 son similabile, ma differente. Le linea con le percentage del concordantia include alsi le nomine del of memoria de traduction <indexterm class="singular">
           <primary>Memorias de traduction</primary> <secondary>Concordantias</secondary>
         </indexterm> continente le concordantia. Si il ha nulle nomine del file monstrate, le fonte es le memoria de traduction interne del projecto. Segmentos orphane<indexterm class="singular">
           <primary>Memorias de traduction</primary> <secondary>Segmentos orphane</secondary>
@@ -476,7 +476,7 @@
               <row>
                 <entry><literal>${diff}</literal></entry>
 
-                <entry>Linea de character monstrante le differentias inter le fonte e le concordantia.<emphasis> Aviso:</emphasis> usa isto si le texto, que tu es rendente  ha essite ajornate.</entry>
+                <entry>Linea de character monstrante le differentias inter le fonte e le concordantia.<emphasis> Aviso:</emphasis> usa isto si le texto, que tu rende  ha essite ajornate.</entry>
               </row>
 
               <row>

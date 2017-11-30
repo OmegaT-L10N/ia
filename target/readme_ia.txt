@@ -1,10 +1,11 @@
 @TRANSLATION_NOTICE@
 
 
-Que es OmegaT?
+Quod es OmegaT?
 ===============
 
-OmegaT es un instrumento gratuite e Open source de traduction assistite per le computator, multe-platteforma con 'concordantia partial', 'recerca per parola clave', suggestiones per le glossarios, dictionarios, fruition de traductores automatic e fruition del previe traductiones in le actualisationes del projectos.
+OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.
+(OmegaT es un application gratuite de Traduction Assistite per le Computator (CAT), multe-platteforma con concordantia partial, recerca per parola clave, glossarios, e fruition del traductiones in le actualisation del projectos)
 
 
 
@@ -24,10 +25,9 @@ in /lib/licenses/Licenses.txt.
 Pre-requisitos pro installar OmegaT
 ===================================
 
-OmegaT necessita le Java Runtime Environment (JRE) version 1.8 o plus alte esser
-installate sur tu systema.
+Pro installar OmegaT sur tu systema es necesse Java Runtime Environment (JRE), version 1.8 o plus recente.
 
-Nos recommenda de usar le pacchettos de OmegaT que include le JRE, a salvar te del
+Nos recommenda de usar le pacchettos de OmegaT que include le JRE, pro te sparniar del
 enoio de lo selectionar, obtener e installar.
 
 

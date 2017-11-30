@@ -52,7 +52,7 @@
 
     <para>Cliccar sur le button <guibutton>Installa un nove dictionario</guibutton>, aperira le fenestra installator de Dictionario, ubi tu pote seliger le dictionarios que tu vole installar.</para>
 
-    <para>Le nomines del files debe exactemente corresponder al codice del lingua de tu lingua final como definite in le fenestra de dialogo Proprietates del projecto (<guimenu>Projecto &gt; Proprietates</guimenu>). Per exemplo, si tu ha seligite ES-MX (Mexican Spanish) como le lingua de destination, le files del dictionario debe esser nominate es_MX.dic e es_MX.aff. Si tu ha disponibile sol un dictionario Standard espaniol, con le nomines del file es_es.dic e es_es.aff , tu pote copiar iste files in es_MX.dic e es_MX.aff, e le dictionario orthographic functionara. Nota que illo naturalmente controlara pro le Standard plus tosto que pro le Espaniol Mexicano!)</para>
+    <para>Le nomines del files debe exactemente corresponder al codice del lingua de tu lingua final como definite in le fenestra de dialogo Proprietates del projecto (<guimenu>Projecto &gt; Proprietates</guimenu>). Per exemplo, si tu ha seligite ES-MX (Mexican Spanish) como lingua de destination, le files del dictionario debe esser nominate es_MX.dic e es_MX.aff. Si tu ha disponibile sol un dictionario Standard espaniol, con le nomines del file es_es.dic e es_es.aff , tu pote copiar iste files in es_MX.dic e es_MX.aff, e le dictionario orthographic functionara. Nota que illo naturalmente controlara pro le Standard plus tosto que pro le Espaniol Mexicano!)</para>
   </section>
 
   <section>
