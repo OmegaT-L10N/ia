@@ -46282,8 +46282,9 @@ might be different; for a GUI interface, you would use an "about box".</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170913T171956Z" creationid="Karm46" creationdate="20170913T171956Z">
-        <seg>OmegaT es un instrumento gratuite e Open source de traduction assistite per le computator, multe-platteforma con 'concordantia partial', 'recerca per parola clave', suggestiones per le glossarios, dictionarios, fruition de traductores automatic e fruition del previe traductiones in le actualisationes del projectos.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T171238Z" creationid="Karm46" creationdate="20170913T171956Z">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.
+(OmegaT es un application gratuite de Traduction Assistite per le Computator (CAT), multe-platteforma con concordantia partial, recerca per parola clave, glossarios, e fruition del traductiones in le actualisation del projectos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46678,9 +46679,8 @@ a esser lanceate.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170913T172244Z" creationid="Karm46" creationdate="20170913T172244Z">
-        <seg>OmegaT necessita le Java Runtime Environment (JRE) version 1.8 o plus alte esser
-installate sur tu systema.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T171438Z" creationid="Karm46" creationdate="20170913T172244Z">
+        <seg>Pro installar OmegaT sur tu systema es necesse Java Runtime Environment (JRE), version 1.8 o plus recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71349,8 +71349,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>What is OmegaT?</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170913T171019Z">
-        <seg>Que es OmegaT?</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T171117Z">
+        <seg>Quod es OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
