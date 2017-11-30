@@ -22338,16 +22338,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check that the .dic and .aff files for your language are present in the spelling dictionary folder, and that their names correspond to the target language code.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T080449Z">
-        <seg>Controla que le files .dic e .aff pro tu lingua es presente in le plica del dictionarios orthographic, e que lor nomines corresponde al codice del lingua de destination.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T215150Z">
+        <seg>Controla que le files .dic e .aff pro tu lingua es presente in le plica del dictionarios orthographic, e que lor nomines corresponde exactemente al codice del lingua de destination.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check that you have write permissions for the spelling dictionary folder you have selected.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T081628Z">
-        <seg>Controla que tu ha permissiones de scriber pro le plica del dictionarios orthographic que tu ha seligite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T215119Z">
+        <seg>Controla que tu ha permissiones de scriber in le Plica del dictionarios orthographic que tu ha seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34580,8 +34580,8 @@ to choose that version for the Program.</seg>
       <tuv lang="EN">
         <seg>If the automatic installation process does not work: check that your Internet connection is working; if so, try a different repository URL.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T121251Z">
-        <seg>Si le processo de installation automatic non functiona: controla que tu connexion a Internet es functionante; si assi, proba un URL de deposito differente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T215050Z">
+        <seg>Si le processo de installation automatic non functiona: controla que tu connexion a Internet es functionante; si assi, proba un URL de repositorio differente.</seg>
       </tuv>
     </tu>
     <tu>
