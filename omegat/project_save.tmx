@@ -292,8 +292,8 @@ country that you have reason to believe are valid.</seg>
       <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T172140Z">
-        <seg>Le "segmento non unic" concerne ambe le traductiones, base e alternative.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T212806Z">
+        <seg>Le "segmento non unic" coperi ambe le traductiones, base e alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21338,8 +21338,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T172548Z">
-        <seg>Per arrangiamento base, Le commando (Ctrl+U) Vade al segmento non rendite sequente, salta al segmento non rendite sequente, saltante le traductiones  propagate in le processo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T212946Z">
+        <seg>Per predisposition initial, Le commando (Ctrl+U), salta al segmento non rendite sequente, saltante le traductiones propagate in le processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72015,8 +72015,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073832Z">
-        <seg>Ubi duo segmentos ha alsi identic segmentos precedente e sequente (per exemplo quando un pagina integre compare duo vices in le texto), illos non pote esser rendite in modo differente le un del altere in OmegaT, id es il non es possibile render un de illos un "traduction alternative".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T212709Z">
+        <seg>Si duo segmentos ha alsi identic segmentos precedente e sequente (per exemplo quando un pagina integre compare duo vices in le texto), illos non pote esser rendite in modo differente le un del altere in OmegaT, id es il non es possibile render un de illos un "traduction alternative".</seg>
       </tuv>
     </tu>
     <tu>
