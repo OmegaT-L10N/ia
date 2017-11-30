@@ -42077,8 +42077,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130611T060620Z">
-        <seg>Le usatores de Mac OSX deberea installar tcl/tk ex lor media de systema e le usatores de Linux deberea trovar lo in lor deposito de distribution si illo non es ja installate per arrangiamento base.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T220705Z">
+        <seg>Le usatores de Mac OSX deberea installar tcl/tk ex lor media de systema e le usatores de Linux deberea lo trovar in lor repositorio de distribution si illo non es ja installate per predisposition initial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60475,8 +60475,8 @@ in vice.</seg>
       <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T213033Z">
-        <seg>Le contento del files es superscribite o quando un segmento nove es aperte (source.txt e target.txt) o quando a nove selection es exportate (selection.txt).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T220538Z">
+        <seg>Le contento del files es superscribite o quando un segmento nove es aperite (source.txt e target.txt) o quando a nove selection es exportate (selection.txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60997,8 +60997,8 @@ plica currente.</seg>
       <tuv lang="EN">
         <seg>The files are unformatted plain-text files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T091612Z">
-        <seg>Le files es files de texto simple non formattate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T220617Z">
+        <seg>Le files es files de texto-simple non formattate.</seg>
       </tuv>
     </tu>
     <tu>
