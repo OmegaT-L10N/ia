@@ -33666,8 +33666,8 @@ non necessita inserer le percurso integral.)</seg>
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140118T232205Z">
-        <seg>Si Optiones &gt; Comportamento del modifica &gt; "Vade al sequente segmento non rendite arresta quando il ha is al minus un translation alternative" es seligite totevia e al minus un traduction alternative de un segmento non unic esseva create, iste function tracta omne occurrentias de un segmento (sia traductiones base o alternative) ut non rendite, id es non salta los.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T213059Z">
+        <seg>Si Optiones &gt; Comportamento del modifica &gt; "Vade al sequente segmento non rendite arresta quando il ha al minus un traduction alternative" es seligite totevia e al minus un traduction alternative de un segmento non unic esseva create, iste function tracta omne occurrentias de un segmento (sia traductiones base o alternative) como non rendite, id es non los salta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46192,8 +46192,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT has an inline spelling checker.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T070434Z">
-        <seg>OmegaT ha un corrector orthographic integrate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T213634Z">
+        <seg>OmegaT ha un su proprie corrector orthographic immediate.</seg>
       </tuv>
     </tu>
     <tu>
