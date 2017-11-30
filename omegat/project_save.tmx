@@ -6442,8 +6442,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Use as Default Translation&lt;/b0&gt;: causes the active segment to be made the default translation and therefore all previous "default translation" segments to be brought into line with it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
-        <seg>&lt;b0&gt;Usa como traduction base&lt;/b0&gt;: rende le segmento active "traduction base" e ergo tote le previe segmentos "traduction base" a alineate con illo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T211934Z">
+        <seg>&lt;b0&gt;Usa como traduction base&lt;/b0&gt;: rende le segmento active "traduction base" e ergo tote le previe segmentos "traduction base" alineate con illo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21954,8 +21954,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T173153Z">
-        <seg>Le cambios a iste segmento non ha effecto sur le cetere segmentos, ni le cambios al "traduction base" affice lo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T211841Z">
+        <seg>Le cambios a iste segmento non ha effecto sur le altere segmentos, ni lo affice le cambios al "traduction base".</seg>
       </tuv>
     </tu>
     <tu>
@@ -30986,6 +30986,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T093758Z" creationid="MELO46" creationdate="20140228T093758Z">
         <seg>For software which is copyrighted by the Free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T212231Z" creationid="Karm46" creationdate="20171130T212231Z">
+        <seg>Pro alcun typos de file, OmegaT distingue inter segmentos identic per referimento a su duo segmentos precedente e successive.</seg>
       </tuv>
     </tu>
     <tu>
