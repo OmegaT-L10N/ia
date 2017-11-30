@@ -22530,8 +22530,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Choose a tokenizer from the following list, according to your &lt;s0&gt;source&lt;/s0&gt; language:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T220147Z">
-        <seg>Selige un tokenizer ex le lista sequente, secundo tu lingua &lt;s0&gt;de origine&lt;/s0&gt;:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T222901Z">
+        <seg>Selige un tokenizer ex le lista sequente, secundo tu lingua &lt;s0&gt;fonte&lt;/s0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25810,8 +25810,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T220009Z">
-        <seg>Dependente sur tu configuration del systema, le commando de lanceamento pote esser legiermente differente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T222821Z">
+        <seg>Dependente de tu configuration del systema, le commando de lanceamento pote esser levemente differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38549,8 +38549,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T180330Z">
-        <seg>In vice, lancea un editor de texto (assi como Notepad o Wordpad), alora aperi le file script de lanceamento con File &gt; Aperi.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T222722Z">
+        <seg>In vice, lancea un editor de texto (assi como Notepad o Wordpad), postea aperi le file script de lanceamento con File &gt; Aperi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69591,8 +69591,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Unzip the files from the tokenizer zip package.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T174514Z">
-        <seg>Expande le files ab le pacchetto tokenizer zip.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T222646Z">
+        <seg>Expande le files ab le pacchetto zip de tokenizer.</seg>
       </tuv>
     </tu>
     <tu>
