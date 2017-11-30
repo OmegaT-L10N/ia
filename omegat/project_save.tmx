@@ -60963,6 +60963,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T220519Z" creationid="Karm46" creationdate="20171130T220519Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Le files appare in le sub plica /script in le plica del files del usator de OmegaT (pro trovar le plica del files del usator de OmegaT sur tu systema operative, vide le Manual del usatores (F1 ab intra OmegaT) Adjuta &gt; Manual del usatores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131227T113223Z">
@@ -63919,8 +63927,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Then tick the "Export the segment to text files" box.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T212131Z">
-        <seg>Pois marca le cassa: "Exporta le segmento in files de texto".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T215754Z">
+        <seg>Pois marca le cassa: "Exportar le segmento in files de texto".</seg>
       </tuv>
     </tu>
     <tu>
