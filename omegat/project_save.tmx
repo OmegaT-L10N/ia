@@ -24034,8 +24034,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130611T062334Z">
-        <seg>copia le script in le plica "script" de OmegaT, id es le plica continente source.txt etc. (Le scripts in principio pote esser site ubique, ma debe alora esser modificate con addition del percurso al files script.)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T221047Z">
+        <seg>Copia le script in le plica "script" de OmegaT, id es le plica continente source.txt etc. (Le scripts in principio pote ser ubicate ubicunque, ma debe alora esser redigite con addition del percurso al files script.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -60885,8 +60885,8 @@ plica currente.</seg>
       <tuv lang="EN">
         <seg>The example scripts provided &lt;a0&gt;here&lt;/a0&gt; all launch a window, but scripts that carry out functions in the background are quite conceivable.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130611T063253Z">
-        <seg>Le scripts exemplo supplite &lt;a0&gt;hic&lt;/a0&gt; lancea omnes un fenestra, ma es assatis concipibile scripts que exeque functiones in le fundo .</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T220909Z">
+        <seg>Le scripts exemplo supplite &lt;a0&gt;hic&lt;/a0&gt; lancea totos un fenestra, ma es anque concipibile scripts que exeque functiones in le fundo .</seg>
       </tuv>
     </tu>
     <tu>
