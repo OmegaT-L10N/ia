@@ -2760,8 +2760,8 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       <tuv lang="EN">
         <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T214856Z">
-        <seg>(Le tokenizer pote esser usate con le versiones 2.0.x e 2.1.0, ma isto necessita ambe un differente version del tokenizer, e un differente procedura de installation.) Le usatores es avisate pro promover al ultime version beta de OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T222236Z">
+        <seg>(Le tokenizer pote esser usate con le versiones 2.0.x e 2.1.0, ma isto necessita ambe un differente version del tokenizer, e un differente procedura de installation.) Le usatores es consiliate de promover al ultime version beta de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20620,8 +20620,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130605T174109Z">
-        <seg>Avante que tu usa le tokenizer con OmegaT, tu debe in prime loco assecurar te que tu version de OmegaT es convenibile e preparate pro le uso con illo.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T222206Z">
+        <seg>Ante que tu usa le tokenizer con OmegaT, tu debe in prime loco assecurar te que tu version de OmegaT es convenibile e preparate pro le uso con illo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59719,8 +59719,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The OmegaT tokenizer is a plugin for OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T122015Z">
-        <seg>Le tokenizer de OmegaT es un  plugin pro OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T222051Z">
+        <seg>Le tokenizer de OmegaT es un plugin pro OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65793,8 +65793,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is likely to be a little too technical for complete newcomers to programming, but after working through one of the online tutorials, they should find it useful.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T121251Z">
-        <seg>Isto es probabilemente un pauc troppo technic pro neophytos complete al programmation, ma post laborante al transverso de un del parve instructiones in Internet, illes deberea trovar lo utile.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T221903Z">
+        <seg>Isto es probabilemente un pauc troppo technic pro neophytos complete al programmation, ma post laborante a transverso de un del parve instructiones in Internet, illes deberea trovar lo utile.</seg>
       </tuv>
     </tu>
     <tu>
