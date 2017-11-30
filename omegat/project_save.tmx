@@ -2466,8 +2466,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="EN">
         <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T121251Z">
-        <seg>(Non confunder iste plica con le plica "dictionary" in le projectos de OmegaT.) Deinde selige le URL (adresse de un sito web) de un deposito in Internet ex le qual discargar le dictionarios, e colla iste URL in le campo "URL de dictionarios in Internet".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T214207Z">
+        <seg>(Non confunder iste plica con le plica "dictionary" in le projectos de OmegaT.) Deinde selige le URL (adresse de un sito web) de un repositorio in Internet ex le qual discargar le dictionarios, e colla iste URL in le campo "URL de dictionarios in Internet".</seg>
       </tuv>
     </tu>
     <tu>
@@ -16026,8 +16026,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="EN">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T073508Z">
-        <seg>Un lista de URLs de depositos is fornite in basso.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T214306Z">
+        <seg>Un lista de URLs de depositos is fornite plus avante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37467,8 +37467,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In the Options &gt; Spell Checking dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T073749Z">
-        <seg>In le fenestra de dialogo Optiones &gt; Controlo orthographic, selige o crea un plica /dictionarios sur tu disco dur.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T214543Z">
+        <seg>in le fenestra de dialogo Optiones &gt; Preferences &gt; Spellchecker, selige o crea un Plica del files dictionarios sur tu disco dur.</seg>
       </tuv>
     </tu>
     <tu>
