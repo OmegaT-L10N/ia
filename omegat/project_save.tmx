@@ -24768,6 +24768,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding or following segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T212614Z" creationid="Karm46" creationdate="20171130T212614Z">
+        <seg>Le creation de un "traduction alternative" pro isto conta super segmentos identic que ha differente segmento precedente o sequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130818T170826Z">
