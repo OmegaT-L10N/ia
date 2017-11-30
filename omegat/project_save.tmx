@@ -35723,8 +35723,8 @@ es usar Java Web Start..</seg>
       <tuv lang="EN">
         <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171129T184638Z" creationid="Karm46" creationdate="20171129T184638Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Si tu haber ja traducite un instantia de un non-unique segmento e vole pro fabricar un differente instantia del non-unique segmento le jam arrangiate traduction for de changing le traduction del instantia tu haber ja traducite, tu debe in prime loco definite le character del segmento tu haber ja traducite pro "alternative traduction" usante "Crea Alternative Traduction".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T211232Z" creationid="Karm46" creationdate="20171129T184638Z">
+        <seg>Si tu ha jam traducite un instantia de un segmento non-unic e tu vole render "traduction base" un altere instantia, sin cambiar le traduction del instantia que tu ha ja traducite, tu debe in prime loco definir le character del segmento que tu ha ja traducite como "traduction alternative" per "Crear un traduction alternative".</seg>
       </tuv>
     </tu>
     <tu>
