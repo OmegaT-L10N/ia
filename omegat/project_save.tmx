@@ -20716,8 +20716,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Besides being available from the repositories above, spelling dictionaries are available as part of LibreOffice and OpenOffice.org installations.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T080935Z">
-        <seg>In ultra a esser disponibile ex le precedente depositos, dictionarios orthographic es disponibile como parte del  installationes de LibreOffice de OpenOffice.org.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T214621Z">
+        <seg>In ultra a esser disponibile ex le precedente repositorios, le dictionarios orthographic es disponibile como parte del installationes de LibreOffice de OpenOffice.org.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41397,6 +41397,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T074411Z">
         <seg>LibreOffice e le versiones plus recente de OpenOffice.org ora usa le formato de "extensiones" pro iste dictionarios, in le qual le files es supplite in un archivo zip con extension .oxt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171130T214748Z" creationid="Karm46" creationdate="20171130T214748Z">
+        <seg>LibreOffice e altere versiones plus recente de OpenOffice.org ora usa le formato "extensiones" pro iste dictionarios, in le qual le files es supplite in un archivo zip con le extension .oxt.</seg>
       </tuv>
     </tu>
     <tu>
