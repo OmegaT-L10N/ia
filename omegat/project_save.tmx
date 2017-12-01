@@ -22000,8 +22000,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130821T101253Z">
-        <seg>Cambiar iste bandiera non modifica le segmentation del memorias de traduction jam existente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T133632Z">
+        <seg>Cambiar iste flag non modifica le segmentation del memorias de traduction jam existente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34042,8 +34042,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140228T191913Z" creationid="MELO46" creationdate="20140106T202520Z">
-        <seg>Si pro un segmento fonte date Il non ha adhuc traduction existente in le memoria de traduction del projecto  (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quam traduction base.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T133545Z" creationid="MELO46" creationdate="20140106T202520Z">
+        <seg>Si pro un segmento fonte date, il non ha adhuc traduction existente in le memoria de traduction del projecto  (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quam traduction base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48872,8 +48872,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>PO files&lt;i0/&gt; can contain both the source and the target text.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T143842Z">
-        <seg>Le files PO&lt;i0/&gt; pote continer ambe le textos fonte e final.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T133504Z">
+        <seg>Le files PO&lt;i0/&gt; pote continer ambe le textos fonte e de destination.</seg>
       </tuv>
     </tu>
     <tu>
