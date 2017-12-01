@@ -30884,8 +30884,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="EN">
         <seg>For instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will launch OmegaT with 2 gigas of memory.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20160805T131938Z" creationid="Melo46" creationdate="20160805T131938Z">
-        <seg>Pro instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will lanceamento OmegaT con le 2 gigas del memoria.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T132542Z" creationid="Melo46" creationdate="20160805T131938Z">
+        <seg>Per exemplo, &lt;string&gt;-Xmx2048M&lt;/string&gt; lanceara OmegaT con le 2 GB de memoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67489,14 +67489,6 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T124002Z">
         <seg>Pro lancear occurrentias multiple de &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, clicca duo vices le file &lt;e2&gt;JavaApplicationStub&lt;/e2&gt; ubicate in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150423T220400Z" creationid="Melo46" creationdate="20150423T220400Z">
-        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
