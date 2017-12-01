@@ -7744,8 +7744,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T224154Z">
-        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; le operation que crea un copia functionante ex le deposito in tu computator local.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154642Z">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; le operation que crea un copia functionante ex le repositorio, in tu computator local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7760,8 +7760,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T224113Z">
-        <seg>&lt;e0&gt;commit: &lt;/e0&gt;un vice que un nove version local  del material discargate es preste, on pote lo consignar al deposito e assi lo render disponibile al resto del equipa</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154808Z">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;un vice que un nove version local  del material discargate es preste, on pote lo consignar al repositorio e assi lo render disponibile al resto del equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -62985,16 +62985,16 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T144140Z">
-        <seg>Le server retene le informationes discargate durante le discarga, de maniera que plus tarde le consigna (vide in infra) pote esser exequite in un maniera ordinate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154757Z">
+        <seg>Le servitor retene le informationes discargate durante le discarga, de maniera que plus tarde le consignas (vide in infra) pote esser exequite in un maniera ordinate.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T065013Z">
-        <seg>Le server assecura se que omne cambios que conflige, per duo membros que opera sur le mesme contentos discargate, essera resolute.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154944Z">
+        <seg>Le servitor se assecura que tote le cambios que conflige, per duo membros que opera sur le mesme contentos discargate, essera resolute.</seg>
       </tuv>
     </tu>
     <tu>
