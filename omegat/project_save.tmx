@@ -7728,8 +7728,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130514T144823Z">
-        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;le persona responsabile del creation e del mantenimento del deposito, id es le cura del labor del latere del server.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155003Z">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;le persona responsabile del creation e del mantenimento del deposito, id es le cura del labor del latere del servitor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55261,8 +55261,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Sharing a project using SVN</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130221T231245Z">
-        <seg>Participar a un projecto usante SVN</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155034Z">
+        <seg>Participar a un projecto per SVN</seg>
       </tuv>
     </tu>
     <tu>
@@ -64141,8 +64141,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>There are two possibilities to run an SVN server: you can install SVN on your own server or you can use a hosted service.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T063345Z">
-        <seg>Il ha duo possibilitates pro exequer un server SVN: tu pote install SVN sur tu proprie server o tu pote usar un servicio hospite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155230Z">
+        <seg>Il ha duo possibilitates pro facer fluer un servitor de SVN: tu pote installar SVN sur tu proprie servitor o tu pote usar un servicio sur un hospite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66941,8 +66941,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To avoid any problems, one person only should have these rights at least initially.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130708T155906Z">
-        <seg>Pro evitar omne problemas, sol un persona  deberea haber iste privilegios al minus initialmente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155027Z">
+        <seg>Pro evitar omne problemas, sol un persona  deberea haber iste privilegios, al minus initialmente.</seg>
       </tuv>
     </tu>
     <tu>
