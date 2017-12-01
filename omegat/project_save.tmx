@@ -39692,8 +39692,8 @@ interne al plica de configuration.</seg>
       <tuv lang="EN">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130816T232425Z">
-        <seg>Illo committera in prime loco le contentos currente al deposito del server e pois renovate le copia local  del deposito - id es le contentos del sub plica .svn - de maniera que illo es renovate con le ultime version del deposito.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163101Z">
+        <seg>Illo committera in prime loco le contentos currente al repositorio del servitor e pois actualisara le copia local del repositorio - id es le contentos del sub plica .svn - de maniera que illo es actualisate con le ultime version del repositorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65645,8 +65645,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140701T123537Z" creationid="MELO46" creationdate="20140701T123537Z">
-        <seg>Hic es un deposito Git.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163210Z" creationid="MELO46" creationdate="20140701T123537Z">
+        <seg>Isto es un deposito Git.</seg>
       </tuv>
     </tu>
     <tu>
