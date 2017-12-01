@@ -33444,8 +33444,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>ISO 639-1/639-2 Language code list</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130216T001403Z">
-        <seg>Lista del codices del linguas ISO 639-1/639-2</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T130524Z">
+        <seg>Lista del codices de linguas ISO 639-1/639-2</seg>
       </tuv>
     </tu>
     <tu>
@@ -39061,8 +39061,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130217T000850Z">
-        <seg>Illo non comprende le controlo orthographic.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T130821Z">
+        <seg>Illo non include le controlo orthographic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62739,8 +62739,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
-        <seg>Le regulas applicate (si ulle) dependera ex le lingua fonte e final del projecto.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T130856Z">
+        <seg>Le regulas applicate (si ulle) dependera ex le lingua fonte e de destination del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73897,8 +73897,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130217T000619Z">
-        <seg>On pote pensar de LanguageTool como un  software pro deteger errores que un simplice corrector orthographic non pote discoperir , e.g. confunder there/their, no/now etc.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T130715Z">
+        <seg>On pote pensar de LanguageTool como un  software pro deteger errores que un simplice corrector orthographic non pote discoperir, e.g. confunder there/their, no/now etc.</seg>
       </tuv>
     </tu>
     <tu>
