@@ -45788,6 +45788,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T132841Z" creationid="Karm46" creationdate="20171201T132841Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT + You</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T065214Z">
@@ -51130,6 +51138,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T172013Z" creationid="ia" creationdate="20170909T172013Z">
         <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RELAX NG schema for XML (*.rng)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T132948Z" creationid="Karm46" creationdate="20171201T132948Z">
+        <seg>Schema RELAX NG pro XML (*.rng)</seg>
       </tuv>
     </tu>
     <tu>
