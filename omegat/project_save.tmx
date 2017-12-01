@@ -14592,6 +14592,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T235847Z" creationid="Karm46" creationdate="20171201T235639Z">
+        <seg>&lt;p0&gt;Files fonte&lt;/p0&gt; &lt;s1&gt;Files PDF&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130403T174232Z">
@@ -14844,6 +14852,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T192455Z">
         <seg>&lt;p0&gt;Files de destination&lt;/p0&gt; &lt;s1&gt;Altere formatos del files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T235729Z" creationid="Karm46" creationdate="20171201T235617Z">
+        <seg>&lt;p0&gt;Files de destination&lt;/p0&gt; &lt;s1&gt;Files de texto PDF&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48649,6 +48665,22 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T082840Z">
         <seg>Input PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T235910Z" creationid="Karm46" creationdate="20171201T235910Z">
+        <seg>Files PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T235938Z" creationid="Karm46" creationdate="20171201T235938Z">
+        <seg>Le files PDF es un caso particular.</seg>
       </tuv>
     </tu>
     <tu>
