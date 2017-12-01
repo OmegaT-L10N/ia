@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -45966,8 +45966,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150423T114733Z" creationid="Melo46" creationdate="20150423T114733Z">
-        <seg>OmegaT permitte le execution del scripts in differente linguas.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T234221Z" creationid="Melo46" creationdate="20150423T114733Z">
+        <seg>OmegaT permitte le execution del scripts in plure linguages de script.</seg>
       </tuv>
     </tu>
     <tu>
