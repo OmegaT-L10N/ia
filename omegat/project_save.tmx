@@ -14866,8 +14866,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130701T065300Z">
-        <seg>&lt;p0&gt;Projectos de Equipa&lt;/p0&gt; &lt;s1&gt;Crear un deposito SVN&lt;/s1&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T160356Z">
+        <seg>&lt;p0&gt;Projectos de Equipa&lt;/p0&gt; &lt;s1&gt;Crear un repositorio SVN&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24776,8 +24776,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creating a repository</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T224635Z">
-        <seg>Crear un deposito</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T160407Z">
+        <seg>Crear un repositorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -47431,8 +47431,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T155428Z">
-        <seg>Un vice que le servitor SVN is disponibile, le administratores del projecto debe installar localmente un client SVN, pro gerer le projecto contentos sur lor computatores.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T160347Z">
+        <seg>Un vice que le servitor SVN es disponibile, le administratores del projecto debe installar localmente un client SVN, pro gerer le contentos del projecto sur lor computatores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62457,8 +62457,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T155428Z">
-        <seg>Le procedura presentate ci fide sur le servitor SVN gratuite (limitate a 2 usatores) offerite per &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T160444Z">
+        <seg>Le procedura ci presentate fide sur le servitor SVN gratuite (limitate a 2 usatores) offerite per &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
