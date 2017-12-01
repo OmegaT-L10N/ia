@@ -7090,8 +7090,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073235Z">
-        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor a le comenciamento del segmento active</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122003Z">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor al comenciamento del segmento active</seg>
       </tuv>
     </tu>
     <tu>
@@ -20364,8 +20364,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130215T235837Z">
-        <seg>Spatio a retro*</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122113Z">
+        <seg>Spatio retro*</seg>
       </tuv>
     </tu>
     <tu>
@@ -24914,8 +24914,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Backspace</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130215T235937Z">
-        <seg>Ctrl+Spatio a retro</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122209Z">
+        <seg>Ctrl+Spatio retro</seg>
       </tuv>
     </tu>
     <tu>
@@ -24946,8 +24946,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Delete</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130309T131710Z">
-        <seg>Ctrl+Canc</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122259Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Ctrl+Canc</seg>
       </tuv>
     </tu>
     <tu>
@@ -43659,24 +43659,24 @@ position appropriate como le plica Applicationes.</seg>
       <tuv lang="EN">
         <seg>Moves the editing field to the next segment that is not registered in the project's translation memory</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102209Z">
-        <seg>Move le campo pro editar a le prime segmento sequente que non es dum registrate in le memoria de traduction del projecto</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122003Z">
+        <seg>Move le campo pro editar al prime segmento sequente que non es dum registrate in le memoria de traduction del projecto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves the editing field to the next segment.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102210Z">
-        <seg>Move le campo pro editar a le segmento sequente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122003Z">
+        <seg>Move le campo pro editar al segmento sequente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves the editing field to the previous segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102211Z">
-        <seg>Move le campo pro editar a le previe segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122003Z">
+        <seg>Move le campo pro editar al previe segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -43715,8 +43715,8 @@ position appropriate como le plica Applicationes.</seg>
       <tuv lang="EN">
         <seg>Moves to the segment number entered</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T102212Z">
-        <seg>Move a le segmento del numero inscribite ...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122003Z">
+        <seg>Move al segmento del numero inscribite ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -84617,8 +84617,8 @@ a</seg>
       <tuv lang="EN">
         <seg>move to the beginning of the line in the segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T121941Z">
-        <seg>mover a le initio del riga in le segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122003Z">
+        <seg>mover al initio del riga in le segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -84633,8 +84633,8 @@ a</seg>
       <tuv lang="EN">
         <seg>move to the end of the line in the segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T073101Z">
-        <seg>mover a le fin del linea in le segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122029Z">
+        <seg>mover al fin del riga in le segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -87321,32 +87321,32 @@ a</seg>
       <tuv lang="EN">
         <seg>remove char after cursor</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064404Z">
-        <seg>levar le character post le cursor</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122156Z">
+        <seg>remove le character post le cursor</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove char before cursor</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064349Z">
-        <seg>levar le character ante le cursor</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122135Z">
+        <seg>remove le character ante le cursor</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064433Z">
-        <seg>levar le characteres usque a le initio del parola sequente (Mac: &lt;e0&gt;Alt+Canc&lt;/e0&gt;)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T122003Z">
+        <seg>levar le characteres usque al initio del parola sequente (Mac: &lt;e0&gt;Alt+Canc&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064420Z">
-        <seg>levar le characteres usque al Initio del parola currente (Mac: Alt+Backspace)&lt;e0&gt;&lt;/e0&gt;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T125218Z">
+        <seg>remove le characteres usque al initio del parola currente (Mac: Alt+Spatio retro)&lt;e0&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
