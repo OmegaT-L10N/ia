@@ -7720,8 +7720,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T185315Z">
-        <seg>&lt;e0&gt;adde le files copiate al version local del deposito:&lt;/e0&gt; clicca con le dextero sur le plica checkout local e selige &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In le fenestra de dialogo que se displica, lassa omne optiones ut jam arrangiate e clicca&lt;g2&gt; OK&lt;/g2&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T162732Z">
+        <seg>&lt;e0&gt;adde le files copiate al version local del repositorio:&lt;/e0&gt; clicca con le dextero sur le plica checkout local e selige &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In le fenestra de dialogo que se displica, lassa omne optiones como jam predisponite e clicca&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7752,8 +7752,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T185548Z">
-        <seg>&lt;e0&gt;commit le cambios local al server: &lt;/e0&gt;clicca con le dextero sur le plica del checkout local e selige &lt;g1&gt;SVN Commit....&lt;/g1&gt; Le fenestra de Commit - se displica, vide in sequito.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T162921Z">
+        <seg>&lt;e0&gt;committer le cambios local al server: &lt;/e0&gt;clicca con le dextero sur le plica del checkout local e selige &lt;g1&gt;SVN Commit....&lt;/g1&gt; Le fenestra de Commit - se displica, vide in sequito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91586,8 +91586,8 @@ a</seg>
       <tuv lang="EN">
         <seg>window, similar to the one below will appear:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130818T150801Z">
-        <seg>un fenestra, simile  a illo sequente apparera:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T162836Z">
+        <seg>un fenestra, simile a illo sequente apparera:</seg>
       </tuv>
     </tu>
     <tu>
