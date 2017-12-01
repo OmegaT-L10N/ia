@@ -22408,8 +22408,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130816T232849Z">
-        <seg>Controla le contentos del plica pro confirmar que le copia local del deposito e le files e plicas correspondente corresponde al ultime version del server:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163949Z">
+        <seg>Controla le contentos del plica pro confirmar que le copia local del repositorio e le files e plicas correspondente corresponde al ultime version del servitor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24560,8 +24560,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130822T081336Z">
-        <seg>Crear un plica (un "plica deposito") in un position commode sur tu disco dur pro le memorias de traduction re un cliente o subjecto particular.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164034Z">
+        <seg>Crear un plica (un "plica repositorio") in un position commode sur tu disco dur pro le memorias de traduction re un cliente o subjecto particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44766,8 +44766,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
-        <seg>Nota que tote le files TMX in le deposito /tm son analysate quando le projecto es aperte, assi tu, ponente tote le varie TMs que tu pote haber per manos in iste plica, pote inutilemente retardar OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164154Z">
+        <seg>Nota que tote le files TMX in le repositorio /tm es analysate quando le projecto es aperite, assi tu, ponente tote le varie TMs que tu pote haber per manos in iste plica, pote inutilemente retardar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71829,8 +71829,8 @@ price.</seg>
       <tuv lang="EN">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130822T082047Z">
-        <seg>Quando tu initia un nove projecto re le mesme subjecto o pro le mesme cliente, naviga al plica deposito in le &lt;g0&gt;fenestra de dialogo Projecto &gt; Proprietates &gt; Modifica Projecto &lt;/g0&gt; e selige lo como le plica del memoria de traduction.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164103Z">
+        <seg>Quando tu initia un nove projecto re le mesme subjecto o pro le mesme cliente, naviga al plica repositorio in le &lt;g0&gt;fenestra de dialogo Projecto &gt; Proprietates &gt; Modifica Projecto &lt;/g0&gt; e selige lo como le plica del memoria de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71997,8 +71997,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130822T081558Z">
-        <seg>Quandocunque tu fini un projecto, copia uno del tres files memoria de traduction "exportation" ex le plica radice del projecto al plica deposito.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164045Z">
+        <seg>Quandocunque tu fini un projecto, copia uno del tres files memoria de traduction "exportation" ex le plica radice del projecto al plica repositorio.</seg>
       </tuv>
     </tu>
     <tu>
