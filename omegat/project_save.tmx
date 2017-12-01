@@ -31160,8 +31160,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130818T150116Z">
-        <seg>Pro le exemplo monstrate ci nos decideva pro le projecto OmegaT uno - un sol deposito pro le rationes de simplicitate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T161628Z">
+        <seg>Pro le exemplo monstrate ci nos decideva pro le projecto OmegaT - un sol repositorio pro rationes de simplicitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36679,8 +36679,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Importing the project to SVN repository - Windows</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130816T110814Z">
-        <seg>Como importar le projecto al deposito SVN - Windows</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T161742Z">
+        <seg>Como importar le projecto al repositorio SVN - Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -60087,8 +60087,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130818T145846Z">
-        <seg>Le alternativa es haber un singule deposito con sub plicas&lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., e le material commun via plicas &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; e &lt;l4&gt;dictionary&lt;/l4&gt; commun.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T161526Z">
+        <seg>Le alternativa es haber un singule repositorio con sub plicas&lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., e le material commun via plicas &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; e &lt;l4&gt;dictionary&lt;/l4&gt; commun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72559,8 +72559,8 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       <tuv lang="EN">
         <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130817T104504Z">
-        <seg>Intra un par de lingua date il es optime servar subjectos vel clientes differente como depositos separate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T161452Z">
+        <seg>Intra un par de lingua date il es optime servar subjectos vel clientes differente como repositorios separate.</seg>
       </tuv>
     </tu>
     <tu>
