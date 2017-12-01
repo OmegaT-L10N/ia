@@ -7728,8 +7728,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T155003Z">
-        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;le persona responsabile del creation e del mantenimento del deposito, id es le cura del labor del latere del servitor.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163734Z">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;le persona responsabile del creation e del mantenimento del repositorio, id es le cura del labor del latere del servitor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,8 +7840,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130818T150707Z">
-        <seg>&lt;e0&gt;renova le files local ex le copia local del deposito&lt;/e0&gt; - le cambios recipite del deposito del server demora intra le sub plica .svn ma non ancora in le files e plicas ipse.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163929Z">
+        <seg>&lt;e0&gt;actualisa le files local ex le copia local del repositorio&lt;/e0&gt; - le cambios recipite del repositorio del servitor resta intra le sub plica .svn ma non ancora in le files e plicas ipse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17286,8 +17286,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T162409Z">
-        <seg>Post copiate le files necessari in le plica checkout, tu remarcara que su icone cambiava: le placa OK verde cambiava a un signo de exclamation rubre, signo del cambiamento in le copia local del deposito.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163805Z">
+        <seg>Post copiate le files necessari in le plica checkout, tu remarcara que su icone cambiava: le placa OK verde cambiava a un signo de exclamation rubre, signo del cambiamento in le copia local del repositorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44926,8 +44926,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T160944Z">
-        <seg>Nota: le creator del deposito ha implicitemente le privilegios de administrator pro le repositorio create.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163751Z">
+        <seg>Nota: le creator del repositorio ha implicitemente le privilegios de administrator pro le repositorio create.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65645,16 +65645,16 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T163210Z" creationid="MELO46" creationdate="20140701T123537Z">
-        <seg>Isto es un deposito Git.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163659Z" creationid="MELO46" creationdate="20140701T123537Z">
+        <seg>Isto es un repositorio Git.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T163224Z" creationid="MELO46" creationdate="20140701T123600Z">
-        <seg>Isto es un deposito Subversion.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T163718Z" creationid="MELO46" creationdate="20140701T123600Z">
+        <seg>Isto es un repositorio Subversion.</seg>
       </tuv>
     </tu>
     <tu>
