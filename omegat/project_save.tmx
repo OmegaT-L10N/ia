@@ -2496,8 +2496,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="EN">
         <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130610T152129Z">
-        <seg>(Discargar ex le ligamines fornite; le usatores de Linux pote preferer de installar lo ex lor depositos del distribution, ubi isto es possibile.)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164318Z">
+        <seg>(Discargar ex le ligamines fornite; le usatores de Linux pote preferer de installar lo ex lor repositorios de distribution, ubi isto es possibile.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16056,8 +16056,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="EN">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171130T214306Z">
-        <seg>Un lista de URLs de depositos is fornite plus avante.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164329Z">
+        <seg>Un lista de URLs de repositorios is fornite plus avante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34618,8 +34618,8 @@ to choose that version for the Program.</seg>
       <tuv lang="EN">
         <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130530T203335Z">
-        <seg>Si le cambios del correctores debe esser includite in un deposito pro memoria de traduction mantenite per le cliente, necessita facer le cambios &lt;i0&gt;ante que&lt;/i0&gt; le documentos final es create.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164229Z">
+        <seg>Si le cambios del correctores debe esser includite in un repositorio pro memoria de traduction mantenite per le cliente, necessita facer le cambios &lt;i0&gt;ante que&lt;/i0&gt; le documentos final es create.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49192,8 +49192,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140630T220700Z" creationid="MELO46" creationdate="20140630T220523Z">
-        <seg>Exeque le reparation de SVN sur le projecto actual o qualcunque deposito local de SVN</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164404Z" creationid="MELO46" creationdate="20140630T220523Z">
+        <seg>Exeque le reparation de SVN sur le projecto actual o qualcunque repositorio local de SVN</seg>
       </tuv>
     </tu>
     <tu>
@@ -69055,8 +69055,8 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       <tuv lang="EN">
         <seg>URLs of repositories of spelling dictionaries:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130526T073540Z">
-        <seg>URLs de depositos de dictionarios orthographic:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T164340Z">
+        <seg>URLs de repositorios de dictionarios orthographic:</seg>
       </tuv>
     </tu>
     <tu>
