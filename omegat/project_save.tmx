@@ -18100,8 +18100,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T184033Z">
-        <seg>Alias, pro evitar iste question tu pote preparar un server SVN private, per exemplo si tu ja ha un server Apache que include le software in question (per exemplo VisualSVN).</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155335Z">
+        <seg>Alias, pro evitar iste question tu pote preparar un servitor de SVN private, per exemplo si tu ja ha un servitor Apache que include le software in question (per exemplo VisualSVN).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47431,8 +47431,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131227T224439Z">
-        <seg>Un vice que le server SVN is disponibile, le administratores del projecto debe installar localmente un client SVN, pro gerer le projecto contentos sur lor computatores.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155428Z">
+        <seg>Un vice que le servitor SVN is disponibile, le administratores del projecto debe installar localmente un client SVN, pro gerer le projecto contentos sur lor computatores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59983,8 +59983,8 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T184514Z">
-        <seg>Le URL monstrate sub Servicios de Projecto essera usate per SVN pro connecter le clientes al server SVN que tu ha justo establite.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155428Z">
+        <seg>Le URL monstrate sub Servicios de Projecto essera usate per SVN pro connecter le clientes al servitor SVN que tu ha justo establite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62457,8 +62457,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130627T161354Z">
-        <seg>Le procedura presentate ci fide sur le server SVN gratuite (limitate a 2 usatores) offerite per &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155428Z">
+        <seg>Le procedura presentate ci fide sur le servitor SVN gratuite (limitate a 2 usatores) offerite per &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71755,8 +71755,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130815T071140Z">
-        <seg>Quando tu usa un servicio externe tu debe esser al currente del implicationes possibile in terminos de confidentialitate, depois que tu es cargante le documento original sur un server for de tu controlo directe.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T155253Z">
+        <seg>Quando tu usa un servicio externe tu debe esser al currente del implicationes possibile in terminos de confidentialitate, pois que tu es cargante le documento original sur un servitor for de tu controlo directe.</seg>
       </tuv>
     </tu>
     <tu>
