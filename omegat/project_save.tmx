@@ -32867,8 +32867,8 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       <tuv lang="EN">
         <seg>Home*</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094353Z">
-        <seg>A domo</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121906Z">
+        <seg>A casa*</seg>
       </tuv>
     </tu>
     <tu>
@@ -84617,8 +84617,8 @@ a</seg>
       <tuv lang="EN">
         <seg>move to the beginning of the line in the segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064259Z">
-        <seg>mover a le initio del linea in le segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121941Z">
+        <seg>mover a le initio del riga in le segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -85425,24 +85425,24 @@ a</seg>
       <tuv lang="EN">
         <seg>one char right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064158Z">
-        <seg>un character a dextra, salvo non plus que le fin del segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121723Z">
+        <seg>un character a dextra, salvo non ultra le fin del segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one word left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064215Z">
-        <seg>un parola a sinistra, salvo non plus que le initio del segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121734Z">
+        <seg>un parola a sinistra, salvo non ultra le initio del segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one word right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064246Z">
-        <seg>un parola a Dextra, salvo non plus que le fin del segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121800Z">
+        <seg>un parola a Dextra, salvo non ultra le fin del segmento</seg>
       </tuv>
     </tu>
     <tu>
