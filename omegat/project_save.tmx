@@ -25642,8 +25642,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T125335Z">
-        <seg>Via breve initial</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T131525Z">
+        <seg>Via breve base</seg>
       </tuv>
     </tu>
     <tu>
@@ -42997,16 +42997,16 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130319T125310Z">
-        <seg>Menu Commando</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T131510Z">
+        <seg>Commando de menu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Menu Item Code</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130628T055025Z">
-        <seg>Codice Commando del Menu</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T131545Z">
+        <seg>Codice de commando del Menu</seg>
       </tuv>
     </tu>
     <tu>
