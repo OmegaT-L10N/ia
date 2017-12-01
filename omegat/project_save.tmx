@@ -7608,8 +7608,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T155853Z">
-        <seg>&lt;e0&gt;Le server VCS - &lt;/e0&gt;id es le server SVN o le GIT es le ambiente ubi le material commun es conservate e mantenite sur le rete.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154243Z">
+        <seg>&lt;e0&gt;Le servitor de VCS - &lt;/e0&gt;id es le servitor de SVN o de GIT, es le ambiente ubi le material commun es conservate e mantenite sur le rete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28848,8 +28848,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T155342Z">
-        <seg>Tote le tres minutas, per arrangiamento initial, un  version renovate del datos in commun es disponibile al resto del equipa</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154108Z">
+        <seg>Tote le tres minutas, per preparation initial, un  version renovate del datos in commun es disponibile al resto del equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -55253,8 +55253,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130403T154901Z">
-        <seg>Plure membros del equipa pote operar re le projecto de traduction simultaneemente sin interferentia le un con le altere</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154040Z">
+        <seg>Plure membros del equipa pote operar al projecto de traduction simultaneemente, sin interferentia le un con le altere</seg>
       </tuv>
     </tu>
     <tu>
@@ -62977,8 +62977,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T121251Z">
-        <seg>Le server pote exister in le rete local, ma in le majoritate del casos illo essera disponibile sur Internet, id es via un adresse URL.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154309Z">
+        <seg>Le servitor pote exister in le rete local, ma in le majoritate del casos illo essera disponibile sur Internet, id es via un adresse URL.</seg>
       </tuv>
     </tu>
     <tu>
