@@ -17980,8 +17980,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T125351Z">
-        <seg>Etiam &lt;f3&gt;ignored_words.txt&lt;/f3&gt; e &lt;f4&gt;learned_words.txt&lt;/f4&gt; in le plica &lt;f5&gt;omegat&lt;/f5&gt; poter esser conveniente participar e mantener al nivello del equipa.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T162223Z">
+        <seg>Etiam &lt;f3&gt;ignored_words.txt&lt;/f3&gt; e &lt;f4&gt;learned_words.txt&lt;/f4&gt; in le plica &lt;f5&gt;omegat&lt;/f5&gt; poter esser conveniente compartir e mantener a nivello de equipa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20282,8 +20282,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130819T160902Z">
-        <seg>Evitar in omne caso de adder files &lt;f6&gt;bak&lt;/f6&gt;, &lt;f7&gt;project_stats.txt&lt;/f7&gt; e &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in le sub plica &lt;f9&gt;omegat&lt;/f9&gt;, pois que facerea los sin alicun necessitate ni profito justo infla le deposito.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T162258Z">
+        <seg>Evitar in omne caso de adder files &lt;f6&gt;bak&lt;/f6&gt;, &lt;f7&gt;project_stats.txt&lt;/f7&gt; e &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in le sub plica &lt;f9&gt;omegat&lt;/f9&gt;, pois que facerea los, sin alicun necessitate ni profito, justo inflar le repositorio.</seg>
       </tuv>
     </tu>
     <tu>
