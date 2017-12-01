@@ -7600,8 +7600,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140227T184357Z">
-        <seg>&lt;e0&gt;Le cliente VCS: &lt;/e0&gt;Pro tu interfacie con le server debe esser installate un cliente SVN o Git sur le computatores del "administratores del projecto" implicate in le projecto OmegaT.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154544Z">
+        <seg>&lt;e0&gt;Le cliente VCS: &lt;/e0&gt;Pro tu interfacie con le servitor debe esser installate un cliente de SVN o de Git sur le computatores del "administratores del projecto" implicate in le projecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7808,8 +7808,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T121251Z">
-        <seg>&lt;e0&gt;repository: &lt;/e0&gt;le posto ubi le material in commun es salvate e mantenite, sia sur un rete a accesso local sia in Internet.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154628Z">
+        <seg>&lt;e0&gt;repositorio: &lt;/e0&gt;le loco ubi le material in commun es salvate e mantenite, sia sur un rete a accesso local sia in Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47583,8 +47583,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T135141Z">
-        <seg>Un membro del equipa, le administrator del projecto, necessita cognoscer le tractamento del latere del server, id es le labor re le preparation del ambiente, como importar le projecto OmegaT, como assignar le derecto de accesso pro e membros del equipa, como resolver le conflictos et cetera.&lt;t13/&gt;.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T154450Z">
+        <seg>Un membro del equipa, le administrator del projecto, besonia de cognoscer le tractamento del latere del servitor, id es le labor re le preparation del ambiente, como importar le projecto OmegaT, como assignar le derecto de accesso pro le membros del equipa, como resolver le conflictos et cetera.&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
