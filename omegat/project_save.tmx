@@ -41299,8 +41299,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094348Z">
-        <seg>Sinistre:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121628Z">
+        <seg>Sinistra:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63327,8 +63327,8 @@ use, which is precisely where it is most unacceptable.</seg>
       <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20140107T133017Z">
-        <seg>Le termino "mover se a le interior del segmento" significa, que le cursor se move al initio del segmento si illo esseva anterior al segmento, e al fin del segmento si illo esseva posterior.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121620Z">
+        <seg>Le termino "Mover al interno del segmento" significa, que le cursor se move al initio del segmento si illo esseva locate ante le segmento, e al fin del segmento si illo esseva postea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85417,8 +85417,8 @@ a</seg>
       <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20150423T064146Z">
-        <seg>un character a sinistra, salvo non plus que le initio del segmento</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121657Z">
+        <seg>un character a sinistra, salvo non ultra le initio del segmento</seg>
       </tuv>
     </tu>
     <tu>
