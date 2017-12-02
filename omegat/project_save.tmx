@@ -78418,10 +78418,34 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>compatibility: Compatibility</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125107Z" creationid="Karm46" creationdate="20171202T125107Z">
+        <seg>compatibility: Compatibilitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>compatibility_deja_vu: Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125120Z" creationid="Karm46" creationdate="20171202T125120Z">
+        <seg>compatibility_deja_vu: Guida - OmegaT compatibilitate con Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>compelled to copy the source along with the object code.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T091553Z" creationid="MELO46" creationdate="20140228T091553Z">
         <seg>compelled to copy the source along with the object code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>compiling_from_source: Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125144Z" creationid="Karm46" creationdate="20171202T125144Z">
+        <seg>compiling_from_source: Guida - Compilation de OmegaT ab le codice fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -79286,6 +79310,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T131514Z" creationid="Karm46" creationdate="20171115T125120Z">
         <seg>Compatibilitate con docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docx: Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125238Z" creationid="Karm46" creationdate="20171202T125238Z">
+        <seg>docx: Guida - Traduction files de Microsoft Word 2007 in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -80222,6 +80254,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140112T215223Z">
         <seg>haber experientia de defectos, problemas de apparentia o characteristicas perdite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>export_uncleaned_rtf: Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125533Z" creationid="Karm46" creationdate="20171202T125533Z">
+        <seg>export_uncleaned_rtf: Guida - Exportar ex OmegaT al formato 'RTF non mundate' de Trados</seg>
       </tuv>
     </tu>
     <tu>
@@ -81358,6 +81398,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T235704Z" creationid="Karm46" creationdate="20170909T235704Z">
         <seg>howtos/export_uncleaned_rtf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125048Z" creationid="Karm46" creationdate="20171202T125048Z">
+        <seg>howtos:</seg>
       </tuv>
     </tu>
     <tu>
