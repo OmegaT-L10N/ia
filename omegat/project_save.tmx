@@ -79034,6 +79034,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>description: OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124338Z" creationid="Karm46" creationdate="20171202T124338Z">
+        <seg>description: OmegaT es un programma gratuite pro memoria de traduction, scripte in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>deu</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135304Z">
@@ -80830,6 +80838,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135122Z">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>global:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124352Z" creationid="Karm46" creationdate="20171202T124352Z">
+        <seg>global:</seg>
       </tuv>
     </tu>
     <tu>
@@ -83901,6 +83917,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>languages: Languages</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124417Z" creationid="Karm46" creationdate="20171202T124405Z">
+        <seg>languages: Linguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lao</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140501Z">
@@ -84577,6 +84601,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T150522Z">
         <seg> initio, sur le scriptorio e in le area de lanceamento rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menu:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124343Z" creationid="Karm46" creationdate="20171202T124343Z">
+        <seg>menu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -90331,6 +90363,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T233932Z">
         <seg>tir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>title: OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124305Z" creationid="Karm46" creationdate="20171202T124305Z">
+        <seg>title: OmegaT - le application gratuite pro memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
