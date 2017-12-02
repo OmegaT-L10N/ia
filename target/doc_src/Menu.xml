@@ -889,7 +889,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Processar le tag...</guimenuitem></entry>
+              <entry><guimenuitem>Processo de tag...</guimenuitem></entry>
 
               <entry>Durante le traduction de files relative a software: consenti te configurar le optiones del validator de tags pro controlar alsi le variabiles (%...) de programmation. Il consenti alsi definir plure optiones relative pro le validation de tag e pro definir tags personalisate.</entry>
             </row>
@@ -925,7 +925,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Restaura le fenestra principal</guimenuitem></entry>
+              <entry><guimenuitem>Restaurar le fenestra principal</guimenuitem></entry>
 
               <entry>Restaura le componentes del fenestra principal de OmegaT a lor arrangiamento initial. Usa iste function quando tu ha levate, movite, o celate uno o plus componentes e tu non es habile a restaurar le disposition desiderate. Illo pote alsi esser usate quando le quadros non appare como provise, sequente un promotion de OmegaT.</entry>
             </row>
@@ -1295,7 +1295,7 @@
                   <keycap>U</keycap>
                 </keycombo></entry>
 
-              <entry>Move le campo pro editar a le prime segmento sequente que non es dum registrate in le memoria de traduction del projecto</entry>
+              <entry>Move le campo pro editar al prime segmento sequente que non es dum registrate in le memoria de traduction del projecto</entry>
             </row>
 
             <row>
@@ -1303,7 +1303,7 @@
 
               <entry><keycombo> <keycap>Ctrl</keycap> <keycap>N</keycap> </keycombo>, <keycap>Enter</keycap> o <keycap>Return</keycap></entry>
 
-              <entry>Move le campo pro editar a le segmento sequente</entry>
+              <entry>Move le campo pro editar al segmento sequente</entry>
             </row>
 
             <row>
@@ -1315,7 +1315,7 @@
                   <keycap>P</keycap>
                 </keycombo></entry>
 
-              <entry>Move le campo pro editar a le previe segmento</entry>
+              <entry>Move le campo pro editar al previe segmento</entry>
             </row>
 
             <row>
@@ -1327,7 +1327,7 @@
                   <keycap>J</keycap>
                 </keycombo></entry>
 
-              <entry>Move a le segmento del numero inscribite ...</entry>
+              <entry>Move al segmento del numero inscribite ...</entry>
             </row>
 
             <row>

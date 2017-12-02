@@ -3,7 +3,7 @@
 <chapter id="chapter.file.filters">
   <title>Filtros del file</title>
 
-  <para>OmegaT presenta filtros multo personalisabile, que habilita te a configurar plure aspectos. Le Filtros de File es breve applicationes capabile de:</para>
+  <para>OmegaT presenta filtros multo personalisabile, que te habilita a configurar plure aspectos. Le Filtros de File es breve applicationes capabile de:</para>
 
   <itemizedlist>
     <listitem>
@@ -25,9 +25,9 @@
 
   <para>Pro vider qual formatos de file pote esser tractate per OmegaT, vide le menu <guimenuitem>Optiones &gt; Filtros de File... </guimenuitem></para>
 
-  <para>Le major parte del usatores trovara le optiones initial del filtro bastante. Si non es iste le caso, aperi le fenestra de dialogo principal per seliger<emphasis role="bold"> Optiones → Filtros de File...</emphasis> ex le Menu Principal. Tu pote alsi habilitar filtros de file specific pro le projecto, que essera usate solo sur le projecto actual, per seliger le option <emphasis role="bold">Filtros de File...</emphasis> in le Proprietates del Projecto.</para>
+  <para>Le major parte del usatores trovara le optiones initial del filtro bastante. Si non es iste le caso, aperi le fenestra de dialogo principal per seliger<emphasis role="bold"> Optiones → Filtros de File...</emphasis> ex le Menu Principal. Tu pote alsi activar filtros de file specific pro le projecto, que essera usate solo sur le projecto actual, per seliger le option <emphasis role="bold">Filtros de File...</emphasis> in Proprietates...</para>
 
-  <para>Tu pote habilitar filtros de projecto specific via le <emphasis role="bold">Projecto → Proprietates...</emphasis>. Clicca sur le button <guibutton>Filtros de File</guibutton> e activa le quadrato de controlo <guimenuitem>Habilita filtros specific del projecto</guimenuitem><indexterm class="singular">
+  <para>Tu pote activar filtros de projecto specific via <emphasis role="bold">Projecto → Proprietates...</emphasis>. Clicca sur le button <guibutton>Filtros de File</guibutton> e activa le quadro de controlo <guimenuitem>Habilita filtros specific del projecto</guimenuitem><indexterm class="singular">
       <primary>Filtros de file</primary> <secondary>Filtros del file specific pro le projecto</secondary>
     </indexterm>. In iste caso un copia del configuration del filtros essera immagazinate con le projecto. Si tu plus tarde cambiara le filtros, sol le filtros del projecto essera renovate, dum le filtros del usator restara sin alteration.</para>
 
@@ -38,7 +38,7 @@
         <primary>Dialogo</primary> del <secondary>Filtros del file</secondary>
       </indexterm></title>
 
-    <para>Iste fenestra de dialogo lista le filtros de file disponibile, ubi le filtros usate per le actual projecto es displicate in nigrate. Si tu desira non usar OmegaT pro render files de un certe typo, tu pote volver foras le filtro correspondente, per le disactivation del quadrato de controlo al latere de su nomine. OmegaT omittera alora le files appropriate durante le cargamento del projectos, e copiara los identic quando creara le documentos rendite. Quando tu desidera usar de nove le filtro, marca justo le quadrato de controlo. Clicca <emphasis role="bold">configurationes base </emphasis> pro prefixar le filtros de file al configurationes base. Pro rediger qual files in qual codificationes le filtro debe processar, selige le filtro ex le lista e clicca <emphasis role="bold">Modifica.</emphasis></para>
+    <para>Iste fenestra de dialogo lista le filtros de file disponibile, ubi le filtros usate per le actual projecto es displicate in nigrate. Si tu desira non usar OmegaT pro render files de un certe typo, tu pote eliminar le filtro correspondente, per le disactivation del quadrato de controlo al latere de su nomine. OmegaT omittera alora le files appropriate durante le cargamento del projectos, e copiara los identic quando creara le documentos rendite. Quando tu desidera usar de nove le filtro, marca justo le quadrato de controlo. Clicca <emphasis role="bold">configurationes base </emphasis> pro prefixar le filtros de file al configurationes base. Pro rediger qual files in qual codificationes le filtro debe processar, selige le filtro ex le lista e clicca <emphasis role="bold">Modifica.</emphasis></para>
 
     <para>Le fenestra de dialogo permitte preparar le optiones sequente:</para>
 

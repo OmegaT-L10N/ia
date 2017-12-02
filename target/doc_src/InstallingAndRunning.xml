@@ -234,13 +234,9 @@
 
       <para>Le optiones es cambiate per modificar le file <emphasis>Configuration.properties</emphasis>. Per optiones pre-definite, remover le # ante un parametro pro habilitar lo. Per exemplo, <filename>LANGUAGE=&quot;-Duser.language=ja&quot;</filename> (sin le #) lanceara <application>OmegaT</application> con le Interfacie del Usator in japonese.</para>
 
-      <para>To change the amount of memory available, edit <emphasis>OmegaT.app/Contents/Info.plist</emphasis> file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;. Pro instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will lanceamento OmegaT con le 2 gigas del memoria.</para>
+      <para>Pro mutar le quantitate de memoria disponibile, modifica <emphasis>OmegaT.app/Contentos/Info.plist</emphasis> file e muta le contento de &lt;string&gt;-Xmx1024M&lt;/string&gt;. Per exemplo, &lt;string&gt;-Xmx2048M&lt;/string&gt; lanceara OmegaT con le 2 GB de memoria.</para>
 
-      <para>To launch multiple instances of
-      <emphasis><application>OmegaT</application>.app</emphasis>, double-click
-      the file <emphasis>OmegaT.sh</emphasis> located in
-      <emphasis><application>OmegaT</application>.app/
-      Contents/MacOS/</emphasis>.</para>
+      <para>Pro lancear plure instantias de <emphasis><application>OmegaT</application>.app</emphasis>, clicca duo vices le file <emphasis>OmegaT.sh</emphasis> localisate in <emphasis><application>OmegaT</application>.app/ Contentos/MacOS/</emphasis>.</para>
 
       <para>Usa le file <emphasis><application>OmegaT</application>.jar</emphasis> ubicate in <emphasis><application>OmegaT</application>.app/Contents/Resources/Java/</emphasis> pro lancear  <application>OmegaT</application> per linea de commando. Controla in sequito &quot;Lanceamento per linea de commando&quot; pro plus de informationes.</para>
     </section>

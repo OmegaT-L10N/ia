@@ -10,15 +10,15 @@
 
     <para>Le dialogo <menuchoice> <shortcut> <keycombo> <keycap>Ctrl</keycap> <keycap>E</keycap> </keycombo> </shortcut> <guimenu>Projecto</guimenu> <guimenuitem>Proprietates...</guimenuitem> </menuchoice> es usate pro definir e modificar le plicas e le linguas del projecto.</para>
 
-    <para>Il es possibile modificar le proprietates del projecto durante un session de traduction. Nota que le cambios al preparation del projecto pote haber alicun consequentias, specialmente, quando le projecto esseva jam initiate. Usque tu ha qualque experientia con OmegaT, il es plus secur considerar tote le configurationes final un vice que le traduction initiava – a minus que, naturalmente, tu percipe que esseva facite un error major. Vide le section Impedir perdita del datos pro manieras e medios de protection de tu opera.</para>
+    <para>Il es possibile modificar le proprietates del projecto durante un session de traduction. Nota que le cambios al preparationes del projecto pote haber alicun consequentias, specialmente quando le projecto esseva jam initiate. Usque tu non ha qualque experientia con OmegaT, il es plus secur considerar tote le configurationes final un vice que le traduction initiava – a minus que, naturalmente, tu percipe que esseva facite un error major. Vide le section Impedir perdita del datos pro manieras e medios de protection de tu opera.</para>
   </section>
 
   <section>
     <title>Linguas</title>
 
-    <para>Tu pote o inscriber le linguas fonte e destination con mano o usar le menus a tenta cadente. Rememorar te que cambiar le linguas pote render le memorias de traduction actualmente usate inutile pois que lor par de linguas pote non concordar plus longe le nove linguas.</para>
+    <para>Tu pote o inscriber a mano le linguas fonte e de destination, o usar le menus a tenta cadente. Rememora te que cambiar le linguas pote render inusabile le memorias de traduction actualmente usate, pois que lor par de linguas pote non concordar plus con le nove linguas.</para>
 
-    <para>Le cercatores de radicales correspondente al linguas seligite es monstrate. Vider pro le detalios le <link linkend="appendix.Tokenizers.inOmegaT">Appendice del cercatores de radicales</link>.</para>
+    <para>Le cercatores de radices (Tokenizers) correspondente al linguas seligite es monstrate. Vider pro le detalios le <link linkend="appendix.Tokenizers.inOmegaT">Appendice del cercatores de radices</link>.</para>
   </section>
 
   <section>
@@ -31,7 +31,7 @@
         <listitem>
           <para>Le configurationes del segmentation adressa sol le maniera con le qual le Files fonte son tractate per <application>OmegaT</application>. Le maniera prevalente del segmentation del fontes es le segmentation a nivello de phrase, ita iste quadrato de controlo deberea in caso normal restar marcate.</para>
 
-          <para>In alicun rar casos le alternativa, id es le segmentation per paragraphos, pote esser preferite. Cambiar iste bandiera non modifica le segmentation del memorias de traduction jam existente. Si tu decide in medio al traduction de cambiar ab le segmentation per phrase al segmentation per paragrapho, le memoria de traduction interne del projecto non essera cambiate (OmegaT pote promover vetule memorias de traduction que non usa segmentation a phrase, ma non vice versa), sed OmegaT creara le concordantias partial de paragrapho, collante insimul traductiones de sententias existente. </para>
+          <para>In alicun rar casos le alternativa, id es le segmentation per paragraphos, pote esser preferite. Cambiar iste flag non modifica le segmentation del memorias de traduction jam existente. Si tu decide in medio al traduction de cambiar ab le segmentation per phrase al segmentation per paragrapho, le memoria de traduction interne del projecto non essera cambiate (OmegaT pote promover vetule memorias de traduction que non usa segmentation a phrase, ma non vice versa), sed OmegaT creara le concordantias partial de paragrapho, collante insimul traductiones de sententias existente. </para>
 
           <para>Cambiar le configurationes del segmentation pote producer alicun segmentos jam rendite ser fisse o mergite. Isto effectivemente los al stato &quot;non rendite&quot;, pois que illos non concordara plus segmentos registrate in le memoria del projecto, etiam quanquam lor traduction original es adhuc eo.</para>
         </listitem>

@@ -37,7 +37,7 @@
 
       <itemizedlist>
         <listitem>
-          <para>- pacchettos  ressource Java (*.properties)</para>
+          <para>- pacchettos de ressource de Java (*.properties)</para>
         </listitem>
       </itemizedlist>
 
@@ -79,7 +79,7 @@
 
       <para>Le files PO<indexterm class="singular">
           <primary>Files fonte</primary> <secondary>PO como files bilingue</secondary>
-        </indexterm> pote continer ambe le textos fonte e final. Ab iste puncto de vista illos son files de texto simple<emphasis> plus</emphasis> memorias de traduction. Si pro un segmento fonte date Il non ha adhuc traduction existente in le memoria de traduction del projecto  (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quam traduction base. Comocunque, In caso que le identic segmento fonte existe jam con un traduction differente, le nove traduction essera salvate como un alternativa.</para>
+        </indexterm> pote continer ambe le textos fonte e de destination. Ab iste puncto de vista illos son files de texto simple<emphasis> plus</emphasis> memorias de traduction. Si pro un segmento fonte date, il non ha adhuc traduction existente in le memoria de traduction del projecto  (project_save.tmx), le traduction actual essera salvate in le file project_save.tmx quam traduction base. Comocunque, In caso que le identic segmento fonte existe jam con un traduction differente, le nove traduction essera salvate como un alternativa.</para>
     </section>
 
     <section>
@@ -175,50 +175,32 @@
           </listitem>
 
           <listitem>
-            <para>RELAX NG schema for XML (*.rng)</para>
+            <para>Schema RELAX NG pro XML (*.rng)</para>
           </listitem>
         </itemizedlist></para>
 
       <para>Altere typos de file de texto formattate pote alsi esser tractate per OmegaT con lor extension associate al typo de file supportate, e con le regulas de segmentation correspondente OmegaT segmentara los correctemente.</para>
     </section>
     <section>
-		<title>PDF files<indexterm class="singular">
-          <primary>Target files</primary>
-          <secondary>PDF text files</secondary>
+		<title>Files PDF<indexterm class="singular">
+          <primary>Files de destination</primary> <secondary>Files de texto PDF</secondary>
         </indexterm><indexterm class="singular">
-          <primary>Source files</primary>
-          <secondary>PDF files</secondary>
+          <primary>Files fonte</primary> <secondary>Files PDF</secondary>
         </indexterm></title>
-  <para>PDF files are a special case. They contain text formatting
-  information, but such information cannot be reused by
-  <application>OmegaT</application> in order to create target files.
-  Thus, PDF files are handled as plain text files, and output files are
-  plain text files.</para>
-  <para>If you need to reproduce text formatting (as well as other
-  things such as drawings) in your translation, there are three ways
-  to try:</para>
+  <para>Le files PDF es un caso particular. Illos contine informationes de formato de texto, ma tal informationes non pote ser reusate per <application>OmegaT</application> a fin de crear le files de destination. Tunc, le files PDF es tractate como files de texto simple, e le files de destination es files de texto simple.</para>
+  <para>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Si tu besonia de reproducer texto formato (assi como altere cosas como designos) in tu traduction, il ha tres manieras pro probar:</para>
   <orderedlist>
     <listitem>
-      <para>Use <application>OmegaT’s</application> default filter
-      (PDF input), translate, create a target file (it will be a plain
-      text file), add relevant formatting and items manually.</para>
+      <para>Usar le filtro standard de <application>OmegaT’s</application> (pro PDF), traducer, crear un file de destination (illo essera un file de texto simple), adder manualmente le formato pertinente e altere elementos.</para>
     </listitem>
     <listitem>
-      <para>Use the Iceni Infix filter.
-      See <ulink url="https://omegat.org/howtos/iceni_infix.html">Howto - Translating PDF files with Iceni Infix and OmegaT</ulink>.</para>
+      <para>Usar le filtro de Iceni Infix. Vide <ulink url="https://omegat.org/howtos/iceni_infix.html">le guida - Translating PDF files with Iceni Infix and OmegaT</ulink>.</para>
     </listitem>
     <listitem>
-      <para>Import the source file to
-      <ulink url="https://www.libreoffice.org/discover/draw/">LibreOffice Draw</ulink>,
-      save it as an ODG file, translate, export to PDF as needed.</para>
+      <para>Importar le file fonte in <ulink url="https://www.libreoffice.org/discover/draw/">LibreOffice Draw</ulink>, salvar lo como un file ODG, traducer lo, exportar lo a PDF como es necesse.</para>
     </listitem>
   </orderedlist>
-  <para><emphasis role="bold">Note:</emphasis> the above information
-  applies only to PDF files with a text layer. If you have a PDF file
-  made of scanned pages (sometimes such files are referred to as ‘dead’
-  PDFs), you need to use an OCR (optical character recognition) program
-  to recognize the text and convert it to a format that can be handled
-  by OmegaT.</para>
+  <para><emphasis role="bold">Nota:</emphasis> le information anterior se refere sol a files PDF con un strato de texto. Si tu ha un file PDF file producite per paginas scandite (a vices tal files es referite como PDFs ‘morte’), tu besonia de usar un programma OCR (optic character recognition) pro recognoscer le texto e lo converter a un formato que pote ser tractate per OmegaT.</para>
     </section>
   </section>
 

@@ -3,7 +3,7 @@
 <appendix id="appendix.keyboard">
   <title>Vias breve del Claviero in le editor</title>
 
-  <para>Isto breve texto describe le comportamento de claves in le quadro del Modifica, le editor del segmentos. Le termino &quot;mover se a le interior del segmento&quot; significa, que le cursor se move al initio del segmento si illo esseva anterior al segmento, e al fin del segmento si illo esseva posterior.</para>
+  <para>Isto breve texto describe le comportamento de claves in le quadro Modificar, le editor del segmentos. Le termino &quot;Mover al interno del segmento&quot; significa, que le cursor se move al initio del segmento si illo esseva locate ante le segmento, e al fin del segmento si illo esseva postea.</para>
 
   <table>
     <title>Comportamento del claves in le editor</title>
@@ -23,27 +23,27 @@
 
       <tbody>
         <row>
-          <entry><emphasis role="bold">Sinistre:</emphasis></entry>
+          <entry><emphasis role="bold">Sinistra:</emphasis></entry>
 
-          <entry>un character a sinistra, salvo non plus que le initio del segmento</entry>
+          <entry>un character a sinistra, salvo non ultra le initio del segmento</entry>
         </row>
 
         <row>
           <entry><emphasis role="bold">Dextra:</emphasis></entry>
 
-          <entry>un character a dextra, salvo non plus que le fin del segmento</entry>
+          <entry>un character a dextra, salvo non ultra le fin del segmento</entry>
         </row>
 
         <row>
           <entry><emphasis role="bold">Ctrl+Sinistra:</emphasis></entry>
 
-          <entry>un parola a sinistra, salvo non plus que le initio del segmento</entry>
+          <entry>un parola a sinistra, salvo non ultra le initio del segmento</entry>
         </row>
 
         <row>
           <entry><emphasis role="bold">Ctrl+Dextra:</emphasis></entry>
 
-          <entry>un parola a Dextra, salvo non plus que le fin del segmento</entry>
+          <entry>un parola a Dextra, salvo non ultra le fin del segmento</entry>
         </row>
 
         <row>
@@ -59,15 +59,15 @@
         </row>
 
         <row>
-          <entry><emphasis role="bold">A domo</emphasis></entry>
+          <entry><emphasis role="bold">A casa*</emphasis></entry>
 
-          <entry>mover a le initio del linea in le segmento</entry>
+          <entry>mover al initio del riga in le segmento</entry>
         </row>
 
         <row>
           <entry><emphasis role="bold">Fin*</emphasis></entry>
 
-          <entry>mover a le fin del linea in le segmento</entry>
+          <entry>mover al fin del riga in le segmento</entry>
         </row>
 
         <row>
@@ -95,39 +95,39 @@
         </row>
 
         <row>
-          <entry><emphasis role="bold">Spatio a retro*</emphasis></entry>
+          <entry><emphasis role="bold">Spatio retro*</emphasis></entry>
 
-          <entry>levar le character ante le cursor</entry>
+          <entry>remove le character ante le cursor</entry>
         </row>
 
         <row>
           <entry><emphasis role="bold">Dele*</emphasis></entry>
 
-          <entry>levar le character post le cursor</entry>
+          <entry>remove le character post le cursor</entry>
         </row>
 
         <row>
-          <entry><emphasis role="bold">Ctrl+Spatio a retro</emphasis></entry>
+          <entry><emphasis role="bold">Ctrl+Spatio retro</emphasis></entry>
 
-          <entry>levar le characteres usque al Initio del parola currente (Mac: Alt+Backspace)<emphasis role="bold"></emphasis></entry>
+          <entry>remove le characteres usque al initio del parola currente (Mac: Alt+Spatio retro)<emphasis role="bold"></emphasis></entry>
         </row>
 
         <row>
           <entry><emphasis role="bold">Ctrl+Canc</emphasis></entry>
 
-          <entry>levar le characteres usque a le initio del parola sequente (Mac: <emphasis role="bold">Alt+Canc</emphasis>)</entry>
+          <entry>remove le characteres usque al initio del parola sequente (Mac: <emphasis role="bold">Alt+Canc</emphasis>)</entry>
         </row>
 
         <row>
-          <entry><emphasis role="bold">Ctrl+Entra</emphasis></entry>
+          <entry><emphasis role="bold">Ctrl+Enter</emphasis></entry>
 
-          <entry>aperir le segmento precedente (Mac: <emphasis role="bold">Cmd+Enter</emphasis>)</entry>
+          <entry>aperi le segmento precedente (Mac: <emphasis role="bold">Cmd+Enter</emphasis>)</entry>
         </row>
 
         <row>
           <entry><emphasis role="bold">Ctrl+A</emphasis></entry>
 
-          <entry>seliger le segmento complete (Mac: <emphasis role="bold">Cmd+A</emphasis>)</entry>
+          <entry>selige le segmento complete (Mac: <emphasis role="bold">Cmd+A</emphasis>)</entry>
         </row>
 
         <row>
@@ -139,7 +139,7 @@
         <row>
           <entry><emphasis role="bold">Ctrl+Space</emphasis></entry>
 
-          <entry>aperir le cassa de dialogo pro auto-completar con le contextual suggestiones (Mac: <emphasis role="bold">Esc</emphasis>). Un vice que le cassa de dialogo pro auto-completar es aperte, usa <emphasis role="bold">Ctrl+Space</emphasis> ancora pro cambiar successivemente inter le optiones <emphasis>Entratas de glossarios</emphasis>, <emphasis>Entratas de texto automatic,</emphasis> <emphasis>Tags mancante</emphasis> e <emphasis>Tabella del characteres</emphasis>.</entry>
+          <entry>aperi le cassa de dialogo pro auto-completar con le contextual suggestiones (Mac: <emphasis role="bold">Esc</emphasis>). Un vice que le cassa de dialogo pro auto-completar es aperte, usa <emphasis role="bold">Ctrl+Space</emphasis> ancora pro cambiar successivemente inter le optiones <emphasis>Entratas de glossarios</emphasis>, <emphasis>Entratas de texto automatic,</emphasis> <emphasis>Tags mancante</emphasis> e <emphasis>Tabella del characteres</emphasis>.</entry>
         </row>
       </tbody>
     </tgroup>
@@ -149,7 +149,7 @@
 
   <itemizedlist>
     <listitem>
-      <para><emphasis role="bold">Home: </emphasis> cursor a le comenciamento del segmento active</para>
+      <para><emphasis role="bold">Home: </emphasis> cursor al comenciamento del segmento active</para>
     </listitem>
 
     <listitem>
@@ -157,7 +157,7 @@
     </listitem>
 
     <listitem>
-      <para><emphasis role="bold">Spatio a retro: </emphasis>nihil</para>
+      <para><emphasis role="bold">Spatio retro: </emphasis>nihil</para>
     </listitem>
 
     <listitem>
@@ -173,7 +173,7 @@
 
   <para>Le commandos ample de systema: Eliger toto (<keycap>Ctrl+A</keycap>), Collar (<emphasis role="bold">Ctrl+V</emphasis>), Secar (<emphasis role="bold">Ctrl+X</emphasis>), Copiar (<emphasis role="bold">Ctrl+C)</emphasis>, Inserer concordantia o selection <emphasis role="bold">(Ctrl+I</emphasis>) e Inserer fonte (<emphasis role="bold">Ctrl+Shift+I</emphasis>) age in principio solmente sur le texto intra le segmento actualmente aperte.</para>
 
-  <para>Il es possibile mover se ab un quadro a un altere (per exemplo, ab le Quadro del Modificas al Quadro del Concordantias Partial) per <keycap>Ctrl+Tab</keycap>. <keycap>Ctrl+Shift+Tab</keycap> move retro al quadro precedente. Le vias breve <keycap>Ctrl+A</keycap> e <keycap>Ctrl+C</keycap> opera in le quadros, permittente copiar tote o alcun del informationes al tabula del fragmento.</para>
+  <para>Il es possibile mover se ab un quadro a un altere (per exemplo, ab le Quadro Modificar al Quadro del Concordantias partial) per <keycap>Ctrl+Tab</keycap>. <keycap>Ctrl+Shift+Tab</keycap> move retro al quadro precedente. Le vias breve <keycap>Ctrl+A</keycap> e <keycap>Ctrl+C</keycap> opera in le quadros pro copiar tote o alcun del informationes al tabula del fragmento.</para>
 
   <para>Nota que tu pote re-assignar le Vias breve a tu preferentias personal. Vide <link linkend="ch04.shortcuts.customization">Appendice: Personalisation del Vias breve</link></para>
 </appendix>

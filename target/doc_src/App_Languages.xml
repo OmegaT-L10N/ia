@@ -12,11 +12,10 @@
   </indexterm>
   </title>
 
-  <para>Please check the 
-  <ulink url="http://www.sil.org/ISO639-3/codes.asp">ISO 639 Code Tables</ulink> for further and up-to-date information about language codes.</para>
+  <para>Per favor controlar le <ulink url="http://www.sil.org/ISO639-3/codes.asp">Tabellas de codices ISO 639</ulink> pro altere e actualisate informationes re le codices de linguas.</para>
 
   <table id="table.language.code.list">
-    <title>Lista del codices del linguas ISO 639-1/639-2</title>
+    <title>Lista del codices de linguas ISO 639-1/639-2</title>
     <tgroup cols="3" align="left" colsep="1" rowsep="1">
       <colspec align="left" colnum="1"/>
       <colspec align="left" colnum="2"/>

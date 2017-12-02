@@ -340,7 +340,7 @@
           </row>
 
           <row>
-            <entry><application>egaT</application></entry>
+            <entry><application>OmegaT</application></entry>
 
             <entry><para>Un file texto continente duo lineas:</para>
             <programlisting>#!/bin/bash java

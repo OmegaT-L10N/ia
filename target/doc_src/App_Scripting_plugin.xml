@@ -8,7 +8,7 @@
   <section>
     <title>Introduction</title>
 
-    <para>OmegaT permitte le execution del scripts in differente linguas.</para>
+    <para>OmegaT permitte le execution del scripts in plure linguages de script.</para>
   </section>
 
   <section>
@@ -36,11 +36,9 @@
       </listitem>
     </itemizedlist>
 
-    <para>By default, scripts are stored in the &quot;scripts&quot; folder located in
-    OmegaT installation folder (the folder that contains the
-    OmegaT.jar).</para>
+    <para>Normalmente, le scripts es continite in le plica &quot;scripts&quot; locate in le plica de installation de OmegaT (le plica que contine OmegaT.jar).</para>
 
-    <para>Tu pote adder nove scripts ibi, si que Illos apparera in le lista del scripts disponibile in le fenestra de Scripting.</para>
+    <para>Tu pote adder nove scripts ibi, si que illos apparera in le lista del scripts disponibile in le fenestra de Scripting.</para>
 
     <para>On pote trovar additional scriptes ci: <ulink url="https://sourceforge.net/projects/omegatscripts/">OmegaT Scripts</ulink>
     </para>

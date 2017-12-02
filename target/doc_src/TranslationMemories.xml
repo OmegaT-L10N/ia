@@ -252,23 +252,23 @@
 
     <itemizedlist>
       <listitem>
-        <para>Crear un plica (un &quot;plica deposito&quot;) in un position commode sur tu disco dur pro le memorias de traduction re un cliente o subjecto particular.</para>
+        <para>Crear un plica (un &quot;plica repositorio&quot;) in un position commode sur tu disco dur pro le memorias de traduction re un cliente o subjecto particular.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Quandocunque tu fini un projecto, copia uno del tres files memoria de traduction &quot;exportation&quot; ex le plica radice del projecto al plica deposito.</para>
+        <para>Quandocunque tu fini un projecto, copia uno del tres files memoria de traduction &quot;exportation&quot; ex le plica radice del projecto al plica repositorio.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Quando tu initia un nove projecto re le mesme subjecto o pro le mesme cliente, naviga al plica deposito in le <guimenuitem>fenestra de dialogo Projecto &gt; Proprietates &gt; Modifica Projecto </guimenuitem> e selige lo como le plica del memoria de traduction.</para>
+        <para>Quando tu initia un nove projecto re le mesme subjecto o pro le mesme cliente, naviga al plica repositorio in le <guimenuitem>fenestra de dialogo Projecto &gt; Proprietates &gt; Modifica Projecto </guimenuitem> e selige lo como le plica del memoria de traduction.</para>
       </listitem>
     </itemizedlist>
 
-    <para>Nota que tote le files TMX in le deposito /tm son analysate quando le projecto es aperte, assi tu, ponente tote le varie TMs que tu pote haber per manos in iste plica, pote inutilemente retardar OmegaT. Tu pote etiam considerar de remover illos que non son plus necessari, un vice que tu ha usate lor contentos pro reimpler le file <filename>project-save.tmx</filename>.</para>
+    <para>Nota que tote le files TMX in le repositorio /tm es analysate quando le projecto es aperite, assi tu, ponente tote le varie TMs que tu pote haber per manos in iste plica, pote inutilemente retardar OmegaT. Tu pote etiam considerar de remover illos que non son plus necessari, un vice que tu ha usate lor contentos pro reimpler le file <filename>project-save.tmx</filename>.</para>
 
     <section id="importing.and.exporting.translation.memories">
       <title>Importar e exportar le memorias de traduction<indexterm class="singular">
