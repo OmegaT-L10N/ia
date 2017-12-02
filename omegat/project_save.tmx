@@ -612,6 +612,14 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=tu Client secret"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Platforms name</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130516Z" creationid="Karm46" creationdate="20171202T130516Z">
+        <seg># Nomine de platteformas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># TMXFilter.java&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T043839Z">
@@ -88981,6 +88989,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>spelling: Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130302Z" creationid="Karm46" creationdate="20171202T130302Z">
+        <seg>orthographia: Guida - Controlator orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>spend an afternoon memorizing some science terms, and then don't think about</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141107T222251Z" creationid="Melo46" creationdate="20141107T222251Z">
@@ -89489,6 +89505,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141104T233808Z" creationid="Melo46" creationdate="20141104T233808Z">
         <seg>illes non face los simplemente pro vider si tu ha comprendite le materia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text_export: Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130402Z" creationid="Karm46" creationdate="20171202T130402Z">
+        <seg>text_export: Guida - Usar le function exportar texto de OmegaT (script interfacie)</seg>
       </tuv>
     </tu>
     <tu>
@@ -90935,6 +90959,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tokenizer: Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130430Z" creationid="Karm46" creationdate="20171202T130430Z">
+        <seg>tokenizer: Guida - Usar le tokenizer de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ton</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234119Z">
@@ -92052,6 +92084,22 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171201T162836Z">
         <seg>un fenestra, simile a illo sequente apparera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>windows_jre64b: Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130609Z" creationid="Karm46" creationdate="20171202T130609Z">
+        <seg>windows_jre64b: Windows con JRE a 64-bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>windows_jre: Windows with JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130522Z" creationid="Karm46" creationdate="20171202T130522Z">
+        <seg>windows_jre: Windows con JRE</seg>
       </tuv>
     </tu>
     <tu>
