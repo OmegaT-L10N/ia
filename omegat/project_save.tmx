@@ -35793,6 +35793,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T134012Z" creationid="Karm46" creationdate="20171202T134012Z">
+        <seg>Si tu ha un file PDF file producite per paginas scandite (a vices tal files es referite como PDFs ‘morte’), tu besonia de usar un programma OCR (optic character recognition) pro recognoscer le texto e lo converter a un formato que pote ser tractate per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130518T213034Z">
