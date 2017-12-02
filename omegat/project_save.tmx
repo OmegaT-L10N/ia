@@ -84397,6 +84397,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>localizing_omegat: Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125702Z" creationid="Karm46" creationdate="20171202T125702Z">
+        <seg>localizing_omegat: Guida - Traducer OmegaT in tu lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>logs/OmegaT.log</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T064241Z">
@@ -85117,6 +85125,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ms_translator: Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125738Z" creationid="Karm46" creationdate="20171202T125738Z">
+        <seg>ms_translator: Guida - Usar Microsoft Translator in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>msa</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140735Z">
@@ -85313,6 +85329,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140505T061226Z" creationid="MELO46" creationdate="20140505T061226Z">
         <seg>nunquam importa controlar le provision alimentari del mundo: illes non distribue quidem le alimento, &lt;f0&gt;toto lo que illes face es vender semines&lt;/f0&gt; al agricultores e un chimic,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>new_filter: Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125836Z" creationid="Karm46" creationdate="20171202T125836Z">
+        <seg>new_filter: Guida - Creation un nove filtro de file</seg>
       </tuv>
     </tu>
     <tu>
@@ -87025,6 +87049,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141108T155912Z" creationid="Melo46" creationdate="20141108T155912Z">
         <seg>prefere attender le demora de apprende plen, tu pote mutar iste comportamento in le</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>preview: Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130003Z" creationid="Karm46" creationdate="20171202T125843Z">
+        <seg>preview: Guida - Adder un function de visualisation preliminar a OmegaT</seg>
       </tuv>
     </tu>
     <tu>
