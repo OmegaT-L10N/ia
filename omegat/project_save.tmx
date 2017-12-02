@@ -84357,6 +84357,22 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>linux_jre64b: Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130655Z" creationid="Karm46" creationdate="20171202T130655Z">
+        <seg>linux_jre64b: Linux con JRE a 64-bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>linux_jre: Linux with JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130639Z" creationid="Karm46" creationdate="20171202T130639Z">
+        <seg>linux_jre: Linux con JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>listen to something without pausing to consider if we know the answer.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141109T105549Z" creationid="Melo46" creationdate="20141103T062251Z">
@@ -85409,6 +85425,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140428T114612Z" creationid="MELO46" creationdate="20140428T114612Z">
         <seg>nemo nota le arbore que cresce lentemente, lentemente, lentemente trans le annos e tunc... illes non vide le bono que es occurrente illac,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nojre: Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130712Z" creationid="Karm46" creationdate="20171202T130712Z">
+        <seg>nojre: Cross-platform sin JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -86593,6 +86617,22 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141340Z">
         <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>osx_signed: OS X Signed</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130629Z" creationid="Karm46" creationdate="20171202T130629Z">
+        <seg>osx_signed: OS X Signate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>osx_unsigned: OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130633Z" creationid="Karm46" creationdate="20171202T130633Z">
+        <seg>osx_unsigned: OS X Non signate</seg>
       </tuv>
     </tu>
     <tu>
@@ -88937,6 +88977,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T085330Z">
         <seg>source.txt - contine le texto original del segmento&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source: Source code</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130753Z" creationid="Karm46" creationdate="20171202T130733Z">
+        <seg>source: Codice fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -91767,6 +91815,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>webstart: Web Start</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130717Z" creationid="Karm46" creationdate="20171202T130717Z">
+        <seg>webstart: Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>weeks telling people about how great it was, however, you're likely to still</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141109T113749Z" creationid="Melo" creationdate="20141107T180345Z">
@@ -92100,6 +92156,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171202T130522Z" creationid="Karm46" creationdate="20171202T130522Z">
         <seg>windows_jre: Windows con JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>windows_nojre: Windows without JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130625Z" creationid="Karm46" creationdate="20171202T130625Z">
+        <seg>windows_nojre: Windows sin JRE</seg>
       </tuv>
     </tu>
     <tu>
