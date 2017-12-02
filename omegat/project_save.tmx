@@ -67565,6 +67565,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T000900Z" creationid="Karm46" creationdate="20171202T000900Z">
+        <seg>Pro lancear plure instantias de &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, clicca duo vices le file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; localisate in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contentos/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151119T063153Z" creationid="Melo46" creationdate="20151119T063153Z">
@@ -82130,6 +82138,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T000702Z" creationid="Karm46" creationdate="20171202T000702Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T110112Z" creationid="Karm46" creationdate="20171126T110112Z">
@@ -82198,6 +82214,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T155838Z" creationid="Melo46" creationdate="20160728T155838Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T000729Z" creationid="Karm46" creationdate="20171202T000729Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
