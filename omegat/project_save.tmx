@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10206M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16706,6 +16706,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193135Z" creationid="Kos Ivantsov" creationdate="20171202T193135Z">
+        <seg>A proposito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150131T065906Z">
@@ -23465,6 +23473,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193256Z" creationid="Kos Ivantsov" creationdate="20171202T193256Z">
+        <seg>Compatibilitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T234433Z" creationid="Karm46" creationdate="20170909T234433Z">
@@ -23641,6 +23657,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193158Z" creationid="Kos Ivantsov" creationdate="20171202T193158Z">
+        <seg>Connecter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095527Z">
@@ -23745,6 +23769,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T155650Z">
         <seg>Consulta le Manual del Usator pro additional information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193143Z" creationid="Kos Ivantsov" creationdate="20171202T193143Z">
+        <seg>Continge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193234Z" creationid="Kos Ivantsov" creationdate="20171202T193234Z">
+        <seg>Contactos e supporto</seg>
       </tuv>
     </tu>
     <tu>
@@ -24926,6 +24966,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095740Z">
         <seg>Croate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200203Z" creationid="Kos Ivantsov" creationdate="20171202T200203Z">
+        <seg>Cross-platform sin JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -33035,6 +33083,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193248Z" creationid="Kos Ivantsov" creationdate="20171202T193248Z">
+        <seg>Guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HowTo: Adding a preview function to OmegaT</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130531T150657Z">
@@ -33287,6 +33343,118 @@ later version.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T222917Z">
         <seg>Tamen, tu deberea sumer precautiones erga le perdita de datos quando usa &lt;a1&gt;OmegaT&lt;/a1&gt;, justo como con omne altere application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193844Z" creationid="Kos Ivantsov" creationdate="20171202T193844Z">
+        <seg>Adder un function de vista preliminar a OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193628Z" creationid="Kos Ivantsov" creationdate="20171202T193628Z">
+        <seg>Guida - Compilation de OmegaT ab le codice fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193837Z" creationid="Kos Ivantsov" creationdate="20171202T193837Z">
+        <seg>Guida - Creation un nove filtro de file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193659Z" creationid="Kos Ivantsov" creationdate="20171202T193659Z">
+        <seg>Guida - Exportar ex OmegaT al formato 'RTF non mundate' de Trados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193305Z" creationid="Kos Ivantsov" creationdate="20171202T193305Z">
+        <seg>Guida - OmegaT compatibilitate con Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T194008Z" creationid="Kos Ivantsov" creationdate="20171202T194008Z">
+        <seg>Guida - Controlator orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193903Z" creationid="Kos Ivantsov" creationdate="20171202T193903Z">
+        <seg>Guida - Le utilitate de visualisation preliminar Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193826Z" creationid="Kos Ivantsov" creationdate="20171202T193826Z">
+        <seg>Guida - Traducer OmegaT in tu lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193725Z" creationid="Kos Ivantsov" creationdate="20171202T193725Z">
+        <seg>Guida - Traduction de files PDF con Iceni Infix e OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193639Z" creationid="Kos Ivantsov" creationdate="20171202T193639Z">
+        <seg>Guida - Traduction files de Microsoft Word 2007 in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193706Z" creationid="Kos Ivantsov" creationdate="20171202T193706Z">
+        <seg>Guida - Usar Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193831Z" creationid="Kos Ivantsov" creationdate="20171202T193831Z">
+        <seg>Guida - Usar Microsoft Translator in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T194014Z" creationid="Kos Ivantsov" creationdate="20171202T194014Z">
+        <seg>Guida - Usar le function exportar texto de OmegaT (script interfacie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200110Z" creationid="Kos Ivantsov" creationdate="20171202T200110Z">
+        <seg>Guida - Usar le tokenizer de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -41765,6 +41933,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200156Z" creationid="Kos Ivantsov" creationdate="20171202T200156Z">
+        <seg>Linux con JRE a 64-bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200147Z" creationid="Kos Ivantsov" creationdate="20171202T200147Z">
+        <seg>Linux con JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux/FreeBSD, and some mobile devices.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141112T060344Z" creationid="Melo46" creationdate="20141112T060344Z">
@@ -42561,6 +42745,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T142734Z" creationid="MELO46" creationdate="20140615T142734Z">
         <seg>Manfred Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193240Z" creationid="Kos Ivantsov" creationdate="20171202T193240Z">
+        <seg>Manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -45694,6 +45886,22 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200138Z" creationid="Kos Ivantsov" creationdate="20171202T200138Z">
+        <seg>OS X Signate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200143Z" creationid="Kos Ivantsov" creationdate="20171202T200143Z">
+        <seg>OS X Non signate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T093827Z" creationid="MELO46" creationdate="20140228T093827Z">
@@ -45908,6 +46116,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T065214Z">
         <seg>OmegaT &amp; tu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193103Z" creationid="Kos Ivantsov" creationdate="20171202T193103Z">
+        <seg>OmegaT - Le application gratuite pro memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -46456,6 +46672,14 @@ translation leveraging into updated projects.</seg>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T224940Z">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.
 (OmegaT es un application gratuite de Traduction Assistite per le Computator (CAT), multe-platteforma con concordantia partial, recerca per parola clave, glossarios, e fruition del traductiones in le actualisation del projectos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193112Z" creationid="Kos Ivantsov" creationdate="20171202T193112Z">
+        <seg>OmegaT es un programma gratuite pro memoria de traduction, scripte in Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49062,6 +49286,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141119T201635Z" creationid="Melo" creationdate="20141119T201635Z">
         <seg>Pagina #{{pagina}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193222Z" creationid="Kos Ivantsov" creationdate="20171202T193222Z">
+        <seg>Pagina non trovate</seg>
       </tuv>
     </tu>
     <tu>
@@ -52559,6 +52791,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T223328Z" creationid="Melo46" creationdate="20160729T223328Z">
         <seg>Nomine de ressource</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193153Z" creationid="Kos Ivantsov" creationdate="20171202T193153Z">
+        <seg>Ressources</seg>
       </tuv>
     </tu>
     <tu>
@@ -56531,6 +56771,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200223Z" creationid="Kos Ivantsov" creationdate="20171202T200223Z">
+        <seg>Codice de origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T081221Z">
@@ -59819,6 +60067,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T075313Z" creationid="MELO46" creationdate="20140615T075313Z">
         <seg>Le filtro Mozilla DTD generava un exception:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T193216Z" creationid="Kos Ivantsov" creationdate="20171202T193216Z">
+        <seg>Le projecto OmegaT Projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -72573,6 +72829,30 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T090724Z">
         <seg>Usatores de Windows: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200125Z" creationid="Kos Ivantsov" creationdate="20171202T200125Z">
+        <seg>Windows con JRE a 64-bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200119Z" creationid="Kos Ivantsov" creationdate="20171202T200119Z">
+        <seg>Windows con JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20171202T200131Z" creationid="Kos Ivantsov" creationdate="20171202T200131Z">
+        <seg>Windows sin JRE</seg>
       </tuv>
     </tu>
     <tu>
