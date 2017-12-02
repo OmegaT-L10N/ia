@@ -5390,6 +5390,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>404: Page Not Found</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124747Z" creationid="Karm46" creationdate="20171202T124747Z">
+        <seg>404: Pagina non trovate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>45896 Gelsenkirchen&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T085505Z">
@@ -78514,6 +78522,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>contact: Contact and Support</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124836Z" creationid="Karm46" creationdate="20171202T124836Z">
+        <seg>contact: Contactos e supporto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>contain the covered work, unless you entered into that arrangement,</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155926Z" creationid="MELO46" creationdate="20131226T155926Z">
@@ -81302,6 +81318,22 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155827Z" creationid="MELO46" creationdate="20131226T155827Z">
         <seg>holder fails to notify you of the violation by some reasonable means</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>home: OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124910Z" creationid="Karm46" creationdate="20171202T124910Z">
+        <seg>home: OmegaT - Le application gratuite pro memorias de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howto: How-To</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125001Z" creationid="Karm46" creationdate="20171202T124948Z">
+        <seg>howto: Guida</seg>
       </tuv>
     </tu>
     <tu>
@@ -84509,6 +84541,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>manual: Manual</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124928Z" creationid="Karm46" creationdate="20171202T124928Z">
+        <seg>manual: Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mar</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T140850Z">
@@ -86797,6 +86837,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>philosophy: Philosophy</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124925Z" creationid="Karm46" creationdate="20171202T124925Z">
+        <seg>philosophy: Philosophia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pi</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141343Z">
@@ -87813,6 +87861,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>reviews: Reviews</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125011Z" creationid="Karm46" creationdate="20171202T125011Z">
+        <seg>reviews: Revistas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>right justification</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T193107Z">
@@ -88809,6 +88865,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20141107T222251Z" creationid="Melo46" creationdate="20141107T222251Z">
         <seg>passa un postmeridie a memorisar qualque terminos de scientia, e pois non pensa re</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sponsorship: Sponsorship</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125044Z" creationid="Karm46" creationdate="20171202T125044Z">
+        <seg>sponsorship: Financiamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -90447,6 +90511,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>titles:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124751Z" creationid="Karm46" creationdate="20171202T124751Z">
+        <seg>titles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tk</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234019Z">
@@ -90979,6 +91051,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T234133Z">
         <seg>tur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tutorials: Tutorials</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T124944Z" creationid="Karm46" creationdate="20171202T124944Z">
+        <seg>tutorials: Breve instructiones</seg>
       </tuv>
     </tu>
     <tu>
