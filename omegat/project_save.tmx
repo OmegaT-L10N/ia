@@ -87093,6 +87093,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>priorview: Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130107Z" creationid="Karm46" creationdate="20171202T130107Z">
+        <seg>priorview: Guida - Le utilitate de visualisation preliminar Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>procedures, authorization keys, or other information required to install</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155757Z" creationid="MELO46" creationdate="20131226T155757Z">
@@ -87377,6 +87385,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T074236Z">
         <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>prop12m: Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T130252Z" creationid="Karm46" creationdate="20171202T130158Z">
+        <seg>prop12m: Guida - Le propagation e le concordantia uno-a-plures</seg>
       </tuv>
     </tu>
     <tu>
