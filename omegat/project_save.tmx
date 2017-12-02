@@ -62903,6 +62903,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T001520Z" creationid="Karm46" creationdate="20171202T001520Z">
+        <seg>Le script ora quitara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T155933Z" creationid="MELO46" creationdate="20140109T155933Z">
@@ -66457,6 +66465,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130611T071240Z">
         <seg>Iste script expone le segmento de destination in un typo de character particular (codificate in le script, ma pote esser modificate) plus tosto que le typo de character base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T001629Z" creationid="Karm46" creationdate="20171202T001629Z">
+        <seg>Ce script es destinate a ser exequite in OmegaT 3.6 e plus recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73245,6 +73261,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130319T135827Z">
         <seg>Tu es nunc preste per delivrar tu opera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T001543Z" creationid="Karm46" creationdate="20171202T001543Z">
+        <seg>Tu face fluer OmegaT version {0}.</seg>
       </tuv>
     </tu>
     <tu>
