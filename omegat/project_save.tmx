@@ -620,6 +620,34 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=tu Client secret"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Platforms name
+windows_jre: Windows with JRE
+windows_jre64b: Windows with 64-bit JRE
+windows_nojre: Windows without JRE
+osx_signed: OS X Signed
+osx_unsigned: OS X Unsigned
+linux_jre: Linux with JRE
+linux_jre64b: Linux with 64-bit JRE
+nojre: Cross-platform without JRE
+webstart: Web Start
+source: Source code</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T132721Z" creationid="Karm46" creationdate="20171202T132721Z">
+        <seg># Nomine del platteformas 
+windows_jre: Windows con JRE
+windows_jre64b: Windows con JRE a 64-bit
+windows_nojre: Windows sin JRE
+osx_signed: OS X Signate
+osx_unsigned: OS X Non signate
+linux_jre: Linux con JRE
+linux_jre64b: Linux con JRE 64-bit
+nojre: Cross-platform sin JRE
+webstart: Web Start
+primari: Codice fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># TMXFilter.java&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T043839Z">
