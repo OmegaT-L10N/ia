@@ -69983,6 +69983,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T133336Z" creationid="Karm46" creationdate="20171202T133336Z">
+        <seg>Usar le filtro standard de &lt;a0&gt;OmegaT’s&lt;/a0&gt; (pro PDF), traducer, crear un file de destination (illo essera un file de texto simple), adder manualmente le formato pertinente e altere elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/Resources/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T214327Z">
