@@ -64754,6 +64754,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T000211Z" creationid="Karm46" creationdate="20171202T000211Z">
+        <seg>Illos contine informationes de formato de texto, ma tal informationes non pote ser reusate per &lt;a0&gt;OmegaT&lt;/a0&gt; a fin de crear le files de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T110413Z">
@@ -66719,6 +66727,14 @@ your copyrighted material outside their relationship with you.</seg>
 for you must do so exclusively on your behalf, under your direction
 and control, on terms that prohibit them from making any copies of
 your copyrighted material outside their relationship with you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T000417Z" creationid="Karm46" creationdate="20171202T000417Z">
+        <seg>Tunc, le files PDF es tractate como files de texto simple, e le files de destination es files de texto simple.</seg>
       </tuv>
     </tu>
     <tu>
