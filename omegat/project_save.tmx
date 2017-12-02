@@ -80986,6 +80986,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>google_translate: Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125600Z" creationid="Karm46" creationdate="20171202T125600Z">
+        <seg>google_translate: Guida - Usar Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T133943Z">
@@ -82518,6 +82526,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T135923Z">
         <seg>ibo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>iceni_infix: Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125622Z" creationid="Karm46" creationdate="20171202T125622Z">
+        <seg>iceni_infix: Guida - Traduction de files PDF con Iceni Infix e OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -84321,6 +84337,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T155722Z" creationid="MELO46" creationdate="20131226T155722Z">
         <seg>linked subprograms that the work is specifically designed to require,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>linux: OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T125641Z" creationid="Karm46" creationdate="20171202T125641Z">
+        <seg>linux: OmegaT sur Linux, guida</seg>
       </tuv>
     </tu>
     <tu>
