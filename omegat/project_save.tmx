@@ -41841,6 +41841,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T001839Z" creationid="Karm46" creationdate="20171202T001839Z">
+        <seg>Copias Local functionante mundate: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130424T143658Z">
