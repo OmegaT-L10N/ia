@@ -7354,6 +7354,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T133653Z" creationid="Karm46" creationdate="20171202T133653Z">
+        <seg>&lt;e0&gt;Nota:&lt;/e0&gt; le information anterior se refere sol a files PDF con un strato de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140227T155043Z" creationid="MELO46" creationdate="20140227T155043Z">
@@ -36709,6 +36717,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094753Z">
         <seg>Importar le files fontal ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T133547Z" creationid="Karm46" creationdate="20171202T133547Z">
+        <seg>Importar le file fonte in &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, salvar lo como un file ODG, traducer lo, exportar lo a PDF como es necesse.</seg>
       </tuv>
     </tu>
     <tu>
