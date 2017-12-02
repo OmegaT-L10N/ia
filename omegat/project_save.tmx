@@ -38089,6 +38089,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T001110Z" creationid="Karm46" creationdate="20171202T001110Z">
+        <seg>Infix Professional pote ser utilisate sur iste platteformas in conjunction con Crossover Linux e Crossover Macintosh respectivemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T094807Z">
@@ -53085,6 +53093,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140630T220459Z" creationid="MELO46" creationdate="20140630T220459Z">
         <seg>Reparation de SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T000927Z" creationid="Karm46" creationdate="20171202T000927Z">
+        <seg>SVN - Cleanup (recursive)</seg>
       </tuv>
     </tu>
     <tu>
@@ -82146,6 +82162,14 @@ a</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T000904Z" creationid="Karm46" creationdate="20171202T000904Z">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T110112Z" creationid="Karm46" creationdate="20171126T110112Z">
@@ -92396,6 +92420,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T144856Z" creationid="MELO46" creationdate="20140615T144856Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171202T001006Z" creationid="Karm46" creationdate="20171202T001006Z">
+        <seg>{0}:	cleanup facite!!</seg>
       </tuv>
     </tu>
     <tu>
