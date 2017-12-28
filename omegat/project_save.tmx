@@ -8066,6 +8066,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Interaction data&lt;/f0&gt;: Firefox sends data about your interactions with Firefox to us (such as number of open tabs and windows; number of webpages visited; number and type of installed Firefox Add-ons; and session length) and Firefox features offered by Mozilla or our partners (such as interaction with Firefox search features and search partner referrals).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T182203Z" creationid="Karm46" creationdate="20171228T182203Z">
+        <seg>&lt;f0&gt;Datos de interaction&lt;/f0&gt;: Firefox invia datos circa tu interactiones con Firefox a nos (qual le numero de schedas e de fenestras aperite; le numero de paginas web visitate; numero e typo de additivos de Firefox installate; e longor del session) e le characteristicas de Firefox offerite per Mozilla o per nostre socios (assi como le interaction con le characteristicas de recerca de Firefox e le recerca de ligamines partner).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;J.&lt;/f0&gt; Preserve the network location, if any, given in the Document for &lt;t1/&gt;public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065056Z" creationid="MELO" creationdate="20131219T065056Z">
