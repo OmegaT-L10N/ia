@@ -2647,9 +2647,9 @@ ma tu non vide tu nomine in le listas, senti te libere de nos continger.)</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T101359Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T120109Z">
         <seg>(In le manual del usator, vide 'Files a render' &gt; 'Formatos del file' pro un lista del formatos de file supportate.)
-Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le fenestra "Files del projecto" o commanda iste action per le menu "Projecto" e selige le files fonte que tu vole copiar.</seg>
+Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le fenestra "Files de projecto" o commanda iste action per le menu "Projecto" e selige le files fonte que tu vole copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25468,8 +25468,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T094111Z" creationid="Melo46" creationdate="20151009T151538Z">
-        <seg>Le uso de memoria actual per le MV (Memoria Virtual) es: {0}MB; del qual, memoria libere: {1}MB; maxime disponibile: {2}MB;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115925Z" creationid="Melo46" creationdate="20151009T151538Z">
+        <seg>Le uso de memoria actual per le Memoria virtual (MV) es: {0}MB; del qual, memoria libere: {1}MB; maxime disponibile: {2}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -74684,8 +74684,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
-        <seg>Tu pote anque copiar le files in le plica "Primari" de tu projectos per medio de tu Administrator de files favorite e recargar tu projecto con le commando "Recarga" del menu "Projecto".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T120152Z">
+        <seg>Tu pote anque copiar le files in le plica "suorce" de tu projectos per medio de tu Gestor de files favorite e recargar tu projecto con le commando "Recargar" del menu "Projecto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -75425,8 +75425,8 @@ crear su plica de configuration.</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T165129Z">
-        <seg>Tu projecto non contine ulle file in formato supportate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T120014Z">
+        <seg>Tu projecto non contine ulle files in un formato supportate.</seg>
       </tuv>
     </tu>
     <tu>
