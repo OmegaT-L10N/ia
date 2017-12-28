@@ -2100,8 +2100,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20151009T161520Z" creationid="Melo46" creationdate="20151009T161520Z">
-        <seg>Mon&amp;Strar automaticamente le suggestiones pertinente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130648Z" creationid="Melo46" creationdate="20151009T161520Z">
+        <seg>Mon&amp;Stra automaticamente le suggestiones pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,8 +2116,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T170243Z" creationid="ia" creationdate="20170909T170243Z">
-        <seg>Mon&amp;Strar automaticamente le suggestiones pertinente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130818Z" creationid="ia" creationdate="20170909T170243Z">
+        <seg>Mon&amp;Stra automaticamente le suggestiones pertinente</seg>
       </tuv>
     </tu>
     <tu>
