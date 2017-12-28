@@ -8186,6 +8186,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Technical &amp; Interaction data&lt;/f0&gt;: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox’s suggested content.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T222251Z" creationid="Karm46" creationdate="20171228T222251Z">
+        <seg>&lt;f0&gt;Datos technic &amp; interactive&lt;/f0&gt;: Firefox invia nos datos e le position, dimensiones e placiamento del contentamento que nos proponer, e datos basal circa tu interactiones con le contentamento suggerite de Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Technical data&lt;/f0&gt;: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171228T220550Z" creationid="Karm46" creationdate="20171228T220550Z">
