@@ -52861,8 +52861,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T093656Z">
-        <seg>Restabilir le prede&amp;finitos</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115427Z">
+        <seg>Restabilir le parametros prede&amp;finite</seg>
       </tuv>
     </tu>
     <tu>
@@ -93859,6 +93859,16 @@ a</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ERROR_TITLE</prop>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115537Z" creationid="Karm46" creationdate="20171228T115537Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">Convention on the Rights of the Child.docx</prop>
       <prop type="prev">Have agreed as follows:</prop>
