@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10206M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43777,6 +43777,22 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T104700Z" creationid="Karm46" creationdate="20171228T104700Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T104746Z" creationid="Karm46" creationdate="20171228T104746Z">
+        <seg>URL del servitor Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most CAT tools use the term "project" to refer to a collection of folders and files associated with a translation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131220T030238Z">
@@ -45866,6 +45882,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160102Z" creationid="MELO46" creationdate="20131226T160102Z">
         <seg>OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T104833Z" creationid="Karm46" creationdate="20171228T104833Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -55423,6 +55447,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T104952Z" creationid="Karm46" creationdate="20171228T104952Z">
+        <seg>Le servitor non comprende le methodo de "traducer"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T100728Z" creationid="Karm46" creationdate="20170914T100728Z">
@@ -59052,6 +59084,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T104827Z" creationid="Karm46" creationdate="20171228T104827Z">
+        <seg>Test...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T082924Z">
@@ -60059,6 +60099,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T133858Z">
         <seg>On pote render, directemente in OmegaT, le files in formato Microsoft Office XML.; altere informationes pote esser trovate &lt;a0&gt;hic&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T104813Z" creationid="Karm46" creationdate="20171228T104813Z">
+        <seg>Le URL del servitor Moses es non definite</seg>
       </tuv>
     </tu>
     <tu>
