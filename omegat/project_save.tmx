@@ -36923,8 +36923,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130520T132730Z">
-        <seg>importante: pro usar le plugins, tu pote haber necessitate de installar un version de OmegaT plus recente.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T110011Z">
+        <seg>Importante: pro usar le plugins, tu pote haber necessitate de installar un version de OmegaT plus recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71913,6 +71913,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T232616Z" creationid="Karm46" creationdate="20170909T232616Z">
         <seg>Director del sito web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T105956Z" creationid="Karm46" creationdate="20171228T105956Z">
+        <seg>Le supporto del sito web pote ser scribite in Groovy.</seg>
       </tuv>
     </tu>
     <tu>
