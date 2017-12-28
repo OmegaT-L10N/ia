@@ -5986,6 +5986,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Learn more&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T182413Z" creationid="Karm46" creationdate="20171228T182413Z">
+        <seg>&lt;a0&gt;Apprende magis&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; together with the &lt;a1&gt;Unoconv plug-in&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T161656Z">
@@ -6286,6 +6294,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171129T155819Z">
         <seg>&lt;a1&gt;Discarga lo ex www.opera.com&lt;/a1&gt; (o pro le usatores de Linux: a transverso de tu repositorio de distribution).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Learn more&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T182257Z" creationid="Karm46" creationdate="20171228T182257Z">
+        <seg>&lt;a1&gt;Apprende magis&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24590,6 +24606,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T063002Z" creationid="MELO" creationdate="20131219T063002Z">
         <seg>Cover illustration is from &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt;, in the public domain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Crash reports</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T182459Z" creationid="Karm46" creationdate="20171228T182459Z">
+        <seg>Reportos de collapso</seg>
       </tuv>
     </tu>
     <tu>
@@ -51698,6 +51722,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Read the full documentation &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T182526Z" creationid="Karm46" creationdate="20171228T182526Z">
+        <seg>Lege le documentation complete &lt;a0&gt;ci&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T151441Z">
@@ -57855,6 +57887,14 @@ address new problems or concerns.</seg>
         <seg>Such new versions will
 be similar in spirit to the present version, but may differ in detail to
 address new problems or concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suggest relevant content</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T182354Z" creationid="Karm46" creationdate="20171228T182354Z">
+        <seg>Proponer contentamento pertinente</seg>
       </tuv>
     </tu>
     <tu>
