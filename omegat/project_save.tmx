@@ -21466,6 +21466,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default on desktop versions of Firefox, we will ask you to share a report with more detailed information about crashes with Mozilla, but you always have the choice to decline.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T222828Z" creationid="Karm46" creationdate="20171228T222828Z">
+        <seg>Per option initial sur le versiones de scriptorio de Firefox, nos te querera de compartir un reporto con plus detaliate informationes circa collapsos con Mozilla, ma tu semper ha le facultate de declinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo" changedate="20160803T080858Z" creationid="melo" creationdate="20160803T080858Z">
@@ -37093,6 +37101,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171228T181203Z" creationid="Karm46" creationdate="20171228T181203Z">
         <seg>Meliorar le performance e le stabilitate pro le usatores in omne loco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improve security for users everywhere</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T222406Z" creationid="Karm46" creationdate="20171228T222406Z">
+        <seg>Meliorar le securitate pro le usatores in omne loco</seg>
       </tuv>
     </tu>
     <tu>
