@@ -47299,8 +47299,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T102631Z">
-        <seg>OmegaT ha usate memorias de traduction pro registrar tu traductiones precedente. Pois OmegaT suggere traductiones verosimilante pro le texto que tu actualmente rende.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T131905Z">
+        <seg>OmegaT usa le memorias de traduction pro registrar tu traductiones precedente. Pois OmegaT suggere traductiones verosimilante pro le texto que tu actualmente rende.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65023,8 +65023,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171115T223915Z">
-        <seg>Iste memorias de traduction pote esser multo utile in un documento ja rendite, que necessita solo de un ajornamento.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T132007Z">
+        <seg>Iste memorias de traduction pote esser multo utile in un documento ja rendite, que necessita solo de ser actualisate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69691,8 +69691,8 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20150422T102732Z">
-        <seg>Le phrases sin alteration es automaticamente rendite, dum le phrases renovate es monstrate con le traduction del phrases vetere le plus similabile, si il ha.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T132142Z">
+        <seg>Le phrases sin alteration es automaticamente rendite, dum le phrases renovate es monstrate con le traduction del phrases vetere, si illos il ha, le plus similabile.</seg>
       </tuv>
     </tu>
     <tu>
