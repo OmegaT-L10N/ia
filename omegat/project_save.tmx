@@ -30170,6 +30170,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firefox displays content, such as “Snippets” (messages from Mozilla) and Top Sites (websites suggested by Mozilla for first-time Firefox users).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T221553Z" creationid="Karm46" creationdate="20171228T221553Z">
+        <seg>Firefox expone contentamentos, como “Snippets” (messages ab Mozilla) e Melior sitos (sitos web suggerite per Mozilla pro usatores comenciante de Firefox).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Firefox:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T154334Z">
@@ -72199,8 +72207,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T220610Z" creationid="Karm46" creationdate="20171228T220610Z">
-        <seg>Quando Firefox invia datos a nos, tu IP abbordar es temporarily collected pois que parte de nostre server logs.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T220758Z" creationid="Karm46" creationdate="20171228T220610Z">
+        <seg>Quando Firefox invia datos a nos, tu IP abbordar es temporarimente colligite como parte del diarios de nostre servitor.</seg>
       </tuv>
     </tu>
     <tu>
