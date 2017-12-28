@@ -1052,8 +1052,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094848Z">
-        <seg>Retro (&amp;Back) in historia</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130320Z">
+        <seg>Retro (&amp;Back) in le chronologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1468,8 +1468,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170911T085810Z">
-        <seg>Vader (&amp;Go) a:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130218Z">
+        <seg>Vader (&amp;Go) al:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2036,8 +2036,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130210T094847Z">
-        <seg>Numero del &amp;Segmento...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130227Z">
+        <seg>Numero de &amp;Segmento...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22212,8 +22212,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T165326Z" creationid="ia" creationdate="20170909T165326Z">
-        <seg>Controla problemas pro le documento &amp;Currente</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130500Z" creationid="ia" creationdate="20170909T165326Z">
+        <seg>Controla problemas del documento &amp;Currente</seg>
       </tuv>
     </tu>
     <tu>
@@ -29644,8 +29644,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T095042Z">
-        <seg>&amp;Filtros de File...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130640Z">
+        <seg>&amp;Filtros de file...</seg>
       </tuv>
     </tu>
     <tu>
@@ -56901,8 +56901,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo" changedate="20141026T100543Z" creationid="Melo" creationdate="20141026T100543Z">
-        <seg>Fonte del Concordantia Seligite (&amp;Match)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130415Z" creationid="Melo" creationdate="20141026T100543Z">
+        <seg>Fonte del Concordantia (&amp;Match) seligite</seg>
       </tuv>
     </tu>
     <tu>
