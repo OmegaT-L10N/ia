@@ -74409,6 +74409,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can install Add-ons from addons.mozilla.org (“AMO”) or from the Firefox Add-ons Manager, which is accessible from the Firefox menu button in the toolbar.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T183703Z" creationid="Karm46" creationdate="20171228T183703Z">
+        <seg>Tu pote installar le additivos ab addons.mozilla.org (“AMO”) o ab le Gestor de additivos de Firefox, le qual es accessibile ab le button de menu Firefox in le barra de utensiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T192159Z">
