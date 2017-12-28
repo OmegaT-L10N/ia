@@ -5986,6 +5986,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Learn more&lt;/a0&gt;, including how to enable or disable sync.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T183041Z" creationid="Karm46" creationdate="20171228T183041Z">
+        <seg>&lt;a0&gt;Apprende plus&lt;/a0&gt;, como activar o disactivar sync.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Learn more&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171228T182413Z" creationid="Karm46" creationdate="20171228T182413Z">
@@ -30118,6 +30126,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095310Z">
         <seg>Finnese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Firefox Accounts</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T182620Z" creationid="Karm46" creationdate="20171228T182620Z">
+        <seg>Contos de Firefox</seg>
       </tuv>
     </tu>
     <tu>
