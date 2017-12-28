@@ -8130,6 +8130,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Location data&lt;/f0&gt;: Firefox uses your IP address to suggest relevant content based on your country.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T221911Z" creationid="Karm46" creationdate="20171228T221911Z">
+        <seg>&lt;f0&gt;Datos de position&lt;/f0&gt;: Firefox usa tu adresse IP pro proponer pertinente contentamento in base a tu pais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M.&lt;/f0&gt; Delete any section Entitled "Endorsements." Such a section may not be included in the Modified Version.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065101Z" creationid="MELO" creationdate="20131219T065101Z">
