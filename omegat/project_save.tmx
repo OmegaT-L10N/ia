@@ -4910,8 +4910,8 @@ configurationes del projecto).</seg>
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T094039Z">
-        <seg>1) Reducer le numero del files fonte e traducer in processo per lotes (batches);</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115755Z">
+        <seg>1) Reduce le numero del files fonte e traducer in processo per lotes (batches);</seg>
       </tuv>
     </tu>
     <tu>
@@ -5121,8 +5121,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO46" changedate="20131219T171319Z">
-        <seg>2) Accrescer le quantitate de memoria disponibile pro OmegaT, specificante  
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115812Z">
+        <seg>2) Accresce le quantitate de memoria disponibile pro OmegaT, specificante  
 "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" sur le linea commando 
 o in le script de initio de OmegaT;
 Le quantitate actual es {0}MB;</seg>
@@ -47088,8 +47088,8 @@ a esser lanceate.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T093833Z">
-        <seg>OmegaT ha functionate extra memoria, e se quitara quando tu pulsara OK.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115742Z">
+        <seg>OmegaT flueva extra memoria, e se quitara quando tu pulsara OK.</seg>
       </tuv>
     </tu>
     <tu>
