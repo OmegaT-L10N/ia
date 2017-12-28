@@ -5962,6 +5962,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; &lt;a1&gt;&lt;f2&gt;https://www-dev.allizom.org/ia/privacy/firefox/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T175153Z" creationid="Karm46" creationdate="20171228T175153Z">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; &lt;a1&gt;&lt;f2&gt;https://www-dev.allizom.org/ia/confidentialitate/firefox/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T211733Z">
@@ -19956,6 +19964,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At Mozilla, we believe that privacy is fundamental to a healthy internet.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T175421Z" creationid="Karm46" creationdate="20171228T175421Z">
+        <seg>A Mozilla, nos crede que le confidentialitate es fundamental pro un Internet salubre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T230556Z" creationid="MELO46" creationdate="20140108T224751Z">
@@ -30074,6 +30090,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firefox Privacy Notice</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T175312Z" creationid="Karm46" creationdate="20171228T175312Z">
+        <seg>Firefox, advertimento de  confidentialitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Firefox:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130605T154334Z">
@@ -38913,6 +38937,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201724Z" creationid="ia" creationdate="20170909T201724Z">
         <seg>Director del integration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integritate de Internet</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T175233Z" creationid="Karm46" creationdate="20171228T175233Z">
+        <seg>Integritate de Interrete</seg>
       </tuv>
     </tu>
     <tu>
@@ -59290,6 +59322,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T175454Z">
         <seg>Que tu ha preparate le intervallo de auto refrescamento in le lector del tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T180024Z" creationid="Karm46" creationdate="20171228T180024Z">
+        <seg>Per iste ration nos construe Firefox, e omne nostre productos, pro te dar major controlo super le informationes que tu comparti online e le informationes que tu comparti con nos.</seg>
       </tuv>
     </tu>
     <tu>
