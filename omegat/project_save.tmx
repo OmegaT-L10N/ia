@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8174,6 +8174,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140128T105932Z" creationid="MELO46" creationdate="20140128T105814Z">
         <seg>&lt;f0&gt;Finde&lt;/f0&gt;: un vice que es seligite un rango, tu debe indicar su puncto de division; tu debe sol cliccar in le cassa de modifica ante le position ubi tu desira finder le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Technical data&lt;/f0&gt;: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T220550Z" creationid="Karm46" creationdate="20171228T220550Z">
+        <seg>&lt;f0&gt;Datos technic&lt;/f0&gt;: Firefox invia datos circa tu version e lingua de Firefox; Systema operative del apparato e configuration del hardware; memoria, informationes de base circa collapsos e errores; consequentia de processos automatisate como actualisationes, navigation secur, e activation pro nos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38549,6 +38557,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Innovationes del web</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T215744Z" creationid="Karm46" creationdate="20171228T215744Z">
+        <seg>Innovationes del TTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Match</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130301T214001Z">
@@ -39017,14 +39033,6 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T201724Z" creationid="ia" creationdate="20170909T201724Z">
         <seg>Director del integration</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Integritate de Internet</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T175233Z" creationid="Karm46" creationdate="20171228T175233Z">
-        <seg>Integritate de Interrete</seg>
       </tuv>
     </tu>
     <tu>
@@ -72185,6 +72193,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160810T105750Z" creationid="Melo46" creationdate="20160810T105750Z">
         <seg>Quando es marcate le option &lt;e1&gt; insensibile al largessa del character &lt;/e1&gt;, le recercas pro le formas  plen  (characteres CJK) concordara le formas a largessa medietate e vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T220610Z" creationid="Karm46" creationdate="20171228T220610Z">
+        <seg>Quando Firefox invia datos a nos, tu IP abbordar es temporarily collected pois que parte de nostre server logs.</seg>
       </tuv>
     </tu>
     <tu>
