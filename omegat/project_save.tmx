@@ -6980,8 +6980,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130216T000744Z">
-        <seg>&lt;e0&gt;Qualcunque clave character,&lt;/e0&gt; si cliccate foras del segmento modificabile, essera ignorate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T132848Z">
+        <seg>&lt;e0&gt;Qualcunque clave de character,&lt;/e0&gt; si cliccate foras del segmento modificabile, essera ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66907,8 +66907,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171201T121422Z">
-        <seg>Isto breve texto describe le comportamento de claves in le quadro Modificar, le editor del segmentos.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T132827Z">
+        <seg>Iste breve texto describe le comportamento del claves in le quadro Modificar, le editor del segmentos.</seg>
       </tuv>
     </tu>
     <tu>
