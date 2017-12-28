@@ -55631,6 +55631,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a default search provider</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T194151Z" creationid="Karm46" creationdate="20171228T194151Z">
+        <seg>Defini un suppletor de recercas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set a master password to protect your private data.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171001T083327Z" creationid="Karm46" creationdate="20171001T083327Z">
