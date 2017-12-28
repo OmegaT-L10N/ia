@@ -41605,8 +41605,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
-      <tuv lang="IA" changeid="melo" changedate="20160814T173913Z" creationid="melo" creationdate="20160814T173913Z">
-        <seg>Marcar sinistra-a-dextra (LRM U+200E)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130035Z" creationid="melo" creationdate="20160814T173913Z">
+        <seg>Marca sinistra-a-dextra (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51948,8 +51948,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T095507Z" creationid="MELO46" creationdate="20140416T211841Z">
-        <seg>Registrar un Identic traduction</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130027Z" creationid="MELO46" creationdate="20140416T211841Z">
+        <seg>Registrar un Traduction identic</seg>
       </tuv>
     </tu>
     <tu>
@@ -53133,8 +53133,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
-      <tuv lang="IA" changeid="melo" changedate="20160814T173920Z" creationid="melo" creationdate="20160814T173920Z">
-        <seg>Marcar dextra-a-sinistra (RLM U+200F)</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T130109Z" creationid="melo" creationdate="20160814T173920Z">
+        <seg>Marca dextra-a-sinistra (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
