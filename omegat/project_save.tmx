@@ -4605,9 +4605,9 @@ configurationes del projecto).</seg>
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T092935Z" creationid="melo" creationdate="20160814T172121Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115255Z" creationid="melo" creationdate="20160814T172121Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		Con le qual plenar le file TMX pseudo-traducite.</seg>
+		Con que plenar le file TMX pseudo-traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23765,10 +23765,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20170910T092742Z" creationid="melo" creationdate="20160814T172253Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20171228T115052Z" creationid="melo" creationdate="20160814T172253Z">
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
-		Un lista blanc de regular expressiones del files fonte a processar.</seg>
+		Un lista blanc de expressiones regular del files fonte a processar.</seg>
       </tuv>
     </tu>
     <tu>
