@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10206M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1052,8 +1052,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130320Z">
-        <seg>Retro (&amp;Back) in le chronologia</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130210T094848Z">
+        <seg>Retro (&amp;Back) in historia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1468,8 +1468,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130218Z">
-        <seg>Vader (&amp;Go) al:</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T085810Z">
+        <seg>Vader (&amp;Go) a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2036,8 +2036,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130227Z">
-        <seg>Numero de &amp;Segmento...</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130210T094847Z">
+        <seg>Numero del &amp;Segmento...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2100,8 +2100,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130648Z" creationid="Melo46" creationdate="20151009T161520Z">
-        <seg>Mon&amp;Stra automaticamente le suggestiones pertinente</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20151009T161520Z" creationid="Melo46" creationdate="20151009T161520Z">
+        <seg>Mon&amp;Strar automaticamente le suggestiones pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,8 +2116,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130818Z" creationid="ia" creationdate="20170909T170243Z">
-        <seg>Mon&amp;Stra automaticamente le suggestiones pertinente</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T170243Z" creationid="ia" creationdate="20170909T170243Z">
+        <seg>Mon&amp;Strar automaticamente le suggestiones pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2647,9 +2647,9 @@ ma tu non vide tu nomine in le listas, senti te libere de nos continger.)</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T120109Z">
+      <tuv lang="IA" changeid="Melo" changedate="20141026T101359Z">
         <seg>(In le manual del usator, vide 'Files a render' &gt; 'Formatos del file' pro un lista del formatos de file supportate.)
-Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le fenestra "Files de projecto" o commanda iste action per le menu "Projecto" e selige le files fonte que tu vole copiar.</seg>
+Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le fenestra "Files del projecto" o commanda iste action per le menu "Projecto" e selige le files fonte que tu vole copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4605,9 +4605,9 @@ configurationes del projecto).</seg>
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115255Z" creationid="melo" creationdate="20160814T172121Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T092935Z" creationid="melo" creationdate="20160814T172121Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		Con que plenar le file TMX pseudo-traducite.</seg>
+		Con le qual plenar le file TMX pseudo-traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4717,9 +4717,9 @@ configurationes del projecto).</seg>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T114958Z" creationid="Melo46" creationdate="20160728T194713Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T091722Z" creationid="Melo46" creationdate="20160728T194713Z">
         <seg>-h, --help
-		monstra le informationes de uso.</seg>
+		monstra le informationes del uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4910,8 +4910,8 @@ configurationes del projecto).</seg>
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115755Z">
-        <seg>1) Reduce le numero del files fonte e traducer in processo per lotes (batches);</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094039Z">
+        <seg>1) Reducer le numero del files fonte e traducer in processo per lotes (batches);</seg>
       </tuv>
     </tu>
     <tu>
@@ -5121,8 +5121,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115812Z">
-        <seg>2) Accresce le quantitate de memoria disponibile pro OmegaT, specificante  
+      <tuv lang="IA" changeid="MELO46" changedate="20131219T171319Z">
+        <seg>2) Accrescer le quantitate de memoria disponibile pro OmegaT, specificante  
 "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" sur le linea commando 
 o in le script de initio de OmegaT;
 Le quantitate actual es {0}MB;</seg>
@@ -5962,14 +5962,6 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; &lt;a1&gt;&lt;f2&gt;https://www-dev.allizom.org/ia/privacy/firefox/&lt;/f2&gt;&lt;/a1&gt;</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T175153Z" creationid="Karm46" creationdate="20171228T175153Z">
-        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; &lt;a1&gt;&lt;f2&gt;https://www-dev.allizom.org/ia/confidentialitate/firefox/&lt;/f2&gt;&lt;/a1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T211733Z">
@@ -5982,22 +5974,6 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130606T043605Z">
         <seg>&lt;a0&gt;Seque iste ligamine pro referer te a Google&lt;/a0&gt; pro le clave API v2 de Google Translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;a0&gt;Learn more&lt;/a0&gt;, including how to enable or disable sync.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T183041Z" creationid="Karm46" creationdate="20171228T183041Z">
-        <seg>&lt;a0&gt;Apprende plus&lt;/a0&gt;, como activar o disactivar sync.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;a0&gt;Learn more&lt;/a0&gt;.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T182413Z" creationid="Karm46" creationdate="20171228T182413Z">
-        <seg>&lt;a0&gt;Apprende magis&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6302,14 +6278,6 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171129T155819Z">
         <seg>&lt;a1&gt;Discarga lo ex www.opera.com&lt;/a1&gt; (o pro le usatores de Linux: a transverso de tu repositorio de distribution).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;a1&gt;Learn more&lt;/a1&gt;.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T182257Z" creationid="Karm46" creationdate="20171228T182257Z">
-        <seg>&lt;a1&gt;Apprende magis&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7012,8 +6980,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T132848Z">
-        <seg>&lt;e0&gt;Qualcunque clave de character,&lt;/e0&gt; si cliccate foras del segmento modificabile, essera ignorate.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130216T000744Z">
+        <seg>&lt;e0&gt;Qualcunque clave character,&lt;/e0&gt; si cliccate foras del segmento modificabile, essera ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8090,14 +8058,6 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f0&gt;Interaction data&lt;/f0&gt;: Firefox sends data about your interactions with Firefox to us (such as number of open tabs and windows; number of webpages visited; number and type of installed Firefox Add-ons; and session length) and Firefox features offered by Mozilla or our partners (such as interaction with Firefox search features and search partner referrals).</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T182203Z" creationid="Karm46" creationdate="20171228T182203Z">
-        <seg>&lt;f0&gt;Datos de interaction&lt;/f0&gt;: Firefox invia datos circa tu interactiones con Firefox a nos (qual le numero de schedas e de fenestras aperite; le numero de paginas web visitate; numero e typo de additivos de Firefox installate; e longor del session) e le characteristicas de Firefox offerite per Mozilla o per nostre socios (assi como le interaction con le characteristicas de recerca de Firefox e le recerca de ligamines partner).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f0&gt;J.&lt;/f0&gt; Preserve the network location, if any, given in the Document for &lt;t1/&gt;public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065056Z" creationid="MELO" creationdate="20131219T065056Z">
@@ -8126,14 +8086,6 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T065059Z" creationid="MELO" creationdate="20131219T065059Z">
         <seg>&lt;f0&gt;L.&lt;/f0&gt; Preserve all the Invariant Sections of the Document, unaltered in their text and in their titles.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;Location data&lt;/f0&gt;: Firefox uses your IP address to suggest relevant content based on your country.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T221911Z" creationid="Karm46" creationdate="20171228T221911Z">
-        <seg>&lt;f0&gt;Datos de position&lt;/f0&gt;: Firefox usa tu adresse IP pro proponer pertinente contentamento in base a tu pais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8182,22 +8134,6 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140128T105932Z" creationid="MELO46" creationdate="20140128T105814Z">
         <seg>&lt;f0&gt;Finde&lt;/f0&gt;: un vice que es seligite un rango, tu debe indicar su puncto de division; tu debe sol cliccar in le cassa de modifica ante le position ubi tu desira finder le segmento.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;Technical &amp; Interaction data&lt;/f0&gt;: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with Firefox’s suggested content.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T222251Z" creationid="Karm46" creationdate="20171228T222251Z">
-        <seg>&lt;f0&gt;Datos technic &amp; interactive&lt;/f0&gt;: Firefox invia nos datos e le position, dimensiones e placiamento del contentamento que nos proponer, e datos basal circa tu interactiones con le contentamento suggerite de Firefox.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;Technical data&lt;/f0&gt;: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T220550Z" creationid="Karm46" creationdate="20171228T220550Z">
-        <seg>&lt;f0&gt;Datos technic&lt;/f0&gt;: Firefox invia datos circa tu version e lingua de Firefox; Systema operative del apparato e configuration del hardware; memoria, informationes de base circa collapsos e errores; consequentia de processos automatisate como actualisationes, navigation secur, e activation pro nos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17152,14 +17088,6 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Add-ons</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T183138Z" creationid="Karm46" creationdate="20171228T183138Z">
-        <seg>Additivos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162818Z" creationid="MELO46" creationdate="20131219T162818Z">
@@ -20028,14 +19956,6 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>At Mozilla, we believe that privacy is fundamental to a healthy internet.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T175421Z" creationid="Karm46" creationdate="20171228T175421Z">
-        <seg>A Mozilla, nos crede que le confidentialitate es fundamental pro un Internet salubre.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140108T230556Z" creationid="MELO46" creationdate="20140108T224751Z">
@@ -21164,14 +21084,6 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Browser plugin</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T105031Z" creationid="Karm46" creationdate="20171228T105031Z">
-        <seg>Plugin del navigator web</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130514T172113Z">
@@ -21462,14 +21374,6 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T085411Z" creationid="MELO46" creationdate="20140228T085411Z">
         <seg>By contrast, the GNU General Public</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>By default on desktop versions of Firefox, we will ask you to share a report with more detailed information about crashes with Mozilla, but you always have the choice to decline.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T222828Z" creationid="Karm46" creationdate="20171228T222828Z">
-        <seg>Per option initial sur le versiones de scriptorio de Firefox, nos te querera de compartir un reporto con plus detaliate informationes circa collapsos con Mozilla, ma tu semper ha le facultate de declinar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22300,8 +22204,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130500Z" creationid="ia" creationdate="20170909T165326Z">
-        <seg>Controla problemas del documento &amp;Currente</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165326Z" creationid="ia" creationdate="20170909T165326Z">
+        <seg>Controla problemas pro le documento &amp;Currente</seg>
       </tuv>
     </tu>
     <tu>
@@ -23499,8 +23403,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T125744Z" creationid="ia" creationdate="20170909T161210Z">
-        <seg>Committer le files fonte</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T161210Z" creationid="ia" creationdate="20170909T161210Z">
+        <seg>Committer le files fontal</seg>
       </tuv>
     </tu>
     <tu>
@@ -23853,10 +23757,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115052Z" creationid="melo" creationdate="20160814T172253Z">
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T092742Z" creationid="melo" creationdate="20160814T172253Z">
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
-		Un lista blanc de expressiones regular del files fonte a processar.</seg>
+		Un lista blanc de regular expressiones del files fonte a processar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24212,8 +24116,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T125634Z">
-        <seg>Copia le files in le plica \source...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171126T133600Z">
+        <seg>Copiar le files in le plica \source...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24658,14 +24562,6 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Crash reports</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T182459Z" creationid="Karm46" creationdate="20171228T182459Z">
-        <seg>Reportos de collapso</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094802Z">
@@ -24700,8 +24596,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T125857Z" creationid="MELO46" creationdate="20140615T143009Z">
-        <seg>Crear le &amp;Documento actual rendite</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094850Z" creationid="MELO46" creationdate="20140615T143009Z">
+        <seg>Crear le &amp;Documento rendite actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -25564,8 +25460,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115925Z" creationid="Melo46" creationdate="20151009T151538Z">
-        <seg>Le uso de memoria actual per le Memoria virtual (MV) es: {0}MB; del qual, memoria libere: {1}MB; maxime disponibile: {2}MB;</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094111Z" creationid="Melo46" creationdate="20151009T151538Z">
+        <seg>Le uso de memoria actual per le MV (Memoria Virtual) es: {0}MB; del qual, memoria libere: {1}MB; maxime disponibile: {2}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27288,8 +27184,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T125552Z">
-        <seg>Discargar un projec&amp;To de equipa...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T094157Z">
+        <seg>Discargar un  projec&amp;To de equipa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28724,8 +28620,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T120204Z">
-        <seg>Error</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130210T094747Z">
+        <seg>ERROR:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29650,14 +29546,6 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Fast access to websites.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T105629Z" creationid="Karm46" creationdate="20171228T105629Z">
-        <seg>Rapide accesso al sitos web.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094950Z">
@@ -29740,8 +29628,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130640Z">
-        <seg>&amp;Filtros de file...</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095042Z">
+        <seg>&amp;Filtros de File...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30166,38 +30054,6 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095310Z">
         <seg>Finnese</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Firefox Accounts</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T182620Z" creationid="Karm46" creationdate="20171228T182620Z">
-        <seg>Contos de Firefox</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Firefox Privacy Notice</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T175312Z" creationid="Karm46" creationdate="20171228T175312Z">
-        <seg>Firefox, advertimento de  confidentialitate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Firefox by default shares data to:</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T180809Z" creationid="Karm46" creationdate="20171228T180809Z">
-        <seg>Firefox per predisposition initial comparti datos pro:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Firefox displays content, such as “Snippets” (messages from Mozilla) and Top Sites (websites suggested by Mozilla for first-time Firefox users).</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T221553Z" creationid="Karm46" creationdate="20171228T221553Z">
-        <seg>Firefox expone contentamentos, como “Snippets” (messages ab Mozilla) e Melior sitos (sitos web suggerite per Mozilla pro usatores comenciante de Firefox).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35666,8 +35522,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T132250Z">
-        <seg>Si tu ha memorias de traduction vetule, per exemplo ex tu agentia de traduction o ex un cliente, OmegaT pote usar los pro referentia.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T102859Z">
+        <seg>Si tu ha memorias de traduction vetule, per exemplo ex tu agentia de traduction o ex un cliente, OmegaT pote pro referentia usar los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37051,8 +36907,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T110011Z">
-        <seg>Importante: pro usar le plugins, tu pote haber necessitate de installar un version de OmegaT plus recente.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130520T132730Z">
+        <seg>importante: pro usar le plugins, tu pote haber necessitate de installar un version de OmegaT plus recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37067,8 +36923,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T125659Z" creationid="Melo" creationdate="20160225T133023Z">
-        <seg>Importation del Pagina wiki fallite</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20160225T133023Z" creationid="Melo" creationdate="20160225T133023Z">
+        <seg>Importation del pagina wiki fallite</seg>
       </tuv>
     </tu>
     <tu>
@@ -37093,22 +36949,6 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T093215Z">
         <seg>Importa unitates ab le paginas de MediaWiki, basate super le URL inscribite.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Improve performance and stability for users everywhere</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T181203Z" creationid="Karm46" creationdate="20171228T181203Z">
-        <seg>Meliorar le performance e le stabilitate pro le usatores in omne loco</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Improve security for users everywhere</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T222406Z" creationid="Karm46" creationdate="20171228T222406Z">
-        <seg>Meliorar le securitate pro le usatores in omne loco</seg>
       </tuv>
     </tu>
     <tu>
@@ -38185,14 +38025,6 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T180455Z" creationid="Karm46" creationdate="20171228T180455Z">
-        <seg>In ce Advertimento de confidentialitate, nos explica que datos Firefox comparti e puncta te pro preparar te a compartir etiam minus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL-ZH translation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T154641Z">
@@ -38593,14 +38425,6 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T083723Z">
         <seg>Le tags In linea inter le segmentos sume le forma del numeros serial inter parentheses crispe, id es {1}, {2}, etc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Innovationes del web</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T215744Z" creationid="Karm46" creationdate="20171228T215744Z">
-        <seg>Innovationes del TTT</seg>
       </tuv>
     </tu>
     <tu>
@@ -41765,8 +41589,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130035Z" creationid="melo" creationdate="20160814T173913Z">
-        <seg>Marca sinistra-a-dextra (LRM U+200E)</seg>
+      <tuv lang="IA" changeid="melo" changedate="20160814T173913Z" creationid="melo" creationdate="20160814T173913Z">
+        <seg>Marcar sinistra-a-dextra (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43809,8 +43633,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T132204Z">
-        <seg>Le modificationes al documento original es assi tractate rapidemente e con multo major facilitate.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T102815Z">
+        <seg>Le modificationes al documento original es assi tractate rapidemente e con multe major facilitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43949,22 +43773,6 @@ violation by some reasonable means, this is the first time you have
 received notice of violation of this License (for any work) from that
 copyright holder, and you cure the violation prior to 30 days after
 your receipt of the notice.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Moses</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T104700Z" creationid="Karm46" creationdate="20171228T104700Z">
-        <seg>Moses</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Moses Server URL:</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T104746Z" creationid="Karm46" creationdate="20171228T104746Z">
-        <seg>URL del servitor Moses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46062,14 +45870,6 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OK</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T104833Z" creationid="Karm46" creationdate="20171228T104833Z">
-        <seg>OK</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130519T215328Z">
@@ -47248,8 +47048,8 @@ a esser lanceate.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115742Z">
-        <seg>OmegaT flueva extra memoria, e se quitara quando tu pulsara OK.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093833Z">
+        <seg>OmegaT ha functionate extra memoria, e se quitara quando tu pulsara OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47459,8 +47259,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T131905Z">
-        <seg>OmegaT usa le memorias de traduction pro registrar tu traductiones precedente. Pois OmegaT suggere traductiones verosimilante pro le texto que tu actualmente rende.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T102631Z">
+        <seg>OmegaT ha usate memorias de traduction pro registrar tu traductiones precedente. Pois OmegaT suggere traductiones verosimilante pro le texto que tu actualmente rende.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49059,8 +48859,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T110326Z">
-        <seg>Altere usatores es avisate a usar in vice le &lt;a0&gt;Plugin Okapi Filters&lt;/a0&gt;.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130519T221102Z">
+        <seg>Altere usatores es in vice avisate a usar le &lt;a0&gt;Plugin Okapi Filters&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50266,8 +50066,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T131612Z">
-        <seg>Per favor elige qual comportamento es appropriate.</seg>
+      <tuv lang="IA" changeid="MELO" changedate="20130210T095341Z">
+        <seg>Per favor selige qual comportamento es appropriate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51794,14 +51594,6 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Read the full documentation &lt;a0&gt;here&lt;/a0&gt;.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T182526Z" creationid="Karm46" creationdate="20171228T182526Z">
-        <seg>Lege le documentation complete &lt;a0&gt;ci&lt;/a0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130808T151441Z">
@@ -52116,8 +51908,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130027Z" creationid="MELO46" creationdate="20140416T211841Z">
-        <seg>Registrar un Traduction identic</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T095507Z" creationid="MELO46" creationdate="20140416T211841Z">
+        <seg>Registrar un Identic traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -53029,8 +52821,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115427Z">
-        <seg>Restabilir le parametros prede&amp;finite</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170910T093656Z">
+        <seg>Restabilir le prede&amp;finitos</seg>
       </tuv>
     </tu>
     <tu>
@@ -53301,8 +53093,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130109Z" creationid="melo" creationdate="20160814T173920Z">
-        <seg>Marca dextra-a-sinistra (RLM U+200F)</seg>
+      <tuv lang="IA" changeid="melo" changedate="20160814T173920Z" creationid="melo" creationdate="20160814T173920Z">
+        <seg>Marcar dextra-a-sinistra (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55631,14 +55423,6 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Server does not understand the "translate" method</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T104952Z" creationid="Karm46" creationdate="20171228T104952Z">
-        <seg>Le servitor non comprende le methodo de "traducer"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T100728Z" creationid="Karm46" creationdate="20170914T100728Z">
@@ -55675,14 +55459,6 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T001424Z" creationid="Melo46" creationdate="20160729T001424Z">
         <seg>Configurar le plica del scriptes...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Set a default search provider</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T194151Z" creationid="Karm46" creationdate="20171228T194151Z">
-        <seg>Defini un suppletor de recercas</seg>
       </tuv>
     </tu>
     <tu>
@@ -57077,8 +56853,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T130415Z" creationid="Melo" creationdate="20141026T100543Z">
-        <seg>Fonte del Concordantia (&amp;Match) seligite</seg>
+      <tuv lang="IA" changeid="Melo" changedate="20141026T100543Z" creationid="Melo" creationdate="20141026T100543Z">
+        <seg>Fonte del Concordantia Seligite (&amp;Match)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57967,14 +57743,6 @@ address new problems or concerns.</seg>
         <seg>Such new versions will
 be similar in spirit to the present version, but may differ in detail to
 address new problems or concerns.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Suggest relevant content</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T182354Z" creationid="Karm46" creationdate="20171228T182354Z">
-        <seg>Proponer contentamento pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -59284,14 +59052,6 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Testing...</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T104827Z" creationid="Karm46" creationdate="20171228T104827Z">
-        <seg>Test...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T082924Z">
@@ -59474,14 +59234,6 @@ Le ambito de un substitution de texto es le segmentos de destination del project
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T175454Z">
         <seg>Que tu ha preparate le intervallo de auto refrescamento in le lector del tela.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T180024Z" creationid="Karm46" creationdate="20171228T180024Z">
-        <seg>Per iste ration nos construe Firefox, e omne nostre productos, pro te dar major controlo super le informationes que tu comparti online e le informationes que tu comparti con nos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60307,14 +60059,6 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T133858Z">
         <seg>On pote render, directemente in OmegaT, le files in formato Microsoft Office XML.; altere informationes pote esser trovate &lt;a0&gt;hic&lt;/a0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The Moses server URL is not set</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T104813Z" creationid="Karm46" creationdate="20171228T104813Z">
-        <seg>Le URL del servitor Moses es non definite</seg>
       </tuv>
     </tu>
     <tu>
@@ -65215,8 +64959,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T132007Z">
-        <seg>Iste memorias de traduction pote esser multo utile in un documento ja rendite, que necessita solo de ser actualisate.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171115T223915Z">
+        <seg>Iste memorias de traduction pote esser multo utile in un documento ja rendite, que necessita solo de un ajornamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67099,8 +66843,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T132827Z">
-        <seg>Iste breve texto describe le comportamento del claves in le quadro Modificar, le editor del segmentos.</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20171201T121422Z">
+        <seg>Isto breve texto describe le comportamento de claves in le quadro Modificar, le editor del segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69883,8 +69627,8 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T132142Z">
-        <seg>Le phrases sin alteration es automaticamente rendite, dum le phrases renovate es monstrate con le traduction del phrases vetere, si illos il ha, le plus similabile.</seg>
+      <tuv lang="IA" changeid="Melo46" changedate="20150422T102732Z">
+        <seg>Le phrases sin alteration es automaticamente rendite, dum le phrases renovate es monstrate con le traduction del phrases vetere le plus similabile, si il ha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71935,14 +71679,6 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>We also adhere to the practices outlined in the Mozilla &lt;a0&gt;privacy policy&lt;/a0&gt; for how we receive, handle and share information we collect from Firefox.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T180739Z" creationid="Karm46" creationdate="20171228T180739Z">
-        <seg>Nos alsi adhere al practicas delineate in le &lt;a0&gt;Politica de confidentialitate&lt;/a0&gt; de Mozilla pro como nos recipe, tracta e comparti le informationes que nos collige de Firefox.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T215019Z">
@@ -72005,14 +71741,6 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="IA" changeid="Karm46" changedate="20171130T171619Z" creationid="Karm46" creationdate="20170913T172430Z">
         <seg>Nos recommenda de usar le pacchettos de OmegaT que include le JRE, pro te sparniar del
 enoio de lo selectionar, obtener e installar.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>We strive to collect only what we need to improve Firefox for everyone.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T180234Z" creationid="Karm46" creationdate="20171228T180234Z">
-        <seg>Nos effortia nos pro colliger sol lo que nos besonia pro meliorar Firefox pro totes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72125,14 +71853,6 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Website support can be scripted in Groovy.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T105956Z" creationid="Karm46" creationdate="20171228T105956Z">
-        <seg>Le supporto del sito web pote ser scribite in Groovy.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T100735Z">
@@ -72233,14 +71953,6 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160810T105750Z" creationid="Melo46" creationdate="20160810T105750Z">
         <seg>Quando es marcate le option &lt;e1&gt; insensibile al largessa del character &lt;/e1&gt;, le recercas pro le formas  plen  (characteres CJK) concordara le formas a largessa medietate e vice versa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T220758Z" creationid="Karm46" creationdate="20171228T220610Z">
-        <seg>Quando Firefox invia datos a nos, tu IP abbordar es temporarimente colligite como parte del diarios de nostre servitor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74473,14 +74185,6 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can install Add-ons from addons.mozilla.org (“AMO”) or from the Firefox Add-ons Manager, which is accessible from the Firefox menu button in the toolbar.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T183703Z" creationid="Karm46" creationdate="20171228T183703Z">
-        <seg>Tu pote installar le additivos ab addons.mozilla.org (“AMO”) o ab le Gestor de additivos de Firefox, le qual es accessibile ab le button de menu Firefox in le barra de utensiles.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T192159Z">
@@ -74908,8 +74612,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T120152Z">
-        <seg>Tu pote anque copiar le files in le plica "suorce" de tu projectos per medio de tu Gestor de files favorite e recargar tu projecto con le commando "Recargar" del menu "Projecto".</seg>
+      <tuv lang="IA" changeid="Karm46" changedate="20170911T224011Z">
+        <seg>Tu pote anque copiar le files in le plica "Primari" de tu projectos per medio de tu Administrator de files favorite e recargar tu projecto con le commando "Recarga" del menu "Projecto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -75649,8 +75353,8 @@ crear su plica de configuration.</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T120014Z">
-        <seg>Tu projecto non contine ulle files in un formato supportate.</seg>
+      <tuv lang="IA" changeid="ia" changedate="20170909T165129Z">
+        <seg>Tu projecto non contine ulle file in formato supportate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94083,16 +93787,6 @@ a</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
-    <tu>
-      <prop type="file">Bundle.properties</prop>
-      <prop type="id">ERROR_TITLE</prop>
-      <tuv lang="EN">
-        <seg>Error</seg>
-      </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171228T115537Z" creationid="Karm46" creationdate="20171228T115537Z">
-        <seg>Error</seg>
-      </tuv>
-    </tu>
     <tu>
       <prop type="file">Convention on the Rights of the Child.docx</prop>
       <prop type="prev">Have agreed as follows:</prop>
