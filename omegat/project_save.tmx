@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25762,6 +25762,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095929Z" creationid="Kos Ivantsov" creationdate="20180402T095929Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095942Z" creationid="Kos Ivantsov" creationdate="20180402T095942Z">
+        <seg>DeepL Api key non disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072333Z">
@@ -26442,6 +26458,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T224142Z">
         <seg>monstra le segmentos fonte (&amp;Source)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095925Z" creationid="Kos Ivantsov" creationdate="20180402T095925Z">
+        <seg>Monstrar &amp;active primari segmento in nigrato</seg>
       </tuv>
     </tu>
     <tu>
@@ -28662,6 +28686,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20141027T220024Z">
         <seg>Error de decodification del usator e del contrasigno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095617Z" creationid="Kos Ivantsov" creationdate="20180402T095617Z">
+        <seg>Error durante reimplaciamento de expression regular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32455,6 +32487,14 @@ online del 9 de julio de &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Nature.&lt;/f2&gt;&lt;/f
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T235042Z" creationid="Melo46" creationdate="20160728T235042Z">
         <seg>Groovy (Licentia Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095701Z" creationid="Kos Ivantsov" creationdate="20180402T095701Z">
+        <seg>Aggruppamento {0} non existe in expression de cerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -53919,6 +53959,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095704Z" creationid="Kos Ivantsov" creationdate="20180402T095704Z">
+        <seg>Scribus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095507Z">
@@ -70279,6 +70327,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095442Z" creationid="Kos Ivantsov" creationdate="20180402T095442Z">
+        <seg>Usar $n pro refere pro le aggruppamento n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T170154Z" creationid="ia" creationdate="20170909T170154Z">
@@ -72305,6 +72361,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151125T234538Z" creationid="Melo" creationdate="20151125T234538Z">
         <seg>Con le expressiones regular, le fila de character de substitution non supporta referentias al gruppos definite in le fila de character del recerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180402T095311Z" creationid="Kos Ivantsov" creationdate="20180402T095311Z">
+        <seg>Con le expressiones regular, le fila de character de substitution supporta referentias al gruppos definite in le fila de character del recerca.</seg>
       </tuv>
     </tu>
     <tu>
