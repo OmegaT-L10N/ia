@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1142,6 +1142,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095421Z">
         <seg>Elige (&amp;Choose)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T115644Z" creationid="karm46" creationdate="20180424T115644Z">
+        <seg>&amp;Clarar le menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -17728,6 +17736,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122153Z" creationid="karm46" creationdate="20180424T122153Z">
+        <seg>Tote le DOCX files in le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T080327Z">
@@ -20476,6 +20492,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122052Z" creationid="karm46" creationdate="20180424T122052Z">
+        <seg>Reservar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T064239Z">
@@ -20648,6 +20672,22 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo46" changedate="20140722T182929Z" creationid="melo46" creationdate="20140722T173513Z">
         <seg>Tenente presente que, ut indicate in le Declaration del Derectos del Infante, "le infante, per ration de su immaturitate physic e mental, necessita salveguardas e cura special, includente appropriate protection legal, ante e post le nascentia",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T121911Z" creationid="karm46" creationdate="20180424T121911Z">
+        <seg>Adornar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122127Z" creationid="karm46" creationdate="20180424T122127Z">
+        <seg>Adornar le file DOCX resultante</seg>
       </tuv>
     </tu>
     <tu>
@@ -22698,6 +22738,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T121157Z" creationid="karm46" creationdate="20180424T121157Z">
+        <seg>Dismaculatura del entrata '{0}'...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cleanup done!!</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140630T220957Z" creationid="MELO46" creationdate="20140630T220957Z">
@@ -23983,6 +24031,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122005Z" creationid="karm46" creationdate="20180424T122005Z">
+        <seg>Converter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T213531Z" creationid="Melo46" creationdate="20160729T213531Z">
@@ -24003,6 +24059,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T153418Z">
         <seg>Converte le file ad le formato RTF al formato OpenOffice.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120628Z" creationid="karm46" creationdate="20180424T120628Z">
+        <seg>Convertimento de tote le files .DOCX in le projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120645Z" creationid="karm46" creationdate="20180424T120645Z">
+        <seg>Convertimento del actual file .DOCX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24394,6 +24466,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T115716Z" creationid="karm46" creationdate="20180424T115716Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk e alteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T134245Z">
@@ -24722,6 +24802,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122345Z" creationid="karm46" creationdate="20180424T122345Z">
+        <seg>Crear files copia de reserva del file DOCX original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170916T032531Z">
@@ -24918,6 +25006,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171130T212614Z" creationid="Karm46" creationdate="20171130T212614Z">
         <seg>Le creation de un "traduction alternative" pro isto conta super segmentos identic que ha differente segmento precedente o sequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T121121Z" creationid="karm46" creationdate="20180424T121121Z">
+        <seg>Creation del file de egresso '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -25462,6 +25558,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T120958Z" creationid="MELO46" creationdate="20140615T120958Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122249Z" creationid="karm46" creationdate="20180424T122249Z">
+        <seg>Le file DOCX actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -41699,10 +41803,34 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T121421Z" creationid="karm46" creationdate="20180424T121421Z">
+        <seg>Nivello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122347Z" creationid="karm46" creationdate="20180424T122347Z">
+        <seg>Nivello 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130525T215139Z">
         <seg>Le files TMX nivello 1 non contine informationes de formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122349Z" creationid="karm46" creationdate="20180424T122349Z">
+        <seg>Nivello 1:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41723,10 +41851,74 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122351Z" creationid="karm46" creationdate="20180424T122351Z">
+        <seg>Nivello 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130525T215623Z">
         <seg>Le files TMX nivello 3 contine informationes de formato in un forma que pote esser legite ab altere applicationes CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122352Z" creationid="karm46" creationdate="20180424T122352Z">
+        <seg>Nivello 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122354Z" creationid="karm46" creationdate="20180424T122354Z">
+        <seg>Nivello 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122356Z" creationid="karm46" creationdate="20180424T122356Z">
+        <seg>Nivello 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122358Z" creationid="karm46" creationdate="20180424T122358Z">
+        <seg>Nivello 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122400Z" creationid="karm46" creationdate="20180424T122400Z">
+        <seg>Nivello 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122401Z" creationid="karm46" creationdate="20180424T122401Z">
+        <seg>Nivello 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T122438Z" creationid="karm46" creationdate="20180424T122438Z">
+        <seg>Nivello 9:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44147,6 +44339,22 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T121419Z" creationid="karm46" creationdate="20180424T121419Z">
+        <seg>Displaciamento  del file dismaculate '{0}' a '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T121306Z" creationid="karm46" creationdate="20180424T121306Z">
+        <seg>Displaciamento del original '{0}' a '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T210822Z">
@@ -44635,6 +44843,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120704Z" creationid="karm46" creationdate="20180424T120704Z">
+        <seg>Nulle .DOCX files a dismacular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170929T212241Z" creationid="Karm46" creationdate="20170929T212241Z">
@@ -44743,6 +44959,14 @@ measures.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095428Z">
         <seg>nulle nove dictionarios disponibile al server remote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120428Z" creationid="karm46" creationdate="20180424T120428Z">
+        <seg>Nulle projecto cargate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48473,6 +48697,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T121001Z" creationid="karm46" creationdate="20180424T121001Z">
+        <seg>Apertura del file de entrata '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T105239Z" creationid="Karm46" creationdate="20171126T105239Z">
@@ -51030,6 +51262,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120515Z" creationid="karm46" creationdate="20180424T120515Z">
+        <seg>Le projecto non contine ulle files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095416Z">
@@ -52370,6 +52610,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120350Z" creationid="karm46" creationdate="20180424T120350Z">
+        <seg>Remove tags ab documentos DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151125T205412Z" creationid="Melo" creationdate="20151125T205412Z">
@@ -53287,6 +53535,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T111116Z">
         <seg>Exequer &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120533Z" creationid="karm46" creationdate="20180424T120533Z">
+        <seg>Execution de Tagwipe pro le file '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -55355,6 +55611,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T095502Z">
         <seg>Motor seligite: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120559Z" creationid="karm46" creationdate="20180424T120559Z">
+        <seg>Optiones eligite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58764,6 +59028,22 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T063235Z">
         <seg>Le tags representate in le segmento rendite essera presente in le documento rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120129Z" creationid="karm46" creationdate="20180424T120129Z">
+        <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180424T120751Z" creationid="karm46" creationdate="20180424T120751Z">
+        <seg>Tagwipe claudeva, recargamento del projecto...</seg>
       </tuv>
     </tu>
     <tu>
