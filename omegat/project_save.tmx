@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_r10376" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1126,6 +1126,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131219T162426Z" creationid="MELO46" creationdate="20131219T162426Z">
         <seg>Tabella del &amp;Character...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T222801Z" creationid="karm46" creationdate="20180604T222801Z">
+        <seg>&amp;Controlar pro actualisationes...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24618,6 +24626,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T222921Z" creationid="karm46" creationdate="20180604T222921Z">
+        <seg>Impossibile crear directorio del projecto a {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151014T064016Z" creationid="Melo46" creationdate="20151014T064016Z">
@@ -39083,6 +39099,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T085437Z">
         <seg>Instituto Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223049Z" creationid="karm46" creationdate="20180604T223049Z">
+        <seg>Permissiones insufficiente pro le directorio de projecto {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -93778,6 +93802,14 @@ a</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171202T001006Z" creationid="Karm46" creationdate="20171202T001006Z">
         <seg>{0}:	cleanup facite!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T222706Z" creationid="karm46" creationdate="20180604T222706Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
