@@ -33830,6 +33830,22 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223717Z" creationid="karm46" creationdate="20180604T223717Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223825Z" creationid="karm46" creationdate="20180604T223825Z">
+        <seg>IBM Watson non disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T221217Z">
@@ -44765,6 +44781,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223815Z" creationid="karm46" creationdate="20180604T223815Z">
+        <seg>Traduction Automatic Neuronal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Neural machine translation</seg>
       </tuv>
       <tuv lang="IA" changeid="karm46" changedate="20180426T000912Z" creationid="karm46" creationdate="20180426T000912Z">
@@ -49848,6 +49872,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141358Z">
         <seg>Pashto, Pushto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223735Z" creationid="karm46" creationdate="20180604T223735Z">
+        <seg>Contrasigno :</seg>
       </tuv>
     </tu>
     <tu>
@@ -71365,6 +71397,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223731Z" creationid="karm46" creationdate="20180604T223731Z">
+        <seg>Nomine del usator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130425T091508Z">
@@ -74103,6 +74143,14 @@ ambe le recercas per concordantia exacte e per parola clave supporta le characte
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080910Z">
         <seg>Tu compli le identic action per deler le segmento final e pulsar &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223850Z" creationid="karm46" creationdate="20180604T223850Z">
+        <seg>Tu ha jam le ultime version.</seg>
       </tuv>
     </tu>
     <tu>
