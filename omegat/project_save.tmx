@@ -46874,6 +46874,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223703Z" creationid="karm46" creationdate="20180604T223703Z">
+        <seg>OmegaT non ha permissiones de leger e scriber pro iste plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have to be launched from the command line, but doing so may be useful as it provides debugging information.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171122T195312Z">
