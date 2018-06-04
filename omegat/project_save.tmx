@@ -1490,6 +1490,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T224020Z" creationid="karm46" creationdate="20180604T224020Z">
+        <seg>Ir (&amp;Go) al files discargate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T073234Z">
@@ -8234,6 +8242,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T224040Z" creationid="karm46" creationdate="20180604T224040Z">
+        <seg>&lt;html&gt;Actual version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170911T183013Z">
@@ -8262,6 +8278,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171001T081635Z" creationid="Karm46" creationdate="20171001T081635Z">
         <seg>&lt;html&gt;Termino: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossarios:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T224104Z" creationid="karm46" creationdate="20180604T224104Z">
+        <seg>&lt;html&gt;Actualisar canal: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20316,6 +20340,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T224129Z" creationid="karm46" creationdate="20180604T224129Z">
+        <seg>Controlar automaticamente pro actualisationes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T084226Z">
@@ -22226,6 +22258,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223943Z" creationid="karm46" creationdate="20180604T223943Z">
+        <seg>Controlar &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151016T224716Z" creationid="Melo" creationdate="20151016T224716Z">
@@ -22278,6 +22318,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151011T043822Z" creationid="Melo46" creationdate="20151011T043822Z">
         <seg>Controlar le regulas de LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T224152Z" creationid="karm46" creationdate="20180604T224152Z">
+        <seg>Controlar ora</seg>
       </tuv>
     </tu>
     <tu>
@@ -47891,6 +47939,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223859Z" creationid="karm46" creationdate="20180604T223859Z">
+        <seg>OmegaT {0} es ora disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171128T192952Z">
@@ -57729,6 +57785,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T094702Z">
         <seg>campo de recerca Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T224109Z" creationid="karm46" creationdate="20180604T224109Z">
+        <seg>Stabile</seg>
       </tuv>
     </tu>
     <tu>
@@ -70665,6 +70729,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T224029Z" creationid="karm46" creationdate="20180604T224029Z">
+        <seg>Actualisationes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
@@ -75127,6 +75199,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T104808Z">
         <seg>Crea in prime loco un plica cliente sur tu disco dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180604T223910Z" creationid="karm46" creationdate="20180604T223910Z">
+        <seg>Tu actualmente ha {1}.</seg>
       </tuv>
     </tu>
     <tu>
