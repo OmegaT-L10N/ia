@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_r10376" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -67479,6 +67479,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171201T121422Z">
         <seg>Isto breve texto describe le comportamento de claves in le quadro Modificar, le editor del segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="IA" changeid="Kos Ivantsov" changedate="20180606T203643Z" creationid="Kos Ivantsov" creationdate="20180606T203643Z">
+        <seg>+</seg>
       </tuv>
     </tu>
     <tu>
