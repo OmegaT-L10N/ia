@@ -785,7 +785,6 @@ flags	flags
 too	troppo
 small	micre
 EFI partition	partition EFI
-EFI EFI  Extensible Firmware Interface
 at least	al minus
 the	le
 an	un
@@ -1020,7 +1019,6 @@ Wi-Fi	wifi
 Wifi	wifi
 IP	IP  Internet Protocol, a set of rules for sending data across a network
 LAN	LAN local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building
-indirect network connections to other network services
 WAN	WAN Wide Area Network in computer networking
 broadband	banda large (telecommunications) A wide band of electromagnetic frequencies; (Internet) An internet connection provisioned over an existing service using alternate signal frequencies such as ADSL or cable modem.
 modem	modem   A device that encodes digital computer signals into analog/analogue telephone signals and vice versa and allows computers to communicate over a phone line
@@ -1390,7 +1388,6 @@ on or off	activar o disactivar
 character	character
 compose	componer
 record	registrar
-record  registration
 turn on or off	activar o disactivar
 alternative	alternative
 modifiers-only	solo-modificatores
@@ -4620,3 +4617,5 @@ will cost	costara
 pictures	imagines
 picture	imagine	md
 recovered	remediate	md
+localisation	localisation
+localisation manager	gestor de localisation
