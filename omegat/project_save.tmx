@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2700,6 +2700,14 @@ Pro adder files al projecto, clicca sur le button "Importa files primari..." in 
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130526T082338Z">
         <seg>(Illo, naturalmente, controlara pro le boliviano plus tosto que pro le espaniol mexicano!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180927T171420Z" creationid="karm46" creationdate="20180927T171420Z">
+        <seg>(Lassa le contrasigno vacue si tu usa un clave API.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44017,6 +44025,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180927T171319Z" creationid="karm46" creationdate="20180927T171319Z">
+        <seg>ID de modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102109Z">
@@ -71513,6 +71529,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130423T212427Z">
         <seg>Usator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180927T171253Z" creationid="karm46" creationdate="20180927T171253Z">
+        <seg>Nomine del usator o clave API:</seg>
       </tuv>
     </tu>
     <tu>
