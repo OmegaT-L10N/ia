@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39719,6 +39719,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180919T072857Z" creationid="karm46" creationdate="20180919T072857Z">
+        <seg>lo ha essite habitualmente in uso pro alcun tempore e es pro isto es considerate provate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130818T151703Z">
@@ -39731,6 +39739,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130310T201640Z">
         <seg>Non es &lt;f0&gt;necesse haber OpenOffice&lt;/f0&gt;.org  pro usar &lt;f1&gt;OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180919T073113Z" creationid="karm46" creationdate="20180919T073113Z">
+        <seg>Illo es un version plus recente que le version Standard e include nove characteristicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47871,6 +47887,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T074706Z">
         <seg>OmegaT fluera sur tote le systemas operative sur le qual on pote installar un convenibile version del Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180919T072709Z" creationid="karm46" creationdate="20180919T072709Z">
+        <seg>OmegaT fluera sur ulle systema sur que le appropriate JRE (Java Runtime Environment) ha essite o pote ser installate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60617,6 +60641,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180919T072947Z" creationid="karm46" creationdate="20180919T072947Z">
+        <seg>Le Ultime version require Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130516T081205Z">
@@ -60917,6 +60949,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130516T080134Z">
         <seg>Le version Standard esseva habitualmente in uso pro alicun tempore e es dunque experimentate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20180919T072807Z" creationid="karm46" creationdate="20180919T072807Z">
+        <seg>Le version Standard require Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
