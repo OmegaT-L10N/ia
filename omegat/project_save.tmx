@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20190110T163626Z" creationid="karm46" creationdate="20190110T163626Z">
+        <seg>Apertura (&amp;Open)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="IA" changeid="karm46" changedate="20190110T163554Z" creationid="karm46" creationdate="20190110T163554Z">
+        <seg>Discargar un projec&amp;To de equipa...</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
