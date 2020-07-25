@@ -30698,6 +30698,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231852Z" creationid="Melo46" creationdate="20200725T231852Z">
+        <seg>Nulle Jeton de OAuth specificate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084258Z">
@@ -30750,6 +30758,14 @@ measure under any applicable law fulfilling obligations under article
 11 of the WIPO copyright treaty adopted on 20 December 1996, or
 similar laws prohibiting or restricting circumvention of such
 measures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231906Z" creationid="Melo46" creationdate="20200725T231906Z">
+        <seg>Nulle ID de plica specificate</seg>
       </tuv>
     </tu>
     <tu>
@@ -31777,6 +31793,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083556Z">
         <seg>O&amp;ptiones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231751Z" creationid="Melo46" creationdate="20200725T231751Z">
+        <seg>Jeton de OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -50359,6 +50383,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T232012Z" creationid="Melo46" creationdate="20200725T232012Z">
+        <seg>Impossibile analysar le responsa del servicio IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082739Z">
@@ -51057,6 +51089,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T211016Z" creationid="MELO46" creationdate="20140629T211016Z">
         <seg>Usa le glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231822Z" creationid="Melo46" creationdate="20200725T231822Z">
+        <seg>Usar terminos de glossario</seg>
       </tuv>
     </tu>
     <tu>
