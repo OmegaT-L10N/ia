@@ -14138,6 +14138,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231252Z" creationid="Melo46" creationdate="20200725T231252Z">
+        <seg>Connecter a servitor personalisate in vice de apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085331Z">
@@ -15777,6 +15785,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T063257Z" creationid="Melo" creationdate="20151116T063257Z">
         <seg>Colores Personal...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231319Z" creationid="Melo46" creationdate="20200725T231319Z">
+        <seg>URL del servitor personalisate</seg>
       </tuv>
     </tu>
     <tu>
@@ -46620,6 +46636,18 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T145231Z">
         <seg>Iste segmentos es marcate e delimitate con characteres special e stilos de formato MS Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231145Z" creationid="Melo46" creationdate="20200725T231145Z">
+        <seg>Iste tres cosas es certe:
+Morte, taxas, e pagina non trovate
+Tu, es victima de un</seg>
       </tuv>
     </tu>
     <tu>
