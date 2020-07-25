@@ -8898,6 +8898,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231342Z" creationid="Melo46" creationdate="20200725T231342Z">
+        <seg>Clave API (facultative)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T231245Z" creationid="Karm46" creationdate="20170911T231245Z">
@@ -18081,6 +18089,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T091911Z" creationid="MELO46" creationdate="20140109T091911Z">
         <seg>Anglese: parolas, incipiente con le vocales, deberea generalmente esser precedite per "an", non "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231557Z" creationid="Melo46" creationdate="20200725T231557Z">
+        <seg>Assecura te que le URL del servitor es correcte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50283,6 +50299,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T182619Z">
         <seg>Incapace a producer le nove file TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T231429Z" creationid="Melo46" creationdate="20200725T231429Z">
+        <seg>Impossibile connecter se al servitor.</seg>
       </tuv>
     </tu>
     <tu>
