@@ -15733,6 +15733,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T200655Z" creationid="Melo46" creationdate="20200725T200655Z">
+        <seg>Cursor blocate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200725T200719Z" creationid="Melo46" creationdate="20200725T200719Z">
+        <seg>Cursor disblocate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T221858Z" creationid="Melo46" creationdate="20160729T221858Z">
