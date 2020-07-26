@@ -25637,6 +25637,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083552Z" creationid="Melo46" creationdate="20200726T083552Z">
+        <seg>Include concordantias con le altere (&amp;other) linguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T230410Z" creationid="Karm46" creationdate="20170911T230410Z">
