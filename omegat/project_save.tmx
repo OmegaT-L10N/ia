@@ -20940,6 +20940,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T084721Z" creationid="Melo46" creationdate="20200726T084721Z">
+        <seg>Preferentias generar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>General comments</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T091419Z">
@@ -26453,6 +26461,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T062200Z" creationid="Melo46" creationdate="20151119T062200Z">
         <seg>Illo permitte accesso sia al datos public e private, ubi le glossarios private (denominate "collectiones") pote esser extrahite ex le documentos existente, e le terminos de destination in parte populate automaticamente per fontes varie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T085106Z" creationid="Melo46" creationdate="20200726T085106Z">
+        <seg>Isto consenti configurar le parametros pro tote le projectos de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47756,6 +47772,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063034Z">
         <seg>Iste fenestra de dialogo habilita te a preparar le modellos de files del nomine de file fonte a esser processate per le filtro, personalisa le nomine de files rendite, e selige qual codificationes deberea esser usate por cargar le file e salvar su pendant traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T084737Z" creationid="Melo46" creationdate="20200726T084737Z">
+        <seg>Iste fenestra de dialogo es accessibile per selection del &lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Preferentias...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
