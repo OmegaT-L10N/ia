@@ -39452,6 +39452,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T093856Z" creationid="Melo46" creationdate="20200726T093856Z">
+        <seg>Eliger un fornitor ex le lista e, si necessari, clicca &lt;g0&gt;Configurar&lt;/g0&gt; pro inserer le detalios de identification fornite per le fornitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T094528Z">
