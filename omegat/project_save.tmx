@@ -8766,6 +8766,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T101457Z" creationid="Melo46" creationdate="20200726T101457Z">
+        <seg>Un scriptura integrate in OmegaT appellate Commutator color del themas, offere un thema predefinite "Obscur".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z" creationid="MELO46" creationdate="20140615T072112Z">
@@ -12144,6 +12152,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100104Z" creationid="Melo46" creationdate="20200726T100104Z">
+        <seg>Navigar (&amp;Browse) inter le collectiones de TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T210649Z" creationid="Karm46" creationdate="20170929T210649Z">
@@ -13494,6 +13510,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100808Z" creationid="Melo46" creationdate="20200726T100808Z">
+        <seg>Clara iste option pro disactivar le recerca automatic, per exemplo si le dictionarios es troppo longe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T073934Z" creationid="Melo46" creationdate="20151117T073934Z">
@@ -13698,6 +13722,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T203622Z" creationid="Melo46" creationdate="20151117T203622Z">
         <seg>Clicca le flecha a cadita del cassa &lt;e0&gt;Recercar pro&lt;/e0&gt; al fin de acceder al ultime 10 recercas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T095308Z" creationid="Melo46" creationdate="20200726T095308Z">
+        <seg>Clicca iste button pro acceder le sito del projecto &lt;u0&gt;TaaS&lt;/u0&gt; e crear un conto de usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22620,6 +22652,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T094921Z" creationid="Melo46" creationdate="20200726T094921Z">
+        <seg>Si ambe iste option e le option &lt;l0&gt;&lt;g1&gt;Inserer le texto fonte&lt;/g1&gt;&lt;/l0&gt; es seligite, tote le parolas con un entrata del glossario correspondente sera traducite automaticamente quando le texto fonte es inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T031436Z" creationid="Melo46" creationdate="20151116T031436Z">
@@ -22874,6 +22914,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Si necessari, edita le  nomines del file del dictionario o cambia tu configurationes pro le lingua de tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100639Z" creationid="Melo46" creationdate="20200726T100639Z">
+        <seg>Si necessari, tu pote eliger un specific dominio pro limitar le volumine de datos inviate e recipite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23502,10 +23550,26 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T095201Z" creationid="Melo46" creationdate="20200726T095201Z">
+        <seg>Si iste option es marcate, le glossario monstrara solo un entrata, mesmo si un parola identic existe in plure formas (e.g. con e sin litteras majuscule) in le glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130702T175149Z">
         <seg>Si es marcate iste option, quando on insere un concordantia partial, o manualmente o automaticamente, OmegaT tenta de converter le numeros in le concordantia partial secundo le contentos original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100021Z" creationid="Melo46" creationdate="20200726T100021Z">
+        <seg>Si iste option es seligite, OmegaT non rememora le clave de accesso inter sessiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24553,6 +24617,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T211133Z" creationid="MELO46" creationdate="20140629T211133Z">
         <seg>Ignora le Majusculos del glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T095023Z" creationid="Melo46" creationdate="20200726T095023Z">
+        <seg>Ignorar le pulsatas con caso multo differente (e.g. FOO contra foo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35376,6 +35448,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T101253Z" creationid="Melo46" creationdate="20200726T101253Z">
+        <seg>Themas predefinite pote esser configurate per scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preamble</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T180628Z">
@@ -38955,6 +39035,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T101144Z" creationid="Melo46" creationdate="20200726T101144Z">
+        <seg>Vide le configurationes del typos del character in Miscellanea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T171831Z">
@@ -39412,6 +39500,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100605Z" creationid="Melo46" creationdate="20200726T100605Z">
+        <seg>Eliger le Dominio de recerca del terminologia TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140701T124802Z" creationid="MELO46" creationdate="20140701T124802Z">
@@ -39552,6 +39648,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T144145Z">
         <seg>Selige iste commando del menu, si le traduction currente non referer se e inscribe le traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100915Z" creationid="Melo46" creationdate="20200726T100915Z">
+        <seg>Eliger iste option si tu desira que le dictionarios monstra parolas que ha identic radice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43859,6 +43963,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100530Z" creationid="Melo46" creationdate="20200726T100530Z">
+        <seg>Le collectiones es discargate como glossarios TBX e immagazinate in le actual plica /glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160809T002106Z" creationid="Melo46" creationdate="20151119T062601Z">
@@ -44435,6 +44547,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T145023Z">
         <seg>Le filtros disponibile es principalmente pro formatos de file proprie al industria IT plus tosto que files de usator final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T101534Z" creationid="Melo46" creationdate="20200726T101534Z">
+        <seg>Le filtros usate per le actual projecto es monstrate in hardite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47696,6 +47816,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100329Z" creationid="Melo46" creationdate="20200726T100329Z">
+        <seg>Iste button te pone in grado de foliettar e discargar le collectiones que existe pro le linguas fonte e destino del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084254Z">
@@ -47860,6 +47988,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T084818Z" creationid="Melo46" creationdate="20160805T084818Z">
         <seg>Iste fenestra de dialogo lista le filtros de file disponibile, ubi le filtros usate per le actual projecto es displicate in nigrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T101518Z" creationid="Melo46" creationdate="20200726T101518Z">
+        <seg>Iste fenestra de dialogo lista le filtros de file disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48606,6 +48742,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T110714Z">
         <seg>Iste pacchetto ha Java Runtime Environment de Oracle incorporate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T101200Z" creationid="Melo46" creationdate="20200726T101200Z">
+        <seg>Iste pagina te permitte de eliger differente colores pro cata parte del interfacie de usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51760,6 +51904,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T101035Z" creationid="Melo46" creationdate="20200726T101035Z">
+        <seg>Usa iste function quando tu ha levate, movite o celate uno o plus componentes e tu non pote restaurar le disposition desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this feature when you have undocked, moved, or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T160902Z">
@@ -54842,6 +54994,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T222327Z">
         <seg>Tu pote alora cliccar sur le traduction ideal pro inserer lo in le segmento final al position actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T095503Z" creationid="Melo46" creationdate="20200726T095503Z">
+        <seg>Tu pote pois crear un clave accesso sur le pagina &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58559,6 +58719,22 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T155838Z" creationid="Melo46" creationdate="20160728T155838Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T095314Z" creationid="Melo46" creationdate="20200726T095314Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T095204Z" creationid="Melo46" creationdate="20200726T095204Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
@@ -63630,6 +63806,17 @@ crear su plica de configuration.</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
+      <prop type="prev">Dictionary</prop>
+      <prop type="next">Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</prop>
+      <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100659Z" creationid="Melo46" creationdate="20200726T100659Z">
+        <seg>Cerca automaticamente in le dictionario le texto del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
       <prop type="prev">Glossary</prop>
       <prop type="next">Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</prop>
       <tuv lang="en">
@@ -63652,6 +63839,17 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
+      <prop type="prev">You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</prop>
+      <prop type="next">If this option is selected, OmegaT will not remember the access key between sessions.</prop>
+      <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T095522Z" creationid="Melo46" creationdate="20200726T095522Z">
+        <seg>Salvar pro iste session solmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
       <prop type="prev">You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</prop>
       <prop type="next">Check this box to send only untranslated segments to the machine translation services.</prop>
       <tuv lang="en">
@@ -63659,6 +63857,17 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T093526Z" creationid="Melo46" creationdate="20200726T093526Z">
         <seg>Solmente segmentos non rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
+      <prop type="prev">Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</prop>
+      <prop type="next">Select this option if you want dictionaries to display words that have the same root.</prop>
+      <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T100832Z" creationid="Melo46" creationdate="20200726T100832Z">
+        <seg>Usar le concordantia partial pro le entratas del dictionario</seg>
       </tuv>
     </tu>
     <tu>
