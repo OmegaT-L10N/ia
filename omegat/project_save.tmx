@@ -50994,6 +50994,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T094302Z" creationid="Melo46" creationdate="20200726T094302Z">
+        <seg>Dismarca iste option si le description contextual monstrate pro cata entrata del glossario es inutile o troppo longe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T120410Z" creationid="Melo46" creationdate="20150423T120410Z">
@@ -63588,6 +63596,17 @@ crear su plica de configuration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
+      <prop type="prev">Glossary</prop>
+      <prop type="next">Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</prop>
+      <tuv lang="en">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T094113Z" creationid="Melo46" creationdate="20200726T094113Z">
+        <seg>Monstrar le description contextual pro le glossarios TBX</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
       <prop type="prev">You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</prop>
