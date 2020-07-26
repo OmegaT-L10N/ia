@@ -18085,6 +18085,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143231Z" creationid="Melo46" creationdate="20200726T142955Z">
+        <seg>Activa le aviso automatic de actualisationes &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T205657Z">
@@ -24283,6 +24291,14 @@ es usar Java Web Start..</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T075929Z">
         <seg>Si tu loca unes files de memoria de traduction in le sub plica &lt;f6&gt;/tm/&lt;/f6&gt;de un projecto, OmegaT querera las automaticamente pro similabile segmentos con "concordantia partial".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T142432Z" creationid="Melo46" creationdate="20200726T142432Z">
+        <seg>Si tu prefere non usar OmegaT pro traducer files de un certe typo, tu pote disactivar le correspondente filtro dismarcante le quadrato de controlo sub su nomine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33351,6 +33367,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T142849Z" creationid="Melo46" creationdate="20200726T142849Z">
+        <seg>OmegaT pois omittera le correspondente files quando carga projectos e los copiara non modificate al plica de destination creante le documentos de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130703T064312Z">
@@ -35986,6 +36010,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T113735Z">
         <seg>Menu del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143021Z" creationid="Melo46" creationdate="20200726T143021Z">
+        <seg>Proprietates del projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -47984,6 +48016,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143120Z" creationid="Melo46" creationdate="20200726T143120Z">
+        <seg>Iste fenestra de dialogo es accessibile per le selection de &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Proprietates...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T084818Z" creationid="Melo46" creationdate="20160805T084818Z">
@@ -49486,6 +49526,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T071402Z">
         <seg>Pro duplicar gruppos de tag, copia exactemente los in le position que tu desira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143343Z" creationid="Melo46" creationdate="20200726T142930Z">
+        <seg>Un filtro es usate pro rediger files e codificationes, selige le filtro in le lista e clicca &lt;e1&gt;Editar.&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
