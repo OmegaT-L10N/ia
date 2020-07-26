@@ -2373,6 +2373,7 @@ synced logins	credentiales synchronisate
 join %1$S	entrar in le canal %1$S
 join %	entrar in le canal %
 user's client	cliente de usator
+error updating	error actualisante
 optional message	message optional
 raw command	commando crude
 IRC server	servitor IRC
@@ -20283,3 +20284,4 @@ all	omne
 regardless	in omne caso	md
 store	immagazina
 device	apparato	rg, cs, md
+updating	actualisante
