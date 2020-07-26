@@ -4084,6 +4084,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T193214Z" creationid="Melo46" creationdate="20200726T193214Z">
+        <seg>&lt;auto&gt; lassa le selection de codification a &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T082324Z">
@@ -4896,6 +4904,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T094033Z">
         <seg>&lt;e0&gt;Mesura:&lt;/e0&gt; rediger pro cambiar le mesura del typo de character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T192648Z" creationid="Melo46" creationdate="20200726T192648Z">
+        <seg>&lt;e0&gt;Saltar texto concordante expression regular&lt;/e0&gt;: ulle texto concordante le expression regular es saltate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11160,6 +11176,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20131219T062702Z" creationid="MELO" creationdate="20131219T062702Z">
         <seg>Pois que isto es le comportamento standard pro le files PO, isto is active per arrangiamento initial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T192119Z" creationid="Melo46" creationdate="20200726T192119Z">
+        <seg>Pois que isto es le comportamento standard pro le files PO, isto es le predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21124,6 +21148,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T193555Z" creationid="Melo46" creationdate="20200726T193555Z">
+        <seg>Da accesso al lista de plugins disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the project folders.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T141255Z" creationid="Melo46" creationdate="20160805T141255Z">
@@ -26991,6 +27023,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T192736Z" creationid="Melo46" creationdate="20200726T192736Z">
+        <seg>Illo es monstrate in rubie in le utensile de validation del etiquetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is shown rendered red in the tag validator.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20131219T074426Z" creationid="MELO" creationdate="20131219T074426Z">
@@ -28747,6 +28787,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T144827Z" creationid="MELO46" creationdate="20140615T144827Z">
         <seg>Vider Lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T193528Z" creationid="Melo46" creationdate="20200726T193528Z">
+        <seg>Lista del projectos cuje detalios de accesso es registrate in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35388,6 +35436,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T092922Z" creationid="Karm46" creationdate="20171001T092922Z">
         <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T193821Z" creationid="Melo46" creationdate="20200726T193821Z">
+        <seg>Le plugins es installate in le plica &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42816,6 +42872,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T192916Z" creationid="Melo46" creationdate="20200726T192916Z">
+        <seg>Le texto in le segmento fonte que concorda es monstrate in italico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085455Z">
@@ -43589,6 +43653,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082819Z">
         <seg>Le filter PO generava un exception:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T192208Z" creationid="Melo46" creationdate="20200726T192208Z">
+        <seg>Le testa del PO essera saltate e lassate sin alteration, si es marcate iste option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46313,6 +46385,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T193122Z" creationid="Melo46" creationdate="20200726T193122Z">
+        <seg>Le campos de codification fonte e de destination usa menus a tenta cadente continente tote le codificationes supportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224009Z">
@@ -48468,8 +48548,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This is how it works:</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130817T082210Z">
-        <seg>Isto es como illo opera:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T193236Z">
+        <seg>Ecce como illo opera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48790,6 +48870,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T203826Z" creationid="Melo46" creationdate="20151119T203826Z">
         <seg>Iste numero es monstrate in parentheses, proxime al titulo  del "File de projecto" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T192403Z" creationid="Melo46" creationdate="20200726T192403Z">
+        <seg>Le option permitte a OmegaT de non curar se del specification in le testa del file PO e de usar le parametro predefinite pro le lingua de destination seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50596,6 +50684,14 @@ script ./linux-install.sh.</seg>
       <tuv lang="ia" changeid="Melo" changedate="20160225T134008Z" creationid="Melo" creationdate="20160225T134008Z">
         <seg>Le percurso file traducite es impossibile sia identic al percurso del file fonte:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T193322Z" creationid="Melo46" creationdate="20200726T193322Z">
+        <seg>Nomine de file traducite</seg>
       </tuv>
     </tu>
     <tu>
