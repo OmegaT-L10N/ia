@@ -16745,6 +16745,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050245Z" creationid="Melo46" creationdate="20200726T050245Z">
+        <seg>Expone le entratas como "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T093953Z" creationid="MELO46" creationdate="20131224T093953Z">
@@ -18449,6 +18457,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T123242Z">
         <seg>Error {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050116Z" creationid="Melo46" creationdate="20200726T050116Z">
+        <seg>Error: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39953,6 +39969,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T071803Z">
         <seg>Ignorar le concordantia del texto del expression regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050145Z" creationid="Melo46" creationdate="20200726T050145Z">
+        <seg>Saltante</seg>
       </tuv>
     </tu>
     <tu>
