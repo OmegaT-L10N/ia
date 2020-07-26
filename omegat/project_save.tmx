@@ -45545,6 +45545,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T094049Z" creationid="Melo46" creationdate="20200726T094049Z">
+        <seg>Le proceduras pro configurar le accesso al servicios Microsoft Translator e Google Translate es describite &lt;u0&gt;hic&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T224244Z" creationid="MELO46" creationdate="20140108T224244Z">
@@ -58479,6 +58487,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T161148Z" creationid="Melo46" creationdate="20160728T161148Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T093901Z" creationid="Melo46" creationdate="20200726T093901Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
     </tu>
     <tu>
