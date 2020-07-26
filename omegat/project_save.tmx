@@ -3126,6 +3126,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203630Z" creationid="Melo46" creationdate="20200726T203630Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/** Number of fuzzy matches to display */</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T221637Z" creationid="Karm46" creationdate="20171115T221637Z">
@@ -9224,6 +9232,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203805Z" creationid="Melo46" creationdate="20200726T203805Z">
+        <seg>Activar le option "Monstrar files celate" pro render lo visibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T082915Z" creationid="MELO46" creationdate="20140109T082915Z">
@@ -9800,6 +9816,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T204401Z" creationid="Melo46" creationdate="20200726T204401Z">
+        <seg>Alinear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T231640Z" creationid="Melo46" creationdate="20160729T231640Z">
@@ -9828,6 +9852,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T064114Z" creationid="melo" creationdate="20160813T064114Z">
         <seg>In evidentia le riga del tabella del alineator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T204427Z" creationid="Melo46" creationdate="20200726T204427Z">
+        <seg>Alineamento implica creation de un memoria de traduction bilingue de documentos monolingue que ha jam essite traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10302,6 +10334,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T121100Z" creationid="Karm46" creationdate="20170909T233532Z">
         <seg>Un guida de initio celere, que te guida tra le proceduras e le functiones principal de OmegaT, es displicate normalmente in le interfacie del usator de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202618Z" creationid="Melo46" creationdate="20200726T202618Z">
+        <seg>Un projecto OmegaT es un plica que contine files e subplicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20376,6 +20416,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203232Z" creationid="Melo46" creationdate="20200726T202941Z">
+        <seg>Per exemplo (si le predefinite es acceptate), le traduction ex le TM auxiliar es acceptate e prefixate con&lt;e3&gt; [fuzzy]&lt;/e3&gt;, de maniera que le traductor pote revider le traductiones in un phase successive e controlar si le segmentos etiquettate in iste modo, esseva rendite correctemente&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T150930Z" creationid="MELO46" creationdate="20140109T150930Z">
@@ -21340,6 +21388,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202123Z" creationid="Melo46" creationdate="20200726T202123Z">
+        <seg>Ir a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T083841Z">
@@ -21996,6 +22052,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T121906Z">
         <seg>A casa*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202200Z" creationid="Melo46" creationdate="20200726T202200Z">
+        <seg>Como...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24225,8 +24289,8 @@ es usar Java Web Start..</seg>
       <tuv lang="en">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20151119T090626Z" creationid="Melo46" creationdate="20151119T090626Z">
-        <seg>Si tu non ha ulle dubita que un TMX es plus accurate del file &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, pone iste TMX in le plica /tm/enforce pro superscriber inconditionatemente le traductiones base existente.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203500Z" creationid="Melo46" creationdate="20151119T090626Z">
+        <seg>Si tu non ha ulle dubita que un TMX es plus accurate del file &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, pone iste TMX in le plica /tm/enforce pro superscriber inconditionalmente le traductiones predefinite existente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29991,6 +30055,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202206Z" creationid="Melo46" creationdate="20200726T202206Z">
+        <seg>Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mere interaction with a user through
 a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
@@ -34089,8 +34161,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Open the project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20160809T002159Z" creationid="Melo46" creationdate="20160809T002159Z">
-        <seg>Aperi le projecto</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203519Z" creationid="Melo46" creationdate="20160809T002159Z">
+        <seg>Aperir le projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -34783,6 +34855,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095111Z">
         <seg>Etiquettas del Quadro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202155Z" creationid="Melo46" creationdate="20200726T202155Z">
+        <seg>Quadros</seg>
       </tuv>
     </tu>
     <tu>
@@ -36254,6 +36334,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202249Z" creationid="Melo46" creationdate="20200726T202249Z">
+        <seg>Plica del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T080316Z">
@@ -36548,8 +36636,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>Put the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20160809T002548Z" creationid="Melo46" creationdate="20160809T002548Z">
-        <seg>Pone le TMX in /tm/enforce.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203509Z" creationid="Melo46" creationdate="20160809T002548Z">
+        <seg>Poner le TMX in /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44487,6 +44575,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T204315Z" creationid="Melo46" creationdate="20200726T204315Z">
+        <seg>Le differentia es subtil: nos appella "Fenestra" un fenestra que poter star aperte proxime al editor e interager con illo, e "fenestra de dialogo" un fenestra ubi tu debe eliger parametros ante clauder lo e prosequer le activitate de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T215851Z" creationid="MELO46" creationdate="20140106T215851Z">
@@ -46451,8 +46547,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T123954Z">
-        <seg>Le sub plica /source contine le files a traducer.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202703Z">
+        <seg>Le subplica /source contine le files a traducer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49108,8 +49204,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This subfolder is initially empty.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T093636Z">
-        <seg>Iste sub plica is vacue ab initio.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202747Z">
+        <seg>Iste sub plica es vacue al initio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49396,6 +49492,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160808T012509Z" creationid="Melo46" creationdate="20160808T012509Z">
         <seg>Pro acceder le servicio TaaS, un usator debe crear un clave per https://term.tilde.com/account/keys/crear?systema=OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T204456Z" creationid="Melo46" creationdate="20200726T204456Z">
+        <seg>Acceder iste fenestra, eliger &lt;m0&gt; &lt;g1&gt;Applicationes&lt;/g1&gt; &lt;g2&gt;Alinear Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52000,6 +52104,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202117Z" creationid="Melo46" creationdate="20200726T202117Z">
+        <seg>Usar un Projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T144553Z" creationid="MELO46" creationdate="20140615T144553Z">
@@ -53930,6 +54042,14 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181103Z">
         <seg>Windows Vista e 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203903Z" creationid="Melo46" creationdate="20200726T203903Z">
+        <seg>Fenestras e fenestras de dialogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -60749,6 +60869,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203613Z" creationid="Melo46" creationdate="20200726T203613Z">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T134556Z" creationid="Karm46" creationdate="20171115T134556Z">
@@ -62181,6 +62309,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202637Z" creationid="Melo46" creationdate="20200726T202637Z">
+        <seg>fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source = currSegment.getSrcText();</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132702Z">
@@ -62377,6 +62513,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233919Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202722Z" creationid="Melo46" creationdate="20200726T202722Z">
+        <seg>destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -62701,6 +62845,22 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T202816Z" creationid="Melo46" creationdate="20200726T202816Z">
+        <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203236Z" creationid="Melo46" creationdate="20200726T203236Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/auto folder</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094950Z">
@@ -62709,10 +62869,26 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203246Z" creationid="Melo46" creationdate="20200726T203246Z">
+        <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/enforce folder</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T070647Z" creationid="Melo46" creationdate="20151119T070647Z">
         <seg>plica tm/enforce </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T203537Z" creationid="Melo46" creationdate="20200726T203537Z">
+        <seg>tm/mt</seg>
       </tuv>
     </tu>
     <tu>
