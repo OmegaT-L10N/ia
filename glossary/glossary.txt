@@ -84,6 +84,8 @@ contact your System Administrator	continge tu administrator de systema
 working on a fix	reparar le problema	
 you’re just looking for	tu cerca solo	
 you’ve been exclusively using	tu ha usate exclusivemente	
+sentence to paragraph translation	le segmentation per phrase al segmentation per paragrapho
+for which login details	cuje detalios de accesso
 is that it is	es que illo es	
 security and privacy protections	protectiones de securitate e confidentialitate	
 Firefox Extended Support Release	Firefox version supporto extendite	
@@ -496,6 +498,7 @@ just wanted to	voleva solo
 start typing in	comencia scriber	
 taking you to	portar te a	
 except ongoing downloads	a exception de illos in discargamento	
+allows you to	te permitte de	
 down the hall	al fundo del hall	
 will call you	te appellara	
 open source project	projecto open-source	
@@ -521,6 +524,11 @@ your email provider	tu fornitor de servicios email
 in email messages	in messages email	
 protects you from	te protege de	
 is on schedule	es al tempore	
+selected by default	le predefinite
+option is checked	option es marcate
+segmentation setup preferences	preferentias de parametros de segmentation
+more on the	altero re le
+to switch from	passar ab
 take with you	porta con te	
 choose what to	selige lo que tu vole	
 why we need	proque require nos	
@@ -1244,7 +1252,6 @@ unable to create	impossibile crear
 will pay attention	prestara attention	
 in lots of	in plure	
 how to use	in qual maniera usar	
-allows you to	te permitte de	
 making it easy	rendente facile	
 on or off	activar o disactivar	
 right or left-handed	dextromane o sinistromane	
@@ -2896,6 +2903,9 @@ RAM consumption	consumo de RAM
 haven’t been	non ha essite	
 updated in	actualisate desde	
 take heed	presta attention	
+segmentation rules	regulas de segmentation
+by gluing	collante
+target file	file de destination
 dustier corners	angulos plus pulverulente	
 browsing mode	modo de navigar	
 things like	alsi	
@@ -6429,6 +6439,8 @@ TBX glossaries	lossarios TBX
 glossary folder	plica /glossary	
 font settings	configurationes del typos del character	
 bundled with	integrate in	
+folder	plica	
+folders	plicas	
 option	option	
 alluded	alludite	
 implemented	ha implementate	
@@ -7558,8 +7570,6 @@ sounds	sonos
 outputs	exitos	
 levels	nivellos	
 level	nivello	
-folder	plica	
-folders	plicas	
 music	musica	
 photos	photos	
 access	accesso	
@@ -16213,7 +16223,5 @@ inserted	inserite
 foliettar	foliettar	
 undocked	levate	
 pre-defined	predefinite	
-option is checked	option es marcate
-target file	file de destination
-selected by default	le predefinite
-for which login details	cuje detalios de accesso
+mid-translation	in medio al traduction
+when working	quando on labora
