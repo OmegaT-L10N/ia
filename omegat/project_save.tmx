@@ -13286,6 +13286,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T093637Z" creationid="Melo46" creationdate="20200726T093637Z">
+        <seg>Marca iste option pro inviar solo segmentos non traducite al servicios de traduction automatic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160806T222106Z" creationid="Melo" creationdate="20160806T222106Z">
@@ -55191,6 +55199,14 @@ or can get the source code.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T093449Z" creationid="Melo46" creationdate="20200726T093449Z">
+        <seg>Tu debe alora pulsar de novo &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; pro inserer le suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You need not require recipients to copy the</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144633Z">
@@ -63548,5 +63564,16 @@ crear su plica de configuration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
+      <prop type="prev">You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</prop>
+      <prop type="next">Check this box to send only untranslated segments to the machine translation services.</prop>
+      <tuv lang="en">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T093526Z" creationid="Melo46" creationdate="20200726T093526Z">
+        <seg>Solmente segmentos non rendite</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
