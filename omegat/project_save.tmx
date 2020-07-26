@@ -23074,6 +23074,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T191905Z" creationid="Melo46" creationdate="20200726T191905Z">
+        <seg>Si seligite, quando un segmento in un file PO (que pote esser un integre paragrapho) non es traducite, le traduction essera vacue in le file de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T213842Z" creationid="MELO46" creationdate="20140106T232252Z">
@@ -23334,6 +23342,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160807T080021Z" creationid="Melo46" creationdate="20160807T074859Z">
         <seg>Si le option es INACTIVE, le dicite entrata del glossario non essera trovate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T184543Z" creationid="Melo46" creationdate="20200726T184543Z">
+        <seg>Si le option es marcate, le nomine del file fonte non essera usate e le traductiones alternative prendera effecto in ulle file quando concordara le altere contextos (segmentos precedente/sequente o alcun genere de identificator del segmento dependente del formato de file).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24624,6 +24640,14 @@ work and works based on it.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T151024Z" creationid="Melo46" creationdate="20150423T151024Z">
+        <seg>Ignora le contexto del file pro identificar le segmentos con traductiones alternative: per option predefinite, OmegaT usa le nomine del file fonte qual parte del identification de un traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T184145Z" creationid="Melo46" creationdate="20200726T184145Z">
         <seg>Ignora le contexto del file pro identificar le segmentos con traductiones alternative: per option predefinite, OmegaT usa le nomine del file fonte qual parte del identification de un traduction alternative.</seg>
       </tuv>
     </tu>
@@ -34741,8 +34765,8 @@ Evanescente como bruma</seg>
       <tuv lang="en">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140228T110223Z">
-        <seg>Segmentation a paragrapho sur interruptiones de linea, lineas vacue o nunquam:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T184935Z">
+        <seg>Segmentation del paragrapho sur interruptiones de linea, lineas vacue o nunquam:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40087,6 +40111,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T190036Z">
+        <seg>Plure filtros (files texto, files XHTML, files HTML e XHTML, files OpenDocument e files Microsoft Open XML) ha uno o plus optiones specific.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T184652Z" creationid="Melo46" creationdate="20200726T184652Z">
         <seg>Plure filtros (files texto, files XHTML, files HTML e XHTML, files OpenDocument e files Microsoft Open XML) ha uno o plus optiones specific.</seg>
       </tuv>
     </tu>
@@ -52920,6 +52952,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T184036Z" creationid="Melo46" creationdate="20200726T184036Z">
+        <seg>ATTENTION: in formatos Microsoft XML aperte (docx, xlsx, etc.), si tote le etiquettas es displicate, NON placia ulle texto ante le prime etiquetta, illo es un etiquetta technic que debe sempre initiar le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z" creationid="Melo46" creationdate="20150423T145611Z">
@@ -58943,6 +58983,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T123756Z">
         <seg>si existente, illo contine le regulas de segmentation projecto-specific, si requirite in &lt;g0&gt;Projecto &gt; Proprietates ... &lt;/g0&gt;Vide &lt;l1&gt;Capitulo Proprietates del projecto&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T184901Z" creationid="Melo46" creationdate="20200726T184901Z">
+        <seg>si es active le regulas de segmentation del phrase, le texto essera segmentate plus ultra in accordo al option seligite hic.</seg>
       </tuv>
     </tu>
     <tu>
