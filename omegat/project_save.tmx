@@ -4012,6 +4012,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T051456Z" creationid="Melo46" creationdate="20200726T051456Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; releva automaticamente le files glossario in iste plica quando on aperi un projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T163457Z">
@@ -42175,6 +42183,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T051556Z" creationid="Melo46" creationdate="20200726T051556Z">
+        <seg>Le terminos in le segmento currente que &lt;a2&gt;OmegaT&lt;/a2&gt; trova in le file(s) glossario es monstrate in le quadro Glossario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T210429Z">
@@ -49471,6 +49487,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T085407Z">
         <seg>Pro usar Priorview sur Windows o Linux, tu necessita le sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T051407Z" creationid="Melo46" creationdate="20200726T051407Z">
+        <seg>Pro usar un glossario existente, placia lo simplemente in le plica &lt;f0&gt;/glossary&lt;/f0&gt; post le creation del projecto.</seg>
       </tuv>
     </tu>
     <tu>
