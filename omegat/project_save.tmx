@@ -35570,6 +35570,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143823Z" creationid="Melo46" creationdate="20200726T143823Z">
+        <seg>Preservar spatios pro tote le etiquettas: marcar iste option si le documentos primari contine grande spatios usate pro controlar le arrangiamento que non debe esser ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -37218,6 +37226,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z" creationid="Melo46" creationdate="20150423T145238Z">
         <seg>Remover le tags initial e final: dismarcar iste option pro monstrar tote le tags includite los initial e los final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143641Z" creationid="Melo46" creationdate="20200726T143641Z">
+        <seg>Remover etiquettas initial e final: dismarca iste option pro monstrar tote le etiquettas, includente etiquettas al initio e fin del segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44271,6 +44287,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143526Z" creationid="Melo46" creationdate="20200726T143526Z">
+        <seg>Le fenestra de dialogo te permitte de activar o disactivar le sequente optiones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T064254Z" creationid="Melo" creationdate="20151116T064254Z">
@@ -49782,6 +49806,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T190134Z">
         <seg>Pro modificar le optiones selige le filtro ex le lista e clicca sur &lt;e0&gt;Optiones&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T143920Z" creationid="Melo46" creationdate="20200726T143920Z">
+        <seg>Pro modificar le optiones, selige le filtro in le lista e clicca &lt;e0&gt;Optiones&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
