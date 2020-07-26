@@ -25742,6 +25742,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T072348Z" creationid="Melo46" creationdate="20200726T072348Z">
+        <seg>Inserer modo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T095355Z">
@@ -27580,6 +27588,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T210720Z">
         <seg>L&amp;og...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T072409Z" creationid="Melo46" creationdate="20200726T072409Z">
+        <seg>BLK</seg>
       </tuv>
     </tu>
     <tu>
@@ -34248,6 +34264,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T072340Z" creationid="Melo46" creationdate="20200726T072340Z">
+        <seg>Superscriber modo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082840Z">
@@ -38280,6 +38304,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T092438Z" creationid="Karm46" creationdate="20171001T092438Z">
         <seg>Cercar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T072302Z" creationid="Melo46" creationdate="20200726T072302Z">
+        <seg>Cercar in dictionarios</seg>
       </tuv>
     </tu>
     <tu>
