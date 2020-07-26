@@ -21015,8 +21015,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200726T071526Z" creationid="Melo46" creationdate="20200726T071526Z">
-        <seg>Le glossarios es files create e actualisate manualmente pro uso in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T071545Z" creationid="Melo46" creationdate="20200726T071526Z">
+        <seg>Le glossarios es files create e actualisate manualmente pro le uso in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44002,8 +44002,8 @@ plica currente.</seg>
       <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20150423T152632Z" creationid="Melo46" creationdate="20150423T152632Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T071725Z" creationid="Melo46" creationdate="20200726T071725Z">
+        <seg>Le extension debe esser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; (si non, illo non essera addite).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44714,8 +44714,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20150423T164719Z" creationid="Melo46" creationdate="20150423T164719Z">
-        <seg>Le ubication del file debe esser intra le plica &lt;f1&gt;/glossary &lt;/f1&gt; , ma illo pote esser in un plica plus profunde (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T071910Z" creationid="Melo46" creationdate="20150423T164719Z">
+        <seg>Le ubication del file debe esser intra le plica &lt;f2&gt;/glossary&lt;/f2&gt;, ma illo pote esser in un plica plus profunde (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
