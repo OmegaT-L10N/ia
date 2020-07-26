@@ -29873,6 +29873,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083918Z" creationid="Melo46" creationdate="20200726T083918Z">
+        <seg>Minime limine pro monstrar un concordantia partial:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T080121Z">
@@ -34735,6 +34743,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130808T123503Z">
         <seg>Paga attention extra al pares de tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083756Z" creationid="Melo46" creationdate="20200726T083756Z">
+        <seg>Penalitate pro concordantias con in altere linguas:</seg>
       </tuv>
     </tu>
     <tu>
