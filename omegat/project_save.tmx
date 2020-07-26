@@ -18413,6 +18413,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050110Z" creationid="Melo46" creationdate="20200726T050110Z">
+        <seg>Error actualisante repositorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T163024Z" creationid="Karm46" creationdate="20170914T163024Z">
@@ -18721,6 +18729,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081637Z">
         <seg>Execution de un commando externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T045719Z" creationid="Melo46" creationdate="20200726T045719Z">
+        <seg>Execution de script {0} (evento {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -50403,6 +50419,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T045339Z" creationid="Melo46" creationdate="20200726T045339Z">
         <seg>Impossibile analysar le servicio reporto de falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T045635Z" creationid="Melo46" creationdate="20200726T045635Z">
+        <seg>Impossibile analysar le responsa del servicio de traduction</seg>
       </tuv>
     </tu>
     <tu>
