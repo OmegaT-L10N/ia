@@ -30041,6 +30041,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T082958Z" creationid="Melo46" creationdate="20200726T082958Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moodle PHP Filter Options</seg>
       </tuv>
       <tuv lang="ia" changeid="USER" changedate="20181130T115115Z" creationid="USER" creationdate="20181130T115115Z">
@@ -40220,6 +40228,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T082941Z" creationid="Melo46" creationdate="20200726T082941Z">
+        <seg>Salto de plugin de classe '{0}' previemente cargate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T050145Z" creationid="Melo46" creationdate="20200726T050145Z">
@@ -43117,6 +43133,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T133858Z">
         <seg>On pote render, directemente in OmegaT, le files in formato Microsoft Office XML.; altere informationes pote esser trovate &lt;a0&gt;hic&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083045Z" creationid="Melo46" creationdate="20200726T083045Z">
+        <seg>Le filtro Moodle PHP generava un exception:</seg>
       </tuv>
     </tu>
     <tu>
