@@ -718,6 +718,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T072235Z" creationid="Melo46" creationdate="20200726T072235Z">
+        <seg>Cerca &amp;Automaticamente in le dictionario le texto del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T075005Z">
