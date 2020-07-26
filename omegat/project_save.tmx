@@ -45521,6 +45521,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T091433Z" creationid="Melo46" creationdate="20200726T091433Z">
+        <seg>Le programma cercara confirmation ante clauder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T155506Z">
