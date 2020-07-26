@@ -50399,6 +50399,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T045339Z" creationid="Melo46" creationdate="20200726T045339Z">
+        <seg>Impossibile analysar le servicio reporto de falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082452Z">
