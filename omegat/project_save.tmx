@@ -14791,6 +14791,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083255Z" creationid="Melo46" creationdate="20200726T083255Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk e alteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132342Z">
@@ -30465,6 +30473,22 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083202Z" creationid="Melo46" creationdate="20200726T083202Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083155Z" creationid="Melo46" creationdate="20200726T083155Z">
+        <seg>Optiones del filtro Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T143648Z" creationid="MELO46" creationdate="20140615T143648Z">
@@ -43157,6 +43181,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T075313Z" creationid="MELO46" creationdate="20140615T075313Z">
         <seg>Le filtro Mozilla DTD generava un exception:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T083224Z" creationid="Melo46" creationdate="20200726T083224Z">
+        <seg>Le filtro Mozilla FTL generava un exception:</seg>
       </tuv>
     </tu>
     <tu>
