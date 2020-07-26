@@ -16747,8 +16747,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200726T050245Z" creationid="Melo46" creationdate="20200726T050245Z">
-        <seg>Expone le entratas como "&lt;source&gt; → &lt;target&gt;"</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050326Z" creationid="Melo46" creationdate="20200726T050245Z">
+        <seg>Expone le entratas como "&lt;fonte&gt; → &lt;destination&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20633,6 +20633,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T221509Z" creationid="Melo" creationdate="20141027T221509Z">
         <seg>Ex le memoria auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050405Z" creationid="Melo46" creationdate="20200726T050405Z">
+        <seg>Ex le memoria reinfortiate</seg>
       </tuv>
     </tu>
     <tu>
@@ -34304,6 +34312,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050421Z" creationid="Melo46" creationdate="20200726T050421Z">
+        <seg>Delimitation de paragrapho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T230309Z">
@@ -36905,8 +36921,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140629T210255Z">
-        <seg>Replacia</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050515Z">
+        <seg>Replaciar</seg>
       </tuv>
     </tu>
     <tu>
@@ -39695,8 +39711,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Show &amp;source term first</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170929T163725Z" creationid="Karm46" creationdate="20170929T163725Z">
-        <seg>Monstrar prime le termino&amp;s fonte</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050301Z" creationid="Karm46" creationdate="20170929T163725Z">
+        <seg>Monstrar primo le termino&amp;s fonte</seg>
       </tuv>
     </tu>
     <tu>
