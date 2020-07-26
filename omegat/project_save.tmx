@@ -16121,6 +16121,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T201041Z" creationid="Melo46" creationdate="20200726T201041Z">
+        <seg>Defini le ressources de recerca externe specific-del-projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Definitions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144525Z">
@@ -19078,8 +19086,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
-      <tuv lang="ia" changeid="ia" changedate="20170909T171147Z" creationid="ia" creationdate="20170909T171147Z">
-        <seg>Recerca externe...</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T201054Z" creationid="ia" creationdate="20170909T171147Z">
+        <seg>Recercar externe...</seg>
       </tuv>
     </tu>
     <tu>
@@ -53508,6 +53516,14 @@ price.</seg>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144514Z">
         <seg>When we speak of free software, we are referring to freedom, not
 price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T200931Z" creationid="Melo46" creationdate="20200726T200931Z">
+        <seg>Quando on labora sur un projecto de equipa, iste fenestra te permitte de definir le mappa inter plicas remote e local (vider exemplos &lt;l0&gt;hic&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
