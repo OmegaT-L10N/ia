@@ -24610,6 +24610,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T051642Z" creationid="Melo46" creationdate="20200726T051642Z">
+        <seg>In ultra al formato texto simple, le formato TBX es alsi supportate qual formato a sol lectura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, if supported by the hardware and operating system (this is not always the case), a beep will sound.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T185311Z">
@@ -44676,6 +44684,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T222029Z">
         <seg>Le ubication es irrelevante, pois que illo debe esser specificate explicitemente sur le linea de commando al lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T052140Z" creationid="Melo46" creationdate="20200726T052140Z">
+        <seg>Le position del file &lt;f0&gt;.tbx&lt;/f0&gt; debe esser intra le plica &lt;f1&gt;/glossary &lt;/f1&gt; , ma illo pote esser in un directorio plus profunde (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
