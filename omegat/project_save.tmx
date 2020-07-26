@@ -19962,6 +19962,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T092735Z" creationid="Melo46" creationdate="20200726T092735Z">
+        <seg>Pro rationes de confidentialitate, tu pote voler a non inviar tote le segmentos al motor de traduction automatic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160806T223429Z" creationid="Melo" creationdate="20160806T223429Z">
