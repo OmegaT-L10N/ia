@@ -25886,6 +25886,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050652Z" creationid="Melo46" creationdate="20200726T050652Z">
+        <seg>Plugins installate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T183526Z">
@@ -38220,6 +38228,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050559Z" creationid="Melo46" creationdate="20200726T050559Z">
+        <seg>Cercar marca fundate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094606Z">
@@ -38232,6 +38248,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T091136Z">
         <seg>Recerca le projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T050617Z" creationid="Melo46" creationdate="20200726T050617Z">
+        <seg>Cercar marca supplantate</seg>
       </tuv>
     </tu>
     <tu>
