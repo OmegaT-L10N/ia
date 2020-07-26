@@ -11492,6 +11492,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T092528Z" creationid="Melo46" creationdate="20200726T092528Z">
+        <seg>Reportar &amp;Automaticamente le traductiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T084226Z">
