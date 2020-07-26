@@ -12872,8 +12872,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
-        <seg>Cambiar le configurationes del segmentation pote producer alicun segmentos jam rendite ser fisse o mergite.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T194657Z">
+        <seg>Cambiar le configurationes del segmentation pote producer alicun segmentos jam rendite esser fisse o mergite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23186,8 +23186,8 @@ Foundation.</seg>
       <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T101823Z">
-        <seg>Si le quadrato de controlo Auto-propagation non es marcate, le segmentos con traductiones alternative son lassate non rendite dum le usator decide qual traduction ser usate.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T194909Z">
+        <seg>Si le quadrato de controlo Auto-propagation non es marcate, le segmentos con traductiones alternative es lassate non rendite dum le usator decide qual traduction usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24005,6 +24005,14 @@ by the Installation Information.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T203914Z" creationid="Melo" creationdate="20151125T203914Z">
         <seg>Si tu decide in medio al traduction de cambiar ab le segmentation per phrase al segmentation per paragrapho, le memoria de traduction interne del projecto non essera cambiate (OmegaT pote promover vetule memorias de traduction que non usa segmentation a phrase, ma non vice versa), sed OmegaT creara le concordantias partial de paragrapho, collante insimul traductiones de sententias existente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T194618Z" creationid="Melo46" creationdate="20200726T194618Z">
+        <seg>Si tu decide in medio al traduction de passar ab le segmentation per phrase al segmentation per paragrapho, le memoria de traduction interne del projecto non essera cambiate (OmegaT pote promover vetule memorias de traduction que non usa segmentation a phrase, ma non vice versa), sed OmegaT tentara crear le concordantias partial de paragrapho, collante insimul traductiones de sententias existente. </seg>
       </tuv>
     </tu>
     <tu>
@@ -30155,8 +30163,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T101606Z">
-        <seg>Le segmentos mal rendite pote esser naturalmente correcte plus tarde manualmente per le commando &lt;g0&gt;Crea Traduction Alternative&lt;/g0&gt;.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T194838Z">
+        <seg>Le segmentos mal rendite pote esser naturalmente correcte plus tarde manualmente per le commando &lt;g0&gt;Crear traduction alternative&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37248,8 +37256,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Remove Tags</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140416T213826Z">
-        <seg>Remove le Tags</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T195006Z">
+        <seg>Remover le Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -39035,10 +39043,26 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T195324Z" creationid="Melo46" creationdate="20200726T195324Z">
+        <seg>Vide le &lt;l1&gt;Preferentias de parametros de segmentation&lt;/l1&gt; pro altere informationes sur le regulas de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;Tag Validation&lt;/l1&gt; and &lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T221204Z">
         <seg>Vide &lt;l1&gt;Validation del Tag&lt;/l1&gt; e &lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T195614Z" creationid="Melo46" creationdate="20200726T195614Z">
+        <seg>Vide le &lt;l3&gt;Preferentias del filtros de File &lt;/l3&gt;pro altero re le subjecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49188,8 +49212,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T211955Z">
-        <seg>Isto effectivemente los al stato "non rendite", pois que illos non concordara plus segmentos registrate in le memoria del projecto, etiam quanquam lor traduction original es adhuc eo.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T194800Z">
+        <seg>Isto effectivemente retorna los al stato "non rendite", pois que illos non concordara plus segmentos registrate in le memoria del projecto, etiam quanquam lor traduction original es ancora illac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49604,8 +49628,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T201313Z">
-        <seg>Pro deler le regulas de segmentation specific del projecto, leva le marca al quadrato de controlo.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T195407Z">
+        <seg>Pro deler le regulas de segmentation specific del projecto, dismarca le quadrato de controlo.</seg>
       </tuv>
     </tu>
     <tu>
