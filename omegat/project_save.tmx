@@ -51672,6 +51672,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T094324Z" creationid="Melo46" creationdate="20200726T094324Z">
+        <seg>Usar terminos que appare separate in le texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151115T004414Z" creationid="Melo" creationdate="20151115T004414Z">
@@ -53026,6 +53034,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T120302Z">
         <seg>Quando isto is facite le quadros monstra un linguetta al summitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200726T094448Z" creationid="Melo46" creationdate="20200726T094448Z">
+        <seg>Quando iste option es marcate, le glossario monstrara par o gruppos de parolas (expressiones) mesmo si le parolas in le texto fonte appare separatemente inter illos.</seg>
       </tuv>
     </tu>
     <tu>
