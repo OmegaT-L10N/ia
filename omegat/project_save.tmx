@@ -12606,6 +12606,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T125559Z" creationid="Melo46" creationdate="20200727T125559Z">
+        <seg>De ordinario, le melior concordantias displicate in le quadro &lt;g0&gt;Concordantias partial&lt;/g0&gt; es determinate per le recerca del radices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T082957Z">
@@ -20342,6 +20350,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T124008Z" creationid="Melo46" creationdate="20200727T124008Z">
+        <seg>Per exemplo, si tu insere &lt;u0&gt;\d+&lt;/u0&gt; in le &lt;g1&gt;Expression regular al&lt;/g1&gt; campo de tags personalisate, tote le numeros essera considerate como etiquettas e tu potera controlar que le numeros que tu ha non ha essite cambiate per error durante le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T214250Z" creationid="MELO46" creationdate="20140106T214250Z">
@@ -26369,6 +26385,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122524Z" creationid="Melo46" creationdate="20200727T122524Z">
+        <seg>Inserer le texto fonte (&amp;source)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T004100Z" creationid="Melo46" creationdate="20151116T004100Z">
@@ -32278,6 +32302,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T124944Z" creationid="Melo46" creationdate="20200727T124944Z">
+        <seg>Nota: iste duo instructiones pote esser combinate scribente &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084240Z">
@@ -33164,8 +33196,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="en">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130701T053352Z">
-        <seg>OmegaT es habile a recognoscer que tu ha facite isto.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122810Z" creationid="Melo46" creationdate="20200727T122810Z">
+        <seg>OmegaT pote recognoscer que tu ha facite isto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37566,6 +37598,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T125222Z" creationid="Melo46" creationdate="20200727T125222Z">
+        <seg>Remove un projecto de iste lista si tu vole que OmegaT te demanda credentiales de accesso cata vice que tu vole acceder al projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T205428Z" creationid="Karm46" creationdate="20171128T205428Z">
@@ -40744,6 +40784,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T161418Z">
         <seg>Como in le caso del projectos de OmegaT, tu besoniara de repositorios separate pro pares de linguas differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T124857Z" creationid="Melo46" creationdate="20200727T124857Z">
+        <seg>De modo similar, insere &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; pro verifica que ille tags HTML (per exemplo) inscribite in le texto fonte es preservate sin modification in le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50314,6 +50362,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122716Z" creationid="Melo46" creationdate="20200727T122716Z">
+        <seg>Pro render possibile isto, selige iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T110639Z" creationid="MELO46" creationdate="20131226T230716Z">
@@ -53886,6 +53942,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T123152Z" creationid="Melo46" creationdate="20200727T123152Z">
+        <seg>Durante que traduce files associate al software, tu pote configurar le optiones del utensile de validation del tags pro alsi controlar variabiles de programmation (%...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160808T005512Z" creationid="Melo46" creationdate="20160808T005512Z">
@@ -55126,6 +55190,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T121209Z" creationid="Karm46" creationdate="20170909T233539Z">
         <seg>Tu pote alsi vocar le manual del usator supplite con OmegaT, mesmo sin lancear le application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T123326Z" creationid="Melo46" creationdate="20200727T123326Z">
+        <seg>Tu pote alsi definir varie optiones correlate al validation del tags e definit tags personalisate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64564,6 +64636,17 @@ crear su plica de configuration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
+      <prop type="prev">Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</prop>
+      <prop type="next">Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</prop>
+      <tuv lang="en">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122604Z" creationid="Melo46" creationdate="20200727T122604Z">
+        <seg>Permitter le traduction equal al fonte</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">doc_src/Dialogs_Preferences.xml</prop>
       <prop type="prev">Dictionary</prop>
