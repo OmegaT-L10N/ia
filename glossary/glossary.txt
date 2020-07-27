@@ -438,6 +438,7 @@ while was in progress	ante le fin de	md
 help you are seeking	le adjuta que tu cerca
 parameters to be set	configurar le parametros
 might sound like	pote parer como
+continuous whitespace characters	characteres spatio blanc continue
 for a match	pro un concordantia
 to know more	pro saper plus
 proper attribute value	valor appropriate del attributo
@@ -1226,6 +1227,7 @@ waiting to be	attende de esser
 make it easy	rende facile
 to keep track	tener tracia
 up & coming	emergente
+character set encoding	codification del collection de characteres
 source code license	licentia de codification fonte
 does not support	non supporta
 specified minimum version	minime version specificate
@@ -2020,6 +2022,9 @@ shows you	lista
 which is	qual es
 it’s probably	illo es probabilemente
 you can	tu pote
+translated files	files traducite
+whitespace characters	characteres spatio blanc
+translated document	documento traducite
 ask for	nos demanda
 as of	desde le
 un1 pinned	un1 appunctava
@@ -2061,6 +2066,8 @@ technical term	termino technic
 visible concepts	conceptos visibile
 denotational meaning	acception denotational
 contrasted to	in contrasto a
+encoding declaration	declaration de codification
+target files	files de destination
 human being	esser human
 unique identifier	identificator unic
 arbitrarily assigned	assignate arbitrarimente
@@ -16249,3 +16256,10 @@ untranslatable	intraducibile
 translatable	traducibile
 newlines	nove-lineas
 preserved	preservate
+rewrite	rescriber
+filenames	nomines de file
+output files	files de exito
+mandatory encoding	codification obligatori
+mandatory	obligatori
+source filename pattern	modello de nomine de file fonte
+source filename	nomine de file fonte
