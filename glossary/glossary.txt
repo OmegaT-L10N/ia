@@ -1,4 +1,4 @@
-would you like to make it	vole tu render lo
+﻿would you like to make it	vole tu render lo
 to make a game of it	render lo un joco
 are you sure you want to	desira tu vermente
 we'll get to fixing that soon	nos lo remediara tosto
@@ -9,6 +9,7 @@ would like to send you	desira inviar te
 a lot to account for	multo a facer
 piggy-back on top of it	combinar lo
 there will be no way	il non habera ulle maniera
+It is consequently able to	Illo ergo pote
 you can log in to	tu pote acceder a
 in the bottom right corner	in le angulo in basso dextre
 it is not possible to	il es impossibile
@@ -97,6 +98,7 @@ we don't want to	nos non vole
 privacy and security protection	protectiones de confidentialitate e securitate
 is going to speak	parlara
 I want to be	io vole esser
+allow you to see	te permitte vider
 you can say no	tu pote dicer no
 to log in to	pro acceder a
 ask the same questions	pone le mesme questiones
@@ -449,6 +451,10 @@ just like that	como per magia
 the internet open	internet aperte
 at top speed	al maxime velocitate
 comes loaded with	es fornite con
+move up	mover in alto
+target filename pattern	modello de nomine de file de destination
+source filename pattern	modello de nomine de file fonte
+source filename	nomine de file fonte
 get access to	get access to
 into making sure	pro garantir que
 pride ourselves in	es orgoliose de
@@ -1764,6 +1770,12 @@ privacy promise	promissa de confidentialitate
 automatically protects	protege automaticamente
 protection report	reporto de protection
 we led	nos ha guidate
+file filters	filtros de file
+language-country pair	copula lingua-pais
+using the	per le
+language checker	corrector del lingua
+output files	files de exito
+mandatory encoding	codification obligatori
 end-to-end encryption	cryptographia end-to-end
 following you	sequer tu movimentos
 set to	con le valor
@@ -16257,11 +16269,6 @@ translatable	traducibile
 newlines	nove-lineas
 preserved	preservate
 rewrite	rescriber
+consequently	ergo
 filenames	nomines de file
-output files	files de exito
-mandatory encoding	codification obligatori
 mandatory	obligatori
-source filename pattern	modello de nomine de file fonte
-source filename	nomine de file fonte
-target filename pattern	modello de nomine de file de destination
-file filters	filtros de file
