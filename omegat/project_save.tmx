@@ -8660,8 +8660,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T220125Z">
-        <seg>Un bon puncto de initio essera semper le regulas existente.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T113218Z">
+        <seg>Un bon puncto de initio sera sempre le regulas existente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24783,6 +24783,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T113021Z" creationid="Melo46" creationdate="20200727T113021Z">
+        <seg>Si tu collection de regulas tracta un copula lingua-pais, nos te avisara a mover lo al summitate per le button &lt;e2&gt;Mover in alto&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T153124Z" creationid="MELO46" creationdate="20140109T153124Z">
@@ -27099,8 +27107,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T130703Z">
-        <seg>Illo ergo es habile a usar le enorme extension de dictionarios orthographic gratuite disponibile pro iste applicationes.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T113442Z">
+        <seg>Illo ergo pote usar le enorme extension de dictionarios orthographic gratuite disponibile pro iste applicationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32970,6 +32978,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T080553Z" creationid="Karm46" creationdate="20171115T215048Z">
         <seg>OmegaT pro Mac OS X es disponibile in ambe le versiones, signate e non signate; illos es functionalmente identic, ma le version signate es ideal pois que illos es recognoscite per le systema como esser publicate per un note disveloppator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T113252Z" creationid="Melo46" creationdate="20200727T113252Z">
+        <seg>OmegaT include un corrector orthographic basate super le corrector orthographic usate in OpenOffice.org, Firefox e Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39307,6 +39323,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T113210Z" creationid="Melo46" creationdate="20200727T113136Z">
+        <seg>Vider &lt;l2&gt;Expressiones regular&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T195614Z" creationid="Melo46" creationdate="20200726T195614Z">
@@ -40032,6 +40056,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T182022Z">
         <seg>Selige le copia de reserva del memoria de traduction que es le plus probabile a continer le data pro le qual tu quere - per exemplo le plus recente, o le ultime version ex le die precedente </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T113545Z" creationid="Melo46" creationdate="20200727T113545Z">
+        <seg>Selige le position del corrector del lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49820,8 +49852,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T220248Z">
-        <seg>Pro verificar lor syntaxe e lor applicabilitate, il es consiliabile usar instrumentos que permitte te pro vider lor effecto directemente.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T113129Z">
+        <seg>Pro verificar lor syntaxe e lor applicabilitate, il es consiliabile usar instrumentos que te permitte vider lor effecto directemente.</seg>
       </tuv>
     </tu>
     <tu>
