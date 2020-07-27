@@ -6468,6 +6468,7 @@ glossary folder	plica /glossary
 font settings	configurationes del typos del character
 bundled with	integrate in
 folder	plica
+settings	parametros
 folders	plicas
 option	option
 alluded	alludite
@@ -7322,7 +7323,6 @@ Windows	Windows
 real	real
 login	apertura de session
 disabled	disactivate
-settings	parametros
 operations	operationes
 install	installar
 already-mounted	jam montate
@@ -16272,3 +16272,7 @@ rewrite	rescriber
 consequently	ergo
 filenames	nomines de file
 mandatory	obligatori
+personalising	personalisar
+verification rules	regulas de verification
+supplied	fornite
+type of	typo de
