@@ -1,4 +1,4 @@
-would you like to make it	vole tu render lo
+﻿would you like to make it	vole tu render lo
 to make a game of it	render lo un joco
 are you sure you want to	desira tu vermente
 we'll get to fixing that soon	nos lo remediara tosto
@@ -62,6 +62,7 @@ if you do find yourself	si tu te trova
 always check to see if	verifica sempre si
 you will also be charged	te sera debitate
 our users security and privacy	securitate e confidentialitate de nostre usatores
+remote folders and local folders	plicas remote e local
 for the sake of convenience	pro convenientia
 Copy Files to Source Folder...	Copiar le files in le plica \source...
 will bring up to date	actualisara
@@ -126,6 +127,8 @@ have a nice day	bon die
 sort control is missing	carentia de controlo ordinamento
 are going to have	habera
 how old are you	que etate ha tu
+at a later stage	in un phase successive
+useful to be able	utile pro poter
 you’re all set to	tu es preste pro
 bachelor of science degree	grado de baccalaureo de scientia
 for the purpose of	a scopo de
@@ -2237,6 +2240,12 @@ in transit	in transito
 over the	trans le
 has occurred	ha occurrite
 encrypted message	message cryptate
+when working	quando on labora
+OmegaT project	projecto OmegaT
+so that	de maniera que
+paragraph break	interruption de paragrapho
+content attribute	attributo de contento
+key-value pairs	pares de valores clave
 signed it	lo ha firmate
 message content	contento del message
 have been	ha essite
@@ -6627,7 +6636,6 @@ sound	sono
 view	vista
 forward	inultrar
 sorry	desolate
-tags	etiquettas
 communicate	communicar
 signers	scriptores
 7,000+	plus de 7000
@@ -6661,6 +6669,8 @@ unignore	non ignorar
 consistency	consistentia
 abnormality	anormalitate
 unwelcome	non benvenite
+aggregate	aggregar
+aggregate	aggrega
 aggregate	aggregato
 rendered	rendite
 text-only	solo texto
@@ -7272,6 +7282,7 @@ passwords	contrasignos
 tool	utensile
 choose	elige
 provide	fornir
+contain	contine
 contain	continer
 whitespace	spatio blanc
 indicate	indica
@@ -10905,6 +10916,8 @@ skill	habilitate
 {name}	{name}
 expire	expirar
 bot	robot
+tags	tags
+tag	tag
 tag	etiquetta
 head	ducer
 case	caso
@@ -16180,9 +16193,15 @@ weight	peso	md
 italic	italico	md
 removed	eliminate	md
 notice	advertentia
+matches	concorda
+subfolders	subplicas
+ancillary	auxiliar
+prefixed	prefixate
 notice	notification
 picture	imagine	md
 recovered	remediate	md
+dialogs	fenestras de dialogo
+pursuing	prosequer
 localisation	localisation
 unlocked	disblocate
 email	e-mail	md
@@ -16199,6 +16218,8 @@ exciting	exaltante
 bartender	le servitor del bar
 slips	glissa
 vanishing	evanescente
+overwrite	superscriber
+unconditionally	inconditionalmente
 lies	remane
 perception	perception
 await	attende
@@ -16224,15 +16245,7 @@ foliettar	foliettar
 undocked	levate
 pre-defined	predefinite
 mid-translation	in medio al traduction
-when working	quando on labora
-remote folders and local folders	plicas remote e local
-OmegaT project	projecto OmegaT
-subfolders	subplicas
-ancillary	auxiliar
-prefixed	prefixate
-so that	de maniera que
-at a later stage	in un phase successive
-overwrite	superscriber
-unconditionally	inconditionalmente
-dialogs	fenestras de dialogo
-pursuing	prosequer
+untranslatable	intraducibile
+translatable	traducibile
+newlines	nove-lineas
+preserved	preservate
