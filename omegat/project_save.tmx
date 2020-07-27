@@ -29807,6 +29807,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T132655Z" creationid="Melo46" creationdate="20200727T132655Z">
+        <seg>Gerer linguas de dextra a sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T100245Z" creationid="Karm46" creationdate="20170914T100245Z">
@@ -36172,6 +36180,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T132715Z" creationid="Melo46" creationdate="20200727T132715Z">
+        <seg>Impedir le perdita del datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preventing data loss</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T222705Z">
@@ -38315,6 +38331,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140701T124817Z" creationid="MELO46" creationdate="20140701T124817Z">
         <seg>Recupera le lista del dominio...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T132732Z" creationid="Melo46" creationdate="20200727T132732Z">
+        <seg>Reusar le memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -45363,6 +45387,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T152446Z" creationid="karm46" creationdate="20180424T152446Z">
         <seg>Le sequente optiones non se applica si es marcate "Compatibilitate con OmegaT 2.6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T132849Z" creationid="Melo46" creationdate="20200727T132849Z">
+        <seg>Le sequente recepta es justo un del possibilitates, ma bastante simple a sequer e sin ulle periculos pro le ressources.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59543,6 +59575,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T000702Z" creationid="Karm46" creationdate="20171202T000702Z">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T132719Z" creationid="Melo46" creationdate="20200727T132719Z">
+        <seg>https://omegat.org/support</seg>
       </tuv>
     </tu>
     <tu>
