@@ -15303,6 +15303,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T234731Z" creationid="Melo46" creationdate="20200727T234731Z">
+        <seg>Crea un copia local del repositorio (&lt;c0&gt;check out&lt;/c0&gt; con SVN, &lt;c1&gt;clone&lt;/c1&gt; con Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T161020Z">
@@ -15331,6 +15339,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T093430Z">
         <seg>Crea un projecto OmegaT in le maniera consuete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T234558Z" creationid="Melo46" creationdate="20200727T234558Z">
+        <seg>Crear un repositorio SVN o Git sur un servitor que essera accessibile per le traductores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15507,6 +15523,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T212614Z" creationid="Karm46" creationdate="20171130T212614Z">
         <seg>Le creation de un "traduction alternative" pro isto conta super segmentos identic que ha differente segmento precedente o sequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T234502Z" creationid="Melo46" creationdate="20200727T234502Z">
+        <seg>Creation se un projecto vacue sur un servitor</seg>
       </tuv>
     </tu>
     <tu>
@@ -27563,6 +27587,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T155429Z">
         <seg>Illo deberea monstrar le texto con alco similante le arrangiamento e le formato final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T234109Z" creationid="Melo46" creationdate="20200727T234109Z">
+        <seg>Lo deberea assi esser cunducite per un gestor de projecto, un leader de projecto o un ingeniero de localisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40596,6 +40628,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T233605Z" creationid="Melo46" creationdate="20200727T233605Z">
+        <seg>Preparar un Projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set up a new project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094118Z">
@@ -40656,6 +40696,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T132941Z" creationid="Karm46" creationdate="20171115T132941Z">
         <seg>Preparation del function de vista preliminar pro le uso con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T233841Z" creationid="Melo46" creationdate="20200727T233841Z">
+        <seg>Le preparation de un projecto de equipa necessita alcun cognoscentia de servitores e systemas de controlo de version SVN o Git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42044,6 +42092,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T225521Z" creationid="Melo46" creationdate="20160729T225521Z">
         <seg>Grado 1: Adjustar le parametros de alineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T234523Z" creationid="Melo46" creationdate="20200727T234431Z">
+        <seg>Passo 1: Crea un projecto vacue sur un servitor</seg>
       </tuv>
     </tu>
     <tu>
@@ -49354,6 +49410,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T234352Z" creationid="Melo46" creationdate="20200727T234352Z">
+        <seg>Isto rende possibile renominar le file a traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T151421Z">
@@ -50026,8 +50090,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130822T123404Z">
-        <seg>Pro evitar reusar le projecto e ita possibilemente polluting casos futur, dele le plica del projecto o archiva lo foras de tu posto del labor.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T233449Z">
+        <seg>Pro evitar reusar le projecto e assi possibilemente polluer casos futur, dele le plica del projecto o archiva lo foras de tu posto del labor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53162,6 +53226,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T084941Z">
         <seg>Usar Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T233542Z" creationid="Melo46" creationdate="20200727T233542Z">
+        <seg>Usar TMX con alternative lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -63281,6 +63353,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144822Z">
         <seg>the Free Software Foundation, either version 3 of the License, or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T233243Z" creationid="Melo46" creationdate="20200727T233243Z">
+        <seg>le files TMX in le plica del projecto principal (vide supra) ora contine le traductiones in le seligite copula de linguas, pro le files que tu ha copiate in le plica source.</seg>
       </tuv>
     </tu>
     <tu>
