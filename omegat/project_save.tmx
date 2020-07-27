@@ -4460,6 +4460,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T073458Z" creationid="Melo46" creationdate="20200727T073458Z">
+        <seg>&lt;e0&gt;Adder o rescriber declaration de codification in files HTML e XHTML&lt;/e0&gt;: le files de destination sovente debe haber un codification del collection de characteres differente de illos in le file fonte (si il es explicitemente definite o implicite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T072708Z" creationid="Melo46" creationdate="20200727T072708Z">
@@ -4520,6 +4528,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160815T184947Z" creationid="Melo" creationdate="20151117T192122Z">
         <seg>&lt;e0&gt;Clauder:&lt;/e0&gt; claude le fenestra sin cambiamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T074445Z" creationid="Melo46" creationdate="20200727T074445Z">
+        <seg>&lt;e0&gt;Comprimer spatios blanc in documento traducite&lt;/e0&gt;: plure characteres spatio blanc continue sera convertite in un singule spatio blanc in le documento traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4872,6 +4888,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T095620Z" creationid="Melo" creationdate="20151125T095620Z">
         <seg>&lt;e0&gt;Remover le commentos HTML in le documento traducite&lt;/e0&gt;: tote le partes commentate (inter &lt;!-- e --&gt;) non essera copiate in le documento traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T074526Z" creationid="Melo46" creationdate="20200727T074526Z">
+        <seg>&lt;e0&gt;Remover commentos HTML in documento traducite&lt;/e0&gt;: le partes commentate (inter &lt;!-- e --&gt;) non sera copiate in le documento traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20252,6 +20276,14 @@ subprograms and other parts of the work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075307Z" creationid="Melo46" creationdate="20200727T075307Z">
+        <seg>Per exemplo de ordinario le filtros XHTML es usate pro processar le files con le extension .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you agree to terms that obligate you
 to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
@@ -20492,6 +20524,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T123221Z" creationid="MELO46" creationdate="20131226T123221Z">
         <seg>Per exemplo, si le filtro del file specifica UTF8 ut le schema de codification pro le files de destination, seliger Semper assecurara que iste information es includite in le files rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T074010Z" creationid="Melo46" creationdate="20200727T074010Z">
+        <seg>Per exemplo, si le filtro de file specifica que UTF8 como schema de codification pro le files de destination, seliger "Sempre" assecurara que iste informationes es includite in le files traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33993,8 +34033,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20131226T155038Z" creationid="MELO46" creationdate="20131226T155038Z">
-        <seg>Sol un numero limitate de formatos de file specifica un codification obligatori.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075524Z" creationid="MELO46" creationdate="20131226T155038Z">
+        <seg>Solo un numero limitate de formatos de file specifica un codification obligatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41184,6 +41224,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075436Z" creationid="Melo46" creationdate="20200727T075436Z">
+        <seg>Codification del files fonte e traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z" creationid="MELO46" creationdate="20131228T163641Z">
@@ -42710,6 +42758,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T105255Z">
         <seg>Nomine del file final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075721Z" creationid="Melo46" creationdate="20200727T075721Z">
+        <seg>Le files de destination pote alsi esser scribite in ulle codification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44611,6 +44667,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T112745Z">
         <seg>Le fenestra de dialogo in &lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Comportamento de Modificar...&lt;/g2&gt; &lt;/m0&gt; habilita le usator a seliger, como le segmento actual in le campo de modification debe esser definite initialmente e tractate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075127Z" creationid="Melo46" creationdate="20200727T075127Z">
+        <seg>Le fenestra de dialogo include un special redactor de modello de nomine de file de destination, que tu pote usar pro personalisar le nomines del files de exito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48336,6 +48400,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T074758Z" creationid="Melo46" creationdate="20200727T074758Z">
+        <seg>Iste fenestra de dialogo te pone in grado de specificar le patronos de nomine de file fonte pro le tractar le files per le filtro, personalisar le nomines de file del files traducite e eliger que codificationes debera esser usate pro cargamento le file fonte e salvamento del traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T084737Z" creationid="Melo46" creationdate="20200726T084737Z">
@@ -49576,6 +49648,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T074938Z" creationid="Melo46" creationdate="20200727T074938Z">
+        <seg>Pro adder un nove modello de filtro de file, clicca &lt;e1&gt;Adder&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T154502Z">
@@ -50118,6 +50198,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T110639Z" creationid="MELO46" creationdate="20131226T230716Z">
         <seg>Pro modificar un modello de filtro del file, modifica le campos directemente o clicca &lt;e0&gt;Modifica.&lt;/e0&gt; Pro adder un nove modello de filtro del file, clicca &lt;e1&gt;Adde&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T074856Z" creationid="Melo46" creationdate="20200727T074856Z">
+        <seg>Pro modificar un modello de filtro de file, o modificar le campos directemente o cliccar &lt;e0&gt;Rediger&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52846,6 +52934,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T073832Z" creationid="Melo46" creationdate="20200727T073832Z">
+        <seg>Per iste option, le traductor pote specificar si le files de destination deberea haber includite le declaration de codification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using wild cards</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130805T194507Z">
@@ -55003,8 +55099,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20160805T085150Z" creationid="Melo46" creationdate="20160805T085150Z">
-        <seg>Tu pote cambiar o adder modellos de nomine de file pro files a ser tractate per cata filtro de file.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075347Z" creationid="Melo46" creationdate="20160805T085150Z">
+        <seg>Tu pote cambiar o adder modellos de nomine de file pro tractar files per cata filtro de file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55037,6 +55133,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T123250Z">
         <seg>Tu pote cambiar le position de qualcunque quadro o etiam levar lo a un fenestra separate cliccante e tirante le quadro ab su nomine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075656Z" creationid="Melo46" creationdate="20200727T075656Z">
+        <seg>Tu pote cambiar le codification fonte pro cata differente modello de nomine de file fonte.</seg>
       </tuv>
     </tu>
     <tu>
