@@ -12542,6 +12542,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122107Z" creationid="Melo46" creationdate="20200727T122107Z">
+        <seg>De ordinario, OmegaT non exeque le commandos specificate in le parametros specific-del-projecto (le file &lt;f0&gt;finder.xml&lt;/f0&gt; in le plica &lt;f1&gt;omegat&lt;/f1&gt;), perque illos pote haber un impacto critic sur le securitate del machina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T210210Z">
@@ -13298,6 +13306,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T205835Z" creationid="MELO46" creationdate="20140629T205835Z">
         <seg>Controla le numero del tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T121529Z" creationid="Melo46" creationdate="20200727T121529Z">
+        <seg>Marca o dismarca le regulas secundo que illos es pertinente pro le typo de texto que tu traduce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14524,8 +14540,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Context Menu Priority:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171113T191924Z" creationid="Karm46" creationdate="20171113T191924Z">
-        <seg>Prioritate del menu de contexto:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122223Z" creationid="Karm46" creationdate="20171113T191924Z">
+        <seg>Prioritate del menu contextual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18249,6 +18265,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T215935Z">
         <seg>Habilita scripts externe a acceder al functionalitate de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122252Z" creationid="Melo46" creationdate="20200727T122252Z">
+        <seg>Te pone in grado de mutar le ordine del commandos in le menu contextual (le clicca dextre menu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34099,6 +34123,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T075524Z" creationid="MELO46" creationdate="20131226T155038Z">
         <seg>Solo un numero limitate de formatos de file specifica un codification obligatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122157Z" creationid="Melo46" creationdate="20200727T122157Z">
+        <seg>Activate iste option solmente si tu sape lo que tu face e solo pro projectos de fontes digne de fide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52942,6 +52974,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T121152Z" creationid="Melo46" creationdate="20200727T121152Z">
+        <seg>Usar sur tu machina local un corrector del lingua differente de illo fornite con OmegaT te da le option de personalisar le regulas de verification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T093011Z">
@@ -53130,6 +53170,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T222956Z" creationid="Melo46" creationdate="20160729T222956Z">
         <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122414Z" creationid="Melo46" creationdate="20200727T122414Z">
+        <seg>Valores circum 100 monstra commandos al parte superior e valores circum 900 monstra los al parte inferior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56165,6 +56213,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T084359Z" creationid="Karm46" creationdate="20171001T084359Z">
         <seg>Te essera suggerite de inserer ce contrasigno tote le vices que tu lancea OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T122517Z" creationid="Melo46" creationdate="20200727T122517Z">
+        <seg>Tu necessitara reinitiar OmegaT proque iste cambios ha effecto.</seg>
       </tuv>
     </tu>
     <tu>
