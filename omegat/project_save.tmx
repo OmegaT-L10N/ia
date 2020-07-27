@@ -12910,6 +12910,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T081243Z" creationid="Melo46" creationdate="20200727T081243Z">
+        <seg>Cambiar le nomine del collection de regulas e le modello de lingua al lingua problematic e su codice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082256Z">
@@ -23282,6 +23290,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T081027Z" creationid="Melo46" creationdate="20200727T080849Z">
+        <seg>Si ha essite seligite le segmentation per phrase, tu pote definir le regulas per &lt;m4&gt; &lt;g5&gt;Optiones&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;ab le menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T213842Z" creationid="MELO46" creationdate="20140106T232252Z">
@@ -24615,6 +24631,14 @@ es usar Java Web Start..</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T080512Z" creationid="Melo46" creationdate="20200727T080512Z">
+        <seg>Si tu desira reverter al configuration predefinite del filtro, clicca &lt;e1&gt;Valores predefinite.&lt;/e1&gt; Tu pote alsi modificar le nomine directemente in le campo del modello de nomine de file de destination del fenestra de dialogo Filtros de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T211538Z" creationid="Karm46" creationdate="20171128T211538Z">
@@ -25418,6 +25442,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T213057Z">
+        <seg>Pro seliger le typo del segmentation, selige &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projecto&lt;/g2&gt; &lt;g4&gt;Proprietates...&lt;/g4&gt; &lt;/m1&gt; ex le menu principal e marca o leva le marca in le quadrato de controlo supplite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T080737Z" creationid="Melo46" creationdate="20200727T080737Z">
         <seg>Pro seliger le typo del segmentation, selige &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projecto&lt;/g2&gt; &lt;g4&gt;Proprietates...&lt;/g4&gt; &lt;/m1&gt; ex le menu principal e marca o leva le marca in le quadrato de controlo supplite.</seg>
       </tuv>
     </tu>
@@ -33022,6 +33054,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075903Z" creationid="Melo46" creationdate="20200727T075903Z">
+        <seg>OmegaT identifica le codification del file fonte usante su declaration de codification, si presente (files HTML, files basate sur XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T184934Z">
@@ -33162,6 +33202,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T082131Z">
         <seg>OmegaT es instruite a usar un codification obligatori pro certe formatos de file (Proprietates Java etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T075947Z" creationid="Melo46" creationdate="20200727T075947Z">
+        <seg>OmegaT es instruite a usar un codification obligatori pro certe formatos de file (properties Java etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46865,6 +46913,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140112T090116Z">
         <seg>Le tags in OmegaT son gris, assi illos son facile a recognoscer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200727T080232Z" creationid="Melo46" creationdate="20200727T080232Z">
+        <seg>Le modello de nomine de file de destination usa un special syntaxe, assi si tu desira rediger iste campo, tu debe cliccar &lt;e0&gt;Rediger...&lt;/e0&gt;e usar le Fenestra de dialogo Rediger modello.</seg>
       </tuv>
     </tu>
     <tu>
