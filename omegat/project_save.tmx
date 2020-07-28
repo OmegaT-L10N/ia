@@ -8230,6 +8230,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101539Z" creationid="Melo46" creationdate="20200728T101539Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T155439Z" creationid="Karm46" creationdate="20171128T155405Z">
@@ -9466,6 +9474,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100647Z" creationid="Melo46" creationdate="20200728T100647Z">
+        <seg>Adde patronos per le wildcards (stilo Apache Ant): *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T205102Z" creationid="Karm46" creationdate="20171128T205102Z">
@@ -10108,6 +10124,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T232308Z" creationid="MELO46" creationdate="20140108T232308Z">
         <seg>Omne le collectiones de regula de segmentation pro un modello de lingua que concorda son active e son applicate in le ordine de prioritate date, assi regulas pro lingua specific deberea esser superior in ordine de prioritate quam los base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101735Z" creationid="Melo46" creationdate="20200728T101735Z">
+        <seg>Tote le contentos de &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; es mappate in le projecto OmegaT local</seg>
       </tuv>
     </tu>
     <tu>
@@ -11186,6 +11210,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>In consequentia,
 tote le configurationes essera definite a lor configuration initial e tu
 pote haber experientia de un comportamento inopinate, ma correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101039Z" creationid="Melo46" creationdate="20200728T101039Z">
+        <seg>Como supra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12656,6 +12688,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101400Z" creationid="Melo46" creationdate="20200728T101400Z">
+        <seg>De ordinario, tote le files que non es excludite es includite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T115048Z" creationid="melo" creationdate="20160813T115048Z">
@@ -13636,6 +13676,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085358Z">
         <seg>Controlo del projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094734Z" creationid="Melo46" creationdate="20200728T094734Z">
+        <seg>Controlo statistica</seg>
       </tuv>
     </tu>
     <tu>
@@ -19131,10 +19179,34 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101532Z" creationid="Melo46" creationdate="20200728T101532Z">
+        <seg>Exemplo mappas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T090519Z">
         <seg>Exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101325Z" creationid="Melo46" creationdate="20200728T101325Z">
+        <seg>Exemplo: &lt;u0&gt;**/*.docx&lt;/u0&gt; pro adder tote le files .docx, ubi illos es ubicate in le projecto, mesmo in plicas excludite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101019Z" creationid="Melo46" creationdate="20200728T100819Z">
+        <seg>Examplo: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; exclude files que ha /excludedfolder/ in the percurso, e files con le extension .txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23966,6 +24038,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T095135Z" creationid="Melo46" creationdate="20200728T095135Z">
+        <seg>Si il ha ulle differentias, controlar que le &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; files es sub controlo de version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T214301Z">
@@ -26227,6 +26307,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T204554Z" creationid="Melo" creationdate="20151125T204554Z">
         <seg>In iste caso le memoria de traduction NL-EN pote servir como un medio pro adjutar a generar le traduction de NL a ZH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100232Z" creationid="Melo46" creationdate="20200728T100232Z">
+        <seg>In iste caso, le procedura es identic, ma le gestor de projecto non adde files al plica /source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30049,6 +30137,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100242Z" creationid="Melo46" creationdate="20200728T100242Z">
+        <seg>Mappa del parametros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T094951Z">
@@ -31399,6 +31495,22 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T070745Z">
         <seg>Nomine del TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100437Z" creationid="Melo46" creationdate="20200728T100437Z">
+        <seg>Nomine del plica o file local, relative al radice del projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100535Z" creationid="Melo46" creationdate="20200728T100535Z">
+        <seg>Nomine del plica o file remote, relative al URL del repositorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33875,6 +33987,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T153903Z">
         <seg>OmegaT supporta duo del popular 'systemas de controlo de version' (Version Control Systems = VCS in breve), &lt;u0&gt;"Subversion" ex Apache&lt;/u0&gt; frequentemente abbreviate in SVN, secundo le nomine del commando svn) e &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100132Z" creationid="Melo46" creationdate="20200728T100132Z">
+        <seg>Le projectos de equipa de OmegaT pote alsi esser implementate in un maniera differente, ubi plure traductores comparti le file project_save.tmx, ma non le files fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37912,6 +38032,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location of the files to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100404Z" creationid="Melo46" creationdate="20200728T100404Z">
+        <seg>Position remote del files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180927T171529Z" creationid="karm46" creationdate="20180927T171529Z">
@@ -40742,6 +40870,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100812Z" creationid="Melo46" creationdate="20200728T100812Z">
+        <seg>Separa differente patronos con un puncto e virgula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separates the source text into segments.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T215915Z">
@@ -42046,6 +42182,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100348Z">
         <seg>Espaniol, castiliano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T095810Z" creationid="Melo46" creationdate="20200728T095810Z">
+        <seg>Caso special: compartimento minime</seg>
       </tuv>
     </tu>
     <tu>
@@ -44595,6 +44739,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T095016Z" creationid="Melo46" creationdate="20200728T095016Z">
+        <seg>Le Gestor de projecto debe controlar con le traductor que le statistica es identic sur ambe le lateres (latere servitor e latere traductor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T173803Z">
@@ -46775,6 +46927,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T094049Z" creationid="Melo46" creationdate="20200726T094049Z">
         <seg>Le proceduras pro configurar le accesso al servicios Microsoft Translator e Google Translate es describite &lt;u0&gt;hic&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100000Z" creationid="Melo46" creationdate="20200728T100000Z">
+        <seg>Le procedura supra describe le caso usual, ubi le gestor de projecto vole haber controlo plen del projecto e ubi le files (e le statistica) es identic in ambe le lateres (del servitor e del traductor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49006,6 +49166,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T045023Z" creationid="Melo46" creationdate="20200728T045023Z">
         <seg>Isto pote esser facite in duo manieras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn or git.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100328Z" creationid="Melo46" creationdate="20200728T100328Z">
+        <seg>Isto pote esser: http (que include https), svn o git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56849,6 +57017,14 @@ or can get the source code.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101457Z" creationid="Melo46" creationdate="20200728T101457Z">
+        <seg>Tu besonia de specificar solo isto pro supplantar alcun exclusiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T173120Z">
@@ -59021,6 +59197,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100600Z" creationid="Melo46" creationdate="20200728T100600Z">
+        <seg>exclusiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T080428Z" creationid="MELO46" creationdate="20140615T080428Z">
@@ -60421,6 +60605,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101034Z" creationid="Melo46" creationdate="20200728T101034Z">
+        <seg>inclusiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>includes bash and kaptain launch scripts;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130606T050201Z">
@@ -61347,6 +61539,22 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T140757Z">
         <seg>mal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100407Z" creationid="Melo46" creationdate="20200728T100407Z">
+        <seg>mappa local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100445Z" creationid="Melo46" creationdate="20200728T100445Z">
+        <seg>mappa repositorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -62979,6 +63187,22 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T223030Z">
         <seg>renomina le file &lt;f0&gt;project_save.tmx&lt;/f0&gt; actual ( per exemplo a &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100255Z" creationid="Melo46" creationdate="20200728T100255Z">
+        <seg>typo de repositorio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T100340Z" creationid="Melo46" creationdate="20200728T100340Z">
+        <seg>URL del repositorio:</seg>
       </tuv>
     </tu>
     <tu>
