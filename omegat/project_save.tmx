@@ -5316,6 +5316,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045029Z" creationid="Melo46" creationdate="20200728T045029Z">
+        <seg>&lt;g0&gt;Projecto&lt;/g0&gt; &lt;g1&gt;Nove...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T170633Z" creationid="Karm46" creationdate="20171001T170305Z">
@@ -9456,6 +9464,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045213Z" creationid="Melo46" creationdate="20200728T045213Z">
+        <seg>Adder le nove projecto OmegaT al systema controlo version (&lt;c0&gt;add&lt;/c0&gt; con SVN e Git)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20190110T165735Z" creationid="MELO46" creationdate="20131219T162818Z">
@@ -10004,6 +10020,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T162759Z">
         <seg>Omne le altere characteres representa se ipse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T093633Z" creationid="Melo46" creationdate="20200728T093633Z">
+        <seg>Tote le altere files es a sol lectura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15339,6 +15363,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T161020Z">
         <seg>Crear un nove projecto sur ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T044859Z" creationid="Melo46" creationdate="20200728T044859Z">
+        <seg>Crea un nove, projecto OmegaT vacue in le repositorio local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23820,6 +23852,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045552Z" creationid="Melo46" creationdate="20200728T045552Z">
+        <seg>Si le projecto usa specific parametros de filtros e segmentation, ambe le files &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; debe esser addite al systema controlo version e publicate sur le servitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T230713Z" creationid="MELO46" creationdate="20140108T225124Z">
@@ -32222,6 +32262,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050819Z" creationid="Melo46" creationdate="20200728T050819Z">
+        <seg>Nota que solo duo files es modificate per OmegaT durante le traduction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
@@ -32378,6 +32426,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T095159Z">
         <seg>Nota: le  files DocBook es recognite non solmente con le extension del file, ma illos alsi debe haber un declaration DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per DocBook 4, o un Namespace: xmlns="http://docbook.org/ns/docbook" per DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045300Z" creationid="Melo46" creationdate="20200728T045300Z">
+        <seg>Nota: si le projecto ha essite create con le linea de commando al passo 3, iste passo ha jam essite facite per le programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37118,6 +37174,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130424T143839Z">
         <seg>Le publicitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045432Z" creationid="Melo46" creationdate="20200728T045432Z">
+        <seg>Publicar le nove projecto OmegaT sur le servitor (&lt;c0&gt;commit&lt;/c0&gt; con SVN, &lt;c1&gt;commit&lt;/c1&gt; sequite per &lt;c2&gt;push&lt;/c2&gt; con Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41936,6 +42000,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045444Z" creationid="Melo46" creationdate="20200728T045444Z">
+        <seg>Parametros specific</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171113T191951Z" creationid="Karm46" creationdate="20171113T191951Z">
@@ -42252,6 +42324,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T084014Z">
         <seg>Grado 1: discoperi le marca del paragrapho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045724Z" creationid="Melo46" creationdate="20200728T045724Z">
+        <seg>Passo 2: adder files fonte e altere ressources</seg>
       </tuv>
     </tu>
     <tu>
@@ -48283,6 +48363,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050811Z" creationid="Melo46" creationdate="20200728T050811Z">
+        <seg>Iste files non essera delite automaticamente sur le latere del traductor: tu debe requirer los pro deler le files manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171117T104027Z">
@@ -48808,6 +48896,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050121Z" creationid="Melo46" creationdate="20200728T050121Z">
+        <seg>Iste poter alsi esser facite intra OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T153315Z" creationid="Karm46" creationdate="20170909T235920Z">
@@ -48828,6 +48924,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T143741Z">
         <seg>On pote facer isto o in le application CAT concernite, o in qualque casos in un formato de file bilingue externe que le application sape leger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045023Z" creationid="Melo46" creationdate="20200728T045023Z">
+        <seg>Isto pote esser facite in duo manieras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50176,6 +50280,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050619Z" creationid="Melo46" creationdate="20200728T050619Z">
+        <seg>Pro &lt;e0&gt;deler files&lt;/e0&gt;, usa un application cliente SVN o Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T094716Z" creationid="Melo46" creationdate="20160805T094716Z">
@@ -50228,6 +50340,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T074523Z">
         <seg>Pro adder contentos a isto, selige &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projecto&lt;/g5&gt; &lt;g6&gt;Crea Documentos Rendite&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050539Z" creationid="Melo46" creationdate="20200728T050539Z">
+        <seg>Pro adder altere ressources (dictionarios, TMXs o glossaries), usa un application cliente SVN o Git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52876,6 +52996,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T144626Z" creationid="MELO46" creationdate="20140615T144626Z">
         <seg>Usa omne renovate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045835Z" creationid="Melo46" creationdate="20200728T045835Z">
+        <seg>Usa un application cliente SVN o Git pro adder le files fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58131,6 +58259,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050212Z" creationid="Melo46" creationdate="20200728T050212Z">
+        <seg>copia le files in le plica &lt;f0&gt;/source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>copy the object code is a network server, the Corresponding Source</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144635Z">
@@ -59087,6 +59223,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132400Z">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050826Z" creationid="Melo46" creationdate="20200728T050826Z">
+        <seg>glossary/glossary.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -61725,6 +61869,22 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050823Z" creationid="Melo46" creationdate="20200728T050823Z">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T045109Z" creationid="Melo46" creationdate="20200728T045109Z">
+        <seg>sur le linea de commando: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T134556Z" creationid="Karm46" creationdate="20171115T134556Z">
@@ -64113,6 +64273,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T234241Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T050329Z" creationid="Melo46" creationdate="20200728T050329Z">
+        <seg>usa &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Inviar Files fonte&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
