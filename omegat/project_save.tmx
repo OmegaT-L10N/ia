@@ -4806,6 +4806,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T105020Z" creationid="Melo46" creationdate="20200728T105020Z">
+        <seg>&lt;e0&gt;No / Io non sape:&lt;/e0&gt; discarga&lt;e1&gt; OmegaT_4.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T183347Z">
@@ -5178,6 +5186,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T184129Z">
         <seg>&lt;e0&gt;Si: &lt;/e0&gt;discarga &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T105001Z" creationid="Melo46" creationdate="20200728T104939Z">
+        <seg>&lt;e0&gt;Si: &lt;/e0&gt;discarga &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9028,6 +9044,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104708Z" creationid="Melo46" creationdate="20200728T104708Z">
+        <seg>Un projecto de equipa pote esser aperite e traducite sin connexion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T182127Z">
@@ -10188,6 +10212,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T232308Z" creationid="MELO46" creationdate="20140108T232308Z">
         <seg>Omne le collectiones de regula de segmentation pro un modello de lingua que concorda son active e son applicate in le ordine de prioritate date, assi regulas pro lingua specific deberea esser superior in ordine de prioritate quam los base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104721Z" creationid="Melo46" creationdate="20200728T104721Z">
+        <seg>Tote le cambiamentos sera synchronisate le proxime vice que un connexion es disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17119,6 +17151,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104807Z" creationid="Melo46" creationdate="20200728T104807Z">
+        <seg>Disconnecte te del rete ante le apertura le projecto,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T162926Z" creationid="Karm46" creationdate="20170929T162926Z">
@@ -17491,6 +17531,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140121T222948Z">
         <seg>Esque tu ha un installation de Java compatibile con Oracle's Java 1.6 JRE?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104925Z" creationid="Melo46" creationdate="20200728T104925Z">
+        <seg>Esque tu ha un installation de Java compatibile con Oracle's Java 8 JRE?</seg>
       </tuv>
     </tu>
     <tu>
@@ -51704,6 +51752,14 @@ script ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104735Z" creationid="Melo46" creationdate="20200728T104735Z">
+        <seg>Pro laborar sin connexion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160814T173612Z" creationid="melo" creationdate="20160814T173612Z">
@@ -55724,6 +55780,14 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T153637Z" creationid="Karm46" creationdate="20171128T153637Z">
         <seg>Opera con plus de 30 formatos de file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104650Z" creationid="Melo46" creationdate="20200728T104650Z">
+        <seg>Laborar sin connexion</seg>
       </tuv>
     </tu>
     <tu>
@@ -62651,6 +62715,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141332Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104914Z" creationid="Melo46" creationdate="20200728T104914Z">
+        <seg>o aperi le projecto per le linea de commando con le option &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
