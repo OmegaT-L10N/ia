@@ -3652,6 +3652,16 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094547Z" creationid="Melo46" creationdate="20200728T094547Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T070029Z">
@@ -6148,6 +6158,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094544Z" creationid="Melo46" creationdate="20200728T094544Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T180109Z">
@@ -8192,6 +8210,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160223T195000Z" creationid="Melo" creationdate="20160223T195000Z">
         <seg>&lt;r0&gt;Nota:&lt;/r0&gt; Il es possibile inhibir de monstrar ce fenestra Files del projecto, per le fixation de &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; a &lt;e2&gt;false&lt;/e2&gt; in le file &lt;f3&gt;omegat.prefs&lt;/f3&gt; (accessibile per le  menu Optiones / Acceder le plica de configuration).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094536Z" creationid="Melo46" creationdate="20200728T094536Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094540Z" creationid="Melo46" creationdate="20200728T094540Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23908,6 +23942,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T093820Z" creationid="Melo46" creationdate="20200728T093820Z">
+        <seg>Si le traductor tenta modificar los, illos recedera a lor original stato quandocunque le projecto es aperite, claudite, salvate o recargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T083455Z">
@@ -25409,6 +25451,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T155929Z">
         <seg>In ambe Firefox e Opera, isto pote ser facite per un click dextere in le file .html rendite que tu ha aperte, pois Recargar cata &gt; selige un intervallo de tempore desiderate (e.g. 5 secundos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094706Z" creationid="Melo46" creationdate="20200728T094706Z">
+        <seg>In ambe casos, le gestor de projecto debe inviar al traductor lor ID e contrasigno pro acceder le repositorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34279,6 +34329,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094120Z" creationid="Melo46" creationdate="20200728T094120Z">
+        <seg>Un vice que le projecto es definite sur le servitor, le gestor de projecto pote invitar le traductor a laborar sur illo in duo differente manieras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T224339Z">
@@ -42352,6 +42410,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T093900Z" creationid="Melo46" creationdate="20200728T093900Z">
+        <seg>Passo 3: Invia un invitation al traductor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140107T135903Z">
@@ -46845,6 +46911,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140201T121537Z">
         <seg>Le extensiones admittite son &lt;f1&gt;TXT&lt;/f1&gt; e &lt;f2&gt;UTF8&lt;/f2&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094532Z" creationid="Melo46" creationdate="20200728T094532Z">
+        <seg>Le referentia al URL es specificate como infra (hic in un repositorio Git):</seg>
       </tuv>
     </tu>
     <tu>
@@ -63161,6 +63235,22 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T080220Z">
         <seg>selection.txt - contine le texto marcate per le usator, quando o es Pulsate Ctrl-Shift-C  o es seligite Modifica &gt; Exporta le selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094500Z" creationid="Melo46" creationdate="20200728T094500Z">
+        <seg>inviante un file &lt;f0&gt;omegat.project&lt;/f0&gt; que contine un referentia al URL e demandante al traductor de copiar lo in un plica dedicate e aperir lo con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T094248Z" creationid="Melo46" creationdate="20200728T094248Z">
+        <seg>inviante le URL del projecto e demandante al traductor crear un copia local per &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Discargamento Projecto de equipa&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
