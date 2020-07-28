@@ -3652,6 +3652,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101845Z" creationid="Melo46" creationdate="20200728T101845Z">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -6166,6 +6174,30 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101745Z" creationid="Melo46" creationdate="20200728T101745Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101842Z" creationid="Melo46" creationdate="20200728T101842Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101952Z" creationid="Melo46" creationdate="20200728T101952Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T180109Z">
@@ -8230,6 +8262,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101839Z" creationid="Melo46" creationdate="20200728T101839Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101740Z" creationid="Melo46" creationdate="20200728T101740Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T101539Z" creationid="Melo46" creationdate="20200728T101539Z">
@@ -9554,6 +9602,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T103743Z" creationid="Melo46" creationdate="20200728T103743Z">
+        <seg>Addition de nove files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional Terms.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144651Z">
@@ -10082,6 +10138,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T103732Z" creationid="Melo46" creationdate="20200728T103732Z">
+        <seg>Tote le altere files sera supplantate per le files in le repositorio remote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T180453Z">
@@ -10124,6 +10188,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T232308Z" creationid="MELO46" creationdate="20140108T232308Z">
         <seg>Omne le collectiones de regula de segmentation pro un modello de lingua que concorda son active e son applicate in le ordine de prioritate date, assi regulas pro lingua specific deberea esser superior in ordine de prioritate quam los base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101837Z" creationid="Melo46" creationdate="20200728T101837Z">
+        <seg>Tote le contentos de &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; es mappate in le projecto OmegaT local</seg>
       </tuv>
     </tu>
     <tu>
@@ -11734,6 +11806,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T102636Z" creationid="Melo46" creationdate="20200728T102636Z">
+        <seg>Salvamento automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180604T224129Z" creationid="karm46" creationdate="20180604T224129Z">
@@ -13148,6 +13228,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T211841Z">
         <seg>Le cambios a iste segmento non ha effecto sur le altere segmentos, ni lo affice le cambios al "traduction base".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104545Z" creationid="Melo46" creationdate="20200728T104545Z">
+        <seg>Cambiar regulas de segmentation o filtros de file</seg>
       </tuv>
     </tu>
     <tu>
@@ -16539,6 +16627,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104505Z" creationid="Melo46" creationdate="20200728T104505Z">
+        <seg>Deletion del files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T170121Z" creationid="Karm46" creationdate="20171001T170121Z">
@@ -19139,6 +19235,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T102855Z" creationid="Melo46" creationdate="20200728T102855Z">
+        <seg>Cata 3 minutas (predefinite), le projecto local es synchronisate con le repositorio remote de maniera que le gestor de projecto o le altere traductores pote vider e usar traductiones addite durante ille periodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T154108Z">
@@ -19346,6 +19450,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T045719Z" creationid="Melo46" creationdate="20200726T045719Z">
         <seg>Execution de script {0} (evento {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104500Z" creationid="Melo46" creationdate="20200728T104500Z">
+        <seg>Le files fonte existente pote esser modificate, ma le operation del invio debe esser exequite ante un salvamento automatic e ante que le projecto es recargate o claudite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19954,6 +20066,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T075018Z">
         <seg>On pote alsi render le files in senior formatos MS Word, Excel e Powerpoint, con le previe conversion al actual formatos equivalente de Microsoft Office, o al formato Office Open XML, como on pote facer in OpenOffice.org o LibreOffice (alsi gratuite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted first by the project manager, and then locally.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104534Z" creationid="Melo46" creationdate="20200728T104534Z">
+        <seg>Files debe esser delite primo per le gestor de projecto e pois localmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33999,6 +34119,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T102203Z" creationid="Melo46" creationdate="20200728T102203Z">
+        <seg>Le projectos de equipa de OmegaT debe primo esser &lt;l0&gt;implementate&lt;/l0&gt; sur un servitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T133132Z" creationid="Karm46" creationdate="20171115T133132Z">
@@ -34445,6 +34573,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T162051Z">
         <seg>Un vice que le operation ha finite, tu pote controlar le plica mentionate: illo deberea ora continer un sub plica .svn e un placa OK verde sur su icone monstrara que le contentos del plica son renovate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T102537Z" creationid="Melo46" creationdate="20200728T102537Z">
+        <seg>Un vice que le projecto ha essite aperite, le traduction procede in le mesme maniera como pro un projecto non de equipa, a exception del sequente punctos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37164,6 +37300,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094359Z">
         <seg>Menu del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T104640Z" creationid="Melo46" creationdate="20200728T104640Z">
+        <seg>Le parametros del projecto debe esser cambiate per le gestor del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42976,6 +43120,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T103159Z" creationid="Melo46" creationdate="20200728T103159Z">
+        <seg>Files synchronisate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085416Z">
@@ -46231,6 +46383,14 @@ scriptorio e in le area de lanceamento celere.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T103137Z" creationid="Melo46" creationdate="20200728T103137Z">
+        <seg>Le intervallo de 3 minutas pote esser cambiate in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Optiones&lt;/g2&gt; &lt;g3&gt;Preferentias&lt;/g3&gt; &lt;g4&gt;Salvamento e exito&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T163352Z">
@@ -47103,6 +47263,22 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T090817Z">
         <seg>Le files pertinente son &lt;l2&gt;filters.conf&lt;/l2&gt; e &lt;l3&gt;segmentation.conf&lt;/l3&gt; e pote esser trovate in le plica domo del usator (per exemplo &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sub Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sub Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T102029Z" creationid="Melo46" creationdate="20200728T102029Z">
+        <seg>Le file remote &lt;f0&gt;https://github.com/omegat-org/omegat/crude/maestro/version/readme.txt&lt;/f0&gt; es mappate in le file local &lt;f1&gt;fonte/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T101949Z" creationid="Melo46" creationdate="20200728T101949Z">
+        <seg>Le file remote &lt;f0&gt;https://github.com/omegat-org/omegat/crude/maestro/src/org/omegat/Bundle.properties&lt;/f0&gt; es mappate al file local &lt;f1&gt;fonte/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50570,6 +50746,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T103755Z" creationid="Melo46" creationdate="20200728T103755Z">
+        <seg>Pro adder un nove file fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T154502Z">
@@ -51448,6 +51632,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T102355Z" creationid="Melo46" creationdate="20200728T102355Z">
+        <seg>Pro usar un projecto de equipa per le prime vice, seque le procedura fornite per le gestor de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T051407Z" creationid="Melo46" creationdate="20200726T051407Z">
@@ -51804,6 +51996,14 @@ script ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T233103Z" creationid="MELO46" creationdate="20140106T233103Z">
         <seg>Le attributos de objecto traducibile in le files XHTML o HTML pote esser extrahite como segmentos separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T102102Z" creationid="Melo46" creationdate="20200728T102102Z">
+        <seg>Traducer un PDF file</seg>
       </tuv>
     </tu>
     <tu>
@@ -54950,6 +55150,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T061207Z">
         <seg>Quando tu desidera usar de nove le filtro, marca justo le quadrato de controlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200728T103348Z" creationid="Melo46" creationdate="20200728T103348Z">
+        <seg>Quandocunque le projecto es salvate automaticamente, ma alsi quando illo es aperite, claudite e recargate, solo duo files es realmente synchronisate:</seg>
       </tuv>
     </tu>
     <tu>
