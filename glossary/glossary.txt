@@ -86,6 +86,7 @@ you’ve taken the steps	tu ha prendite le mensuras que
 contact your System Administrator	continge tu administrator de systema
 working on a fix	reparar le problema
 you’re just looking for	tu cerca solo
+SVN or Git client	application cliente SVN o Git
 you’ve been exclusively using	tu ha usate exclusivemente
 sentence to paragraph translation	le segmentation per phrase al segmentation per paragrapho
 for which login details	cuje detalios de accesso
@@ -570,6 +571,8 @@ did not say	non ha dicite
 talk to you	te parlar
 a couple of	un par de
 take your stand	prende position
+attempts to modify	tenta modificar los
+is set up	es definite
 be part of	contribue a
 you can record	tu pote registrar
 to guide you	pro guidar te
@@ -2065,6 +2068,11 @@ debit card	carta de debito
 isn't setup	non es configurate
 instant payments	pagamentos instantanee
 data encryption	cryptographia del datos
+Commit Source Files	Inviar files fonte
+must send the	debe inviar al
+both sides	ambe le lateres
+version control	controlo de version
+can invite	pote invitar
 regular mode	modalitate regular
 Edge browser	navigator Edge
 it has	illo ha
@@ -2233,6 +2241,8 @@ exact name	nomine exacte
 bound to	integrate con
 is set	es definite
 payment providers	fornitores de pagamento
+special case	caso special
+minimal sharing	compartimento minime
 IoT devices	apparatos IdO
 are created	es create
 come again	retorna
@@ -4158,7 +4168,7 @@ spiritual cheering	incoragiamento spiritual
 hell-bent on	decise a
 transforming herself	se transformar
 one more	un altere
-minimal frame	structura minimal
+minimal frame	structura minime
 extended frames	structuras extense
 predicate operators	operatores de predicato
 patient frames	structuras patiente
@@ -4236,7 +4246,7 @@ logical symbols	symbolos logic
 semantic core	nucleo semantic
 assuming that	supponente que
 radio stations	stationes radio
-minimal english	anglese minimal
+minimal english	anglese minime
 semantic foundation	base semantic
 dictionary making	production de dictionarios
 legal semantics	semantica legal
@@ -6073,7 +6083,7 @@ will appear	parera
 clinical psychology	psychologia clinic
 quantitative psychologist	psychologista quantitative
 I retired	io me retirava
-minimal grammar	grammatica minimal
+minimal grammar	grammatica minime
 international vocabulary	vocabulario international
 was earning	apprendeva
 will learn	apprendera
@@ -16306,7 +16316,7 @@ fleeing	in fuga
 from	a partir de
 threw	generava
 penalty	penalitate
-minimal	limine
+minimal	minime
 parameters	parametros
 segments	segmentos
 fetched	reportate
@@ -16344,13 +16354,19 @@ means	medios
 work-in-progress	labor in curso
 workplace	posto del labor
 periodic	periodic
-Commit Source Files	Inviar files fonte
 client	application cliente
-SVN or Git client	application cliente SVN o Git
-attempts to modify	tenta modificar los
-is set up	es definite
-can invite	pote invitar
 sending	inviante
 sending	inviante
 asking	demandante
-must send the	debe inviar al
+wants to have	vole haber
+procedure	procedura
+repository url	URL del repositorio
+semicolon	puncto e virgula
+.docx files	files .docx
+excluded folders	plicas excludite
+they are	illos es
+excluded	excludite
+exclusions	exclusiones
+mappings	mappas
+mapped	mappate
+to the	in le
