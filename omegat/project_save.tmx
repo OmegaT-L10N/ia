@@ -4470,6 +4470,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090506Z" creationid="Melo46" creationdate="20200730T090506Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normalmente, id es quando &lt;a2&gt;OmegaT&lt;/a2&gt; es lanceate sin alicun argumentos, le programma releva in prime loco le lingua del systema operative del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20131219T095329Z" creationid="MELO" creationdate="20131219T095329Z">
@@ -4710,6 +4718,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084057Z" creationid="Melo46" creationdate="20200730T084022Z">
+        <seg>&lt;e0&gt;Io non sape:&lt;/e0&gt; aperi un terminal e scribe &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
@@ -4854,6 +4870,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084218Z" creationid="Melo46" creationdate="20200730T084218Z">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; installa un Java JRE pro tu systema (vide in basso) e discarga &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;In some cases it may take quite some time for OmegaT to update the display after the font setting has been changed.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T173605Z">
@@ -4920,8 +4944,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130706T221807Z">
-        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085517Z">
+        <seg>&lt;e0&gt;Confidentialitate&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start non salva ulle de tu informationes extra le computator sur le qual tu lo exeque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5230,6 +5254,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084028Z" creationid="Melo46" creationdate="20200730T083907Z">
+        <seg>&lt;e0&gt;Si:&lt;/e0&gt; discarga &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T162732Z">
@@ -5354,6 +5386,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094944Z">
         <seg>plica &lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T083653Z" creationid="Melo46" creationdate="20200730T083653Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; pote facer uso del Servicios macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9938,6 +9978,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085602Z" creationid="Melo46" creationdate="20200730T085602Z">
+        <seg>Post le initial installation tu pote, obviemente, usar alsi &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; alsi quando tu es sin connexion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T143248Z">
@@ -11294,6 +11342,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T094713Z" creationid="Karm46" creationdate="20171001T094713Z">
         <seg>Desira tu vermente restabilir le contrasigno principal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090235Z" creationid="Melo46" creationdate="20200730T090235Z">
+        <seg>Argumentos es addite post le &lt;c0&gt;java&lt;/c0&gt; initial, e ant le &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17983,6 +18039,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084742Z" creationid="Melo46" creationdate="20200730T084742Z">
+        <seg>Discarga le file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; e pois clicca sur illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; and then click on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T074022Z">
@@ -21382,6 +21446,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090152Z" creationid="Melo46" creationdate="20200730T090152Z">
+        <seg>Per iste ration, le duo commandos describite precedentemente es continite in un file (un "script", alsi nominate un &lt;f0&gt;file .bat&lt;/f0&gt; sur le systemas Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T225532Z" creationid="MELO46" creationdate="20140108T225532Z">
@@ -23018,6 +23090,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084250Z" creationid="Melo46" creationdate="20200730T084250Z">
+        <seg>IBM offere JREs pro Linux PowerPC a &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T221217Z">
@@ -23324,6 +23404,14 @@ non necessita inserer le percurso integral.)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T124655Z">
         <seg>Si es rendite un message "command not found" o simile, il es verisimile que Java non es installate sur tu systema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084123Z" creationid="Melo46" creationdate="20200730T084123Z">
+        <seg>Si es rendite un message "command not found" o simile, il es verisimile que Java non es installate sur tu systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26129,6 +26217,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090355Z" creationid="Melo46" creationdate="20200730T090355Z">
+        <seg>In altere platteformas, tu pote modificar le file &lt;f3&gt;Configuration.proprieties&lt;/f3&gt; sur Mac, o le lanceator de &lt;f4&gt;OmegaT&lt;/f4&gt; sub Linux pro facer le mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In other platforms, you can modify &lt;f4&gt;Configuration.properties&lt;/f4&gt; file on the Mac, or &lt;f5&gt;OmegaT&lt;/f5&gt; launcher under Linux to do the same.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T133600Z" creationid="Melo46" creationdate="20160805T133600Z">
@@ -28397,6 +28493,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084652Z" creationid="Melo46" creationdate="20200730T084652Z">
+        <seg>Le technologia Java Web Start (depost Java 8 e sequente) pote esser usate pro le functionamento autonome del applicationes software Java con un sol clic sur le rete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T203503Z">
@@ -30365,6 +30469,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081601Z" creationid="Melo46" creationdate="20200730T081601Z">
         <seg>Controla que tu configurationes del &lt;v1&gt;PATH&lt;/v1&gt; es correcte e que le files &lt;f2&gt;.jar&lt;/f2&gt; es associate debitemente con un lanceator Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084608Z" creationid="Melo46" creationdate="20200730T084608Z">
+        <seg>Controla que tu parametros del &lt;v2&gt;PATH&lt;/v2&gt; es correcte e que le files &lt;f3&gt;.jar&lt;/f3&gt; es associate debitemente con un lanceator Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32680,6 +32792,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090250Z" creationid="Melo46" creationdate="20200730T090250Z">
+        <seg>Nota que in Windows tu pote cambiar le file &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; pro reflecter tu preferentias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151114T204537Z" creationid="Melo" creationdate="20151114T204537Z">
@@ -34643,8 +34763,16 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140124T233652Z">
-        <seg>Sur Windows il es clamate un "MS-DOS window" e es disponibile ab le Menu Initio, intra Programmas, per le commando "MS-DOS".</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085745Z">
+        <seg>Sur Windows illo es appellate un "fenestra MS-DOS" e es disponibile per le Menu Initio, intra Programmas, per le commando "MS-DOS".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085946Z" creationid="Melo46" creationdate="20200730T085946Z">
+        <seg>Sur macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -34717,6 +34845,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T215202Z">
         <seg>Un vice que &lt;a0&gt;OmegaT&lt;/a0&gt; es installate, tu pote lancear lo directemente ex le linea de commando, tu pote crear un script que include le parametros de lanceamento pro le linea de commando o tu pote cliccar sur &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; pro lancear  lo directemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084524Z" creationid="Melo46" creationdate="20200730T084524Z">
+        <seg>Un vice que &lt;a0&gt;OmegaT&lt;/a0&gt; es installate, tu pote lancear lo directemente per linea de commando, tu pote crear un script que include parametros de lanceamento pro le linea de commando o tu pote cliccar sur &lt;f1&gt;OmegaT.jar&lt;/f1&gt; pro lancear lo directemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35529,6 +35665,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084244Z" creationid="Melo46" creationdate="20200730T084244Z">
+        <seg>Oracle offere JREs pro Solaris SPARC/x86 (Java 8) e pro Linux x64, Solaris x64, Windows x64 (Java 8) a &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T065148Z" creationid="ia" creationdate="20170909T201618Z">
@@ -36105,6 +36249,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T075442Z">
         <seg>Paga attention al majusculas e minusculas - in OS alteremente que in Windows, le programma non initiara, si tu scribe &lt;e0&gt;omegat&lt;/e0&gt; in loco de&lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090104Z" creationid="Melo46" creationdate="20200730T090104Z">
+        <seg>Paga attention al majusculas e minusculas, in OS alteremente que in Windows, le programma non initiara, si tu scribe &lt;e0&gt;omegat&lt;/e0&gt; in loco de&lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43164,6 +43316,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085248Z" creationid="Melo46" creationdate="20200730T085248Z">
+        <seg>Clics subsequente sur &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; controlara pro ulle promotiones, installa los, si il ha ulle e pois lancea &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T171653Z" creationid="ia" creationdate="20170909T171653Z">
@@ -46901,6 +47061,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085807Z" creationid="Melo46" creationdate="20200730T085650Z">
+        <seg>Le equivalente macOS es le application Terminal ubicate in &lt;f0&gt;Applicationes/Utilitates&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T184242Z">
@@ -47251,8 +47419,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140124T233110Z">
-        <seg>Le permissiones que tu da a iste version (le qual pote apparer como "accesso libere al computator") son identic al permissiones que  tu da al versiona local del OmegaT, id es, illos permitte accesso al disco dur del computator.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085625Z">
+        <seg>Le permissiones que tu da a iste version (le qual pote apparer como "accesso libere al computator") son identic al permissiones que  tu da al version local del OmegaT, id es, illos permitte accesso al disco dur del computator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49770,6 +49938,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084335Z" creationid="Melo46" creationdate="20200730T084335Z">
+        <seg>Isto creara un plica &lt;e2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/e2&gt; in le plica de labor con tote le files necessari pro exequer &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063034Z">
@@ -50054,6 +50230,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T124039Z">
         <seg>Iste information refere al systemas assi como Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T083844Z" creationid="Melo46" creationdate="20200730T083844Z">
+        <seg>Iste information se refere al systemas como Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64</seg>
       </tuv>
     </tu>
     <tu>
@@ -50584,6 +50768,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T124452Z">
         <seg>Iste pacchetto can esser usate sur omne platteforma ubi es installate un Java 1.6 JRE compatibile JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084013Z" creationid="Melo46" creationdate="20200730T084013Z">
+        <seg>Iste pacchetto pote esser usate sur ulle platteforma ubi es installate un JRE compatibile Java 8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51512,6 +51704,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T055912Z">
         <seg>Pro installar &lt;a0&gt;OmegaT&lt;/a0&gt;, simplemente disimballar le file &lt;e1&gt;OmegaT_3.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084308Z" creationid="Melo46" creationdate="20200730T084308Z">
+        <seg>Pro installar &lt;a0&gt;OmegaT&lt;/a0&gt;, simplemente dispacchetta le file &lt;e1&gt;OmegaT_4.x_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56697,6 +56897,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T083809Z" creationid="Melo46" creationdate="20200730T083809Z">
+        <seg>Tu pote alsi usar AppleScript o Automator pro crear Servicios o scripts que automatisara le actiones frequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can apply it to
 your programs, too.</seg>
       </tuv>
@@ -57236,6 +57444,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T130715Z">
         <seg>On pote pensar de LanguageTool como un  software pro deteger errores que un simplice corrector orthographic non pote discoperir, e.g. confunder there/their, no/now etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T083745Z" creationid="Melo46" creationdate="20200730T083745Z">
+        <seg>Tu pote ergo seliger un parola alicubi in &lt;a1&gt;OmegaT&lt;/a1&gt; e usar Services pro controlar iste parola, per exemplo in Spotlight o in Google.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58949,6 +59165,22 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090032Z" creationid="Melo46" creationdate="20200730T090032Z">
+        <seg>cd &lt;p0&gt;&lt;Position de OmegaT.app&gt;&lt;/p0&gt;/OmegaT.app/Contentos/Ressources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085823Z" creationid="Melo46" creationdate="20200730T085813Z">
+        <seg>cd &lt;p0&gt;plica&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130609T214740Z">
@@ -58977,6 +59209,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T215613Z">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085941Z" creationid="Melo46" creationdate="20200730T085941Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -60917,6 +61157,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T084659Z" creationid="Melo46" creationdate="20200730T084659Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T074136Z">
@@ -62163,6 +62411,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081650Z" creationid="Melo46" creationdate="20200730T081650Z">
         <seg>Usatores de macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T083601Z" creationid="Melo46" creationdate="20200730T083601Z">
+        <seg>bonus de macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -65515,6 +65771,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T162135Z">
         <seg>ubi &lt;i0&gt;percurso&lt;/i0&gt; es le nomine percurso complete del plica in le qual tu poneva preview.tcl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T085935Z" creationid="Melo46" creationdate="20200730T085935Z">
+        <seg>ubi &lt;p0&gt;plica&lt;/p0&gt; es le nomine del plica, con complete percurso, in le qual tu programma &lt;a1&gt;OmegaT&lt;/a1&gt;, specificamente, le file &lt;f2&gt;OmegaT.jar&lt;/f2&gt;, es ubicate.</seg>
       </tuv>
     </tu>
     <tu>
