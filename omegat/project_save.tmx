@@ -2818,6 +2818,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093420Z" creationid="Melo46" creationdate="20200730T093350Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;position del files traducite&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225432Z">
@@ -2834,10 +2842,26 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092201Z" creationid="Melo46" creationdate="20200730T092201Z">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T133605Z" creationid="Melo46" creationdate="20160805T133605Z">
         <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092204Z" creationid="Melo46" creationdate="20200730T092204Z">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,6 +2892,14 @@ configurationes del projecto).</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T092035Z" creationid="melo" creationdate="20160812T153155Z">
         <seg>--disable-project-locking
 		Non tentar de blocar le file omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092207Z" creationid="Melo46" creationdate="20200730T092207Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2940,6 +2972,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093027Z" creationid="Melo46" creationdate="20200730T093027Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225445Z">
@@ -2994,6 +3034,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092210Z" creationid="Melo46" creationdate="20200730T092210Z">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern={regexp}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225427Z">
@@ -3044,6 +3092,22 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091709Z" creationid="Melo46" creationdate="20200730T091709Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091713Z" creationid="Melo46" creationdate="20200730T091713Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dmymemory.api.email=your@email-address.com</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T134821Z" creationid="Melo46" creationdate="20160805T134821Z">
@@ -3056,6 +3120,14 @@ configurationes del projecto).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T012519Z" creationid="Melo46" creationdate="20150423T012519Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091724Z" creationid="Melo46" creationdate="20200730T091724Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4398,6 +4470,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091020Z" creationid="Melo46" creationdate="20200730T091020Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Ultra al lingua, tu pote alsi specificar le pais, per exemplo &lt;l2&gt;CN&lt;/l2&gt; o &lt;l3&gt;TW&lt;/l3&gt; in caso del lingua Chinese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T212500Z">
@@ -4470,10 +4550,50 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092934Z" creationid="Melo46" creationdate="20200730T092859Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; initia in modo consola pro exequer automaticamente uno del servicios sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091700Z" creationid="Melo46" creationdate="20200730T091542Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Si tu es abonate al servicios Google Translate, insere hic tu clave private de API Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091430Z" creationid="Melo46" creationdate="20200730T091410Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Le adresse IP de tu server proxy, si tu systema usa un proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091525Z" creationid="Melo46" creationdate="20200730T091444Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Le numero del porta que tu systema usa pro acceder al server proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T090506Z" creationid="Melo46" creationdate="20200730T090506Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normalmente, id es quando &lt;a2&gt;OmegaT&lt;/a2&gt; es lanceate sin alicun argumentos, le programma releva in prime loco le lingua del systema operative del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091213Z" creationid="Melo46" creationdate="20200730T091144Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Iste commando assigna plus memoria a &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6126,10 +6246,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092548Z" creationid="Melo46" creationdate="20200730T092548Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; dice a &lt;a2&gt;OmegaT&lt;/a2&gt; in le qual plica le configuration files es immagazinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T133727Z" creationid="Melo46" creationdate="20160805T133631Z">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; dice a &lt;a1&gt;OmegaT&lt;/a1&gt; qual file de configuration usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092857Z" creationid="Melo46" creationdate="20200730T092805Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; dice a &lt;a2&gt;OmegaT&lt;/a2&gt; qual file de configuration usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6210,6 +6346,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T170520Z">
         <seg>Le files &lt;l0&gt;.utf8&lt;/l0&gt; son interpretate per &lt;a1&gt;OmegaT&lt;/a1&gt; como codificate in UTF-8 (un codification que concerne quasi tote le linguas in le mundo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092413Z" creationid="Melo46" creationdate="20200730T092322Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; dice a &lt;a1&gt;OmegaT&lt;/a1&gt; ubi trovar le projecto a traducer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,6 +8450,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T172915Z">
         <seg>&lt;p0&gt;Fenestras e quadros in OmegaT&lt;/p0&gt; &lt;s1&gt;Validation del tag&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090820Z" creationid="Melo46" creationdate="20200730T090820Z">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in le commando sta pro le codice de duo cifras del lingua desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091323Z" creationid="Melo46" creationdate="20200730T091323Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; sta pro le amonta de memoria assignate, in megabytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12844,6 +13004,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160803T080858Z" creationid="melo" creationdate="20160803T080858Z">
         <seg>Per option predefinite le editor monstra 2,000 del initial segmentos, e progressivemente carga los que necessita quando tu rola in alto o in basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091305Z" creationid="Melo46" creationdate="20200730T091305Z">
+        <seg>1024 MB es predefinite, assi il non ha beneficio assignar minus de iste cifra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21178,6 +21346,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093519Z" creationid="Melo46" creationdate="20200730T093519Z">
+        <seg>Per exemplo, si le projecto es EN-&gt;FR, &lt;f1&gt;alignDir&lt;/f1&gt; debe continer un desinentia con &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T222934Z">
@@ -23504,6 +23680,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090530Z" creationid="Melo46" creationdate="20200730T090530Z">
+        <seg>Si es disponibile un interfacie de usator in iste lingua, &lt;a3&gt;OmegaT&lt;/a3&gt; usara lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
@@ -23880,6 +24064,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092708Z" creationid="Melo46" creationdate="20200730T092708Z">
+        <seg>Si non specificate, &lt;a3&gt;OmegaT&lt;/a3&gt; reveni al plica del valores prefixate initial (le plica &lt;a4&gt;OmegaT&lt;/a4&gt; in le plica domo del usator o, si indisponibile: le plica de labor actual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T121728Z">
@@ -24240,6 +24432,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Si le lingua del systema del usator non es disponibile, &lt;a6&gt;OmegaT&lt;/a6&gt; adopta le configurationes base in anglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090621Z" creationid="Melo46" creationdate="20200730T090621Z">
+        <seg>Si le lingua del systema del usator non es disponibile, &lt;a7&gt;OmegaT&lt;/a7&gt; adopta le configurationes base in anglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26759,6 +26959,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093159Z" creationid="Melo46" creationdate="20200730T093159Z">
+        <seg>In iste modo, OmegaT alineara le files trovate in le plica &lt;f0&gt;/source/&lt;/f0&gt; del projecto con le contentos trovate al position specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T085721Z">
@@ -26771,6 +26979,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T084522Z">
         <seg>In iste modo, OmegaT tentara de traducer le files in /source/ con le memorias de traduction disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093021Z" creationid="Melo46" creationdate="20200730T093021Z">
+        <seg>In iste modo, OmegaT tentara de traducer le files in &lt;f0&gt;/source/&lt;/f0&gt; con le memorias de traduction disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32728,6 +32944,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092318Z" creationid="Melo46" creationdate="20200730T092318Z">
+        <seg>Nota que tote le parametros initia con un duple character &lt;l0&gt;-&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T164154Z">
@@ -33004,6 +33228,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144301Z">
         <seg>Nota que tu necessitara le programma ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) pro construer tu proprie version de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092759Z" creationid="Melo46" creationdate="20200730T092759Z">
+        <seg>Nota que le character duple &lt;l5&gt;-&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42214,6 +42446,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090601Z" creationid="Melo46" creationdate="20200730T090601Z">
+        <seg>Assi, si le systema operative del usator es russe e &lt;a5&gt;OmegaT&lt;/a5&gt; esseva localisate in russo, &lt;a5&gt;OmegaT&lt;/a5&gt; es monstrate con un interfacie del usator russe, menus russe et cetera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Social Networks</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T042204Z" creationid="Melo46" creationdate="20200728T042204Z">
@@ -42334,6 +42574,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T091229Z">
         <seg>Alcun vias breve implica altere claves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093342Z" creationid="Melo46" creationdate="20200730T093321Z">
+        <seg>Alcun filtros supportate: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
       </tuv>
     </tu>
     <tu>
@@ -44895,6 +45143,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090709Z" creationid="Melo46" creationdate="20200730T090709Z">
+        <seg>Le argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; causa que &lt;a2&gt;OmegaT&lt;/a2&gt; usa le lingua specificate plus tosto que le lingua del systema operative del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T091529Z">
@@ -45809,6 +46065,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T213348Z">
         <seg>Le commando pro lancear  &lt;a3&gt;OmegaT&lt;/a3&gt; con assignation de 1024 MB (1 gigabyte) de memoria es in consequentia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091340Z" creationid="Melo46" creationdate="20200730T091340Z">
+        <seg>Le commando pro lancear &lt;a5&gt;OmegaT&lt;/a5&gt; con assignation de 2048 MB (2 GB) de memoria es dunque:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47197,6 +47461,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092153Z" creationid="Melo46" creationdate="20200730T092153Z">
+        <seg>Le plus importante es &lt;l1&gt;/tracto/a/projecto&lt;/l1&gt; e optionalmente &lt;l2&gt;--config-dir=&lt;p3&gt;/tracto/a/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important is &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, and optionally&lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T140932Z">
@@ -47719,6 +47991,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T121426Z">
         <seg>Le files pertinente &lt;l2&gt;filters.conf&lt;/l2&gt; e &lt;l3&gt;segmentation.conf&lt;/l3&gt; pote esser trovate in le plica principal del usator (Per exemplo &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sub Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sub Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092034Z" creationid="Melo46" creationdate="20200730T091933Z">
+        <seg>Le files pertinente es &lt;f2&gt;filters.conf&lt;/f2&gt; e &lt;f3&gt;segmentation.conf&lt;/f3&gt; e pote esser trovate in le plica principal del usator (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; sub Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; sub Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50412,6 +50692,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091127Z" creationid="Melo46" creationdate="20200730T091127Z">
+        <seg>Isto es necessari mesmo si il ha un singule combination disponibile, como &lt;l4&gt;pt_BR&lt;/l4&gt; in caso de Brazilian portugese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T212822Z">
@@ -51550,8 +51838,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130819T212657Z">
-        <seg>Pro monstrar le guida de initio celere in le lingua desiderate, tu necessita specificar ambe le lingua e le pais.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091114Z">
+        <seg>Pro monstrar le guida de initio celere in le lingua desiderate, tu debe specificar ambes: le lingua e le pais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51752,6 +52040,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130703T084904Z">
         <seg>Pro lancear &lt;a2&gt;OmegaT&lt;/a2&gt; con un interfacie francese (per exemplo sur un systema operative russe), le commando esserea in consequentia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090838Z" creationid="Melo46" creationdate="20200730T090838Z">
+        <seg>Pro lancear &lt;a4&gt;OmegaT&lt;/a4&gt; con un interfacie francese (per exemplo sur un systema operative russe), le commando esserea in consequentia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55838,6 +56134,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T192850Z">
         <seg>Si il essera adoptate o non, dependera in prime loco de quanto le equipa de disveloppamento lo considera benefic pro OmegaT, e secundarimente, si un del disveloppatores es ben disposite a facer le labor de lo implementar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093255Z" creationid="Melo46" creationdate="20200730T093255Z">
+        <seg>Qual files es usate pro alineamento depende si le filtro de file supporta lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61751,6 +62055,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091732Z" creationid="Melo46" creationdate="20200730T091732Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T215704Z">
@@ -61759,10 +62071,26 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T090840Z" creationid="Melo46" creationdate="20200730T090840Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T223414Z">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt; .jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T091342Z" creationid="Melo46" creationdate="20200730T091342Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -61843,6 +62171,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T172359Z">
         <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T092156Z" creationid="Melo46" creationdate="20200730T092156Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
     <tu>
