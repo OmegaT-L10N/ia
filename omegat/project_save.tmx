@@ -10306,6 +10306,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T194346Z" creationid="Melo46" creationdate="20200730T194346Z">
+        <seg>Alinear le files...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170916T032648Z">
@@ -11618,6 +11626,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>In consequentia,
 tote le configurationes essera definite a lor configuration initial e tu
 pote haber experientia de un comportamento inopinate, ma correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T194131Z" creationid="Melo46" creationdate="20200730T194131Z">
+        <seg>Como supra, ma solo pro le documento actualmente monstrate in le quadro editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13756,6 +13772,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T165326Z" creationid="ia" creationdate="20170909T165326Z">
         <seg>Controla problemas pro le documento &amp;Currente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T194106Z" creationid="Melo46" creationdate="20200730T194106Z">
+        <seg>Controlar problemas pro le documento currente</seg>
       </tuv>
     </tu>
     <tu>
@@ -17791,10 +17815,26 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T194337Z" creationid="Melo46" creationdate="20200730T194337Z">
+        <seg>Monstra le statistica de concordantia pro cata file del projecto: le numero del repetitiones, del concordantias exacte, del concordantias partial e del non-concordantias, pro le segmentos, parolas e characteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T032512Z" creationid="Melo46" creationdate="20151116T032512Z">
         <seg>Monstra le Statistica del Concordantia pro cata file del projecto: le numero del repetitiones, del concordantias exacte, del concordantias partial e del non-concordantias, pro le segmentos, pro le parolas e in le characteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T194229Z" creationid="Melo46" creationdate="20200730T194229Z">
+        <seg>Monstra le statistica de concordantia pro le projecto: le numero del repetitiones, concordantias exacte, concordantias partial e non-concordantias, pro segmentos, parolas e characteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41934,6 +41974,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T194521Z" creationid="Melo46" creationdate="20200730T194521Z">
+        <seg>Eliger le duo files a alinear (le file fonte e su traduction) e clicca OK pro aperir le &lt;l0&gt;&lt;g1&gt;fenestra&lt;/g1&gt; Alinear&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T144145Z">
@@ -48603,6 +48651,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T193339Z" creationid="Melo46" creationdate="20200730T193339Z">
+        <seg>Le fenestra del resultatos exi in forma de un tabula in le qual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141026T094443Z">
@@ -49047,6 +49103,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185413Z">
         <seg>Le barra de stato monstra messages  pertinente le fluxo de labor al fundo del fenestra principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T195204Z" creationid="Melo46" creationdate="20200730T195204Z">
+        <seg>Le formatos de file supportate es illos in le lista de presentation in &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Proprietates&lt;/g2&gt; &lt;g3&gt;Filtros de file&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60245,6 +60309,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T193720Z" creationid="Melo46" creationdate="20200730T193720Z">
+        <seg>le clic del titulo del columna cambia le verso de ordinamento del columna,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T173640Z">
@@ -60617,6 +60689,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T122857Z">
         <seg>parolas duple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T193805Z" creationid="Melo46" creationdate="20200730T193519Z">
+        <seg>le duple-clic de un riga activa le segmento correspondente in le quadro editor,</seg>
       </tuv>
     </tu>
     <tu>
@@ -65347,6 +65427,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T223239Z">
         <seg>selige le memoria de traduction copia de reserva que es le plus probabile a continer le data pro le qual tu quere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T194044Z" creationid="Melo46" creationdate="20200730T194044Z">
+        <seg>le selection o le displaciamento del mus super un linea monstra un icone de menu emergente in le ultime columna, que contine actiones pro corriger o ignorar le error.</seg>
       </tuv>
     </tu>
     <tu>
