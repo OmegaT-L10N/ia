@@ -1,4 +1,4 @@
-would you like to make it	vole tu render lo
+﻿would you like to make it	vole tu render lo
 to make a game of it	render lo un joco
 are you sure you want to	desira tu vermente
 we'll get to fixing that soon	nos lo remediara tosto
@@ -1010,6 +1010,8 @@ you'll be given	te sera date
 of your couch	de tu casa
 go to our	va a nostre
 get served with	servite per le
+for more details	pro altere detalios
+makes it possible	rende possibile
 active forum contributors	collaboratores active del foro
 search clickthrough rate	rata de clic de recerca
 can be viewed	pote esser vidite
@@ -2073,6 +2075,8 @@ data encryption	cryptographia del datos
 Commit Source Files	Inviar files fonte
 must send the	debe inviar al
 both sides	ambe le lateres
+Shadow DOM	Shadow DOM
+media queries	consultation de medios
 version control	controlo de version
 can invite	pote invitar
 regular mode	modalitate regular
@@ -2153,6 +2157,11 @@ calling you	te appellante
 wrong number	numero errate
 you scored	tu ha valutate
 email provider	fornitor de email
+opened	aperite
+commit operation	operation del invio
+carried out	exequite
+project parameters	le parametros del projecto
+is downloaded	es discargate
 you seek	que tu cerca
 yells loud	crita alto
 help page	pagina de adjuta
@@ -6502,6 +6511,10 @@ start fresh	recomenciar	md
 not enough	insufficiente	md
 disk space	spatio sur disco	md
 failed to	falleva de	md
+pointing device	dispositivo de punctamento
+side panel	quadro lateral
+shows you	te monstra
+makes it	rende
 to check	verification de	md
 no content	nulle contentos	es
 it may	il pote	md
@@ -16380,8 +16393,14 @@ mappings	mappas
 mapped	mappate
 proceeds	procede
 synchronised	synchronisate
-opened	aperite
-commit operation	operation del invio
-carried out	exequite
-project parameters	le parametros del projecto
-is downloaded	es discargate
+preloading	pre-cargamento del
+focused	eligite
+reusable	reusabile
+simulate	simular
+different	plure
+execute	exequer
+start-up	lanceamento
+requests	require
+will enable you to	te consentira de
+working folder	plica de labor
+untar	decomprimer
