@@ -13696,6 +13696,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T123443Z" creationid="Melo46" creationdate="20200730T123407Z">
+        <seg>Marca &lt;g0&gt;Completamento chronologia&lt;/g0&gt; pro suggerer parolas a pena lor prime littera es scribite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T123623Z" creationid="Melo46" creationdate="20200730T123425Z">
+        <seg>Marca &lt;g0&gt;Prediction chronologia&lt;/g0&gt; pro suggerer parolas que communmente seque le parola que ha justo essite scribite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T090022Z">
@@ -13732,6 +13748,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T203606Z" creationid="MELO46" creationdate="20140629T203606Z">
         <seg>Regulas de Controlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122719Z" creationid="Melo46" creationdate="20200730T122719Z">
+        <seg>Controlar pro actualisationes...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13992,6 +14016,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T123142Z" creationid="Melo46" creationdate="20200730T123142Z">
+        <seg>Controlar le option &lt;g0&gt;Usar concordantias partial le entratas del dictionario&lt;/g0&gt; si tu vole que dictionarios monstra parolas que ha le mesme radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T192805Z">
@@ -14100,6 +14132,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130520T132117Z">
         <seg>Controla pro errores del lingua (stilo, grammatica, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122731Z" creationid="Melo46" creationdate="20200730T122731Z">
+        <seg>Controlos pro vider si un plus recente version de &lt;a0&gt;OmegaT&lt;/a0&gt; ha essite publicate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14464,6 +14504,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125024Z" creationid="Melo46" creationdate="20200730T125024Z">
+        <seg>Clicca le etiquetta &lt;g0&gt;Editar&lt;/g0&gt; sur le pagina Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T203622Z" creationid="Melo46" creationdate="20151117T203622Z">
@@ -14514,8 +14562,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171126T133430Z" creationid="Melo46" creationdate="20150423T221748Z">
-        <seg>Cliccar sur uno, salvara le projecto currente, lo claudera e aperira lo cliccate.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124645Z" creationid="Melo46" creationdate="20150423T221748Z">
+        <seg>Cliccante sur uno, salvara le projecto currente, lo claudera e aperira illo cliccate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15409,6 +15457,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125040Z" creationid="Melo46" creationdate="20200730T125040Z">
+        <seg>Copia le URL del pagina (finiente con &lt;g0&gt;action=edit&lt;/g0&gt;) e colla lo in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T122220Z">
@@ -15437,6 +15493,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T221047Z">
         <seg>Copia le script in le plica "script" de OmegaT, id es le plica continente source.txt etc. (Le scripts in principio pote ser ubicate ubicunque, ma debe alora esser redigite con addition del percurso al files script.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125311Z" creationid="Melo46" creationdate="20200730T125311Z">
+        <seg>Copia le texto e colla lo in le version traducite del pagina Wikipedia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18859,6 +18923,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124244Z" creationid="Melo46" creationdate="20200730T124244Z">
+        <seg>Editor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T122747Z">
@@ -22174,6 +22246,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124623Z" creationid="Melo46" creationdate="20200730T124623Z">
+        <seg>Da accesso al dece ultime projectos modificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the list of plugins available.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T193555Z" creationid="Melo46" creationdate="20200726T193555Z">
@@ -23534,6 +23614,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T123248Z" creationid="Melo46" creationdate="20200730T123248Z">
+        <seg>Si le option &lt;g0&gt;Monstrar automaticamente le suggestiones pertinente&lt;/g0&gt; es marcate, le auto-completator es lanceate automaticamente per inserer le prime littera del un entrata de glossario rendite o per inserer "&lt;" in caso de tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160807T075421Z" creationid="Melo46" creationdate="20160807T075421Z">
@@ -24248,6 +24336,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T213842Z" creationid="MELO46" creationdate="20140106T232252Z">
         <seg>Si le segmentation per phrase esseva seligite, tu pote prefixar le regulas con &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Optiones&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;del menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122934Z" creationid="Melo46" creationdate="20200730T122934Z">
+        <seg>Si plure motores traduction es seligite, alora &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; es alsi usate pro commutar inter illos e insere le ultime un seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35625,6 +35721,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125230Z" creationid="Melo46" creationdate="20200730T125230Z">
+        <seg>Aperir le file &lt;f0&gt;.UTF8&lt;/f0&gt; generate in le plica &lt;f1&gt;/target&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151117T191525Z" creationid="Melo" creationdate="20151117T191525Z">
@@ -35833,6 +35937,38 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124349Z" creationid="Melo46" creationdate="20200730T124349Z">
+        <seg>Aperi le optiones in le fenestra de dialogo Preferentias &lt;l0&gt;editor&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124125Z" creationid="Melo46" creationdate="20200730T123822Z">
+        <seg>Aperi le optiones in le fenestra de dialogo Preferentias &lt;l0&gt;filtros de files&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122825Z" creationid="Melo46" creationdate="20200730T122825Z">
+        <seg>Aperi le fenestra de dialogo &lt;l0&gt;Preferentias&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124240Z" creationid="Melo46" creationdate="20200730T124240Z">
+        <seg>Se displica le &lt;l0&gt;Segmentation Preparar&lt;/l0&gt; optiones in le Preferentias Fenestra de dialogo del.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T222730Z">
@@ -35845,6 +35981,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T210922Z">
         <seg>Aperi le Fenestra Validation del tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124502Z" creationid="Melo46" creationdate="20200730T124502Z">
+        <seg>Aperi le local directorio ubi le files de configuration de OmegaT es registrate (depende del systema operative).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122710Z" creationid="Melo46" creationdate="20200730T122710Z">
+        <seg>Aperi iste manual in le navigator predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38784,6 +38936,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125453Z" creationid="Melo46" creationdate="20200730T125453Z">
+        <seg>Recarga le projecto pro prender cambiamentosos externe in file fonte e le parametros del projecto in conto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files, legacy translation memories, glossaries and project settings into account.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T133755Z">
@@ -40781,6 +40941,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124524Z" creationid="Melo46" creationdate="20200730T124524Z">
+        <seg>Vide &lt;l0&gt;Como usar un projecto de equipa&lt;/l0&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Tokenizers Appendix&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T152823Z" creationid="Melo46" creationdate="20151117T070622Z">
@@ -41282,6 +41450,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T100355Z">
         <seg>Eliger le &amp;Previe concordantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T123010Z" creationid="Melo46" creationdate="20200730T123010Z">
+        <seg>Selige &lt;g0&gt;Cercar in terminologia Taas&lt;/g0&gt; pro activate iste recerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49693,6 +49869,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T123930Z" creationid="Melo46" creationdate="20200730T123930Z">
+        <seg>Iste parametros es applicate a nivello de OmegaT, pro tote le projectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
@@ -52608,6 +52792,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T124727Z" creationid="Melo46" creationdate="20200730T124727Z">
+        <seg>Pro traducer le contentos de un pagina Wikipedia (per exemplo):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To translate the file in OmegaT, proceed as follows:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T153357Z">
@@ -54894,6 +55086,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122645Z" creationid="Melo46" creationdate="20200730T122645Z">
+        <seg>Manual del usator...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User-friendly launching of OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T204709Z">
@@ -56150,6 +56350,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130807T200938Z">
         <seg>Quando tu termina le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125110Z" creationid="Melo46" creationdate="20200730T125110Z">
+        <seg>Quando tu ha claudite tu traduction, pro importar lo in Wikipedia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67175,6 +67383,17 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T094526Z" creationid="Melo46" creationdate="20200726T094526Z">
         <seg>Usar le radices pro le entratas de glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Menus_Options.xml</prop>
+      <prop type="prev">Options</prop>
+      <prop type="next">Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</prop>
+      <tuv lang="en">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122751Z" creationid="Melo46" creationdate="20200730T122751Z">
+        <seg>Preferentias...</seg>
       </tuv>
     </tu>
   </body>
