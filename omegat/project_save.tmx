@@ -11442,6 +11442,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130625Z" creationid="Melo46" creationdate="20200730T130625Z">
+        <seg>Appendices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093650Z">
@@ -13728,6 +13736,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130409Z" creationid="Melo46" creationdate="20200730T130409Z">
+        <seg>Controlar problemas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151011T043822Z" creationid="Melo46" creationdate="20151011T043822Z">
@@ -14834,8 +14850,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="ia" changeid="ia" changedate="20170909T161210Z" creationid="ia" creationdate="20170909T161210Z">
-        <seg>Committer le files fontal</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125636Z" creationid="ia" creationdate="20170909T161210Z">
+        <seg>Inviar files fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -15346,6 +15362,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T100338Z">
         <seg>Converter in formato MS Office 2007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130220Z" creationid="Melo46" creationdate="20200730T130220Z">
+        <seg>Converte le projecto actual in un pacchetto MED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15881,6 +15905,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130108Z" creationid="Melo46" creationdate="20200730T130108Z">
+        <seg>Crear un projecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T182723Z">
@@ -16085,6 +16117,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131227T113939Z">
         <seg>Crea le documentos final basate sur tu traduction del texto de tu documentos fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125939Z" creationid="Melo46" creationdate="20200730T125939Z">
+        <seg>Crea le documentos de destination in base a tu traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23974,6 +24014,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130502Z" creationid="Melo46" creationdate="20200730T130502Z">
+        <seg>Si commandos pro exequer recercas externe ha essite definite in le &lt;l0&gt;Preferentias&lt;/l0&gt;, illos es in le lista de presentation e accessibile hic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.</seg>
@@ -26685,6 +26733,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T075544Z">
         <seg>In alicun casos, tu pote trovar que le tokenizer del lingua de origine interfere con le tokenizer del corrector orthographic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130753Z" creationid="Melo46" creationdate="20200730T130753Z">
+        <seg>In alcun systemas operative, iste plica non es monstrate de ordinario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31435,8 +31491,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200726T202206Z" creationid="Melo46" creationdate="20200726T202206Z">
-        <seg>Menu</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130712Z" creationid="Melo46" creationdate="20200726T202206Z">
+        <seg>Menus</seg>
       </tuv>
     </tu>
     <tu>
@@ -32503,6 +32559,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T164105Z">
         <seg>On pote adder le terminos nove al file(s) glossario manualmente durante le traduction, per exemplo in un editor de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125547Z" creationid="Melo46" creationdate="20200730T125547Z">
+        <seg>Nove memorias de traduction ponite in le plica &lt;f0&gt;/tm&lt;/f0&gt; durante le traduction es cargate automaticamente a pena le cursor move de un segmento a un altere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34032,6 +34096,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130843Z" creationid="Melo46" creationdate="20200730T130843Z">
+        <seg>Guida del usator de OmegaT 4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T152603Z" creationid="Karm46" creationdate="20171128T132140Z">
@@ -34132,6 +34204,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102017Z">
         <seg>OmegaT automaticamente salva le traductiones cata 10 minutas e quando tu claude tu projecto o tu quita OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125600Z" creationid="Melo46" creationdate="20200730T125600Z">
+        <seg>OmegaT automaticamente salva le traductiones cata 3 minutas e quando tu claude tu projecto o tu quita OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34843,6 +34923,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T153903Z">
         <seg>OmegaT supporta duo del popular 'systemas de controlo de version' (Version Control Systems = VCS in breve), &lt;u0&gt;"Subversion" ex Apache&lt;/u0&gt; frequentemente abbreviate in SVN, secundo le nomine del commando svn) e &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130856Z" creationid="Melo46" creationdate="20200730T130856Z">
+        <seg>Equipa OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -35937,6 +36025,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130103Z" creationid="Melo46" creationdate="20200730T130103Z">
+        <seg>Aperi un pacchetto de projecto in formato MED definite per le Directorate-General del Union europee pro le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T124349Z" creationid="Melo46" creationdate="20200730T124349Z">
@@ -35957,6 +36053,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T122825Z" creationid="Melo46" creationdate="20200730T122825Z">
         <seg>Aperi le fenestra de dialogo &lt;l0&gt;Preferentias&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130255Z" creationid="Melo46" creationdate="20200730T130255Z">
+        <seg>Aperi le &lt;l0&gt;fenestra Files del projecto&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36535,7 +36639,7 @@ Evanescente como bruma</seg>
       <tuv lang="en">
         <seg>Panes</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200726T202155Z" creationid="Melo46" creationdate="20200726T202155Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130657Z" creationid="Melo46" creationdate="20200726T202155Z">
         <seg>Quadros</seg>
       </tuv>
     </tu>
@@ -42174,6 +42278,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130621Z" creationid="Melo46" creationdate="20200730T130621Z">
+        <seg>Prefixar illo a&lt;e1&gt; Omne le segmentos &lt;/e1&gt;monstrara iste information in tote le segmentos, e &lt;e2&gt;Necun&lt;/e2&gt; disactiva iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T032104Z" creationid="Melo46" creationdate="20151116T032104Z">
@@ -43622,6 +43734,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T225521Z" creationid="Melo46" creationdate="20160729T225521Z">
         <seg>Grado 1: Adjustar le parametros de alineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T130919Z" creationid="Melo46" creationdate="20200730T130919Z">
+        <seg>Passo 1: Adjustar le parametros de alineamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -50778,6 +50898,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125812Z" creationid="Melo46" creationdate="20200730T125812Z">
+        <seg>Iste function es specific pro projectos de equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T103342Z">
@@ -54466,6 +54594,22 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125803Z" creationid="Melo46" creationdate="20200730T125803Z">
+        <seg>Cargas in le repositorio le files que ha essite addite o modificate localmente in le directorio &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T125858Z" creationid="Melo46" creationdate="20200730T125858Z">
+        <seg>Carga in le repositorio le files que ha essite create localmente in le directorio &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Urdu</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T234240Z">
@@ -56164,6 +56308,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T223559Z" creationid="MELO46" creationdate="20140106T223559Z">
         <seg>Quando es create le documento rendite, su direction de monstra essera le mesme ut celle del documento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T131004Z" creationid="Melo46" creationdate="20200730T131004Z">
+        <seg>Quando le duo columnas es sufficientemente alineate, clicca &lt;g0&gt;Salvar TMX...&lt;/g0&gt; pro crear le memoria de traduction resultante.</seg>
       </tuv>
     </tu>
     <tu>
