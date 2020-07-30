@@ -32,6 +32,14 @@ License by making exceptions from one or more of its conditions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224950Z" creationid="Melo46" creationdate="20200730T224950Z">
+        <seg>"Impossibile lancear ab plica que contine un \"/\" in su nomine.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.</seg>
       </tuv>
@@ -194,6 +202,22 @@ License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T162431Z">
         <seg>"Iste es un termino original, que contine un virgula","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224930Z" creationid="Melo46" creationdate="20200730T224930Z">
+        <seg>"Impossibile enumerar contentos del directorio Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224841Z" creationid="Melo46" creationdate="20200730T224841Z">
+        <seg>"Impossibile cargar le ambiente Java runtime.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,6 +4654,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224151Z" creationid="Melo46" creationdate="20200730T224151Z">
+        <seg>&lt;e0&gt;Adder files al projecto: &lt;/e0&gt;Tu pote adder files fonte al projecto cliccante sur le button "&lt;g1&gt;Importar files fonte..."&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T072708Z" creationid="Melo46" creationdate="20200727T072708Z">
@@ -6434,6 +6466,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T141028Z">
         <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; dice a &lt;a1&gt;OmegaT&lt;/a1&gt; ubi trovar le projecto a traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224517Z" creationid="Melo46" creationdate="20200730T224517Z">
+        <seg>&lt;l0&gt;Le expressiones regular&lt;/l0&gt; es un maniera potente pro cercar occurrentias de un catena de characteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14312,6 +14352,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223038Z" creationid="Melo46" creationdate="20200730T223038Z">
+        <seg>Elige illo que forni le melior resultatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T161207Z">
@@ -14408,6 +14456,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223104Z" creationid="Melo46" creationdate="20200730T223104Z">
+        <seg>Clicca &lt;g0&gt;Continuar&lt;/g0&gt; pro acceder le grado successive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T161324Z">
@@ -14436,6 +14492,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130606T064035Z">
         <seg>Clicca in le cassa pro un nove combination de claviero, pois experimenta con le combinationes de claviero pro trovar uno que non es assignate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223210Z" creationid="Melo46" creationdate="20200730T223210Z">
+        <seg>Clicca in le altere columna sur le traduction correspondente al prime segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,6 +15320,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T064114Z" creationid="Melo" creationdate="20151116T064114Z">
         <seg>Contine optiones pro monstrar informationes re le textos e le modificationes in manieras differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222637Z" creationid="Melo46" creationdate="20200730T222637Z">
+        <seg>Contine le parametros del projecto como definite in le fenestra de dialogo &lt;l0&gt;Proprietates del projecto&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21894,6 +21966,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222145Z" creationid="Melo46" creationdate="20200730T222145Z">
+        <seg>Pro le memorias de traduction in le plicas con nomine "penalty-xxx" (con xxx inter 0 e 100), le concordantias essera degradate secundo le nomine del plica: un concordantia 100% in omne de TMs, residente in un plica nominate Penalty-30 per exemplo, essera diminuite a un concordantia del 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T080944Z">
@@ -24626,6 +24706,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222837Z" creationid="Melo46" creationdate="20200730T222837Z">
+        <seg>Si le alineamento pare como si illo poterea esser meliorate, prova cambiar le parametros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T111101Z" creationid="MELO46" creationdate="20131228T160749Z">
@@ -26363,6 +26451,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T212427Z">
         <seg>In un faction similabile como precedentemente le usator pote crear Filtros de File projecto-specific, que essera immagazinate conjunctemente con le projecto e essera valide pro le the currente solmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222751Z" creationid="Melo46" creationdate="20200730T222751Z">
+        <seg>In un projecto de equipa, iste plica contine un copia versionate del structura arbore del projecto ligate directemente al servitor remote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32243,6 +32339,16 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224659Z" creationid="Melo46" creationdate="20200730T224659Z">
+        <seg>Move le plica a un
+position appropriate como le plica Applicationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T210418Z">
@@ -34878,6 +34984,16 @@ a esser lanceate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224711Z" creationid="Melo46" creationdate="20200730T224711Z">
+        <seg>OmegaT es jam preste
+a esser lanceate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T165340Z">
@@ -36201,6 +36317,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T225120Z" creationid="Melo46" creationdate="20200730T225120Z">
+        <seg>Aperi le &lt;l0&gt;&lt;g1&gt;fenestra&lt;/g1&gt; Scripts&lt;/l0&gt;, ubi le position del scripts pote esser configurate e ubi scripts pote esser scribite, exequite e associate con un via-breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T124349Z" creationid="Melo46" creationdate="20200730T124349Z">
@@ -37171,8 +37295,8 @@ toto.</seg>
       <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170913T172850Z" creationid="Karm46" creationdate="20170913T172850Z">
-        <seg>Poner le archivo in qualcunque convenibile plica e discassa illo.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224720Z" creationid="Karm46" creationdate="20170913T172850Z">
+        <seg>Poner le archivo in qualcunque convenibile plica e discassa lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41229,6 +41353,22 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222220Z" creationid="Melo46" creationdate="20200730T222220Z">
+        <seg>Vide &lt;l0&gt;Dictionarios&lt;/l0&gt; pro altero re iste subjecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222326Z" creationid="Melo46" creationdate="20200730T222326Z">
+        <seg>Vide &lt;l0&gt;Glossarios&lt;/l0&gt; pro altero sur iste subjecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T124524Z" creationid="Melo46" creationdate="20200730T124524Z">
@@ -42058,6 +42198,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T182022Z">
         <seg>Selige le copia de reserva del memoria de traduction que es le plus probabile a continer le data pro le qual tu quere - per exemplo le plus recente, o le ultime version ex le die precedente </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223120Z" creationid="Melo46" creationdate="20200730T223120Z">
+        <seg>Eliger le prime segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45783,6 +45931,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223653Z" creationid="Melo46" creationdate="20200730T223653Z">
+        <seg>Le fenestra &lt;g2&gt;Files del projecto&lt;/g2&gt; monstra le sequente informationes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T090004Z">
@@ -46245,8 +46401,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20150423T115137Z" creationid="Melo46" creationdate="20150423T115137Z">
-        <seg>Le Fenestra de Scripting te permitte de cargar un script existente in le area texto e exequer lo verso le projecto aperte currente.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224353Z" creationid="Melo46" creationdate="20150423T115137Z">
+        <seg>Le Fenestra de Scripts te permitte de cargar un script existente in le area texto e exequer lo verso le projecto aperte currente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47869,6 +48025,16 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T135737Z">
         <seg>Le nivellos se refere al information de formato que es continite in le file TMX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224544Z" creationid="Melo46" creationdate="20200730T224544Z">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50930,6 +51096,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224216Z" creationid="Melo46" creationdate="20200730T224216Z">
+        <seg>Isto copia le files seligite in le plica &lt;f2&gt;source&lt;/f2&gt; e recarga le projecto pro importar le files nove.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T225151Z">
@@ -52172,6 +52346,22 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224335Z" creationid="Melo46" creationdate="20200730T224335Z">
+        <seg>Iste fenestra es accessibile per selection de &lt;m0&gt; &lt;g1&gt;Applicationes&lt;/g1&gt; &lt;g2&gt;Scripts...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223536Z" creationid="Melo46" creationdate="20200730T223536Z">
+        <seg>Iste fenestra es monstrate automaticamente quando OmegaT carga un projecto e sempre pulsante &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Files del projecto...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T190336Z">
@@ -52560,6 +52750,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131227T223408Z">
         <seg>Pro personalisar le characteristica del script, face le sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224410Z" creationid="Melo46" creationdate="20200730T224410Z">
+        <seg>Pro personalisar le characteristica del script, face lo sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54196,6 +54394,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223839Z" creationid="Melo46" creationdate="20200730T223839Z">
+        <seg>Inserer qualcunque texto aperira un campo &lt;g0&gt;filtro&lt;/g0&gt; ubi partes del nomines de file pote esser inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160814T132128Z" creationid="Melo" creationdate="20160814T132128Z">
@@ -54718,6 +54924,16 @@ file de documentation e le application OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224647Z" creationid="Melo46" creationdate="20200730T224647Z">
+        <seg>Discassa le archivo OmegaT.zip pro obtener un plica que contine un
+file de documentation e le application OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140122T232233Z">
@@ -55046,6 +55262,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T133336Z" creationid="Karm46" creationdate="20171202T133336Z">
         <seg>Usar le filtro standard de &lt;a0&gt;OmegaT’s&lt;/a0&gt; (pro PDF), traducer, crear un file de destination (illo essera un file de texto simple), adder manualmente le formato pertinente e altere elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T223732Z" creationid="Melo46" creationdate="20200730T223732Z">
+        <seg>Usa &lt;g0&gt;Ctrl+L&lt;/g0&gt; pro aperir e  &lt;k1&gt;Esc&lt;/k1&gt; pro clauder lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55528,6 +55752,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093430Z">
         <seg>Le supporto al usator es fornite sur un base voluntarie al &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224803Z" creationid="Melo46" creationdate="20200730T224803Z">
+        <seg>Ressources supporto al usator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56311,6 +56543,16 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T171619Z" creationid="Karm46" creationdate="20170913T172430Z">
         <seg>Nos recommenda de usar le pacchettos de OmegaT que include le JRE, pro te sparniar del
+enoio de lo selectionar, obtener e installar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224637Z" creationid="Melo46" creationdate="20200730T224637Z">
+        <seg>Nos recommenda de usar le pacchettos de OmegaT que include le JRE, pro te sparniar le
 enoio de lo selectionar, obtener e installar.</seg>
       </tuv>
     </tu>
@@ -57972,6 +58214,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224246Z" creationid="Melo46" creationdate="20200730T224246Z">
+        <seg>Tu pote alsi adder files fonte a partir de paginas Internet, scripte in MediaWiki, cliccante sur le button&lt;g3&gt; "Importar ex MediaWiki"&lt;/g3&gt; e providente le URL correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T121251Z">
@@ -58424,6 +58674,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222822Z" creationid="Melo46" creationdate="20200730T222822Z">
+        <seg>Tu pote facer cambiamentos al files remote (e.g. deletion del un file) per le iste plica e un Git o SVN application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T093519Z" creationid="Melo46" creationdate="20160805T093519Z">
@@ -58516,6 +58774,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160814T132305Z" creationid="Melo" creationdate="20160814T132305Z">
         <seg>Tu pote eliger un file con le claves &lt;k0&gt;In alto&lt;/k0&gt; e &lt;k1&gt;In basso&lt;/k1&gt;, e aperir lo pro le traduction per pulsar &lt;k2&gt;Insere&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224048Z" creationid="Melo46" creationdate="20200730T224048Z">
+        <seg>Tu pote eliger un file con le claves &lt;k1&gt;In alto&lt;/k1&gt; e &lt;k2&gt;In basso&lt;/k2&gt; e aperir lo pro le traduction per pulsar &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60821,6 +61087,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222156Z" creationid="Melo46" creationdate="20200730T222156Z">
+        <seg>dictionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225532Z">
@@ -61569,6 +61843,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132400Z">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222228Z" creationid="Melo46" creationdate="20200730T222228Z">
+        <seg>glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -62341,6 +62623,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T224729Z" creationid="Melo46" creationdate="20200730T224729Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T132109Z" creationid="Karm46" creationdate="20171201T132109Z">
@@ -62597,6 +62887,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222546Z" creationid="Melo46" creationdate="20200730T222546Z">
+        <seg>si existente, illo contine le parametros GUI specific pro le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T123858Z">
@@ -62605,10 +62903,26 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222457Z" creationid="Melo46" creationdate="20200730T222457Z">
+        <seg>si existente, illo contine specific-del-projecto filtros de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T123756Z">
         <seg>si existente, illo contine le regulas de segmentation projecto-specific, si requirite in &lt;g0&gt;Projecto &gt; Proprietates ... &lt;/g0&gt;Vide &lt;l1&gt;Capitulo Proprietates del projecto&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222354Z" creationid="Melo46" creationdate="20200730T222354Z">
+        <seg>si existente, illo contine regulas de segmentation specific-del-projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66467,6 +66781,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T090641Z" creationid="Melo46" creationdate="20151119T090641Z">
         <seg>plica tm/mt </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222106Z" creationid="Melo46" creationdate="20200730T222106Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
