@@ -3034,6 +3034,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093613Z" creationid="Melo46" creationdate="20200730T093613Z">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T092210Z" creationid="Melo46" creationdate="20200730T092210Z">
@@ -6298,6 +6306,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T093258Z">
         <seg>&lt;l0&gt;--source-pattern={regexp} &lt;/l0&gt;Le files a traducer pote esser specificate in iste maniera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093941Z" creationid="Melo46" creationdate="20200730T093941Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10346,6 +10362,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093848Z" creationid="Melo46" creationdate="20200730T093848Z">
+        <seg>Omne le files HTML essera traducite: nota que le usual periodo in &lt;l0&gt;*.html&lt;/l0&gt; debe esser escappate (&lt;l1&gt;\.&lt;/l1&gt;) assi como specificate per le regulas pro le expressiones regular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All being well, Priorview should appear when launched as described above.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T152522Z">
@@ -13124,6 +13148,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T082957Z">
         <seg>Per arrangiamento base, le codification del file rendite es identic al codification del  file fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094112Z" creationid="Melo46" creationdate="20200730T094112Z">
+        <seg>Sub Windows &lt;l1&gt;omegat.project&lt;/l1&gt; es blocate per option predefinite, e es recipite un message de error quando on proba aperir un projecto jam aperite in un altere instantia de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17131,6 +17163,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094449Z" creationid="Melo46" creationdate="20200730T094449Z">
+        <seg>Instructiones detaliate sur le compilation es in le docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T174834Z">
@@ -20192,8 +20232,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140121T222338Z">
-        <seg>Pauc magis cosas a rememorar se</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094650Z">
+        <seg>Poc plus cosas a rememorar</seg>
       </tuv>
     </tu>
     <tu>
@@ -23518,6 +23558,22 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094020Z" creationid="Melo46" creationdate="20200730T094020Z">
+        <seg>Si es seligite &lt;l0&gt;abort &lt;/l0&gt;, le validator de tag se arrestara sur le prime segmento non valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095230Z" creationid="Melo46" creationdate="20200730T095230Z">
+        <seg>Si le &lt;l0&gt;recerca automatic in le dictionarios&lt;/l0&gt; es disactivate, iste function te permitte de cercar le parola seligite in le dictionarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
@@ -24044,6 +24100,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T142503Z">
         <seg>Si nulle texto es seligite, &lt;a1&gt;OmegaT&lt;/a1&gt; selige le parola que contine le littera immediatemente al derecta del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095323Z" creationid="Melo46" creationdate="20200730T095323Z">
+        <seg>Si nulle texto es seligite, &lt;a3&gt;OmegaT&lt;/a3&gt; selige le parola que contine le littera immediatemente al dextera del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32515,6 +32579,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094746Z" creationid="Melo46" creationdate="20200730T094746Z">
+        <seg>Nulle action es prendite, si nulle servicios de traduction automatic ha essite activate (in &lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Traduction automatic&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T191247Z">
@@ -33244,6 +33316,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T090027Z">
         <seg>Nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095656Z" creationid="Melo46" creationdate="20200730T095656Z">
+        <seg>Nota: &lt;k0&gt;Insere&lt;/k0&gt; es un via-breve alternative si le option &lt;l1&gt;Usa TAB pro Facer progreder&lt;/l1&gt; option non es activate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35369,6 +35449,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093936Z" creationid="Melo46" creationdate="20200730T093936Z">
+        <seg>Sol le file &lt;f0&gt;test.html&lt;/f0&gt; in le plica &lt;f1&gt;dir-10&lt;/f1&gt; essera processate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T142045Z">
@@ -37400,8 +37488,8 @@ projecto local sin functionalitates de equipa.</seg>
       <tuv lang="en">
         <seg>Previous Segment</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130210T100600Z">
-        <seg>A le previe segmento</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095725Z">
+        <seg>Al previe segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -39209,6 +39297,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094758Z" creationid="Melo46" creationdate="20200730T094758Z">
+        <seg>Reimplaciar con fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with match</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140416T214040Z">
@@ -40741,6 +40837,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094607Z" creationid="Melo46" creationdate="20200730T094607Z">
+        <seg>Vider &lt;m1&gt;&lt;g2&gt;Optiones&lt;/g2&gt;&lt;g3&gt;Preferentias...&lt;/g3&gt;&lt;g4&gt;Filtros de file&lt;/g4&gt;&lt;/m1&gt; pro un lista de formatos de file que OmegaT pote tractar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T001313Z" creationid="Karm46" creationdate="20171202T001218Z">
@@ -41650,6 +41754,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T082139Z">
         <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095443Z" creationid="Melo46" creationdate="20200730T095443Z">
+        <seg>Selige le previe, le sequente o le Nme concordantia partial monstrate in le quadro del concordantias partial pro replaciar o inserer lo in le segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46529,6 +46641,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094824Z" creationid="Melo46" creationdate="20200730T094824Z">
+        <seg>Le contentos exportate es copiate in le file &lt;f1&gt;selection.txt&lt;/f1&gt; ubicate in le User's preference files plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T071725Z" creationid="Melo46" creationdate="20200726T071725Z">
@@ -48073,6 +48193,14 @@ the User Product in which it has been modified or installed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093610Z" creationid="Melo46" creationdate="20200730T093610Z">
+        <seg>Le TMX resultante es immagazinate in le plica &lt;f3&gt;omegat&lt;/f3&gt; sub le nomine &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The resulting tmx is stored in the &lt;l1&gt;omegat &lt;/l1&gt;folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T172653Z">
@@ -48471,6 +48599,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T161041Z">
         <seg>Le texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094218Z" creationid="Melo46" creationdate="20200730T094218Z">
+        <seg>Le fontes del actual version pote esser recuperate ab le repositorio per un application SVN &lt;u0/&gt; o directemente sur &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50066,6 +50202,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095150Z" creationid="Melo46" creationdate="20200730T094939Z">
+        <seg>Isto pote applicar se alsi al campos &lt;g0&gt;Termino de destination&lt;/g0&gt; e &lt;g1&gt;Commento &lt;/g1&gt;si nove selectiones es facite e pulsate de novo &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T153315Z" creationid="Karm46" creationdate="20170909T235920Z">
@@ -50964,6 +51108,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094718Z" creationid="Melo46" creationdate="20200730T094718Z">
+        <seg>Iste menu monstra entratas solo quando un projecto es aperte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140124T233901Z">
@@ -51312,6 +51464,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T164728Z">
         <seg>Isto creara un distribution plen de &lt;a0&gt;OmegaT&lt;/a0&gt; in le plica ./dist/ , ubi tu trovara tote le files necessari pro exequer &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T094341Z" creationid="Melo46" creationdate="20200730T094341Z">
+        <seg>Isto creara un plen distribution de OmegaT in le plica &lt;f0&gt;./build/distributions&lt;/f0&gt;, ubi tu trovara un file .zip que contine toto lo necessari pro exequer &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54242,6 +54402,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095238Z" creationid="Melo46" creationdate="20200730T095238Z">
+        <seg>Usar Shift+F3 &lt;i0/&gt;pro cyclar inter le quatro alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Dave Turner's CodeZapper macro.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T112019Z">
@@ -54454,6 +54622,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T141616Z" creationid="Melo46" creationdate="20151116T030251Z">
         <seg>Usar iste commando pro registrar que le segmento rendite es identic al segmento fonte, mesmo si "Permitter traduction equal al fonte" (in Optiones/Comportamento de Modification...) non es marcate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T095549Z" creationid="Melo46" creationdate="20200730T095549Z">
+        <seg>Usa iste commando pro registrar le traduction identic al fonte, mesmo si &lt;l0&gt;&lt;g1&gt;Consentir traduction equal a fonte&lt;/g1&gt;&lt;/l0&gt; non es marcate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55714,8 +55890,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130819T214150Z">
-        <seg>Quando esseva usate modo, iste option specificara le files a esser processate automaticamente.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T093700Z">
+        <seg>Quando ha essite usate le modo, iste option specificara le files a esser processate automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
