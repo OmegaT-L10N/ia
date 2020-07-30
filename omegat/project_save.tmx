@@ -2316,6 +2316,14 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T215644Z" creationid="Melo46" creationdate="20200730T215644Z">
+        <seg>(commandos de recerca externe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(including a physical distribution medium), accompanied by a</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144621Z">
@@ -11894,6 +11902,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T215600Z" creationid="Melo46" creationdate="20200730T215600Z">
+        <seg>Al parte inferior del fenestra, clicca dextre sur un numero libere e elige &lt;g0&gt;Adder Script&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T075806Z">
@@ -14124,6 +14140,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T093637Z" creationid="Melo46" creationdate="20200726T093637Z">
         <seg>Marca iste option pro inviar solo segmentos non traducite al servicios de traduction automatic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220928Z" creationid="Melo46" creationdate="20200730T220928Z">
+        <seg>Marca iste option in caso OmegaT non monstra propriemente alcun glyphos (mesmo si le typos de characteres continente le glyphos pertinente es installate sur tu machina).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21676,6 +21700,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220851Z" creationid="Melo46" creationdate="20200730T220851Z">
+        <seg>Pro le detalios technic, vider le &lt;u0&gt;Requestas pro meliorationes&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T220739Z">
@@ -24046,6 +24078,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220750Z" creationid="Melo46" creationdate="20200730T220750Z">
+        <seg>Si marcate, le fundo de omne segmentos de destination que ha essite auto-populate (per exemplo per TMXs ubicate in le plica /tm/auto) es monstrate in color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T093424Z" creationid="MELO46" creationdate="20131224T093424Z">
@@ -24058,6 +24098,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T093725Z" creationid="MELO46" creationdate="20131224T092847Z">
         <seg>Si marcate, le entratas plus longe son ubicate sur le prime lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220328Z" creationid="Melo46" creationdate="20200730T220328Z">
+        <seg>Si marcate, le separationes inter paragraphos in le documento fonte es indicate visualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26977,6 +27025,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222057Z" creationid="Melo46" creationdate="20200730T222057Z">
+        <seg>In le quadro del Modification, quando un concordantia es inserite per un TMX continite in un plica nominate &lt;e0&gt;mt&lt;/e0&gt;, le fundo del segmento active es cambiate in rubre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T184115Z">
@@ -28463,6 +28519,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094701Z">
         <seg>Il es possibile modificar le proprietates del projecto durante un session de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221853Z" creationid="Melo46" creationdate="20200730T221853Z">
+        <seg>Il es possibile modificar le verso de ordinamento del tres percentages ma non qual es usate pro eliger le concordantias partial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31179,16 +31243,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140615T080158Z" creationid="MELO46" creationdate="20140615T080158Z">
-        <seg>Marca le Segmentos Auto-Populate</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220737Z" creationid="MELO46" creationdate="20140615T080158Z">
+        <seg>Marcar le segmentos auto-populate</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T085954Z">
-        <seg>Marca algorithmo &amp;Bidirectional de controlo characteres</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220659Z">
+        <seg>Marcar algorithmo bidirectional de controlo characteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -31227,8 +31291,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140227T181133Z">
-        <seg>Marca le Spatios Non-frangibile</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220553Z">
+        <seg>Marcar le spatios non-frangibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T215714Z" creationid="Melo46" creationdate="20200730T215714Z">
+        <seg>Marcar le delimitationes de paragrapho</seg>
       </tuv>
     </tu>
     <tu>
@@ -31267,8 +31339,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mark Whitespace</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T085953Z">
-        <seg>Marca (&amp;k) un Spatio blanc</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220637Z">
+        <seg>Marcar (&amp;k) le spatios blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -34038,6 +34110,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221423Z" creationid="Melo46" creationdate="20200730T221423Z">
+        <seg>Obviemente, pressar &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; habera nulle effecto, si il ha nulle concorda #5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T093220Z" creationid="Melo46" creationdate="20160805T093220Z">
@@ -36381,6 +36461,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141026T104617Z">
         <seg>Segmentos orphane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T222027Z" creationid="Melo46" creationdate="20200730T222027Z">
+        <seg>Segmentos orphane&lt;i2/&gt; (le concordantia #2) describe segmentos in le memoria de traduction base del projecto, que non ha alicun segmento fonte correspondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41253,6 +41341,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221724Z" creationid="Melo46" creationdate="20200730T221715Z">
+        <seg>Vide &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093046Z" creationid="Melo" creationdate="20160225T132913Z">
@@ -41982,6 +42078,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T215530Z" creationid="Melo46" creationdate="20200730T215530Z">
+        <seg>Eliger le scriptura que tu desira ex le lista al sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T194521Z" creationid="Melo46" creationdate="20200730T194521Z">
@@ -42384,8 +42488,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200730T130621Z" creationid="Melo46" creationdate="20200730T130621Z">
-        <seg>Prefixar illo a&lt;e1&gt; Omne le segmentos &lt;/e1&gt;monstrara iste information in tote le segmentos, e &lt;e2&gt;Necun&lt;/e2&gt; disactiva iste option.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221039Z" creationid="Melo46" creationdate="20200730T130621Z">
+        <seg>Prefixar illo a&lt;e1&gt; Omne le segmentos &lt;/e1&gt;monstrara iste informationes in tote le segmentos e &lt;e2&gt;Necun&lt;/e2&gt; disactiva iste option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42394,6 +42498,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T032104Z" creationid="Melo46" creationdate="20151116T032104Z">
         <seg>Prefixar le option Modification del Apparentia a &lt;e0&gt;Segmento currente&lt;/e0&gt; monstrara le tempore e le autor del ultime cambio in le segmento currente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221014Z" creationid="Melo46" creationdate="20200730T221014Z">
+        <seg>Prefixar le option Modification del apparentia a &lt;e0&gt;Segmento currente&lt;/e0&gt; monstrara le tempore e le autor del ultime cambio in le segmento currente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42538,6 +42650,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T082809Z">
         <seg>Si OmegaT deberea apparer comportar se erraticamente, il es importante includer iste file o su parte pertinente in omne reporto de defecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221128Z" creationid="Melo46" creationdate="20200730T221128Z">
+        <seg>Si tu deberea perder tracia de tu cambios al interfacie del usator, tu pote usar &lt;g0&gt;Optiones → Restaura le fenestra principal&lt;/g0&gt; in omne tempore pro retornar al arrangiamento original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46573,6 +46693,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220821Z" creationid="Melo46" creationdate="20200730T220821Z">
+        <seg>Le colores es monstrate fin que le option &lt;l1&gt;&lt;g2&gt;Salvar stato auto-populated&lt;/g2&gt;&lt;/l1&gt; es marcate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command is case-sensitive.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T195543Z">
@@ -47769,6 +47897,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T164632Z">
         <seg>Le linea con le percentage del concordantia include alsi le nomine del of memoria de traduction &lt;i1/&gt; continente le concordantia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221923Z" creationid="Melo46" creationdate="20200730T221923Z">
+        <seg>Le linea con le percentage del concordantia include alsi le nomine del memoria de traduction continente le concordantia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49343,6 +49479,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221633Z" creationid="Melo46" creationdate="20200730T221633Z">
+        <seg>Le tres percentages concordante es in le sequente ordine:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T210215Z" creationid="Melo46" creationdate="20151116T210215Z">
@@ -49499,6 +49643,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T083413Z">
         <seg>Le parte superior es in le lingua original, in characteres nigrate con un color de fundo verde, le parte inferior es le campo de modifica, terminate per un marcator: &lt;i0/&gt;le marcator es &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; ubi nnnn es le un numero del segmento in le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221310Z" creationid="Melo46" creationdate="20200730T221310Z">
+        <seg>Le parte superior es in le lingua fonte, in characteres nigrate con un color de fundo verde, le parte inferior es le campo de modifica, terminate per un marcator: le marcator es &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; ubi nnnn es un numero de segmento in le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51516,6 +51668,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T220520Z" creationid="Melo46" creationdate="20200730T220520Z">
+        <seg>Iste remarca ha prioritate sur &lt;g0&gt;Marcar segmentos rendite&lt;/g0&gt; e sur &lt;g1&gt;Marcar segmentos non rendite&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking has priority over Mark Translated Segments and Mark Untranslated Segments.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T022611Z">
@@ -53156,6 +53316,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130526T074741Z">
         <seg>Pro usar le dictionarios orthographic in iste formato, renomina le extension del file ab .oxt a .zip e, usante un application pro archivos zip (assi como WinZip), extrahe le files .dic e .aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221614Z" creationid="Melo46" creationdate="20200730T221614Z">
+        <seg>Pro usar le concordantia seligite in tu traduction, usa &lt;g4&gt;Ctrl+R&lt;/g4&gt;pro reimplaciar le campo final con le concordantia o usa &lt;g5&gt;Ctrl+I &lt;/g5&gt; pro inserer lo al position del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58791,6 +58959,14 @@ provided under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221402Z" creationid="Melo46" creationdate="20200730T221402Z">
+        <seg>Tu pote eliger un differente concordantia pulsante &lt;g0&gt;Ctrl+2, 3, 4, o 5&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T081212Z">
@@ -59657,6 +59833,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T204355Z">
         <seg>e confirma con ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221734Z" creationid="Melo46" creationdate="20200730T221734Z">
+        <seg>e ignorante tags e numeros (generalmente le major)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62137,6 +62321,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130807T231401Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221658Z" creationid="Melo46" creationdate="20200730T221658Z">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
     </tu>
     <tu>
@@ -66115,6 +66307,30 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T065514Z">
         <seg>le file del projecto omegat - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221645Z" creationid="Melo46" creationdate="20200730T221645Z">
+        <seg>le percentage calculate con recerca del radices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221818Z" creationid="Melo46" creationdate="20200730T221818Z">
+        <seg>le percentage calculate con le texto complete, anque le tags e numeros (generalmente le plus basse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T221744Z" creationid="Melo46" creationdate="20200730T221744Z">
+        <seg>le percentage calculate sin recerca del radices e ancora ignorante tags e numeros (generalmente un pauc inferior)</seg>
       </tuv>
     </tu>
     <tu>
