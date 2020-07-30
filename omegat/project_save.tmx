@@ -30031,6 +30031,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T225200Z" creationid="Melo46" creationdate="20200730T225200Z">
+        <seg>Lancea scripts que ha essite associate con un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
@@ -64333,6 +64341,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132335Z">
         <seg>mya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T225137Z" creationid="Melo46" creationdate="20200730T225137Z">
+        <seg>n - (nomine del script)</seg>
       </tuv>
     </tu>
     <tu>
