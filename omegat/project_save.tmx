@@ -5550,10 +5550,34 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T192806Z" creationid="Melo46" creationdate="20200730T192806Z">
+        <seg>&lt;g0&gt;Problemas de LanguageTool&lt;/g0&gt; (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T045029Z" creationid="Melo46" creationdate="20200728T045029Z">
         <seg>&lt;g0&gt;Projecto&lt;/g0&gt; &lt;g1&gt;Nove...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T191243Z" creationid="Melo46" creationdate="20200730T191243Z">
+        <seg>&lt;g0&gt;Problemas de orthographia&lt;/g0&gt; (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T191341Z" creationid="Melo46" creationdate="20200730T191341Z">
+        <seg>&lt;g0&gt;Problemas de terminologia&lt;/g0&gt; (optional).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35669,6 +35693,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T141901Z">
         <seg>Sol le file test.html in le plica dir-10 essera processate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T191318Z" creationid="Melo46" creationdate="20200730T191318Z">
+        <seg>Functiona solo si un dictionario orthographic es installate.</seg>
       </tuv>
     </tu>
     <tu>
