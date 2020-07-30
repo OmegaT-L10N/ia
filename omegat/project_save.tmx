@@ -3992,8 +3992,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130705T021257Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; recorda le segmentos executate.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122308Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; recorda le segmentos exequite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12240,8 +12240,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20131227T115212Z">
-        <seg>Retro in chronologia...</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122413Z">
+        <seg>Retroceder in chronologia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24396,8 +24396,8 @@ to choose that version for the Program.</seg>
       <tuv lang="en">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T144411Z">
-        <seg>Si le segmento currente es le ultime segmento in un file, illo move al prime segmento del file previe.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T115635Z">
+        <seg>Si le segmento currente es le prime segmento del file, move al ultime segmento del file previe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33320,6 +33320,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T115836Z" creationid="Melo46" creationdate="20200730T115836Z">
+        <seg>Nota: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; es un via-breve alternative si non es seligite le option &lt;l3&gt;Usar TAB pro facer avantiar&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T095656Z" creationid="Melo46" creationdate="20200730T095656Z">
@@ -41127,8 +41135,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130210T100601Z">
-        <seg>A le segmento numero ...</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T115844Z">
+        <seg>Al segmento numero ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -56628,6 +56636,22 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131227T115226Z">
         <seg>Con iste commando tu pote regreder un segmento a un vece, pro retornar al segmento currente per le commando sequente &lt;g0&gt;Avantia in chronologia...&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122604Z" creationid="Melo46" creationdate="20200730T122604Z">
+        <seg>Con iste commando tu pote regreder un segmento a un vice, pro retornar al segmento currente per le commando sequente: &lt;g0&gt;Avantiar in chronologia...&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200730T122351Z" creationid="Melo46" creationdate="20200730T122210Z">
+        <seg>Con iste commando tu pote facer un passo avante al segmento que tu ha previemente lassate per le commando &lt;g1&gt;Retroceder in chronologia&lt;/g1&gt;...</seg>
       </tuv>
     </tu>
     <tu>
