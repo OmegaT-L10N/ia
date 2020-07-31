@@ -4846,6 +4846,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075637Z" creationid="Melo46" creationdate="20200731T075637Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): es un linguage dynamic pro le machina virtual Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T192950Z">
@@ -4946,6 +4954,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T111231Z">
         <seg>&lt;e0&gt;Installar e exequer OmegaT: &lt;/e0&gt;iste capitulo es utile pro initiar a usar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075731Z" creationid="Melo46" creationdate="20200731T075731Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (alicun vices abbreviate JS, non confunder con Java): es un lingua de scripting, basate sur prototypo,  que es dynamic, debilemente typate e ha le functiones de prima classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8574,6 +8590,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T074859Z" creationid="Melo46" creationdate="20200731T074859Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; il es possibile inhibir le fenestra monstrate al apertura, definiente le parametro &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; a &lt;e2&gt;false&lt;/e2&gt; in le file &lt;f3&gt;omegat.prefs&lt;/f3&gt; (accessibile per menu &lt;m4&gt; &lt;g5&gt;Optiones&lt;/g5&gt; &lt;g6&gt;Acceder al plica del configuration&lt;/g6&gt; &lt;/m4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160223T195000Z" creationid="Melo" creationdate="20160223T195000Z">
@@ -10214,6 +10238,22 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T084906Z">
         <seg>Postquam tu ha seligite e installate un lector del tela convenibile  (e/o le add-on requirite), aperi tu file rendite in le plica /target de tu projecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073935Z" creationid="Melo46" creationdate="20200731T073935Z">
+        <seg>Post plure de iste operationes, elige &lt;m0&gt; &lt;g1&gt;Rediger&lt;/g1&gt; &lt;g2&gt;Re-alineamento pendente&lt;/g2&gt; &lt;/m0&gt; pro actualisar le alineamento del altere segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073439Z" creationid="Melo46" creationdate="20200731T073439Z">
+        <seg>Post le procedura automatic, le alineamento del duo files generalmente require correctiones manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12626,6 +12666,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080131Z" creationid="Melo46" creationdate="20200731T080131Z">
+        <seg>Pois que illo es le lingua de un software ultra popular como Firefox, illo es un instrumento de programmation familiar e ideal in le dominio del open-source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132327Z">
@@ -13212,6 +13260,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20171201T232421Z" creationid="Melo" creationdate="20150422T080857Z">
         <seg>Normalmente, le scripts es continite in le plica "scripts" locate in le plica de installation de OmegaT (le plica que contine OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075436Z" creationid="Melo46" creationdate="20200731T075436Z">
+        <seg>De ordinario, scripts es immagazinate in le plicas &lt;f0&gt;scripts&lt;/f0&gt; ubicate in le plica de installation de OmegaT (le plica que contine le file &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21488,6 +21544,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080322Z" creationid="Melo46" creationdate="20200731T080322Z">
+        <seg>Per exemplo, le sequente snippet de codice Groovy scande a transverso tote le segmentos in tote le files in le actual projecto e, si un traduction existe, imprime le fonte e le destino del segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T231633Z" creationid="MELO46" creationdate="20131226T231633Z">
@@ -21912,8 +21976,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130626T141553Z">
-        <seg>Pro ce fin, discarga le sequente file e pois exeque lo:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080636Z">
+        <seg>Pro iste fin, discarga le sequente file e pois exeque lo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25176,6 +25240,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075510Z" creationid="Melo46" creationdate="20200731T075510Z">
+        <seg>Si tu adde nove scripts illac, illos apparera in le lista de scripts disponibile in le fenestra &lt;g0&gt;Scripts&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you add terms to a covered work in accord with this section, you
 must place, in the relevant source files, a statement of the
 additional terms that apply to those files, or a notice indicating
@@ -25653,6 +25725,16 @@ is to use Java Web Start.</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T173655Z" creationid="Karm46" creationdate="20170913T173655Z">
         <seg>Si tu ha jam Java installate sur tu Systema, un maniera pro installar OmegaT 
 es usar Java Web Start..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080625Z" creationid="Melo46" creationdate="20200731T080625Z">
+        <seg>Si tu ha jam Java installate sur tu Systema, un maniera pro installar OmegaT 
+es usar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26327,10 +26409,26 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T072916Z" creationid="Melo46" creationdate="20200731T072916Z">
+        <seg>In modo &lt;g0&gt;Heapwise&lt;/g0&gt;, le textos es valutate globalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T165709Z">
         <seg>In &lt;g0&gt;Optiones &gt;TMXs  Externe&lt;/g0&gt;, plure variabiles permitte de configurar le apparentia del quadro del concordantias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T072947Z" creationid="Melo46" creationdate="20200731T072947Z">
+        <seg>In modo &lt;g1&gt;Parsewise&lt;/g1&gt;, illos es valutate segmento per segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26701,6 +26799,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T221901Z" creationid="MELO46" creationdate="20140106T221901Z">
         <seg>In multe casos, tamen, il es necessari incastrar texto LTR in texto RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T072821Z" creationid="Melo46" creationdate="20200731T072821Z">
+        <seg>In le major parte del casos, minor le es &lt;g0&gt;valutation medie&lt;/g0&gt;, melior essera le alineamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,6 +28038,16 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T173257Z" creationid="Karm46" creationdate="20170913T173257Z">
         <seg>Installar OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080612Z" creationid="Melo46" creationdate="20200731T080612Z">
+        <seg>Installation de OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
     </tu>
@@ -30533,6 +30649,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T101331Z" creationid="Karm46" creationdate="20170914T101331Z">
         <seg>Cargar un projecto pro configurar regulas pro ille linguas de projecto..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075033Z" creationid="Melo46" creationdate="20200731T075033Z">
+        <seg>Cargar un script in le redactor cliccante su nomine in le lista in le quadro sinistre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35917,6 +36041,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T074422Z" creationid="Melo46" creationdate="20200731T072551Z">
+        <seg>Solo lineas con le cassa &lt;g0&gt;Mantener&lt;/g0&gt; marcate in le prime columna essera includite quando le memoria de traduction es create.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T093936Z" creationid="Melo46" creationdate="20200730T093936Z">
@@ -37974,6 +38106,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T095227Z" creationid="Karm46" creationdate="20171001T095227Z">
         <seg>Pulsa le via breve de claviero que tu desidera attribuer, postea clicca OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073813Z" creationid="Melo46" creationdate="20200731T073813Z">
+        <seg>Pulsa le barra spatio (via-breve pro &lt;m0&gt; &lt;g1&gt;Rediger&lt;/g1&gt; &lt;g2&gt;Initiar le alineamento precise&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40293,6 +40433,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075125Z" creationid="Melo46" creationdate="20200731T075125Z">
+        <seg>Clicca dextre un button de &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; a &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in le quadro inferior e elige &lt;g2&gt;Adder Script&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140201T121236Z">
@@ -42212,8 +42360,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Select the first segment.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200730T223120Z" creationid="Melo46" creationdate="20200730T223120Z">
-        <seg>Eliger le prime segmento.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073543Z" creationid="Melo46" creationdate="20200730T223120Z">
+        <seg>Elige le prime segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44120,8 +44268,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200730T130919Z" creationid="Melo46" creationdate="20200730T130919Z">
-        <seg>Passo 1: Adjustar le parametros de alineamento</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T072830Z" creationid="Melo46" creationdate="20200730T130919Z">
+        <seg>Grado 1: Adjustar le parametros de alineamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -45927,6 +46075,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T062103Z" creationid="Melo" creationdate="20151116T062103Z">
         <seg>Le option &lt;g0&gt;Monstrar le Description Contextual pro le Glossarios TBX&lt;/g0&gt; permitte de exhibir o occultar le informationes contextual con le terminos (que veni ex glossarios TBX locate in le plica &lt;f1&gt;glossary&lt;/f1&gt; ) in le quadro Glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073320Z" creationid="Melo46" creationdate="20200731T073320Z">
+        <seg>Le algorithmos &lt;g0&gt;Viterbi&lt;/g0&gt; e &lt;g1&gt;Forward-Backward&lt;/g1&gt; es duo differente methodos de calculation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52002,6 +52158,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073231Z" creationid="Melo46" creationdate="20200731T073231Z">
+        <seg>Iste option appare solo si ambe le files seligite es recognoscite como Clave=Valor files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T124452Z">
@@ -52370,6 +52534,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073055Z" creationid="Melo46" creationdate="20200731T073055Z">
+        <seg>Iste opera mesmo si le claves non es in le mesme ordine in le duo files, e/o si le duo files non contine le mesme amonta de information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T190336Z">
@@ -52580,6 +52752,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T214813Z">
         <seg>Pro adder le function de auto renovation a Chrome, &lt;a2&gt;discarga e installa le extension Auto Refresh Plus&lt;/a2&gt; ex le Web Store.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073559Z" creationid="Melo46" creationdate="20200731T073537Z">
+        <seg>Pro alinear duo segmentos sur le mesme linea:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53186,6 +53366,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T074055Z" creationid="Melo46" creationdate="20200731T074055Z">
+        <seg>Pro modificar le position de un o plus segmentos individualmente, elige le segmento(s) e pulsa &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Mover in alto&lt;/g1&gt;) o &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Mover in basso&lt;/g3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T075103Z">
@@ -53570,6 +53758,16 @@ install.sh.</seg>
 fenestra terminal (consola), cambia le plica in le plica
 continente le scriptes OmegaT.jar e linux-install.sh, e exeque le
 script ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080603Z" creationid="Melo46" creationdate="20200731T080603Z">
+        <seg>Pro usar iste script, aperi un fenestra terminal (consola), cambia plica in illo continente le script OmegaT.jar e linux-install.sh, e exeque le script con ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54220,6 +54418,14 @@ script ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082524Z">
         <seg>Variante de unitate de traduction incontrate foras del unitate de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073528Z" creationid="Melo46" creationdate="20200731T073528Z">
+        <seg>Le unitates de traduction es ubicate in cellas in le duo ultime columnas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55286,6 +55492,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T184445Z">
         <seg>Usa &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; pro aperir e  &lt;k2&gt;Esc&lt;/k2&gt; pro clauder lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T073030Z" creationid="Melo46" creationdate="20200731T073030Z">
+        <seg>Usa le modo &lt;g0&gt;ID comparation&lt;/g0&gt; pro alinear Clave=Valor textos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57092,6 +57306,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075205Z" creationid="Melo46" creationdate="20200731T075205Z">
+        <seg>Quando tu clicca le numero, le script seligite essera exequite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150422T031951Z">
@@ -58323,6 +58545,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T075324Z" creationid="Melo46" creationdate="20200731T075324Z">
+        <seg>Tu pote alsi lancear le macros seligite del menu principal per lor entratas in le menu &lt;g0&gt;Applicationes &lt;/g0&gt;o pulsante&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 a 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130703T082408Z">
@@ -58645,6 +58875,15 @@ your programs, too.</seg>
 the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T173055Z" creationid="Karm46" creationdate="20170913T173055Z">
+        <seg>Comocunque tu pote obtener un installation plus nette e plus facile per medio del script de installation (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080505Z" creationid="Melo46" creationdate="20200731T080505Z">
         <seg>Comocunque tu pote obtener un installation plus nette e plus facile per medio del script de installation (linux-install.sh).</seg>
       </tuv>
     </tu>
@@ -62675,6 +62914,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T084659Z" creationid="Melo46" creationdate="20200730T084659Z">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T080639Z" creationid="Melo46" creationdate="20200731T080639Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
