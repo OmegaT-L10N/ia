@@ -146,6 +146,14 @@ country that you have reason to believe are valid.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T121506Z" creationid="Melo46" creationdate="20200731T121506Z">
+        <seg>"Nomine de classe es necesse.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T212806Z">
@@ -198,6 +206,22 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T121245Z" creationid="Melo46" creationdate="20200731T121245Z">
+        <seg>"Iste application require que Java %d o subsequente es installate sur tu computator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T121349Z" creationid="Melo46" creationdate="20200731T121349Z">
+        <seg>"Iste application require que un Java JDK %d o subsequente es installate sur tu computator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T162431Z">
@@ -218,6 +242,14 @@ License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T224841Z" creationid="Melo46" creationdate="20200730T224841Z">
         <seg>"Impossibile cargar le ambiente Java runtime.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T121226Z" creationid="Melo46" creationdate="20200731T121226Z">
+        <seg>"Impossibile cargar un ambiente Java runtime %d.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -2516,6 +2548,34 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T121031Z" creationid="Melo46" creationdate="20200731T121031Z">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T094326Z" creationid="Melo46" creationdate="20171129T092159Z">
@@ -2752,6 +2812,26 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T210437Z" creationid="Karm46" creationdate="20171128T210201Z">
         <seg>- Pro usar le API de Microsoft Translator, il es necesse de registrar tu application in Microsoft Azure Marketplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120937Z" creationid="Melo46" creationdate="20200731T120937Z">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21190,6 +21270,16 @@ script Kaptain (omegat.kaptn) providite.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120751Z" creationid="Melo46" creationdate="20200731T120751Z">
+        <seg>Pro un modo plus facile de lancear OmegaT, tu pote usar le 
+script Kaptain (omegat.kaptn) providite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
@@ -23883,6 +23973,17 @@ SUCH DAMAGES.</seg>
     <tu>
       <tuv lang="en">
         <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120930Z" creationid="Melo46" creationdate="20200731T120930Z">
+        <seg>Si Java es installate a nivello de systema e es in le percurso del commando,  
+non necessita inserer le percurso integral.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
@@ -25497,6 +25598,17 @@ es monstrate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120629Z" creationid="Melo46" creationdate="20200731T120629Z">
+        <seg>Tu pote vider le file OmegaT, ma non OmegaT.exe in tu 
+gestor de files (Windows Explorer), cambia le configurationes assi que le extensiones del files 
+es monstrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
@@ -26239,6 +26351,15 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T175849Z">
         <seg>Si tu texto contine ambe le characteres asiatic e "normal" (e.g. Latin), usa Ctrl+A pro seliger le texto integre, pois selige un typo de character sol pro illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120317Z" creationid="Melo46" creationdate="20200731T120317Z">
+        <seg>Si, durante le installation, tu ha create un via breve sur le scriptorio, duple-clicca sur ille via breve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37642,6 +37763,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T121406Z" creationid="Melo46" creationdate="20200731T121406Z">
+        <seg>Discarga e installa le ultime Java JDK ex Oracle.com e reproba.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T121314Z" creationid="Melo46" creationdate="20200731T121314Z">
+        <seg>Discarga e installa le ultime version de Java ex www.java.com e reproba.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T205804Z" creationid="Melo46" creationdate="20160729T001740Z">
@@ -48079,6 +48216,16 @@ scriptorio e in le area de lanceamento celere.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120451Z" creationid="Melo46" creationdate="20200731T120451Z">
+        <seg>Le installator pote crear vias breve pro te in le menu de initio, sur le scriptorio e
+in le area de lanceamento celere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T103137Z" creationid="Melo46" creationdate="20200728T103137Z">
@@ -53748,6 +53895,15 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120805Z" creationid="Melo46" creationdate="20200731T120805Z">
+        <seg>Pro usar iste script tu debe primo installar
+Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -58304,6 +58460,15 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120819Z" creationid="Melo46" creationdate="20200731T120819Z">
+        <seg>Deinde tu pote lancear le script de lanceamento de Kaptain per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T080910Z">
@@ -58526,12 +58691,32 @@ campo de recerca de Spotlight.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120742Z" creationid="Melo46" creationdate="20200731T120742Z">
+        <seg>Tu pote anque lancear lo in le 
+campo de recerca de Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag the file
 OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T174732Z" creationid="Karm46" creationdate="20170913T174732Z">
         <seg>Tu pote alsi manualmente traher le file
+OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro lo ligar ab ibi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120548Z" creationid="Melo46" creationdate="20200731T120548Z">
+        <seg>Tu pote alsi traher manualmente le file
 OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro lo ligar ab ibi.</seg>
       </tuv>
     </tu>
@@ -59360,6 +59545,15 @@ Finder window to be able to launch it from any location.</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T175405Z" creationid="Karm46" creationdate="20170913T175405Z">
         <seg>Tu pote traher le application OmegaT a tu bassino o al barra de applicationes del un
 Fenestra trovator pro poter lo lancear ab qualcunque position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20200731T120733Z" creationid="Melo46" creationdate="20200731T120733Z">
+        <seg>Tu pote traher le application OmegaT a tu bassino o al barra del instrumentos de un fenestra trovator, pro poter lancear lo de ulle loco.</seg>
       </tuv>
     </tu>
     <tu>
