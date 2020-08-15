@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -59018,8 +59018,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171126T165527Z" creationid="ia" creationdate="20170909T201222Z">
-        <seg>Tu pote ir al &lt;a0&gt;pagina initial&lt;/a0&gt; e sperabilemente trovar, per illo, le informationes que tu necessita.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20200815T090824Z" creationid="ia" creationdate="20170909T201222Z">
+        <seg>Tu pote ir al &lt;a0&gt;pagina initial&lt;/a0&gt; e sperabilemente trovar illac le informationes que te servi.</seg>
       </tuv>
     </tu>
     <tu>
