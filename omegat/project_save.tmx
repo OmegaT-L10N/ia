@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_0a093f4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3844,6 +3844,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074605Z" creationid="Melo46" creationdate="20210220T074605Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T101845Z" creationid="Melo46" creationdate="20200728T101845Z">
@@ -5646,6 +5654,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074554Z" creationid="Melo46" creationdate="20210220T074554Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094944Z">
@@ -5818,6 +5834,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140122T231717Z">
         <seg>&lt;i2/&gt;Le optiones per le initio del programma in iste caso essera legite ab le file  &lt;e3&gt;&lt;a4&gt;OmegaT &lt;/a4&gt;.l4J.ini &lt;/e3&gt;, le qual reside in le mesme plica que le file .exe e que tu pote editar per respicer tu preparation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074600Z" creationid="Melo46" creationdate="20210220T074600Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,10 +6630,56 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075017Z" creationid="Melo46" creationdate="20210220T075017Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075149Z" creationid="Melo46" creationdate="20210220T075149Z">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075156Z" creationid="Melo46" creationdate="20210220T075156Z">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T101952Z" creationid="Melo46" creationdate="20200728T101952Z">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075107Z" creationid="Melo46" creationdate="20210220T075107Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074535Z" creationid="Melo46" creationdate="20210220T074535Z">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8764,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075141Z" creationid="Melo46" creationdate="20210220T075141Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T094540Z" creationid="Melo46" creationdate="20200728T094540Z">
@@ -8706,6 +8784,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T101839Z" creationid="Melo46" creationdate="20200728T101839Z">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074526Z" creationid="Melo46" creationdate="20210220T074526Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10684,6 +10770,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T104721Z" creationid="Melo46" creationdate="20200728T104721Z">
         <seg>Tote le cambiamentos sera synchronisate le proxime vice que un connexion es disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074806Z" creationid="Melo46" creationdate="20210220T074806Z">
+        <seg>Tote le contentos de &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; es mappate al plica source local del projecto OmegaT, excepte tote le files *.bak, salvo readme.bak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17247,6 +17341,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T081659Z">
         <seg>Le arrangiamento base initial is &lt;l0&gt;${filename}&lt;/l0&gt;– le nomine de file complete del file fonte con extension: in iste caso le nomine del file traducite es le identic nomine del file fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074345Z" creationid="Melo46" creationdate="20210220T074345Z">
+        <seg>Mappa del projecto predefinite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27570,6 +27672,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T073826Z" creationid="Melo46" creationdate="20210220T073826Z">
+        <seg>In iste caso, le procedura es identic, ma le gestor de projecto non adde (tote le) files a projecto in controlo de version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T100232Z" creationid="Melo46" creationdate="20200728T100232Z">
@@ -28252,6 +28362,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T222722Z">
         <seg>In vice, lancea un editor de texto (assi como Notepad o Wordpad), postea aperi le file script de lanceamento con File &gt; Aperi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T073905Z" creationid="Melo46" creationdate="20210220T073905Z">
+        <seg>In vice, le traductores copia le files illes mesme, o adde mappas a synchronisa files ab altere positiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30846,6 +30964,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075136Z" creationid="Melo46" creationdate="20210220T075136Z">
+        <seg>Mappas de file local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T100804Z" creationid="Karm46" creationdate="20170914T100804Z">
@@ -31478,6 +31604,30 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074518Z" creationid="Melo46" creationdate="20210220T074518Z">
+        <seg>Mappas pro altere fontes ab repositorio remote, con filtros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075012Z" creationid="Melo46" creationdate="20210220T074946Z">
+        <seg>Mappas pro files fonte extra ab le web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074440Z" creationid="Melo46" creationdate="20210220T074440Z">
+        <seg>Mappas pro projectos in un sub-plica del repositorio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233854Z" creationid="Melo46" creationdate="20160728T233854Z">
@@ -31490,6 +31640,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T100242Z" creationid="Melo46" creationdate="20200728T100242Z">
         <seg>Mappa del parametros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075056Z" creationid="Melo46" creationdate="20210220T075056Z">
+        <seg>Mappas con renomination:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35452,6 +35610,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T130856Z" creationid="Melo46" creationdate="20200730T130856Z">
         <seg>Equipa OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T073612Z" creationid="Melo46" creationdate="20210220T072649Z">
+        <seg>Le projectos de equipa de OmegaT pote alsi esser configurate in un maniera differente, ubi plure traductores comparti le project_save.tmx file ma non (tote) le files (fonte).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39757,6 +39923,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T100404Z" creationid="Melo46" creationdate="20200728T100404Z">
         <seg>Position remote del files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074232Z" creationid="Melo46" creationdate="20210220T074232Z">
+        <seg>Position o directorio remote del files fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44083,6 +44257,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T072536Z" creationid="Melo46" creationdate="20210220T072536Z">
+        <seg>Caso special: compartimento selective</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T084901Z">
@@ -48394,6 +48576,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075342Z" creationid="Melo46" creationdate="20210220T075221Z">
+        <seg>Le file local &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; es mappate al file local &lt;f1&gt;source/file.txt&lt;/f1&gt; e &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; es mappate al file local &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T223011Z">
@@ -48518,6 +48708,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T130850Z">
         <seg>Le principal fenestra  consiste in plure quadros, le  menu principal e  un  barra de stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074131Z" creationid="Melo46" creationdate="20210220T074131Z">
+        <seg>Le mappas pote esser addite via le interfacie de usator: &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Proprietates&lt;/g2&gt; &lt;g3&gt;Mappa de repositorio&lt;/g3&gt; &lt;/m0&gt; o per redaction de &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51323,6 +51521,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T100328Z" creationid="Melo46" creationdate="20200728T100328Z">
         <seg>Isto pote esser: http (que include https), svn o git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T074147Z" creationid="Melo46" creationdate="20210220T074147Z">
+        <seg>Isto pote esser o http (que include https), svn, git o file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56872,6 +57078,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T074924Z">
         <seg>Advertimento: Le cambio del ordine del tags pote corrumper le documento rendite!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075443Z" creationid="Melo46" creationdate="20210220T075443Z">
+        <seg>ATTENTION: si un file non existe, le projecto non cargara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63044,6 +63258,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130807T231401Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T072429Z" creationid="Melo46" creationdate="20210220T072429Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
