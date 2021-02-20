@@ -13838,6 +13838,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084512Z" creationid="Melo46" creationdate="20210220T084512Z">
+        <seg>Cambia a "traduction-besoniante-revision" in vice del "traducite"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082256Z">
@@ -14314,6 +14322,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T074748Z">
         <seg>Controlar le modellos MessageFormat &amp;java simple (e.g. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084907Z" creationid="Melo46" creationdate="20210220T084907Z">
+        <seg>Controlar le modellos simple de MessageFormat &amp;java (e.g. {0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16211,6 +16227,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151014T064016Z" creationid="Melo46" creationdate="20151014T064016Z">
         <seg>Impossibile crear le plica specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085159Z" creationid="Melo46" creationdate="20210220T085159Z">
+        <seg>Impossibile deler {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19059,6 +19083,14 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144800Z">
         <seg>END OF TERMS AND CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082730Z" creationid="Melo46" creationdate="20210220T082730Z">
+        <seg>Plugin EPWING</seg>
       </tuv>
     </tu>
     <tu>
@@ -22494,6 +22526,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084736Z" creationid="Melo46" creationdate="20210220T084736Z">
+        <seg>Le controlo total pote ducer a false positives in le textos normal e le filtro PO jam los detege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T074652Z">
@@ -22846,6 +22886,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084039Z" creationid="Melo46" creationdate="20210220T084039Z">
+        <seg>&amp;layout de glossario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140112T221158Z">
@@ -22934,6 +22982,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085600Z" creationid="Melo46" creationdate="20210220T085421Z">
+        <seg>Nota de glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T210627Z">
@@ -22946,6 +23002,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160809T003622Z" creationid="Melo46" creationdate="20160809T003622Z">
         <seg>Quadro del Glossario: le files deponite con le extensiones note del glossario (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, et cetera.) essera copiate al plica del &lt;f2&gt;glossario&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085402Z" creationid="Melo46" creationdate="20210220T085402Z">
+        <seg>Fonte del glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085420Z" creationid="Melo46" creationdate="20210220T085420Z">
+        <seg>Traduction del glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -26626,8 +26698,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140615T075939Z" creationid="MELO46" creationdate="20140615T075939Z">
-        <seg>Ignora le attributos type e ctype quando construe vias breve de tag &lt;&amp;bpt&gt; and &lt;ept&gt;</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084351Z" creationid="MELO46" creationdate="20140615T075939Z">
+        <seg>Ignora le attributos type e ctype quando construe vias breve de tag &lt;&amp;bpt&gt; e &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29832,6 +29904,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085252Z" creationid="Melo46" creationdate="20210220T085252Z">
+        <seg>Mantener tags in texto traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T094313Z">
@@ -32254,6 +32334,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084130Z" creationid="Melo46" creationdate="20210220T084130Z">
+        <seg>Misce definitiones alternative pro le mesme termino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T102646Z">
@@ -33092,6 +33180,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T071729Z" creationid="MELO46" creationdate="20140615T071729Z">
         <seg>NB:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085154Z" creationid="Melo46" creationdate="20210220T085154Z">
+        <seg>NB: le filtro incorporate de ressources Java™ jam los detege.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38081,6 +38177,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085324Z" creationid="Melo46" creationdate="20210220T085324Z">
+        <seg>Insere le nomine del usator/contrasigno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072925Z">
@@ -38245,6 +38349,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T092922Z" creationid="Karm46" creationdate="20171001T092922Z">
         <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T083955Z" creationid="Melo46" creationdate="20210220T083955Z">
+        <seg>Le plugins es installate in le plica &lt;f0&gt;/plugins&lt;/f0&gt; sub le plica de installation de OmegaT o le plica del preferentias de usator specific del platteforma OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39279,6 +39391,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T203412Z">
         <seg>Provide filtros pro le tractamento de altere formatos de file, includente le TTX Trados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082857Z" creationid="Melo46" creationdate="20210220T082857Z">
+        <seg>Offere le functionalitate pro leger le formato de dictionario EPWING.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44433,6 +44553,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084343Z" creationid="Melo46" creationdate="20210220T084343Z">
+        <seg>Specifica comportamento de gestion attributo de stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T091055Z">
@@ -45899,6 +46027,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084217Z" creationid="Melo46" creationdate="20210220T084217Z">
+        <seg>Mappa del repositorio in modo equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084216Z">
@@ -46978,6 +47114,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T083203Z" creationid="Melo46" creationdate="20210220T083203Z">
+        <seg>Le filtro PO jam tracta %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082819Z">
@@ -47104,6 +47248,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T062013Z" creationid="Melo46" creationdate="20151119T062013Z">
         <seg>Le servicio TaaS al sito https://demo.taas-project.eu/info supple servicios de terminologia in  le linguas europee (plus russo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082710Z" creationid="Melo46" creationdate="20210220T082710Z">
+        <seg>Le API de TexTra es liberemente fornite per NICT, le agentia de governamento del Japon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57690,6 +57842,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T083144Z" creationid="Melo46" creationdate="20210220T083144Z">
+        <seg>Quando on traduce files associate al software, tu pote configurar le optiones del Utensile de validation del tags pro alsi controlar le (%...) variabiles o placeholders ({0}) de programmation, si le filtro de file non lo face jam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T123152Z" creationid="Melo46" creationdate="20200727T123152Z">
@@ -58634,6 +58794,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T085331Z" creationid="Melo46" creationdate="20210220T085331Z">
+        <seg>Incorrecte nomine del usator/contrasigno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X followed by Y</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T210207Z">
@@ -59057,8 +59225,8 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200727T123326Z" creationid="Melo46" creationdate="20200727T123326Z">
-        <seg>Tu pote alsi definir varie optiones correlate al validation del tags e definit tags personalisate.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T083543Z" creationid="Melo46" creationdate="20200727T123326Z">
+        <seg>Tu pote alsi definir varie optiones associate al validation del tags e definir tags personalisate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60954,6 +61122,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T133522Z">
         <seg>e &lt;c0&gt;&lt;clave&gt;&lt;/c0&gt; pote esser qualcunque clave disponibile sur tu claviero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T083505Z" creationid="Melo46" creationdate="20210220T083505Z">
+        <seg>e le filtro incorporate in le ressource Java™ jam tracta le tags {#}, assi tu besonia de isto solo pro altere typos de file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68620,6 +68796,22 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T172431Z" creationid="Karm46" creationdate="20170929T172431Z">
         <seg>{0} commuta le orientation inter LTR, RTL, e lingua-dependente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084517Z" creationid="Melo46" creationdate="20210220T084517Z">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T084539Z" creationid="Melo46" creationdate="20210220T084539Z">
+        <seg>{0} version {1}, actualisation {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
