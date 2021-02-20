@@ -5830,6 +5830,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082116Z" creationid="Melo46" creationdate="20210220T082116Z">
+        <seg>&lt;i1&gt;OmegaT pote esser installate sur tote le systemas operative capabile de facer fluer le version 1.8 de Java Runtime Environment (JRE).&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140122T231717Z">
@@ -10728,6 +10736,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080451Z" creationid="Melo46" creationdate="20210220T080451Z">
+        <seg>Tote le altere cambiamentos local al projecto es revertite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10.</seg>
       </tuv>
@@ -13962,6 +13978,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132338Z">
         <seg>Chechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080816Z" creationid="Melo46" creationdate="20210220T080816Z">
+        <seg>Controlar "&lt;l3/&gt;" infra pro altere informationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080826Z" creationid="Melo46" creationdate="20210220T080826Z">
+        <seg>Controlar "&lt;l3/&gt;" infra pro altere informationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20980,6 +21012,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080801Z" creationid="Melo46" creationdate="20210220T080801Z">
+        <seg>Le files debe esser delite per le gestor de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T104534Z" creationid="Melo46" creationdate="20200728T104534Z">
@@ -21854,6 +21894,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130807T161459Z">
         <seg>Per exemplo (si le preparation base es acceptate), le traduction ex le TM auxiliar es acceptate e prefixate con&lt;e3&gt; [fuzzy]&lt;/e3&gt;, de maniera que le traductor pote revider le traductiones in un grado sequente e controlar si le segmentos etiquettate in iste modo, esseva rendite correctemente (Vide le capitulo &lt;l4&gt;Comportamento del Modifica&lt;/l4&gt;)&lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081632Z" creationid="Melo46" creationdate="20210220T081632Z">
+        <seg>Per exemplo (predefinite), le traduction ex le TM auxiliar es acceptate e prefixate con&lt;e3&gt; [fuzzy]&lt;/e3&gt;, de maniera que le traductor pote revider le traductiones in un phase successive e controlar si le segmentos etiquettate in iste modo, esseva traducite correctemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25095,6 +25143,22 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080531Z" creationid="Melo46" creationdate="20210220T080531Z">
+        <seg>Si le file contine mappas, alora le cambiamentos local al mappas es perdite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080432Z" creationid="Melo46" creationdate="20210220T080432Z">
+        <seg>Si le file non contine mappas, le mappas local existente es re-applicate, e solo illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20171113T224911Z">
@@ -26123,8 +26187,8 @@ es usar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171202T000650Z" creationid="Karm46" creationdate="20171202T000650Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;Si tu besonia de reproducer texto formato (assi como altere cosas como designos) in tu traduction, il ha tres manieras pro probar:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080645Z" creationid="Karm46" creationdate="20171202T000650Z">
+        <seg>Si tu besonia de reproducer formato de texto (assi como altere cosas como designos) in tu traduction, il ha tres manieras pro probar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26632,6 +26696,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081736Z" creationid="Melo46" creationdate="20210220T081736Z">
+        <seg>In modo comparation &lt;g0&gt;Heapwise&lt;/g0&gt;, le textos es valutate globalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T072916Z" creationid="Melo46" creationdate="20200731T072916Z">
@@ -26644,6 +26716,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T165709Z">
         <seg>In &lt;g0&gt;Optiones &gt;TMXs  Externe&lt;/g0&gt;, plure variabiles permitte de configurar le apparentia del quadro del concordantias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081808Z" creationid="Melo46" creationdate="20210220T081808Z">
+        <seg>In modo comparation &lt;g1&gt;Parsewise&lt;/g1&gt;, illos es valutate segmento per segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28418,6 +28498,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T220854Z">
         <seg>Integra in OmegaT le function de traductor automatic de Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082539Z" creationid="Melo46" creationdate="20210220T082539Z">
+        <seg>Integra le motor de traduction automatic neural TexTra in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33765,6 +33853,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075815Z" creationid="Melo46" creationdate="20210220T075815Z">
+        <seg>Nota re omegat.project e mappas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note also that some fonts behave better for some language pairs than for others.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T122847Z">
@@ -34025,6 +34121,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T075651Z">
         <seg>Note que le clave es longe 38 characteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080038Z" creationid="Melo46" creationdate="20210220T080038Z">
+        <seg>Nota que le file omegat.project in le repositorio non es cambiate automaticamente e ancora non contine le mappas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34953,6 +35057,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T141014Z" creationid="Karm46" creationdate="20171115T141014Z">
         <seg>OmegaT actualmente require le version 1.6 de JRE o plus tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082228Z" creationid="Melo46" creationdate="20210220T082228Z">
+        <seg>OmegaT actualmente require le version 1.8 de JRE o plus recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36780,6 +36892,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T130255Z" creationid="Melo46" creationdate="20200730T130255Z">
         <seg>Aperi le &lt;l0&gt;fenestra Files del projecto&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081130Z" creationid="Melo46" creationdate="20210220T081130Z">
+        <seg>Aperi le fenestra &lt;l0&gt;Files del projecto&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39143,6 +39263,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T093843Z" creationid="Karm46" creationdate="20170929T214214Z">
         <seg>Suppletor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082317Z" creationid="Melo46" creationdate="20210220T082317Z">
+        <seg>Offere filtros pro gerer altere formatos de file, includite Trados TTX e Markdown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41848,6 +41976,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T152823Z" creationid="Melo46" creationdate="20151117T070622Z">
         <seg>Vider pro le detalios le &lt;l0&gt;Appendice del cercatores de radices&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081055Z" creationid="Melo46" creationdate="20210220T081055Z">
+        <seg>Vide &lt;l0&gt;Usar un projecto de equipa&lt;/l0&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45943,6 +46079,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T082353Z" creationid="Melo46" creationdate="20210220T082353Z">
+        <seg>Plugin TexTra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082924Z">
@@ -48976,6 +49120,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081844Z" creationid="Melo46" creationdate="20210220T081844Z">
+        <seg>Le option appare solo quando es possibile un selection simile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T074454Z" creationid="Melo46" creationdate="20200730T074454Z">
@@ -49842,6 +49994,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T161041Z">
         <seg>Le texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081012Z" creationid="Melo46" creationdate="20210220T081012Z">
+        <seg>Le fontes del actual version pote esser recuperate con un cliente Git ab le repositorio &lt;u0/&gt; o directemente sur &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51785,6 +51945,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T073742Z" creationid="Melo46" creationdate="20151117T073742Z">
         <seg>Iste commandos externe non pote includer "pipes", et cetera, pro le qual es recommendate appellar un script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075810Z" creationid="Melo46" creationdate="20210220T075810Z">
+        <seg>Iste function es destinate a colliger files fonte, ma tu non es limitate al files fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55836,8 +56004,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171202T133336Z" creationid="Karm46" creationdate="20171202T133336Z">
-        <seg>Usar le filtro standard de &lt;a0&gt;OmegaT’s&lt;/a0&gt; (pro PDF), traducer, crear un file de destination (illo essera un file de texto simple), adder manualmente le formato pertinente e altere elementos.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080655Z" creationid="Karm46" creationdate="20171202T133336Z">
+        <seg>Usar le filtro standard de &lt;a0&gt;OmegaT&lt;/a0&gt; (pro PDF), traducer, crear un file de destination (illo essera un file de texto simple), adder manualmente le formato pertinente e altere elementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56030,6 +56198,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T083508Z" creationid="Melo46" creationdate="20200730T083508Z">
         <seg>Usa le file &lt;f0&gt;OmegaT.jar&lt;/f0&gt; ubicate in &lt;f1&gt;OmegaT.app/Contentos/MacOS/Java/&lt;/f1&gt; pro lancear &lt;a2&gt;OmegaT&lt;/a2&gt; per linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T081955Z" creationid="Melo46" creationdate="20210220T081955Z">
+        <seg>Usa le modo comparation de &lt;g0&gt;ID&lt;/g0&gt; pro alinear Key=Value texts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57628,6 +57804,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075924Z" creationid="Melo46" creationdate="20210220T075924Z">
+        <seg>Quando tu crea un nove projecto e lo invia a un repositorio, le file &lt;f0&gt;omegat.project&lt;/f0&gt; non contine ulle mappa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T083857Z">
@@ -57640,6 +57824,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T074653Z">
         <seg>Quando tu crea le documentos final in un projecto &lt;a0&gt;OmegaT&lt;/a0&gt;, le memoria de traduction del projecto es emittite in le forma de tres files in le plica radice de tu projecto &lt;a1&gt;OmegaT&lt;/a1&gt; (vide le description precedente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080015Z" creationid="Melo46" creationdate="20210220T080015Z">
+        <seg>Quando tu discarga le projecto, le projecto es convertite a un projecto de equipa localmente e un mappa predefinite es addite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57688,6 +57880,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150422T031951Z">
         <seg>Quando tu indica a OmegaT le files que tu debe traducer, illo examina le files del formatos que pote recognoscer, con le regulas de filtration del files, recognosce le partes textual intra illos, divide le gruppos de texto secundo le regulas de segmentation e expone le segmentos uno a uno, de maniera que tu pote proceder al traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080304Z" creationid="Melo46" creationdate="20210220T080304Z">
+        <seg>Quando tu carga un projecto, tote le cambiamentos in le repositorio es copiate al projecto local, anque le file &lt;f0&gt;omegat.project&lt;/f0&gt; con le parametros del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58787,6 +58987,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150422T165233Z">
         <seg>Tu pote adder un nove termino al glossario, pulsante &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o copiar glossarios existente in le sub plica &lt;f1&gt;/glossario/&lt;/f1&gt; de tu projecto, e OmegaT querera automaticamente le parolas in illos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T075558Z" creationid="Melo46" creationdate="20210220T075558Z">
+        <seg>Tu pote adder quante mappas que tu desira, ma solo in le contexto de un projecto de equipa, i.e. un del mappas include omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63278,6 +63486,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080828Z" creationid="Melo46" creationdate="20210220T080828Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T171623Z" creationid="Karm46" creationdate="20171130T171623Z">
@@ -63346,6 +63562,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T074136Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210220T080836Z" creationid="Melo46" creationdate="20210220T080836Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
