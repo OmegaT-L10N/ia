@@ -17401,6 +17401,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T054230Z" creationid="Melo" creationdate="20210528T054230Z">
+        <seg>Glossario predefinite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T081659Z">
