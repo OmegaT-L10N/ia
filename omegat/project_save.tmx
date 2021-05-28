@@ -9292,8 +9292,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo" changedate="20210528T053410Z" creationid="Melo" creationdate="20210528T053410Z">
-        <seg>Un date projecto pote haber ulle numero de glossarios de referentia, ma un singule glossario, le projecto predefinite glossario, sera directemente scribibile del OmegaT interfacie de usator.</seg>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T053659Z" creationid="Melo" creationdate="20210528T053659Z">
+        <seg>Un date projecto pote haber ulle numero de glossarios de referentia, ma un singule glossario, lo predefinite del projecto, sera directemente scribibile per le interfacie de usator de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39867,6 +39867,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T001319Z" creationid="Melo46" creationdate="20160729T001319Z">
         <seg>Refrescamento del plica del script "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T053855Z" creationid="Melo" creationdate="20210528T053855Z">
+        <seg>Sin importantia del numero de glossarios in un projecto, ulle termino in un segmento que ha un concordantia in un glossario sera monstrate in le pannello del glossario.</seg>
       </tuv>
     </tu>
     <tu>
