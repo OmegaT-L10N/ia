@@ -25231,6 +25231,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T055411Z" creationid="Melo" creationdate="20210528T055411Z">
+        <seg>Si le file existe jam, nulle tentativa es facite pro verificar le formato o le collection de characteres del file: le nove entratas sempre essera in formato separate-de-tab, e le file sera salvate in codification UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file displayed in the browser is not being updated, check the following:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T174635Z">
