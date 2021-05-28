@@ -9290,6 +9290,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T053410Z" creationid="Melo" creationdate="20210528T053410Z">
+        <seg>Un date projecto pote haber ulle numero de glossarios de referentia, ma un singule glossario, le projecto predefinite glossario, sera directemente scribibile del OmegaT interfacie de usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T172003Z">
