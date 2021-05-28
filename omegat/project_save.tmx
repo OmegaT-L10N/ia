@@ -29592,6 +29592,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T054840Z" creationid="Melo" creationdate="20210528T054840Z">
+        <seg>Su nomine e ubicate pote esser modificate in le fenestra de dialogo Proprietates de projecto, ma su extension debe esser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; e su ubication debe esser continite in le plica del projecto &lt;f2&gt;/glossario&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T115656Z">
@@ -47924,6 +47932,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T160237Z">
         <seg>Le vias breve initial de OmegaT pro le Mac es alsi disponibile ex Sourceforge, illos usa omne "meta" in vice de "ctrl": &lt;u0&gt;Vias breve initial de OmegaT pro le Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T054601Z" creationid="Melo" creationdate="20210528T054601Z">
+        <seg>Le glossario scribibile predefinite, es ubicate in le plica de projecto &lt;f0&gt;/glossario&lt;/f0&gt; e es appellate &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
