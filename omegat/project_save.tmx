@@ -48232,6 +48232,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo" changedate="20210528T055034Z" creationid="Melo" creationdate="20210528T055034Z">
+        <seg>Illo sera create, si inexistente, quando on adde le prime entrata de glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file is commented to help you.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T193522Z">
