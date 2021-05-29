@@ -46247,6 +46247,22 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T122646Z" creationid="m" creationdate="20210529T121531Z">
+        <seg>Le terminos del glossario scribibile del projecto es monstrate in characteres hardite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T121539Z" creationid="m" creationdate="20210529T121539Z">
+        <seg>Terminos del referentia glossarios es monstrate in normal emoticone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T051556Z" creationid="Melo46" creationdate="20200726T051556Z">
