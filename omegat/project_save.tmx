@@ -48664,6 +48664,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary function uses stemming to find matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T120852Z" creationid="m" creationdate="20210529T120852Z">
+        <seg>Le function glossario usa le recerca del radices pro trovar le concordantias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T205622Z">
@@ -50218,6 +50226,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T202703Z">
         <seg>Le subplica /source contine le files a traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term can be a multi-word term.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T120718Z" creationid="m" creationdate="20210529T120718Z">
+        <seg>Le termino fonte pote esser un termino multi-parola.</seg>
       </tuv>
     </tu>
     <tu>
