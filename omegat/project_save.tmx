@@ -15254,6 +15254,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T121410Z" creationid="m" creationdate="20210529T121410Z">
+        <seg>Le commentos es monstrate post un numero e cata uno sur un linea separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T122850Z">
@@ -50250,6 +50258,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T210815Z">
         <seg>Le termino fonte non debe esser necessarimente de un sol parola, como monstra le exemplo sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T121231Z" creationid="m" creationdate="20210529T121231Z">
+        <seg>Le termino fonte es monstrate ante le signo " = " e le terminos destino postea.</seg>
       </tuv>
     </tu>
     <tu>
