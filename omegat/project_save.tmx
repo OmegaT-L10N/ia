@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_d87c4879" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33480,6 +33480,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Newly added terms will be immediately recognized.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T120231Z" creationid="m" creationdate="20210529T120231Z">
+        <seg>Le nove terminos addite sera immediatemente recognoscite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T210743Z">
@@ -53473,6 +53481,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T103755Z" creationid="Melo46" creationdate="20200728T103755Z">
         <seg>Pro adder un nove file fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="m" changedate="20210529T120151Z" creationid="m" creationdate="20210529T120151Z">
+        <seg>Pro adder un nove termino al glossario scribibile usa &lt;g0&gt;Rediger&lt;/g0&gt; &gt; &lt;g1&gt;Crear un entrata del glossario&lt;/g1&gt; (&lt;k2&gt;Ctrl+Displaciamento+G&lt;/k2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
