@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<appendix id="appendix.glossaries">
+  <title>Glossarios</title>
+
+  <para>Le glossarios es files de terminologia. Illos pote esser create e actualisate manualmente o importate de altere projectos.</para>
+
+  <para>Un date projecto pote haber ulle numero de glossarios de referentia, ma un singule glossario, lo predefinite del projecto, sera directemente scribibile per le interfacie de usator de OmegaT.</para>
+
+  <para>Sin importantia del numero de glossarios in un projecto, ulle termino in un segmento que ha un concordantia in un glossario sera monstrate in le pannello del glossario.</para>
+
+  <section>
+    <title>Glossario predefinite</title>
+
+    <para>Le glossario scribibile predefinite, es ubicate in le plica de projecto <filename>/glossario</filename> e es appellate <filename>glossary.txt</filename>.</para>
+
+    <para>Su nomine e ubicate pote esser modificate in le fenestra de dialogo Proprietates de projecto, ma su extension debe esser <filename>.txt</filename> o <filename>.utf8</filename> e su ubication debe esser continite in le plica del projecto <filename>/glossario</filename>.</para>
+
+    <para>Illo sera create, si inexistente, quando on adde le prime entrata de glossario. Si le file existe jam, nulle tentativa es facite pro verificar le formato o le collection de characteres del file: le nove entratas sempre essera in formato separate-de-tab, e le file sera salvate in codification UTF-8.</para>
+  </section>
+
+  <section>
+    <title>Uso</title>
+
+    <para>Pro usar un glossario existente, placia lo simplemente in le plica <filename>/glossary</filename> post le creation del projecto. <application>OmegaT</application> releva automaticamente le files glossario in iste plica quando on aperi un projecto.</para>
+
+    <para>Pro adder un nove termino al glossario scribibile usa <guimenuitem>Rediger</guimenuitem> &gt; <guimenuitem>Crear un entrata del glossario</guimenuitem> (<keycap>Ctrl+Displaciamento+G</keycap>). Le nove terminos addite sera immediatemente recognoscite. Pro adder nove terminos a referentia glossarios, rediger illes in un externe texto redactor. Le nove terminos addite sera recognoscite a pena le modificationes ha essite salvate.</para>
+
+    <para>Le termino fonte pote esser un termino multi-parola.</para>
+
+    <para>Le function glossario usa le recerca del radices pro trovar le concordantias. Disactivar <guimenuitem>Usa recerca del radices pro glossario entratas</guimenuitem> in le preferentias general de OmegaT pro solo trovar le concordantias exacte pro un termino.</para>
+
+    <para>Le termino fonte es monstrate ante le signo &quot; = &quot; e le terminos destino postea. Le commentos es monstrate post un numero e cata uno sur un linea separate. Le terminos del glossario scribibile del projecto es monstrate in characteres hardite. Terminos del referentia glossarios es monstrate in normal emoticone.</para>
+
+    <para>To display the <guimenuitem>Autocompletion</guimenuitem> contextual
+    menu for the glossary matches, hit the OS dependant key
+    (<keycap>Escape</keycap> for macOS, <keycap>Ctrl+Space</keycap> for the
+    other platforms).</para>
+
+    <para>To underline matching terms in the source part of the segment use
+    <guimenuitem>View</guimenuitem> &gt; <guimenuitem>Mark Glossary
+    Matches</guimenuitem>. Right-click on the underlined term and select a
+    target term to insert it at the cursor location in the target part of the
+    segment.</para>
+  </section>
+
+  <section>
+    <title>Formato del File </title>
+
+    <para>OmegaT glossary files are simple plain text three-column lists with
+    the source term in the first column, an optional target term in the second
+    column and an optional comment in the third column.</para>
+
+    <para>Plain text glossaries can be &quot;tab separated values&quot; (TSV) files or
+    &quot;comma separated values&quot; (CSV) files. A third possible format is the &quot;TBX&quot;
+    (TermBase eXchange) ISO standard.</para>
+
+    <para>The project default writable glossary is always a TSV file saved in
+    UTF-8 encoding.</para>
+
+    <para>Glossaries are read in an encoding that depends on the file
+    extension:</para>
+
+    <table xml:id="glossary.extensions">
+      <caption>Format, extensions and expected encoding</caption>
+
+      <thead>
+        <tr>
+          <td>Format</td>
+
+          <td>Extension</td>
+
+          <td>Encoding</td>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>TSV</td>
+
+          <td>
+            <filename>.txt</filename>
+          </td>
+
+          <td>UTF-8</td>
+        </tr>
+
+        <tr>
+          <td>TSV</td>
+
+          <td>
+            <filename>.utf8</filename>
+          </td>
+
+          <td>UTF-8</td>
+        </tr>
+
+        <tr>
+          <td>TSV</td>
+
+          <td>
+            <filename>.tab</filename>
+          </td>
+
+          <td>OS default encoding</td>
+        </tr>
+
+        <tr>
+          <td>TSV</td>
+
+          <td>
+            <filename>.tsv</filename>
+          </td>
+
+          <td>OS default encoding</td>
+        </tr>
+
+        <tr>
+          <td>CSV</td>
+
+          <td>
+            <filename>.csv</filename>
+          </td>
+
+          <td>UTF-8</td>
+        </tr>
+
+        <tr>
+          <td>TBX</td>
+
+          <td>
+            <filename>.tbx</filename>
+          </td>
+
+          <td>UTF-8</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <para>Glossaries must be located in the <filename>/glossary</filename>
+    project folder. Glossaries located in nested folders are also
+    recognized.</para>
+  </section>
+
+  <section>
+    <title>Problemas commun al glossario </title>
+
+    <para><emphasis role="bold">Problema: Nulle terminos del glossario es exponite - causas possibile:</emphasis></para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Nulle file glossario trovate in le plica &quot;glossary&quot;.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Le file glossario es vacue.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Le articulos non es separate con un character de tabulation.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Le file glossario non ha le extension correcte (.tab, .utf8 o .txt).</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Il non ha concordantia EXACTE inter le entrata del glossario e le texto original in tu documento - per exemplo plurales.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Le file glossario non ha le codification correcte.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Il non ha nulle terminos in le segmento currente que concorda con alicun terminos in le glossario.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Un o plus del problemas precedente esseva fixate, ma le projecto non esseva recargate.</para>
+      </listitem>
+    </itemizedlist>
+
+    <para><emphasis role="bold">Problema: In le quadro pro le Glossario, qualque characteres non es monstrate debitemente</emphasis></para>
+
+    <itemizedlist>
+      <listitem>
+        <para>...ma le mesme characteres es monstrate debitemente in le quadro pro Editar: le extension e le codification del file non concorda.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</appendix>

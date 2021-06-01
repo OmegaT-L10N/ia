@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.tools">
+  <title>Instrumentos</title>
+
+  <variablelist>
+    <varlistentry>
+      <term>Controlo problemas...</term>
+
+      <listitem>
+        <para>Instrumento de garantia del qualitate que exeque tote le controlos automatic in un sol vice e monstra le resultatos in un fenestra.</para>
+
+        <para>Quatro typos de problemas es revelate:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>tags carente o displaciate, anque le <link linkend="dialogs.preferences.tagprocessing">tags personalisate</link>. Le option <guilabel>Problemas de tags</guilabel> es sempre seligite.</para>
+          </listitem>
+
+          <listitem>
+            <para><guilabel>Problemas de orthographia</guilabel> (optional). Functiona solo si un dictionario orthographic es installate.</para>
+          </listitem>
+
+          <listitem>
+            <para><guilabel>Problemas de terminologia</guilabel> (optional).</para>
+          </listitem>
+
+          <listitem>
+            <para><guilabel>Problemas de LanguageTool</guilabel> (optional).</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Le fenestra del resultatos exi in forma de un tabula in le qual:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>le duple-clic de un riga activa le segmento correspondente in le quadro editor,</para>
+          </listitem>
+
+          <listitem>
+            <para>le clic del titulo del columna cambia le verso de ordinamento del columna,</para>
+          </listitem>
+
+          <listitem>
+            <para>le selection o le displaciamento del mus super un linea monstra un icone de menu emergente in le ultime columna, que contine actiones pro corriger o ignorar le error.</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Controlar problemas pro le documento currente</term>
+
+      <listitem>
+        <para>Como supra, ma solo pro le documento actualmente monstrate in le quadro editor.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Statistica</term>
+
+      <listitem>
+        <para>Aperi un nove fenestra e monstra le statisticas del projecto, id es le totales del projecto e le totales pro omne file in le projecto.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Statistica del concordantias</term>
+
+      <listitem>
+        <para>Monstra le statistica de concordantia pro le projecto: le numero del repetitiones, concordantias exacte, concordantias partial e non-concordantias, pro segmentos, parolas e characteres.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Statistica del concordantias per File</term>
+
+      <listitem>
+        <para>Monstra le statistica de concordantia pro cata file del projecto: le numero del repetitiones, del concordantias exacte, del concordantias partial e del non-concordantias, pro le segmentos, parolas e characteres.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Alinear le files...</term>
+
+      <listitem>
+        <para>Eliger le duo files a alinear (le file fonte e su traduction) e clicca OK pro aperir le <link linkend="windows.aligner"><guilabel>fenestra</guilabel> Alinear</link>.</para>
+
+        <para>Le formatos de file supportate es illos in le lista de presentation in <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Proprietates</guimenuitem> <guimenuitem>Filtros de file</guimenuitem> </menuchoice>.</para>
+
+        <para>Le files fonte e de destination pote haber differente formatos (per exemplo, un file <filename>.docx</filename> pote esser alineate con un <filename>.pdf</filename> file).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Script...</term>
+
+      <listitem>
+        <para>Aperi le <link linkend="windows.scripts"><guilabel>fenestra</guilabel> Scripts</link>, ubi le position del scripts pote esser configurate e ubi scripts pote esser scribite, exequite e associate con un via-breve.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>n - (nomine del script)</term>
+
+      <listitem>
+        <para>Lancea scripts que ha essite associate con un numero.</para>
+
+        <para>Pro associar un script con un numero:</para>
+
+        <orderedlist>
+          <listitem>
+            <para>Aperi le fenestra del scripts</para>
+          </listitem>
+
+          <listitem>
+            <para>Eliger le scriptura que tu desira ex le lista al sinistra</para>
+          </listitem>
+
+          <listitem>
+            <para>Al parte inferior del fenestra, clicca dextre sur un numero libere e elige <guilabel>Adder Script</guilabel>.</para>
+          </listitem>
+        </orderedlist>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>(commandos de recerca externe)</term>
+
+      <listitem>
+        <para>Si commandos pro exequer recercas externe ha essite definite in le <link linkend="dialogs.preferences.externalsearch">Preferentias</link>, illos es in le lista de presentation e accessibile hic.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

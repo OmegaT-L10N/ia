@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="dialogs.preferences">
+  <title>Preferentias generar</title>
+
+  <para>Iste fenestra de dialogo es accessibile per selection del <menuchoice> <guimenuitem>Optiones</guimenuitem> <guimenuitem>Preferentias...</guimenuitem> </menuchoice></para>
+
+  <para>Isto consenti configurar le parametros pro tote le projectos de traduction.</para>
+
+  <section>
+    <title>General</title>
+
+    <variablelist id="dialogs.preferences.general.usetabtoadvance">
+      <varlistentry>
+        <term>Usa le clave &quot;Tab&quot; pro avantiar</term>
+
+        <listitem>
+          <para>Defini le clave de validation del segmento como &lt;g0&gt;Tab&lt;/g0&gt; in vice del predefinite &lt;g1&gt;Enter&lt;/g1&gt;. Iste option es utile pro alicun systemas de inscription de character: chinese, japonese o coreano.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Confirma semper le cessation</term>
+
+        <listitem>
+          <para>Le programma cercara confirmation ante clauder.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section>
+    <title>Traduction automatic</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>Reportar &amp;Automaticamente le traductiones</term>
+
+        <listitem>
+          <para>Pro rationes de confidentialitate, tu pote voler a non inviar tote le segmentos al motor de traduction automatic. Si tu dismarca iste option, le traductiones automatic sera reportate in le segmento actual solo quando tu pulsa <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> (<keycombo> <keycap>Cmd</keycap> <keycap>M</keycap> </keycombo> sur systema operative X). Tu debe alora pulsar de novo <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> pro inserer le suggestion.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Solmente segmentos non rendite</term>
+
+        <listitem>
+          <para>Marca iste option pro inviar solo segmentos non traducite al servicios de traduction automatic.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <para>Eliger un fornitor ex le lista e, si necessari, clicca <guibutton>Configurar</guibutton> pro inserer le detalios de identification fornite per le fornitor.</para>
+
+    <para>Le proceduras pro configurar le accesso al servicios Microsoft Translator e Google Translate es describite <ulink url="https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services">hic</ulink>.</para>
+  </section>
+
+  <section>
+    <title>Glossario</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>Monstrar le description contextual pro le glossarios TBX</term>
+
+        <listitem>
+          <para>Dismarca iste option si le description contextual monstrate pro cata entrata del glossario es inutile o troppo longe.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Usar terminos que appare separate in le texto fonte</term>
+
+        <listitem>
+          <para>Quando iste option es marcate, le glossario monstrara par o gruppos de parolas (expressiones) mesmo si le parolas in le texto fonte appare separatemente inter illos.</para>
+
+          <para>Dismarca iste option si le glossario monstra trop false positives.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Usar le radices pro le entratas de glossario</term>
+
+        <listitem>
+          <para>Elige iste option si tu desira que le glossario monstra parolas que ha identic radice.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Replaciar le exitos del glossarios quando on insere le texto fonte</term>
+
+        <listitem>
+          <para>Si ambe iste option e le option <link linkend="dialogs.preferences.editor.insertthesourcetext"><guilabel>Inserer le texto fonte</guilabel></link> es seligite, tote le parolas con un entrata del glossario correspondente sera traducite automaticamente quando le texto fonte es inserite.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Ignorar le pulsatas con caso multo differente (e.g. FOO contra foo)</term>
+
+        <listitem>
+          <para>Si iste option es marcate, le glossario monstrara solo un entrata, mesmo si un parola identic existe in plure formas (e.g. con e sin litteras majuscule) in le glossario.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <section>
+      <title>Terminologia TaaS</title>
+
+      <variablelist>
+        <varlistentry>
+          <term>Obtener le Clave API</term>
+
+          <listitem>
+            <para>Clicca iste button pro acceder le sito del projecto <ulink url="https://term.tilde.com/taas">TaaS</ulink> e crear un conto de usator.</para>
+
+            <para>Tu pote pois crear un clave accesso sur le pagina <ulink url="https://term.tilde.com/account/keys/create?system=omegaT">https://term.tilde.com/account/keys/create?system=omegaT</ulink>.</para>
+          </listitem>
+        </varlistentry>
+
+        <varlistentry>
+          <term>Salvar pro iste session solmente</term>
+
+          <listitem>
+            <para>Si iste option es seligite, OmegaT non rememora le clave de accesso inter sessiones.</para>
+          </listitem>
+        </varlistentry>
+
+        <varlistentry>
+          <term>Navigar (&amp;Browse) inter le collectiones de TaaS...</term>
+
+          <listitem>
+            <para>Iste button te pone in grado de foliettar e discargar le collectiones que existe pro le linguas fonte e destino del projecto. Le collectiones private es displicate in nigrato. Le collectiones es discargate como glossarios TBX e immagazinate in le actual plica /glossary.</para>
+          </listitem>
+        </varlistentry>
+
+        <varlistentry>
+          <term>Eliger le Dominio de recerca del terminologia TaaS...</term>
+
+          <listitem>
+            <para>Si necessari, tu pote eliger un specific dominio pro limitar le volumine de datos inviate e recipite.</para>
+          </listitem>
+        </varlistentry>
+      </variablelist>
+    </section>
+  </section>
+
+  <section id="dialogs.preferences.dictionary">
+    <title>Dictionario</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>Cerca automaticamente in le dictionario le texto del segmento</term>
+
+        <listitem>
+          <para>Clara iste option pro disactivar le recerca automatic, per exemplo si le dictionarios es troppo longe.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Usar le concordantia partial pro le entratas del dictionario</term>
+
+        <listitem>
+          <para>Eliger iste option si tu desira que le dictionarios monstra parolas que ha identic radice.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section>
+    <title>Apparentia</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>Restaurar le fenestra principal</term>
+
+        <listitem>
+          <para>Restaura le componentes del fenestra principal de OmegaT a lor arrangiamento initial. Usa iste function quando tu ha levate, movite o celate uno o plus componentes e tu non pote restaurar le disposition desiderate. Illo pote alsi esser usate quando le quadros non appare como provise, sequente un promotion de OmegaT.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <section>
+      <title>Typo de character</title>
+
+      <para>Monstra le fenestra de dialogo pro modificar le typo del character del texto monstrate. Le usatores de computatores vetule qui senti que le dimensionamento del fenestra es multo lente pote probar a  cambiar le typo de character. Vide le configurationes del typos del character in Miscellanea</para>
+    </section>
+
+    <section>
+      <title>Colores</title>
+
+      <para>Iste pagina te permitte de eliger differente colores pro cata parte del interfacie de usator.</para>
+
+      <para>Themas predefinite pote esser configurate per scripts. Un scriptura integrate in OmegaT appellate Commutator color del themas, offere un thema predefinite &quot;Obscur&quot;.</para>
+    </section>
+  </section>
+
+  <section id="dialogs.preferences.filefilters">
+    <title>Filtros del file</title>
+
+    <para>Iste fenestra de dialogo lista le filtros de file disponibile. Le filtros usate per le actual projecto es monstrate in hardite. Si tu prefere non usar OmegaT pro traducer files de un certe typo, tu pote disactivar le correspondente filtro dismarcante le quadrato de controlo sub su nomine. OmegaT pois omittera le correspondente files quando carga projectos e los copiara non modificate al plica de destination creante le documentos de destination. Quando tu desidera usar de nove le filtro, marca justo le quadrato de controlo. Clicca <emphasis role="bold">configurationes base </emphasis> pro prefixar le filtros de file al configurationes base. Un filtro es usate pro rediger files e codificationes, selige le filtro in le lista e clicca <emphasis role="bold">Editar.</emphasis></para>
+
+    <para>Le fenestra de dialogo te permitte de activar o disactivar le sequente optiones:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Remover etiquettas initial e final: dismarca iste option pro monstrar tote le etiquettas, includente etiquettas al initio e fin del segmento. ATTENTION: in formatos Microsoft XML aperte (docx, xlsx, etc.), si tote le etiquettas es displicate, NON placia ulle texto ante le prime etiquetta, illo es un etiquetta technic que debe sempre initiar le segmento.</para>
+      </listitem>
+
+      <listitem>
+        <para>Remove le spatios blanc initial e final in le projectos non-segmentate: per option predefinite, OmegaT remove le spatios blanc initial e final. In le projectos non-segmentate, il es possibile retener lo per dismarcar iste option.</para>
+      </listitem>
+
+      <listitem>
+        <para>Preservar spatios pro tote le etiquettas: marcar iste option si le documentos primari contine grande spatios usate pro controlar le arrangiamento que non debe esser ignorate.</para>
+      </listitem>
+
+      <listitem>
+        <para>Ignora le contexto del file pro identificar le segmentos con traductiones alternative: per option predefinite, OmegaT usa le nomine del file fonte qual parte del identification de un traduction alternative. Si le option es marcate, le nomine del file fonte non essera usate e le traductiones alternative prendera effecto in ulle file quando concordara le altere contextos (segmentos precedente/sequente o alcun genere de identificator del segmento dependente del formato de file).</para>
+      </listitem>
+    </itemizedlist>
+
+    <section id="filters.options">
+      <title>Optiones del filtro</title>
+
+      <para>Plure filtros (files texto, files XHTML, files HTML e XHTML, files OpenDocument e files Microsoft Open XML) ha uno o plus optiones specific. Pro modificar le optiones, selige le filtro in le lista e clicca <emphasis role="bold">Optiones</emphasis>. Le optiones disponibile son:</para>
+
+      <para><emphasis role="bold">Files de texto</emphasis></para>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Segmentation del paragrapho sur interruptiones de linea, lineas vacue o nunquam:</emphasis></para>
+
+          <para>si es active le regulas de segmentation del phrase, le texto essera segmentate plus ultra in accordo al option seligite hic.</para>
+        </listitem>
+      </itemizedlist>
+
+      <para><emphasis role="bold">Files PO</emphasis></para>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Permitte le traductiones blanc in le file de destination</emphasis>:</para>
+
+          <para>Si seligite, quando un segmento in un file PO (que pote esser un integre paragrapho) non es traducite, le traduction essera vacue in le file de destination. In terminos technic, le segmento <code>msgstr</code> in le file destination PO, si create, essera lassate vacue. Pois que isto es le comportamento standard pro le files PO, isto es le predefinite. Si le option es disactivate, le texto fonte essera copiate al segmento destination.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Salta le testa del PO</emphasis></para>
+
+          <para>Le testa del PO essera saltate e lassate sin alteration, si es marcate iste option.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Auto reimplacia 'nplurals=INTEGER; plural=EXPRESSION;' in le testa</emphasis></para>
+
+          <para><emphasis>Le option permitte a OmegaT de non curar se del specification in le testa del file PO e de usar le parametro predefinite pro le lingua de destination seligite.</emphasis></para>
+        </listitem>
+      </itemizedlist>
+
+      <para><emphasis role="bold">Files XHTML</emphasis></para>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Rende le attributos sequente</emphasis>: le attributos seligite apparera como segmentos in le Fenestra de Modifica.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Initiar un nove paragrapho sur</emphasis>: le tag HTML &lt;br&gt; constituera un interruption de paragrapho pro propositos de segmentation.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Saltar texto concordante expression regular</emphasis>: ulle texto concordante le expression regular es saltate. Illo es monstrate in rubie in le utensile de validation del etiquetta. Le texto in le segmento fonte que concorda es monstrate in italico.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Non traducer le attributo de contento del meta-tags ...:</emphasis> le meta-tags in le cassa non sera traducite.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Non traducer le contento de tags con le sequente pares de valores clave de attributo (separar con virgulas)</emphasis>: si un etiquetta concorda le lista del pares de valores clave, su contento essera ignorate.</para>
+
+          <para>Isto es aliquando utile pro poter render intraducibile certe tags in base al valores de lor attributos. Per exemplo, <literal>&lt;div class=&quot;hide&quot;&gt; &lt;span translate=&quot;no&quot;&gt;</literal>. Tu pote definir pares de valores clave pro lassar le tags non traducite. Pro le exemplo precedente, le campo que contine: <literal>class=hide, translate=no </literal></para>
+        </listitem>
+      </itemizedlist>
+
+      <para><emphasis role="bold">Files Microsoft Office Open XML</emphasis></para>
+
+      <para>Tu pote seliger qual elementos debe esser rendite. Illos apparera como segmentos separate in le traduction.</para>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">Word:</emphasis> texto de instruction non-visibile, commentos, notas a pede de pagina, notas final, pedes de pagina</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">Excel: </emphasis>commentos, nomines de folio</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">Power Point</emphasis>: commentos del glissa, patronos del glissa, arrangiamentos del glissa</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">Global:</emphasis> chartas, diagrammas, designos, WordArt</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">Altere optiones:</emphasis></para>
+
+          <itemizedlist>
+            <listitem>
+              <para><emphasis>Aggregar tags</emphasis>: si marcate, le tags con nulle texto traducibile inter illos sera aggregate in un singule tag.</para>
+            </listitem>
+
+            <listitem>
+              <para><emphasis>Preservar spatios pro tote le tags</emphasis>: si marcate, le &quot;spatio blanc&quot; (i.e. spatios e nove-lineas) sera preservate, mesmo si iste option non es definite in le documento.</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+
+      <para><emphasis role="bold">Files HTML e XHTML </emphasis></para>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Adder o rescriber declaration de codification in files HTML e XHTML</emphasis>: le files de destination sovente debe haber un codification del collection de characteres differente de illos in le file fonte (si il es explicitemente definite o implicite). Per iste option, le traductor pote specificar si le files de destination deberea haber includite le declaration de codification. Per exemplo, si le filtro de file specifica que UTF8 como schema de codification pro le files de destination, seliger &quot;Sempre&quot; assecurara que iste informationes es includite in le files traducite.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Rende le attributos sequente</emphasis>: le attributos seligite apparera como segmentos in le Fenestra de Modifica.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Initiar un nove paragrapho sur</emphasis>: le tag HTML &lt;br&gt; constituera un interruption de paragrapho pro propositos de segmentation.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Saltar texto concordante expression regular</emphasis>: ulle texto concordante le expression regular es saltate. Illo es monstrate in rubie in le utensile de validation del etiquetta. Le texto in le segmento fonte que concorda es monstrate in italico.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Non traducer le attributo de contento del meta-tags ...:</emphasis> le meta-tags in le cassa non sera traducite.</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis>Non traducer le contento de tags con le sequente pares de valores clave de attributo (separar con virgulas)</emphasis>: si un etiquetta concorda le lista del pares de valores clave, su contento essera ignorate.</para>
+
+          <para>Isto es aliquando utile pro poter render intraducibile certe tags in base al valores de lor attributos. Per exemplo, <literal>&lt;div class=&quot;hide&quot;&gt; &lt;span translate=&quot;no&quot;&gt;</literal>. Tu pote definir pares de valores clave pro lassar le tags non traducite. Pro le exemplo precedente, le campo que contine: <literal>class=hide, translate=no </literal></para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis>Comprimer spatios blanc in documento traducite</emphasis>: plure characteres spatio blanc continue sera convertite in un singule spatio blanc in le documento traducite.</para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis>Remover commentos HTML in documento traducite</emphasis>: le partes commentate (inter &lt;!-- e --&gt;) non sera copiate in le documento traducite.</para>
+        </listitem>
+      </itemizedlist>
+
+      <para><emphasis role="bold">Files Open Document Format (ODF)</emphasis></para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Tu pote seliger qual del sequente elementos debe esser rendite:</para>
+
+          <para>entratas indice, signa-libros, referentias de signa-libro, notes, commentos, notas de presentation, ligamines (URL), nomines de pagina</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+
+    <section id="edit.filter.dialog">
+      <title>Fenestra de dialogo de Modifica del filtro</title>
+
+      <para>Iste fenestra de dialogo te pone in grado de specificar le patronos de nomine de file fonte pro le tractar le files per le filtro, personalisar le nomines de file del files traducite e eliger que codificationes debera esser usate pro cargamento le file fonte e salvamento del traduction. Pro modificar un modello de filtro de file, o modificar le campos directemente o cliccar <emphasis role="bold">Rediger</emphasis>. Pro adder un nove modello de filtro de file, clicca <emphasis role="bold">Adder</emphasis>. Le fenestra de dialogo pro adder un modello es le mesme que illo pro modificar un modello particular. Le fenestra de dialogo include un special redactor de modello de nomine de file de destination, que tu pote usar pro personalisar le nomines del files de exito.</para>
+
+      <section id="source.filetype.and.filename.pattern">
+        <title>Typo de file fonte, modello de nomine de file</title>
+
+        <para>Quando OmegaT incontra un file in su plica fonte, il tenta de seliger le filtro basate sur le extension del file. Plus precisemente, OmegaT tenta de concordar cata modellos del filtro de nomine de file fonte, verso le nomine de file. Per exemplo, le modello <literal>*.xhtml </literal>concorda omne file con le extension <literal>.xhtml</literal>. Si le filtro appropriate es trovate, le file es assignate a Illo pro le successive processo. Per exemplo de ordinario le filtros XHTML es usate pro processar le files con le extension .xhtml. Tu pote cambiar o adder modellos de nomine de file pro tractar files per cata filtro de file. Le modellos de nomine de file fonte usa characteres 'carta salvage' similabile a illos usate in le <emphasis role="bold">Recercas. </emphasis>Le character salvage '*' equala zero o plus characteres. Le character salvage '?' equala exactemente un character. Omne le altere characteres representa se ipse. Per exemplo, si vos vole le filtro de texto pro tractar le files readme  (<literal>readme, read.me</literal>, e  <literal>readme.txt</literal>) tu deberea usar le modello <literal>read*</literal>.</para>
+      </section>
+
+      <section id="source.and.target.files.encoding">
+        <title>Codification del files fonte e traducite</title>
+
+        <para>Solo un numero limitate de formatos de file specifica un codification obligatori. Le formatos del file que non specifica lor codification usara le codification que tu prefixa pro le extension que concorda lor nomine. Per exemplo, per arrangiamento base le files <literal>.txt</literal> essera cargate con le codification base de tu systema operative. Tu pote cambiar le codification fonte pro cata differente modello de nomine de file fonte. Le files de destination pote alsi esser scribite in ulle codification. Per arrangiamento base, le codification del file rendite es identic al codification del  file fonte. Le campos de codification fonte e de destination usa menus a tenta cadente continente tote le codificationes supportate. &lt;auto&gt; lassa le selection de codification a <application>OmegaT</application>. Ecce como illo opera:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>OmegaT identifica le codification del file fonte usante su declaration de codification, si presente (files HTML, files basate sur XML)</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para>OmegaT es instruite a usar un codification obligatori pro certe formatos de file (properties Java etc.)</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para>OmegaT usa le codification base del systema operative pro le files de texto.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section id="target.name">
+        <title>Nomine de file traducite</title>
+
+        <para>Alicun vices tu pote desiderar de renominar automaticamente le files que tu rende, per exemplo con le addition de un codice de lingua post le nomine del file. Le modello de nomine de file de destination usa un special syntaxe, assi si tu desira rediger iste campo, tu debe cliccar <emphasis role="bold">Rediger...</emphasis>e usar le Fenestra de dialogo Rediger modello. Si tu desira reverter al configuration predefinite del filtro, clicca <emphasis role="bold">Valores predefinite.</emphasis> Tu pote alsi modificar le nomine directemente in le campo del modello de nomine de file de destination del fenestra de dialogo Filtros de file. Le Fenestra de dialogo Modifica Modello offere inter le alteres le optiones sequente:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Le arrangiamento base initial is <literal>${filename}</literal>– le nomine de file complete del file fonte con extension: in iste caso le nomine del file traducite es le identic nomine del file fonte.</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><literal>${nameOnly}</literal>– permitte te de inserer sol le nomine del file fonte sin le extension.</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${extension} </literal>- le extension original del file</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><literal>${targetLocale}</literal>– codice local final (de un forma &quot;xx_YY&quot;).</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><literal>${targetLanguage}</literal>– le codice del lingua e del pais insimul (de un forma &quot;XX-YY&quot;).</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><literal>${targetLanguageCode}</literal> – le lingua final - sol &quot;XX&quot;</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><literal>${targetCountryCode}</literal>– le pais de destination - sol &quot;YY&quot;</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${timestamp-????}</literal> – data e tempore del systema al tempore del generation in varie modellos</para>
+
+            <para>Vide <ulink url="http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html"> Documentation Oracle</ulink> pro exemplos del modellos &quot;SimpleDateFormat&quot;</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${system-os-name}</literal> - systema operative del computator usate</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${system-user-name}</literal> - nomine del usator del systema</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${system-host-name}</literal> - nomine del systema hospite</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${file-source-encoding}</literal> - codification del file fonte</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${file-target-encoding}</literal> - codification del file de destination</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${targetLocaleLCID}</literal> - Destination Microsoft local</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Altere variantes son disponibile pro le variabiles ${nameOnly} e ${Extension}. In caso que le nomine del file ha nomine ambivalente, on pote applicar le variabiles del forma <literal>${name only</literal><emphasis>-numero de extension</emphasis>} e <literal>${extension</literal>-<emphasis>numero de extension} </emphasis>. Si per exemplo le file original es denominate Document.xx.docx, le variabiles sequente dara le resultatos sequente:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><literal>${nameOnly-0}</literal> Document</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${nameOnly-1}</literal> Document.xx</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${nameOnly-2}</literal> Document.xx.docx</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${extension-0}</literal> docx</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${extension-1}</literal> xx.docx</para>
+          </listitem>
+
+          <listitem>
+            <para><literal>${extension-2}</literal> Document.xx.docx</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+  </section>
+
+  <section id="dialogs.preferences.segmentationsetup">
+    <title>Configuration del segmentation</title>
+
+    <para>Le instrumentos de memoria de traduction functiona con unitates textual nominate segmentos. <application>OmegaT</application> ha duo manieras a segmentar un texto: per paragrapho o per segmentation a phrase (alsi referite como &quot;segmentation basate sur le regulas”). Pro seliger le typo del segmentation, selige <menuchoice> <guimenu>&lt;i3/&gt;Projecto</guimenu> &lt;g4&gt;Proprietates...&lt;/g4&gt; </menuchoice> ex le menu principal e marca o leva le marca in le quadrato de controlo supplite. Le segmentation a paragrapho es avantagiose in certe casos, assi como traductiones multo creative o stilistic in le qual le traductor pote desiderar de cambiar le ordine de phrases integre; pro le majoritate del projectos, comocunque, le segmentation a phrase es un selection a preferer, pois que illo delivra concordantias melior ex traductiones previe. Si ha essite seligite le segmentation per phrase, tu pote definir le regulas per <menuchoice> <guimenu>Optiones</guimenu> <guimenuitem>Segmentation...</guimenuitem> </menuchoice>ab le menu principal.</para>
+
+    <para>Son jam disponibile regulas de segmentation confidibile pro plurime linguas, assi il es verisimile que tu non necessitara de ser implicate con le script de tu proprie regulas de segmentation. Al altere latere iste functionalitate pote esser multo utile in casos particular, ubi tu pote accrescer tu productivitate accordante le regulas de segmentation al texto a traducer.</para>
+
+    <para><emphasis role="bold">Advertimento: </emphasis>viste que le texto essera segmentate differentemente postquam le optiones del filtro esseva cambiate, ergo tu pote deber initiar a render de zero. Al mesme tempore le segmentos valide previe in le memoria de traduction del projecto rotara in segmentos orphane. Si tu cambia le optiones de segmentation durante que un projecto es aperte, tu debe recargar le projecto pro que le cambios sume effecto.</para>
+
+    <para><application>OmegaT</application> usa le sequentia de grados sequente:</para>
+
+    <variablelist>
+      <varlistentry>
+        <term>Segmentation a nivello de structura</term>
+
+        <listitem>
+          <para><application>OmegaT</application> in prime loco analysa le texto pro le segmentation a nivello de structura. Durante iste processo il es solmente le structura del file fonte que es usate pro generar le segmentos.</para>
+
+          <para>Per exemplo, le files de texto pote esser segmentate sur interruptiones de linea, lineas vacue, o non esser segmentate del toto. Files continente formattation (documentos ODF, documentos HTML, et cetera) son segmentate sur le  tags de nivello de bloco (paragrapho). Le attributos de objecto traducibile in le files XHTML o HTML pote esser extrahite como segmentos separate.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Segmentation a nivello de phrase</term>
+
+        <listitem>
+          <para>Post le segmentation del file fonte in unitates structural, <application>OmegaT</application>segmentara iste blocos ulteriormente in phrases.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <section id="segmentation.rules">
+      <title>Regulas de Segmentation</title>
+
+      <para>Le processo de segmentation pote esser illustrate assi: le cursor move se secundo le le, un character a un vece. A cata position del cursor, le regulas, consistente de un modello <emphasis role="bold">Ante </emphasis>e  <emphasis role="bold">Post </emphasis>, son applicate in lor ordine date pro vider si alicun del modellos<emphasis role="bold"> Ante</emphasis> es valide pro le texto sur le sinistra e le correspondente modello <emphasis role="bold">Post</emphasis> pro le texto al dextra del cursor. Si le regula concorda, o le cursor move se super sin inserer un interruption de segmento (pro un regula de exception) o es create un interruption de segmento nove al position del cursor actual (pro le regula de interruption).</para>
+
+      <para>Le duo typos de regulas conduce se como seque:</para>
+
+      <variablelist>
+        <varlistentry>
+          <term>Regula de interruption</term>
+
+          <listitem>
+            <para>Separa le texto fonte in segmentos. Per exemplo, &quot;<emphasis>Did it make sense? I was not sure</emphasis>.&quot; deberea esser fisse in duo segmentos. Pro que isto accide, ibi deberea esser un regula de interruption pro le &quot;?&quot;, quando sequite per spatios e un parola majuscule. Pro definir un regula quam regula de interruption, marca le quadrato de controlo Interruption/Exception.</para>
+          </listitem>
+        </varlistentry>
+      </variablelist>
+
+      <variablelist>
+        <varlistentry>
+          <term>Regula exception</term>
+
+          <listitem>
+            <para>specifica qual partes de texto NON deberea esser separate. Nonobstante le periodo, <emphasis>&quot;Mrs. Dalloway &quot;</emphasis> non deberea esser fisse in duo segmentos, assi unregula de exception deberea esser establite pro Mrs (e pro Mr, pro Dr, pro prof et cetera), sequite per un periodo. Pro definir un regula quam regula de exception, lassa le quadrato de controlo Interruption/Exception non marcate.</para>
+          </listitem>
+        </varlistentry>
+      </variablelist>
+
+      <para>Le regulas de interruption prefixate deberea esser bastante pro le major parte del linguas europee e le japonese. in viste del flexibilitate, tu pote considerar de definir magis regulas de exception pro tu lingua fonte, pro suppler segmentos plus significative e coherente.</para>
+    </section>
+
+    <section id="rules.priority">
+      <title>Prioritate del Regula</title>
+
+      <para>Omne le collectiones de regula de segmentation pro un modello de lingua que concorda son active e son applicate in le ordine de prioritate date, assi regulas pro lingua specific deberea esser superior in ordine de prioritate quam los base. Per exemplo, le regulas pro le francese canadian (FR-CA) debe esser superior que le regulas pro le francese (FR.*), e superior que los Base (.*) . Assi, quando rendente ab francese canadian le regulas pro francese canadian - si alicun - essera applicate antea, sequite per le Regulas pro le francese e in fin, per le regulas Base.</para>
+    </section>
+
+    <section id="creating.new.rule">
+      <title>Creation de un regula nove</title>
+
+      <para>Major cambios al regulas de segmentation deberea esser generalmente evitate, in modo special post le completamento del prime minuta, sed cambios minor, ut le addition de un abbreviation admittite, pote esser avantagiose.</para>
+
+      <para>Pro modificar o expander un collection de regulas existente, clicca simplemente sur illo in le summitate del tabella. Le regulas pro ce collection apparera in le medietate basso del fenestra.</para>
+
+      <para>Pro crear un collection de regulas vacue pro un modello de lingua nove clicca <emphasis role="bold">Adde </emphasis>in le medietate superior del fenestra de dialogo. Un linea vacue apparera al fundo del tabella superior (tu pote deber rolar in basso pro vider lo). Cambiar le nomine del collection de regulas e le modello de lingua al lingua problematic e su codice Le syntaxe del schema del lingua conforma al syntaxe del expression regular. Si tu collection de regulas tracta un copula lingua-pais, nos te avisara a mover lo al summitate per le button &lt;e2&gt;Mover in alto&lt;/e2&gt;.</para>
+
+      <para>Adde le modellos <emphasis role="bold">Ante</emphasis> e<emphasis role="bold"> Post</emphasis>. Pro verificar lor syntaxe e lor applicabilitate, il es consiliabile usar instrumentos que te permitte vider lor effecto directemente. Vider <link linkend="appendix.regexp">Expressiones regular</link>. Un bon puncto de initio sera sempre le regulas existente.</para>
+    </section>
+
+    <section id="few.simple.examples">
+      <title>Alicun exemplos simplice</title>
+
+      <informaltable>
+        <tgroup cols="4">
+          <colspec align="left" colnum="1"/>
+
+          <colspec align="center" colnum="2"/>
+
+          <colspec align="center" colnum="3"/>
+
+          <colspec align="left" colnum="4"/>
+
+          <thead>
+            <row>
+              <entry>Intention</entry>
+
+              <entry align="center">Ante</entry>
+
+              <entry align="center">Postt</entry>
+
+              <entry>Nota</entry>
+            </row>
+          </thead>
+
+          <tbody>
+            <row>
+              <entry>Impone que le segmento initia post un periodo ('.') sequite per un spatio, tabulation ...</entry>
+
+              <entry align="center">\.</entry>
+
+              <entry align="center">\s</entry>
+
+              <entry>&quot;\.&quot; sta pro le character periodo. &quot;\s&quot; significa qualcunque character spatio blanc (spatio, tabulation, pagina nove et cetera.)</entry>
+            </row>
+
+            <row>
+              <entry>Non segmentar post Mr.</entry>
+
+              <entry align="center">mr</entry>
+
+              <entry align="center">\s</entry>
+
+              <entry>Isto es un regula de exception, ergo le quadrato de controlo del regula non debe esser marcate</entry>
+            </row>
+
+            <row>
+              <entry>Prefixa un segmento post &quot;。&quot; (periodo japonese)</entry>
+
+              <entry align="center">。</entry>
+
+              <entry align="center"/>
+
+              <entry>Note que <literal>after</literal> es vacue</entry>
+            </row>
+
+            <row>
+              <entry>Non segmentar post M. Mr. Mrs. e Ms.</entry>
+
+              <entry align="center">Mr??s??\.</entry>
+
+              <entry align="center">\s</entry>
+
+              <entry>Regula de exception - vide le uso del ? in expressiones regular</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+  </section>
+
+  <section>
+    <title>Auto-completamento</title>
+
+    <para>Cliccar sur <guimenuitem>Glossario...</guimenuitem> pro configurar le Vista del Glossario Auto-completamento.</para>
+
+    <para>Cliccar sur <guimenuitem>Auto-texto...</guimenuitem> pro configurar le optiones de Auto-texto e adder o remover entratas.</para>
+
+    <para>Cliccar sur <guimenuitem>Tabella del Character...</guimenuitem> pro poner le optiones del auto-completator del tabella del Character.</para>
+
+    <para>Le auto-completator es lanceate in le segmento de destination per le via breve <emphasis role="bold">Ctrl+Space</emphasis>.</para>
+
+    <para>Si le option <emphasis role="bold">Monstrar automaticamente le suggestiones pertinente</emphasis> es marcate, le auto-completator es lanceate automaticamente per inserer le prime littera del un entrata de glossario rendite, o per inserer &quot;&lt;&quot; in caso de tags.</para>
+  </section>
+
+  <section>
+    <title>Controlator Orthographic</title>
+
+    <para>OmegaT include un corrector orthographic basate super le corrector orthographic usate in OpenOffice.org, Firefox e Thunderbird. Illo ergo pote usar le enorme extension de dictionarios orthographic gratuite disponibile pro iste applicationes.</para>
+  </section>
+
+  <section>
+    <title>Le plugin LanguageTool</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>Typo de servicio</term>
+
+        <listitem>
+          <para>Selige le position del corrector del lingua.</para>
+
+          <para>Usar sur tu machina local un corrector del lingua differente de illo fornite con OmegaT te da le option de personalisar le regulas de verification.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Regulas</term>
+
+        <listitem>
+          <para>Marca o dismarca le regulas secundo que illos es pertinente pro le typo de texto que tu traduce.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section id="dialogs.preferences.externalsearch">
+    <title>Recerca externe</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>Activar le commandos specific-del-projecto</term>
+
+        <listitem>
+          <para>De ordinario, OmegaT non exeque le commandos specificate in le parametros specific-del-projecto (le file <filename>finder.xml</filename> in le plica <filename>omegat</filename>), perque illos pote haber un impacto critic sur le securitate del machina.</para>
+
+          <para>Activate iste option solmente si tu sape lo que tu face e solo pro projectos de fontes digne de fide.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Prioritate del menu contextual:</term>
+
+        <listitem>
+          <para>Te pone in grado de mutar le ordine del commandos in le menu contextual (le clicca dextre menu). Valores circum 100 monstra commandos al parte superior e valores circum 900 monstra los al parte inferior.</para>
+
+          <para>Tu necessitara reinitiar OmegaT proque iste cambios ha effecto.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section id="dialogs.preferences.editor">
+    <title>Editor</title>
+
+    <variablelist>
+      <varlistentry id="dialogs.preferences.editor.insertthesourcetext">
+        <term>Inserer le texto fonte (&amp;source)</term>
+
+        <listitem>
+          <para>Tu pote haber le texto fonte inserite automaticamente in le campo de modifica Isto es utile pro textos continente multe marcas commercial o altere nomines proprie que debe restar sin alteration.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>&amp;Lassa le segmento vacue</term>
+
+        <listitem>
+          <para>OmegaT lassa blanc le campo del modifica. Iste option permitte te de scriber le traduction sin le necessitate de remover le texto original, assi tu sparnia duo percussiones de clave (<emphasis role="bold">Ctrl+A </emphasis>e <emphasis role="bold">Del). </emphasis>Ora es permittite le traductiones vacue. Illos son monstrate como &lt;EMPTY&gt; in le Editor. Pro crear uno, clicca con le dextero in un segmento, e selige &quot;<emphasis role="bold">Prepara le traduction vacue</emphasis>&quot;. Le entrata <emphasis role="bold">Remove traduction</emphasis> in le identic menu pop-up permitte alsi de deler le traduction existente del segmento currente. Tu compli le identic action per deler le segmento final e pulsar <guibutton>Enter.</guibutton></para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Insere le melior concordantia partial</term>
+
+        <listitem>
+          <para>OmegaT insere le traduction del linea maxime similabile al fonte actual, si il es supra le limine del similantia que tu ha seligite in iste fenestra de dialogo. Le prefixo (per arrangiamento initial vacue) pote esser usate pro etiquettar le traductiones, facite con concordantias partial. Si tu adde un prefixo (per exemplo [fuzzy]), tu pote revider celle traductiones plus tarde pro vider si illos son correcte.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <para>Le quadratos de controlo in le medietate inferior del fenestra de dialogo servi al proposito sequente:</para>
+
+    <variablelist>
+      <varlistentry>
+        <term>Tenta de converter le numeros quando insere un concordantia partial</term>
+
+        <listitem>
+          <para>Si es marcate iste option, quando on insere un concordantia partial, o manualmente o automaticamente, OmegaT tenta de converter le numeros in le concordantia partial secundo le contentos original. Il ha plure restrictiones:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Le segmento fonte e le concordantias partial debe continer le identic lista de numeros</para>
+            </listitem>
+
+            <listitem>
+              <para>Le numeros debe esser identic inter le concordantias original e los final.</para>
+            </listitem>
+
+            <listitem>
+              <para>Son considerate sol numeros integre e numeros a virgula mobile simple (con periodo quam character decimal, exempli gratia: 5.4, ma non 5,4 ni 54E-01).</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <variablelist>
+      <varlistentry id="dialogs.preferences.editor.allowtranslationtobeequaltosource">
+        <term>Permitter le traduction equal al fonte</term>
+
+        <listitem>
+          <para>Le documentos pro le traduction pote continer marcas de commercio, nomines o altere nomines proprie que essera identic alsi in le documentos rendite. Il ha duo strategias pro le segmentos que contine solmente tal texto invariabile.</para>
+
+          <para>Tu pote decider de non traducer del toto tal segmentos. OmegaT reportara ergo iste segmentos como non rendite. Isto es le arrangiamento base prefixate. Le alternative es scriber un traduction identic al texto original. OmegaT pote recognoscer que tu ha facite isto. Pro render possibile isto, selige iste option.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <variablelist>
+      <varlistentry>
+        <term>Exporta le segmento in files texto</term>
+
+        <listitem>
+          <para>Le function Exporta texto, exporta datos ex le projecto actual  de <application>OmegaT</application> in files de texto simple. Le datos es exportate quando le segmento es aperte. Le files appare in le sub plica /script, in le plica del files del usator de OmegaT, e include:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Le texto contente in le segmento original (<filename>source.txt</filename>).</para>
+            </listitem>
+
+            <listitem>
+              <para>Le texto contente in le segmento final (<filename>target.txt</filename>).</para>
+            </listitem>
+
+            <listitem>
+              <para>Le texto marcate per le usator, quando es pulsate <keycap>Ctrl+Shift+C</keycap> o es seligite <guimenuitem>Modificar &gt; Exportar le Selection</guimenuitem> (<filename>selection.txt</filename>).</para>
+            </listitem>
+          </itemizedlist>
+
+          <para>Le contento del files es superscribite o quando un segmento nove es aperite (source.txt e target.txt) o quando a nove selection es exportate (selection.txt). Le files es files de texto simple non formattate. Toto le processo pote esser governate e controlate con scriptes basate sur Tck/Tcl. Vide <ulink url="http://www.omegat.org/en/howtos/text_export.html">Usar le function exporta texto de OmegaT</ulink> pro specificas, exemplos e suggestiones.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <variablelist>
+      <varlistentry>
+        <term>Vade al proxime segmento non rendite, arresta se quando il ha al minus un traduction alternativa</term>
+
+        <listitem>
+          <para>In le caso de segmentos con plure possibile contentos, si nos vole evitar omne mal-traductiones, le signo de iste quadrato de controlo causara que le commando <emphasis role="bold"> Va al segmento non rendite sequente</emphasis> arrestara sur le segmento sequente, sin respecto re illo esseva jam rendite o non.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <variablelist>
+      <varlistentry>
+        <term>Permitte le modifica del tags</term>
+
+        <listitem>
+          <para>Dismarca iste option pro prevenir omne damno sur le tags (i.e., partial deletion) durante le modifica. &amp;&amp;&amp;&amp;&amp;&amp;&amp;Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <variablelist>
+      <varlistentry>
+        <term>Valida le tags quando tu abandona un segmento</term>
+
+        <listitem>
+          <para>Marca iste option pro esser avertite re le differentias inter le tags del segmentos fonte e los de destination cata vice tu lassa un segmento.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <variablelist id="dialogs.preferences.editor.saveautopopulatedstatus">
+      <varlistentry>
+        <term>Salvar le statos auto-populate</term>
+
+        <listitem>
+          <para>Marca iste option pro registrar in le file <filename>project_save.tmx</filename> le informationes que un segmento ha essite auto-populate, si que illo pote esser monstrate con un color specific in le quadro de Modifica (si le option &quot;Marca le Segmentos Auto-Populate&quot;, in le menu Vide... , es marcate).</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+
+    <variablelist>
+      <varlistentry>
+        <term>Cargar initialmente iste plure segmentos:</term>
+
+        <listitem>
+          <para>Per option predefinite le editor monstra 2,000 del initial segmentos, e progressivemente carga los que necessita quando tu rola in alto o in basso. Si tu ha un machina potente, e/o si tu non agrada como le barra de rolamento se comporta durante le progresso del cargamento, tu pote incrementar iste numero.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section id="dialogs.preferences.tagprocessing">
+    <title>Processo del tags</title>
+
+    <para>Quando on traduce files associate al software, tu pote configurar le optiones del Utensile de validation del tags pro alsi controlar le (%...) variabiles o placeholders ({0}) de programmation, si le filtro de file non lo face jam. Le filtro PO jam tracta %.. e le filtro incorporate in le ressource Java™ jam tracta le tags {#}, assi tu besonia de isto solo pro altere typos de file.</para>
+
+    <para>Tu pote alsi definir varie optiones associate al validation del tags e definir tags personalisate.</para>
+
+    <para>Per exemplo, si tu insere <userinput>\d+</userinput> in le <guilabel>Expression regular al</guilabel> campo de tags personalisate, tote le numeros essera considerate como etiquettas e tu potera controlar que le numeros que tu ha non ha essite cambiate per error durante le traduction.</para>
+
+    <para>De modo similar, insere <userinput>&lt;.*?&gt;</userinput> pro verifica que ille tags HTML (per exemplo) inscribite in le texto fonte es preservate sin modification in le traduction.</para>
+
+    <para>Nota: iste duo instructiones pote esser combinate scribente <userinput>(&lt;.*?&gt;)|(\d+)</userinput>.</para>
+  </section>
+
+  <section>
+    <title>Equipa</title>
+
+    <para>Inscribe ci tu nomine e illo essera alligate a tote le segmentos que tu rendera.</para>
+
+    <section>
+      <title>Credentiales de repositorio</title>
+
+      <para>Lista del projectos cuje detalios de accesso es registrate in OmegaT. Remove un projecto de iste lista si tu vole que OmegaT te demanda credentiales de accesso cata vice que tu vole acceder al projecto.</para>
+    </section>
+  </section>
+
+  <section>
+    <title>Concordantia de TM</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>Ordina le concordantias partial per:</term>
+
+        <listitem>
+          <para>De ordinario, le melior concordantias displicate in le quadro <guilabel>Concordantias partial</guilabel> es determinate per le recerca del radices.</para>
+
+          <para>Pro obtener plus concordantia litteral proxime al 100%, selige le <guilabel>Complete texto, includente le option tags e numeros</guilabel>.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Monstrar tags in files  TMX non-OmegaT</term>
+
+        <listitem>
+          <para>Decide como debe esser tractate tags in files TMX estranie (id es non generate per OmegaT).</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Modello de monstra de concordantia</term>
+
+        <listitem>
+          <para>Cambiar como le concordantias partial es monstrate, per le uso del variabiles pre-configurate:</para>
+
+          <table colsep="0" rowsep="0">
+            <title>Preparation del Quadro del concordantias</title>
+
+            <tgroup cols="2" colsep="1" rowsep="1" title="Match pane setup">
+              <colspec align="left"/>
+
+              <colspec align="left"/>
+
+              <tbody>
+                <row>
+                  <entry><literal>${id}</literal></entry>
+
+                  <entry>Numero del concordantia ab 1 a 5</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${sourceText}</literal></entry>
+
+                  <entry>Texto fonte del concordantia</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${targetText}</literal></entry>
+
+                  <entry>Texto final del concordantia</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${diff}</literal></entry>
+
+                  <entry>Linea de character monstrante le differentias inter le fonte e le concordantia.<emphasis> Aviso:</emphasis> usa isto si le texto, que tu rende  ha essite ajornate.</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${diffReversed}</literal></entry>
+
+                  <entry>Simile a ${diff}, ma con le differentias (que debe esser inserite e delite) invertite.</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${score}</literal></entry>
+
+                  <entry>Percentage calculate con le option <guilabel>Radices, nulle tags e nulle numeros</guilabel>.</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${noStemScore}</literal></entry>
+
+                  <entry>Percentage calculate con le option <guilabel>Nulle tags e nulle numeros</guilabel>.</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${adjustedScore}</literal></entry>
+
+                  <entry>Percentage calculate con le option <guilabel>Texto complete, includente tags e numeros</guilabel>.</entry>
+                </row>
+
+                <row>
+                  <entry><literal>${fuzzyFlag}</literal></entry>
+
+                  <entry>Indica que iste concordantia es partial (actualmente solo pro traductiones ex files PO con le marca #fuzzy)</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section>
+    <title>Vider</title>
+
+    <para>Contine optiones pro monstrar informationes re le textos e le modificationes in manieras differente.</para>
+
+    <variablelist>
+      <varlistentry>
+        <term>Includer le prime segmento non-unic quando es marcate Segmentos non-unic</term>
+
+        <listitem>
+          <para>Marca iste option pro monstrar tote le segmentos non-unic (repetitiones) in gris. Quando le option es non marcate, tote le segmentos non-unic es monstrate in gris a exception del prime occurrentia.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section id="dialogs.preferences.savingandoutput">
+    <title>Salvamento e Output</title>
+
+    <para>Permitte le usator de seliger le intervallo - in minutas e secundos - inter salvamentos automatic consecutive del projecto.</para>
+
+    <para>Cambiar le intervallo predefinite (3 minutas) secundo le characteristicas del projecto:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>breve intervallos (minime: 10 secundas) pro projectos synchronisate sur un servitor interne.</para>
+      </listitem>
+
+      <listitem>
+        <para>longe intervallos pro projectos de equipa hospite sur servitores externe.</para>
+      </listitem>
+    </itemizedlist>
+
+    <variablelist>
+      <varlistentry>
+        <term>Commando Externe Post-processo</term>
+
+        <listitem>
+          <para>Specificar le commandos que es exequite post le commando <guimenuitem>Crear documentos rendite</guimenuitem>.</para>
+
+          <para>Un exemplo del uso de iste characteristica esserea inviar automaticamente le documentos traducite al servitor FTP del cliente.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Alsi permitte le commandos externe per-projecto</term>
+
+        <listitem>
+          <para>De ordinario, OmegaT non exeque le commandos specificate in le parametros specific-del-projecto (le <filename>omegat.project</filename> file), perque illos pote haber un impacto critic sur le securitate del machina.</para>
+
+          <para>Activate iste option solmente si tu sape lo que tu face e solo pro projectos de fontes digne de fide.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section>
+    <title>Connexion al proxy</title>
+
+    <para>Si OmegaT debe usar un servitor proxy authenticate pro acceder Internet, insere hic le detalios fornite per le administrator del proxy.</para>
+  </section>
+
+  <section>
+    <title>Immagazinage secur</title>
+
+    <para>Hic tu pote redefinir le contrasigno maestro usate pro proteger le credentiales detaliate e claves de accesso pro le servicios de traduction automatic. Prende cura pro prender nota de tote iste detalios ante le creation de un nove contrasigno, perque illos essera tote delite e necessitara esser re-inserite.</para>
+  </section>
+
+  <section>
+    <title>Plugins</title>
+
+    <para>Da accesso al lista de plugins disponibile. Le plugins es installate in le plica <filename>/plugins</filename> sub le plica de installation de OmegaT o le plica del preferentias de usator specific del platteforma OmegaT.</para>
+  </section>
+
+  <section>
+    <title>Actualisationes</title>
+
+    <para>Activa le aviso automatic de actualisationes <application>OmegaT</application>.</para>
+  </section>
+</section>

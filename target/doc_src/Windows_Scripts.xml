@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="windows.scripts">
+  <title>Scripts</title>
+
+  <para>Iste fenestra es accessibile per selection de <menuchoice> <guimenuitem>Applicationes</guimenuitem> <guimenuitem>Scripts...</guimenuitem> </menuchoice></para>
+
+  <section>
+    <title>Uso</title>
+
+    <para>Le Fenestra de Scripts te permitte de cargar un script existente in le area texto e exequer lo verso le projecto aperte currente. Pro personalisar le characteristica del script, face lo sequente:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Cargar un script in le redactor cliccante su nomine in le lista in le quadro sinistre.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Clicca dextre un button de <guilabel>&lt;1&gt;</guilabel> a <guilabel>&lt;12&gt;</guilabel> in le quadro inferior e elige <guilabel>Adder Script</guilabel>.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Quando tu clicca le numero, le script seligite essera exequite. Tu pote alsi lancear le macros seligite del menu principal per lor entratas in le menu <guisubmenu>Applicationes </guisubmenu>o pulsante<keycap> Ctrl+Alt+F#</keycap> (# 1 a 12).</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>De ordinario, scripts es immagazinate in le plicas <filename>scripts</filename> ubicate in le plica de installation de OmegaT (le plica que contine le file <filename>OmegaT.jar</filename>).</para>
+
+    <para>Si tu adde nove scripts illac, illos apparera in le lista de scripts disponibile in le fenestra <guilabel>Scripts</guilabel>.</para>
+
+    <para>On pote trovar additional scriptes ci: <ulink url="https://sourceforge.net/projects/omegatscripts/">OmegaT Scripts</ulink></para>
+  </section>
+
+  <section>
+    <title>Linguages de Script</title>
+
+    <para>Le sequente linguas de script esseva implementate:</para>
+
+    <para><itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">Groovy</emphasis> (http://groovy.codehaus.org): es un linguage dynamic pro le machina virtual Java. Illo es basate sur le punctos forte de  Java ma ha additional characteristicas potente inspirate de linguas como Python, Ruby e Smalltalk.</para>
+        </listitem>
+      </itemizedlist><itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">JavaScript</emphasis> (alicun vices abbreviate JS, non confunder con Java): es un lingua de scripting, basate sur prototypo,  que es dynamic, debilemente typate e ha le functiones de prima classe. Illo es un lingua de programmation multo-paradigma, que supporta stilos de programmation orientate al objecto, imperative, e functional. Pois que illo es le lingua de un software ultra popular como Firefox, illo es un instrumento de programmation familiar e ideal in le dominio del open-source.</para>
+        </listitem>
+      </itemizedlist>Omne le linguas ha accesso al modello a objectos OmegaT, con le projecto como objecto culmine. Per exemplo, le sequente snippet de codice Groovy scande a transverso tote le segmentos in tote le files in le actual projecto e, si un traduction existe, imprime le fonte e le destino del segmento:</para>
+
+    <programlisting>    files = project.projectFiles;
+    for (i in 0 ..&lt; files.size())
+    {
+        for (j in 0 ..&lt; files[i].entries.size())
+        {
+            currSegment = files[i].entries[j];
+            if (project.getTranslationInfo(currSegment))
+            {
+                source = currSegment.getSrcText();
+                target = project.getTranslationInfo(currSegment).translation;
+                console.println(source + &quot; &gt;&gt;&gt;&gt; &quot; + target);
+            }     
+        }
+    }</programlisting>
+  </section>
+</section>

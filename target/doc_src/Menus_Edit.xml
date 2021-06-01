@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.edit">
+  <title>Modificar</title>
+
+  <para>Iste menu monstra entratas solo quando un projecto es aperte.</para>
+
+  <variablelist>
+    <varlistentry>
+      <term><guimenuitem>Disfacer le Ultime Action</guimenuitem></term>
+
+      <listitem>
+        <para>Restaura le stato anterior al ultime modifica. Iste commando non functiona si le segmento modificate ha essite validate.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Refacer le ultime action</term>
+
+      <listitem>
+        <para>Restaura le stato anterior al ultime modifica cancellate. Iste commando non functiona si le segmento modificate ha essite validate.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Replaciar con le concordantia o le selection</term>
+
+      <listitem>
+        <para>Reimplacia le integre segmento final con le concordantia partial actualmente seligite (de norma es seligite le prime concordantia).</para>
+
+        <para>Si alcun texto del concordantia partial es seligite, solo iste selection replaciara tote le segmento de destination.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Inserer le concordantia o le selection</term>
+
+      <listitem>
+        <para>Insere le concordantia partial actualmente seligite al position del cursor. Si esseva seligite parte del segmento, iste function superscribe le portion seligite.</para>
+
+        <para>Si alcun textos es seligite intra le concordantia partial, solmente iste selection essera inserite al position del cursor.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Replaciar con le traduction automatic</term>
+
+      <listitem>
+        <para>Replacia le segmento final con le traduction fornite per le servicio de traduction automatic eligite. Nulle action es prendite, si nulle servicios de traduction automatic ha essite activate (in <menuchoice> <guimenu>Optiones</guimenu> <guimenuitem>Traduction automatic</guimenuitem> </menuchoice>).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Reimplaciar con fonte</term>
+
+      <listitem>
+        <para>Replacia le integre segmento de destination con le segmento fonte.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Inserer fonte</term>
+
+      <listitem>
+        <para>Insere le segmento original al position del cursor.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Inserer le tags fonte mancante </term>
+
+      <listitem>
+        <para>Insere le tags fonte (si illos esseva perdite) al position del cursor.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Inserer le Tag Mancante Sequente</term>
+
+      <listitem>
+        <para>Insere sol un tag (inter le unos perdite) al position del cursor.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Exportar le selection</term>
+
+      <listitem>
+        <para>Exporta le selection currente in un file de texto pro processar lo. Si non era seligite nulle texto, le segmento fonte actual es scripte in iste file. Quando le usator claude <application>OmegaT</application>, iste file non es vacuate, pro esser consistente con le comportamento usual del tabula del fragmento. Le contentos exportate es copiate in le file <filename>selection.txt</filename> ubicate in le User's preference files plica.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Crear un entrata del glossario</term>
+
+      <listitem>
+        <para>Permitte al usator de crear un entrata in le file glossario base.</para>
+
+        <para>Si tu elige un fila de texto (in qualcunque quadro) ante pulsar <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>, le texto essera collate per option predefinite in le campo<guilabel>Termino fonte</guilabel>.</para>
+
+        <para>Isto pote applicar se alsi al campos <guimenuitem>Termino de destination</guimenuitem> e <guimenuitem>Commento </guimenuitem>si nove selectiones es facite e pulsate de novo <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Recerca le projecto...</term>
+
+      <listitem>
+        <para>Aperi un nove <link linkend="windows.textsearch">Fenestra de Recerca</link>.</para>
+
+        <para>Si tu elige un fila de texto (in qualcunque quadro) ante pulsar <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>, le texto essera collate de norma in le campo <guilabel>Cercar pro</guilabel>.</para>
+
+        <para>Le pulsata <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>F</keycap> </keycombo> monstra le ultime fenestra de recerca jam aperite (in vice del apertura de uno nove).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Cercar e Replaciar...</term>
+
+      <listitem>
+        <para>Aperi un nove <link linkend="windows.textreplace">fenestra de Cerca e Reimplacia</link>.</para>
+
+        <para>Si tu elige un fila de texto (in qualcunque quadro) ante pulsar <keycombo> <keycap>Ctrl</keycap> <keycap>K</keycap> </keycombo>, le texto essera collate per option predefinite in le campo <guilabel>Cercar pro</guilabel>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Cercar in dictionarios</term>
+
+      <listitem>
+        <para>Si le <link linkend="dialogs.preferences.dictionary">recerca automatic in le dictionarios</link> es disactivate, iste function te permitte de cercar le parola seligite in le dictionarios.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Commutar inter litteras majuscule e minuscule</term>
+
+      <listitem>
+        <para>Excambia majusculas e minusculas del texto evidentiate in le segmento de destination al option selecte (Minusculas, Majusculas, Titulo o Sententia). Usar Shift+F3 &lt;i0/&gt;pro cyclar inter le quatro alternativas. Si nulle texto es seligite, <application>OmegaT</application> selige le parola que contine le littera immediatemente al dextera del cursor.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Eliger le concordantia</term>
+
+      <listitem>
+        <para>Selige le previe, le sequente o le Nme concordantia partial monstrate in le quadro del concordantias partial pro replaciar o inserer lo in le segmento.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Usa como Traduction Base</term>
+
+      <listitem>
+        <para>Si il ha plure traductiones alternative disponibile pro le segmento active, tu pote etiquettar le alternativa seligite como traduction base. Le entrata essera colorate gris, si il ha sol un traduction disponibile.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Crear un traduction alternative</term>
+
+      <listitem>
+        <para>Le mesme segmento pote, dependente del contexto, requirer traductiones distincte. Selige iste commando del menu, si le traduction currente non referer se e inscribe le traduction alternative.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Remover le Traduction</term>
+
+      <listitem>
+        <para>Cancella le traduction e pone le segmento como non rendite.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Fixar un traduction vacue</term>
+
+      <listitem>
+        <para>Defini le traduction qual vacue. In le documento rendite, pro iste segmento apparera nihil. In le Modificar, le traduction es monstrate como &lt;VACUE&gt;</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Registrar un Identic traduction</term>
+
+      <listitem>
+        <para>Usa iste commando pro registrar le traduction identic al fonte, mesmo si <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>Consentir traduction equal a fonte</guilabel></link> non es marcate.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<chapter id="panes">
+  <title>Quadros</title>
+
+  <para>Le principal fenestra  consiste in plure quadros, le  menu principal e  un  barra de stato. Tu pote cambiar le position de qualcunque quadro o etiam levar lo a un fenestra separate cliccante e tirante le quadro ab su nomine Dependente del stato del quadro, a su angulo del summitate dextre, pote apparer signos differente a su angulo del summitate dextere:</para>
+
+  <note>
+    <para>Si tu non pote vider tote le quadros (sia los aperte o minimisate), que tu pulsa <guisubmenu> Optiones &gt; Restaura Fenestra Principal </guisubmenu> e tu restaurara los al lor preparation initial.</para>
+  </note>
+
+  <table>
+    <title>Etiquettas del Quadro</title>
+
+    <tgroup cols="2">
+      <colspec align="left" colnum="1"/>
+
+      <tbody>
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Minimize.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Minimize.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>minimisa le quadro, assi que es monstrate sol su nomine al pede del fenestra</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Maximize.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Maximize.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>maximisa le quadro</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Restore.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Restore.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>restaura le arrangiamento precedente le grado maximisation</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Undock.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Undock.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>leva le quadro ex le fenestra principal</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Dock.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Dock.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>re pone le quadro intra le fenestra principal</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+
+  <para>Tu, si lo vole, pote superponer le quadros. Quando isto is facite le quadros monstra un linguetta al summitate. Quando isto is facite le quadros monstra un linguetta al summitate. Si tu deberea perder tracia de tu cambios al interfacie del usator, tu pote usar <guimenuitem>Optiones → Restaura le fenestra principal</guimenuitem> in omne tempore pro retornar al arrangiamento original.</para>
+
+  <para>Il es possibile traher e deponer files pro cata quadro, que reagera in accordo.<itemizedlist>
+      <listitem>
+        <para>Quadro del Editor: si un file de projecto OmegaT (<filename>omegat.project</filename>) es deponite in iste quadro, le correspondente projecto essera aperte, claudente antea qualcunque projecto aperte. Altere files deponite essera copiate al plica <filename>fonte</filename>. Isto se applica alsi al fenestra del <link linkend="windows.projectfiles">Files de projecto</link>.</para>
+      </listitem>
+
+      <listitem>
+        <para>Quadro del concordantias partial: le files <filename>.tmx</filename> ibi deponite essera copiate al plica <filename>tm</filename>.</para>
+      </listitem>
+
+      <listitem>
+        <para>Quadro del Glossario: le files deponite con le extensiones note del glossario (<filename>.txt</filename>, <filename>.tab</filename>, et cetera.) essera copiate al plica del <filename>glossario</filename>.</para>
+      </listitem>
+    </itemizedlist></para>
+
+  <section id="editor.pane">
+    <title>Editor</title>
+
+    <para>Isto es ubi tu scribe e modifica (edita) tu traduction. Le quadro Modifica monstra le texto del documento partialmente rendite: le texto ja rendite es displicate in traduction e le texto non rendite es monstrate in le lingua original. Le texto monstrate es fisse in segmentos e tu pote rolar a a transverso del documento e  cliccar duo vices sur cata segmento pro aperir e modificar lo. In le caso precedente, le segmentos jam rendite es monstrate in jalne.</para>
+
+    <para>Uno del segmentos super es le segmento actual. Il es le segmento que es monstrate in duo partes. Le parte superior es in le lingua fonte, in characteres nigrate con un color de fundo verde, le parte inferior es le campo de modifica, terminate per un marcator: le marcator es <literal>&lt;segment nnnn&gt;</literal> ubi nnnn es un numero de segmento in le projecto. Usa le parte superior como un referentia e reimplacia o modifica le contentos del campo de modifica con tu traduction.</para>
+
+    <para>Nota: le marcator del segmento monstra <literal>&lt;segmento nnnn +yy plus&gt; quando le segmento es non-unic. In ille caso, yy es le numero del altere occurrentias del segmento in le projecto.</literal></para>
+
+    <para>Secundo le preferentias del comportamento del modifica, le campo pro le modifica del segmentos non rendite pote essere vacue , continer le texto original, o continer le traduction del linea de character maxime simile a uno a render. Quando tu move a un altere segmento, le traduction es validate e registrate in le memoria de traduction. Si tu vole que le traduction sia identic al origine, vacua simplemente le campo de modifica removente tote le texto (selige omne con <keycap>Ctrl+A</keycap> e dele con <keycap>Del</keycap>). OmegaT es capabile de registrar traductiones que es identic al texto fonte. Isto es utile pro textos continente marcas commercial, nomines o altere nomines proprie, o partes in un lingua tertia que non require traduction. Vide <emphasis>Modifica (edition) del traduction</emphasis> for plus de detalios.</para>
+
+    <para>Si tu clicca dextre sur le quadro del Editor, se aperi un menu que offere:<emphasis role="bold"> Secar, Copiar, Collar</emphasis> (le mesme functiones que: <keycombo> <keycap>Ctrl</keycap> <keycap>X</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>C</keycap> </keycombo> e <keycombo> <keycap>Ctrl</keycap> <keycap>V</keycap> </keycombo>), le functiones <emphasis role="bold">Ir al segmento</emphasis> e <emphasis role="bold">Adder un entrata al glossario</emphasis>. In addition, quando le clic dextre occurre sur un segmento aperte, es proponite altere optiones concernente <emphasis role="bold">Traductiones alternative</emphasis>, per exemplo pro saltar a un altere instantia del segmentos non-unic.</para>
+
+    <para>Il es possibile traher texto ab ubicunque in le fenestra e deponer lo in le segmento de destination. Le texto trahite ex le externo del segmento de destination es copiate, in vice le texto trahite ab le interno del segmento es movite.</para>
+
+    <para>Per option predefinite, il non es possibile eliger parolas in le segmento fonte per le claviero plus tosto que per le mus. Pulsante le clave <keycap>F2</keycap> consenti mover le cursor in le segmento fonte (o ubicunque in le editor) con flechas del claviero. In iste modo, &quot;<guilabel>Cursor non blocate</guilabel>&quot; es displicate al  basso del quadro. Pro revenir al modo standard &quot;<guilabel>Cursor blocate</guilabel>&quot;, pulsar ancora <keycap>F2</keycap>.</para>
+  </section>
+
+  <section>
+    <title>Concordantias partial</title>
+
+    <para>Le quadro del concordantias monstra le segmentos le plus similabile, sia ex le memoria de traduction del projecto interne create in tempore actual como tu rende tu projecto e  ex memorias de traduction auxiliar que tu ha importate ex tu obras precedente, o recipite ex tu cliente o agentia del traduction.</para>
+
+    <para>Quando tu move al segmento proxime, le prime concordantia partial (illo con le melior percentage de concordantia) es seligite automaticamente. Tu pote eliger un differente concordantia pulsante <guimenuitem>Ctrl+2, 3, 4, o 5</guimenuitem>. Obviemente, pressar <keycombo> <keycap>Ctrl</keycap> <keycap>5</keycap> </keycombo> habera nulle effecto, si il ha nulle concorda #5. Pro usar le concordantia seligite in tu traduction, usa <guimenuitem>Ctrl+R</guimenuitem>pro reimplaciar le campo final con le concordantia o usa <guimenuitem>Ctrl+I </guimenuitem> pro inserer lo al position del cursor.</para>
+
+    <para>Le tres percentages concordante es in le sequente ordine:<itemizedlist>
+      <listitem>
+		  <para>le percentage calculate con recerca del radices<footnote>
+		  <para>Vide <ulink url="https://en.wikipedia.org/wiki/Stemming">https://en.wikipedia.org/wiki/Stemming</ulink></para>
+		  </footnote>e ignorante tags e numeros (generalmente le major)</para>
+	  </listitem>
+      <listitem>
+		  <para>le percentage calculate sin recerca del radices e ancora ignorante tags e numeros (generalmente un pauc inferior)</para>
+	  </listitem>
+      <listitem>
+		  <para>le percentage calculate con le texto complete, anque le tags e numeros (generalmente le plus basse)</para>
+	  </listitem>
+    </itemizedlist>
+    </para>
+
+    <para>Il es possibile modificar le verso de ordinamento del tres percentages ma non qual es usate pro eliger le concordantias partial.</para>
+
+    <para>Le concordantia partial seligite es marcate in nigrato, le parolas que es mancante in le segmento que tu rende es colorate azur e le parolas adjacente al partes mancante in verde. In le precedente exemplo le segmento fonte es <emphasis role="bold">Commando del menu contexto</emphasis>. Le concordantia summe es 100%, proque omne parolas concorda. Assi facer le sequente duo concordantias, e le concordantia #4 son similabile, ma differente. Le linea con le percentage del concordantia include alsi le nomine del memoria de traduction continente le concordantia. Si il ha nulle nomine del file monstrate, le fonte es le memoria de traduction interne del projecto. Segmentos orphane&lt;i2/&gt; (le concordantia #2) describe segmentos in le memoria de traduction base del projecto, que non ha alicun segmento fonte correspondente.</para>
+  </section>
+
+  <section>
+    <title>Glossario</title>
+
+    <para>Le quadro del Glossario permitte te de acceder tu proprie collection de expressiones e terminologia specialistic le qual tu ha create in tu files glossario. Illo monstra le traduction del terminos trovate in le segmento currente. Le segmento original in le exemplo sequente era “<emphasis>Commando del menu contexto</emphasis>”, como in le exemplo de concordantias partial precedente, e le terminos monstrate esseva trovate in le glossarios, disponibile (Microsoft's Term collection e Slovenian Linux User group Glossary).</para>
+
+    <para>Si tu ha le option TransTips activate (<guimenuitem>Optiones → TransTips</guimenuitem>), tu pote cliccar con le dextro sur le parola marcate in le segmento fonte pro aperir un menu pop-up con le traduction suggerite, assi como offerite per tu glossarios. Selectionante uno de illos on inserera lo al position currente del cursor in le segmento final. Tu pote anque marcar tu alternativa ideal in le quadro del Glossario atque inserer lo in le destination cliccante con le dextro sur le selection.</para>
+  </section>
+
+  <section>
+    <title>Dictionario</title>
+
+    <para>Le Dictionarios es le equivalentes electronic de dictionarios imprimite como Merriam Webster, Duden, Larousse et cetera, que on pote haber sur su scriptorio. Vide plus re illos in le capitulo re <link linkend="appendix.dictionaries">Dictionarios</link></para>
+  </section>
+
+  <section>
+    <title>Traduction automatic</title>
+
+    <para>Le quadro del Traduction Automatic, quando aperte, contine le suggestiones ex instrumentos de traductor automatic pro le segmento currente. Pulsar <keysym>Ctrl+M</keysym> pro reimplaciar le traduction del segmento currente con le traduction automatic suggerite.</para>
+  </section>
+
+  <section>
+    <title>Traductiones Multiple</title>
+
+    <para>Un date segmento fonte pote requirer plure traductiones differente, dependente del contexto. Si le traduction currente del segmento non conveni, le usator pote seliger <guisubmenu>Modifica → Crea Traduction Alternative</guisubmenu>. Le texto final inscribite post que essera tractate ut un traduction alternative del segmento original. Tu pote definir uno del alternativas - per exemplo le plus probabile inter illos - como traduction base seligente <guisubmenu>Modifica → Usa como traduction base</guisubmenu></para>
+  </section>
+
+  <section>
+    <title>Notas</title>
+
+    <para>Le traductor pote adder notas al segmento aperte, per exemplo pro retornar plus tarde al segmento e refacer le traduction, controlar que le traductiones alternative es correcte o pro demandar al collegas lor opinion. Tu pote pascer al transverso del notas per <guisubmenu>Vade → Nota sequente</guisubmenu> e <guisubmenu>Vade → Nota previe</guisubmenu>.</para>
+  </section>
+
+  <section>
+    <title>Commentario</title>
+
+    <para>Alcun del Formatos del files, specialisate pro le labor de traduction, per exemplo PO, permitte le inclusion de commentos. In iste maniera le traductor pote esser supplite le contexto re le segmento que debe esser rendite. In le exemplo sequente, le autor del file PO ha includite un advertimento pro le traductor pro controlar le longitude del traduction:</para>
+  </section>
+
+  <section>
+    <title>Barra del Stato</title>
+
+    <para>Le barra de stato monstra messages  pertinente le fluxo de labor al fundo del fenestra principal. Iste barra da al usator le information de retorno re specific operationes que es in progresso. Illo alsi monstra le numero de concordantias partial e del glossario pro le segmento actual.</para>
+
+    <para>Le contatores in le angulo dextre inferior tene tracia del progresso del traduction (le numeros in le columna sinistre refere se al figura precedente):</para>
+
+    <table>
+      <title>Fenestra principal - contatores</title>
+
+      <tgroup cols="2">
+        <colspec align="left" colnum="1"/>
+
+        <tbody>
+          <row>
+            <entry>27/27</entry>
+
+            <entry>numero de segmentos - rendite contra total in le file currente</entry>
+          </row>
+
+          <row>
+            <entry>9319/16338</entry>
+
+            <entry>numero de segmentos - unic contra total in le Projecto</entry>
+          </row>
+
+          <row>
+            <entry>31175</entry>
+
+            <entry>numero de segmentos total (includente repetitiones) in le projecto</entry>
+          </row>
+
+          <row>
+            <entry>103/114</entry>
+
+            <entry>numero de characteres original e final in le segmento currente</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+
+    <para>Ab un puncto de vista practic, the plus importante par de numeros is the secunde par: illo dice, quanto tu ha intertanto have facite, in relation al total o secunde numero. Le projecto in le exemplo es evidentemente finite, como tote le segmentos unic esseva jam rendite.</para>
+  </section>
+</chapter>

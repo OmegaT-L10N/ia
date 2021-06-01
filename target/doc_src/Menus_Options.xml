@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.options">
+  <title>Optiones</title>
+
+  <variablelist>
+    <varlistentry>
+      <term>Preferentias...</term>
+
+      <listitem>
+        <para>Aperi le fenestra de dialogo <link linkend="dialogs.preferences">Preferentias</link>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Traduction automatic</term>
+
+      <listitem>
+        <para>Permitte te de activar/disactivar le applicationes de Traduction Automatic offerite.</para>
+
+        <para>Si plure motores traduction es seligite, alora <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> es alsi usate pro commutar inter illos e insere le ultime un seligite.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Glossario</term>
+
+      <listitem>
+        <para>Selige <guimenuitem>Cercar in terminologia Taas</guimenuitem> pro activate iste recerca.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Dictionario</term>
+
+      <listitem>
+        <para>Controlar le option <guimenuitem>Usar concordantias partial le entratas del dictionario</guimenuitem> si tu vole que dictionarios monstra parolas que ha le mesme radice.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Auto-completamento</term>
+
+      <listitem>
+        <para>Si le option <guimenuitem>Monstrar automaticamente le suggestiones pertinente</guimenuitem> es marcate, le auto-completator es lanceate automaticamente per inserer le prime littera del un entrata de glossario rendite o per inserer &quot;&lt;&quot; in caso de tags.</para>
+
+        <para>Marca <guimenuitem>Completamento chronologia</guimenuitem> pro suggerer parolas a pena lor prime littera es scribite.</para>
+
+        <para>Marca <guimenuitem>Prediction chronologia</guimenuitem> pro suggerer parolas que communmente seque le parola que ha justo essite scribite.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Filtros de File...</term>
+
+      <listitem>
+        <para>Aperi le optiones in le fenestra de dialogo Preferentias <link linkend="dialogs.preferences.filefilters">filtros de files</link>.</para>
+
+        <para>Iste parametros es applicate a nivello de OmegaT, pro tote le projectos.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Segmentation...</term>
+
+      <listitem>
+        <para>Se displica le <link linkend="dialogs.preferences.segmentationsetup">Segmentation Preparar</link> optiones in le Preferentias Fenestra de dialogo del.</para>
+
+        <para>Iste parametros es applicate a nivello de OmegaT, pro tote le projectos.</para>
+
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Editor...</term>
+
+      <listitem>
+        <para>Aperi le optiones in le fenestra de dialogo Preferentias <link linkend="dialogs.preferences.editor">editor</link>.</para>
+
+        <para>Iste parametros es applicate a nivello de OmegaT, pro tote le projectos.</para>
+
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Acceder al plica de configuration</term>
+
+      <listitem>
+        <para>Aperi le local directorio ubi le files de configuration de OmegaT es registrate (depende del systema operative).</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

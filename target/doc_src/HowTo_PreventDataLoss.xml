@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="howto.preventdataloss">
+  <title>Impedir le perdita del datos</title>
+
+  <para><application>OmegaT</application> es un application robuste. Tamen, tu deberea sumer precautiones erga le perdita de datos quando usa <application>OmegaT</application>, justo como con omne altere application. Quando tu rende tu files, <application>OmegaT</application> registra tote tu progresso in le memoria de traduction <literal>project_save.tmx</literal> que reside in le sub plica del projecto <literal>/omegat</literal>.</para>
+
+  <para>OmegaT alsi reserva le memoria de traduction in project_save.tmx.YEARMMDDHHNN.bak in le identic sub plica cata vice que un projecto es aperte o recargate. YEAR es le anno in 4 cifras, MM es le mense, DD le die del mense, e HH e NN son le horas e minutas quando le previe memoria de traduction esseva salvate.</para>
+
+  <para>Si tu crede que tu ha perdite datos jam rendite, tu pote usar le procedura sequente pro restaurar le projecto a su stato le plus recentemente salvate, habitualmente non precedente que approximativemente 10 minutas o sic:</para>
+
+  <orderedlist>
+    <listitem>
+      <para>claude le projecto</para>
+    </listitem>
+
+    <listitem>
+      <para>renomina le file <filename>project_save.tmx</filename> actual ( per exemplo a <filename>project_save.tmx.temporary</filename>)</para>
+    </listitem>
+
+    <listitem>
+      <para>selige le memoria de traduction copia de reserva que es le plus probabile a continer le data pro le qual tu quere</para>
+    </listitem>
+
+    <listitem>
+      <para>renomina lo <literal>project_save.tmx</literal></para>
+    </listitem>
+
+    <listitem>
+      <para>Aperi le projecto</para>
+    </listitem>
+  </orderedlist>
+
+  <para>Pro evitar le perdita de datos importante:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>Face copias regular del file /omegat/project_save.tmx in un media de reserva, assi como CD o DVD.</para>
+    </listitem>
+
+    <listitem>
+      <para>Usque tu non es familiar con <application>OmegaT</application>, crea files rendite a intervallos regular e controla que le file rendite contine le ultime version de tu traduction.</para>
+    </listitem>
+
+    <listitem>
+      <para>Presta cura particular al cambios al files in  le plica <literal>/source</literal> durante que es in le medio de un projecto. Si le file fonte es modificate postquam tu ha initiate a render, <application>OmegaT</application> pote esser incapace a trovar un segmento que tu jam habeva rendite.</para>
+    </listitem>
+  </itemizedlist>
+
+  <itemizedlist>
+    <listitem>
+      <para>Usa iste textos de Adjuta pro initiar. Si tu deberea haber problemas, posta un message in le Gruppo del usator de <ulink url="https://omegat.org/support"><application>OmegaT</application></ulink>. Non hesitar a postar in le lingua con le qual senti te plus familiar.</para>
+    </listitem>
+  </itemizedlist>
+</section>

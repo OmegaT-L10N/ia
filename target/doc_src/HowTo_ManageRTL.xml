@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="howto.managerighttoleft">
+  <title>Gerer linguas de dextra a sinistra</title>
+
+   <para>Le justification del segmentos fonte e de destination depende ex le linguas del projecto. Per arrangiamento prefixate initial, le justification sinistre es usate pro le linguas ab Sinistra a Dextera (Left-To-Right - LTR) e le justification dextre pro le linguas ab Dextera a Sinistra (Right-To-Left - RTL). Tu pote commutar inter modos de monstra differente pulsante <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> (isto es le littera O e non le numeral 0). Le commutator <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> ha tres statos:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>- justification base, que es ut definite per le lingua</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>- justification sinistre</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>- justification dextre</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Usar le modo RTL in <application>OmegaT</application> non ha influentia alicun sur le modo de monstra del documentos rendite create in <application>OmegaT</application>. Le modo de monstra del documentos rendite debe esser modificate intra le application (como Microsoft Word) usate communmente pro monstrar o modificar los (controla le manuales pertinente pro le detalios). Usar <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> causa que ambe le textos cambia, illo inscribite e lo monstrate in <application>OmegaT</application>. Illo pote esser usate in modo  separate pro tote le tres quadros (Modifica, Concordantias Partial e Glossario) cliccante sur le quadro e commutante le modo de monstra. Illo pote alsi esser usate in tote le campos de entrata in <application>OmegaT</application> - in Fenestra de Recerca, pro le regulas de segmentation et cetera.</para>
+
+    <para>Que le usatores de Mac OS X nota: usar le via breve <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> e <emphasis role="bold">non </emphasis>cmd+Ctrl+O.</para>
+
+    <section>
+      <title>Miscer lineas de character RTL e LTR in le segmentos</title>
+
+      <para>Quando on scribe texto purmente RTL, pote esser usate le vista base (LTR). In multe casos, tamen, il es necessari incastrar texto LTR in texto RTL. Per exemplo, in le tags OmegaT, le nomines de producto que debe restar lassate in le lingua fonte LTR, pone recipientes in le files de localisation, e numeros in le texto. In casos como istos deveni necessari commutar al modo RTL, de maniera que le texto RTL (de facto bidirectional) sia monstrate correctemente. Que on observa que quando <application>OmegaT</application> es in modo RTL, tote le duo, le fonte e le destination son monstrate in modo RTL. Isto significa que si le lingua fonte es LTR e le lingua de destination es RTL, o vice versa, il pote esser necessari commutar in retro e in avante inter le modos RTL e LTR pro vider le fonte e inscriber le destination facilemente in lor respective modos.</para>
+    </section>
+
+    <section>
+      <title><application>OmegaT</application> tags in le segmentos RTL</title>
+
+      <para>Como constatate precedentemente, le tags OmegaT son lineas LTR. Quando on rende inter linguas RTL e LTR, legente correctemente le tags ex le fonte e inscribente illos debitemente in le destination pote requirer que le traductor commuta inter modos LTR e RTL numerose vices.</para>
+
+      <para>Si le documento permitte, le traductor es fortemente incitate a remover le information del stilo ab le documento fonte assi que in le interfacie OmegaT appare tam pauc tags quam possibile. Seque le indicationes date in Consilios pro le gestion del tags. Que tu valida frequentemente le tags (vide Validation del tag) e genera le documentos rendite (vide in sequito e Menu) a intervallos regular pro facer illo plus facile piscar tote le problemas que surge. Un consilio: render un version del file in texto simple e adder le stilo necessari in le application pertinente in un tempore subsequente, pote revelar se un incommoditate minor.</para>
+    </section>
+
+    <section>
+      <title>Crear documentos RTL rendite</title>
+
+      <para>Quando es create le documento rendite, su direction de monstra essera le mesme ut celle del documento fonte. Si le documento original esseva LTR, le direction de monstra del documento de destination debe esser cambiate manualmente a RTL in su application de vista. Cata formato emittite ha manieras specific de tractar con le monstra RTL; controla le manuales del application pertinente pro le detalios.</para>
+
+      <para>Pro le files .docx, alicun cambios son totevia facite automaticamente:<itemizedlist>
+          <listitem>Le paragraphos, sectiones e tabellas son fixate a bidi</listitem>
+
+          <listitem>Le elementos de texto son fixate a RTL</listitem>
+        </itemizedlist></para>
+
+      <para>Pro evitar de cambiar del parametros de apparentia del files de destination cata vece le files es aperte, il pote esser possibile cambiar le parametros de apparentia del files fonte assi como tal parametros es hereditate ex le files final. Iste modificationes es possibile in files ODF per exemplo.</para>
+
+  </section>
+</section>

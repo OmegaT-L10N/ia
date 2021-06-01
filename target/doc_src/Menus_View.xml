@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.view">
+  <title>Vider</title>
+
+  <variablelist>
+    <varlistentry>
+      <term>Marca le Segmentos Rendite</term>
+
+      <listitem>
+        <para>Si iste option es activate, le segmentos rendite essera marcate in jalne.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marca segmentos non rendite</term>
+
+      <listitem>
+        <para>Si activate, le segmentos non rendite essera marcate in violetto.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marcar le delimitationes de paragrapho</term>
+
+      <listitem>
+        <para>Si marcate, le separationes inter paragraphos in le documento fonte es indicate visualmente.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Monstra le Segmentos Fte</term>
+
+      <listitem>
+        <para>Si activate, le segmentos fonte essera monstrate e marcate in verde. Si non activate, le segmentos fonte non essera monstrate.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marca le Segmentos Non Unic</term>
+
+      <listitem>
+        <para>Si activate, le segmentos non unic essera marcate in gris pallide.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marca le Segmentos con Notas</term>
+
+      <listitem>
+        <para>Si activate, le segmentos con notas essera marcate in cyano. Iste remarca ha prioritate sur <guimenuitem>Marcar segmentos rendite</guimenuitem> e sur <guimenuitem>Marcar segmentos non rendite</guimenuitem>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marcar le spatios non-frangibile</term>
+
+      <listitem>
+        <para>Si activate, le spatios non  non-frangibile essera monstrate con un fundo gris.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marcar (&amp;k) le spatios blanc</term>
+
+      <listitem>
+        <para>Si activate, le spatios blanc essera monstrate con un parve puncto.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marcar algorithmo bidirectional de controlo characteres</term>
+
+      <listitem>
+        <para>Iste option monstra le <ulink url="http://www.w3.org/International/questions/qa-bidi-controls">characteres de controlo bidirectional</ulink></para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Marcar le segmentos auto-populate</term>
+
+      <listitem>
+        <para>Si marcate, le fundo de omne segmentos de destination que ha essite auto-populate (per exemplo per TMXs ubicate in le plica /tm/auto) es monstrate in color. Le colores es monstrate fin que le option <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Salvar stato auto-populated</guimenuitem></link> es marcate. Usualmente le traductiones inserite per le plica auto es monstrate in orange. Altere traductiones, identificate specificamente in le memorias TMX, pote esser monstrate con colores differente. Pro le detalios technic, vider le &lt;u0&gt;Requestas pro meliorationes&lt;/u0&gt;</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Aggressive  Font Fallback</term>
+
+      <listitem>
+        <para>Marca iste option in caso OmegaT non monstra propriemente alcun glyphos (mesmo si le typos de characteres continente le glyphos pertinente es installate sur tu machina). Nota: sur Windows sembla que iste mechanismo de reserva del typo de characteres manual pote interferer con le reserva standard, causante non desirabile substitution del typo de characteres. Pro iste ration, illo es DISACTIVATE per option predefinite.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Information de &amp;Modification</term>
+
+      <listitem>
+        <para>Prefixar le option Modification del apparentia a &lt;e0&gt;Segmento currente&lt;/e0&gt; monstrara le tempore e le autor del ultime cambio in le segmento currente. Prefixar illo a&lt;e1&gt; Omne le segmentos &lt;/e1&gt;monstrara iste informationes in tote le segmentos e &lt;e2&gt;Necun&lt;/e2&gt; disactiva iste option.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

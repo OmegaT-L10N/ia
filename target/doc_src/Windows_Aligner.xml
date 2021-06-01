@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="windows.aligner">
+  <title>Alinear</title>
+
+  <para>Alineamento implica creation de un memoria de traduction bilingue de documentos monolingue que ha jam essite traducite.</para>
+
+  <para>Acceder iste fenestra, eliger <menuchoice> <guimenuitem>Applicationes</guimenuitem> <guimenuitem>Alinear Files...</guimenuitem> </menuchoice>.</para>
+
+  <section>
+    <title>Grado 1: Adjustar le parametros de alineamento</title>
+
+    <para>Si le alineamento pare como si illo poterea esser meliorate, prova cambiar le parametros. In le major parte del casos, minor le es <guilabel>valutation medie</guilabel>, melior essera le alineamento.</para>
+
+    <para>In modo comparation <guilabel>Heapwise</guilabel>, le textos es valutate globalmente. In modo comparation <guilabel>Parsewise</guilabel>, illos es valutate segmento per segmento. Le option appare solo quando es possibile un selection simile.</para>
+
+    <para>Usa le modo comparation de <guilabel>ID</guilabel> pro alinear Key=Value texts. Iste opera mesmo si le claves non es in le mesme ordine in le duo files, e/o si le duo files non contine le mesme amonta de information. Iste option appare solo si ambe le files seligite es recognoscite como Clave=Valor files.</para>
+
+    <para>Le algorithmos <guilabel>Viterbi</guilabel> e <guilabel>Forward-Backward</guilabel> es duo differente methodos de calculation. Elige illo que forni le melior resultatos.</para>
+
+    <para>Clicca <guibutton>Continuar</guibutton> pro acceder le grado successive.</para>
+  </section>
+
+  <section>
+    <title>Grado 2: facer le correctiones manual</title>
+
+    <para>Post le procedura automatic, le alineamento del duo files generalmente require correctiones manual.</para>
+
+    <para>Le unitates de traduction es ubicate in cellas in le duo ultime columnas.</para>
+
+    <para>Pro alinear duo segmentos sur le mesme linea:</para>
+
+    <orderedlist>
+      <listitem>
+        <para>Elige le prime segmento.</para>
+      </listitem>
+
+      <listitem>
+        <para>Pulsa le barra spatio (via-breve pro <menuchoice> <guimenuitem>Rediger</guimenuitem> <guimenuitem>Initiar le alineamento precise</guimenuitem> </menuchoice>).</para>
+      </listitem>
+
+      <listitem>
+        <para>Clicca in le altere columna sur le traduction correspondente al prime segmento.</para>
+      </listitem>
+    </orderedlist>
+
+    <para>Post plure de iste operationes, elige <menuchoice> <guimenuitem>Rediger</guimenuitem> <guimenuitem>Re-alineamento pendente</guimenuitem> </menuchoice> pro actualisar le alineamento del altere segmentos.</para>
+
+    <para>Pro modificar le position de un o plus segmentos individualmente, elige le segmento(s) e pulsa <userinput>U</userinput> (<guilabel>Mover in alto</guilabel>) o <userinput>D</userinput> (<guilabel>Mover in basso</guilabel>).</para>
+
+    <para>Solo lineas con le cassa <guilabel>Mantener</guilabel> marcate in le prime columna essera includite quando le memoria de traduction es create.</para>
+
+    <para>Quando le duo columnas es sufficientemente alineate, clicca <guibutton>Salvar TMX...</guibutton> pro crear le memoria de traduction resultante.</para>
+  </section>
+</section>

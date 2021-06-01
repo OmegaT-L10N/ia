@@ -4,11 +4,9 @@
   <title>Personalisation del vias breve</title>
 
   <section id="ch04.shortcuts.customization">
-    <title><indexterm class="singular">
-        <primary>Personalisation</primary><secondary></secondary> del vias breve
-      </indexterm>Personalisation del vias breve</title>
+    <title>Personalisation del vias breve</title>
 
-    <para>On pote assignar nove vias breve al major parte del commandos que appare in le menu principal. Tu pote mutar le vias breve jam assignate e adder vias breve nove, ponente un file definition de via breve in tu plica del preferentias de OmegaT (vide <link linkend="user.files">Ubication del files del usator</link>).</para>
+    <para>On pote assignar nove vias breve al major parte del commandos que appare in le menu principal. Tu pote cambiar le vias breve jam assignate e adder nove vias breve ponente un file de definition de via-breve in tu plica del preferentias de <application>OmegaT</application> (accessibile per menu <menuchoice> <guimenuitem>Optiones</guimenuitem> <guimenuitem>Acceder plica de configuration</guimenuitem> </menuchoice>).</para>
 
     <para>Le file definition del via breve debe esser nominate <filename>MainMenuShortcuts.properties</filename> e debe continer al maximo un definition de via breve per cata linea. Le lineas vacue es acceptate e le lineas commento debera initiar con &quot;//&quot;. Alicun cosa post le &quot;//&quot; usque al fin del linea, essera ignorate.</para>
 
@@ -597,7 +595,7 @@
           </row>
 
           <row>
-            <entry>A le previe segmento</entry>
+            <entry>Al previe segmento</entry>
 
             <entry><keycap>Ctrl+P</keycap> or <keycap>Ctrl+Enter</keycap> or
             <keycap>Ctrl+Tab</keycap></entry>
@@ -606,7 +604,7 @@
           </row>
 
           <row>
-            <entry>A le segmento numero ...</entry>
+            <entry>Al segmento numero ...</entry>
 
             <entry><keycap>Ctrl+J</keycap></entry>
 
@@ -654,7 +652,7 @@
           </row>
 
           <row>
-            <entry>Retro in chronologia...</entry>
+            <entry>Retroceder in chronologia...</entry>
 
             <entry><keycap>Ctrl+Shift+P</keycap></entry>
 
@@ -671,11 +669,7 @@
     <table>
       <title>Menu Vista</title>
 
-      <indexterm class="singular">
-        <primary>Personalisation del vias breve</primary> <secondary>Menu Vista</secondary>
-      </indexterm>
-
-      <tgroup cols="3" colsep="1">
+       <tgroup cols="3" colsep="1">
         <colspec align="left" colname="1" colnum="1"/>
 
         <colspec align="left" colname="2" colnum="2"/>
@@ -734,7 +728,7 @@
           </row>
 
           <row>
-            <entry>Marca le Spatios Non-frangibile</entry>
+            <entry>Marcar le spatios non-frangibile</entry>
 
             <entry/>
 
@@ -742,7 +736,7 @@
           </row>
 
           <row>
-            <entry>Marca (&amp;k) un Spatio blanc</entry>
+            <entry>Marcar (&amp;k) le spatios blanc</entry>
 
             <entry/>
 
@@ -750,7 +744,7 @@
           </row>
 
           <row>
-            <entry>Marca algorithmo &amp;Bidirectional de controlo characteres</entry>
+            <entry>Marcar algorithmo bidirectional de controlo characteres</entry>
 
             <entry/>
 
@@ -758,7 +752,7 @@
           </row>
 
           <row>
-            <entry>Marca le Segmentos Auto-Populate</entry>
+            <entry>Marcar le segmentos auto-populate</entry>
 
             <entry/>
 

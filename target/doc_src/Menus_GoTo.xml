@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.goto">
+  <title>Ir a</title>
+
+  <para>Iste menu monstra entratas solo quando un projecto es aperte.</para>
+
+  <variablelist>
+    <varlistentry>
+      <term>Al Segmento sequente Non Rendite</term>
+
+      <listitem>
+        <para>Move al segmento sequente que es non dum registrate in le memoria de traduction del projecto.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Segmento Sequente Rendite</term>
+
+      <listitem>
+        <para>Move al segmento sequente ja traducite, ignorante le segmentos non rendite.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Al Segmento Sequente</term>
+
+      <listitem>
+        <para>Move al segmento sequente. Si le segmento currente es le ultime segmento in un file, illo move al prime segmento del file successive.</para>
+
+        <para>Nota: <keycap>Insere</keycap> es un via-breve alternative si le option <link linkend="dialogs.preferences.general.usetabtoadvance">Usa TAB pro Facer progreder</link> option non es activate.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Al previe segmento</term>
+
+      <listitem>
+        <para>Move al segmento previe. Si le segmento currente es le prime segmento del file, move al ultime segmento del file previe.</para>
+
+        <para>Nota: <keycombo> <keycap>Ctrl</keycap> <keycap>Enter</keycap> </keycombo> es un via-breve alternative si non es seligite le option <link linkend="dialogs.preferences.general.usetabtoadvance">Usar TAB pro facer avantiar</link>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Al segmento numero ...</term>
+
+      <listitem>
+        <para>Le segmento es aperte sia quando su call-out sia su numero  de segmento es inserite.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Nota sequente</term>
+
+      <listitem>
+        <para>Le segmento successive con un nota, aperira.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Nota Previe</term>
+
+      <listitem>
+        <para>Le segmento previe con un nota, aperira.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Fonte del concordantia seligite</term>
+
+      <listitem>
+        <para>Move al segmento que corresponde al concordantia currente seligite in le quadro <guilabel>Concordantias partial</guilabel>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Avante in chronologia...</term>
+
+      <listitem>
+        <para><application>OmegaT</application> recorda le segmentos exequite. Con iste commando tu pote facer un passo avante al segmento que tu ha previemente lassate per le commando <guimenuitem>Retroceder in chronologia</guimenuitem>...</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Retroceder in chronologia...</term>
+
+      <listitem>
+        <para>Con iste commando tu pote regreder un segmento a un vice, pro retornar al segmento currente per le commando sequente: <guimenuitem>Avantiar in chronologia...</guimenuitem></para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

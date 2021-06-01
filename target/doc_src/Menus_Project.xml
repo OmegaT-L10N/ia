@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.project">
+  <title>Projecto</title>
+
+  <variablelist>
+    <varlistentry>
+      <term><guimenuitem>Nove...</guimenuitem></term>
+
+      <listitem>
+        <para>Crea e displica un nove projecto.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term><guimenuitem>Discargar un projecto de equipa...</guimenuitem></term>
+
+      <listitem>
+        <para>Crea un copia local de un projecto OmegaT remote. Vide <link linkend="howto.useteamproject">Usar un projecto de equipa</link> pro detalios.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Aperir...</term>
+
+      <listitem>
+        <para>Aperi un projecto create anteriormente.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Aperir un projecto recente</term>
+
+      <listitem>
+        <para>Da accesso al dece ultime projectos modificate. Cliccante sur uno, salvara le projecto currente, lo claudera e aperira illo cliccate.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Copiar le files in le plica \source...</term>
+
+      <listitem>
+        <para>Copia le files seligite in le plica <filename>source</filename> e  recarga le projecto pro cargar le nove files.<filename></filename></para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Discargar un pagina MediaWiki...</term>
+
+      <listitem>
+        <para>Pro traducer le contentos de un pagina Wikipedia (per exemplo):</para>
+
+        <orderedlist>
+          <listitem>
+            <para>Clicca le etiquetta <guilabel>Editar</guilabel> sur le pagina Wikipedia.</para>
+          </listitem>
+
+          <listitem>
+            <para>Copia le URL del pagina (finiente con <guilabel>action=edit</guilabel>) e colla lo in <application>OmegaT</application>.</para>
+          </listitem>
+        </orderedlist>
+
+        <para>Quando tu ha claudite tu traduction, pro importar lo in Wikipedia:</para>
+
+        <orderedlist>
+          <listitem>
+            <para>Aperir le file <filename>.UTF8</filename> generate in le plica <filename>/target</filename>.</para>
+          </listitem>
+
+          <listitem>
+            <para>Copia le texto e colla lo in le version traducite del pagina Wikipedia.</para>
+          </listitem>
+        </orderedlist>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Recargar</term>
+
+      <listitem>
+        <para>Recarga le projecto pro prender cambiamentosos externe in file fonte e le parametros del projecto in conto.</para>
+
+        <para>Nove memorias de traduction ponite in le plica <filename>/tm</filename> durante le traduction es cargate automaticamente a pena le cursor move de un segmento a un altere.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Clauder</term>
+
+      <listitem>
+        <para>Salva tu traduction e claude le projecto.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Salvar</term>
+
+      <listitem>
+        <para>Salva le memoria de traduction interne in le disco dur. OmegaT automaticamente salva le traductiones cata 3 minutas e quando tu claude tu projecto o tu quita OmegaT.</para>
+
+        <para>Le intervallo de 3 minutas pote esser cambiate in <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Optiones</guimenuitem> <guimenuitem>Preferentias</guimenuitem> <guimenuitem>Salvamento e exito</guimenuitem> </menuchoice></link>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Inviar files fonte</term>
+
+      <listitem>
+        <para>Cargas in le repositorio le files que ha essite addite o modificate localmente in le directorio <filename>source</filename>.</para>
+
+        <para>Iste function es specific pro projectos de equipa.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Committer le files de destination</term>
+
+      <listitem>
+        <para>Carga in le repositorio le files que ha essite create localmente in le directorio <filename>target</filename>.</para>
+
+        <para>Iste function es specific pro projectos de equipa.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Crear le documentos rendite</term>
+
+      <listitem>
+        <para>Crea le documentos de destination in base a tu traduction. Le documentos final create es ubicate in le plica <filename>target</filename>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Crear le Documento Rendite Actual</term>
+
+      <listitem>
+        <para>Crea le documento de destination in su proprie formato final correspondente al documento actualmente in traduction.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Aperir un projecto MED...</term>
+
+      <listitem>
+        <para>Aperi un pacchetto de projecto in formato MED definite per le Directorate-General del Union europee pro le traduction.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Crear un projecto MED...</term>
+
+      <listitem>
+        <para>Converte le projecto actual in un pacchetto MED.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Proprietates...</term>
+
+      <listitem>
+        <para>Monstra le fenestra de dialogo <link linkend="dialogs.projectproperties">Proprietates del projecto</link> pro editar le linguas e le locationes del plica del projecto.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Files del projecto ...</term>
+
+      <listitem>
+        <para>Aperi le fenestra <link linkend="windows.projectfiles">Files del projecto</link>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Acceder le contentos del projecto</term>
+
+      <listitem>
+        <para>Da accesso al plicas del projecto.</para>
+
+        <para>In addition, duo entratas del menu consenti le apertura directemente del actual documentos fonte e de destination e del glossario scribibile. Le documentos es aperte per le application eligite per le systema operative. Si le documentos non es disponibile, le entrata es gris.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Quitar</term>
+
+      <listitem>
+        <para>Salva le projecto e quita <application>OmegaT</application>. Si tu non ha adhuc salvate le projecto, isto confirma manualmente si tu vermente desidera quitar.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

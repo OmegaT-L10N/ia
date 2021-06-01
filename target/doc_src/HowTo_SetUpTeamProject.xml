@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="howto.setupteamproject">
+  <title>Preparar un Projecto de equipa</title>
+
+  <para>Le preparation de un projecto de equipa necessita alcun cognoscentia de servitores e systemas de controlo de version SVN o Git. Lo deberea assi esser cunducite per un gestor de projecto, un leader de projecto o un ingeniero de localisation.</para>
+
+  <para>Pois que plure informationes re SVN e Git es facilemente disponibile, nos non vole describer hic como illos functiona, ma solo como OmegaT functiona con illos.</para>
+
+  <section>
+    <title>Passo 1: Crea un projecto vacue sur un servitor</title>
+
+    <para><emphasis role="bold">Creation se un projecto vacue sur un servitor</emphasis></para>
+
+    <orderedlist>
+      <listitem>
+        <para>Crear un repositorio SVN o Git sur un servitor que essera accessibile per le traductores.</para>
+      </listitem>
+
+      <listitem>
+        <para>Crea un copia local del repositorio (<command>check out</command> con SVN, <command>clone</command> con Git).</para>
+      </listitem>
+
+      <listitem>
+        <para>Crea un nove, projecto OmegaT vacue in le repositorio local. Isto pote esser facite in duo manieras:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><menuchoice>
+                <guimenuitem>Projecto</guimenuitem> <guimenuitem>Nove...</guimenuitem>
+              </menuchoice></para>
+          </listitem>
+
+          <listitem>
+            <para>sur le linea de commando: <command>java -jar OmegaT.jar team init [lang1] [lang2]</command></para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Adder le nove projecto OmegaT al systema controlo version (<command>add</command> con SVN e Git)</para>
+
+        <para>Nota: si le projecto ha essite create con le linea de commando al passo 3, iste passo ha jam essite facite per le programma.</para>
+      </listitem>
+
+      <listitem>
+        <para>Publicar le nove projecto OmegaT sur le servitor (<command>commit</command> con SVN, <command>commit</command> sequite per <command>push</command> con Git).</para>
+      </listitem>
+    </orderedlist>
+
+    <para><emphasis role="bold">Parametros specific</emphasis></para>
+
+    <para>Si le projecto usa specific parametros de filtros e segmentation, ambe le files <filename>filters.xml</filename> e <filename>segmentation.conf</filename> debe esser addite al systema controlo version e publicate sur le servitor.</para>
+  </section>
+
+  <section>
+    <title>Passo 2: adder files fonte e altere ressources</title>
+
+    <para>Usa un application cliente SVN o Git pro adder le files fonte.</para>
+
+    <para>Iste poter alsi esser facite intra OmegaT:</para>
+
+    <orderedlist>
+      <listitem>
+        <para>copia le files in le plica <filename>/source</filename></para>
+      </listitem>
+
+      <listitem>
+        <para>usa <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Inviar Files fonte</guimenuitem> </menuchoice></para>
+      </listitem>
+    </orderedlist>
+
+    <para>Pro adder altere ressources (dictionarios, TMXs o glossaries), usa un application cliente SVN o Git.</para>
+
+    <para>Pro <emphasis role="bold">deler files</emphasis>, usa un application cliente SVN o Git.</para>
+
+    <para>Nota que solo duo files es modificate per OmegaT durante le traduction:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para><filename>omegat/project_save.tmx</filename></para>
+      </listitem>
+
+      <listitem>
+        <para><filename>glossary/glossary.txt</filename></para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Tote le altere files es a sol lectura. Si le traductor tenta modificar los, illos recedera a lor original stato quandocunque le projecto es aperite, claudite, salvate o recargate.</para>
+  </section>
+
+  <section>
+    <title>Passo 3: Invia un invitation al traductor</title>
+
+    <para>Un vice que le projecto es definite sur le servitor, le gestor de projecto pote invitar le traductor a laborar sur illo in duo differente manieras:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>inviante le URL del projecto e demandante al traductor crear un copia local per <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Discargamento Projecto de equipa</guimenuitem> </menuchoice>.</para>
+      </listitem>
+
+      <listitem>
+        <para>inviante un file <filename>omegat.project</filename> que contine un referentia al URL e demandante al traductor de copiar lo in un plica dedicate e aperir lo con OmegaT.</para>
+
+        <para>Le referentia al URL es specificate como infra (hic in un repositorio Git):</para>
+
+        <programlisting>&lt;repositories&gt;
+ &lt;repository type=&quot;git&quot; url=&quot;https://repo_for_OmegaT_team_project.git&quot;&gt;
+  &lt;mapping local=&quot;&quot; repository=&quot;&quot;/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</programlisting>
+      </listitem>
+    </itemizedlist>
+
+    <para>In ambe casos, le gestor de projecto debe inviar al traductor lor ID e contrasigno pro acceder le repositorio.</para>
+
+    <para><emphasis role="bold">Controlo statistica</emphasis></para>
+
+    <para>Le Gestor de projecto debe controlar con le traductor que le statistica es identic sur ambe le lateres (latere servitor e latere traductor).</para>
+
+    <para>Si il ha ulle differentias, controlar que le <filename>filters.xml</filename> e <filename>segmentation.conf</filename> files es sub controlo de version.</para>
+  </section>
+
+  <section>
+    <title>Caso special: compartimento selective</title>
+
+    <para>Le procedura supra describe le caso usual, ubi le gestor de projecto vole haber controlo plen del projecto e ubi le files (e le statistica) es identic in ambe le lateres (del servitor e del traductor).</para>
+
+    <para>Le projectos de equipa de OmegaT pote alsi esser configurate in un maniera differente, ubi plure traductores comparti le project_save.tmx file ma non (tote) le files (fonte).</para>
+
+    <para>In iste caso, le procedura es identic, ma le gestor de projecto non adde (tote le) files a projecto in controlo de version. In vice, le traductores copia le files illes mesme, o adde mappas a synchronisa files ab altere positiones.</para>
+
+      <para>Le mappas pote esser addite via le interfacie de usator: <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Proprietates</guimenuitem> <guimenuitem>Mappa de repositorio</guimenuitem> </menuchoice> o per redaction de <filename>omegat.project</filename>.</para>
+  </section>
+
+  <section id="howto.setupteamproject.mappingparameters">
+    <title>Mappa del parametros</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>typo de repositorio:</term>
+
+        <listitem>
+          <para>Isto pote esser o http (que include https), svn, git o file.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>URL del repositorio:</term>
+
+        <listitem>
+          <para>Position o directorio remote del files fonte.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>mappa local</term>
+
+        <listitem>
+          <para>Nomine del plica o file local, relative al radice del projecto OmegaT.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>mappa repositorio</term>
+
+        <listitem>
+          <para>Nomine del plica o file remote, relative al URL del repositorio.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>exclusiones</term>
+
+        <listitem>
+          <para>Adde patronos per le wildcards (stilo Apache Ant): *, ?, **. Separa differente patronos con un puncto e virgula.</para>
+
+          <para>Examplo: <userinput>**/excludedfolder/**;*.txt</userinput> exclude files que ha /excludedfolder/ in the percurso, e files con le extension .txt.</para>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>inclusiones</term>
+
+        <listitem>
+          <para>Como supra.</para>
+
+          <para>Exemplo: <userinput>**/*.docx</userinput> pro adder tote le files .docx, ubi illos es ubicate in le projecto, mesmo in plicas excludite</para>
+
+          <para>De ordinario, tote le files que non es excludite es includite. Tu besonia de specificar solo isto pro supplantar alcun exclusiones.</para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+
+  <section>
+    <title>Exemplo mappas</title>
+
+    <para>Mappa del projecto predefinite:<programlisting>&lt;repositories&gt;
+ &lt;repository type=&quot;svn&quot; url=&quot;https://repo_for_OmegaT_team_project&quot;&gt;
+  &lt;mapping local=&quot;&quot; repository=&quot;&quot;/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</programlisting></para>
+
+    <para>Tote le contentos de <filename>https://repo_for_OmegaT_team_project</filename> es mappate in le projecto OmegaT local</para>
+
+    <para>Mappas pro projectos in un sub-plica del repositorio:<programlisting>&lt;repositories&gt;
+ &lt;repository type=&quot;svn&quot; url=&quot;https://repo_for_All_OmegaT_team_projects&quot;&gt;
+  &lt;mapping local=&quot;&quot; repository=&quot;En-US_DE_project&quot;/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</programlisting></para>
+
+    <para>Tote le contentos de <filename>https://repo_for_All_OmegaT_team_projects/En-US_DE_project</filename> es mappate in le projecto OmegaT local</para>
+
+    <para>Mappas pro altere fontes ab repositorio remote, con filtros:<programlisting>
+&lt;repositories&gt;
+ &lt;repository type=&quot;svn&quot; url=&quot;https://repo_for_All_OmegaT_team_project_sources&quot;&gt;
+  &lt;mapping local=&quot;source/subdir&quot; repository=&quot;&quot;&gt;
+   &lt;excludes&gt;**/*.bak&lt;/excludes&gt;
+   &lt;includes&gt;readme.bak&lt;/includes&gt;
+  &lt;/mapping&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</programlisting></para>
+
+    <para>Tote le contentos de <filename>https://repo_for_All_OmegaT_team_project_sources</filename> es mappate al plica source local del projecto OmegaT, excepte tote le files *.bak, salvo readme.bak.</para>
+
+    <para><programlisting>Mappas pro files fonte extra ab le web: &lt;repository type=&quot;http&quot; url=&quot;https://github.com/omegat-org/omegat/raw/master/&quot;&gt;
+ &lt;mapping local=&quot;source/Bundle.properties&quot; repository=&quot;src/org/omegat/Bundle.properties&quot;/&gt;
+&lt;/repository&gt;</programlisting></para>
+
+    <para>Le file remote <filename>https://github.com/omegat-org/omegat/crude/maestro/src/org/omegat/Bundle.properties</filename> es mappate al file local <filename>fonte/Bundle.properties</filename>.</para>
+
+    <para>Mappas con renomination:<programlisting>&lt;repository type=&quot;http&quot; url=&quot;https://github.com/omegat-org/omegat/raw/master/&quot;&gt;
+ &lt;mapping local=&quot;source/readme_tr.txt&quot; repository=&quot;release/readme.txt&quot;/&gt;
+&lt;/repository&gt;</programlisting></para>
+
+    <para>Le file remote <filename>https://github.com/omegat-org/omegat/crude/maestro/version/readme.txt</filename> es mappate in le file local <filename>fonte/readme_tr.txt</filename>.</para>
+
+    <para>Isto rende possibile renominar le file a traducer.</para>
+
+    <para>Mappas de file local:<programlisting>&lt;repository type=&quot;file&quot; url=&quot;/home/me/myfiles&quot;&gt;
+ &lt;mapping local=&quot;source/file.txt&quot; repository=&quot;my/file.txt&quot;/&gt;
+ &lt;mapping local=&quot;source/file2.txt&quot; repository=&quot;some/file.txt&quot;/&gt;
+&lt;/repository&gt;</programlisting></para>
+
+    <para>Le file local <filename>/home/me/myfiles/my/file.txt</filename> es mappate al file local <filename>source/file.txt</filename> e <filename>/home/me/myfiles/some/file.txt</filename> es mappate al file local <filename>source/file2.txt</filename>.</para>
+
+    <para>ATTENTION: si un file non existe, le projecto non cargara.</para>
+    <para>Tu pote adder quante mappas que tu desira, ma solo in le contexto de un projecto de equipa, i.e. un del mappas include omegat.project. Iste function es destinate a colliger files fonte, ma tu non es limitate al files fonte.</para>
+  </section>
+  <section>
+    <title>Nota re omegat.project e mappas</title>
+    <para>Quando tu crea un nove projecto e lo invia a un repositorio, le file <filename>omegat.project</filename> non contine ulle mappa. Quando tu discarga le projecto, le projecto es convertite a un projecto de equipa localmente e un mappa predefinite es addite.</para>
+    <para>Nota que le file omegat.project in le repositorio non es cambiate automaticamente e ancora non contine le mappas. Quando tu carga un projecto, tote le cambiamentos in le repositorio es copiate al projecto local, anque le file <filename>omegat.project</filename> con le parametros del projecto. Si le file non contine mappas, le mappas local existente es re-applicate, e solo illo. Tote le altere cambiamentos local al projecto es revertite. Si le file contine mappas, alora le cambiamentos local al mappas es perdite.</para>
+  </section>
+
+</section>

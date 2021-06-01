@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.help">
+  <title>Adjuta</title>
+
+  <variablelist>
+    <varlistentry>
+      <term>Manual del usator...</term>
+
+      <listitem>
+        <para>Aperi iste manual in le navigator predefinite.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Circa...</term>
+
+      <listitem>
+        <para>Monstra information de derecto de autor, creditos e licentia.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Last Changes...</term>
+
+      <listitem>
+        <para>Monstra le lista del nove functiones, meliorationes e reparationes de defecto pro cata nove edition.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Log...</term>
+
+      <listitem>
+        <para>Monstra le file registro del eventos currente Le titulo del fenestra de dialogo reflecte le file actualmente usate (que depende de quante instantias de OmegaT es fluente insimul).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Controlar pro actualisationes...</term>
+
+      <listitem>
+        <para>Controlos pro vider si un plus recente version de <application>OmegaT</application> ha essite publicate.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

@@ -1,0 +1,7 @@
+"JRELoadError" = "Impossibile cargar le ambiente Java runtime.";
+"JRExLoadError" = "Impossibile cargar un ambiente Java runtime %d.";
+"JRExLoadFullError" = "Iste application require que Java %d o subsequente es installate sur tu computator. Discarga e installa le ultime version de Java ex www.java.com e reproba.";
+"JDKxLoadFullError" = "Iste application require que un Java JDK %d o subsequente es installate sur tu computator. Discarga e installa le ultime Java JDK ex Oracle.com e reproba.";
+"MainClassNameRequired" = "Nomine de classe es necesse.";
+"JavaDirectoryNotFound" = "Impossibile enumerar contentos del directorio Java.";
+"BundlePathContainsColon" = "Impossibile lancear ab plica que contine un \"/\" in su nomine.";

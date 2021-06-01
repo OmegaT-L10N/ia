@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="howto.useteamproject">
+  <title>Usar un Projecto de equipa</title>
+
+  <para>Le projectos de equipa de OmegaT debe primo esser <link linkend="howto.setupteamproject">implementate</link> sur un servitor.</para>
+
+  <para>Pro usar un projecto de equipa per le prime vice, seque le procedura fornite per le gestor de projecto.</para>
+
+  <para>Un vice que le projecto ha essite aperite, le traduction procede in le mesme maniera como pro un projecto non de equipa, a exception del sequente punctos.</para>
+
+  <para><emphasis role="bold">Salvamento automatic</emphasis></para>
+
+  <para>Cata 3 minutas (predefinite), le projecto local es synchronisate con le repositorio remote de maniera que le gestor de projecto o le altere traductores pote vider e usar traductiones addite durante ille periodo.</para>
+
+  <para>Le intervallo de 3 minutas pote esser cambiate in <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Optiones</guimenuitem> <guimenuitem>Preferentias</guimenuitem> <guimenuitem>Salvamento e exito</guimenuitem> </menuchoice></link>.</para>
+
+  <para><emphasis role="bold">Files synchronisate</emphasis></para>
+
+  <para>Quandocunque le projecto es salvate automaticamente, ma alsi quando illo es aperite, claudite e recargate, solo duo files es realmente synchronisate:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para><filename>omegat/project_save.tmx</filename></para>
+    </listitem>
+
+    <listitem>
+      <para><filename>glossary/glossary.txt</filename></para>
+    </listitem>
+  </itemizedlist>
+
+  <para>Tote le altere files sera supplantate per le files in le repositorio remote.</para>
+
+  <para><emphasis role="bold">Addition de nove files fonte</emphasis></para>
+
+  <para>Pro adder un nove file fonte:</para>
+
+  <para><orderedlist>
+      <listitem>
+        <para>copia le files in le plica <filename>/source</filename></para>
+      </listitem>
+
+      <listitem>
+        <para>usa <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Inviar Files fonte</guimenuitem> </menuchoice></para>
+      </listitem>
+    </orderedlist>Le files fonte existente pote esser modificate, ma le operation del invio debe esser exequite ante un salvamento automatic e ante que le projecto es recargate o claudite.</para>
+
+  <para><emphasis role="bold">Deletion del files fonte</emphasis></para>
+
+  <para>Le files debe esser delite per le gestor de projecto.</para>
+
+  <para><emphasis role="bold">Cambiar regulas de segmentation o filtros de file</emphasis></para>
+
+  <para>Le parametros del projecto debe esser cambiate per le gestor del projecto.</para>
+
+  <para><emphasis role="bold">Laborar sin connexion</emphasis></para>
+
+  <para>Un projecto de equipa pote esser aperite e traducite sin connexion. Tote le cambiamentos sera synchronisate le proxime vice que un connexion es disponibile.</para>
+
+  <para>Pro laborar sin connexion:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>Disconnecte te del rete ante le apertura le projecto,</para>
+    </listitem>
+
+    <listitem>
+      <para>o aperi le projecto per le linea de commando con le option <command>--no-team</command>.</para>
+    </listitem>
+  </itemizedlist>
+</section>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="windows.projectfiles">
+  <title>Files del projecto</title>
+
+  <para>Iste fenestra es monstrate automaticamente quando OmegaT carga un projecto e sempre pulsante <menuchoice> <guimenuitem>Projecto</guimenuitem> <guimenuitem>Files del projecto...</guimenuitem> </menuchoice>.</para>
+
+  <para><remark>Nota:</remark> il es possibile inhibir le fenestra monstrate al apertura, definiente le parametro <emphasis>project_files_show_on_load</emphasis> a <emphasis>false</emphasis> in le file <filename>omegat.prefs</filename> (accessibile per menu <menuchoice> <guimenuitem>Optiones</guimenuitem> <guimenuitem>Acceder al plica del configuration</guimenuitem> </menuchoice>).</para>
+
+  <para>Usa <guimenuitem>Ctrl+L</guimenuitem> pro aperir e  <keycap>Esc</keycap> pro clauder lo. Le fenestra <guilabel>Files del projecto</guilabel> monstra le sequente informationes:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>le numero total del files traducibile in le projecto. Istos es le files presente in le plica /source in un formato que OmegaT es habile a recognoscer. Iste numero es monstrate in parentheses, proxime al titulo  del &quot;File de projecto&quot; </para>
+    </listitem>
+
+    <listitem>
+      <para>le lista de omne files traducibile in le projecto. Cliccar sur qualcunque file aperira lo pro le traduction</para>
+
+      <para>Inserer qualcunque texto aperira un campo <guilabel>filtro</guilabel> ubi partes del nomines de file pote esser inserite. Tu pote eliger un file con le claves <keycap>In alto</keycap> e <keycap>In basso</keycap> e aperir lo pro le traduction per pulsar <keycap>Enter</keycap></para>
+
+      <para>Nota: le nomines de file (in le prime columna) pote ser ordinate alphabeticamente cliccante in le titulo. Il es alsi possibile cambiar le position de un nomine de file, cliccante sur lo e pulsante le buttones <emphasis>Mover...</emphasis>.</para>
+
+      <para>Le clic dextre sur un nomine de file aperi un popup que consenti aperir le file fonte e (si illo existe) le file de destination.</para>
+    </listitem>
+
+    <listitem>
+      <para>Le entratas del file include lor nomines, typos de filtro de file, lor codification e le numero de segmentos que cata file contine</para>
+    </listitem>
+
+    <listitem>
+      <para>le numero total de segmentos, le numero de segmentos unic in toto le Projecto, e le numero de segmentos unic jam rendite es monstrate al fundo</para>
+    </listitem>
+  </itemizedlist>
+
+  <para>Le serie de segmentos <emphasis role="bold">Unic </emphasis>es computate per retener tote le segmentos e remover tote le segmentos duplicate. (Le definition de  “unic” is sensibile al majusculas e minusculas: &quot;Run&quot; e &quot;run&quot; es tractate como si es differente)</para>
+
+  <para>Le differentia inter &quot;Numero de segmentos&quot; e &quot;Numero de segmentos unic&quot; provide un idea approximative del numero del repetitiones in le texto. Nota tamen que le numeros non indica ut pertinente es le repetitiones: illos poterea significar phrases relativemente longe repetite plure vices (in le qual caso tu es fortunate) o illo poterea describer un tabula de parolas clave (non assi fortunate). Le file <filename>project_stats.txt</filename> ubicate in le plica omegat de tu projecto, contine information plus detaliate re le segmentos, partite per cata file.</para>
+
+  <para>Le modifica del regulas de segmentation pote modificar le numero del segmentos e del segmentos unic. Isto, comocunque, deberea generalmente esser evitate un vice que tu initiava le traduction del projecto. Vide le capitulo <emphasis>Regulas de segmentation</emphasis>pro plus de information.</para>
+
+  <para><emphasis role="bold">Adder files al projecto: </emphasis>Tu pote adder files fonte al projecto cliccante sur le button &quot;<guimenuitem>Importar files fonte...&quot;</guimenuitem>. Isto copia le files seligite in le plica <filename>source</filename> e recarga le projecto pro importar le files nove. Tu pote alsi adder files fonte a partir de paginas Internet, scripte in MediaWiki, cliccante sur le button<guimenuitem> &quot;Importar ex MediaWiki&quot;</guimenuitem> e providente le URL correspondente.</para>
+</section>
