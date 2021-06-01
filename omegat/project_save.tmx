@@ -13982,6 +13982,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215142Z" creationid="Melo46" creationdate="20210601T215142Z">
+        <seg>Characteres (con spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215131Z" creationid="Melo46" creationdate="20210601T215131Z">
+        <seg>Characteres (sin spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081655Z">
@@ -40159,6 +40175,22 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215339Z" creationid="Melo46" creationdate="20210601T215339Z">
+        <seg>Characteres restante (con spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215226Z" creationid="Melo46" creationdate="20210601T215226Z">
+        <seg>Characteres restante (sin spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081725Z">
@@ -42320,6 +42352,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T064944Z" creationid="Melo" creationdate="20160225T134656Z">
         <seg>Vider pro le valores valide de OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T214925Z" creationid="Melo46" creationdate="20210601T214925Z">
+        <seg>Vider Optiones &gt; Filtros de file pro un lista de formatos de file supportate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53573,6 +53613,22 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215111Z" creationid="Melo46" creationdate="20210601T215111Z">
+        <seg>Pro adder files al projecto tu pote
+- traher e deponer files sur iste Quadro editor
+- usar Projecto &gt; Copiar le files in le plica \source...
+- cliccar sur Copiar le files in le plica \source... in le fenestra Files del projecto
+- copiar files al plica 'source' del projecto con tu gestor de files, e pois recargar le projecto con Projecto &gt; Recargar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="ia" changeid="m" changedate="20210529T120353Z" creationid="m" creationdate="20210529T120353Z">
@@ -54750,6 +54806,22 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215319Z" creationid="Melo46" creationdate="20210601T215319Z">
+        <seg>Characteres total (con spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215156Z" creationid="Melo46" creationdate="20210601T215156Z">
+        <seg>Total Characteres (sin spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081724Z">
@@ -55858,6 +55930,22 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215415Z" creationid="Melo46" creationdate="20210601T215415Z">
+        <seg>Characteres un (con spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215238Z" creationid="Melo46" creationdate="20210601T215238Z">
+        <seg>Characteres unic (sin spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081732Z">
@@ -55870,6 +55958,22 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081741Z">
         <seg>Characteres unic cetere (includente spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215426Z" creationid="Melo46" creationdate="20210601T215426Z">
+        <seg>Characteres unic restante (con spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20210601T215303Z" creationid="Melo46" creationdate="20210601T215303Z">
+        <seg>Characteres unic restante (sin spatios)</seg>
       </tuv>
     </tu>
     <tu>
