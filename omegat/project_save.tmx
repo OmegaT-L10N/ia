@@ -23262,6 +23262,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T144305Z" creationid="will" creationdate="20211229T144305Z">
+        <seg>Recipite MIME TYPE impreviste {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160729T001559Z" creationid="Melo46" creationdate="20160729T001559Z">
@@ -35698,8 +35706,8 @@ tu plica home.</seg>
       <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
-      <tuv lang="IA" changeid="ia" changedate="20170909T172637Z">
-        <seg>OmegaT is the original work of Keith Godfrey. (OmegaT es le opera original de Keith Godfrey)</seg>
+      <tuv lang="IA" changeid="will" changedate="20211229T144128Z">
+        <seg>OmegaT es le opera original de Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
