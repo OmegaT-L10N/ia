@@ -23262,6 +23262,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T144330Z" creationid="will" creationdate="20211229T144330Z">
+        <seg>Recipite HTTP responsa impreviste {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Got unexpected MIME TYPE {0}</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20211229T144305Z" creationid="will" creationdate="20211229T144305Z">
