@@ -35109,6 +35109,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T164335Z" creationid="will" creationdate="20211229T164335Z">
+        <seg>OmegaT Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T134906Z" creationid="Karm46" creationdate="20171115T134906Z">
@@ -40176,8 +40184,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="EN">
         <seg>Reload the current project to apply these changes</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20211229T164043Z" creationid="will" creationdate="20211229T164043Z">
-        <seg>Reload the current project to apply these changes</seg>
+      <tuv lang="IA" changeid="will" changedate="20211229T164155Z" creationid="will" creationdate="20211229T164043Z">
+        <seg>Recargar le actual projecto pro applicar iste cambiamentos</seg>
       </tuv>
     </tu>
     <tu>
