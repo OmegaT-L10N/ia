@@ -35245,6 +35245,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T170955Z" creationid="will" creationdate="20211229T170955Z">
+        <seg>OmegaT releva automaticamente le files glossario in iste plica quando on aperi un projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130210T102017Z">
@@ -54034,6 +54042,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T150441Z">
         <seg>Pro deler le gruppos de tag, remove solmente los ex le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T171942Z" creationid="will" creationdate="20211229T171942Z">
+        <seg>Pro monstrar le &lt;g0&gt;Autocompletion&lt;/g0&gt; menu de contexto pro le concordantias de glossarios, colpa le systema operative dependente clave (&lt;k1&gt;Esc&lt;/k1&gt; pro macOS, &lt;k2&gt;Ctrl+Spatio&lt;/k2&gt; pro le altere platformas).</seg>
       </tuv>
     </tu>
     <tu>
