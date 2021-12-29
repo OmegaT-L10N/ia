@@ -51409,6 +51409,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T165255Z" creationid="will" creationdate="20211229T165255Z">
+        <seg>Ibi deberea esser tres files, con extensiones &lt;f2&gt;dz, idx &lt;/f2&gt;e &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170914T101234Z" creationid="Karm46" creationdate="20170914T101234Z">
@@ -56813,6 +56821,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T160902Z">
         <seg>Usa iste function quando tu ha levate, movite, o celate uno o plus componentes e tu non es habile a restaurar le disposition desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T165156Z" creationid="will" creationdate="20211229T165156Z">
+        <seg>Usa le utilitate untar (o su equivalente, per exemplo&lt;f0&gt; winrar&lt;/f0&gt; in Windows) pro extraher su contentos in le plica &lt;f1&gt;dictionary&lt;/f1&gt; del projecto.</seg>
       </tuv>
     </tu>
     <tu>
