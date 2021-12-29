@@ -18877,6 +18877,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T165102Z" creationid="will" creationdate="20211229T165102Z">
+        <seg>Discarga le file - isto deberea esser un archivo tarball (extension &lt;f0&gt;tar.bz&lt;/f0&gt; o &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T084742Z" creationid="Melo46" creationdate="20200730T084742Z">
