@@ -40975,6 +40975,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T144824Z" creationid="will" creationdate="20211229T144824Z">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T080130Z">
