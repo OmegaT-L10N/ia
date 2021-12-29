@@ -24839,6 +24839,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T165443Z" creationid="will" creationdate="20211229T165443Z">
+        <seg>Si illo es &lt;f0&gt;tar.bz&lt;/f0&gt;, tu ha oblidate a discassar (untar) lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130805T173320Z">
