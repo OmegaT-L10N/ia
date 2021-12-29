@@ -35109,10 +35109,18 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T164438Z" creationid="will" creationdate="20211229T164438Z">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Default</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20211229T164335Z" creationid="will" creationdate="20211229T164335Z">
-        <seg>OmegaT Base</seg>
+      <tuv lang="IA" changeid="will" changedate="20211229T164433Z" creationid="will" creationdate="20211229T164335Z">
+        <seg>OmegaT Predefinite</seg>
       </tuv>
     </tu>
     <tu>
@@ -35269,6 +35277,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T164447Z" creationid="will" creationdate="20211229T164447Z">
+        <seg>OmegaT thema classic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170909T234459Z" creationid="Karm46" creationdate="20170909T234459Z">
@@ -35297,6 +35313,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20210220T082228Z" creationid="Melo46" creationdate="20210220T082228Z">
         <seg>OmegaT actualmente require le version 1.8 de JRE o plus recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T164428Z" creationid="will" creationdate="20211229T164428Z">
+        <seg>OmegaT thema predefinite</seg>
       </tuv>
     </tu>
     <tu>
