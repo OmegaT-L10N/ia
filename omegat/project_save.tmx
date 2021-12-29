@@ -40174,6 +40174,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T164043Z" creationid="will" creationdate="20211229T164043Z">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T093512Z">
@@ -40977,8 +40985,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="EN">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20211229T164001Z" creationid="will" creationdate="20211229T144824Z">
-        <seg>Reinitiar OmegaT applicar iste cambiamentos</seg>
+      <tuv lang="IA" changeid="will" changedate="20211229T164019Z" creationid="will" creationdate="20211229T144824Z">
+        <seg>Reinitiar OmegaT pro applicar iste cambiamentos</seg>
       </tuv>
     </tu>
     <tu>
