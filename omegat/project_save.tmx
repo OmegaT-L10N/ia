@@ -54690,6 +54690,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211229T172238Z" creationid="will" creationdate="20211229T172238Z">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To untar the &lt;e1&gt;.tar.gz&lt;/e1&gt; file:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T222007Z">
