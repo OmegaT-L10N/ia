@@ -21014,8 +21014,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="EN">
         <seg>File format</seg>
       </tuv>
-      <tuv lang="IA" changeid="MELO" changedate="20130625T161328Z">
-        <seg>Formato del File </seg>
+      <tuv lang="IA" changeid="will" changedate="20211231T170356Z">
+        <seg>Formato del File</seg>
       </tuv>
     </tu>
     <tu>
@@ -35457,6 +35457,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T080553Z" creationid="Karm46" creationdate="20171115T215048Z">
         <seg>OmegaT pro Mac OS X es disponibile in ambe le versiones, signate e non signate; illos es functionalmente identic, ma le version signate es ideal pois que illos es recognoscite per le systema como esser publicate per un note disveloppator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20211231T170447Z" creationid="will" creationdate="20211231T170447Z">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
     </tu>
     <tu>
