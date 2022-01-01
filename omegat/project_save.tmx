@@ -22958,6 +22958,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220101T090437Z" creationid="will" creationdate="20220101T090437Z">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20210528T053228Z" creationid="Melo" creationdate="20210528T053228Z">
@@ -49855,8 +49863,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220101T090430Z" creationid="will" creationdate="20220101T090130Z">
-        <seg>Le glossario scribibile predefinite del p is always a TSV file saved in UTF-8 encoding.</seg>
+      <tuv lang="IA" changeid="will" changedate="20220101T090613Z" creationid="will" creationdate="20220101T090130Z">
+        <seg>Le glossario scribibile predefinite del projecto es sempre un TSV-file salvate in le codification UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
