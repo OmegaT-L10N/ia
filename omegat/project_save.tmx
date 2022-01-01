@@ -35463,8 +35463,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20211231T170447Z" creationid="will" creationdate="20211231T170447Z">
-        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      <tuv lang="IA" changeid="will" changedate="20220101T085602Z" creationid="will" creationdate="20211231T170447Z">
+        <seg>Le formato del files glossario es le texto simple de tres columnas, con le terminos fonte in le prime columna, le terminos de destination (facultative) in le secunde columna e commentos (facultative) in le tertie columna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38195,6 +38195,14 @@ toto.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T073426Z">
         <seg>Le files de texto simple contine solmente texto, assi lor traduction es simple como dactylographar le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220101T085224Z" creationid="will" creationdate="20220101T085224Z">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
       </tuv>
     </tu>
     <tu>
