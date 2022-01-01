@@ -9594,6 +9594,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220101T090127Z" creationid="will" creationdate="20220101T090127Z">
+        <seg>Un tertie formato poss le "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A translation may also be provided for information, but it has no legal validity.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130515T070949Z">
@@ -38201,8 +38209,8 @@ toto.</seg>
       <tuv lang="EN">
         <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220101T085224Z" creationid="will" creationdate="20220101T085224Z">
-        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      <tuv lang="IA" changeid="will" changedate="20220101T085712Z" creationid="will" creationdate="20220101T085224Z">
+        <seg>Glossarios de texto simple pote esser "tab separated values" (TSV) files o "comma separated values" (CSV) files.</seg>
       </tuv>
     </tu>
     <tu>
