@@ -9596,8 +9596,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220101T090127Z" creationid="will" creationdate="20220101T090127Z">
-        <seg>Un tertie formato poss le "TBX" (TermBase eXchange) ISO standard.</seg>
+      <tuv lang="IA" changeid="will" changedate="20220101T090218Z" creationid="will" creationdate="20220101T090127Z">
+        <seg>Un tertie formato possibile es le "TBX" (TermBase eXchange) ISO standardo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49849,6 +49849,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T085146Z">
         <seg>On non pote verificar le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220101T090430Z" creationid="will" creationdate="20220101T090130Z">
+        <seg>Le glossario scribibile predefinite del p is always a TSV file saved in UTF-8 encoding.</seg>
       </tuv>
     </tu>
     <tu>
