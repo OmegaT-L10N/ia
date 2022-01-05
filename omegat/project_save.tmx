@@ -36352,6 +36352,15 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Es isto correcte? Creante o quando creante? Discute con Carmelo.</note>
+      <tuv lang="EN">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the &lt;f0&gt;target&lt;/f0&gt; folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T163314Z" creationid="will" creationdate="20220105T163314Z">
+        <seg>OmegaT pois omittera le correspondente files quando carga projectos e los copiara non modificate al &lt;f0&gt;plica de destination&lt;/f0&gt; creante le documentos de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
@@ -51298,6 +51307,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
         <seg>Le sito web de&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/u0&gt;contine ligamines verso numerose ressources &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme can also be added as plugins.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T163111Z" creationid="will" creationdate="20220105T163111Z">
+        <seg>Le thema anque pote esser addite como plugins.</seg>
       </tuv>
     </tu>
     <tu>
