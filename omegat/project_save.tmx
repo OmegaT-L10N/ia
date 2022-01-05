@@ -5710,10 +5710,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T164810Z" creationid="will" creationdate="20220105T164810Z">
+        <seg>&lt;g0&gt;Ignora le contexto del file pro identificar le segmentos con traductiones alternative&lt;/g0&gt;: per option predefinite, OmegaT usa le nomine del file fonte qual parte del identification de un traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T192806Z" creationid="Melo46" creationdate="20200730T192806Z">
         <seg>&lt;g0&gt;Problemas de LanguageTool&lt;/g0&gt; (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T164701Z" creationid="will" creationdate="20220105T164701Z">
+        <seg>&lt;g0&gt;Preservar spatios pro tote le etiquettas&lt;/g0&gt;: marcar iste option si le documentos primari contine grande spatios usate pro controlar le arrangiamento que non debe esser ignorate.</seg>
       </tuv>
     </tu>
     <tu>
