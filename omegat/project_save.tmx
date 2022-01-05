@@ -24538,6 +24538,15 @@ non necessita inserer le percurso integral.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Traducite per W Helton Mer. 05 Januario 2022</note>
+      <tuv lang="EN">
+        <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T144926Z" creationid="will" creationdate="20220105T144926Z">
+        <seg>Si un entrata del glossario ha definitiones alternativa, illos essera monstrate sur le mesme linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If a license document contains
 a further restriction but permits relicensing or conveying under this
