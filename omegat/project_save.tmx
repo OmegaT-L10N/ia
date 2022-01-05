@@ -9370,6 +9370,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A nice collection of useful regex cases can be found in OmegaT itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T143109Z" creationid="will" creationdate="20220105T143109Z">
+        <seg>Un amabile collection de casos regex utile pote esser discoperte trovate in OmegaT ipse (vide Optiones &gt; Segmentation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T230356Z" creationid="MELO46" creationdate="20140106T230356Z">
@@ -59926,6 +59934,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T084412Z" creationid="Melo46" creationdate="20200726T084412Z">
         <seg>Tu pote cambiar le vias breve jam assignate e adder nove vias breve ponente un file de definition de via-breve in tu plica del preferentias de &lt;a0&gt;OmegaT&lt;/a0&gt; (accessibile per menu &lt;m1&gt; &lt;g2&gt;Optiones&lt;/g2&gt; &lt;g3&gt;Acceder plica de configuration&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T143315Z" creationid="will" creationdate="20220105T143315Z">
+        <seg>Tu pote cambiar le vias breve jam assignate e adder nove vias breve ponente un file de definition de via-breve in tu plica del preferentias de &lt;a0&gt;OmegaT&lt;/a0&gt; (accessibile per menu &lt;m0&gt; &lt;g1&gt;Optiones&lt;/g1&gt; &lt;g2&gt;Acceder plica de configuration&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
