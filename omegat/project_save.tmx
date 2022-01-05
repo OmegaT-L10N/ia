@@ -34238,6 +34238,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that &lt;g0&gt;Remove&lt;/g0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T144151Z" creationid="will" creationdate="20220105T144151Z">
+        <seg>Nota que &lt;g0&gt;Remove&lt;/g0&gt; elimina physicamente le vocabularios seligite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T202128Z">
@@ -60904,6 +60912,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T093449Z" creationid="Melo46" creationdate="20200726T093449Z">
         <seg>Tu debe alora pulsar de novo &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; pro inserer le suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must then press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T144226Z" creationid="will" creationdate="20220105T144226Z">
+        <seg>Tu debe alora pulsar de novo &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; pro inserer le suggestion.</seg>
       </tuv>
     </tu>
     <tu>
