@@ -14798,6 +14798,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;g1&gt;Defaults&lt;/g1&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T163816Z" creationid="will" creationdate="20220105T163816Z">
+        <seg>Clicca &lt;g1&gt;Predefinite base&lt;/g1&gt; pro restabilir le filtros de file al configurationes base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click Customize &gt; Choose commands.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130607T071617Z">
