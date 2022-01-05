@@ -23110,6 +23110,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary layout</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T144304Z" creationid="will" creationdate="20220105T144304Z">
+        <seg>Layout de glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160807T212122Z" creationid="Melo46" creationdate="20160807T212122Z">
@@ -56516,6 +56524,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T144240Z" creationid="will" creationdate="20220105T144240Z">
+        <seg>Solmente le segmentos non rendite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151014T232931Z" creationid="Melo" creationdate="20151014T232931Z">
@@ -60398,6 +60414,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T224048Z" creationid="Melo46" creationdate="20200730T224048Z">
         <seg>Tu pote eliger un file con le claves &lt;k1&gt;In alto&lt;/k1&gt; e &lt;k2&gt;In basso&lt;/k2&gt; e aperir lo pro le traduction per pulsar &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a glossary pane contents layout.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T144701Z" creationid="will" creationdate="20220105T144701Z">
+        <seg>Tu pote seliger un layout del contentos del pannello pro le glossario</seg>
       </tuv>
     </tu>
     <tu>
