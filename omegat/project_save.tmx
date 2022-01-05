@@ -22982,6 +22982,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T143000Z" creationid="will" creationdate="20220105T143000Z">
+        <seg>Glossarios ubicate in plicas annidate es anque recognoscite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries must be located in the &lt;f0&gt;glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T142904Z" creationid="will" creationdate="20220105T142904Z">
+        <seg>Glossarios debe esser ubicate in le &lt;f0&gt;glossario&lt;/f0&gt; plica del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T210446Z">
@@ -33837,6 +33853,14 @@ measures.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T160629Z">
         <seg>Nulle file glossario trovate in le plica "glossary".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No glossary file found in the &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T143035Z" creationid="will" creationdate="20220105T143035Z">
+        <seg>Nulle file glossario trovate in le plica &lt;f0&gt;glossary&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
