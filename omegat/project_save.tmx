@@ -26265,6 +26265,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;f0&gt;pt_PT.aff&lt;/f0&gt; and &lt;f1&gt;pt_PT.dic&lt;/f1&gt; to &lt;f2&gt;pt_BR.aff&lt;/f2&gt; and &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T144011Z" creationid="will" creationdate="20220105T144011Z">
+        <seg>Si tu ha jam rendite un grande corpore de texto, e alora realisa que le codice del lingua final del projecto non equala le codice del  lingua del corrector orthographic (per exemplo tu ha specificate pt_BR como le lingua, ma non ha nulle vocabularios pt_BR) tu pote simplemente copiar le duo files correspondente e los renominar (e.g. ab &lt;f0&gt;pt_PT.aff&lt;/f0&gt; e &lt;f1&gt;pt_PT.dic&lt;/f1&gt; a &lt;f2&gt;pt._BR.aff&lt;/f2&gt; e &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171130T211232Z" creationid="Karm46" creationdate="20171129T184638Z">
