@@ -5702,6 +5702,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T165438Z" creationid="will" creationdate="20220105T165438Z">
+        <seg>&lt;g0&gt;Permitte le traductiones blanc in le file de destination&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151116T032307Z" creationid="Melo46" creationdate="20151116T032307Z">
