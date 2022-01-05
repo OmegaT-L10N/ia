@@ -5726,6 +5726,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Remove leading and trailing tags&lt;/g0&gt;: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T163925Z" creationid="will" creationdate="20220105T163925Z">
+        <seg>&lt;g0&gt;Remover etiquettas initial e final&lt;/g0&gt;: dismarca iste option pro monstrar tote le etiquettas, includente etiquettas al initio e fin del segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T191243Z" creationid="Melo46" creationdate="20200730T191243Z">
@@ -54320,6 +54328,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T143343Z" creationid="Melo46" creationdate="20200726T142930Z">
         <seg>Un filtro es usate pro rediger files e codificationes, selige le filtro in le lista e clicca &lt;e1&gt;Editar.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;g2&gt;Edit&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T163840Z" creationid="will" creationdate="20220105T163840Z">
+        <seg>Un filtro es usate pro rediger files e codificationes, selige le filtro in le lista e clicca &lt;g2&gt;Editar.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
