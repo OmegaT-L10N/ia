@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26525,6 +26525,15 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T093400Z" creationid="Melo46" creationdate="20200726T093400Z">
         <seg>Si tu dismarca iste option, le traductiones automatic sera reportate in le segmento actual solo quando tu pulsa &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; sur systema operative X).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Completa per W Helton - Mer. 5 Januario 2022</note>
+      <tuv lang="EN">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; (&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T142037Z" creationid="will" creationdate="20220105T142037Z">
+        <seg>Si tu dismarca iste option, le traductiones automatic sera reportate in le segmento actual solo quando tu pulsa &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt; sur OS X).</seg>
       </tuv>
     </tu>
     <tu>
