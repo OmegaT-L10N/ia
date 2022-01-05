@@ -48021,6 +48021,15 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Conservar o immagazinar?</note>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T162852Z" creationid="will" creationdate="20220105T162852Z">
+        <seg>Le collectiones es discargate como glossarios TBX e immagazinate in le actual plica &lt;f0&gt;glossary&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
       </tuv>
@@ -60447,6 +60456,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220105T144701Z" creationid="will" creationdate="20220105T144701Z">
         <seg>Tu pote seliger un layout del contentos del pannello pro le glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a theme for OmegaT's user interface.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T163036Z" creationid="will" creationdate="20220105T163036Z">
+        <seg>Tu pote seliger un thema pro le interfacie de usator in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
