@@ -36567,6 +36567,15 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Traducite per W Helton Mer. 05 Januario 2022</note>
+      <tuv lang="EN">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T143444Z" creationid="will" creationdate="20220105T143444Z">
+        <seg>Poste le file &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; es modificate, OmegaT debe esser reinitiate pro prender in conto le nove vias breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
       </tuv>
@@ -41862,6 +41871,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130628T043212Z">
         <seg>Salva le file e relancea &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save then the file and relaunch OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T143511Z" creationid="will" creationdate="20220105T143511Z">
+        <seg>Salva le file e relancea OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50618,6 +50635,15 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T214458Z">
         <seg>Le corrector orthographic usa le codice del lingua final pro determinar le lingua a usar: si le lingua final es brasilian portugese (PT_BR), le  sub plica con le vocabularios debe continer le duo files vocabulario nominate &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Lingua final o lingua de destination?</note>
+      <tuv lang="EN">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;f0&gt;pt_br.aff&lt;/f0&gt; and &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T143718Z" creationid="will" creationdate="20220105T143718Z">
+        <seg>Le corrector orthographic usa le codice del lingua de destination pro determinar le lingua a usar: si le lingua de destination es portugese brasilian (PT_BR), le  sub plica con le vocabularios debe continer le duo files vocabulario nominate &lt;f0&gt;pt_br.aff&lt;/f0&gt; and &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
