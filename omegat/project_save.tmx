@@ -54659,6 +54659,15 @@ computer or modifying a private copy.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Proque usar "seliger" alicun vices e "eliger" altere vices?</note>
+      <tuv lang="EN">
+        <seg>To modify the options, select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220105T164943Z" creationid="will" creationdate="20220105T164943Z">
+        <seg>Pro modificar le optiones, selige le filtro in le lista e clicca &lt;g0&gt;Optiones&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
       </tuv>
