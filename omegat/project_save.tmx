@@ -19814,6 +19814,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables automatic notification of OmegaT updates.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T174505Z" creationid="will" creationdate="20220106T174505Z">
+        <seg>Activa le aviso automatic de actualisationes OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T205657Z">
@@ -38938,6 +38946,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T193821Z" creationid="Melo46" creationdate="20200726T193821Z">
         <seg>Le plugins es installate in le plica &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugins are installed in the &lt;f0&gt;plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T174447Z" creationid="will" creationdate="20220106T174447Z">
+        <seg>Le plugins es installate in le plica &lt;f0&gt;plugins&lt;/f0&gt; sub le plica de installation de OmegaT o le plica del preferentias de usator specific del platteforma OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
