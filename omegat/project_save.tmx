@@ -22057,6 +22057,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the pattern &lt;l1&gt;*.xhtml &lt;/l1&gt;matches any file with the &lt;l2&gt;.xhtml&lt;/l2&gt; extension.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T100114Z" creationid="will" creationdate="20220106T100114Z">
+        <seg>Per exemplo, le modello &lt;l1&gt;*.xhtml &lt;/l1&gt;concorda omne file con le extension .&lt;l2&gt;xhtml&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171128T191812Z">
