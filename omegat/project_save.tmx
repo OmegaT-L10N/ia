@@ -58441,6 +58441,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its &lt;f0&gt;source&lt;/f0&gt; folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T100004Z" creationid="will" creationdate="20220106T100004Z">
+        <seg>Quando OmegaT incontra un file in su plica &lt;f0&gt;fonte&lt;/f0&gt;, il tenta de seliger le filtro basate sur le extension del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131226T231228Z" creationid="MELO46" creationdate="20131226T231220Z">
