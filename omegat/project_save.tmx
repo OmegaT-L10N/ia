@@ -5718,6 +5718,23 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T082156Z" creationid="will" creationdate="20220106T082156Z">
+        <seg>&lt;g0&gt;Non traducer le attributo de contento del meta-tags ...:&lt;/g0&gt; le meta-tags in le cassa non sera traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Proque "essera" in iste segmento, ma "sera" in le previe segmento? Il deberea esser consistentia in le uso de terminos, nonne?</note>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/g0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T082455Z" creationid="will" creationdate="20220106T082455Z">
+        <seg>&lt;g0&gt;Non traducer le contento de tags con le sequente pares de valores clave de attributo (separar con virgulas)&lt;/g0&gt;: si un etiquetta concorda le lista del pares de valores clave, su contento essera ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220105T164810Z" creationid="will" creationdate="20220105T164810Z">
