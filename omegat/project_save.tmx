@@ -35832,6 +35832,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T103008Z" creationid="will" creationdate="20220106T103008Z">
+        <seg>OmegaT ha duo manieras a segmentar un texto: per paragrapho o per segmentation a phrase (alsi referite como "segmentation basate sur le regulas”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150422T101849Z">
