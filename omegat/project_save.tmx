@@ -47130,6 +47130,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T102435Z" creationid="will" creationdate="20220106T102435Z">
+        <seg>Le character salvage '*' equala zero o plus characteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131228T161604Z">
