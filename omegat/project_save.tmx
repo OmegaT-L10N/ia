@@ -10577,6 +10577,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, OmegaT will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T105112Z" creationid="will" creationdate="20220106T105112Z">
+        <seg>Post le segmentation del file fonte in unitates structural, OmegaT segmentara iste blocos ulteriormente in phrases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T084906Z">
@@ -12513,6 +12521,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160807T213339Z" creationid="Melo46" creationdate="20160807T213339Z">
         <seg>Le auto-completator es lanceate in le segmento de destination per le via breve &lt;e0&gt;Ctrl+Space&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completer is launched within the target segment via &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T105244Z" creationid="will" creationdate="20220106T105244Z">
+        <seg>Le auto-completator es lanceate in le segmento de destination per le via breve &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35729,6 +35745,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T105040Z" creationid="will" creationdate="20220106T105040Z">
+        <seg>OmegaT in prime loco analysa le texto pro le segmentation a nivello de structura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T182526Z">
@@ -36423,6 +36447,14 @@ installed on your system.</seg>
       <tuv lang="IA" changeid="Kos Ivantsov" changedate="20170908T220407Z" creationid="Kos Ivantsov" creationdate="20170908T220407Z">
         <seg>OmegaT usa le sequente librerias:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T104914Z" creationid="will" creationdate="20220106T104914Z">
+        <seg>OmegaT usa le sequentia de grados sequente:</seg>
       </tuv>
     </tu>
     <tu>
