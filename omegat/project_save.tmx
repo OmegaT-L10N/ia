@@ -48910,6 +48910,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files appear in the &lt;f0&gt;script&lt;/f0&gt; subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T173910Z" creationid="will" creationdate="20220106T173910Z">
+        <seg>Le files appare in le sub plica &lt;f0&gt;script&lt;/f0&gt;, in le plica del files del usator de OmegaT, e include:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files are unformatted plain text files.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130626T104842Z">
@@ -51181,6 +51189,15 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T214628Z">
         <seg>Le function de exportation del texto exporta datos ex le projecto OmegaT currente in files de texto simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Modificar o Rediger? Que es le differentia? In le menu de OmegaT sta Rediger.</note>
+      <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; is pressed or &lt;m4&gt;&lt;g5&gt;Edit&lt;/g5&gt;&lt;g6&gt;Export Selection&lt;/g6&gt;&lt;/m4&gt; is selected (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T174342Z" creationid="will" creationdate="20220106T174342Z">
+        <seg>Le texto marcate per le usator, quando es pulsate &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;+Shift&lt;/k2&gt;&lt;k3&gt;+C&lt;/k3&gt;&lt;/k0&gt; o es seligite &lt;m4&gt;&lt;g5&gt;Modificar&lt;/g5&gt;&lt;g6&gt; &gt; Exportar le Selection&lt;/g6&gt;&lt;/m4&gt; (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
