@@ -21993,6 +21993,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l4&gt;readme, read.me&lt;/l4&gt;, and &lt;l5&gt;readme.txt&lt;/l5&gt;) you should use the pattern &lt;l6&gt;read*&lt;/l6&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T102333Z" creationid="will" creationdate="20220106T102333Z">
+        <seg>Per exemplo, si vos vole le filtro de texto pro tractar le files readme  (&lt;l4&gt;readme, read.me&lt;/l4&gt;, e  &lt;l5&gt;readme.txt&lt;/l5&gt;) tu deberea usar le modello read*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you wish to create a pseudo-translation for testing purposes, OmegaT enables you to create an additional tmx file that contains all segments of the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
