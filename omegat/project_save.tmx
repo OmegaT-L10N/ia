@@ -44893,6 +44893,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e3&gt;Searches&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T100956Z" creationid="will" creationdate="20220106T100956Z">
+        <seg>Le modellos de nomine de file fonte usa characteres 'carta salvage' similabile a illos usate in le &lt;e3&gt;Recercas&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="IA" changeid="ia" changedate="20170909T171032Z" creationid="ia" creationdate="20170909T171032Z">
