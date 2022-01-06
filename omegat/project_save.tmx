@@ -5734,6 +5734,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T084125Z" creationid="will" creationdate="20220106T084125Z">
+        <seg>&lt;g0&gt;Non traducer le attributo de contento del meta-tags ...:&lt;/g0&gt; le meta-tags in le cassa non sera traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T082156Z" creationid="will" creationdate="20220106T082156Z">
