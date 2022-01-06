@@ -48774,6 +48774,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entry &lt;g5&gt;Remove translation&lt;/g5&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T172128Z" creationid="will" creationdate="20220106T172128Z">
+        <seg>Le entrata &lt;g5&gt;Remove traduction&lt;/g5&gt; in le identic menu pop-up permitte alsi de deler le traduction existente del segmento currente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T143900Z">
@@ -51157,6 +51165,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130703T065853Z">
         <seg>Le function Exporta texto, exporta datos ex le projecto actual  de &lt;a0&gt;OmegaT&lt;/a0&gt; in files de texto simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text export function exports data from within the current OmegaT project to plain text files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T172509Z" creationid="will" creationdate="20220106T172509Z">
+        <seg>Le function Exporta texto, exporta datos ex le projecto actual  de OmegaT in files de texto simple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60009,6 +60025,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080910Z">
         <seg>Tu compli le identic action per deler le segmento final e pulsar &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g6&gt;Enter&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T172224Z" creationid="will" creationdate="20220106T172224Z">
+        <seg>Tu compli le identic action per deler le segmento final e pulsar &lt;g6&gt;Enter&lt;/g6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
