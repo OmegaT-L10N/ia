@@ -5726,6 +5726,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T084152Z" creationid="will" creationdate="20220106T084152Z">
+        <seg>&lt;g0&gt;Comprimer spatios blanc in documento traducite&lt;/g0&gt;: plure characteres spatio blanc continue sera convertite in un singule spatio blanc in le documento traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151116T032307Z" creationid="Melo46" creationdate="20151116T032307Z">
@@ -5795,6 +5803,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200728T045029Z" creationid="Melo46" creationdate="20200728T045029Z">
         <seg>&lt;g0&gt;Projecto&lt;/g0&gt; &lt;g1&gt;Nove...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Remove HTML comments in translated document&lt;/g0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T084218Z" creationid="will" creationdate="20220106T084218Z">
+        <seg>&lt;g0&gt;Remover commentos HTML in documento traducite&lt;/g0&gt;: le partes commentate (inter &lt;!-- e --&gt;) non sera copiate in le documento traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54043,6 +54059,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;g1&gt;Add&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T084351Z" creationid="will" creationdate="20220106T084351Z">
+        <seg>Pro adder un nove modello de filtro de file, clicca &lt;g1&gt;Adder&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a new source file:</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200728T103755Z" creationid="Melo46" creationdate="20200728T103755Z">
@@ -54721,6 +54745,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200727T074856Z" creationid="Melo46" creationdate="20200727T074856Z">
         <seg>Pro modificar un modello de filtro de file, o modificar le campos directemente o cliccar &lt;e0&gt;Rediger&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;g0&gt;Edit&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T084333Z" creationid="will" creationdate="20220106T084333Z">
+        <seg>Pro modificar un modello de filtro de file, o modificar le campos directemente o cliccar &lt;g0&gt;Rediger&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
