@@ -25297,6 +25297,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m3&gt; &lt;g4&gt;Options&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T104628Z" creationid="will" creationdate="20220106T104628Z">
+        <seg>Si ha essite seligite le segmentation per phrase, tu pote definir le regulas per &lt;m3&gt; &lt;g4&gt;Optiones&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;ab le menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200727T081027Z" creationid="Melo46" creationdate="20200727T080849Z">
