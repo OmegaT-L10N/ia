@@ -5702,6 +5702,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Aggregate tags&lt;/g0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T082618Z" creationid="will" creationdate="20220106T082618Z">
+        <seg>&lt;g0&gt;Aggregar tags&lt;/g0&gt;: si marcate, le tags con nulle texto traducibile inter illos sera aggregate in un singule tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220105T165438Z" creationid="will" creationdate="20220105T165438Z">
