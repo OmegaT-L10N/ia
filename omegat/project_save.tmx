@@ -53583,6 +53583,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T105529Z" creationid="will" creationdate="20220106T105529Z">
+        <seg>Iste option permitte te de scriber le traduction sin le necessitate de remover le texto original, assi tu sparnia duo percussiones de clave (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;+A&lt;/k2&gt;&lt;/k0&gt; e &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151116T031553Z" creationid="Melo46" creationdate="20151116T031553Z">
