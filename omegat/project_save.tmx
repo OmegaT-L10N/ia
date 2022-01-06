@@ -5702,6 +5702,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/g0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T082723Z" creationid="will" creationdate="20220106T082723Z">
+        <seg>&lt;e0&gt;Adder o rescriber declaration de codification in files HTML e XHTML&lt;/e0&gt;: le files de destination sovente debe haber un codification del collection de characteres differente de illos in le file fonte (si il es explicitemente definite o implicite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Aggregate tags&lt;/g0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T082618Z" creationid="will" creationdate="20220106T082618Z">
@@ -5763,6 +5771,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220105T164701Z" creationid="will" creationdate="20220105T164701Z">
         <seg>&lt;g0&gt;Preservar spatios pro tote le etiquettas&lt;/g0&gt;: marcar iste option si le documentos primari contine grande spatios usate pro controlar le arrangiamento que non debe esser ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T082656Z" creationid="will" creationdate="20220106T082656Z">
+        <seg>&lt;g0&gt;Preservar spatios pro tote le tags&lt;/g0&gt;: si marcate, le "spatio blanc" (i.e. spatios e nove-lineas) sera preservate, mesmo si iste option non es definite in le documento.</seg>
       </tuv>
     </tu>
     <tu>
