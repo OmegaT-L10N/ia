@@ -19750,6 +19750,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T105543Z" creationid="will" creationdate="20220106T105543Z">
+        <seg>Ora es permittite le traductiones vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable Sentence-level segmentation</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151117T070652Z" creationid="Melo46" creationdate="20151117T070652Z">
@@ -54419,6 +54427,15 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T052205Z">
         <seg>Pro crear uno, clicca con le dextero in un segmento, e selige "&lt;e2&gt;Prepara le traduction vacue&lt;/e2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Segmento traducite per W Helton Jov. 06 Januario 2022</note>
+      <tuv lang="EN">
+        <seg>To create one, right-click in a segment, and select &lt;g4&gt;Set empty translation&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220106T105616Z" creationid="will" creationdate="20220106T105616Z">
+        <seg>Pro crear uno, clicca con le dextero in un segmento, e selige "&lt;g4&gt;Prepara le traduction vacue&lt;/g4&gt;".</seg>
       </tuv>
     </tu>
     <tu>
