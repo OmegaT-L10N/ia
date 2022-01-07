@@ -10313,6 +10313,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding OmegaT to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T164416Z" creationid="will" creationdate="20220107T164416Z">
+        <seg>Adder OmegaT al menus (KDE) o al pannellos (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200728T103743Z" creationid="Melo46" creationdate="20200728T103743Z">
@@ -60399,6 +60407,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T184359Z">
         <seg>Tu pote adder &lt;a0&gt;OmegaT&lt;/a0&gt; a tu menus como seque:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add OmegaT to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T164435Z" creationid="will" creationdate="20220107T164435Z">
+        <seg>Tu pote adder OmegaT a tu menus como seque:</seg>
       </tuv>
     </tu>
     <tu>
