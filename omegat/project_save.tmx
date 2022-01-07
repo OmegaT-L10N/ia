@@ -20062,6 +20062,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter OmegaT as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T175059Z" creationid="will" creationdate="20220107T175059Z">
+        <seg>Scribe OmegaT como nomine del nove commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T074220Z">
@@ -27962,6 +27970,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T222732Z">
         <seg>In le campo "Commando", usa le button de navigation pro trovar tu script de lanceamento de &lt;a0&gt;OmegaT&lt;/a0&gt; (le file nominate &lt;a1&gt;OmegaT&lt;/a1&gt; in le plica decomprimite), e selige lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T175128Z" creationid="will" creationdate="20220107T175128Z">
+        <seg>In le campo "Commando", usa le button de navigation pro trovar tu script de lanceamento de OmegaT (le file nominate OmegaT in le plica decomprimite), e selige lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37993,6 +38009,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T080635Z" creationid="Melo46" creationdate="20200730T080635Z">
         <seg>Altere Icones: folietta e naviga al sub plica &lt;f0&gt;/images&lt;/f0&gt; in le plica application de &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;images&lt;/f0&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T175218Z" creationid="will" creationdate="20220107T175218Z">
+        <seg>Altere Icones: Folietta e naviga al sub plica /images in le plica application de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
