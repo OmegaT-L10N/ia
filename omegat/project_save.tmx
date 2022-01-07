@@ -13655,6 +13655,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the &lt;f0&gt;tm&lt;/f0&gt; folder is below the project's root folder (e.g. ...&lt;f1&gt;MyProject/tm&lt;/f1&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T162232Z" creationid="will" creationdate="20220107T162232Z">
+        <seg>Per arrangiamento initial, le plica &lt;f0&gt;/tm&lt;/f0&gt; es sub le plica radice del projecto (per exemplo ...&lt;f1&gt;/MyProject/tm&lt;/f1&gt;), ma tu pote eliger un plica differente in le fenestra de dialogo Proprietates del projecto si tu desira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171130T212946Z">
@@ -28256,6 +28264,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T080600Z">
         <seg>In iste caso, pone le memorias de traduction tu desidera usar in le plica &lt;e0&gt;/tm&lt;/e0&gt; o &lt;e1&gt;/tm&lt;/e1&gt;/auto de tu nove projecto: in le prime caso tu obtenera occurrentias ex iste memorias de traduction in the quadro del concordantias partial, e in le ultime caso iste TMs essera usate pro pre-traducer tu texto fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, place the translation memories you wish to use in the &lt;f0&gt;/tm&lt;/f0&gt; or &lt;f1&gt;tm/auto&lt;/f1&gt; folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T153052Z" creationid="will" creationdate="20220107T153052Z">
+        <seg>In iste caso, pone le memorias de traduction tu desidera usar in le plica &lt;f0&gt;/tm&lt;/f0&gt; o &lt;f1&gt;/tm/auto&lt;/f1&gt; de tu nove projecto: in le prime caso tu obtenera occurrentias ex iste memorias de traduction in the quadro del concordantias partial, e in le ultime caso iste TMs essera usate pro pre-traducer tu texto fonte.</seg>
       </tuv>
     </tu>
     <tu>
