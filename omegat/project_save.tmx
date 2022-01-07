@@ -14215,6 +14215,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check "&lt;l2/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182147Z" creationid="will" creationdate="20220107T182147Z">
+        <seg>Controlar "&lt;l2/&gt;" infra pro altere informationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check "&lt;l3/&gt;" below for more information.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20210220T080816Z" creationid="Melo46" creationdate="20210220T080816Z">
@@ -36204,6 +36212,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182253Z" creationid="will" creationdate="20220107T182253Z">
+        <seg>OmegaT es disponibile impacchettate con un Oracle Java JRE pro platteformas Linux (Intel x86) e Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -58065,6 +58081,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182353Z" creationid="will" creationdate="20220107T182353Z">
+        <seg>Le usatores de altere platteformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) debe haber functionante un Java JRE compatibile sur lor systema pro esser capace de usar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T075406Z">
@@ -61312,6 +61336,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T073444Z">
         <seg>Tu pote ergo seliger un parola alicubi in &lt;a2&gt;OmegaT&lt;/a2&gt; e usar le Servicios pro controlar iste parola, per exemplo in Spotlight o in Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can thus select a word anywhere in OmegaT and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182226Z" creationid="will" creationdate="20220107T182226Z">
+        <seg>Tu pote ergo seliger un parola alicubi in OmegaT e usar Services pro controlar iste parola, per exemplo in Spotlight o in Google.</seg>
       </tuv>
     </tu>
     <tu>
