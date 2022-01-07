@@ -12335,8 +12335,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
-      <tuv lang="IA" changeid="Karm46" changedate="20171126T110846Z">
-        <seg>Al initio del installation tu pote seliger le lingua a utilisar durante le installation.</seg>
+      <tuv lang="IA" changeid="will" changedate="20220107T163521Z">
+        <seg>Al initio del installation tu pote seliger le lingua a utilisar per le installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28926,6 +28926,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T110455Z">
         <seg>Installar e facer fluer &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing and running OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163507Z" creationid="will" creationdate="20220107T163507Z">
+        <seg>Installar e executar OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -52388,6 +52396,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by OmegaT in order to create target files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163309Z" creationid="will" creationdate="20220107T163309Z">
+        <seg>Illos contine informationes de formato de texto, ma tal informationes non pote ser reusate per OmegaT a fin de crear le files de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T110413Z">
@@ -54893,6 +54909,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T084308Z" creationid="Melo46" creationdate="20200730T084308Z">
         <seg>Pro installar &lt;a0&gt;OmegaT&lt;/a0&gt;, simplemente dispacchetta le file &lt;e1&gt;OmegaT_4.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install OmegaT, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163515Z" creationid="will" creationdate="20220107T163515Z">
+        <seg>Pro installar OmegaT, clicca duo vices sur le programma que tu ha discargate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63141,6 +63165,14 @@ crear su plica de configuration.</seg>
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200728T050212Z" creationid="Melo46" creationdate="20200728T050212Z">
+        <seg>copia le files in le plica &lt;f0&gt;/source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copy the files to the &lt;f0&gt;source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163247Z" creationid="will" creationdate="20220107T163247Z">
         <seg>copia le files in le plica &lt;f0&gt;/source&lt;/f0&gt;</seg>
       </tuv>
     </tu>
