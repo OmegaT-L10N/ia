@@ -29314,6 +29314,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used in all the input fields found in OmegaT - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T094406Z" creationid="will" creationdate="20220107T094406Z">
+        <seg>Illo pote alsi esser usate in tote le campos de entrata in OmegaT - in Fenestra de Recerca, pro le regulas de segmentation et cetera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T135813Z">
@@ -31860,6 +31868,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T061658Z" creationid="MELO46" creationdate="20140106T061658Z">
         <seg>Que le usatores de Mac OS X nota: usar le via breve &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; e &lt;e4&gt;non &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and not &lt;k4&gt;&lt;k5&gt;cmd&lt;/k5&gt;&lt;k6&gt;Ctrl&lt;/k6&gt;&lt;k7&gt;O&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T094647Z" creationid="will" creationdate="20220107T094647Z">
+        <seg>Que le usatores de Mac OS X nota: usar le via breve &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;+ O&lt;/k3&gt; &lt;/k0&gt; e non &lt;k4&gt;&lt;k5&gt;Cmd&lt;/k5&gt;&lt;k6&gt;+Ctrl&lt;/k6&gt;&lt;k7&gt;+O&lt;/k7&gt;&lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57805,6 +57821,15 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130817T084409Z">
         <seg>Users\&lt;User Name&gt;\AppData\Roaming\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Controllar isto segmento - esque illo es vermente accurate?</note>
+      <tuv lang="EN">
+        <seg>Using &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; causes both text input and display in OmegaT to change.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T094320Z" creationid="will" creationdate="20220107T094320Z">
+        <seg>Usar &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;+ Ctrl&lt;/k2&gt; &lt;k3&gt;+ O&lt;/k3&gt; &lt;/k0&gt; causa que ambe le textos cambia, illo inscribite e lo monstrate in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
