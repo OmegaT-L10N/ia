@@ -20054,6 +20054,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter "OmegaT" in the "Name" field; in the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T180950Z" creationid="will" creationdate="20220107T180950Z">
+        <seg>Scribe "OmegaT" in le campo  "Name"; in le campo  "Command", usa le button de navigation pro trovar tu script de lanceamento de OmegaT (le file nominate OmegaT in le plica dispacchettate).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T054832Z">
@@ -43710,6 +43718,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T055216Z">
         <seg>Selige le icone &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f1&gt;OmegaT.png&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T175233Z" creationid="will" creationdate="20220107T175233Z">
+        <seg>Eliger le icone OmegaT.png.</seg>
       </tuv>
     </tu>
     <tu>
