@@ -21685,6 +21685,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow your system's instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182707Z" creationid="will" creationdate="20220107T182707Z">
+        <seg>Sequer vostre instructiones de systema pro installar le vias breve de in commode places of your choosing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T095103Z">
@@ -37032,6 +37040,15 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160728T154349Z" creationid="Melo46" creationdate="20160728T154349Z">
         <seg>Un vice que le cassa de dialogo pro auto-completar es aperte, usa &lt;e1&gt;Ctrl+Space&lt;/e1&gt; ancora pro cambiar successivemente inter le optiones &lt;e2&gt;Entratas de glossarios&lt;/e2&gt;, &lt;e3&gt;Entratas de texto automatic,&lt;/e3&gt; &lt;e4&gt;Tags mancante&lt;/e4&gt; e &lt;e5&gt;Tabella del characteres&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"Once" non equala "un vice" in iste contexto, sed illo significa "quando".</note>
+      <tuv lang="EN">
+        <seg>Once OmegaT is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182904Z" creationid="will" creationdate="20220107T182904Z">
+        <seg>Quando OmegaT es installate, tu pote lancear lo directemente per linea de commando, tu pote crear un script que include parametros de lanceamento pro le linea de commando o tu pote cliccar sur &lt;f0&gt;OmegaT.jar&lt;/f0&gt; pro lancear lo directemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53061,6 +53078,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; folder in the working folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182657Z" creationid="will" creationdate="20220107T182657Z">
+        <seg>Isto creara un plica &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; in le plica de labor con tote le files necessari pro exequer OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T084335Z" creationid="Melo46" creationdate="20200730T084335Z">
@@ -55037,6 +55062,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220107T163515Z" creationid="will" creationdate="20220107T163515Z">
         <seg>Pro installar OmegaT, clicca duo vices sur le programma que tu ha discargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install OmegaT, simply unpack the &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182532Z" creationid="will" creationdate="20220107T182532Z">
+        <seg>Pro installar OmegaT, simplemente dispacchetta le file &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
