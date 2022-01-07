@@ -41957,6 +41957,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running OmegaT</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163535Z" creationid="will" creationdate="20220107T163535Z">
+        <seg>Executar OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running Tagwipe for file '{0}'</seg>
       </tuv>
       <tuv lang="IA" changeid="karm46" changedate="20180424T120533Z" creationid="karm46" creationdate="20180424T120533Z">
@@ -54112,6 +54120,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create an &lt;f0&gt;omegat&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163607Z" creationid="will" creationdate="20220107T163607Z">
+        <seg>Isto creara un plica &lt;f0&gt;omegat/&lt;/f0&gt; in le plica de labor in le qual tu trovara tote le files que es necesse pro exequer OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create an omegat/ folder in the working folder in which you will find all the files needed to run &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
@@ -55418,6 +55434,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T222007Z">
         <seg>Pro decomprimer le file &lt;e1&gt;.tar.gz&lt;/e1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To untar the &lt;f1&gt;.tar.gz&lt;/f1&gt; file:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T164356Z" creationid="will" creationdate="20220107T164356Z">
+        <seg>Pro decomprimer le file &lt;f1&gt;.tar.gz&lt;/f1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
