@@ -57963,6 +57963,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the RTL mode in OmegaT has no influence whatsoever on the display mode of the translated documents created in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T094035Z" creationid="will" creationdate="20220107T094035Z">
+        <seg>Usar le modo RTL in OmegaT non ha influentia alicun sur le modo de monstra del documentos rendite create in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T090526Z">
