@@ -5238,6 +5238,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: OmegaT Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T183336Z" creationid="will" creationdate="20220107T183336Z">
+        <seg>&lt;e0&gt;Confidentialitate&lt;/e0&gt;: OmegaT Java Web Start non salva ulle de tu informationes extra le computator sur le qual tu lo exeque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T112153Z">
@@ -10629,6 +10637,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130707T215325Z">
         <seg>Post le installation initial tu pote, naturalmente, alsi usar &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; alsi quando tu es off-line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the initial installation you can, of course, also use &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T183236Z" creationid="will" creationdate="20220107T183236Z">
+        <seg>Post le initial installation tu pote, obviemente, usar alsi &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; alsi quando tu es sin connexion.</seg>
       </tuv>
     </tu>
     <tu>
