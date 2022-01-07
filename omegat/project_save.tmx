@@ -24283,6 +24283,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you should take precautions against data loss when using OmegaT, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T095114Z" creationid="will" creationdate="20220107T095114Z">
+        <seg>Tamen, tu deberea sumer precautiones erga le perdita de datos quando usa OmegaT, justo como con omne altere application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T100210Z">
@@ -29836,6 +29844,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140228T193354Z" creationid="MELO46" creationdate="20140106T222618Z">
         <seg>Que on observa que quando &lt;a0&gt;OmegaT&lt;/a0&gt; es in modo RTL, tote le duo, le fonte e le destination son monstrate in modo RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should be noted that when OmegaT is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T094829Z" creationid="will" creationdate="20220107T094829Z">
+        <seg>Que on observa que quando OmegaT es in modo RTL, tote le duo, le fonte e le destination son monstrate in modo RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36012,6 +36028,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a robust application.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T094906Z" creationid="will" creationdate="20220107T094906Z">
+        <seg>OmegaT es un application robuste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200727T122810Z" creationid="Melo46" creationdate="20200727T122810Z">
@@ -36389,6 +36413,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171201T153903Z">
         <seg>OmegaT supporta duo del popular 'systemas de controlo de version' (Version Control Systems = VCS in breve), &lt;u0&gt;"Subversion" ex Apache&lt;/u0&gt; frequentemente abbreviate in SVN, secundo le nomine del commando svn) e &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T094851Z" creationid="will" creationdate="20220107T094851Z">
+        <seg>OmegaT tags in le segmentos RTL</seg>
       </tuv>
     </tu>
     <tu>
