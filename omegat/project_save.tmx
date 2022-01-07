@@ -10313,6 +10313,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding OmegaT to the Dock</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T181912Z" creationid="will" creationdate="20220107T181912Z">
+        <seg>Adder OmegaT al Bassino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding OmegaT to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220107T164416Z" creationid="will" creationdate="20220107T164416Z">
@@ -21985,6 +21993,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T083019Z" creationid="Melo46" creationdate="20200730T083019Z">
         <seg>Per exemplo, &lt;l2&gt;user.language=ja&lt;/l2&gt; (sin le &lt;l3&gt;#&lt;/l3&gt;) lanceara &lt;a4&gt;OmegaT&lt;/a4&gt; con le interfacie de usator in Japonese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182034Z" creationid="will" creationdate="20220107T182034Z">
+        <seg>Per exemplo, &lt;l2&gt;user.language=ja&lt;/l2&gt; (sin le &lt;l3&gt;#&lt;/l3&gt;) lanceara OmegaT con le interfacie de usator in Japonese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57617,6 +57633,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T083508Z" creationid="Melo46" creationdate="20200730T083508Z">
         <seg>Usa le file &lt;f0&gt;OmegaT.jar&lt;/f0&gt; ubicate in &lt;f1&gt;OmegaT.app/Contentos/MacOS/Java/&lt;/f1&gt; pro lancear &lt;a2&gt;OmegaT&lt;/a2&gt; per linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T182124Z" creationid="will" creationdate="20220107T182124Z">
+        <seg>Usa le file &lt;f0&gt;OmegaT.jar&lt;/f0&gt; ubicate in &lt;f1&gt;OmegaT.app/Contentos/MacOS/Java/&lt;/f1&gt; pro lancear OmegaT per linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
