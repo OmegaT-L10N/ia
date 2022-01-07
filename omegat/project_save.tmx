@@ -59120,6 +59120,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you create the target documents in an OmegaT project, the translation memory of the project is output in the form of three files in the root folder of your OmegaT project (see the above description).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T135355Z" creationid="will" creationdate="20220107T135355Z">
+        <seg>Quando tu crea le documentos final in un projecto OmegaT, le memoria de traduction del projecto es emittite in le forma de tres files in le plica radice de tu projecto OmegaT (vide le description precedente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20210220T080015Z" creationid="Melo46" creationdate="20210220T080015Z">
@@ -60928,6 +60936,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130815T094117Z">
         <seg>Tu pote rapidemente vider lor contentos querente a lor titulo: il continera le termino de recerca usate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can regard these three tmx files (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; and &lt;f2&gt;-level2.tmx&lt;/f2&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T135534Z" creationid="will" creationdate="20220107T135534Z">
+        <seg>Tu pote considerar iste tres files TMX (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; e &lt;f2&gt;-level2.tmx&lt;/f2&gt;) como un "memoria de traduction pro exportation", id es como un exportation de tu contento del projecto actual in forma bilingue.</seg>
       </tuv>
     </tu>
     <tu>
