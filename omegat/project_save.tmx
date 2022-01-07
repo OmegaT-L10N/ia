@@ -32112,6 +32112,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T124450Z" creationid="will" creationdate="20220107T124450Z">
+        <seg>Face copias regular del file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; in un media de reserva, assi como CD o DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T132531Z">
@@ -56949,6 +56957,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until you are familiar with OmegaT, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T124518Z" creationid="will" creationdate="20220107T124518Z">
+        <seg>Usque tu non es familiar con OmegaT, crea files rendite a intervallos regular e controla que le file rendite contine le ultime version de tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171201T152200Z">
@@ -59180,6 +59196,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T123449Z">
         <seg>Quando tu rende tu files, &lt;a2&gt;OmegaT&lt;/a2&gt; registra tote tu progresso in le memoria de traduction &lt;l3&gt;project_save.tmx&lt;/l3&gt; que reside in le sub plica del projecto &lt;l4&gt;/omegat&lt;/l4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you translate your files, OmegaT stores all your progress in the translation memory &lt;f0&gt;project_save.tmx&lt;/f0&gt; that resides in the project's &lt;f1&gt;omegat&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T124339Z" creationid="will" creationdate="20220107T124339Z">
+        <seg>Quando tu rende tu files, OmegaT registra tote tu progresso in le memoria de traduction &lt;f0&gt;project_save.tmx&lt;/f0&gt; que reside in le sub plica del projecto &lt;f1&gt;omegat&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67896,6 +67920,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171201T125218Z">
         <seg>remove le characteres usque al initio del parola currente (Mac: Alt+Spatio retro)&lt;e0&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T124417Z" creationid="will" creationdate="20220107T124417Z">
+        <seg>renomina lo &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
