@@ -25763,6 +25763,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the source file is modified after you have begun translating, OmegaT may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T124604Z" creationid="will" creationdate="20220107T124604Z">
+        <seg>Si le file fonte es modificate postquam tu ha initiate a render, OmegaT pote esser incapace a trovar un segmento que tu jam habeva rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130816T120547Z">
@@ -44282,6 +44290,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;OmegaT user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T124642Z" creationid="will" creationdate="20220107T124642Z">
+        <seg>Si tu deberea haber problemas, posta un message in le &lt;u0&gt;Gruppo del usator de OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171201T174837Z">
@@ -46604,6 +46620,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200727T132606Z" creationid="Melo46" creationdate="20200727T132606Z">
         <seg>Prende cura pro prender nota de tote iste detalios ante le creation de un nove contrasigno, perque illos essera tote delite e necessitara esser re-inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take particular care when making changes to the files in &lt;f0&gt;source&lt;/f0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T124542Z" creationid="will" creationdate="20220107T124542Z">
+        <seg>Presta cura particular al cambios al files in  le plica &lt;f0&gt;source&lt;/f0&gt; durante que es in le medio de un projecto.</seg>
       </tuv>
     </tu>
     <tu>
