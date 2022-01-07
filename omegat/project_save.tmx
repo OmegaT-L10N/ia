@@ -50964,6 +50964,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163228Z" creationid="will" creationdate="20220107T163228Z">
+        <seg>Le solution in nostre exemplo es de copiar le memoria de traduction existente in le sub plica &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; e renominar lo ZH_CN.tmx pro indicar le nove lingua de destination del TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151125T204715Z" creationid="Melo" creationdate="20151125T204715Z">
@@ -54540,6 +54548,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130822T122526Z">
         <seg>Pro controlar que omne cosa es ut expectate, tu pote pulsar &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro crear le documentos final e controlar lor contentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check everything is as expected, you may press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T163010Z" creationid="will" creationdate="20220107T163010Z">
+        <seg>Pro controlar que omne cosa es ut expectate, tu pote pulsar &lt;k6&gt;&lt;k7&gt;Ctrl+&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; pro crear le documentos final e controlar lor contentos.</seg>
       </tuv>
     </tu>
     <tu>
