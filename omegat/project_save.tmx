@@ -35817,6 +35817,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T181821Z" creationid="will" creationdate="20220107T181821Z">
+        <seg>OmegaT contine le Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T141014Z" creationid="Karm46" creationdate="20171115T141014Z">
