@@ -14919,6 +14919,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T081154Z" creationid="will" creationdate="20220107T081154Z">
+        <seg>Clicca sur &lt;g0&gt;Exclusiones...&lt;/g0&gt; pro definir le files o plicas que essera ignorate per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
@@ -26395,6 +26403,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T102502Z">
         <seg>Si tu inscribe nomines de plicas que non existe ancora, &lt;a0&gt;OmegaT&lt;/a0&gt; crea los pro te.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you enter names of folders that do not exist yet, OmegaT creates them for you.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T081124Z" creationid="will" creationdate="20220107T081124Z">
+        <seg>Si tu inscribe nomines de plicas que non existe ancora, OmegaT crea los pro te.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50692,6 +50708,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation settings only address the way the source files are handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T081030Z" creationid="will" creationdate="20220107T081030Z">
+        <seg>Le configurationes del segmentation adressa sol le maniera con le qual le Files fonte son tractate per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T092030Z">
@@ -65295,6 +65319,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151117T074118Z" creationid="Melo46" creationdate="20151117T074118Z">
         <seg>non essera copiate in le plica /target durante le processo de creation del files rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not copied in &lt;f0&gt;target&lt;/f0&gt; folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220107T081217Z" creationid="will" creationdate="20220107T081217Z">
+        <seg>non essera copiate in le plica &lt;f0&gt;target&lt;/f0&gt; durante le processo de creation del files rendite.</seg>
       </tuv>
     </tu>
     <tu>
