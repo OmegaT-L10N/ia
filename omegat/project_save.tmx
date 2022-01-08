@@ -55234,6 +55234,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch OmegaT with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T071938Z" creationid="will" creationdate="20220108T071938Z">
+        <seg>Pro lancear OmegaT con un interfacie francese (per exemplo sur un systema operative russe), le commando esserea in consequentia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T143459Z">
