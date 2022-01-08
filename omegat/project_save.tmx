@@ -8877,6 +8877,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p2&gt;XX&lt;/p2&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T071730Z" creationid="will" creationdate="20220108T071730Z">
+        <seg>&lt;p2&gt;XX&lt;/p2&gt; in le commando sta pro le codice de duo cifras del lingua desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T090820Z" creationid="Melo46" creationdate="20200730T090820Z">
