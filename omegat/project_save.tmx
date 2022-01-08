@@ -8893,6 +8893,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T084208Z" creationid="will" creationdate="20220108T084208Z">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; sta pro le amonta de memoria assignate, in megabytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T090820Z" creationid="Melo46" creationdate="20200730T090820Z">
@@ -12101,6 +12109,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T133958Z">
         <seg>Le argumentos pote esser combinate: pro lancear &lt;a0&gt;OmegaT&lt;/a0&gt; con tote le exemplos describite precedentemente, le commando esserea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arguments can be combined: to launch OmegaT with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T084300Z" creationid="will" creationdate="20220108T084300Z">
+        <seg>Le argumentos pote esser combinate: pro lancear OmegaT con tote le exemplos describite precedentemente, le commando esserea:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26951,6 +26967,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Si tu lancea &lt;a1&gt;OmegaT&lt;/a1&gt; in modo consola, illo usara le configurationes que tu configurava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you start OmegaT in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T084443Z" creationid="will" creationdate="20220108T084443Z">
+        <seg>Si tu lancea OmegaT in modo consola, il usara le mesme configurationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42110,6 +42134,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run OmegaT normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T084356Z" creationid="will" creationdate="20220108T084356Z">
+        <seg>Exeque OmegaT normalmente (con le GUI) e specifica le configurationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T084845Z">
@@ -48719,6 +48751,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T180044Z">
         <seg>Le commando pro lancear OmegaT es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command to launch OmegaT with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T084221Z" creationid="will" creationdate="20220108T084221Z">
+        <seg>Le commando pro lancear OmegaT con assignation de 2048 MB (2 GB) de memoria es dunque:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55539,6 +55579,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T221527Z">
         <seg>Pro lancear &lt;a0&gt;OmegaT&lt;/a0&gt; in le modo linea de commando, debe esser presente un projecto &lt;a1&gt;OmegaT&lt;/a1&gt; valide .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run OmegaT in the command line mode, a valid OmegaT project must be present.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T084331Z" creationid="will" creationdate="20220108T084331Z">
+        <seg>Pro lancear OmegaT in le modo linea de commando, debe esser presente un projecto OmegaT valide .</seg>
       </tuv>
     </tu>
     <tu>
