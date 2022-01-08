@@ -26433,6 +26433,14 @@ es monstrate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can't run OmegaT normally (no graphical environment available): copy the settings files from some other OmegaT installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T084702Z" creationid="will" creationdate="20220108T084702Z">
+        <seg>Si tu non pote exequer OmegaT normalmente (nulle ambiente graphic disponibile): copia le files del configurationes ex alicun altere installation OmegaT sur un altere machina a un plica specific.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you cannot convey a
 covered work so as to satisfy simultaneously your obligations under this
 License and any other pertinent obligations, then as a consequence you may
@@ -50785,6 +50793,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T121426Z">
         <seg>Le files pertinente &lt;l2&gt;filters.conf&lt;/l2&gt; e &lt;l3&gt;segmentation.conf&lt;/l3&gt; pote esser trovate in le plica principal del usator (Per exemplo &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sub Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sub Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The relevant files are &lt;f0&gt;filters.conf&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; and can be found in the user home folder (e.g. &lt;f2&gt;C:\Documents and Settings\&lt;p3&gt;user&lt;/p3&gt;\OmegaT&lt;/f2&gt; under Windows, &lt;f4&gt;~/.omegat/&lt;/f4&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T085002Z" creationid="will" creationdate="20220108T085002Z">
+        <seg>Le files pertinente es &lt;f0&gt;filters.conf&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; e pote esser trovate in le plica principal del usator (e.g. &lt;f2&gt;C:\Documents and Settings\&lt;p3&gt;user&lt;/p3&gt;\OmegaT&lt;/f2&gt; sub Windows, &lt;f4&gt;~/.omegat/&lt;/f4&gt; sub Linux).</seg>
       </tuv>
     </tu>
     <tu>
