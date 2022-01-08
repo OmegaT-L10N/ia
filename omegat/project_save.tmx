@@ -50949,6 +50949,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second command is the command which actually launches OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T070444Z" creationid="will" creationdate="20220108T070444Z">
+        <seg>Le secunde commando es le commando ver que lancea OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T204543Z">
@@ -53050,6 +53058,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T074934Z">
         <seg>Iste commando cambia le plica al plica continente le file executabile &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command changes the folder to the folder containing the executable OmegaT file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T070156Z" creationid="will" creationdate="20220108T070156Z">
+        <seg>Iste commando cambia le plica al plica continente le file executabile OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
