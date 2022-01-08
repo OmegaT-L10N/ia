@@ -25793,6 +25793,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the language of the user's system is not available, OmegaT defaults to English.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T071229Z" creationid="will" creationdate="20220108T071229Z">
+        <seg>Si le lingua del systema del usator non es disponibile, OmegaT adopta le configurationes base in anglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the option is OFF, the glossary entry above will not be found.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160807T080021Z" creationid="Melo46" creationdate="20160807T074859Z">
@@ -47720,6 +47728,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T090709Z" creationid="Melo46" creationdate="20200730T090709Z">
         <seg>Le argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; causa que &lt;a2&gt;OmegaT&lt;/a2&gt; usa le lingua specificate plus tosto que le lingua del systema operative del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes OmegaT to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T071343Z" creationid="will" creationdate="20220108T071343Z">
+        <seg>Le argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; causa que OmegaT usa le lingua specificate plus tosto que le lingua del systema operative del usator.</seg>
       </tuv>
     </tu>
     <tu>
