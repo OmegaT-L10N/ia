@@ -4750,6 +4750,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T083917Z" creationid="will" creationdate="20220108T083917Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Iste commando assigna plus memoria a OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20131219T095329Z" creationid="MELO" creationdate="20131219T095329Z">
