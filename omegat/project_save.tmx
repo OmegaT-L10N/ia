@@ -70005,6 +70005,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your OmegaT program - specifically, the file &lt;f1&gt;OmegaT.jar&lt;/f1&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T070059Z" creationid="will" creationdate="20220108T070059Z">
+        <seg>ubi &lt;p0&gt;plica&lt;/p0&gt; es le nomine del plica, con complete percurso, in le qual tu programma OmegaT, specificamente, le file &lt;f1&gt;OmegaT.jar&lt;/f1&gt;, es ubicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171126T223105Z">
