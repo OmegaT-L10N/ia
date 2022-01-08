@@ -4734,6 +4734,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when OmegaT is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T070600Z" creationid="will" creationdate="20220108T070600Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normalmente, id es quando OmegaT es lanceate sin alicun argumentos, le programma releva in prime loco le lingua del systema operative del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T091213Z" creationid="Melo46" creationdate="20200730T091144Z">
@@ -24933,6 +24941,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a user interface in this language is available, OmegaT uses it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T070642Z" creationid="will" creationdate="20220108T070642Z">
+        <seg>Si es disponibile un interfacie de usator in iste lingua, OmegaT usara lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
@@ -44887,6 +44903,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T090601Z" creationid="Melo46" creationdate="20200730T090601Z">
         <seg>Assi, si le systema operative del usator es russe e &lt;a5&gt;OmegaT&lt;/a5&gt; esseva localisate in russo, &lt;a5&gt;OmegaT&lt;/a5&gt; es monstrate con un interfacie del usator russe, menus russe et cetera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, if the user's operating system is Russian and OmegaT has been localized in Russian, OmegaT is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T071028Z" creationid="will" creationdate="20220108T071028Z">
+        <seg>Assi, si le systema operative del usator es russe e OmegaT esseva localisate in russo, OmegaT es monstrate con un interfacie del usator russe, menus russe, et cetera.</seg>
       </tuv>
     </tu>
     <tu>
