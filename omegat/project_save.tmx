@@ -34513,6 +34513,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normally, it is not necessary to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T065556Z" creationid="will" creationdate="20220108T065556Z">
+        <seg>Normalmente, il non es necessari initiar OmegaT a partir del linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130216T141134Z">
@@ -52163,6 +52171,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two ways of launching OmegaT using the command line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T065626Z" creationid="will" creationdate="20220108T065626Z">
+        <seg>Il ha duo manieras de lancear OmegaT per un linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T093018Z">
@@ -55158,6 +55174,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T143459Z">
         <seg>Pro lancear OmegaT, tu debe lancear iste file o ab le linea de commando o ab tu administrator de file, habitualmente per duple-clic sur illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch OmegaT, you must normally type two commands.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T065703Z" creationid="will" creationdate="20220108T065703Z">
+        <seg>Pro lancear OmegaT, tu debe normalmente scriber duo commandos.</seg>
       </tuv>
     </tu>
     <tu>
