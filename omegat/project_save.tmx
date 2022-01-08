@@ -55663,6 +55663,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start OmegaT in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T085105Z" creationid="will" creationdate="20220108T085105Z">
+        <seg>Pro lancear OmegaT in modo consola, al initio debe esser passate a illo altere parametros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T142357Z">
