@@ -50247,6 +50247,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most important is &lt;l0&gt;/path/to/project&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;p2&gt;/path/to/config-files/&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220108T121522Z" creationid="will" creationdate="20220108T121522Z">
+        <seg>Le plus importante es &lt;l0&gt;/tracto/a/projecto&lt;/l0&gt; e optionalmente &lt;l1&gt;--config-dir=&lt;p2&gt;/tracto/a/config-files/&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T092153Z" creationid="Melo46" creationdate="20200730T092153Z">
