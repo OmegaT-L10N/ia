@@ -26187,10 +26187,26 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T193514Z" creationid="will" creationdate="20220109T193514Z">
+        <seg>Si il &lt;e0&gt;non necessita&lt;/e0&gt; remaner immune de additional cambiamentos, pois remove le TMX ab le plica &lt;f1&gt;/tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
       </tuv>
       <tuv lang="IA" changeid="melo" changedate="20160813T065946Z" creationid="melo" creationdate="20160813T065809Z">
         <seg>Si il &lt;e0&gt;necessita&lt;/e0&gt; remaner immune de additional cambiamentos, pois mantene le TMX in /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T193907Z" creationid="will" creationdate="20220109T193907Z">
+        <seg>Si il &lt;e0&gt;necessita&lt;/e0&gt; remaner immune de additional cambiamentos, pois mantene le TMX in &lt;f1&gt;/tm/enforce&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26951,6 +26967,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T203500Z" creationid="Melo46" creationdate="20151119T090626Z">
         <seg>Si tu non ha ulle dubita que un TMX es plus accurate del file &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, pone iste TMX in le plica /tm/enforce pro superscriber inconditionalmente le traductiones predefinite existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt; to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T193420Z" creationid="will" creationdate="20220109T193420Z">
+        <seg>Si tu non ha ulle dubita que un TMX es plus accurate del file &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, pone iste TMX in le plica &lt;f1&gt;/tm/enforce&lt;/f1&gt; pro superscriber inconditionalmente le traductiones predefinite existente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40709,6 +40733,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220109T175328Z" creationid="will" creationdate="20220109T175328Z">
         <seg>Pone le TMX in &lt;f0&gt;/tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T193438Z" creationid="will" creationdate="20220109T193438Z">
+        <seg>Poner le TMX in &lt;f0&gt;/tm/enforce&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
