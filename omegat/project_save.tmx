@@ -25445,6 +25445,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not given, OmegaT reverts to default values (OmegaT folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T095351Z" creationid="will" creationdate="20220109T095351Z">
+        <seg>Si non specificate, OmegaT reveni al plica del valores prefixate initial (le plica OmegaT in le plica domo del usator o, si indisponibile: le plica de labor actual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T121728Z">
@@ -35125,6 +35133,14 @@ measures.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144301Z">
         <seg>Nota que tu necessitara le programma ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) pro construer tu proprie version de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note the double &lt;l2&gt;-&lt;/l2&gt; character.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T095556Z" creationid="will" creationdate="20220109T095556Z">
+        <seg>Nota que le character duple &lt;l2&gt;-&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
