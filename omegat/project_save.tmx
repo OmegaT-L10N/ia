@@ -25831,6 +25831,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Create Alternative Translation&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T174813Z" creationid="will" creationdate="20220109T174813Z">
+        <seg>Si le traduction currente del segmento non conveni, le usator pote seliger &lt;m0&gt;&lt;g1&gt;Modifica → &lt;/g1&gt;&lt;g2&gt;Crea Traduction Alternative&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the disclaimer of warranty and limitation of liability provided
 above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
@@ -26771,6 +26779,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T083201Z">
         <seg>Si tu ha le option TransTips activate (&lt;g0&gt;Optiones → TransTips&lt;/g0&gt;), tu pote cliccar con le dextro sur le parola marcate in le segmento fonte pro aperir un menu pop-up con le traduction suggerite, assi como offerite per tu glossarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have TransTips option activated (&lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;TransTips&lt;/g2&gt;&lt;/m0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T174704Z" creationid="will" creationdate="20220109T174704Z">
+        <seg>Si tu ha le option TransTips activate (&lt;m0&gt;&lt;g1&gt;Optiones → &lt;/g1&gt;&lt;g2&gt;TransTips&lt;/g2&gt;&lt;/m0&gt;), tu pote cliccar con le dextro sur le parola marcate in le segmento fonte pro aperir un menu pop-up con le traduction suggerite, assi como offerite per tu glossarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39735,6 +39751,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080930Z">
         <seg>Pulsa &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; pro monstrar KRunner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T174726Z" creationid="will" creationdate="20220109T174726Z">
+        <seg>Pulsar &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; pro reimplaciar le traduction del segmento currente con le traduction automatic suggerite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61507,6 +61531,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T083645Z">
         <seg>Tu pote definir uno del alternativas - per exemplo le plus probabile inter illos - como traduction base seligente &lt;g1&gt;Modifica → Usa como traduction base&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;m3&gt;&lt;g4&gt;Edit&lt;/g4&gt;&lt;g5&gt;Use as Default Translation&lt;/g5&gt;&lt;/m3&gt;</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T174914Z" creationid="will" creationdate="20220109T174914Z">
+        <seg>Tu pote definir uno del alternativas - per exemplo le plus probabile inter illos - como traduction base seligente &lt;m3&gt;&lt;g4&gt;Modifica → &lt;/g4&gt;&lt;g5&gt;Usa como traduction base&lt;/g5&gt;&lt;/m3&gt;</seg>
       </tuv>
     </tu>
     <tu>
