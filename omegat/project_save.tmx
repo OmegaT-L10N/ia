@@ -27011,6 +27011,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;tm&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T160248Z" creationid="will" creationdate="20220109T160248Z">
+        <seg>Si tu loca unes files de memoria de traduction in le sub plica &lt;f6&gt;/tm/&lt;/f6&gt;de un projecto, OmegaT querera las automaticamente pro similabile segmentos con "concordantia partial".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T142432Z" creationid="Melo46" creationdate="20200726T142432Z">
@@ -29846,6 +29854,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T135313Z">
         <seg>Il es conveniente tam ben personalisar le configurationes del filtro pro resultatos optime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T160500Z" creationid="will" creationdate="20220109T160500Z">
+        <seg>Es frequentemente utile recercar parolas e phrases in le texto fonte o in tu traduction, que tu pulsa &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; pro le fenestra de dialogo &lt;g3&gt;Cerca Texto&lt;/g3&gt; in qualcunque tempore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60928,6 +60944,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220107T164435Z" creationid="will" creationdate="20220107T164435Z">
         <seg>Tu pote adder OmegaT a tu menus como seque:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, or copy existing glossaries to the &lt;f4&gt;glossary&lt;/f4&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T160418Z" creationid="will" creationdate="20220109T160418Z">
+        <seg>Tu pote adder un nove termino al glossario, pulsante &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;Shift+&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, o copiar glossarios existente in le sub plica &lt;f4&gt;/glossario/&lt;/f4&gt; de tu projecto, e OmegaT querera automaticamente le parolas in illos.</seg>
       </tuv>
     </tu>
     <tu>
