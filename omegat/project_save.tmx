@@ -26299,6 +26299,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T101708Z" creationid="will" creationdate="20220109T101708Z">
+        <seg>Si tu essera interessate re altere configurationes de iste fenestra de dialogo, tu pote revenir a illa in qualcunque tempore pulsante &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072451Z">
@@ -36966,6 +36974,14 @@ installed on your system.</seg>
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140121T222235Z">
+        <seg>Tunc OmegaT copiara le files seligite in le sub-plica &lt;f2&gt;/source/&lt;/f2&gt; de tu nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;source&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T101739Z" creationid="will" creationdate="20220109T101739Z">
         <seg>Tunc OmegaT copiara le files seligite in le sub-plica &lt;f2&gt;/source/&lt;/f2&gt; de tu nove projecto.</seg>
       </tuv>
     </tu>
@@ -61023,8 +61039,8 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
       <tuv lang="EN">
         <seg>You can also run directly the application with the following command:</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20200728T105714Z" creationid="Melo46" creationdate="20200728T105714Z">
-        <seg>Tu pote alsi exequer directemente le application con le sequente commando:</seg>
+      <tuv lang="IA" changeid="will" changedate="20220109T101457Z" creationid="Melo46" creationdate="20200728T105714Z">
+        <seg>On pote anque lo obtener per le commando subversion:</seg>
       </tuv>
     </tu>
     <tu>
