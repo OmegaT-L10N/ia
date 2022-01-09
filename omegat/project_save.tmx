@@ -35473,6 +35473,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/enforce&lt;/f0&gt; before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T193936Z" creationid="will" creationdate="20220109T193936Z">
+        <seg>Nota: si TMX es removite ab &lt;f0&gt;/tm/enforce&lt;/f0&gt; ante le grado 3, le fortiamentos non essera mantenite del toto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160807T074122Z" creationid="Melo46" creationdate="20160807T074122Z">
