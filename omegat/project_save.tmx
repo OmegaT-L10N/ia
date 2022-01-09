@@ -16312,6 +16312,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171538Z" creationid="will" creationdate="20220109T171538Z">
+        <seg>Copia le URL del pagina (finiente con &lt;g0&gt;action=edit&lt;/g0&gt;) e colla lo in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the documents, you need the translation memory for, into the &lt;f0&gt;source&lt;/f0&gt; folder of the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220107T162609Z" creationid="will" creationdate="20220107T162609Z">
@@ -34268,6 +34276,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New translation memories placed in the &lt;f0&gt;tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171711Z" creationid="will" creationdate="20220109T171711Z">
+        <seg>Nove memorias de traduction ponite in le plica &lt;f0&gt;/tm&lt;/f0&gt; durante le traduction es cargate automaticamente a pena le cursor move de un segmento a un altere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171128T192353Z">
@@ -37777,6 +37793,14 @@ installed on your system.</seg>
         <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T125230Z" creationid="Melo46" creationdate="20200730T125230Z">
+        <seg>Aperir le file &lt;f0&gt;.UTF8&lt;/f0&gt; generate in le plica &lt;f1&gt;/target&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171620Z" creationid="will" creationdate="20220109T171620Z">
         <seg>Aperir le file &lt;f0&gt;.UTF8&lt;/f0&gt; generate in le plica &lt;f1&gt;/target&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
@@ -57761,6 +57785,14 @@ re linea {1}, colonna {2}.</seg>
         <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T125803Z" creationid="Melo46" creationdate="20200730T125803Z">
+        <seg>Cargas in le repositorio le files que ha essite addite o modificate localmente in le directorio &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171758Z" creationid="will" creationdate="20220109T171758Z">
         <seg>Cargas in le repositorio le files que ha essite addite o modificate localmente in le directorio &lt;f0&gt;source&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
