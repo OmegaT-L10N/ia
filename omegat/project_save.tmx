@@ -55775,6 +55775,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T160227Z" creationid="will" creationdate="20220109T160227Z">
+        <seg>Pro vider le lista del files in le projecto, aperi le fenestra de dialogo &lt;g3&gt;Files del projecto&lt;/g3&gt; pulsante  &lt;k4&gt;&lt;k5&gt;Ctrl+&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130706T143731Z">
