@@ -37398,6 +37398,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; to generate the target files, which will be created in the &lt;f3&gt;target&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T155716Z" creationid="will" creationdate="20220109T155716Z">
+        <seg>Un vice que tu es certe que non ha nulle errores de tags in tu traduction, que tu pulsa  &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; pro generar tu file final, le qual essera create in le sub plica &lt;f3&gt;/target/&lt;/f3&gt; del plica de tu projecto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080743Z">
@@ -52517,6 +52525,14 @@ covered work, you indicate your acceptance of this License to do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T155638Z" creationid="will" creationdate="20220109T155638Z">
+        <seg>Eo, que tu pulsa &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;Shift+&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; ante que tu genera tu files rendite, pro validar que tu tags son correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T080724Z" creationid="MELO" creationdate="20131219T102724Z">
@@ -55667,6 +55683,14 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="IA" changeid="MELO" changedate="20130709T144516Z">
         <seg>To protect your rights, we need to prevent others from denying you
 these rights or asking you to surrender the rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T160129Z" creationid="will" creationdate="20220109T160129Z">
+        <seg>Pro rememorar te del configurationes initial del projecto, aperi le fenestra de dialogo Proprietates del projecto, pulsante &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
