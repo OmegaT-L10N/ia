@@ -47996,6 +47996,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T175108Z" creationid="will" creationdate="20220109T175108Z">
+        <seg>Le plica &lt;f0&gt;/tm/&lt;/f0&gt; pote continer qualcunque numero de  memorias de traduction auxiliar - i.e. files tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;project_save.tmx&lt;/f1&gt; file contains all the segments that have been recorded in memory since you started the project.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
@@ -49161,6 +49169,22 @@ in vice.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T082440Z">
         <seg>Sol alora le contentos del sub plica target reflectera le stato actual del traduction, como presente in le memoria de traduction del projecto, salvate in le file &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T175015Z" creationid="will" creationdate="20220109T175015Z">
+        <seg>Sol alora le contentos del sub plica target reflectera le stato actual del traduction, como presente in le memoria de traduction del projecto, salvate in le file &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of translation memories in the &lt;f0&gt;tm&lt;/f0&gt; subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T175156Z" creationid="will" creationdate="20220109T175156Z">
+        <seg>Le contentos del memorias de traduction in le sub plica &lt;f0&gt;tm&lt;/f0&gt; serve a generar suggestiones pro le texto(s) a traducer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61379,6 +61403,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130630T172748Z">
         <seg>Tu pote pascer al transverso del notas per &lt;g0&gt;Vade → Nota sequente&lt;/g0&gt; e &lt;g1&gt;Vade → Nota previe&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can browse through notes using &lt;m0&gt;&lt;g1&gt;GoTo&lt;/g1&gt;&lt;g2&gt;Next Note&lt;/g2&gt;&lt;/m0&gt; and &lt;m3&gt;&lt;g4&gt;GoTo&lt;/g4&gt;&lt;g5&gt;Previous Note&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T174958Z" creationid="will" creationdate="20220109T174958Z">
+        <seg>Tu pote pascer al transverso del notas per &lt;m0&gt;&lt;g1&gt;Vade → &lt;/g1&gt;&lt;g2&gt;Nota sequente&lt;/g2&gt;&lt;/m0&gt; e &lt;m3&gt;&lt;g4&gt;Vade → &lt;/g4&gt;&lt;g5&gt;Nota previe&lt;/g5&gt;&lt;/m3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
