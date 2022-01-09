@@ -43290,6 +43290,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;e4&gt;Translation editing&lt;/e4&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T174400Z" creationid="will" creationdate="20220109T174400Z">
+        <seg>Vide &lt;e4&gt;Modifica (edition) del traduction&lt;/e4&gt; for plus de detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150423T065349Z">
@@ -56163,6 +56171,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130629T065752Z">
         <seg>Pro usar le concordantia seligite in tu traduction, usa &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; pro reimplaciar le campo final con le concordantia o usa &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; pro inserer lo al position del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; to replace the target field with the match or use &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T174554Z" creationid="will" creationdate="20220109T174554Z">
+        <seg>Pro usar le concordantia seligite in tu traduction, usa &lt;k4&gt;&lt;k5&gt;Ctrl+&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; pro reimplaciar le campo final con le concordantia o usa &lt;k7&gt;&lt;k8&gt;Ctrl+&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt;  pro inserer lo al position del cursor.</seg>
       </tuv>
     </tu>
     <tu>
