@@ -22451,6 +22451,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with &lt;e3&gt;[fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T175217Z" creationid="will" creationdate="20220109T175217Z">
+        <seg>Per exemplo (predefinite), le traduction ex le TM auxiliar es acceptate e prefixate con &lt;e3&gt;[fuzzy]&lt;/e3&gt;, de maniera que le traductor pote revider le traductiones in un phase successive e controlar si le segmentos etiquettate in iste modo, esseva traducite correctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130807T161459Z">
@@ -25381,6 +25389,14 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20211229T165443Z" creationid="will" creationdate="20211229T165443Z">
         <seg>Si illo es &lt;f0&gt;tar.bz&lt;/f0&gt;, tu ha oblidate a discassar (untar) lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the &lt;f0&gt;tm/auto&lt;/f0&gt; folder and avoid confirming a lot of &lt;e1&gt;[fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T175316Z" creationid="will" creationdate="20220109T175316Z">
+        <seg>Si illo es clar a partir del initio, que le traductiones in certe  TMs es omne correcte, on pote mitter los in le plica  &lt;f0&gt;tm/auto&lt;/f0&gt; e evitar de confirmar multe casos &lt;e1&gt;[fuzzy]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35153,6 +35169,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the TMX files in the &lt;f0&gt;tm&lt;/f0&gt; folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T175246Z" creationid="will" creationdate="20220109T175246Z">
+        <seg>Nota que le le files TMX in le plica &lt;f0&gt;tm&lt;/f0&gt; pote esser comprimite con gzip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130807T200712Z">
@@ -40669,6 +40693,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T203509Z" creationid="Melo46" creationdate="20160809T002548Z">
         <seg>Poner le TMX in /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T175328Z" creationid="will" creationdate="20220109T175328Z">
+        <seg>Pone le TMX in &lt;f0&gt;/tm/auto&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
