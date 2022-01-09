@@ -14911,6 +14911,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks to see whether a more recent version of OmegaT has been released.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171434Z" creationid="will" creationdate="20220109T171434Z">
+        <seg>Controlos pro vider si un plus recente version de OmegaT ha essite publicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T132339Z">
@@ -25457,6 +25465,14 @@ lor initio a causa del cambiamento de location.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T095323Z" creationid="Melo46" creationdate="20200730T095323Z">
         <seg>Si nulle texto es seligite, &lt;a3&gt;OmegaT&lt;/a3&gt; selige le parola que contine le littera immediatemente al dextera del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no text is selected, OmegaT selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171346Z" creationid="will" creationdate="20220109T171346Z">
+        <seg>Si nulle texto es seligite, OmegaT selige le parola que contine le littera immediatemente al dextera del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36708,6 +36724,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130819T042949Z">
         <seg>OmegaT recognosce le codices lingua usante le duo conventiones standard sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171406Z" creationid="will" creationdate="20220109T171406Z">
+        <seg>OmegaT recorda le segmentos exequite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49367,6 +49391,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The exported contents are copied to the file &lt;f0&gt;selection.txt&lt;/f0&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171305Z" creationid="will" creationdate="20220109T171305Z">
+        <seg>Le contentos exportate es copiate in le file &lt;f0&gt;selection.txt&lt;/f0&gt; ubicate in le User's preference files plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130820T221829Z">
@@ -59559,6 +59591,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the user exits OmegaT, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171252Z" creationid="will" creationdate="20220109T171252Z">
+        <seg>Quando le usator claude OmegaT, iste file non es vacuate, pro esser consistente con le comportamento usual del tabula del fragmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140124T234047Z">
@@ -60299,6 +60339,14 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T122604Z" creationid="Melo46" creationdate="20200730T122604Z">
         <seg>Con iste commando tu pote regreder un segmento a un vice, pro retornar al segmento currente per le commando sequente: &lt;g0&gt;Avantiar in chronologia...&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g0&gt;Back in history&lt;/g0&gt;... command.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171426Z" creationid="will" creationdate="20220109T171426Z">
+        <seg>Con iste commando tu pote facer un passo avante al segmento que tu ha previemente lassate per le commando &lt;g0&gt;Retroceder in chronologia...&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
