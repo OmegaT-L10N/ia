@@ -27917,6 +27917,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In macOS, this menu item is listed in the application menu.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T172057Z" creationid="will" creationdate="20220109T172057Z">
+        <seg>In macOS, iste elemento del menu es listate in le menu del application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140106T221901Z" creationid="MELO46" creationdate="20140106T221901Z">
@@ -41958,6 +41966,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171915Z" creationid="will" creationdate="20220109T171915Z">
+        <seg>Reinitiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20211229T164019Z" creationid="will" creationdate="20211229T144824Z">
@@ -42740,6 +42756,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130701T055603Z">
         <seg>Salva le projecto e quita &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the project and quits OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171952Z" creationid="will" creationdate="20220109T171952Z">
+        <seg>Salva le projecto e quita OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the project and restarts OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171942Z" creationid="will" creationdate="20220109T171942Z">
+        <seg>Salva le projecto e reinitia OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57792,8 +57824,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220109T171758Z" creationid="will" creationdate="20220109T171758Z">
-        <seg>Cargas in le repositorio le files que ha essite addite o modificate localmente in le directorio &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      <tuv lang="IA" changeid="will" changedate="20220109T171857Z" creationid="will" creationdate="20220109T171758Z">
+        <seg>Cargas in le repositorio le files que ha essite addite o modificate localmente in le plica &lt;f0&gt;source&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57802,6 +57834,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T125858Z" creationid="Melo46" creationdate="20200730T125858Z">
         <seg>Carga in le repositorio le files que ha essite create localmente in le directorio &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T171845Z" creationid="will" creationdate="20220109T171845Z">
+        <seg>Carga in le repositorio le files que ha essite create localmente in le plica &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
