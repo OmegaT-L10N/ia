@@ -54497,6 +54497,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T101255Z" creationid="will" creationdate="20220109T101255Z">
+        <seg>Isto creara un plen distribution de OmegaT in le plica &lt;f0&gt;./build/distributions&lt;/f0&gt;, ubi tu trovara un file .zip que contine toto lo necessari pro exequer OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T080345Z" creationid="Melo46" creationdate="20200730T080345Z">
