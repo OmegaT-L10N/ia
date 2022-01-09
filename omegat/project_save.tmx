@@ -10753,6 +10753,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to move to the next untranslated segment (or &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T102651Z" creationid="will" creationdate="20220109T102651Z">
+        <seg>Postquam tu ha rendite cata segmento pulsa &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; , pro mover al segmento sequente nondum rendite (o &lt;k3&gt;&lt;k4&gt;Ctrl+&lt;/k4&gt;&lt;k5&gt;Shift+&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; pro mover al segmento sequente ja rendite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150422T164214Z">
@@ -59829,6 +59837,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20150422T164935Z">
         <seg>Quando tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pulsa &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro generar le documentos rendite, que essera create in le sub-plica  &lt;f3&gt;/target/&lt;/f3&gt; de tu projecto. Si tu vole vider solmente le documento active, que tu pulsa &lt;k3&gt;Ctrl+Shift+D&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; to generate the translated documents, which will be created in the &lt;f10&gt;target&lt;/f10&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220109T103003Z" creationid="will" creationdate="20220109T103003Z">
+        <seg>Quando tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pulsa &lt;k7&gt;&lt;k8&gt;Ctrl+&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; pro generar le documentos rendite, que essera create in le sub-plica  &lt;f10&gt;/target/&lt;/f10&gt; de tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
