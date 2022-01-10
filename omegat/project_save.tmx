@@ -10705,6 +10705,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T185210Z" creationid="will" creationdate="20220110T185210Z">
+        <seg>Post plure de iste operationes, elige &lt;m0&gt;&lt;g1&gt;Rediger&lt;/g1&gt;&lt;g2&gt;Re-alineamento pendente&lt;/g2&gt; &lt;/m0&gt; pro actualisar le alineamento del altere segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200731T073439Z" creationid="Melo46" creationdate="20200731T073439Z">
