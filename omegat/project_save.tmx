@@ -61573,6 +61573,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools&lt;/g0&gt; menu or by pressing &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190933Z" creationid="will" creationdate="20220110T190933Z">
+        <seg>Tu pote alsi lancear le macros seligite del menu principal per lor entratas in le menu &lt;g0&gt;Applicationes&lt;/g0&gt; o pulsante &lt;k1&gt;&lt;k2&gt;Ctrl+&lt;/k2&gt;&lt;k3&gt;Alt+&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 a 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130703T082408Z">
