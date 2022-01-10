@@ -50671,6 +50671,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx&lt;/f1&gt;, that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T184008Z" creationid="will" creationdate="20220110T184008Z">
+        <seg>Le plus importante file hic es le &lt;f1&gt;project_save.tmx&lt;/f1&gt;, que es le memoria de traduction operative pro le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most important is &lt;l0&gt;/path/to/project&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;p2&gt;/path/to/config-files/&lt;/p2&gt;&lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220108T121522Z" creationid="will" creationdate="20220108T121522Z">
@@ -55131,6 +55139,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200726T204456Z" creationid="Melo46" creationdate="20200726T204456Z">
         <seg>Acceder iste fenestra, eliger &lt;m0&gt; &lt;g1&gt;Applicationes&lt;/g1&gt; &lt;g2&gt;Alinear Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access this window, select &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Align Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T184056Z" creationid="will" creationdate="20220110T184056Z">
+        <seg>Acceder iste fenestra, eliger &lt;m0&gt;&lt;g1&gt;Applicationes&lt;/g1&gt;&lt;g2&gt;Alinear Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
