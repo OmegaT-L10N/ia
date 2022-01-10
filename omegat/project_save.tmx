@@ -37982,6 +37982,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T191036Z" creationid="will" creationdate="20220110T191036Z">
+        <seg>Aperi le Fenestra de recerca e replacia con &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; e inscribe le parola o phrase que tu desidera pro recercar in le cassa  pro le &lt;g3&gt;Recerca&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151119T211313Z" creationid="Melo46" creationdate="20151119T211313Z">
@@ -52559,6 +52567,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z" creationid="Melo" creationdate="20151117T191616Z">
         <seg>Clicca alora sur le button &lt;e0&gt;Cercar&lt;/e0&gt; pro monstrar tote le occurrentias correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;g0&gt;Search&lt;/g0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T191109Z" creationid="will" creationdate="20220110T191109Z">
+        <seg>[fuzzy]Clicca alora sur le button &lt;e0&gt;Cercar&lt;/e0&gt; pro monstrar tote le occurrentias correspondente.</seg>
       </tuv>
     </tu>
     <tu>
