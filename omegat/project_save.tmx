@@ -29738,6 +29738,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;g0&gt;Move ...&lt;/g0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190057Z" creationid="will" creationdate="20220110T190057Z">
+        <seg>Il es alsi possibile cambiar le position de un nomine de file, cliccante sur lo e pulsante le buttones &lt;g0&gt;Mover....&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130625T192953Z">
@@ -48188,6 +48196,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g4&gt;Project Files&lt;/g4&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190008Z" creationid="will" creationdate="20220110T190008Z">
+        <seg>Le fenestra &lt;g4&gt;Files del Projecto&lt;/g4&gt; monstra le information sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130821T090004Z">
@@ -52925,6 +52941,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151119T203801Z" creationid="Melo46" creationdate="20151119T203801Z">
         <seg>Istos es le files presente in le plica /source in un formato que OmegaT es habile a recognoscer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the files present in the &lt;f0&gt;source&lt;/f0&gt; folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190034Z" creationid="will" creationdate="20220110T190034Z">
+        <seg>Istos es le files presente in le plica &lt;f0&gt;/source&lt;/f0&gt; in un formato que OmegaT es habile a recognoscer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58250,6 +58274,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T095238Z" creationid="Melo46" creationdate="20200730T095238Z">
         <seg>Usar Shift+F3 &lt;i0/&gt;pro cyclar inter le quatro alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; to open and &lt;k3&gt;Esc&lt;/k3&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T185947Z" creationid="will" creationdate="20220110T185947Z">
+        <seg>Usa &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; pro aperir e &lt;k3&gt;Esc&lt;/k3&gt; pro clauder lo.</seg>
       </tuv>
     </tu>
     <tu>
