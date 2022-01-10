@@ -48124,6 +48124,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190329Z" creationid="will" creationdate="20220110T190329Z">
+        <seg>Le file &lt;f0&gt;project_stats.txt&lt;/f0&gt; ubicate in le plica &lt;f1&gt;omegat&lt;/f1&gt; de tu projecto, contine information plus detaliate re le segmentos, partite per cata file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130708T185830Z">
@@ -51657,6 +51665,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Le serie de segmentos &lt;e0&gt;Unic &lt;/e0&gt;es computate per retener tote le segmentos e remover tote le segmentos duplicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique&lt;/e0&gt; segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190114Z" creationid="will" creationdate="20220110T190114Z">
+        <seg>Le serie de segmentos &lt;e0&gt;Unic&lt;/e0&gt; es computate per retener tote le segmentos e remover tote le segmentos duplicate.</seg>
       </tuv>
     </tu>
     <tu>
