@@ -4790,6 +4790,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190555Z" creationid="will" creationdate="20220110T190555Z">
+        <seg>&lt;e0&gt;Adder files al projecto:&lt;/e0&gt; Tu pote adder files fonte al projecto cliccante sur le button &lt;g1&gt;"Importar files fonte..."&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200727T072708Z" creationid="Melo46" creationdate="20200727T072708Z">
@@ -61424,6 +61432,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T082746Z" creationid="Melo46" creationdate="20200730T082746Z">
         <seg>Tu pote alsi scriber &lt;c3&gt;cd&lt;/c3&gt; directemente ab le linea de commando e aperir &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; in un editor de linea de commando como emacs o vi&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T190755Z" creationid="will" creationdate="20220110T190755Z">
+        <seg>Tu pote alsi adder files fonte a partir de paginas Internet, scripte in MediaWiki, cliccante sur le button &lt;g3&gt;"Importar ex MediaWiki"&lt;/g3&gt; e providente le URL correspondente.</seg>
       </tuv>
     </tu>
     <tu>
