@@ -37435,6 +37435,14 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Once OmegaT is installed, you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T175924Z" creationid="will" creationdate="20220110T175924Z">
+        <seg>Un vice que OmegaT es installate, tu pote cliccar sur &lt;f0&gt;OmegaT.jar&lt;/f0&gt; pro lancear lo directemente o lancear lo per linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"Once" non equala "un vice" in iste contexto, sed illo significa "quando".</note>
       <tuv lang="EN">
         <seg>Once OmegaT is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
@@ -52455,6 +52463,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20171113T224911Z">
         <seg>Le sito web de&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/u0&gt;contine ligamines verso numerose ressources &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220110T175854Z" creationid="will" creationdate="20220110T175854Z">
+        <seg>Thema</seg>
       </tuv>
     </tu>
     <tu>
