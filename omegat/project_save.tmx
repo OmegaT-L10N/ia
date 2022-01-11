@@ -20294,6 +20294,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;g0&gt;Replace with&lt;/g0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20220111T170154Z" creationid="will" creationdate="20220111T170154Z">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the Replace with box, then click one of the following options:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081424Z">
