@@ -5879,6 +5879,22 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20220111T170255Z" creationid="will" creationdate="20220111T170255Z">
+        <seg>Reimplaciar toto: opera le replaciamento de tote le occurrentias (post los haber displicate un fenestra de confirmation ubi es monstrate le numero de occurrentias).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20220111T170351Z" creationid="will" creationdate="20220111T170351Z">
+        <seg>&lt;g0&gt;Reimplaciar:&lt;/g0&gt; opera un replaciamento "uno a uno", per le buttones al testa del quadro Modificar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220106T082027Z" creationid="will" creationdate="20220106T082027Z">
@@ -15147,6 +15163,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220105T163816Z" creationid="will" creationdate="20220105T163816Z">
         <seg>Clicca &lt;g1&gt;Predefinite base&lt;/g1&gt; pro restabilir le filtros de file al configurationes base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20220111T170757Z" creationid="will" creationdate="20220111T170757Z">
+        <seg>Clicca &lt;g1&gt;Replacia le successive&lt;/g1&gt; o &lt;g2&gt;Salta&lt;/g2&gt;, pois fini le session de replaciamento con &lt;g3&gt;Fini&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
