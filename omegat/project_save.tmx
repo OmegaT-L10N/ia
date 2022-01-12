@@ -5774,6 +5774,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220112T090426Z" creationid="will" creationdate="20220112T090426Z">
+        <seg>&lt;g0&gt;Clauder&lt;/g0&gt;: claude le fenestra sin cambiamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T084152Z" creationid="will" creationdate="20220106T084152Z">
@@ -20854,6 +20862,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20151117T192315Z" creationid="Melo" creationdate="20151117T192315Z">
         <seg>Excepte uno: controlar &lt;e0&gt;Non rendite&lt;/e0&gt; pro facer Cercar e reimplaciar alsi sur le segmentos que non ha essite jam rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220112T090449Z" creationid="will" creationdate="20220112T090449Z">
+        <seg>Excepte uno: controlar &lt;g0&gt;Non rendite&lt;/g0&gt; pro facer Cercar e reimplaciar alsi sur le segmentos que non ha essite jam rendite.</seg>
       </tuv>
     </tu>
     <tu>
