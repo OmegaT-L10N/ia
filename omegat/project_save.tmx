@@ -5959,6 +5959,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220113T200818Z" creationid="will" creationdate="20220113T200818Z">
+        <seg>&lt;g0&gt;in le fonte&lt;/g0&gt;: cerca in le segmentos fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171001T170633Z" creationid="Karm46" creationdate="20171001T170305Z">
