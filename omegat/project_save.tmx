@@ -5967,6 +5967,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220114T073030Z" creationid="will" creationdate="20220114T073030Z">
+        <seg>&lt;g0&gt;Non rendite&lt;/g0&gt;: recerca sol in le segmentos non rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220113T200203Z" creationid="will" creationdate="20220113T200203Z">
