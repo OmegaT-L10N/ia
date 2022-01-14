@@ -5911,14 +5911,6 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;g0&gt;Space matches nbsp&lt;/g0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220113T200726Z" creationid="will" creationdate="20220113T200726Z">
-        <seg>&lt;g0&gt;Concordantias del spatio nbsp&lt;/g0&gt;: quando es marcate iste option, un character spatio del fila de recerca concorda sia un normal character de spatio que un character (\u00A) de spatio ininterrumpibile.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20200730T191243Z" creationid="Melo46" creationdate="20200730T191243Z">
@@ -5947,70 +5939,6 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T081909Z" creationid="will" creationdate="20220106T081909Z">
         <seg>&lt;e0&gt;Rende le attributos sequente&lt;/e0&gt;: le attributos seligite apparera como segmentos in le Fenestra de Modifica.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220114T072848Z" creationid="will" creationdate="20220114T072848Z">
-        <seg>&lt;g0&gt;Rendite o non rendite&lt;/g0&gt;: recerca in ambe le segmentos rendite e non rendite.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220114T072952Z" creationid="will" creationdate="20220114T072952Z">
-        <seg>&lt;g0&gt;Rendite&lt;/g0&gt;: recerca sol in le segmentos rendite.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220114T073030Z" creationid="will" creationdate="20220114T073030Z">
-        <seg>&lt;g0&gt;Non rendite&lt;/g0&gt;: recerca sol in le segmentos non rendite.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220113T200203Z" creationid="will" creationdate="20220113T200203Z">
-        <seg>&lt;g0&gt;sensitive al majusculas e minusculas&lt;/g0&gt;: le recerca essera effectuate pro le exacte linea de characteres specificate; id es es observate le capitalisation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220114T072812Z" creationid="will" creationdate="20220114T072812Z">
-        <seg>&lt;g0&gt;in le commentos&lt;/g0&gt;: cerca in le commentos del segmentos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220114T072542Z" creationid="will" creationdate="20220114T072542Z">
-        <seg>&lt;g0&gt;in le notas&lt;/g0&gt;: cerca in le notas del segmentos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220113T200818Z" creationid="will" creationdate="20220113T200818Z">
-        <seg>&lt;g0&gt;in le fonte&lt;/g0&gt;: cerca in le segmentos fonte</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220114T072241Z" creationid="will" creationdate="20220114T072241Z">
-        <seg>&lt;g0&gt;in le traductiones&lt;/g0&gt;: cerca in le segmentos final</seg>
       </tuv>
     </tu>
     <tu>
@@ -15459,14 +15387,6 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20151117T203622Z" creationid="Melo46" creationdate="20151117T203622Z">
         <seg>Clicca le flecha a cadita del cassa &lt;e0&gt;Recercar pro&lt;/e0&gt; al fin de acceder al ultime 10 recercas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Click the dropdown arrow of the &lt;g0&gt;Search for&lt;/g0&gt; box to access the last 10 searches.</seg>
-      </tuv>
-      <tuv lang="IA" changeid="will" changedate="20220113T193651Z" creationid="will" creationdate="20220113T193417Z">
-        <seg>Clicca le flecha a cadita del cassa &lt;g0&gt;Recercar pro&lt;/g0&gt; al fin de acceder al ultime 10 recercas.</seg>
       </tuv>
     </tu>
     <tu>
