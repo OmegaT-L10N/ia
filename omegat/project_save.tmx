@@ -5959,10 +5959,26 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220114T072542Z" creationid="will" creationdate="20220114T072542Z">
+        <seg>&lt;g0&gt;in le notas&lt;/g0&gt;: cerca in le notas del segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220113T200818Z" creationid="will" creationdate="20220113T200818Z">
         <seg>&lt;g0&gt;in le fonte&lt;/g0&gt;: cerca in le segmentos fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220114T072241Z" creationid="will" creationdate="20220114T072241Z">
+        <seg>&lt;g0&gt;in le traductiones&lt;/g0&gt;: cerca in le segmentos final</seg>
       </tuv>
     </tu>
     <tu>
