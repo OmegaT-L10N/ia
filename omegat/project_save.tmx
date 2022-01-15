@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5907,6 +5907,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T082027Z" creationid="will" creationdate="20220106T082027Z">
         <seg>&lt;g0&gt;Saltar texto concordante expression regular&lt;/g0&gt;: ulle texto concordante le expression regular es saltate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Space matches nbsp&lt;/g0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="crossover" changedate="20220115T205704Z" creationid="crossover" creationdate="20220115T205704Z">
+        <seg>&lt;g0&gt;Concordantias del spatio nbsp&lt;/g0&gt;: quando es marcate iste option, un character spatio del fila de recerca concorda sia un normal character de spatio que un character (\u00A) de spatio ininterrumpibile.</seg>
       </tuv>
     </tu>
     <tu>
