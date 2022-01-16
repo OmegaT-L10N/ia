@@ -5962,6 +5962,22 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220116T174244Z" creationid="will" creationdate="20220116T174244Z">
+        <seg>&lt;g0&gt;in le commentos&lt;/g0&gt;: cerca in le commentos del segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220116T174226Z" creationid="will" creationdate="20220116T174226Z">
+        <seg>&lt;g0&gt;in le notas&lt;/g0&gt;: cerca in le notas del segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
       </tuv>
       <tuv lang="IA" changeid="crossover" changedate="20220115T205823Z" creationid="crossover" creationdate="20220115T205823Z">
