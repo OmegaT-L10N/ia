@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5950,6 +5950,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T081909Z" creationid="will" creationdate="20220106T081909Z">
         <seg>&lt;e0&gt;Rende le attributos sequente&lt;/e0&gt;: le attributos seligite apparera como segmentos in le Fenestra de Modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="crossover" changedate="20220117T190957Z" creationid="crossover" creationdate="20220117T190957Z">
+        <seg>&lt;g0&gt;Rendite o non rendite&lt;/g0&gt;: recerca in ambe le segmentos rendite e non rendite.</seg>
       </tuv>
     </tu>
     <tu>
