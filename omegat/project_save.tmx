@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5798,6 +5798,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Display: all matching segments&lt;/g0&gt;: if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220119T123107Z" creationid="will" creationdate="20220119T123107Z">
+        <seg>&lt;g0&gt;Monstrar: tote le segmentos concordante&lt;/g0&gt;: si marcate, tote le segmentos es monstrate uno per uno, etsi si illos es presente plure vices in le mesme documento o in documentos differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T084125Z" creationid="will" creationdate="20220106T084125Z">
@@ -5958,6 +5966,22 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="IA" changeid="crossover" changedate="20220117T190957Z" creationid="crossover" creationdate="20220117T190957Z">
         <seg>&lt;g0&gt;Rendite o non rendite&lt;/g0&gt;: recerca in ambe le segmentos rendite e non rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220119T112346Z" creationid="will" creationdate="20220119T112346Z">
+        <seg>&lt;g0&gt;Rendite&lt;/g0&gt;: recerca sol in le segmentos rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220119T112406Z" creationid="will" creationdate="20220119T112406Z">
+        <seg>&lt;g0&gt;Non rendite&lt;/g0&gt;: recerca sol in le segmentos non rendite.</seg>
       </tuv>
     </tu>
     <tu>
