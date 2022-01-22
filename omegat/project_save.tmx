@@ -12340,6 +12340,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As OmegaT handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152238Z" creationid="will" creationdate="20220122T152238Z">
+        <seg>Pois que OmegaT tracta segmentos identic como un entitate singule, sol le prime segmento unic es monstrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -19285,6 +19293,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160808T012006Z" creationid="Melo46" creationdate="20160808T012006Z">
         <seg>Le duple-clic sur un segmento aperi lo in Editor pro modificationes (un clic singule face lo quando es marcate le option &lt;e0&gt;Auto-synchronisar con le Editor&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;g0&gt;Auto-sync with Editor&lt;/g0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152445Z" creationid="will" creationdate="20220122T152445Z">
+        <seg>Le duple-clic sur un segmento aperi lo in Editor pro modificationes (un clic singule face lo quando es marcate le option &lt;g0&gt;Auto-synchronisar con le Editor&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59990,6 +60006,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo46" changedate="20160810T105750Z" creationid="Melo46" creationdate="20160810T105750Z">
         <seg>Quando es marcate le option &lt;e1&gt; insensibile al largessa del character &lt;/e1&gt;, le recercas pro le formas  plen  (characteres CJK) concordara le formas a largessa medietate e vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;g1&gt;Full/Half width char insensitive&lt;/g1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152222Z" creationid="will" creationdate="20220122T152222Z">
+        <seg>Quando es marcate le option &lt;g1&gt;insensibile al largessa del character&lt;/g1&gt;, le recercas pro le formas plen (characteres CJK) concordara le formas a largessa medietate e vice versa.</seg>
       </tuv>
     </tu>
     <tu>
