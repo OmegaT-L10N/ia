@@ -5816,6 +5816,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Display: file names&lt;/g0&gt;: if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T154650Z" creationid="will" creationdate="20220122T154650Z">
+        <seg>&lt;g0&gt;Monstrar: le nomines de file&lt;/g0&gt;: si marcate, le nomine de file ubi cata segmento es trovate, es monstrate ante cata resultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220106T084125Z" creationid="will" creationdate="20220106T084125Z">
@@ -23486,8 +23494,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>General Preferences</seg>
       </tuv>
-      <tuv lang="IA" changeid="Melo46" changedate="20200726T084721Z" creationid="Melo46" creationdate="20200726T084721Z">
-        <seg>Preferentias generar</seg>
+      <tuv lang="IA" changeid="will" changedate="20220122T154631Z" creationid="Melo46" creationdate="20200726T084721Z">
+        <seg>Preferentias general</seg>
       </tuv>
     </tu>
     <tu>
@@ -28358,6 +28366,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T220033Z" creationid="Karm46" creationdate="20170909T235255Z">
         <seg>Pro installar le version Web start, tu debe jam haber installate sur tu computer le version Java 1.3 o plus tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T154545Z" creationid="will" creationdate="20220122T154545Z">
+        <seg>Pro installar le version Web start, tu debe jam haber installate sur tu computer le version Java 1.8 o plus tarde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39373,6 +39389,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140109T092200Z" creationid="MELO46" creationdate="20140109T092200Z">
         <seg>Periodo, sequite per un littera majuscule - possibilemente un spatio es mancante inter le periodo e le initio de un phrase nove?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T154556Z" creationid="will" creationdate="20220122T154556Z">
+        <seg>Compilationes periodic es disponibile sur Sourceforge.</seg>
       </tuv>
     </tu>
     <tu>
