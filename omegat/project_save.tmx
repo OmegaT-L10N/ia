@@ -14570,6 +14570,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;g3&gt;TMs&lt;/g3&gt; to include the translation memories located in the &lt;f4&gt;tm&lt;/f4&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T151702Z" creationid="will" creationdate="20220122T151702Z">
+        <seg>Marcar &lt;g3&gt;TMs&lt;/g3&gt; pro includer in le recerca le memorias de traduction ubicate in le plica  &lt;f4&gt;tm&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;g5&gt;Glossaries&lt;/g5&gt; to include the glossaries located in the &lt;f6&gt;glossary&lt;/f6&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T151937Z" creationid="will" creationdate="20220122T151937Z">
+        <seg>Marcar &lt;g5&gt;Glossarios&lt;/g5&gt; pro includer in le recerca le glossarios ubicate in le plica &lt;f6&gt;glossary&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130601T090022Z">
