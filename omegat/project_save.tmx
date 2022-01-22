@@ -5911,6 +5911,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T151950Z" creationid="will" creationdate="20220122T151950Z">
+        <seg>&lt;g0&gt;Recerca in le files&lt;/g0&gt;: recerca in un file singule o in un plica continente un collection de files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220122T151636Z" creationid="will" creationdate="20220122T151636Z">
@@ -16062,6 +16070,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130627T085331Z">
         <seg>Connexion disponibile, le projecto es in modo projecto de equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consequently, although OmegaT is quite able to handle &lt;f1&gt;tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152112Z" creationid="will" creationdate="20220122T152112Z">
+        <seg>Per consequentia, ben que OmegaT is bastante capace a tractar files &lt;f1&gt;tmx&lt;/f1&gt;, illo non include los in le Files a perquirer del recerca.</seg>
       </tuv>
     </tu>
     <tu>
