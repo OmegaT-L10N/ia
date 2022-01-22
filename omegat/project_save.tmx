@@ -13646,6 +13646,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152725Z" creationid="will" creationdate="20220122T152725Z">
+        <seg>Le defectos, le requestas de functionalitates e le problemas re le documentation es tractate sur Sourceforge con le sequente systemas de revision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171116T065517Z">
@@ -35154,6 +35162,16 @@ measures.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130309T130635Z">
         <seg>Pro non mentionar su cura e diligentia pro tener le archivos intacte e in bon ordine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Io non es secur si "notariate" es correcte/existe in IA.
+</note>
+      <tuv lang="EN">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T153144Z" creationid="will" creationdate="20220122T153144Z">
+        <seg>Notariate vs Non signate</seg>
       </tuv>
     </tu>
     <tu>
