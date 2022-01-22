@@ -2112,6 +2112,16 @@ ma tu non vide tu nomine in le listas, senti te libere de nos continger.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152655Z" creationid="will" creationdate="20220122T152655Z">
+        <seg>(Si tu pensa que tu ha significativemente contribuite al projecto OmegaT 
+ma tu non vide tu nomine in le listas, senti te libere de nos continger.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130609T175610Z">
@@ -36340,6 +36350,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152718Z" creationid="will" creationdate="20220122T152718Z">
+        <seg>OmegaT ha alsi le sequente listas de posta electronic e revisores, que es hospite sur Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20131224T185526Z">
@@ -40114,6 +40132,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO46" changedate="20140615T071453Z" creationid="MELO46" creationdate="20140615T071453Z">
         <seg>Pulsa le button &lt;e0&gt;Filtro&lt;/e0&gt; sur le fundo pro limitar le entratas monstrate in le fenestra Modifica pro illos que concorda le recerca currente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;g0&gt;Filter&lt;/g0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152459Z" creationid="will" creationdate="20220122T152459Z">
+        <seg>Pulsa le button &lt;g0&gt;Filtro&lt;/g0&gt; sur le fundo pro limitar le entratas monstrate in le fenestra Modifica pro illos que concorda le recerca currente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56325,6 +56351,14 @@ these rights or asking you to surrender the rights.</seg>
         <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
       </tuv>
       <tuv lang="IA" changeid="Melo" changedate="20150422T081109Z" creationid="MELO46" creationdate="20140615T072514Z">
+        <seg>Pro remover un filtro, pulsa le button &lt;e0&gt;Remove filtro&lt;/e0&gt;, o recarga le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a filter, press the &lt;g0&gt;Remove filter&lt;/g0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T152520Z" creationid="will" creationdate="20220122T152520Z">
         <seg>Pro remover un filtro, pulsa le button &lt;e0&gt;Remove filtro&lt;/e0&gt;, o recarga le projecto.</seg>
       </tuv>
     </tu>
