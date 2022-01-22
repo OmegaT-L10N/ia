@@ -36616,6 +36616,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T154253Z" creationid="will" creationdate="20220122T154253Z">
+        <seg>OmegaT pro MacOS es disponibile in ambe le versiones, notariate e non signate; illos es functionalmente identic, ma le version notariate es ideal pois que illos es recognoscite per le systema como esser a) publicate per un note disveloppator e b) scrutate per Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
       <tuv lang="IA" changeid="will" changedate="20220101T085602Z" creationid="will" creationdate="20211231T170447Z">
