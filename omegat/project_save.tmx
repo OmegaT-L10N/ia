@@ -49305,6 +49305,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T154524Z" creationid="will" creationdate="20220122T154524Z">
+        <seg>Le certificato es signate per le disveloppator principal de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
       </tuv>
       <tuv lang="IA" changeid="MELO" changedate="20130610T134511Z">
@@ -53126,6 +53134,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T215215Z" creationid="Karm46" creationdate="20171115T215215Z">
         <seg>On pote haber un retardo a publicar le versiones signate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T154304Z" creationid="will" creationdate="20220122T154304Z">
+        <seg>On pote haber un retardo a publicar le versiones notariate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59149,6 +59165,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="IA" changeid="Karm46" changedate="20171115T220937Z">
         <seg>Dunque le usatores non besonia de compilar illes ipse OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IA" changeid="will" changedate="20220122T154343Z" creationid="will" creationdate="20220122T154343Z">
+        <seg>Le usatores hastive pote usar le version non signate in vice; si tu ha difficultate a lancear le app, vide &lt;a0&gt;como aperir un app de un disveloppator non identificate&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
