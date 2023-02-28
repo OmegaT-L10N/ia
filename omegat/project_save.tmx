@@ -50406,6 +50406,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T085426Z" creationid="will" creationdate="20230228T085426Z">
+        <seg>Le plica ubi on pote installar plugins externe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
