@@ -33309,6 +33309,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Marks</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T090831Z" creationid="will" creationdate="20230228T090831Z">
+        <seg>Marcas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T140904Z">
@@ -56052,6 +56060,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T080418Z">
         <seg>Pro cambiar le position del plicas postquam un projecto esseva create, aperi &lt;g0&gt;Projecto &gt; Proprietates...&lt;/g0&gt; in le menu o con &lt;g1&gt;Ctrl+E&lt;/g1&gt; e face le cambios necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T091258Z" creationid="will" creationdate="20230228T091258Z">
+        <seg>Pro cambiar le position de un character con directionalitate debile o neutral (como symbolos de punctuation), insere un LRM o RLM character post le character dependente del directionalitate del segmento:</seg>
       </tuv>
     </tu>
     <tu>
