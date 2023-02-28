@@ -53179,6 +53179,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T171411Z" creationid="will" creationdate="20230228T171259Z">
+        <seg>Le texto in le file es replaciate cata vice que iste functiona es invocate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text is exported to a plain text file.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T211133Z">
@@ -55064,8 +55072,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T171216Z" creationid="will" creationdate="20230228T171216Z">
-        <seg>Iste file salva le texto selegite actual quando tu usa &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230228T171315Z" creationid="will" creationdate="20230228T171216Z">
+        <seg>Iste file salva le texto selegite actual quando se usa &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
