@@ -20209,8 +20209,17 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Embeddings</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T092013Z" creationid="will" creationdate="20230228T091904Z">
-        <seg>incorporation</seg>
+      <tuv lang="ia" changeid="will" changedate="20230228T092711Z" creationid="will" creationdate="20230228T091904Z">
+        <seg>incorporationes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Io non es secur re iste segmento.</note>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T093022Z" creationid="will" creationdate="20230228T093022Z">
+        <seg>*** Incorporationes pote esser usate pro crear un section plus longe de texto (un text continente plure parolas e spatios) que debe fluer in le direction contrari a ille del segmento.</seg>
       </tuv>
     </tu>
     <tu>
