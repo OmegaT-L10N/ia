@@ -56169,6 +56169,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T130637Z" creationid="will" creationdate="20230228T130637Z">
+        <seg>Pro crear un incorporation de sinistra a dextra in un segmento de dextra a sinistra, insere un character de incorporation de sinistra a dextra (LRE), typa o insere le texto de sinistra a dextra, e postea insere le character de formattation directional pop (PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T072759Z" creationid="Melo46" creationdate="20151117T072759Z">
