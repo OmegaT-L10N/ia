@@ -55030,6 +55030,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T193415Z" creationid="will" creationdate="20230228T193415Z">
+        <seg>Iste file contine le &lt;e0&gt;texto original&lt;/e0&gt; del segmento actual quando le preferentia &lt;l1/&gt; es activata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170007Z" creationid="will" creationdate="20230228T170007Z">
