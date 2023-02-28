@@ -44570,6 +44570,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T200340Z" creationid="will" creationdate="20230228T200340Z">
+        <seg>Vide le &lt;l0/&gt;preferentias pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085841Z" creationid="will" creationdate="20230228T085841Z">
@@ -55850,10 +55858,26 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T200642Z" creationid="will" creationdate="20230228T200642Z">
+        <seg>Iste file de parametro contine parametros de auto-texto personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized editor shortcuts.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T194859Z" creationid="will" creationdate="20230228T194859Z">
         <seg>Iste parametro contine via-breves personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T200430Z" creationid="will" creationdate="20230228T200430Z">
+        <seg>Iste file de parametro contine parametros de cercas externe personalisate.</seg>
       </tuv>
     </tu>
     <tu>
