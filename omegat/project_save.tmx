@@ -55079,6 +55079,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T200749Z" creationid="will" creationdate="20230228T200749Z">
+        <seg>Iste file contine le informationes de accesso pro tu repositorios del projecto de equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170007Z" creationid="will" creationdate="20230228T170007Z">
