@@ -50390,6 +50390,22 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T084911Z" creationid="will" creationdate="20230228T084911Z">
+        <seg>Le plica ubi le imagines usate per OmegaT es salvate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T085046Z" creationid="will" creationdate="20230228T085046Z">
+        <seg>Le plica ubi le bibliothecas usate per OmegaT es salvate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
@@ -50978,6 +50994,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T083946Z" creationid="will" creationdate="20230228T083946Z">
         <seg>Le list de collaboratores individual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T084827Z" creationid="will" creationdate="20230228T084827Z">
+        <seg>Le lista de bibliothecas usate per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
