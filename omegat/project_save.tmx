@@ -13446,6 +13446,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T090048Z" creationid="will" creationdate="20230228T090048Z">
+        <seg>Controlo characteres bidi es disponibile ex &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T232356Z" creationid="Melo" creationdate="20151014T232356Z">
@@ -29377,6 +29385,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T195606Z" creationid="Melo46" creationdate="20160728T195606Z">
         <seg>Inserer un character de controlo Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T090539Z" creationid="will" creationdate="20230228T090539Z">
+        <seg>Le insertion de un character invisibile con un forte directionalitate pro fortiar un position specific pro un character con un directionalitate debile o neutral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53768,6 +53784,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T081240Z" creationid="Karm46" creationdate="20170909T235505Z">
         <seg>On los pote trovar in le plicas del versiones compilate correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be used to:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T090112Z" creationid="will" creationdate="20230228T090112Z">
+        <seg>Illos pote esser utilisate pro:</seg>
       </tuv>
     </tu>
     <tu>
