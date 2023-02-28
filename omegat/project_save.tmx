@@ -20209,8 +20209,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Embeddings</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T092711Z" creationid="will" creationdate="20230228T091904Z">
-        <seg>incorporationes</seg>
+      <tuv lang="ia" changeid="will" changedate="20230228T093122Z" creationid="will" creationdate="20230228T091904Z">
+        <seg>Incorporationes</seg>
       </tuv>
     </tu>
     <tu>
@@ -62483,6 +62483,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T075215Z" creationid="MELO46" creationdate="20131219T165221Z">
         <seg>Tu pote crear entratas del glossario con 'Crear un entrata de glossario' in le menu 'Modificar'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T093140Z" creationid="will" creationdate="20230228T093118Z">
+        <seg>On pote crear duo sortas de incorporationes dependente del directionalitate del segmento:</seg>
       </tuv>
     </tu>
     <tu>
