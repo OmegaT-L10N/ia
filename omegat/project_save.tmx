@@ -27221,6 +27221,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T162653Z" creationid="will" creationdate="20230228T162653Z">
+        <seg>Si tu non usa le plica de configuration predefinite, tote le modificationes facite in le &lt;l0&gt;preferentias&lt;/l0&gt; essera salvate in le plica de configuration specificate e non apparera quando tu recommencia a laborar con le plica del configuration predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T190454Z">
