@@ -63246,6 +63246,15 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T161531Z" creationid="will" creationdate="20230228T161531Z">
+        <seg>Tu pote specificar un plica de configuration que non es le predefinite quando tu initia OmegaT ab le linea de commando.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T080855Z" creationid="MELO" creationdate="20131219T062428Z">
