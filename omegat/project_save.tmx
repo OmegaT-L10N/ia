@@ -34120,6 +34120,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T161718Z" creationid="will" creationdate="20230228T161718Z">
+        <seg>Le preferentias modificate es salvate in le plica del configuration usate per le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T155441Z" creationid="MELO46" creationdate="20131226T155441Z">
@@ -44486,6 +44494,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T083526Z" creationid="will" creationdate="20230228T083526Z">
         <seg>Reguarda &lt;l0/&gt; capitulo pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T161612Z" creationid="will" creationdate="20230228T161612Z">
+        <seg>Reguarda le &lt;l0/&gt; how-to pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
