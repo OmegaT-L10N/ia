@@ -34955,8 +34955,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T081201Z" creationid="will" creationdate="20230228T081201Z">
-        <seg>Nulle option: Lanciar interfacie graphic.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230228T083100Z" creationid="will" creationdate="20230228T081201Z">
+        <seg>Nulle: Lancear le GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51652,6 +51652,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083237Z" creationid="will" creationdate="20230228T083237Z">
+        <seg>Le positiones recommendate o predefinite es sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T094532Z" creationid="Melo46" creationdate="20200728T094532Z">
@@ -58647,8 +58655,8 @@ re linea {1}, colonna {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T080646Z" creationid="will" creationdate="20230228T080646Z">
-        <seg>Usage: java -jar [&lt;java optiones&gt;] OmegaT.jar [&lt;OmegaT optiones&gt;] [&lt;route del projecto&gt;]</seg>
+      <tuv lang="ia" changeid="will" changedate="20230228T083009Z" creationid="will" creationdate="20230228T080646Z">
+        <seg>Uso: java -jar java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
