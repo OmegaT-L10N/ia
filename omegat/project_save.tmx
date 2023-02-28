@@ -38454,6 +38454,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T165802Z" creationid="will" creationdate="20230228T165802Z">
+        <seg>Sol iste preferentia require modificationes manual actualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T191318Z" creationid="Melo46" creationdate="20200730T191318Z">
