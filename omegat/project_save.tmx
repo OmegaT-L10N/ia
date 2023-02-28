@@ -54990,6 +54990,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T170007Z" creationid="will" creationdate="20230228T170007Z">
+        <seg>Iste file describe le disposition de OmegaT supertoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T171329Z">
