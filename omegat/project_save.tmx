@@ -55047,6 +55047,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T194030Z" creationid="will" creationdate="20230228T194030Z">
+        <seg>Iste file contine le &lt;e0&gt;texto original&lt;/e0&gt; del segmento actual quando le preferentia &lt;l1/&gt; es activata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170007Z" creationid="will" creationdate="20230228T170007Z">
@@ -56190,6 +56198,15 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T190336Z">
         <seg>Isto, comocunque, deberea generalmente esser evitate un vice que tu initiava le traduction del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T194235Z" creationid="will" creationdate="20230228T194235Z">
+        <seg>Iste tres files forni un maniera simple de acceder alicun contento del OmegaT e processar lo con programmas local tal como scriptos de shell.
+</seg>
       </tuv>
     </tu>
     <tu>
