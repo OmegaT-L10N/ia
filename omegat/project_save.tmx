@@ -32712,8 +32712,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130210T123458Z">
-        <seg>Location</seg>
+      <tuv lang="ia" changeid="will" changedate="20230228T160940Z">
+        <seg>Positiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -51459,6 +51459,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T165433Z" creationid="Melo46" creationdate="20150423T165433Z">
         <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T161318Z" creationid="will" creationdate="20230228T161318Z">
+        <seg>Le position del plica del configuration predefinite varia per systema (le &lt;e0&gt; ~ &lt;/e0&gt; character representa tu plica de casa.</seg>
       </tuv>
     </tu>
     <tu>
