@@ -26277,6 +26277,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T171041Z" creationid="will" creationdate="20230228T171041Z">
+        <seg>Si tu usa le functiones applicabile, iste plica pote contener usque a tres files de texto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T111101Z" creationid="MELO46" creationdate="20131228T160749Z">
@@ -59499,6 +59507,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T090752Z" creationid="will" creationdate="20230228T090752Z">
         <seg>Uso &lt;l0/&gt;&lt;l1/&gt; a monstra de un indication visual de su position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T170923Z" creationid="will" creationdate="20230228T170923Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro vider le contentos del file.</seg>
       </tuv>
     </tu>
     <tu>
