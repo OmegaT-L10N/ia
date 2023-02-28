@@ -34945,6 +34945,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T081201Z" creationid="will" creationdate="20230228T081201Z">
+        <seg>Nulle option: Lanciar interfacie graphic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T120428Z" creationid="karm46" creationdate="20180424T120428Z">
@@ -37131,6 +37139,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20171113T224911Z">
         <seg>OmegaT sur le web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T081034Z" creationid="will" creationdate="20230228T081034Z">
+        <seg>Optiones de OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
