@@ -12222,6 +12222,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T082110Z" creationid="will" creationdate="20230228T082110Z">
+        <seg>Plica de application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093650Z">
@@ -49245,6 +49253,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T193745Z">
         <seg>Le apparentia del  typos de character in OmegaT sur Linux pote differer largemente, secundo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T082503Z" creationid="will" creationdate="20230228T082503Z">
+        <seg>Le plica application contine le &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application e plure altere files importante.</seg>
       </tuv>
     </tu>
     <tu>
