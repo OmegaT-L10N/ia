@@ -17101,6 +17101,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a section of text that flows in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T090638Z" creationid="will" creationdate="20230228T090638Z">
+        <seg>Le creation de un texto que flue in le direction opposite del segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an OmegaT project in the usual way.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T093430Z">
@@ -53592,6 +53600,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These control characters change directionality but are invisible.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T090709Z" creationid="will" creationdate="20230228T090709Z">
+        <seg>Iste characteres de controlo cambia directionalitate sed es invisibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T154525Z">
@@ -58961,6 +58977,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T185947Z" creationid="will" creationdate="20220110T185947Z">
         <seg>Usa &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; pro aperir e &lt;k3&gt;Esc&lt;/k3&gt; pro clauder lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T090752Z" creationid="will" creationdate="20230228T090752Z">
+        <seg>Uso &lt;l0/&gt;&lt;l1/&gt; a monstra de un indication visual de su position.</seg>
       </tuv>
     </tu>
     <tu>
