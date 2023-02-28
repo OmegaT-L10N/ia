@@ -59359,6 +59359,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T160926Z" creationid="will" creationdate="20230228T160926Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder lo directemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T090752Z" creationid="will" creationdate="20230228T090752Z">
