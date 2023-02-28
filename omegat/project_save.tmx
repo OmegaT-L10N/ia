@@ -55858,6 +55858,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T200317Z" creationid="will" creationdate="20230228T200317Z">
+        <seg>Iste file de parametro contine filtros de file personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized user interface shortcuts.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T200142Z" creationid="will" creationdate="20230228T200142Z">
