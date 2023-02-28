@@ -29397,6 +29397,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T091850Z" creationid="will" creationdate="20230228T091850Z">
+        <seg>Insere un RLM character post un character con debile directionalitate que debe executar de dextre a sinistre in un "sinistre a dextre" segmento (p.ex. un extracto arabe in un texto anglese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T090539Z" creationid="will" creationdate="20230228T090539Z">
