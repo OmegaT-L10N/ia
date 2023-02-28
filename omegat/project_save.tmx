@@ -49265,6 +49265,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T082708Z" creationid="will" creationdate="20230228T082708Z">
+        <seg>Le position del plica application depende de su platforma e del modo in que tu ha installate OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T211900Z">
