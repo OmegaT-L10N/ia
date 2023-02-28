@@ -3296,6 +3296,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092021Z">
@@ -9402,6 +9410,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A
 "Major Component", in this context, means a major essential component
 (kernel, window system, and so on) of the specific operating system
@@ -10526,6 +10542,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Adder al dictionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20190110T165735Z" creationid="MELO46" creationdate="20131219T162818Z">
@@ -11464,6 +11488,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T155548Z">
         <seg>Alsi supportate es le formato CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -13002,6 +13034,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Available languages</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Linguas disponibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T163718Z">
@@ -13782,6 +13822,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Buttones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130526T195212Z">
@@ -14076,6 +14124,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T211128Z">
@@ -14252,10 +14308,26 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Case sensitive</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Distinguer le majusculas del minusculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T125455Z">
         <seg>Catalan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Categoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -16500,6 +16572,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T094331Z">
@@ -17389,6 +17469,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;Control key&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131219T104657Z" creationid="MELO46" creationdate="20131219T104657Z">
@@ -17963,6 +18051,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151115T170205Z" creationid="Melo46" creationdate="20151115T170205Z">
         <seg>ID personal (corresponde al parametro de linea de commando &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customization</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Localisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -21176,6 +21272,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exceptions</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Exceptiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083725Z">
@@ -21347,6 +21451,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T172245Z" creationid="ia" creationdate="20170909T172245Z">
@@ -21487,6 +21599,22 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T134017Z">
         <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F2</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F3</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -23209,6 +23337,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Pro tu referentia, OmegaT monstra le traduction de tote le parolas del glossario que sia presente in le segmento e registrate in le glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Formato</seg>
       </tuv>
     </tu>
     <tu>
@@ -31010,6 +31146,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JavaScript</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Javanese</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132423Z">
@@ -31924,6 +32068,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Disposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layout variations can be added as plugins.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220105T144818Z" creationid="will" creationdate="20220105T144818Z">
@@ -32172,6 +32324,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Licentias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License to anyone who comes into possession of a copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144559Z">
@@ -32234,6 +32394,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T140458Z">
         <seg>Lingala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Link</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Ligamine</seg>
       </tuv>
     </tu>
     <tu>
@@ -34658,6 +34826,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ndonga</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141139Z">
@@ -34910,6 +35086,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T174312Z" creationid="Karm46" creationdate="20171115T174312Z">
         <seg>Compilationes Nightly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>No</seg>
       </tuv>
     </tu>
     <tu>
@@ -35315,6 +35499,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T144802Z" creationid="MELO46" creationdate="20140615T144802Z">
         <seg>Non presente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Non definite</seg>
       </tuv>
     </tu>
     <tu>
@@ -36025,6 +36217,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T222027Z" creationid="Melo46" creationdate="20160729T222027Z">
         <seg>Notification (firme)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Notificationes</seg>
       </tuv>
     </tu>
     <tu>
@@ -38870,6 +39070,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T065148Z" creationid="ia" creationdate="20170909T201618Z">
@@ -40549,6 +40757,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Politica de confidentialitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T080902Z" creationid="Karm46" creationdate="20170909T235340Z">
@@ -41581,6 +41797,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Referentias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084942Z">
@@ -42145,6 +42369,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140630T215820Z" creationid="MELO46" creationdate="20140630T215820Z">
         <seg>Remove le mnemonicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove pattern</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Remover patrono</seg>
       </tuv>
     </tu>
     <tu>
@@ -43066,6 +43298,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084157Z">
         <seg>Russo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>S</seg>
       </tuv>
     </tu>
     <tu>
@@ -44531,6 +44771,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Seliger toto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082325Z">
@@ -45315,6 +45563,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Parametros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
@@ -45379,6 +45635,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shift</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Shift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T183314Z">
@@ -45415,6 +45679,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T213300Z" creationid="Karm46" creationdate="20170929T213300Z">
         <seg>Via breve:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Accessos directe</seg>
       </tuv>
     </tu>
     <tu>
@@ -47297,6 +47569,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T103159Z" creationid="Melo46" creationdate="20200728T103159Z">
         <seg>Files synchronisate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronization</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Synchronisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -49783,6 +50063,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T225116Z" creationid="MELO46" creationdate="20140106T225116Z">
         <seg>Le computator, functionante OmegaT, ha le russo como lingua base, e assi monstra le characteres in le alphabeto cyrillic e non in Kanji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T160829Z" creationid="will" creationdate="20230228T160829Z">
+        <seg>Le plica del configuration salva le majoritate del optiones e preferentia de usator in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58207,6 +58495,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UTF-8</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>UTF-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uighur, Uyghur</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T234209Z">
@@ -58811,6 +59107,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Il es assatis simplice implementar un file glossario: calca &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; e scribe le termino nove, su traduction e tote le commentos que tu vole (assecurante te que tu calca le clave tabulation intra le campos) e salva le file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Promover</seg>
       </tuv>
     </tu>
     <tu>
@@ -62016,6 +62320,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yiddish</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100424Z">
@@ -64664,6 +64976,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144823Z">
         <seg>but WITHOUT ANY WARRANTY; without even the implied warranty of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>c</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>c</seg>
       </tuv>
     </tu>
     <tu>
@@ -68174,6 +68494,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>macOS Users</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081650Z" creationid="Melo46" creationdate="20200730T081650Z">
@@ -70578,6 +70906,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233917Z">
         <seg>swe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>t</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>t</seg>
       </tuv>
     </tu>
     <tu>
