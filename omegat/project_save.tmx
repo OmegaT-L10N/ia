@@ -16060,6 +16060,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T131147Z" creationid="will" creationdate="20230228T131147Z">
+        <seg>Plica del Configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configuration in OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T085846Z">
