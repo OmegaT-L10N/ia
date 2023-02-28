@@ -9712,6 +9712,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083836Z" creationid="will" creationdate="20230228T083836Z">
+        <seg>Un ligamine al pagina de assistentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T135615Z">
@@ -14848,6 +14856,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T082845Z">
         <seg>Controla in Optiones &gt; Traduction Automatic, que Google Translate V2 es marcate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check it if you need information on OmegaT's evolution.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083625Z" creationid="will" creationdate="20230228T083625Z">
+        <seg>Verifica si tu habeva besonio de le evolution de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50006,6 +50022,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083716Z" creationid="will" creationdate="20230228T083716Z">
+        <seg>Le licentia de distribution del documentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T155806Z" creationid="Melo46" creationdate="20160728T155806Z">
@@ -50684,6 +50708,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083806Z" creationid="will" creationdate="20230228T083806Z">
+        <seg>Le indice al manual del usator multilingual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T144506Z">
@@ -50906,6 +50938,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T133542Z">
         <seg>Le lista sequente &lt;s0&gt;non&lt;/s0&gt; es un lista exhaustive de tote le formatos de file supportate per OmegaT, ma es limitate a illos de particular interesse pro le typic usatores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083547Z" creationid="will" creationdate="20230228T083547Z">
+        <seg>Le lista de meliorationes e remedios de errores.</seg>
       </tuv>
     </tu>
     <tu>
