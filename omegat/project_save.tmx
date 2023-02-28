@@ -44564,8 +44564,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; how-to for details.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T161612Z" creationid="will" creationdate="20230228T161612Z">
-        <seg>Reguarda le &lt;l0/&gt; how-to pro detalios.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230228T200841Z" creationid="will" creationdate="20230228T161612Z">
+        <seg>Vide le &lt;l0/&gt; how-to pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50711,6 +50711,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file contents are not encrypted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T200833Z" creationid="will" creationdate="20230228T200833Z">
+        <seg>Le contentos del file non es cifrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T164832Z">
@@ -55894,6 +55902,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T200317Z" creationid="will" creationdate="20230228T200317Z">
         <seg>Iste file de parametro contine filtros de file personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T200913Z" creationid="will" creationdate="20230228T200913Z">
+        <seg>Iste file de parametro contine parametros de segmentos personalisate.</seg>
       </tuv>
     </tu>
     <tu>
