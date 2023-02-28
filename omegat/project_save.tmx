@@ -55842,6 +55842,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T194859Z" creationid="will" creationdate="20230228T194859Z">
+        <seg>Iste parametro contine via-breves personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T225843Z">
