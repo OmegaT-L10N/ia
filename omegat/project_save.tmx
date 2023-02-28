@@ -51687,6 +51687,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T170115Z" creationid="will" creationdate="20230228T170115Z">
+        <seg>Le plus actual es &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185146Z">
@@ -54049,6 +54057,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T170414Z" creationid="will" creationdate="20230228T170414Z">
+        <seg>Iste files registra varie messages del stato interne e eventos de programma genera durante OmegaT exeque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T050811Z" creationid="Melo46" creationdate="20200728T050811Z">
@@ -55026,6 +55042,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T143003Z">
         <seg>Iste file recorda le messages de error de Java  durante que &lt;a0&gt;OmegaT&lt;/a0&gt; es functionante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T170037Z" creationid="will" creationdate="20230228T170037Z">
+        <seg>Iste plica contine plure file de registros.</seg>
       </tuv>
     </tu>
     <tu>
