@@ -55062,6 +55062,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T171216Z" creationid="will" creationdate="20230228T171216Z">
+        <seg>Iste file salva le texto selegite actual quando tu usa &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains a number of log files.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170037Z" creationid="will" creationdate="20230228T170037Z">
