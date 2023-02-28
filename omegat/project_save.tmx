@@ -37579,6 +37579,22 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083320Z" creationid="will" creationdate="20230228T083320Z">
+        <seg>Le licentia de distribution de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083347Z" creationid="will" creationdate="20230228T083342Z">
+        <seg>Le file executabile de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T170259Z">
@@ -44121,6 +44137,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083526Z" creationid="will" creationdate="20230228T083526Z">
+        <seg>Reguarda &lt;l0/&gt; capitulo pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T064633Z">
@@ -48747,6 +48771,14 @@ software and other kinds of works.</seg>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144509Z">
         <seg>The GNU General Public License is a free, copyleft license for
 software and other kinds of works.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083328Z" creationid="will" creationdate="20230228T083328Z">
+        <seg>GPL version 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59117,6 +59149,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Used when launching OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083501Z" creationid="will" creationdate="20230228T083501Z">
+        <seg>Usate quando lancear OmegaT per le linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Useful links
 ============</seg>
       </tuv>
@@ -69128,6 +69168,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141340Z">
         <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083250Z" creationid="will" creationdate="20230228T083250Z">
+        <seg>altere platformas</seg>
       </tuv>
     </tu>
     <tu>
