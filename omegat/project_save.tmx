@@ -57116,6 +57116,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T165656Z" creationid="will" creationdate="20230228T165656Z">
+        <seg>Pro prevenir que le fenestra del lista de files fonte aperi automaticamente quando un projecto es cargate, trova &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; e replacia &lt;t1&gt;true&lt;/t1&gt; con &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.</seg>
       </tuv>
