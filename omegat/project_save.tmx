@@ -19895,6 +19895,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T084807Z" creationid="will" creationdate="20230228T084807Z">
+        <seg>Cata manual del usator traducite ha un plica separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each version is given a distinguishing version number.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144741Z">
@@ -45498,6 +45506,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083914Z" creationid="will" creationdate="20230228T083914Z">
+        <seg>Simple instructiones pro le installation e execution de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T210232Z" creationid="MELO46" creationdate="20140629T210232Z">
@@ -50030,6 +50046,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083927Z" creationid="will" creationdate="20230228T083927Z">
+        <seg>Le plice de documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T155806Z" creationid="Melo46" creationdate="20160728T155806Z">
@@ -50946,6 +50970,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T083547Z" creationid="will" creationdate="20230228T083547Z">
         <seg>Le lista de meliorationes e remedios de errores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T083946Z" creationid="will" creationdate="20230228T083946Z">
+        <seg>Le list de collaboratores individual.</seg>
       </tuv>
     </tu>
     <tu>
