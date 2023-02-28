@@ -53178,6 +53178,15 @@ combination as such.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Qual version prefere tu? "....on entra un nove segmento" o "....un nove segmento es entrate"?</note>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T193837Z" creationid="will" creationdate="20230228T193837Z">
+        <seg>*** Le texto in le file es substituite cata vice que on entra un nove segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The text in the file is replaced each time this function is called.</seg>
       </tuv>
