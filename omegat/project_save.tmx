@@ -56185,6 +56185,15 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T131125Z" creationid="will" creationdate="20230228T131125Z">
+        <seg>Pro crear un incorporation de dextra a sinistra in un segmento de sinistra a dextra, insere un character de incorporation de dextra a sinistra (RLE), typa o insere le texto de dextra a sinistra, e postea insere le character PDF.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a shortcut in Windows:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T180843Z">
