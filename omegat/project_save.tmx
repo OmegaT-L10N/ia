@@ -25410,6 +25410,14 @@ non necessita inserer le percurso integral.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T170901Z" creationid="will" creationdate="20230228T170901Z">
+        <seg>Si OmegaT se comporta de un maniera erratic, include iste file o le parte pertinente de illo in tu reporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T132111Z" creationid="Melo46" creationdate="20200727T132111Z">
