@@ -51580,6 +51580,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The prefered location for plugin manual installs is the &lt;l0/&gt; folder located in the &lt;l1&gt;configuration&lt;/l1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230228T085701Z" creationid="will" creationdate="20230228T085701Z">
+        <seg>Le position preferite pro installationes de plugins manual es le &lt;l0/&gt; plica ubicate in le &lt;l1&gt;plica del configuration&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T053100Z">
