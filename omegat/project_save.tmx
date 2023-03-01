@@ -57334,6 +57334,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T084940Z" creationid="will" creationdate="20230301T084940Z">
+        <seg>Pro modificar le extensiones del file, nomine del file de destination e le codification associate con un filtro, selige lo in le lista e clicca le &lt;g0&gt;Rediger...&lt;/g0&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T190134Z">
