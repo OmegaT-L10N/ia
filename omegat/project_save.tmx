@@ -28669,6 +28669,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T163818Z" creationid="will" creationdate="20230301T163818Z">
+        <seg>In projectos non-segmentate, incapacita iste option pro facer le spatios blanc initial e final modificarabile in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T150118Z" creationid="Melo46" creationdate="20150423T150118Z">
