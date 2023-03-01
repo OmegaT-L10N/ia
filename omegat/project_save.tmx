@@ -24803,6 +24803,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T163042Z" creationid="will" creationdate="20230301T163042Z">
+        <seg>Celar los del contentos traducibile assecura te que tu non va cancellar o modificar los per error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T225350Z" creationid="Melo46" creationdate="20160729T225350Z">
