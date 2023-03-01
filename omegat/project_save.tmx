@@ -21891,6 +21891,15 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T074532Z" creationid="will" creationdate="20230301T074532Z">
+        <seg>Le filtros de files es o local e specific al projecto o global e disponibile pro tote le projectos que comparti un plica de configuration.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T084055Z">
@@ -30492,6 +30501,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T202823Z">
         <seg>Il es in veritate assatis probabile que le traduction espaniol es basate al minus partialmente sur le traduction real del libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also possible to install plugins in the application &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T074322Z" creationid="will" creationdate="20230301T074322Z">
+        <seg>Il es alsi possibile a installar plugins in le &lt;l0/&gt; plica de application</seg>
       </tuv>
     </tu>
     <tu>
@@ -55155,6 +55172,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170037Z" creationid="will" creationdate="20230228T170037Z">
         <seg>Iste plica contine plure file de registros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T074343Z" creationid="will" creationdate="20230301T074343Z">
+        <seg>Iste plica contine tu dictionario orthographic.</seg>
       </tuv>
     </tu>
     <tu>
