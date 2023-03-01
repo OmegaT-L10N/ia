@@ -63593,6 +63593,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T083538Z" creationid="will" creationdate="20230301T083538Z">
+        <seg>*** Tu pote ordinar le filtros per nomine o per si illos es activate/habilitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T161531Z" creationid="will" creationdate="20230228T161531Z">
