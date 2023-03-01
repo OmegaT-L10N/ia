@@ -27619,6 +27619,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T163152Z" creationid="will" creationdate="20230301T163152Z">
+        <seg>Si tu mantene le tags initial e final, assecura te que tu alsi include los in le texto traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T080151Z">
