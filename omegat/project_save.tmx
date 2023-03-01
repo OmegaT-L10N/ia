@@ -13996,6 +13996,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T163346Z" creationid="will" creationdate="20230301T163346Z">
+        <seg>De ordinario, OmegaT remove ulle spatio blanc initial o final ab le contentos traducibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T210210Z">
