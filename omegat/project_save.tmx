@@ -24795,6 +24795,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T162632Z" creationid="will" creationdate="20230301T162632Z">
+        <seg>Celar tags initial e final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T225350Z" creationid="Melo46" creationdate="20160729T225350Z">
@@ -32218,6 +32226,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T090714Z">
         <seg>Disveloppator capo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T162830Z" creationid="will" creationdate="20230301T162830Z">
+        <seg>Le tags initial e final es generalmente requirite per Omegat pro recrear correctemente le segmento traducite.</seg>
       </tuv>
     </tu>
     <tu>
