@@ -18351,6 +18351,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T090350Z" creationid="will" creationdate="20230301T090350Z">
+        <seg>Le deletion de iste file alsi reinitialisara le preferentias del filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T170121Z" creationid="Karm46" creationdate="20171001T170121Z">
@@ -44359,6 +44367,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063735Z">
         <seg>Vide &lt;l0&gt;capitulo Glossarios&lt;/l0&gt; pro plus re iste subjecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T090242Z" creationid="will" creationdate="20230301T090242Z">
+        <seg>Vide &lt;l1/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
