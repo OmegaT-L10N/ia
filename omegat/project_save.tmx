@@ -18351,6 +18351,15 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T162450Z" creationid="will" creationdate="20230301T162450Z">
+        <seg>Le deletion de ille file anque restabilir le preferentias del filtro e retorna le projecto al filtros global del file.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T090350Z" creationid="will" creationdate="20230301T090350Z">
