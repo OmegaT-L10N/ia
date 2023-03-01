@@ -34225,6 +34225,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T090231Z" creationid="will" creationdate="20230301T090231Z">
+        <seg>Le preferentias global del filtros de file modificate es salvate in &lt;l0/&gt;, in le plica del configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T161718Z" creationid="will" creationdate="20230228T161718Z">
