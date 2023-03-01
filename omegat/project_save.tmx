@@ -22100,6 +22100,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T074648Z" creationid="will" creationdate="20230301T074648Z">
+        <seg>Filtros in hardite es usate in le projecto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filters...</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T223828Z" creationid="Melo46" creationdate="20160729T223828Z">
@@ -22576,6 +22584,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T171432Z">
         <seg>Pro detalios, que tu vide &lt;a0&gt;Guida a "Exportar ab OmegaT a RTF non mundate"&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T074543Z" creationid="will" creationdate="20230301T074543Z">
+        <seg>Pro detalios, vide:</seg>
       </tuv>
     </tu>
     <tu>
