@@ -34241,6 +34241,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T112844Z" creationid="will" creationdate="20230301T112844Z">
+        <seg>Le filtros de files local modificate es salvate in le file &lt;l0/&gt;, ubicate in le plica del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T161718Z" creationid="will" creationdate="20230228T161718Z">
@@ -44671,6 +44679,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085841Z" creationid="will" creationdate="20230228T085841Z">
         <seg>Reguarda le &lt;l0/&gt; fenestra pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T112902Z" creationid="will" creationdate="20230301T112902Z">
+        <seg>Vide le &lt;l1/&gt; capitulo pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
