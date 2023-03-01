@@ -55159,6 +55159,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder provides the standard location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230301T074215Z" creationid="will" creationdate="20230301T074215Z">
+        <seg>Iste plica forni le position standard pro le plugins de extension del OmegaT installate manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This format can be converted easily to the TMX format by third-party utilities such as &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T191010Z">
