@@ -51001,6 +51001,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T113200Z" creationid="will" creationdate="20230302T113200Z">
+        <seg>La structura del file debe etiam esser compatible con le filtro: mesmo si tu associa &lt;l0&gt;.odt&lt;/l0&gt; al filtro XHMTL, le filtro non essera capabile de comprender le contento de un file de LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T220519Z" creationid="Karm46" creationdate="20171130T220519Z">
