@@ -32706,16 +32706,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Line length</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230302T190130Z" creationid="will" creationdate="20230302T190130Z">
-        <seg>Longor de lineas</seg>
+      <tuv lang="ia" changeid="will" changedate="20230302T191609Z" creationid="will" creationdate="20230302T190130Z">
+        <seg>Longitude de lineas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230302T190117Z" creationid="will" creationdate="20230302T190117Z">
-        <seg>Longor del files de destination (0 = sin limitationes)</seg>
+      <tuv lang="ia" changeid="will" changedate="20230302T191602Z" creationid="will" creationdate="20230302T190117Z">
+        <seg>Longitude del files de destination (0 = sin limitationes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34060,6 +34060,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T080126Z">
         <seg>Maximisar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T191556Z" creationid="will" creationdate="20230302T191556Z">
+        <seg>Longitude del linea Maxime:</seg>
       </tuv>
     </tu>
     <tu>
