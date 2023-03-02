@@ -22929,6 +22929,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T112522Z" creationid="will" creationdate="20230302T112522Z">
+        <seg>Per exemplo, le patterno &lt;l0&gt;.xhtml&lt;/l0&gt; registrate in le filtro XHTML corresponde a ulle file con le extension &lt;f1&gt;xhtml&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l1&gt;*.xhtml &lt;/l1&gt;matches any file with the &lt;l2&gt;.xhtml&lt;/l2&gt; extension.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220106T100114Z" creationid="will" creationdate="20220106T100114Z">
