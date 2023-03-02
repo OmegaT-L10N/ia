@@ -22977,6 +22977,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T113858Z" creationid="will" creationdate="20230302T113858Z">
+        <seg>Per exemplo, usa le modello &lt;l0&gt;legere*&lt;/l0&gt; si tu vole que le filtro de texto tracta files del typo readme (&lt;l1&gt;readme, read.me&lt;/l1&gt;, o &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T065638Z" creationid="MELO46" creationdate="20140106T065638Z">
