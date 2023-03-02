@@ -34210,6 +34210,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T184754Z" creationid="will" creationdate="20230302T184754Z">
+        <seg>Microsoft local de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T172544Z" creationid="MELO46" creationdate="20140615T080749Z">
@@ -66745,6 +66753,22 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>encoding of the source file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T184714Z" creationid="will" creationdate="20230302T184714Z">
+        <seg>codification del file fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>encoding of the target file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T184735Z" creationid="will" creationdate="20230302T184735Z">
+        <seg>codification del files de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>eng</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132351Z">
@@ -67421,6 +67445,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132411Z">
         <seg>ho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>host name on the system</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T184658Z" creationid="will" creationdate="20230302T184658Z">
+        <seg>nomine de servitor hospite</seg>
       </tuv>
     </tu>
     <tu>
