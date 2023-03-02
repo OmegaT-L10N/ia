@@ -19300,6 +19300,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to identify alternate translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T072035Z" creationid="will" creationdate="20230302T072035Z">
+        <seg>Non usa le nomine de file pro identificar traductiones alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140121T222948Z">
