@@ -60099,6 +60099,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Filename Variables&lt;/g0&gt; drop-down menu to customize the target file name.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T074427Z" creationid="will" creationdate="20230302T074427Z">
+        <seg>Usa le menu a tenta cadente &lt;g0&gt;Nomines de file variabile&lt;/g0&gt; pro personalisar le nomine del file de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T081955Z" creationid="Melo46" creationdate="20210220T081955Z">
