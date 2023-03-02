@@ -15340,6 +15340,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T190008Z" creationid="will" creationdate="20230302T190008Z">
+        <seg>Ci tu debe seliger como OmegaT crea paragraphos in tu files de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the .png file type</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130515T073718Z">
@@ -49061,6 +49069,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T105148Z">
         <seg>Files de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files do not have generic paragraph markers.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T185900Z" creationid="will" creationdate="20230302T185900Z">
+        <seg>Files de texto non ha marcatores de paragrapho generic.</seg>
       </tuv>
     </tu>
     <tu>
