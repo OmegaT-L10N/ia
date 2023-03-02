@@ -37979,6 +37979,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T115852Z" creationid="will" creationdate="20230302T115852Z">
+        <seg>OmegaT usa le declaration de codification in le file de fonte, si presente, pro identificar le codification (files basate in HTML o XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses the following libraries:
 {1}</seg>
       </tuv>
