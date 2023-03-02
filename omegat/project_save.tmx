@@ -37570,6 +37570,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T115939Z" creationid="will" creationdate="20230302T115939Z">
+        <seg>OmegaT es instructe a usar un codification obligatori pro certe formatos de files (pro exemplo, proprietates de Java).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T212807Z">
