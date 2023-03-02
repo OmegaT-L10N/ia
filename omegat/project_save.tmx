@@ -22125,6 +22125,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T145352Z" creationid="will" creationdate="20230302T145352Z">
+        <seg>Los files in le plica &lt;l0/&gt; es superscribite cata vice que tu los crea si illos es create con le mesme nomine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T080801Z" creationid="Melo46" creationdate="20210220T080801Z">
@@ -37079,6 +37087,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T074621Z">
         <seg>OmegaT pote alsi controlar le variabiles de programmation (variabiles de function printf) como '%s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T153105Z" creationid="will" creationdate="20230302T153105Z">
+        <seg>OmegaT pote automaticamente crear nove nomines de files pro le files que tu crea, per adder un codice de lingua o un marca de tempore, per exemplo.</seg>
       </tuv>
     </tu>
     <tu>
