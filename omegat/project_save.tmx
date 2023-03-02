@@ -45013,6 +45013,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments with the same characteristics located in other files will be translated the same way.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T072839Z" creationid="will" creationdate="20230302T072839Z">
+        <seg>Segmentos con le mesme characteristicas ubicate in altere files essera traducite in le mesme maniera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093442Z">
