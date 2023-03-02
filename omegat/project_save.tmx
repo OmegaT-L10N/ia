@@ -53039,6 +53039,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source file name is one of the elements that characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T072429Z" creationid="will" creationdate="20230302T072429Z">
+        <seg>Le nomine del file fonte es un del elementos que characterisa un traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130702T175249Z">
