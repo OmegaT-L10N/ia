@@ -26329,6 +26329,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T112707Z" creationid="will" creationdate="20230302T112707Z">
+        <seg>Si tal un file es trovate in le plica &lt;l2/&gt;, le file essera tractate per le filtro XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If such problems arise substantially in other domains, we
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.</seg>
@@ -63328,6 +63336,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T075347Z" creationid="Melo46" creationdate="20160805T085150Z">
         <seg>Tu pote cambiar o adder modellos de nomine de file pro tractar files per cata filtro de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T112744Z" creationid="will" creationdate="20230302T112744Z">
+        <seg>Tu pote cambiar o adder modellos de nomine de files pro associar differente files a un filtro.</seg>
       </tuv>
     </tu>
     <tu>
