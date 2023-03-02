@@ -32696,6 +32696,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T190130Z" creationid="will" creationdate="20230302T190130Z">
+        <seg>Longor de lineas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T190117Z" creationid="will" creationdate="20230302T190117Z">
+        <seg>Longor del files de destination (0 = sin limitationes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T075511Z" creationid="MELO46" creationdate="20140615T075511Z">
@@ -71671,6 +71687,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233759Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T190214Z" creationid="will" creationdate="20230302T190214Z">
+        <seg>specifica le numero maxime de characteres ante rumper de un linea longe.</seg>
       </tuv>
     </tu>
     <tu>
