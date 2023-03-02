@@ -46873,6 +46873,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and translated file encoding</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T113948Z" creationid="will" creationdate="20230302T113948Z">
+        <seg>Codification de file de fonte e traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T081221Z">
