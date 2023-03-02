@@ -56843,6 +56843,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T112048Z" creationid="will" creationdate="20230302T112048Z">
+        <seg>Pro associar un filtro a un file, OmegaT verifica su extension de file e tenta concordar lo a patronos de nomine de file de fonte in un filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T195341Z" creationid="Melo46" creationdate="20200730T195341Z">
