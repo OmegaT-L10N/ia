@@ -69683,6 +69683,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name of the source file, without the extension</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183445Z" creationid="will" creationdate="20230302T183439Z">
+        <seg>nomines de file fonte, sin extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141039Z">
@@ -70527,6 +70535,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141335Z">
         <seg>ori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>original file extension</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183510Z" creationid="will" creationdate="20230302T183510Z">
+        <seg>extension de file original</seg>
       </tuv>
     </tu>
     <tu>
@@ -71735,6 +71751,22 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132703Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region (xx-YY)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183555Z" creationid="will" creationdate="20230302T183555Z">
+        <seg>lingua de destination+region (xx-YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region code (xx_YY)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183535Z" creationid="will" creationdate="20230302T183535Z">
+        <seg>lingua de destination+region (xx_YY)</seg>
       </tuv>
     </tu>
     <tu>
