@@ -31048,6 +31048,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It represents the complete filename of the source file, including the extension.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T153603Z" creationid="will" creationdate="20230302T153603Z">
+        <seg>Isto representa le nomine complete del file de fonte, includente le extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T193354Z" creationid="MELO46" creationdate="20140106T222618Z">
@@ -50721,6 +50729,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default pattern.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T153522Z" creationid="will" creationdate="20230302T153522Z">
+        <seg>Le modello predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20210528T054601Z" creationid="Melo" creationdate="20210528T054601Z">
@@ -50797,6 +50813,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T231011Z" creationid="MELO46" creationdate="20131226T231011Z">
         <seg>Le fenestra de dialogo es utile quia illo include un editor special  pro modello de nomine de file de destination con le qual tu pote personalisar le nomines del files emittite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog offers various options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T153505Z" creationid="will" creationdate="20230302T153505Z">
+        <seg>Le dialogo forni plure optiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60942,6 +60966,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T073832Z" creationid="Melo46" creationdate="20200727T073832Z">
         <seg>Per iste option, le traductor pote specificar si le files de destination deberea haber includite le declaration de codification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this pattern assigns the translated file the exact same name as the source file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T153944Z" creationid="will" creationdate="20230302T153944Z">
+        <seg>Usar iste modello assigna le texto traducite exactemente le mesme nomine como le file fonte.</seg>
       </tuv>
     </tu>
     <tu>
