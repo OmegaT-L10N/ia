@@ -10654,6 +10654,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T184839Z" creationid="will" creationdate="20230302T184839Z">
+        <seg>Variantes additional es disponibile pro &lt;l0&gt;${nameOnly}&lt;/l0&gt; e &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T072807Z">
@@ -26799,6 +26807,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T093820Z" creationid="Melo46" creationdate="20200728T093820Z">
         <seg>Si le traductor tenta modificar los, illos recedera a lor original stato quandocunque le projecto es aperite, claudite, salvate o recargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T185210Z" creationid="will" creationdate="20230302T185210Z">
+        <seg>Si le uso de plus punctos face le identification del nomine de file e del extension ambigue, tu pote usar variabiles in forma de &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;numero&lt;/e1&gt;} o &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;numero&lt;/e3&gt; } pro specificar qual partes forma un parte del nomine o del extension, como monstrate in le exemplo infra.</seg>
       </tuv>
     </tu>
     <tu>
