@@ -45581,6 +45581,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T115148Z" creationid="will" creationdate="20230302T115148Z">
+        <seg>Selectionar le option &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; lassa a OmegaT le election del codification secundo le criterios sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130520T215345Z">
@@ -53131,6 +53139,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T193122Z" creationid="Melo46" creationdate="20200726T193122Z">
         <seg>Le campos de codification fonte e de destination usa menus a tenta cadente continente tote le codificationes supportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T115115Z" creationid="will" creationdate="20230302T115115Z">
+        <seg>Le campos de codification de fonte e de destination usa menus a tenta cadente que lista tote le codificationes supportate.</seg>
       </tuv>
     </tu>
     <tu>
