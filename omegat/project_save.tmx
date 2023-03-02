@@ -71707,6 +71707,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>system time when the file was created</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183832Z" creationid="will" creationdate="20230302T183832Z">
+        <seg>tempore de systema quando le file esseva create</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>t</seg>
       </tuv>
       <tuv lang="ia">
@@ -71755,6 +71763,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183716Z" creationid="will" creationdate="20230302T183716Z">
+        <seg>codice de lingua de destination (xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>target language+region (xx-YY)</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T183555Z" creationid="will" creationdate="20230302T183555Z">
@@ -71765,8 +71781,16 @@ crear su plica de configuration.</seg>
       <tuv lang="en">
         <seg>target language+region code (xx_YY)</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230302T183535Z" creationid="will" creationdate="20230302T183535Z">
-        <seg>lingua de destination+region (xx_YY)</seg>
+      <tuv lang="ia" changeid="will" changedate="20230302T183653Z" creationid="will" creationdate="20230302T183535Z">
+        <seg>lingua de destination+codice de region (xx_YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183737Z" creationid="will" creationdate="20230302T183737Z">
+        <seg>codice de region de de destination (YY)</seg>
       </tuv>
     </tu>
     <tu>
