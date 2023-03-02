@@ -13598,6 +13598,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T074305Z" creationid="will" creationdate="20230302T073645Z">
+        <seg>Ambes dialogos te permitte personalisar le modello del nomine de file fonte e destination associate con iste filtro. Illos anque te permitte eliger lor codificatione respective. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bottom right: the Priorview utility.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T162545Z">
