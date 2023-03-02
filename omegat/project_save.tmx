@@ -22583,6 +22583,14 @@ actually uses, or expects or is expected to use, the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T185413Z" creationid="will" creationdate="20230302T185413Z">
+        <seg>Pro un file de fonte nominate Document.xx.docx, usar le variantes de variabile infra producera le sequente resultatos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a true PDF file to be translated, the correct procedure is usually to produce the translation in the original (DTP) application, and then to follow the same procedure for production of the PDF that was followed for the original.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T080149Z">
@@ -48639,6 +48647,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140701T124456Z" creationid="MELO46" creationdate="20140701T124414Z">
         <seg>Conto destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target file names</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T185230Z" creationid="will" creationdate="20230302T185230Z">
+        <seg>Nomines del files de destination</seg>
       </tuv>
     </tu>
     <tu>
