@@ -17301,6 +17301,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T185802Z" creationid="will" creationdate="20230302T185802Z">
+        <seg>Crea paragraphos sur:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170916T032531Z">
@@ -45521,6 +45529,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T182022Z">
         <seg>Selige le copia de reserva del memoria de traduction que es le plus probabile a continer le data pro le qual tu quere - per exemplo le plus recente, o le ultime version ex le die precedente </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T185747Z" creationid="will" creationdate="20230302T185747Z">
+        <seg>Selige le filtro in le lista e clicca sur &lt;g0&gt;Optiones...&lt;/g0&gt; pro modificar los.</seg>
       </tuv>
     </tu>
     <tu>
