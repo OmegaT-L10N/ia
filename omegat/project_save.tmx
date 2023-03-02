@@ -46905,6 +46905,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T113628Z" creationid="will" creationdate="20230302T113628Z">
+        <seg>Modellos de nomine de file fonte usa characteres 'carta salvage': Le charactere &lt;l0&gt;*&lt;/l0&gt; corresponde a zero o plus characteres, durante le charactere &lt;l1&gt;?&lt;/l1&gt; corresponde a exactemente un character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T111259Z" creationid="MELO46" creationdate="20131228T161525Z">
