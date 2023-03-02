@@ -14108,6 +14108,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T114921Z" creationid="will" creationdate="20230302T114921Z">
+        <seg>De ordinario, le codification del file traducite es le mesme que illo del file de fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T082957Z">
@@ -34552,6 +34560,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T193103Z">
         <seg>le major parte del distributiones Linux usa le version de Java OpenJDK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most file formats allow various possible encodings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T114020Z" creationid="will" creationdate="20230302T114020Z">
+        <seg>La plure formatos de files permitte diverse codificationes possibile.</seg>
       </tuv>
     </tu>
     <tu>
