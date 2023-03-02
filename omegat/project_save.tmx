@@ -50921,6 +50921,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The easiest way to modify it is to use the &lt;g0&gt;Edit Pattern&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T153451Z" creationid="will" creationdate="20230302T153451Z">
+        <seg>Le methodo le plus facile pro modificar lo es usar le dialogo &lt;g0&gt;Modificar modello&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T092020Z" creationid="Melo46" creationdate="20160805T092020Z">
@@ -53480,6 +53488,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T150306Z">
         <seg>Le modello nomine de file de destination usa un syntaxe special, assi si tu desidera modificar iste campo, tu debe cliccar &lt;e0&gt;Modifica...&lt;/e0&gt;e usar le &lt;i1/&gt;Fenestra de dialogo del Modifica Modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T153145Z" creationid="will" creationdate="20230302T153145Z">
+        <seg>Le modello de nomine de file de destination usa un syntaxe special.</seg>
       </tuv>
     </tu>
     <tu>
