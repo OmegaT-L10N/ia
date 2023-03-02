@@ -26877,6 +26877,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T072715Z" creationid="will" creationdate="20230302T072715Z">
+        <seg>Si iste option es marcate, solmente le segmentos previe/proxime o un identificator de un segmento essera usate pro characterisar un traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T095201Z" creationid="Melo46" creationdate="20200726T095201Z">
