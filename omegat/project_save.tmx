@@ -26669,8 +26669,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230302T071501Z" creationid="will" creationdate="20230302T071501Z">
-        <seg>Si le documentos fonte contine spatios blanc usate pro controlara le </seg>
+      <tuv lang="ia" changeid="will" changedate="20230302T071910Z" creationid="will" creationdate="20230302T071501Z">
+        <seg>Si le documentos fonte contine spatios blanc que es usate pro controlar le disposition del projecto, le spatios blanc retenera in le documentos traducite.</seg>
       </tuv>
     </tu>
     <tu>
