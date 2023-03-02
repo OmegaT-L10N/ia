@@ -46873,6 +46873,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T074448Z" creationid="will" creationdate="20230302T074448Z">
+        <seg>Modello de nomine de file fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T111259Z" creationid="MELO46" creationdate="20131228T161525Z">
