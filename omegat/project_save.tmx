@@ -26667,6 +26667,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T071501Z" creationid="will" creationdate="20230302T071501Z">
+        <seg>Si le documentos fonte contine spatios blanc usate pro controlara le </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T090950Z">
