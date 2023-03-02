@@ -44892,6 +44892,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183916Z" creationid="will" creationdate="20230302T183916Z">
+        <seg>Vide le &lt;u0&gt;documentation de Oracle&lt;/u0&gt; per exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T064633Z">
@@ -69683,6 +69691,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name of the operating system</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T183935Z" creationid="will" creationdate="20230302T183935Z">
+        <seg>nomine del systema operative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>name of the source file, without the extension</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T183445Z" creationid="will" creationdate="20230302T183439Z">
@@ -72575,6 +72591,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T180304Z">
         <seg>regulas de segmentation base del usator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user’s login name</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T184028Z" creationid="will" creationdate="20230302T184028Z">
+        <seg>accesso del usator</seg>
       </tuv>
     </tu>
     <tu>
