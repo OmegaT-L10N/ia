@@ -10032,6 +10032,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230302T190345Z" creationid="will" creationdate="20230302T190345Z">
+        <seg>Un valor de 0 defini nulle limitationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T183639Z" creationid="Karm46" creationdate="20171128T183639Z">
