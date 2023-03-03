@@ -35752,6 +35752,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T071151Z" creationid="will" creationdate="20230303T071151Z">
+        <seg>Texto non visibile instructive, commentos, notas al pede de pagina, notas final, texto de reserva duplicate, e proprietates de documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T095251Z" creationid="Karm46" creationdate="20171001T095251Z">
@@ -54916,6 +54924,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T215606Z" creationid="MELO46" creationdate="20140109T160803Z">
         <seg>Illes non besonia de alicun cognoscentia de Java; le major parte, nisi omne, del linguas de programmation poterea esser usate in vice, e complite functiones utile etiam con maestria de programmation relativemente limitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will appear as separate segments in the editor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T070926Z" creationid="will" creationdate="20230303T070926Z">
+        <seg>Illos apparera como segmentos separate in le editor.</seg>
       </tuv>
     </tu>
     <tu>
