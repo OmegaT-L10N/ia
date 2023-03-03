@@ -56492,6 +56492,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T102950Z" creationid="will" creationdate="20230303T102950Z">
+        <seg>Iste option es commoditate quando on tracta partes HTML que contine solmente texto non traducibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T195610Z">
