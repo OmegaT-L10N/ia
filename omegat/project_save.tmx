@@ -12214,6 +12214,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T102810Z" creationid="will" creationdate="20230303T102810Z">
+        <seg>Qualcunque paragrapho concordante al expression regular es ignorate durante le cargamento e non es visualisate pro le translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130710T090542Z">
