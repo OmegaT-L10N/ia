@@ -20573,6 +20573,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable this option if soft-returns are intended to be paragraph starters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T101850Z" creationid="will" creationdate="20230303T101850Z">
+        <seg>Activa iste option si retornos morbide debe esser considerate como inicios de paragraphos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082746Z">
@@ -58755,6 +58763,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T220706Z">
         <seg>Rende le files que tu ha seligite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following attributes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T101913Z" creationid="will" creationdate="20230303T101913Z">
+        <seg>Traducer de le sequente attributos</seg>
       </tuv>
     </tu>
     <tu>
