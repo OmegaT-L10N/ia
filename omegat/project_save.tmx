@@ -28339,6 +28339,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T103135Z" creationid="will" creationdate="20230303T103135Z">
+        <seg>Tags &lt;meta&gt; con attributo "content" ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T133547Z" creationid="Karm46" creationdate="20171202T133547Z">
