@@ -16036,6 +16036,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T071224Z" creationid="will" creationdate="20230303T071224Z">
+        <seg>Commentos and nomines de folio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments are displayed after a number and each on a separate line.</seg>
       </tuv>
       <tuv lang="ia" changeid="m" changedate="20210529T121410Z" creationid="m" creationdate="20210529T121410Z">
@@ -46625,6 +46633,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083227Z">
         <seg>Pagina configurationes (La&amp;youts)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T071341Z" creationid="will" creationdate="20230303T071341Z">
+        <seg>Commentos de diapositivas, maestros de diapositivas e dispositiones de diapositivas.</seg>
       </tuv>
     </tu>
     <tu>
