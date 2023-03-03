@@ -71715,6 +71715,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T065957Z" creationid="will" creationdate="20230303T065957Z">
+        <seg>specifica le numero maxime de characteres ante de rumper un linea e ignorar le resto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T233238Z" creationid="MELO46" creationdate="20140106T233238Z">
