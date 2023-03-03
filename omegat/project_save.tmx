@@ -64719,6 +64719,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T070743Z" creationid="will" creationdate="20230303T070743Z">
+        <seg>Solo usa lo pro evitar problemas de compatibilitate con previe projectos continiente files que tu ha tractate con iste filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should see the macro command appear in the right-hand column.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T073151Z">
