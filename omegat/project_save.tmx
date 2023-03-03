@@ -39988,6 +39988,14 @@ Evanescente como bruma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraphs ignored when loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T102535Z" creationid="will" creationdate="20230303T102535Z">
+        <seg>Paragraphas ignorate durante le cargamento (expression regular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraphs that you have not "levelled" will then contain nuisance tags, but at least the others will be much "cleaner".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T185330Z">
