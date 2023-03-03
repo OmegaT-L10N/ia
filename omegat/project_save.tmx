@@ -48677,8 +48677,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230303T101324Z" creationid="will" creationdate="20230303T101324Z">
-        <seg>Le tags que non include texto traducibile essera aggregite in un singule tag.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230303T101337Z" creationid="will" creationdate="20230303T101324Z">
+        <seg>Le tags que non include texto traducibile essera aggregite in un tag singule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62458,6 +62458,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130426T220315Z">
         <seg>Spatio blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T101522Z" creationid="will" creationdate="20230303T101522Z">
+        <seg>Le spatio in blanco (i.e., spatios e nove lineas) essera preservate, mesmo si iste option non es definite in le documento.</seg>
       </tuv>
     </tu>
     <tu>
