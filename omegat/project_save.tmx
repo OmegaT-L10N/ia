@@ -11006,6 +11006,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T100538Z" creationid="will" creationdate="20230303T100538Z">
+        <seg>Tags aggregate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T095306Z" creationid="Karm46" creationdate="20170914T095306Z">
@@ -48663,6 +48671,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T063235Z">
         <seg>Le tags representate in le segmento rendite essera presente in le documento rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230303T101324Z" creationid="will" creationdate="20230303T101324Z">
+        <seg>Le tags que non include texto traducibile essera aggregite in un singule tag.</seg>
       </tuv>
     </tu>
     <tu>
