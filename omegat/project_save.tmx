@@ -34595,6 +34595,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073910Z" creationid="will" creationdate="20230304T073910Z">
+        <seg>Modificar declaration de codification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T155441Z" creationid="MELO46" creationdate="20131226T155441Z">
@@ -38933,6 +38941,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T141901Z">
         <seg>Sol le file test.html in le plica dir-10 essera processate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073844Z" creationid="will" creationdate="20230304T073844Z">
+        <seg>Solmente le optiones que non es disponibile sub le filtro de files XHTML (vide supra) es describite hic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51230,6 +51246,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T153451Z" creationid="will" creationdate="20230302T153451Z">
         <seg>Le methodo le plus facile pro modificar lo es usar le dialogo &lt;g0&gt;Modificar modello&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T075059Z" creationid="will" creationdate="20230304T075059Z">
+        <seg>Le codification de un documento HTML generalmente es declarate in un elemento &lt;meta&gt; situate in le elemento &lt;head&gt;.</seg>
       </tuv>
     </tu>
     <tu>
