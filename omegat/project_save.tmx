@@ -47178,6 +47178,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and target files sometimes require a different encoding.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T075420Z" creationid="will" creationdate="20230304T075420Z">
+        <seg>Frequentemente, le files fonte e le files de destination require un codification differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source and translated file encoding</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T113948Z" creationid="will" creationdate="20230302T113948Z">
