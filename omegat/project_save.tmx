@@ -28339,6 +28339,15 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073208Z" creationid="will" creationdate="20230304T073208Z">
+        <seg>Ignora le parte de content del tag &lt;meta name="robots" content="index, follow"&gt;.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T084351Z" creationid="MELO46" creationdate="20140615T075939Z">
@@ -57723,6 +57732,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T161528Z">
         <seg>Pro identificar te quam un usator valide del servicios Google, tu usa tu clave unic private expedite a te per Google, quando tu ha registrate te pro le servicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ignore this content:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073335Z" creationid="will" creationdate="20230304T073335Z">
+        <seg>Pro ignorar iste contento:</seg>
       </tuv>
     </tu>
     <tu>
