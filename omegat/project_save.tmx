@@ -51547,6 +51547,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T172627Z" creationid="will" creationdate="20230304T172627Z">
+        <seg>Le filtro verifica le variabiles printf ('%s', etc.) de ordinario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The filter will however still work if you do not do this.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T082916Z">
