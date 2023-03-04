@@ -70468,6 +70468,22 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>only if the file already has a &lt;head&gt; tag,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T075758Z" creationid="will" creationdate="20230304T075723Z">
+        <seg>solmente si le file ha ja un tag &lt;head&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only if the file already has a declaration,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T075803Z" creationid="will" creationdate="20230304T075750Z">
+        <seg>solmente si le file ha ja un declaration,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>only if you received the object code with such an offer, in accord</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144630Z">
@@ -70704,6 +70720,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141332Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T075948Z" creationid="will" creationdate="20230304T075948Z">
+        <seg>o nunquam e salvar le file de destination in le codification specificate in le configuration del filtro de file.</seg>
       </tuv>
     </tu>
     <tu>
