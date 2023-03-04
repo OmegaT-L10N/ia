@@ -24799,6 +24799,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T172512Z" creationid="will" creationdate="20230304T172512Z">
+        <seg>Le existentia de contento non traducite in le files traducite pote crear problemas de compatibilitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083212Z">
@@ -43012,6 +43020,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T095407Z">
         <seg>Remover le traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T172423Z" creationid="will" creationdate="20230304T172416Z">
+        <seg>Remove le catenas non traducite in le files de destination.</seg>
       </tuv>
     </tu>
     <tu>
