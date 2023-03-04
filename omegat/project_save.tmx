@@ -11340,6 +11340,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073817Z" creationid="will" creationdate="20230304T073817Z">
+        <seg>Tote le tags que es marcate con &lt;c0&gt;translate="no"&lt;/c0&gt; essera ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the user manual files can be found in this folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181813Z">
@@ -28349,8 +28357,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230304T073208Z" creationid="will" creationdate="20230304T073208Z">
-        <seg>Ignora le parte de content del tag &lt;meta name="robots" content="index, follow"&gt;.
+      <tuv lang="ia" changeid="will" changedate="20230304T073548Z" creationid="will" creationdate="20230304T073208Z">
+        <seg>Ignorar le parte de content del tag &lt;meta name="robots" content="index, follow"&gt;.
 </seg>
       </tuv>
     </tu>
@@ -72952,6 +72960,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T073343Z" creationid="will" creationdate="20230304T073343Z">
         <seg>usa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073604Z" creationid="will" creationdate="20230304T073604Z">
+        <seg>usa: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
