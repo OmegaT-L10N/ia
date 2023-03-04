@@ -56589,6 +56589,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T080848Z" creationid="will" creationdate="20230304T080848Z">
+        <seg>Iste optione converti tal plure characteres spatio blanc continue in un singule spatio in le documento traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T031553Z" creationid="Melo46" creationdate="20151116T031553Z">
