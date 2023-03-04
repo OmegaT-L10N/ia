@@ -24955,6 +24955,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T075514Z" creationid="will" creationdate="20230304T075514Z">
+        <seg>Hic tu pote decider si adder o modificar le declaration del codification del file de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132408Z">
@@ -65662,6 +65670,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144630Z">
         <seg>alternative is allowed only occasionally and noncommercially, and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>always, based on the file filter settings,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T075637Z" creationid="will" creationdate="20230304T075637Z">
+        <seg>sempre basate super le configuration del filtros de file,</seg>
       </tuv>
     </tu>
     <tu>
