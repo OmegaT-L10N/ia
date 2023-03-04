@@ -16084,6 +16084,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments in an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T081232Z" creationid="will" creationdate="20230304T081232Z">
+        <seg>Commentos in un file HTML generalmente es scribite pro le programmatores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments pane</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T091902Z">
@@ -42788,6 +42796,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T172823Z" creationid="ia" creationdate="20170909T172823Z">
         <seg>Remover le tags initia&amp;l e final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T080943Z" creationid="will" creationdate="20230304T080943Z">
+        <seg>Remover commentos HTML</seg>
       </tuv>
     </tu>
     <tu>
