@@ -18359,6 +18359,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the attribute values that make a tag non-translatable.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073535Z" creationid="will" creationdate="20230304T073535Z">
+        <seg>Definir le valores de attributos que face un tag non traducibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Define the paragraph tags, in this case by changing the line:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130609T174835Z">
@@ -28368,6 +28376,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T103135Z" creationid="will" creationdate="20230303T103135Z">
         <seg>Tags &lt;meta&gt; con attributo "content" ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073358Z" creationid="will" creationdate="20230304T073358Z">
+        <seg>Tags ignorate (attribute=value)</seg>
       </tuv>
     </tu>
     <tu>
@@ -72928,6 +72944,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T050329Z" creationid="Melo46" creationdate="20200728T050329Z">
         <seg>usa &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Inviar Files fonte&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T073343Z" creationid="will" creationdate="20230304T073343Z">
+        <seg>usa:</seg>
       </tuv>
     </tu>
     <tu>
