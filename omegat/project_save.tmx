@@ -62671,6 +62671,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230304T080713Z" creationid="will" creationdate="20230304T080713Z">
+        <seg>Le spatios blanc foras del tags non es considerate significante in HTML/XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whitespaces</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T232340Z" creationid="Melo" creationdate="20151014T232340Z">
