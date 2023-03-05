@@ -37292,6 +37292,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T081152Z" creationid="will" creationdate="20230305T081152Z">
+        <seg>OmegaT sempre reproduce le contento de fonte quando un segmento non es fornite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20211229T170955Z" creationid="will" creationdate="20211229T170955Z">
