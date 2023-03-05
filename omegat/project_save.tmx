@@ -12922,6 +12922,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto replace plural specification</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T113310Z" creationid="will" creationdate="20230305T113310Z">
+        <seg>Replaciar automaticamente specificationes plural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T170331Z" creationid="ia" creationdate="20170909T170331Z">
@@ -13592,8 +13600,8 @@ Compra te un altere bibita.</seg>
       <tuv lang="en">
         <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230305T081936Z" creationid="will" creationdate="20230305T081805Z">
-        <seg>Segmentos fonte vacue se comporta alicun vices como spatios reservate pro partes que non existe in le lingua fonte, sed es necessari in le lingua de destination.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230305T112718Z" creationid="will" creationdate="20230305T081805Z">
+        <seg>Vacue segmentos fonte se comporta a vices como spatios reservate pro partes que non existe in le lingua fonte, sed es necessari in le lingua de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28379,6 +28387,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore PO header</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T113154Z" creationid="will" creationdate="20230305T113154Z">
+        <seg>Ignorar titulos PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T151024Z" creationid="Melo46" creationdate="20150423T151024Z">
@@ -39937,6 +39953,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Override the plural specification in the header and use the target language default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T113500Z" creationid="will" creationdate="20230305T113500Z">
+        <seg>Supplantar le specification plural in le titulo e usa le configuration predefinite pro le lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T072545Z" creationid="Melo46" creationdate="20200726T072340Z">
@@ -40013,6 +40037,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093715Z">
         <seg>- files PO (*.po)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T113732Z" creationid="will" creationdate="20230305T113732Z">
+        <seg>Files PO que usa &lt;l0&gt;msgid&lt;/l0&gt; como le receptaculos fonte  e expecta que le traduction essera poner in &lt;l1&gt;msgstr&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50304,6 +50336,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T192208Z" creationid="Melo46" creationdate="20200726T192208Z">
         <seg>Le testa del PO essera saltate e lassate sin alteration, si es marcate iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T113228Z" creationid="will" creationdate="20230305T113228Z">
+        <seg>Le titulos PO non essera monstrate pro le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60841,6 +60881,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230305T081300Z" creationid="will" creationdate="20230305T081300Z">
         <seg>Usa iste option pro lassar vacue un segmento non traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to provide a translation based on the associated comments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T113133Z" creationid="will" creationdate="20230305T113133Z">
+        <seg>Usa iste option pro fornir un traduction basate super le commentos associate.</seg>
       </tuv>
     </tu>
     <tu>
