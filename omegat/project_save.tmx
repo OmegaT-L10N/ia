@@ -58993,6 +58993,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate blank source segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T081327Z" creationid="will" creationdate="20230305T081327Z">
+        <seg>Traducer segmentos fonte vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150422T164003Z">
@@ -60817,6 +60825,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T160902Z">
         <seg>Usa iste function quando tu ha levate, movite, o celate uno o plus componentes e tu non es habile a restaurar le disposition desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to leave a non translated segment blank.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T081300Z" creationid="will" creationdate="20230305T081300Z">
+        <seg>Usa iste option pro lassar vacue un segmento non traducite.</seg>
       </tuv>
     </tu>
     <tu>
