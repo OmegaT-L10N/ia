@@ -11372,6 +11372,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T081043Z" creationid="will" creationdate="20230305T081043Z">
+        <seg>Permitter segmentos de destination vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow tag editing</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T091358Z">
