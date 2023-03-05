@@ -13590,6 +13590,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230305T081805Z" creationid="will" creationdate="20230305T081805Z">
+        <seg>Segmentos fonte vacue se comporta alicun vices como un spatio reservate pro partes que non existe in le lingua fonte, sed es necessari in le lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T134611Z" creationid="Karm46" creationdate="20171115T134611Z">
@@ -37294,8 +37302,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230305T081152Z" creationid="will" creationdate="20230305T081152Z">
-        <seg>OmegaT sempre reproduce le contento de fonte quando un segmento non es fornite.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230305T081336Z" creationid="will" creationdate="20230305T081152Z">
+        <seg>OmegaT sempre reproduce le contento fonte quando un segmento non es fornite.</seg>
       </tuv>
     </tu>
     <tu>
