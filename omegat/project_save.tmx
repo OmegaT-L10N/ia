@@ -47055,6 +47055,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some applications require some Unicode literals to be kept.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091012Z" creationid="will" creationdate="20230306T091012Z">
+        <seg>Alicun applicationes requere que alicun literales Unicode esser retenite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
