@@ -29825,6 +29825,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091217Z" creationid="will" creationdate="20230306T091217Z">
+        <seg>Entratas de indexation, marcapaginas, referentias de marcapaginas, notas, commentos, notas de presentation, ligamines (URL) e nomines de folios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T130749Z">
@@ -56759,6 +56767,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows for that.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091025Z" creationid="will" creationdate="20230306T091025Z">
+        <seg>Iste option permitte isto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225742Z">
@@ -59158,6 +59174,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083645Z">
         <seg>Rende le attributos sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following elements</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091044Z" creationid="will" creationdate="20230306T091044Z">
+        <seg>Traducer le sequente elementos</seg>
       </tuv>
     </tu>
     <tu>
