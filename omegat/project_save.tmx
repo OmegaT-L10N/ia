@@ -16212,6 +16212,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091501Z" creationid="will" creationdate="20230306T091501Z">
+        <seg>Compatibilitate con OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T103110Z">
@@ -20657,6 +20665,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T101850Z" creationid="will" creationdate="20230303T101850Z">
         <seg>Activa iste option si retornos morbide debe esser considerate como inicios de paragraphos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091550Z" creationid="will" creationdate="20230306T091550Z">
+        <seg>Activar iste option si tu besonia de laborar con files XLIFF create con OmegaT 2.6.</seg>
       </tuv>
     </tu>
     <tu>
