@@ -24823,6 +24823,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T084712Z" creationid="will" creationdate="20230306T084712Z">
+        <seg>habiente contento non traducite in le files traducite a vices crea problemas de compatibilitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T172512Z" creationid="will" creationdate="20230304T172512Z">
