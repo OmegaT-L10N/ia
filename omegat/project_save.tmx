@@ -31557,6 +31557,15 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T085302Z" creationid="will" creationdate="20230306T085302Z">
+        <seg>Java 8 requere codification ISO-8859-1 e usa literales Unicode pro characteres foras de ille collection de characteres.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160225T134211Z" creationid="Melo" creationdate="20160225T134116Z">
