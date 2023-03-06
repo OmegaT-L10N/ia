@@ -31566,6 +31566,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 9 and above requires UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T085410Z" creationid="will" creationdate="20230306T085410Z">
+        <seg>Java 9 e superior requere codification UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160225T134211Z" creationid="Melo" creationdate="20160225T134116Z">
@@ -56771,6 +56779,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T031553Z" creationid="Melo46" creationdate="20151116T031553Z">
         <seg>Iste option monstra le &lt;u0&gt;characteres de controlo bidirectional&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option forces Java 8 compatibility.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T085441Z" creationid="will" creationdate="20230306T085441Z">
+        <seg>Iste option fortia le compatibilitate de Java 8.</seg>
       </tuv>
     </tu>
     <tu>
