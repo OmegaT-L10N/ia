@@ -31565,6 +31565,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource bundle</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T084752Z" creationid="will" creationdate="20230306T084752Z">
+        <seg>Java Resource paccate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140124T232505Z">
@@ -51623,6 +51631,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T204148Z">
         <seg>Le files de iste sito, in un pacchetto commode pro illes qui desidera lo localisar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T084846Z" creationid="will" creationdate="20230306T084846Z">
+        <seg>Le filtro verifica patronos de Java MessageFormat (e.g. \{0\}) de ordinario.</seg>
       </tuv>
     </tu>
     <tu>
