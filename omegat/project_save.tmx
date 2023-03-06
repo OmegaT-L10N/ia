@@ -56100,6 +56100,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This filter is the original OmegaT XLIFF filter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091314Z" creationid="will" creationdate="20230306T091314Z">
+        <seg>Iste filtro es le XLIFF filtro original de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains a number of log files.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170037Z" creationid="will" creationdate="20230228T170037Z">
@@ -63631,6 +63639,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091237Z" creationid="will" creationdate="20230306T091237Z">
+        <seg>XLIFF (filtro legate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF Filter Options</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T091003Z">
@@ -65254,6 +65270,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T070743Z" creationid="will" creationdate="20230303T070743Z">
         <seg>Solo usa lo pro evitar problemas de compatibilitate con previe projectos continiente files que tu ha tractate con iste filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T091453Z" creationid="will" creationdate="20230306T091453Z">
+        <seg>Il es recommendabile usar lo solmente pro evitar problemas de compatibilitate con projectos precedente que contine files que tu tractava con ille filtro.</seg>
       </tuv>
     </tu>
     <tu>
