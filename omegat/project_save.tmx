@@ -31846,6 +31846,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Unicode literals (\\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T085506Z" creationid="will" creationdate="20230306T085506Z">
+        <seg>Mantener Unicode literales (\\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
