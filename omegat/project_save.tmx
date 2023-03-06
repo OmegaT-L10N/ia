@@ -23663,6 +23663,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230306T085009Z" creationid="will" creationdate="20230306T085009Z">
+        <seg>Forciar le compatibilitate de literales Unicode con Java 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format</seg>
       </tuv>
       <tuv lang="ia">
