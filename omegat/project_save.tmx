@@ -14116,6 +14116,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T183856Z" creationid="will" creationdate="20230315T183856Z">
+        <seg>De ordinario, cata projecto contine un &lt;l0/&gt; plica pro immagazinar le glossario scribibile del projecto e qualcunque glossarios de referentia que tu vole adder al projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T115048Z" creationid="melo" creationdate="20160813T115048Z">
@@ -52152,6 +52160,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T064009Z" creationid="Melo" creationdate="20151116T064009Z">
         <seg>Le Concordantias partial pote esser ordinate in manieras differente (sol pro displicar; sin alcun influentia sur le statistica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossaries folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T183348Z" creationid="will" creationdate="20230315T183348Z">
+        <seg>Le plica /glossary</seg>
       </tuv>
     </tu>
     <tu>
