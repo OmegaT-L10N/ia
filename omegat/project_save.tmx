@@ -27583,6 +27583,14 @@ not convey it at all.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T182502Z" creationid="will" creationdate="20230315T182502Z">
+        <seg>Si tu elige de usar un file existente como le glossario predefinite, tote le nove entratas essera registrate in le formato schedas separate e salvate in le formato UTF-8 per ordinario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160808T011431Z" creationid="Melo46" creationdate="20160808T011431Z">
