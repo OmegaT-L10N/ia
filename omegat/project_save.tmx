@@ -30987,6 +30987,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is called the &lt;e2&gt;writable&lt;/e2&gt; glossary for this reason.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060326Z" creationid="will" creationdate="20230315T060326Z">
+        <seg>Pro isto, on lo appella le glossario &lt;e2&gt;scribibile&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T113442Z">
@@ -53186,6 +53194,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project glossary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060145Z" creationid="will" creationdate="20230315T060145Z">
+        <seg>Le glossario del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
@@ -54765,6 +54781,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T080749Z">
         <seg>Eo, sur le linea de commando, scribe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are 2 kinds of glossary files:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060130Z" creationid="will" creationdate="20230315T060130Z">
+        <seg>Il ha 2 sortas de files glossario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60770,6 +60794,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T160926Z" creationid="will" creationdate="20230228T160926Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder lo directemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060227Z" creationid="will" creationdate="20230315T060227Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro entrar nove terminos in iste glossario.</seg>
       </tuv>
     </tu>
     <tu>
