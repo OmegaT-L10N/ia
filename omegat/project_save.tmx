@@ -48853,6 +48853,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T054150Z" creationid="will" creationdate="20230315T054150Z">
+        <seg>Tag vias breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag validation</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095220Z">
@@ -55107,6 +55115,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171117T104027Z">
         <seg>Iste formatos es formalmente note como "Office Open XML", e ha respectivemente le extensiones .docx, .xlsx e .pptx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T054853Z" creationid="will" creationdate="20230315T054853Z">
+        <seg>Iste optiones specifica como OmegaT crea tags de le contentos de XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
