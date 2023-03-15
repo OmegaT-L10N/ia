@@ -4576,6 +4576,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T182744Z" creationid="will" creationdate="20230315T182744Z">
+        <seg>&lt;c0&gt;# -*- codification: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T051418Z">
@@ -73746,6 +73754,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T162135Z">
         <seg>ubi &lt;i0&gt;percurso&lt;/i0&gt; es le nomine percurso complete del plica in le qual tu poneva preview.tcl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T182910Z" creationid="will" creationdate="20230315T182910Z">
+        <seg>ubi &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; es typicamente un del collectiones listate in le &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
