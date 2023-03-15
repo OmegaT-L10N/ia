@@ -28204,6 +28204,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T182731Z" creationid="will" creationdate="20230315T182731Z">
+        <seg>Si tu vole specificar un altere codification, tu pote facer lo per adder un commento "magic" que ha le formate sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T160550Z">
