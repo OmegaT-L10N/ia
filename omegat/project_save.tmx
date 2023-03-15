@@ -68948,6 +68948,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T055428Z" creationid="will" creationdate="20230315T055428Z">
+        <seg>Si marcate, OmegaT cambia le stato de destination del XLIFF a "besonia de esser revidite" in loco de "traducite".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific GUI settings</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T085336Z" creationid="Melo46" creationdate="20160805T085336Z">
