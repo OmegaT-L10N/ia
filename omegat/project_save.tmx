@@ -49141,6 +49141,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T055124Z" creationid="will" creationdate="20230315T055124Z">
+        <seg>Stato de segmento del destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target shorter</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T204143Z" creationid="MELO46" creationdate="20140629T204011Z">
