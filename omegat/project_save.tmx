@@ -47571,6 +47571,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source terms can be multi-word expressions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060101Z" creationid="will" creationdate="20230315T060101Z">
+        <seg>Terminos fonte pote esser multi-parola expressiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source text of the match</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T170158Z">
