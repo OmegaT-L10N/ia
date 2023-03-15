@@ -42569,6 +42569,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference glossaries</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T182921Z" creationid="will" creationdate="20230315T182921Z">
+        <seg>Glossarios de referentia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference windows</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T085815Z">
@@ -55331,6 +55339,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are terminology files in a format recognized by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T183003Z" creationid="will" creationdate="20230315T183003Z">
+        <seg>Iste es files de terminologia in un formate recognoscite by OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are the files you deal with on a daily basis while translating.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063628Z">
@@ -64994,6 +65010,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T194148Z" creationid="will" creationdate="20220109T194148Z">
         <seg>Tu pote examinar lo per seliger &lt;m0&gt;&lt;g1&gt;Instrumentos &gt;&lt;/g1&gt;&lt;g2&gt;Statisticas&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T183207Z" creationid="will" creationdate="20230315T183207Z">
+        <seg>Tu non pote modificar los per le interfacie OmegaT como, per exemplo, le glossario del projecto, ma tu pote facer lo per un editor de texto.</seg>
       </tuv>
     </tu>
     <tu>
