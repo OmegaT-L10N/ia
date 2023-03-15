@@ -31403,6 +31403,14 @@ interne al plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will be created the first time you add an entry to the glossary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T061025Z" creationid="will" creationdate="20230315T061025Z">
+        <seg>Le file es create le prime vice tu adde un entrata in le glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T163842Z">
