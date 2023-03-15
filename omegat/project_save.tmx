@@ -61160,6 +61160,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T054138Z" creationid="will" creationdate="20230315T054138Z">
+        <seg>Le usator pote seliger inter tres optiones: Le paragraphos precedente e sequente, le ID del &lt;trans-unit&gt; o &lt;trans-name&gt; renomina attributo quando es disponibile. Si illo non es disponibile, le ID va esser usate como alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User country</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T184704Z">
