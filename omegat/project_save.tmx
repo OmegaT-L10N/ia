@@ -11300,6 +11300,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060036Z" creationid="will" creationdate="20230315T060036Z">
+        <seg>Tote le terminos que ha un concordantia in &lt;e0&gt;ulle&lt;/e0&gt; del glossarios essera monstrate in le &lt;l1/&gt; pannello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T104721Z" creationid="Melo46" creationdate="20200728T104721Z">
@@ -24243,6 +24251,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220101T091404Z" creationid="will" creationdate="20220101T090437Z">
         <seg>Glossarios es legite dependente de lor extension de file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T055828Z" creationid="will" creationdate="20230315T055828Z">
+        <seg>Glossarios es files de terminologia que es salvate in le &lt;l0/&gt; plica.</seg>
       </tuv>
     </tu>
     <tu>
