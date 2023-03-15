@@ -11222,6 +11222,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All glossaries must be located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T184049Z" creationid="will" creationdate="20230315T184049Z">
+        <seg>Tote le glossarios debe esser ubicate in le &lt;l0/&gt; plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All of OmegaT's functions are available through the menu bar at the top of the Editor window.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T132354Z">
@@ -45362,6 +45370,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T112902Z" creationid="will" creationdate="20230301T112902Z">
         <seg>Vide le &lt;l1/&gt; capitulo pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T183925Z" creationid="will" creationdate="20230315T183925Z">
+        <seg>Vide le &lt;l1/&gt; proprietates de projecto pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
