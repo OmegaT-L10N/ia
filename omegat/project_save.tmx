@@ -60798,6 +60798,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060419Z" creationid="will" creationdate="20230315T060419Z">
+        <seg>Acceder &lt;l0/&gt;&lt;l1/&gt; lo directemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060227Z" creationid="will" creationdate="20230315T060227Z">
@@ -64850,6 +64858,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T175918Z" creationid="Karm46" creationdate="20170913T175918Z">
         <seg>Deinde tu pote lancear le script de lanceamento de Kaptain per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230315T060504Z" creationid="will" creationdate="20230315T060504Z">
+        <seg>Tu pote aperir e modificar lo in un editor de texto.</seg>
       </tuv>
     </tu>
     <tu>
