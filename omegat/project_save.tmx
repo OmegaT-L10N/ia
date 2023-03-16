@@ -3280,6 +3280,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T165014Z" creationid="will" creationdate="20230316T165014Z">
+        <seg>-h, --help
+	  Imprime iste message de adjuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132723Z">
