@@ -61102,6 +61102,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to set the location of the reference glossaries folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T053638Z" creationid="will" creationdate="20230316T053638Z">
+        <seg>Usa le proprietate de projecto &lt;l0/&gt; pro definir le location del plica de glossarios de referentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T001208Z" creationid="Karm46" creationdate="20171202T001208Z">
