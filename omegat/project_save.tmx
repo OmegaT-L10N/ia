@@ -45398,6 +45398,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for global commands.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T060440Z" creationid="will" creationdate="20230316T060440Z">
+        <seg>Vide le &lt;l0/&gt; preferentias pro commandos globalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T200340Z" creationid="will" creationdate="20230228T200340Z">
@@ -49473,6 +49481,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233920Z">
         <seg>Telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template Variables</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T060538Z" creationid="will" creationdate="20230316T060538Z">
+        <seg>Variabiles modello</seg>
       </tuv>
     </tu>
     <tu>
