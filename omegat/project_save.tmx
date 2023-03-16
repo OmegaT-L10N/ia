@@ -37725,6 +37725,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text files containing three-column lists, with the source term in the first column, an optional target term in the second column, and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T054658Z" creationid="will" creationdate="20230316T054658Z">
+        <seg>OmegaT files de glossario es files de texto simple que contine listas de tres columnas con le termino fonte in le prime columna, un optional termino de destination in le secunde columna e un optional commento in le tertie columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220101T085602Z" creationid="will" creationdate="20211231T170447Z">
@@ -64394,8 +64402,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T054119Z" creationid="will" creationdate="20230316T054119Z">
-        <seg>Tu pote cambiar su nomine e location in le dialogo &lt;l0/&gt;, ma tu debe dar a ille un extension &lt;f1&gt;.txt&lt;/f1&gt; o &lt;f2&gt;.utf8&lt;/f2&gt;, e salvegarda lo in le plica &lt;l3/&gt; o in un del su subplicaes.
+      <tuv lang="ia" changeid="will" changedate="20230316T054245Z" creationid="will" creationdate="20230316T054119Z">
+        <seg>Tu pote cambiar su nomine e location in le dialogo &lt;l0/&gt;, ma tu debe dar a ille le extension &lt;f1&gt;.txt&lt;/f1&gt; o &lt;f2&gt;.utf8&lt;/f2&gt;, e immagazinar lo in le plica &lt;l3/&gt; o in un del su subplicas.
 </seg>
       </tuv>
     </tu>
