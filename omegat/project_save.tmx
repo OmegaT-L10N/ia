@@ -63487,6 +63487,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Within that reference glossaries folder, you can create multiple terminology subfolders organized by topic, client, or any other category that suits your workflow.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T053501Z" creationid="will" creationdate="20230316T053501Z">
+        <seg>In ille plica de glossarios de referentia, tu pote crear plure subplicas de terminologia organisate per thema, cliente o qualcunque altere categoria que adapta al tue fluxo de labor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Without JRE</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130516T101401Z">
