@@ -3094,6 +3094,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T165130Z" creationid="will" creationdate="20230316T165130Z">
+        <seg>--no-team
+	  Disactivar le functionalitate de projecto de equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225605Z">
@@ -3136,6 +3146,18 @@ configurationes del projecto).</seg>
         <seg>--remote-project
 		discargar un file omegat.project ex le URL date como &lt;project
 		path&gt; e cargar le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T165110Z" creationid="will" creationdate="20230316T165110Z">
+        <seg>--remote-project
+	  Discargar un file omegat.project ex le URL date como &lt;project
+	  path&gt; e cargar le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73094,6 +73116,16 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130609T214745Z">
         <seg>te-warning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T165343Z" creationid="will" creationdate="20230316T165343Z">
+        <seg>team init &lt;lingua fonte&gt; &lt;lingua de destination&gt;
+	  projecto de equipa instrumento.</seg>
       </tuv>
     </tu>
     <tu>
