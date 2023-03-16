@@ -14564,6 +14564,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the language codes to reflect your source and target languages.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T163935Z" creationid="will" creationdate="20230316T163935Z">
+        <seg>Cambia le codice de lingua pro reflecter tu lingua fonte e lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the line:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T082122Z">
