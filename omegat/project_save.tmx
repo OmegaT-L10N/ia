@@ -15676,6 +15676,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T163947Z" creationid="will" creationdate="20230316T163947Z">
+        <seg>Pulsa &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T143030Z">
@@ -74772,6 +74780,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T144911Z" creationid="MELO46" creationdate="20140615T144911Z">
         <seg>← Retro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will create a folder set that contains your files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T164057Z" creationid="will" creationdate="20230316T164057Z">
+        <seg>→ OmegaT va crear un collection de plicas que contine tu files.</seg>
       </tuv>
     </tu>
     <tu>
