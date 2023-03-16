@@ -41945,6 +41945,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project glossary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T053940Z" creationid="will" creationdate="20230316T053940Z">
+        <seg>Glossario del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T080316Z">
@@ -54681,6 +54689,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T054051Z" creationid="will" creationdate="20230316T054051Z">
+        <seg>Per ordinario, le glossario del projecto que pote esser scribite se trova in le plica &lt;l0/&gt; e se appella &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170927T131545Z">
@@ -64372,6 +64388,15 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T174958Z" creationid="will" creationdate="20220109T174958Z">
         <seg>Tu pote pascer al transverso del notas per &lt;m0&gt;&lt;g1&gt;Vade → &lt;/g1&gt;&lt;g2&gt;Nota sequente&lt;/g2&gt;&lt;/m0&gt; e &lt;m3&gt;&lt;g4&gt;Vade → &lt;/g4&gt;&lt;g5&gt;Nota previe&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T054119Z" creationid="will" creationdate="20230316T054119Z">
+        <seg>Tu pote cambiar su nomine e location in le dialogo &lt;l0/&gt;, ma tu debe dar a ille un extension &lt;f1&gt;.txt&lt;/f1&gt; o &lt;f2&gt;.utf8&lt;/f2&gt;, e salvegarda lo in le plica &lt;l3/&gt; o in un del su subplicaes.
+</seg>
       </tuv>
     </tu>
     <tu>
