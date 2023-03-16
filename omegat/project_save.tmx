@@ -42121,6 +42121,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T164635Z" creationid="will" creationdate="20230316T164635Z">
+        <seg>Percurso de projecto solmente: Lancea GUI e carga le projecto specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T091402Z">
@@ -45249,6 +45257,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
         <seg>See Help &gt; User Guide for details, including available Java options.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T080942Z" creationid="will" creationdate="20230228T080942Z">
+        <seg>Reguarda Adjuta &gt; Guida del usator pro detalios, includente le optiones de Java disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T164253Z" creationid="will" creationdate="20230316T164253Z">
         <seg>Reguarda Adjuta &gt; Guida del usator pro detalios, includente le optiones de Java disponibile.</seg>
       </tuv>
     </tu>
