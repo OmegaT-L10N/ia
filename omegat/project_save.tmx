@@ -51644,6 +51644,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T060059Z" creationid="will" creationdate="20230316T060059Z">
+        <seg>Le codification usate pro leger glossarios de referentia depende de lor extension de file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T093401Z">
