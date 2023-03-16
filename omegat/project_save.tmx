@@ -30049,6 +30049,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T165539Z" creationid="will" creationdate="20230316T165539Z">
+        <seg>Initialisa un projecto de equipa minime con le linguas specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093257Z" creationid="ia" creationdate="20170909T161104Z">
