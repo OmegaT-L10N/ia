@@ -41195,6 +41195,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-Processing Commands</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T060303Z" creationid="will" creationdate="20230316T060303Z">
+        <seg>Post-processo commandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T123403Z">
@@ -45394,6 +45402,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T200340Z" creationid="will" creationdate="20230228T200340Z">
         <seg>Vide le &lt;l0/&gt;preferentias pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T060412Z" creationid="will" creationdate="20230316T060412Z">
+        <seg>Vide le &lt;l0/&gt; proprietates del projecto pro commandos specific pro le projecto.</seg>
       </tuv>
     </tu>
     <tu>
