@@ -58856,6 +58856,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start using OmegaT with minimal settings, do this:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T163645Z" creationid="will" creationdate="20230316T163645Z">
+        <seg>Pro initiar usar OmegaT con configurationes minime, face isto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T142357Z">
@@ -60955,6 +60963,14 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T080655Z" creationid="Karm46" creationdate="20171202T133336Z">
         <seg>Usar le filtro standard de &lt;a0&gt;OmegaT&lt;/a0&gt; (pro PDF), traducer, crear un file de destination (illo essera un file de texto simple), adder manualmente le formato pertinente e altere elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230316T163752Z" creationid="will" creationdate="20230316T163752Z">
+        <seg>Usa &lt;g0&gt; &gt; Projecto&lt;/g0&gt; &lt;g1&gt;&gt; Nove...&lt;/g1&gt; pro crear un nove projecto.</seg>
       </tuv>
     </tu>
     <tu>
