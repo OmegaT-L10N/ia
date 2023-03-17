@@ -3272,6 +3272,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T062321Z" creationid="will" creationdate="20230317T062321Z">
+        <seg>--quiet
+	  Reduce resultato al linea de commando stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -16686,6 +16696,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T062209Z" creationid="will" creationdate="20230317T062209Z">
+        <seg>Consola solo optiones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -18653,6 +18671,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T131525Z">
         <seg>Via breve base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T062147Z" creationid="will" creationdate="20230317T062147Z">
+        <seg>Valores predefinite a xml.</seg>
       </tuv>
     </tu>
     <tu>
