@@ -2994,6 +2994,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055240Z" creationid="will" creationdate="20230317T055240Z">
+        <seg>--config-dir=&lt;path&gt;
+	  Le plica usate pro leger o scriber le files de configuration de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T133605Z" creationid="Melo46" creationdate="20160805T133605Z">
@@ -3014,6 +3024,16 @@ configurationes del projecto).</seg>
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160812T153102Z" creationid="melo" creationdate="20160812T153102Z">
+        <seg>--config-file=&lt;path&gt;
+		Un file .proprietates de Java per le qual cargar le configurationes predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055144Z" creationid="will" creationdate="20230317T055144Z">
         <seg>--config-file=&lt;path&gt;
 		Un file .proprietates de Java per le qual cargar le configurationes predefinite.</seg>
       </tuv>
@@ -3206,6 +3226,16 @@ configurationes del projecto).</seg>
 		Un file .proprietates de Java a usar como texto de interfacie
 --config-dir=&lt;path&gt;
 		Le directorio ubi leger/scriber le files de configuration de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055416Z" creationid="will" creationdate="20230317T055416Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	  Un Java .properties file usate pro le texto de interfacie.</seg>
       </tuv>
     </tu>
     <tu>
