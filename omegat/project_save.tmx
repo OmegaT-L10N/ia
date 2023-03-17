@@ -1582,6 +1582,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080244Z" creationid="will" creationdate="20230317T080244Z">
+        <seg>&amp;Replacia e Trova Sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T001539Z" creationid="Melo46" creationdate="20160729T001539Z">
@@ -38587,6 +38595,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T073955Z">
         <seg>Projectos e sub plicas de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080416Z" creationid="will" creationdate="20230317T080416Z">
+        <seg>OmegaT ha exhauste memoria e claudere quando tu pulsara OK.</seg>
       </tuv>
     </tu>
     <tu>
