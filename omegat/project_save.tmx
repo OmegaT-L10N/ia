@@ -3656,6 +3656,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080533Z" creationid="will" creationdate="20230317T080533Z">
+        <seg>1) Reduce le numero de files in the plica fonte;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T094039Z">
@@ -3770,6 +3778,14 @@ The current setting is {0}MB;</seg>
 "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" sur le linea commando 
 o in le script de initio de OmegaT;
 Le quantitate actual es {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080604Z" creationid="will" creationdate="20230317T080604Z">
+        <seg>2) Acresscite le quantitate de memoria disponibile per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41546,6 +41562,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080424Z" creationid="will" creationdate="20230317T080424Z">
+        <seg>Solutiones possibile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-Processing Commands</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T060303Z" creationid="will" creationdate="20230316T060303Z">
@@ -61260,6 +61284,16 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T114752Z" creationid="Melo46" creationdate="20150423T114752Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080738Z" creationid="will" creationdate="20230317T080738Z">
+        <seg>Usa "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" per linea de commando o in le script de initiar de OmegaT; le configuration actual es (0)MB;</seg>
       </tuv>
     </tu>
     <tu>
