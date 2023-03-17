@@ -3116,6 +3116,18 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T061439Z" creationid="will" creationdate="20230317T061439Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    Un plica que contine le files de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225511Z">
@@ -3132,6 +3144,18 @@ configurationes del projecto).</seg>
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    Le emitte pseudo-traducite file de TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T061459Z" creationid="will" creationdate="20230317T061459Z">
+        <seg>--mode=console-stats
+	  project_path
+	    Le route al projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,6 +3216,18 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T061827Z" creationid="will" creationdate="20230317T061827Z">
+        <seg>--output-file=[stats-output-file]
+	    Imprime al file specificate o a resultato standard
+	    si nulle file es nominate o le option non es usate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225605Z">
@@ -3220,6 +3256,16 @@ configurationes del projecto).</seg>
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T092935Z" creationid="melo" creationdate="20160814T172121Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Con le qual plenar le file TMX pseudo-traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T061351Z" creationid="will" creationdate="20230317T061351Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		Con le qual plenar le file TMX pseudo-traducite.</seg>
       </tuv>
