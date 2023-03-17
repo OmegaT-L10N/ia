@@ -2948,6 +2948,20 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055106Z" creationid="will" creationdate="20230317T055106Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Tokenizer del lingua fonte o de destination a usar (supplanta le
+configurationes del projecto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T093420Z" creationid="Melo46" creationdate="20200730T093350Z">
@@ -3012,6 +3026,16 @@ configurationes del projecto).</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T092301Z" creationid="melo" creationdate="20160812T153750Z">
         <seg>--disable-location-save
 		Oblidar le ultime directorio aperte in le selector de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055028Z" creationid="will" creationdate="20230317T055028Z">
+        <seg>--disable-location-save
+		Oblidar le ultime plica aperte in le selector de file.</seg>
       </tuv>
     </tu>
     <tu>
