@@ -3362,6 +3362,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T061924Z" creationid="will" creationdate="20230317T061924Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifica le formato del emitte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
