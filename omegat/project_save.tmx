@@ -16302,6 +16302,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T180330Z" creationid="will" creationdate="20230317T180330Z">
+        <seg>Salva files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
@@ -16332,6 +16340,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T072605Z">
         <seg>Combina le functiones substitue e marca de te-gloss-highlight e te-gloss-subst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T182309Z" creationid="will" creationdate="20230317T182309Z">
+        <seg>Salvar files de destination</seg>
       </tuv>
     </tu>
     <tu>
