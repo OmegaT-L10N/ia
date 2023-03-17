@@ -3132,6 +3132,18 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055720Z" creationid="will" creationdate="20230317T055720Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    Un lista blanc de regular expressiones del files fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate \</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T075730Z">
@@ -16594,6 +16606,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T204107Z" creationid="Karm46" creationdate="20171128T204107Z">
         <seg>Consiste de un manual del studente modello con instructiones al instructores pro le accommodation, e exemplo del ressources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055626Z" creationid="will" creationdate="20230317T055608Z">
+        <seg>Nomines de modo de consola e lor optiones:</seg>
       </tuv>
     </tu>
     <tu>
