@@ -2910,6 +2910,22 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T175224Z" creationid="will" creationdate="20230317T175224Z">
+        <seg>- traher e deponer file sur iste panello;
+	- usa Projecto &gt; Copiar le files in le plica...;
+	- usa Projecto &gt; Files fonte... e pulsa Adder files...;
+	- usa tu gestor de file pro copiar files al plica de fonte,
+	  e alora usa Projecto &gt; Recargar pro recargar le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T133405Z" creationid="MELO46" creationdate="20140109T133405Z">
