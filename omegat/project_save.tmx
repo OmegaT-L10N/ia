@@ -3088,6 +3088,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T055524Z" creationid="will" creationdate="20230317T055524Z">
+        <seg>--mode=[console mode name]
+	  Specifica un modo in ultra al le GUI predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
