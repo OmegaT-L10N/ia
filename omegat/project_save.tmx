@@ -25972,6 +25972,15 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T062125Z" creationid="will" creationdate="20230317T062125Z">
+        <seg>Si --stats-type non es specificate, le formato es detegite de le extension del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160807T213724Z" creationid="Melo46" creationdate="20160807T213724Z">
