@@ -3340,6 +3340,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T062526Z" creationid="will" creationdate="20230317T062526Z">
+        <seg>--script=&lt;path&gt;
+	  Un file de scripto a esser executate pro eventos de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T093613Z" creationid="Melo46" creationdate="20200730T093613Z">
