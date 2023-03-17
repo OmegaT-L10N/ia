@@ -10774,6 +10774,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T180128Z" creationid="will" creationdate="20230317T180128Z">
+        <seg>Adder MediaWiki Page in rete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083604Z">
@@ -22356,10 +22364,26 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T180222Z" creationid="will" creationdate="20230317T180222Z">
+        <seg>Falleva de copiar files.size</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081631Z">
         <seg>Mancate creation del projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T180213Z" creationid="will" creationdate="20230317T180213Z">
+        <seg>Mediawiki page falleva de discargar</seg>
       </tuv>
     </tu>
     <tu>
@@ -39565,6 +39589,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T180138Z" creationid="will" creationdate="20230317T180138Z">
+        <seg>Mediawiki Page URL in rete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T121251Z">
@@ -42980,6 +43012,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130515T074228Z">
         <seg>Plus tosto, crea duo files. .zip, tar o gz, uno continente sol le documentos rendite e le altero continente le files .tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T180230Z" creationid="will" creationdate="20230317T180230Z">
+        <seg>Recargar</seg>
       </tuv>
     </tu>
     <tu>
