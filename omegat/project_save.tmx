@@ -1070,6 +1070,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080219Z" creationid="will" creationdate="20230317T080219Z">
+        <seg>&amp;Trova sequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T001519Z" creationid="Melo46" creationdate="20160729T001519Z">
@@ -1738,6 +1746,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151009T161520Z" creationid="Melo46" creationdate="20151009T161520Z">
         <seg>Mon&amp;Strar automaticamente le suggestiones pertinente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080203Z" creationid="will" creationdate="20230317T080203Z">
+        <seg>&amp;Monstra Replaciamentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,6 +3414,16 @@ configurationes del projecto).</seg>
       <tuv lang="ia" changeid="melo" changedate="20160812T162220Z" creationid="melo" creationdate="20160812T162220Z">
         <seg>--tag-validation=[abort|warn]
 		Validar le tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080033Z" creationid="will" creationdate="20230317T080033Z">
+        <seg>--tag-validation=[abort|warn]
+	  Validar tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40971,6 +40997,18 @@ toto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080135Z" creationid="will" creationdate="20230317T080135Z">
+        <seg>Pone le files fonte in ./source e le
+material supplemental in ./tm, ./glossary, e ./dictionary como requirite, pois committe
+toto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T224720Z" creationid="Karm46" creationdate="20170913T172850Z">
@@ -61188,6 +61226,16 @@ re linea {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T083009Z" creationid="will" creationdate="20230228T080646Z">
         <seg>Uso: java -jar java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T080106Z" creationid="will" creationdate="20230317T080106Z">
+        <seg>Usage: quipa init &lt;lingua fonte&gt; &lt;lingua de destination&gt;
+	Vide --help.</seg>
       </tuv>
     </tu>
     <tu>
