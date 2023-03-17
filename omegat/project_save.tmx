@@ -3124,6 +3124,18 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T061311Z" creationid="will" creationdate="20230317T061311Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    Le emitte pseudo-traducite file de TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T220026Z">
