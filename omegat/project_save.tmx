@@ -3026,6 +3026,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T054935Z" creationid="will" creationdate="20230317T054935Z">
+        <seg>--disable-project-locking
+		Non tentar de blocar le file omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T092207Z" creationid="Melo46" creationdate="20200730T092207Z">
@@ -26331,6 +26341,16 @@ excuse you from the conditions of this License.</seg>
 		will be staged/added.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093215Z" creationid="melo" creationdate="20160814T173229Z">
+        <seg>Si invocate in un arbore functionante de Git o in un checkout SVN, le resultatos
+		essera ponite in scena/addite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T054847Z" creationid="will" creationdate="20230317T054847Z">
         <seg>Si invocate in un arbore functionante de Git o in un checkout SVN, le resultatos
 		essera ponite in scena/addite.</seg>
       </tuv>
