@@ -2950,6 +2950,22 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T175726Z" creationid="will" creationdate="20230317T175726Z">
+        <seg>- verificar lor formato es supporta per OmegaT:
+	  si per-projecto filtros configurationes es activate
+	  usa Projecto &gt; Proprietates... &gt; filtros de file local...,
+	  alteremente usa Optiones &gt; Filtros de file global...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T143722Z" creationid="MELO46" creationdate="20140615T143722Z">
@@ -27314,6 +27330,14 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144832Z">
         <seg>If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T175252Z" creationid="will" creationdate="20230317T175252Z">
+        <seg>Si le projecto contine files ma lor contentos es non monstrate ci:</seg>
       </tuv>
     </tu>
     <tu>
