@@ -17165,6 +17165,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T175822Z" creationid="will" creationdate="20230317T175822Z">
+        <seg>Copia le error al area de transferentia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy it to &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T212547Z">
@@ -37888,6 +37896,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T175846Z" creationid="will" creationdate="20230317T175846Z">
+        <seg>OmegaT seligeva automaticamente le option 'Si'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20211229T170955Z" creationid="will" creationdate="20211229T170955Z">
@@ -53813,6 +53829,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Le projecto in le exemplo es evidentemente finite, como tote le segmentos unic esseva jam rendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230317T175751Z" creationid="will" creationdate="20230317T175751Z">
+        <seg>Le projecto es vacue</seg>
       </tuv>
     </tu>
     <tu>
