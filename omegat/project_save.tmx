@@ -1046,6 +1046,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150913Z" creationid="will" creationdate="20230318T150913Z">
+        <seg>MTs exportate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T130518Z">
@@ -17655,8 +17663,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230318T150651Z" creationid="will" creationdate="20230318T150651Z">
-        <seg>Crear Actual</seg>
+      <tuv lang="ia" changeid="will" changedate="20230318T150734Z" creationid="will" creationdate="20230318T150651Z">
+        <seg>Crear le documento rendite actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -40669,6 +40677,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150758Z" creationid="will" creationdate="20230318T150758Z">
+        <seg>Plica de projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082840Z">
@@ -47726,6 +47742,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150743Z" creationid="will" creationdate="20230318T150743Z">
+        <seg>Files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a4&gt;OmegaT&lt;/a4&gt; has been localized in Russian, &lt;a5&gt;OmegaT&lt;/a5&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140126T005621Z">
@@ -49258,8 +49282,8 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140615T143459Z" creationid="MELO46" creationdate="20140615T143459Z">
-        <seg>T&amp;Ms</seg>
+      <tuv lang="ia" changeid="will" changedate="20230318T150903Z" creationid="MELO46" creationdate="20140615T143459Z">
+        <seg>MTs</seg>
       </tuv>
     </tu>
     <tu>
