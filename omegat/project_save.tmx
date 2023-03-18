@@ -910,6 +910,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150925Z" creationid="will" creationdate="20230318T150925Z">
+        <seg>File fonte actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084309Z">
@@ -1962,6 +1970,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084310Z">
         <seg>&amp;Vide...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150943Z" creationid="will" creationdate="20230318T150943Z">
+        <seg>Glossario scribibile</seg>
       </tuv>
     </tu>
     <tu>
@@ -14640,6 +14656,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151009T153419Z" creationid="Melo46" creationdate="20151009T153419Z">
         <seg>Doc&amp;umento de destination actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150939Z" creationid="will" creationdate="20230318T150939Z">
+        <seg>File de destination actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -30564,6 +30588,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T151034Z" creationid="will" creationdate="20230318T151034Z">
+        <seg>Inserer sequente tag perdite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T095355Z">
@@ -45337,6 +45369,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T204420Z" creationid="Karm46" creationdate="20171128T204420Z">
         <seg>Scripts/procedures es disponibile pro activar tu pro face le sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150953Z" creationid="will" creationdate="20230318T150953Z">
+        <seg>Eliger file fonte</seg>
       </tuv>
     </tu>
     <tu>
