@@ -17637,10 +17637,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150711Z" creationid="will" creationdate="20230318T150630Z">
+        <seg>Crear le documentos traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T141527Z">
         <seg>Crear un traduction alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230318T150651Z" creationid="will" creationdate="20230318T150651Z">
+        <seg>Crear Actual</seg>
       </tuv>
     </tu>
     <tu>
