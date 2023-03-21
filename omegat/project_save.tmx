@@ -25675,6 +25675,22 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091947Z" creationid="will" creationdate="20230321T091947Z">
+        <seg>Marca le segmentos traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T092009Z" creationid="will" creationdate="20230321T092009Z">
+        <seg>Marca le segmentos non traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T064338Z" creationid="melo" creationdate="20160813T064338Z">
