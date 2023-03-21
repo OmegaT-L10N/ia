@@ -33333,8 +33333,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T090716Z" creationid="will" creationdate="20230321T090716Z">
-        <seg> (LRE U+202&amp;A)</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T090845Z" creationid="will" creationdate="20230321T090716Z">
+        <seg>Incorporation sinistra-a-dextra (LRE U+202&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41802,6 +41802,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090930Z" creationid="will" creationdate="20230321T090930Z">
+        <seg> (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T085929Z" creationid="ia" creationdate="20170909T161640Z">
@@ -44653,6 +44661,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102657Z">
         <seg>Cliccante con le dextra sur un parola sublineate (Artund in le figura ante) se displica un menu a cortina listante suggestiones pro le correction (Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090903Z" creationid="will" creationdate="20230321T090903Z">
+        <seg>Incorporation dextra-a-sinistra (RLE U+202&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61870,6 +61886,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T045835Z" creationid="Melo46" creationdate="20200728T045835Z">
         <seg>Usa un application cliente SVN o Git pro adder le files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090932Z" creationid="will" creationdate="20230321T090932Z">
+        <seg>FUse as Default Translati&amp;on</seg>
       </tuv>
     </tu>
     <tu>
