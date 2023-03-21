@@ -33331,6 +33331,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090716Z" creationid="will" creationdate="20230321T090716Z">
+        <seg> (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160814T173928Z" creationid="melo" creationdate="20160814T173928Z">
@@ -44653,6 +44661,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160814T173939Z" creationid="melo" creationdate="20160814T173939Z">
         <seg>Incorporation dextra-a-sinistra (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090638Z" creationid="will" creationdate="20230321T090638Z">
+        <seg>Dextra-a-sinistra (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
