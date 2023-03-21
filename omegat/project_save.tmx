@@ -920,8 +920,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T084309Z">
-        <seg>&amp;Cyclo</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T090432Z">
+        <seg>Cyclo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1758,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090424Z" creationid="will" creationdate="20230321T090424Z">
+        <seg>Phrase majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083142Z">
@@ -2008,8 +2016,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;lower case</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T090340Z" creationid="will" creationdate="20230321T090033Z">
-        <seg>minuscula</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T090406Z" creationid="will" creationdate="20230321T090033Z">
+        <seg>Minuscula</seg>
       </tuv>
     </tu>
     <tu>
@@ -30572,6 +30580,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090545Z" creationid="will" creationdate="20230321T090545Z">
+        <seg>Inserer un charactere de controlo Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T162436Z" creationid="Melo46" creationdate="20160728T162436Z">
@@ -33319,6 +33335,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160814T173928Z" creationid="melo" creationdate="20160814T173928Z">
         <seg>Incorporation sinistra-a-dextra (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090624Z" creationid="will" creationdate="20230321T090624Z">
+        <seg>Sinistra-a-dextra (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46392,8 +46416,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170910T100355Z">
-        <seg>Eliger le &amp;Previe concordantia</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T090459Z">
+        <seg>Eliger le previe concordantia</seg>
       </tuv>
     </tu>
     <tu>
