@@ -13346,6 +13346,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091449Z" creationid="will" creationdate="20230321T091449Z">
+        <seg>Auto-popular segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160807T213339Z" creationid="Melo46" creationdate="20160807T213339Z">
@@ -41874,6 +41882,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091328Z" creationid="will" creationdate="20230321T091328Z">
+        <seg>Nota previe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T174256Z" creationid="Karm46" creationdate="20171115T174256Z">
@@ -43476,6 +43492,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T123238Z">
         <seg>Instrumentos Regex e exemplos de uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091317Z" creationid="will" creationdate="20230321T091317Z">
+        <seg>Registrar un traduction identic</seg>
       </tuv>
     </tu>
     <tu>
