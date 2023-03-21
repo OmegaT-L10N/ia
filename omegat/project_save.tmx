@@ -19620,10 +19620,18 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T092124Z" creationid="will" creationdate="20230321T092124Z">
+        <seg>Monstrar delimitationes del paragrapho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170911T224142Z">
-        <seg>monstra le segmentos fonte (&amp;Source)</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T092134Z">
+        <seg>Monstrar le segmentos fonte (&amp;Source)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25677,16 +25685,16 @@ Su hiberno ha venite</seg>
       <tuv lang="en">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T091947Z" creationid="will" creationdate="20230321T091947Z">
-        <seg>Marca le segmentos traducite</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T092041Z" creationid="will" creationdate="20230321T091947Z">
+        <seg>Marcar le segmentos traducite</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T092009Z" creationid="will" creationdate="20230321T092009Z">
-        <seg>Marca le segmentos non traducite</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T092044Z" creationid="will" creationdate="20230321T092009Z">
+        <seg>Marcar le segmentos non traducite</seg>
       </tuv>
     </tu>
     <tu>
@@ -25695,6 +25703,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T064338Z" creationid="melo" creationdate="20160813T064338Z">
         <seg>In evidentia le modello...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T092221Z" creationid="will" creationdate="20230321T092221Z">
+        <seg>Marcar segmentos repetite</seg>
       </tuv>
     </tu>
     <tu>
