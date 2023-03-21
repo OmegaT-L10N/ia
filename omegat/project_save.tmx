@@ -1928,8 +1928,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;UPPER CASE</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T090058Z" creationid="will" creationdate="20230321T090058Z">
-        <seg>litteras SUPERIOR</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T090350Z" creationid="will" creationdate="20230321T090058Z">
+        <seg>Majuscula</seg>
       </tuv>
     </tu>
     <tu>
@@ -2008,8 +2008,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;lower case</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T090046Z" creationid="will" creationdate="20230321T090033Z">
-        <seg>litteras minuscule</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T090340Z" creationid="will" creationdate="20230321T090033Z">
+        <seg>minuscula</seg>
       </tuv>
     </tu>
     <tu>
