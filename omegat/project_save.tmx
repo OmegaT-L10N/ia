@@ -1718,6 +1718,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T085944Z" creationid="will" creationdate="20230321T085944Z">
+        <seg>Cercar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081025Z">
@@ -44117,6 +44125,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224517Z" creationid="MELO46" creationdate="20140701T112912Z">
         <seg>Replaciar con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T085950Z" creationid="will" creationdate="20230321T085950Z">
+        <seg>Replaciar...</seg>
       </tuv>
     </tu>
     <tu>
