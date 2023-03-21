@@ -1422,6 +1422,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091607Z" creationid="will" creationdate="20230321T091607Z">
+        <seg>Segmento sequente ab tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083133Z">
@@ -1498,6 +1506,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081017Z">
         <seg>Segmento &amp;Previe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091620Z" creationid="will" creationdate="20230321T091620Z">
+        <seg>Segmento previe ab tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -36013,6 +36029,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T140833Z">
         <seg>Māori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091725Z" creationid="will" creationdate="20230321T091725Z">
+        <seg>Segmento sequente ab tm/fortiar/</seg>
       </tuv>
     </tu>
     <tu>
