@@ -1926,6 +1926,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090058Z" creationid="will" creationdate="20230321T090058Z">
+        <seg>litteras SUPERIOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo Changes</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T092603Z" creationid="Karm46" creationdate="20171001T092603Z">
@@ -1994,6 +2002,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151009T153510Z" creationid="Melo46" creationdate="20151009T153510Z">
         <seg>Glossario scribibile (&amp;Writeable)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090046Z" creationid="will" creationdate="20230321T090033Z">
+        <seg>litteras minuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -44829,6 +44845,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084308Z">
         <seg>Cambia (S&amp;witch) le littera in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T090025Z" creationid="will" creationdate="20230321T090025Z">
+        <seg>Cambiar le littera in</seg>
       </tuv>
     </tu>
     <tu>
