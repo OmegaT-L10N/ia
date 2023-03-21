@@ -17709,6 +17709,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091153Z" creationid="will" creationdate="20230321T091153Z">
+        <seg>Crear traduction alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T141527Z">
@@ -41804,8 +41812,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T090930Z" creationid="will" creationdate="20230321T090930Z">
-        <seg> (PDF U+202&amp;C)</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T091055Z" creationid="will" creationdate="20230321T090930Z">
+        <seg>Formattation del direction Pop (PDF U+202&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43676,6 +43684,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T213312Z" creationid="Karm46" creationdate="20170929T213312Z">
         <seg>Remo&amp;ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091228Z" creationid="will" creationdate="20230321T091228Z">
+        <seg>Remover le traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -47098,6 +47114,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T094459Z" creationid="Karm46" creationdate="20171001T094234Z">
         <seg>Definite &amp; Salvate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230321T091250Z" creationid="will" creationdate="20230321T091250Z">
+        <seg>Fixar un traduction vacue</seg>
       </tuv>
     </tu>
     <tu>
@@ -61892,8 +61916,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T090932Z" creationid="will" creationdate="20230321T090932Z">
-        <seg>FUse as Default Translati&amp;on</seg>
+      <tuv lang="ia" changeid="will" changedate="20230321T091135Z" creationid="will" creationdate="20230321T090932Z">
+        <seg>Usar como traduction base</seg>
       </tuv>
     </tu>
     <tu>
