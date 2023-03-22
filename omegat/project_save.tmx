@@ -61206,6 +61206,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T095715Z" creationid="will" creationdate="20230322T095715Z">
+        <seg>Impossibile crear le files traducite a causa de tags mancante o damnificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233423Z" creationid="Melo46" creationdate="20160728T233423Z">
