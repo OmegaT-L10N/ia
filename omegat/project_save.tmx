@@ -2014,6 +2014,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094800Z" creationid="will" creationdate="20230322T094800Z">
+        <seg>Manual del Usator...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081404Z">
@@ -10636,6 +10644,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144712Z">
         <seg>Acceptance Not Required for Having Copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094755Z" creationid="will" creationdate="20230322T094755Z">
+        <seg>Acceder al plica de configuration</seg>
       </tuv>
     </tu>
     <tu>
@@ -24855,6 +24871,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094742Z" creationid="will" creationdate="20230322T094742Z">
+        <seg>regulas de segmentation global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094731Z" creationid="will" creationdate="20230322T094731Z">
+        <seg>Filtros de file global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T210442Z" creationid="MELO46" creationdate="20140629T210422Z">
@@ -25839,6 +25871,22 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T170552Z" creationid="ia" creationdate="20170909T170552Z">
         <seg>Chronologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094712Z" creationid="will" creationdate="20230322T094712Z">
+        <seg>Completamento del chronologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094718Z" creationid="will" creationdate="20230322T094718Z">
+        <seg>Prediction del chronologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -38963,6 +39011,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T082301Z">
         <seg>Concordantia OmegaT, includente numeros, tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T095146Z" creationid="will" creationdate="20230322T095146Z">
+        <seg>OmegaT debe recargar le projecto pro recognoscer le modificationes.</seg>
       </tuv>
     </tu>
     <tu>
