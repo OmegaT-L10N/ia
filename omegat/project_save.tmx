@@ -15772,6 +15772,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T100041Z" creationid="will" creationdate="20230322T100041Z">
+        <seg>Controlar si isto es deliberate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T205157Z" creationid="MELO46" creationdate="20140629T205157Z">
@@ -56052,6 +56060,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T093339Z" creationid="Karm46" creationdate="20171001T092919Z">
         <seg>Il ha plure plugins disponibile pro OmegaT in internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T100009Z" creationid="will" creationdate="20230322T100009Z">
+        <seg>Il existe nulle parametros de Git in le files del projecto remote.</seg>
       </tuv>
     </tu>
     <tu>
