@@ -61970,6 +61970,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094214Z" creationid="will" creationdate="20230322T094214Z">
+        <seg>Usar fonte de reserva aggressive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Dave Turner's CodeZapper macro.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T112019Z">
