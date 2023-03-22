@@ -1334,6 +1334,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094411Z" creationid="will" creationdate="20230322T094411Z">
+        <seg>Traduction automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083541Z">
@@ -1426,6 +1434,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230321T091607Z" creationid="will" creationdate="20230321T091607Z">
         <seg>Segmento sequente ab tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094253Z" creationid="will" creationdate="20230322T094253Z">
+        <seg>Necun</seg>
       </tuv>
     </tu>
     <tu>
@@ -15308,6 +15324,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094359Z" creationid="will" creationdate="20230322T094359Z">
+        <seg>Controla problemas pro le file &amp;Currente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for Current Document</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T194106Z" creationid="Melo46" creationdate="20200730T194106Z">
@@ -19624,6 +19648,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T093848Z" creationid="will" creationdate="20230322T093848Z">
         <seg>Monstrar characteres de controlo Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094228Z" creationid="will" creationdate="20230322T094228Z">
+        <seg>Monstrar information de modification</seg>
       </tuv>
     </tu>
     <tu>
@@ -69033,6 +69065,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094320Z" creationid="will" creationdate="20230322T094320Z">
+        <seg>pro tote le segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132650Z">
@@ -69045,6 +69085,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132653Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094310Z" creationid="will" creationdate="20230322T094310Z">
+        <seg>pro le segmento actual</seg>
       </tuv>
     </tu>
     <tu>
