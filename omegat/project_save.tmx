@@ -742,6 +742,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094456Z" creationid="will" creationdate="20230322T094456Z">
+        <seg>&amp;Auto-completamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081909Z">
@@ -61862,6 +61870,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Kos Ivantsov" changedate="20180402T095442Z" creationid="Kos Ivantsov" creationdate="20180402T095442Z">
         <seg>Usar $n pro refere pro le aggruppamento n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094434Z" creationid="will" creationdate="20230322T094434Z">
+        <seg>Usar concordantias partial</seg>
       </tuv>
     </tu>
     <tu>
