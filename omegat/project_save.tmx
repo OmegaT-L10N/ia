@@ -62162,6 +62162,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T095906Z" creationid="will" creationdate="20230322T095906Z">
+        <seg>Usar Instrumentos &gt; Controlar le problemas... pro corriger le errores de tags e probar de novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a Team Project</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T202117Z" creationid="Melo46" creationdate="20200726T202117Z">
