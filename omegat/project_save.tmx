@@ -19596,6 +19596,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T093823Z" creationid="will" creationdate="20230322T093823Z">
+        <seg>Mostrar spatios blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T162926Z" creationid="Karm46" creationdate="20170929T162926Z">
@@ -19608,6 +19616,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T094336Z" creationid="MELO46" creationdate="20131224T094336Z">
         <seg>Monstra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T093848Z" creationid="will" creationdate="20230322T093848Z">
+        <seg>Monstrar characteres de controlo Bidi</seg>
       </tuv>
     </tu>
     <tu>
@@ -25687,6 +25703,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T225350Z" creationid="Melo46" creationdate="20160729T225350Z">
         <seg>Evidentiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T093907Z" creationid="will" creationdate="20230322T093907Z">
+        <seg>Marcar segmentos auto-populate</seg>
       </tuv>
     </tu>
     <tu>
@@ -34685,6 +34709,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T094038Z" creationid="will" creationdate="20230322T094038Z">
+        <seg>Marcar problemas de corrector del lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T094900Z">
@@ -34737,6 +34769,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T220659Z">
         <seg>Marcar algorithmo bidirectional de controlo characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T093934Z" creationid="will" creationdate="20230322T093934Z">
+        <seg>Marcar concordantias de glossario</seg>
       </tuv>
     </tu>
     <tu>
