@@ -43808,6 +43808,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T095203Z" creationid="will" creationdate="20230322T095203Z">
+        <seg>Recargar le projecto ora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T093512Z">
@@ -48058,6 +48066,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T071803Z">
         <seg>Ignorar le concordantia del texto del expression regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230322T095401Z" creationid="will" creationdate="20230322T095401Z">
+        <seg>File fonte {0} saltate proque illo non poteva essite cargate.</seg>
       </tuv>
     </tu>
     <tu>
