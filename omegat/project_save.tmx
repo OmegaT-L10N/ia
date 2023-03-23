@@ -726,6 +726,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230323T171502Z" creationid="will" creationdate="20230323T171502Z">
+        <seg>&amp;Applicar un dimension del characteres differente al pannello de dictionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151009T165326Z" creationid="Melo46" creationdate="20151009T165326Z">
