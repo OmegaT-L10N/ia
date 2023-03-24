@@ -1128,8 +1128,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Find Next</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T080219Z" creationid="will" creationdate="20230317T080219Z">
-        <seg>&amp;Trova sequente</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174003Z" creationid="will" creationdate="20230317T080219Z">
+        <seg>&amp;Trovar sequente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,8 +1672,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Replace and Find Next</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T080244Z" creationid="will" creationdate="20230317T080244Z">
-        <seg>&amp;Replacia e Trova Sequente</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174013Z" creationid="will" creationdate="20230317T080244Z">
+        <seg>&amp;Replaciar e Trovar Sequente</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,8 +3826,8 @@ configurationes del projecto).</seg>
       <tuv lang="en">
         <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T080533Z" creationid="will" creationdate="20230317T080533Z">
-        <seg>1) Reduce le numero de files in the plica fonte;</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174052Z" creationid="will" creationdate="20230317T080533Z">
+        <seg>1) Reduce le numero de files in le plica fonte;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39329,8 +39329,8 @@ a esser lanceate.</seg>
       <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T080416Z" creationid="will" creationdate="20230317T080416Z">
-        <seg>OmegaT ha exhauste memoria e claudere quando tu pulsara OK.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174045Z" creationid="will" creationdate="20230317T080416Z">
+        <seg>OmegaT ha exhauste la memoria e claudera quando tu pulsara OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43698,8 +43698,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170910T093427Z" creationid="MELO46" creationdate="20140615T142815Z">
-        <seg>Re&amp;placiar Toto</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T173934Z" creationid="MELO46" creationdate="20140615T142815Z">
+        <seg>Re&amp;placiar toto</seg>
       </tuv>
     </tu>
     <tu>
