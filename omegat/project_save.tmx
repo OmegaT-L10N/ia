@@ -22372,6 +22372,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T192800Z" creationid="will" creationdate="20230324T192800Z">
+        <seg>Excluder patrono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T221824Z" creationid="Melo46" creationdate="20160729T221824Z">
@@ -30792,6 +30800,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T192811Z" creationid="will" creationdate="20230324T192811Z">
+        <seg>Includer patrono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T230410Z" creationid="Karm46" creationdate="20170911T230410Z">
@@ -34263,8 +34279,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Local file/folder</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T192721Z" creationid="will" creationdate="20230324T192721Z">
-        <seg>FIle/-</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T192730Z" creationid="will" creationdate="20230324T192721Z">
+        <seg>FIle/plica local</seg>
       </tuv>
     </tu>
     <tu>
@@ -44276,6 +44292,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233615Z" creationid="Melo46" creationdate="20160728T233615Z">
         <seg>Repositorios remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T192738Z" creationid="will" creationdate="20230324T192738Z">
+        <seg>File/plica remote</seg>
       </tuv>
     </tu>
     <tu>
