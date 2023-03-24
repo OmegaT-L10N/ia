@@ -48730,6 +48730,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T141046Z" creationid="will" creationdate="20230324T141046Z">
+        <seg>Files fonte cargate ma saltante file(s) a causa de errores de filtro(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T222104Z">
