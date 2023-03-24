@@ -34261,6 +34261,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T192721Z" creationid="will" creationdate="20230324T192721Z">
+        <seg>FIle/-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T100804Z" creationid="Karm46" creationdate="20170914T100804Z">
@@ -37916,6 +37924,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T124944Z" creationid="Melo46" creationdate="20200727T124944Z">
         <seg>Nota: iste duo instructiones pote esser combinate scribente &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T192046Z" creationid="will" creationdate="20230324T192046Z">
+        <seg>Bloco nota</seg>
       </tuv>
     </tu>
     <tu>
