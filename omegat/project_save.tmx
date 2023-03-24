@@ -782,6 +782,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171721Z" creationid="will" creationdate="20230324T171721Z">
+        <seg>Auto-propagation del traductiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T233123Z" creationid="Melo" creationdate="20151125T233123Z">
@@ -44352,6 +44360,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171731Z" creationid="will" creationdate="20230324T171731Z">
+        <seg>Remover le ta&amp;gs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags from DOCX documents</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T120350Z" creationid="karm46" creationdate="20180424T120350Z">
@@ -48882,6 +48898,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171711Z" creationid="will" creationdate="20230324T171657Z">
+        <seg>Tokenizer del lingua fonte (Source):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082503Z">
@@ -50568,6 +50592,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T222029Z">
         <seg>Le plica de destination {0} non existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171705Z" creationid="will" creationdate="20230324T171705Z">
+        <seg>Tokenizer del lingua de destination:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60896,6 +60928,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T171346Z" creationid="will" creationdate="20230324T171346Z">
         <seg>Plica del files traducite:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171553Z" creationid="will" creationdate="20230324T171553Z">
+        <seg>Lingua del files traducite:</seg>
       </tuv>
     </tu>
     <tu>
