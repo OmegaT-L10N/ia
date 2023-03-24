@@ -17949,6 +17949,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172654Z" creationid="will" creationdate="20230324T172654Z">
+        <seg>Crear plica del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094535Z">
@@ -49230,6 +49238,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T173859Z">
         <seg>Specifica le codification pro tu files de texto simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172627Z" creationid="will" creationdate="20230324T172627Z">
+        <seg>Specificar lor position nove o recrear los.</seg>
       </tuv>
     </tu>
     <tu>
