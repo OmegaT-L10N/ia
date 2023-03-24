@@ -44272,6 +44272,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T173552Z" creationid="will" creationdate="20230324T173552Z">
+        <seg>Repositorios remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180927T171529Z" creationid="karm46" creationdate="20180927T171529Z">
@@ -54511,6 +54519,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T183920Z" creationid="Melo46" creationdate="20200730T074454Z">
         <seg>Le optiones per le initio del programma in iste caso essera legite ab le file OmegaT.l4J.ini , le qual reside in le mesme plica que le file .exe e que tu pote editar per reflecter tu configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T173431Z" creationid="will" creationdate="20230324T173431Z">
+        <seg>Le file original es reservate como: {0}</seg>
       </tuv>
     </tu>
     <tu>
