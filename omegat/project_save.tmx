@@ -21357,6 +21357,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172015Z" creationid="will" creationdate="20230324T172015Z">
+        <seg>Activar los in Preferentias &gt; Salvamento e Resultatos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable this option if soft-returns are intended to be paragraph starters.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T101850Z" creationid="will" creationdate="20230303T101850Z">
@@ -34185,6 +34193,30 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T100804Z" creationid="Karm46" creationdate="20170914T100804Z">
         <seg>Percurso del installation local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171739Z" creationid="will" creationdate="20230324T171739Z">
+        <seg>Commandos de post-elaboration local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171757Z" creationid="will" creationdate="20230324T171757Z">
+        <seg>Commandos de post-elaboration local (incapacitate):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171853Z" creationid="will" creationdate="20230324T171853Z">
+        <seg>Commandos de post-elaboration local es incapacitate e non sera executabile.</seg>
       </tuv>
     </tu>
     <tu>
