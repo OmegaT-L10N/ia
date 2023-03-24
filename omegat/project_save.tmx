@@ -3577,9 +3577,9 @@ configurationes del projecto).</seg>
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T061924Z" creationid="will" creationdate="20230317T061924Z">
+      <tuv lang="ia" changeid="will" changedate="20230324T173823Z" creationid="will" creationdate="20230317T061924Z">
         <seg>--stats-type=[xml|text|txt|json]
-	    Specifica le formato del emitte.</seg>
+	    Specifica le formato de emitte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34961,6 +34961,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233854Z" creationid="Melo46" creationdate="20160728T233854Z">
         <seg>Mappatura del plicas local al plicas remote in le repositorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T173613Z" creationid="will" creationdate="20230324T173613Z">
+        <seg>*** Mapping of local folders to remote folders in repositories</seg>
       </tuv>
     </tu>
     <tu>
