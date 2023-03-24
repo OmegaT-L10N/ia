@@ -22420,6 +22420,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171412Z" creationid="will" creationdate="20230324T171412Z">
+        <seg>Exportar le plica del memorias de traduction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exports the current selection or the current source, if no text has been selected.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T211037Z">
@@ -48850,6 +48858,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171532Z" creationid="will" creationdate="20230324T171532Z">
+        <seg>Lingua del files fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T141046Z" creationid="will" creationdate="20230324T141046Z">
@@ -49992,6 +50008,22 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T095518Z" creationid="Karm46" creationdate="20170914T095518Z">
         <seg>Optiones de concordantia del traduction automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171455Z" creationid="will" creationdate="20230324T171455Z">
+        <seg>TMX nivello 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171502Z" creationid="will" creationdate="20230324T171502Z">
+        <seg>TMX nivello 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -61024,6 +61056,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T074404Z">
         <seg>Le memorias de traduction pote alsi continer traductiones de referentia: legislation multinational, assi como celle del Communitate Europee, es un exemplo typic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T171444Z" creationid="will" creationdate="20230324T171444Z">
+        <seg>Memorias de traduction de exportar:</seg>
       </tuv>
     </tu>
     <tu>
