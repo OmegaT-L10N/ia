@@ -42162,6 +42162,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T170143Z" creationid="will" creationdate="20230324T170143Z">
+        <seg>Commando de post-elaboration fallite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T165856Z" creationid="will" creationdate="20230324T165856Z">
