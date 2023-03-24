@@ -18797,6 +18797,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T173314Z" creationid="will" creationdate="20230324T173314Z">
+        <seg>Configuration del projecto actual sera supplante per le configuration del projecto remote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
@@ -61352,6 +61360,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130516T095420Z">
         <seg>Version Trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T173103Z" creationid="will" creationdate="20230324T173103Z">
+        <seg>Probar con le copia de reserva</seg>
       </tuv>
     </tu>
     <tu>
