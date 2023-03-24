@@ -3092,11 +3092,11 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T174819Z" creationid="will" creationdate="20230317T175726Z">
+      <tuv lang="ia" changeid="will" changedate="20230324T174845Z" creationid="will" creationdate="20230317T175726Z">
         <seg>- verificar lor formato es supportate per OmegaT:
 	  si per-projecto filtros configurationes es activate
-	  usa Projecto &gt; Proprietates... &gt; filtros de file local...,
-	  alteremente usa Optiones &gt; Filtros de file global...;
+	  usar Projecto &gt; Proprietates... &gt; filtros de file local...,
+	  alteremente usar Optiones &gt; Filtros de file global...;
 	- aperir los in lor application original e verificar que illos non es vacue.</seg>
       </tuv>
     </tu>
@@ -63941,8 +63941,8 @@ cercabile sin subscription:</seg>
       <tuv lang="en">
         <seg>Warning</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T080319Z">
-        <seg>Advertimento</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174904Z">
+        <seg>&gt;&gt;&gt; Advertimento</seg>
       </tuv>
     </tu>
     <tu>
