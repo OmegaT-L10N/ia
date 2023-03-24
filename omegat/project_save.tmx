@@ -13682,6 +13682,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172221Z" creationid="will" creationdate="20230324T172221Z">
+        <seg>N&amp;avigar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T201844Z">
@@ -14254,10 +14262,34 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172205Z" creationid="will" creationdate="20230324T172138Z">
+        <seg>Nav&amp;igar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172210Z" creationid="will" creationdate="20230324T172149Z">
+        <seg>Navig&amp;ar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T125407Z">
         <seg>Brows&amp;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172239Z" creationid="will" creationdate="20230324T172239Z">
+        <seg>Naviga&amp;r...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14280,16 +14312,16 @@ Compra te un altere bibita.</seg>
       <tuv lang="en">
         <seg>Browse&amp;...</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T172127Z" creationid="will" creationdate="20230324T172127Z">
-        <seg>Navigar...</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T172158Z" creationid="will" creationdate="20230324T172127Z">
+        <seg>Navigar&amp;...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170929T210649Z" creationid="Karm46" creationdate="20170929T210649Z">
-        <seg>Navigation...</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T172228Z" creationid="Karm46" creationdate="20170929T210649Z">
+        <seg>Navigar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22424,6 +22456,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T140545Z">
         <seg>Exportar le selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172306Z" creationid="will" creationdate="20230324T172306Z">
+        <seg>Exportar le plica de memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -43636,6 +43676,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T095331Z">
         <seg>Reim&amp;placiar con fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172406Z" creationid="will" creationdate="20230324T172406Z">
+        <seg>Ma&amp;ppa de repositorio...</seg>
       </tuv>
     </tu>
     <tu>
@@ -65247,6 +65295,14 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094647Z">
         <seg>Operar con le texto simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172318Z" creationid="will" creationdate="20230324T172318Z">
+        <seg>File glossario scribibile</seg>
       </tuv>
     </tu>
     <tu>
