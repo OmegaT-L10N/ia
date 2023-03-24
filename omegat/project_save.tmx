@@ -18221,6 +18221,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T141322Z" creationid="will" creationdate="20230324T141322Z">
+        <seg>Creation de files traducite: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creation date</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T145018Z" creationid="MELO46" creationdate="20140615T145018Z">
@@ -60706,6 +60714,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T141358Z" creationid="will" creationdate="20230324T141358Z">
+        <seg>Traducite file create</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -60720,6 +60736,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T193322Z" creationid="Melo46" creationdate="20200726T193322Z">
         <seg>Nomine de file traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T141341Z" creationid="will" creationdate="20230324T141341Z">
+        <seg>Traducite files create</seg>
       </tuv>
     </tu>
     <tu>
