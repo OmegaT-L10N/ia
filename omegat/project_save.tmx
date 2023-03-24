@@ -18791,8 +18791,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170910T094111Z" creationid="Melo46" creationdate="20151009T151538Z">
-        <seg>Le uso de memoria actual per le MV (Memoria Virtual) es: {0}MB; del qual, memoria libere: {1}MB; maxime disponibile: {2}MB;</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174253Z" creationid="Melo46" creationdate="20151009T151538Z">
+        <seg>Le uso de memoria actual per le MV (Memoria Virtual) es: {0} MB; del qual, memoria libere: {1} MB; maxime disponibile: {2} MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45387,8 +45387,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T080830Z" creationid="will" creationdate="20230317T080830Z">
-        <seg>lancear OmegaT" in le guida de usator.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174203Z" creationid="will" creationdate="20230317T080830Z">
+        <seg>Lancear OmegaT" in le guida de usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59296,8 +59296,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T080920Z" creationid="will" creationdate="20230317T080920Z">
-        <seg>Pro adder file al projecto tu pote:</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T174312Z" creationid="will" creationdate="20230317T080920Z">
+        <seg>Pro adder files al projecto tu pote:</seg>
       </tuv>
     </tu>
     <tu>
