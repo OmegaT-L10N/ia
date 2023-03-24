@@ -21889,6 +21889,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T165615Z" creationid="will" creationdate="20230324T165615Z">
+        <seg>Error a initiar le commandos de post-elaboration: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082706Z">
@@ -22296,6 +22304,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081637Z">
         <seg>Execution de un commando externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T165508Z" creationid="will" creationdate="20230324T165508Z">
+        <seg>Execution de la commandos de post-traduction...</seg>
       </tuv>
     </tu>
     <tu>
