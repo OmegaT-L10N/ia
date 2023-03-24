@@ -26637,8 +26637,8 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>If --stats-type is not specified, the format is
 	    detected from the file extension.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T062125Z" creationid="will" creationdate="20230317T062125Z">
-        <seg>Si --stats-type non es specificate, le formato es detegite de le extension del file.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T173850Z" creationid="will" creationdate="20230317T062125Z">
+        <seg>Si --stats-type non es specificate, le formato es detegite del extension del file.</seg>
       </tuv>
     </tu>
     <tu>
