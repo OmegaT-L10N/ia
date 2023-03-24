@@ -21833,6 +21833,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T170537Z" creationid="will" creationdate="20230324T170537Z">
+        <seg>Error de controla del commandos de post-elaboration!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T095626Z">
@@ -42182,6 +42190,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T170106Z" creationid="will" creationdate="20230324T170106Z">
         <seg>Commandos de post-elaboration fallite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T170512Z" creationid="will" creationdate="20230324T170512Z">
+        <seg>Commandos de post-elaboration esseva interrumpite.</seg>
       </tuv>
     </tu>
     <tu>
