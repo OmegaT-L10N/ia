@@ -34205,6 +34205,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T172440Z" creationid="will" creationdate="20230324T172440Z">
+        <seg>Recercas externe local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T170838Z" creationid="will" creationdate="20230324T170838Z">
@@ -43682,8 +43690,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Re&amp;pository Mapping...</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T172406Z" creationid="will" creationdate="20230324T172406Z">
-        <seg>Ma&amp;ppa de repositorio...</seg>
+      <tuv lang="ia" changeid="will" changedate="20230324T172534Z" creationid="will" creationdate="20230324T172406Z">
+        <seg>Ma&amp;ppa del repositorio...</seg>
       </tuv>
     </tu>
     <tu>
