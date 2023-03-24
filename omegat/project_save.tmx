@@ -34117,10 +34117,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T170838Z" creationid="will" creationdate="20230324T170838Z">
+        <seg>Filtros e files local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T171617Z" creationid="ia" creationdate="20170909T171617Z">
         <seg>File/Plica local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T170911Z" creationid="will" creationdate="20230324T170911Z">
+        <seg>Regulas local de segmentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -62454,6 +62470,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T133727Z">
         <seg>Usa lo si OmegaT non synchronisa le contentos del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230324T170928Z" creationid="will" creationdate="20230324T170928Z">
+        <seg>Usa le regulas de segmentation local</seg>
       </tuv>
     </tu>
     <tu>
