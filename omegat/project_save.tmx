@@ -21685,6 +21685,16 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230328T092545Z" creationid="will" creationdate="20230328T092545Z">
+        <seg>Inserer un codice de lingua de le formato sequente xx-YY, xxx-YY, xx_YY or xxx_YY, ubi 
+xx o xxx es le codice del lingua e YY es le codice del region o del pais (facultative).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T074220Z">
@@ -22374,8 +22384,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Exclude pattern</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230328T091758Z" creationid="will" creationdate="20230328T091758Z">
-        <seg>Excluder Pattern</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T091945Z" creationid="will" creationdate="20230328T091758Z">
+        <seg>Excluder pattern</seg>
       </tuv>
     </tu>
     <tu>
@@ -30796,6 +30806,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T083552Z" creationid="Melo46" creationdate="20200726T083552Z">
         <seg>Include concordantias con le altere (&amp;other) linguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230328T091959Z" creationid="will" creationdate="20230328T091959Z">
+        <seg>Includer pattern</seg>
       </tuv>
     </tu>
     <tu>
