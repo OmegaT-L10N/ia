@@ -22372,6 +22372,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230328T091758Z" creationid="will" creationdate="20230328T091758Z">
+        <seg>Excluder Pattern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T221824Z" creationid="Melo46" creationdate="20160729T221824Z">
