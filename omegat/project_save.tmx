@@ -14918,16 +14918,16 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171125T200611Z">
-        <seg>Impossibile acceder al plica del glossario!</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090848Z">
+        <seg>Impossibile de acceder al plica del glossario!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171125T200744Z">
-        <seg>Impossibile crear le plica pro le files rendite:</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090854Z">
+        <seg>Impossibile de crear le plica pro le files rendite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17791,8 +17791,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="ia" changeid="karm46" changedate="20180604T222921Z" creationid="karm46" creationdate="20180604T222921Z">
-        <seg>Impossibile crear directorio del projecto a {0}</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090837Z" creationid="karm46" creationdate="20180604T222921Z">
+        <seg>Impossibile de crear directorio del projecto a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22718,16 +22718,16 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo" changedate="20151125T232219Z" creationid="Melo" creationdate="20151125T232219Z">
-        <seg>Fallite a salveguardar le file de preferentias.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090908Z" creationid="Melo" creationdate="20151125T232219Z">
+        <seg>Falleva de salveguardar le file de preferentias.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230328T090707Z" creationid="Karm46" creationdate="20171113T190242Z">
-        <seg>falleva de committer le files fonte!</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090800Z" creationid="Karm46" creationdate="20171113T190242Z">
+        <seg>Falleva de committer le files fonte!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22758,8 +22758,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T165422Z">
-        <seg>Impossibile de crear le projecto!</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090823Z">
+        <seg>Falleva de crear le projecto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22782,8 +22782,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
-      <tuv lang="ia" changeid="karm46" changedate="20180927T171627Z" creationid="karm46" creationdate="20180927T171627Z">
-        <seg>Falta a reportar informationes del ultime version: {0}</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090935Z" creationid="karm46" creationdate="20180927T171627Z">
+        <seg>Falleva de reportar informationes del ultime version: {0}</seg>
       </tuv>
     </tu>
     <tu>
