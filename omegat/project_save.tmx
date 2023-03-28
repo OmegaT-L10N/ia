@@ -31624,6 +31624,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230328T092616Z" creationid="will" creationdate="20230328T092607Z">
+        <seg>Le lingua del files traducite non es valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invantive</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130520T133437Z">
@@ -55511,6 +55519,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T072429Z" creationid="will" creationdate="20230302T072429Z">
         <seg>Le nomine del file fonte es un del elementos que characterisa un traduction alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230328T092645Z" creationid="will" creationdate="20230328T092614Z">
+        <seg>Le plica del files fonte non existe!</seg>
       </tuv>
     </tu>
     <tu>
