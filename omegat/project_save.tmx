@@ -16758,8 +16758,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="ia" changeid="ia" changedate="20170909T170943Z" creationid="ia" creationdate="20170909T170943Z">
-        <seg>Committente la files fonte</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090736Z" creationid="ia" creationdate="20170909T170943Z">
+        <seg>&gt;&gt;&gt; Committente la files fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -22726,16 +22726,16 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171113T190242Z" creationid="Karm46" creationdate="20171113T190242Z">
-        <seg>Falta a committer le files fonte!</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090707Z" creationid="Karm46" creationdate="20171113T190242Z">
+        <seg>falleva de committer le files fonte!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171113T190310Z" creationid="Karm46" creationdate="20171113T190310Z">
-        <seg>Falta a committer le files de destination!</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T090718Z" creationid="Karm46" creationdate="20171113T190310Z">
+        <seg>Falleva de committer le files de destination!</seg>
       </tuv>
     </tu>
     <tu>
