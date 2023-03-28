@@ -34975,8 +34975,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mapping of local folders to remote folders in repositories</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T173613Z" creationid="will" creationdate="20230324T173613Z">
-        <seg>*** Mapping of local folders to remote folders in repositories</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T091742Z" creationid="will" creationdate="20230324T173613Z">
+        <seg>Mappatura del plicas local al plicas remote in le repositorios</seg>
       </tuv>
     </tu>
     <tu>
@@ -44276,6 +44276,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233615Z" creationid="Melo46" creationdate="20160728T233615Z">
         <seg>Repositorios remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230328T091750Z" creationid="will" creationdate="20230328T091750Z">
+        <seg>File/Plica remote</seg>
       </tuv>
     </tu>
     <tu>
@@ -62764,8 +62772,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use local &amp;segmentation rules</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T170928Z" creationid="will" creationdate="20230324T170928Z">
-        <seg>Usa le regulas de segmentation local</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T091644Z" creationid="will" creationdate="20230324T170928Z">
+        <seg>Usar le regulas de segmentation local</seg>
       </tuv>
     </tu>
     <tu>
@@ -67435,8 +67443,8 @@ crear su plica de configuration.</seg>
       <tuv lang="en">
         <seg>ZIP files</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20160728T233328Z" creationid="Melo46" creationdate="20160728T233328Z">
-        <seg>files ZIP</seg>
+      <tuv lang="ia" changeid="will" changedate="20230328T091715Z" creationid="Melo46" creationdate="20160728T233328Z">
+        <seg>Files ZIP</seg>
       </tuv>
     </tu>
     <tu>
