@@ -25957,6 +25957,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230331T095038Z" creationid="will" creationdate="20230331T095038Z">
+        <seg>Optiones de Celar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T095529Z">
@@ -38762,6 +38770,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230331T095000Z" creationid="will" creationdate="20230331T095000Z">
+        <seg>OmegaT non ha permissiones de leger e scriber pro iste plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180604T223703Z" creationid="karm46" creationdate="20180604T223703Z">
@@ -47328,6 +47344,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230331T094943Z" creationid="will" creationdate="20230331T094943Z">
+        <seg>Seliger un altere plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T093856Z" creationid="Melo46" creationdate="20200726T093856Z">
@@ -50234,6 +50258,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T095518Z" creationid="Karm46" creationdate="20170914T095518Z">
         <seg>Optiones de concordantia del traduction automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230331T095028Z" creationid="will" creationdate="20230331T095028Z">
+        <seg>TM Optiones de Cercar</seg>
       </tuv>
     </tu>
     <tu>
