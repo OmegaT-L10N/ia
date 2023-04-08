@@ -1088,8 +1088,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170911T224732Z">
-        <seg>Cercar &amp;Exacte</seg>
+      <tuv lang="ia" changeid="will" changedate="20230408T175702Z">
+        <seg>Recercar &amp;Exacte</seg>
       </tuv>
     </tu>
     <tu>
@@ -43924,8 +43924,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T082341Z">
-        <seg>Cerca recursi&amp;ve</seg>
+      <tuv lang="ia" changeid="will" changedate="20230408T175633Z">
+        <seg>Recerca recursi&amp;ve</seg>
       </tuv>
     </tu>
     <tu>
@@ -46056,9 +46056,9 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
         <seg>Scope:
 Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230408T174713Z" creationid="will" creationdate="20230408T174253Z">
+      <tuv lang="ia" changeid="will" changedate="20230408T175621Z" creationid="will" creationdate="20230408T174253Z">
         <seg>Campo:
-Cercas applicate de ordinario al projecto e coperi su texto fonte e textos de destination, memorias de referentia, glossarios, notas e commentos.</seg>
+Recercas applicate de ordinario al projecto e coperi su texto fonte e textos de destination, memorias de referentia, glossarios, notas e commentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46347,16 +46347,16 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Search for:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20170911T224511Z">
-        <seg>Cercar pro:</seg>
+      <tuv lang="ia" changeid="will" changedate="20230408T175708Z">
+        <seg>Recercar pro:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130512T090711Z">
-        <seg>Cerca in</seg>
+      <tuv lang="ia" changeid="will" changedate="20230408T175644Z">
+        <seg>Recerca in</seg>
       </tuv>
     </tu>
     <tu>
@@ -46435,8 +46435,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230408T175039Z" creationid="will" creationdate="20230408T175039Z">
-        <seg>Cercas anque pote esser exequite sur un hierarchia de plica specificate.</seg>
+      <tuv lang="ia" changeid="will" changedate="20230408T175613Z" creationid="will" creationdate="20230408T175039Z">
+        <seg>Recercas anque pote esser exequite sur un hierarchia de plica specificate.</seg>
       </tuv>
     </tu>
     <tu>
