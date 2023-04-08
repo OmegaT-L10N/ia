@@ -33091,6 +33091,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230408T175559Z" creationid="will" creationdate="20230408T175559Z">
+        <seg>In le recercas per parola clave, tote le parolas clave separate per spatio concorda, independente de alicun ordine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T231045Z" creationid="Melo" creationdate="20151125T230859Z">
@@ -46421,6 +46429,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T174950Z">
         <seg>Recercas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230408T175039Z" creationid="will" creationdate="20230408T175039Z">
+        <seg>Cercas anque pote esser exequite sur un hierarchia de plica specificate.</seg>
       </tuv>
     </tu>
     <tu>
