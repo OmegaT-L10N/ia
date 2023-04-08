@@ -34783,6 +34783,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230408T173948Z" creationid="will" creationdate="20230408T173948Z">
+        <seg>Le memori principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T091057Z">
@@ -43954,6 +43962,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230408T174001Z" creationid="will" creationdate="20230408T174001Z">
+        <seg>Le memoria de referentia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference glossaries</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T182921Z" creationid="will" creationdate="20230315T182921Z">
@@ -46025,6 +46041,15 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T091821Z" creationid="Melo46" creationdate="20160805T091821Z">
         <seg>Schematron (*.sch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230408T174253Z" creationid="will" creationdate="20230408T174253Z">
+        <seg>Camlo</seg>
       </tuv>
     </tu>
     <tu>
