@@ -22726,6 +22726,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facebook</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facebook group</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T042223Z" creationid="Melo46" creationdate="20200728T042223Z">
@@ -24801,6 +24809,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="ia" changeid="will" changedate="20230408T173930Z" creationid="will" creationdate="20230408T173930Z">
+        <seg>Ignorar le differentia inter plen e medie-largessa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T140314Z">
@@ -26521,6 +26537,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082417Z">
         <seg>Incontrate un IOException:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IRC</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>IRC</seg>
       </tuv>
     </tu>
     <tu>
@@ -34087,6 +34111,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LinkedIn</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>LinkedIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Links (&amp;URL)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083138Z">
@@ -35327,6 +35359,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mastodon</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Mastodon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T095016Z">
@@ -35475,6 +35515,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T082324Z">
         <seg>Preparation del Quadro del concordantias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matrix</seg>
+      </tuv>
+      <tuv lang="ia">
+        <seg>Matrice</seg>
       </tuv>
     </tu>
     <tu>
