@@ -1598,6 +1598,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T092633Z" creationid="Melo46" creationdate="20250219T092633Z">
+        <seg>&amp;Refacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T095223Z">
@@ -1722,6 +1730,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T090335Z">
         <seg>&amp;Restaurar le Fenestra Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093130Z" creationid="Melo46" creationdate="20250219T093130Z">
+        <seg>&amp;Restaurar fenestra de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2026,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230321T090350Z" creationid="will" creationdate="20230321T090058Z">
         <seg>Majuscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T092557Z" creationid="Melo46" creationdate="20250219T092557Z">
+        <seg>Ann&amp;Ullar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3551,9 +3575,9 @@ configurationes del projecto).</seg>
         <seg>--script=&lt;path&gt;
 	  A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T062526Z" creationid="will" creationdate="20230317T062526Z">
-        <seg>--script=&lt;path&gt;
-	  Un file de scripto a esser executate pro eventos de projecto.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T092503Z" creationid="Melo46" creationdate="20250219T092503Z">
+        <seg>--script=&lt;route de accesso&gt;
+	  Un file script a esser exequite sur eventos del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22870,10 +22894,34 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093403Z" creationid="Melo46" creationdate="20250219T093403Z">
+        <seg>Impossibile cargar le projecto perque un problema de accesso al file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093248Z" creationid="Melo46" creationdate="20250219T093248Z">
+        <seg>Impossibile cargar le projecto specificate!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141026T103658Z">
         <seg>Mancate cargamento del memoria de traduction {0} pro le projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093147Z" creationid="Melo46" creationdate="20250219T093147Z">
+        <seg>Impossibile cargar memoria de traduction {0} pro le projecto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31102,6 +31150,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093005Z" creationid="Melo46" creationdate="20250219T093005Z">
+        <seg>Inserer le &amp;Tags mancante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224142Z">
@@ -35011,6 +35067,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T105057Z">
         <seg>Assecura te que le campo &lt;e1&gt;Checkout directory&lt;/e1&gt; es correcte, id es illo specifica le plica vacue que tu ha create, e pulsa &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093450Z" creationid="Melo46" creationdate="20250219T093450Z">
+        <seg>Verifica que tu ha le permissos correcte o que tu pote acceder al files si illos es immagazinate in le nube.</seg>
       </tuv>
     </tu>
     <tu>
