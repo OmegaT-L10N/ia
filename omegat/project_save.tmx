@@ -1558,6 +1558,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T144154Z" creationid="Melo46" creationdate="20250219T144154Z">
+        <seg>&amp;Preservar spatio blanc pro tote le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081017Z">
@@ -3348,6 +3356,16 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T143456Z" creationid="Melo46" creationdate="20250219T143456Z">
+        <seg>--modo=[nomine de modo de consola] &lt;route de projecto&gt; &lt;optiones de modo&gt;
+	  Specifica un modo ultra al interfacie graphic predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -3378,6 +3396,18 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T143547Z" creationid="Melo46" creationdate="20250219T143547Z">
+        <seg>--modo=console-align
+	  --alignDir=&lt;route&gt;
+	    Le plica que contine le files traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T225511Z">
@@ -3394,6 +3424,20 @@ configurationes del projecto).</seg>
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    Le emitte pseudo-traducite file de TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T143834Z" creationid="Melo46" creationdate="20250219T143834Z">
+        <seg>--modo=console-stats
+	  --output-file=[stats-output-file]
+	    Imprime al file specificate, o a exito standard
+	    si nulle file es date o le option non es usate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10626,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083241Z">
         <seg>A&amp;ggregar le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T144133Z" creationid="Melo46" creationdate="20250219T144133Z">
+        <seg>Tags a&amp;ggregate</seg>
       </tuv>
     </tu>
     <tu>
@@ -22796,6 +22848,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T133739Z" creationid="Karm46" creationdate="20171115T133739Z">
         <seg>Documentation externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T144057Z" creationid="Melo46" creationdate="20250219T144057Z">
+        <seg>Ligamines(&amp;k) externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -41529,6 +41589,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T144107Z" creationid="Melo46" creationdate="20250219T144107Z">
+        <seg>Altere optiones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T191812Z" creationid="MELO46" creationdate="20140106T060131Z">
@@ -48884,6 +48952,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T144022Z" creationid="Melo46" creationdate="20250219T144022Z">
+        <seg>&amp;Maestros del diapositivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083227Z">
@@ -49910,6 +49986,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151016T150751Z" creationid="Melo46" creationdate="20151016T150751Z">
         <seg>Initiar un n&amp;ove paragrapho RE Word Soft Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T160611Z" creationid="Melo46" creationdate="20250219T160611Z">
+        <seg>Initiar un nove paragraph&amp;o con retornar</seg>
       </tuv>
     </tu>
     <tu>
