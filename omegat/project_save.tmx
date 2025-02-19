@@ -2142,6 +2142,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T123333Z" creationid="Melo46" creationdate="20250219T123333Z">
+        <seg>'*' corresponde a zero o plus characteres ('run*' corresponde a 'run', 'runs', 'running', etc.)
+'?'  corresponde a exactemente un character ('run?' corresponde a 'runs' e 'rung', ma non a 'run' o a 'running').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -65314,6 +65324,16 @@ technological measures.</seg>
     <tu>
       <tuv lang="en">
         <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T113715Z" creationid="Melo46" creationdate="20250219T112450Z">
+        <seg>Characteres generic:
+Ambe le recercas exacte e per parola clave supporta le characteres generic '*' e '?'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T231538Z" creationid="Melo" creationdate="20151125T231538Z">
@@ -76083,8 +76103,8 @@ crear su plica de configuration.</seg>
       <tuv lang="en">
         <seg>wildcards.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250219T102326Z" creationid="Melo46" creationdate="20250219T102326Z">
-        <seg>.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T113728Z" creationid="Melo46" creationdate="20250219T113728Z">
+        <seg>characteres generic.</seg>
       </tuv>
     </tu>
     <tu>
