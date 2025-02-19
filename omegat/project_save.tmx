@@ -1862,6 +1862,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133120Z" creationid="Melo46" creationdate="20250219T133120Z">
+        <seg>Nomines de folio&amp;S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T211907Z" creationid="Karm46" creationdate="20170929T211907Z">
@@ -16642,6 +16650,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132514Z" creationid="Melo46" creationdate="20250219T132514Z">
+        <seg>Le columna indice debe esser equal a 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T072605Z">
@@ -20390,6 +20406,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133021Z" creationid="Melo46" creationdate="20250219T133021Z">
+        <seg>Le files DocBook debe haber un correcte declaration de DOCTYPE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T080115Z">
@@ -20874,6 +20898,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T213523Z" creationid="Melo" creationdate="20141027T213523Z">
         <seg>Texto Fallbac&amp;k Duplicate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133557Z" creationid="Melo46" creationdate="20250219T133557Z">
+        <seg>Texto de compatibilitate duplicate(&amp;k)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22005,6 +22037,22 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132504Z" creationid="Melo46" creationdate="20250219T132504Z">
+        <seg>Error cargante : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132320Z" creationid="Melo46" creationdate="20250219T132320Z">
+        <seg>Error cargante le plugin ab le classe '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081650Z">
@@ -22031,8 +22079,8 @@ Nemo audi tu critos</seg>
       <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T082541Z">
-        <seg>Error in lectura de TMX nivello2 re linea {0} colonna {1}</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132204Z">
+        <seg>Error in lectura de TMX nivello2 al linea {0} colonna {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22097,6 +22145,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082706Z">
         <seg>Error a discargar le plugin ex le classe '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132454Z" creationid="Melo46" creationdate="20250219T132454Z">
+        <seg>Error discargante le plugin ab le classe '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35891,10 +35947,26 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133200Z" creationid="Melo46" creationdate="20250219T133200Z">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T192149Z">
         <seg>- formato Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133257Z" creationid="Melo46" creationdate="20250219T133257Z">
+        <seg>Microsoft Officio Aperi XML (filtro obsolete)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37429,6 +37501,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T201811Z">
         <seg>Le formattation non-visibile (id es, que non appare como tags in le editor de OmegaT) is retenite in le documentos final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133437Z" creationid="Melo46" creationdate="20250219T133437Z">
+        <seg>Te&amp;xto de instructiones non visibile</seg>
       </tuv>
     </tu>
     <tu>
@@ -42678,6 +42758,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133604Z" creationid="Melo46" creationdate="20250219T133604Z">
+        <seg>PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T154200Z" creationid="Karm46" creationdate="20171128T154200Z">
@@ -45797,6 +45885,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T133839Z" creationid="Melo46" creationdate="20250219T133839Z">
+        <seg>commentos del diapositiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160226T122514Z" creationid="Melo46" creationdate="20151014T041210Z">
@@ -48804,6 +48900,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T134226Z" creationid="Melo46" creationdate="20250219T134226Z">
+        <seg>Arrangiamentos in paginas del diapositivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slovak</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100343Z">
@@ -49284,6 +49388,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140701T124438Z" creationid="MELO46" creationdate="20140701T124410Z">
         <seg>Conto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132617Z" creationid="Melo46" creationdate="20250219T132617Z">
+        <seg>Codification del file fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -61506,6 +61618,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132719Z" creationid="Melo46" creationdate="20250219T132719Z">
+        <seg>Codification del file traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -61520,6 +61640,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T193322Z" creationid="Melo46" creationdate="20200726T193322Z">
         <seg>Nomine de file traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132842Z" creationid="Melo46" creationdate="20250219T132842Z">
+        <seg>Modello de nomine de file traducite</seg>
       </tuv>
     </tu>
     <tu>
@@ -67867,8 +67995,8 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       <tuv lang="en">
         <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250219T131949Z" creationid="Melo46" creationdate="20250219T131949Z">
-        <seg>Tu actual projecto usa phrase segmentation, ma le file TMX ha essite create per le paragrapho segmentation.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T132145Z" creationid="Melo46" creationdate="20250219T131949Z">
+        <seg>Tu actual projecto usa le segmentation per phrases, ma le file TMX ha essite create per le segmentation per paragraphos.</seg>
       </tuv>
     </tu>
     <tu>
