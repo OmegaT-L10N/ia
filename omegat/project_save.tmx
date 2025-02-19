@@ -686,6 +686,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221520Z" creationid="Melo46" creationdate="20250219T221520Z">
+        <seg>Permitter(&amp;A) segmentos traducite vacue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082806Z">
@@ -1162,6 +1170,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083208Z">
         <seg>Notas al pede del pagina (&amp;Footnotes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222521Z" creationid="Melo46" creationdate="20250219T222521Z">
+        <seg>&amp;Fortiar &lt;it pos="end"&gt; via-breve de tags pro "&lt;f &gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13532,6 +13548,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160814T131650Z" creationid="Melo" creationdate="20160814T131650Z">
         <seg>Autor del concordantia le ultime vice que le concordantia ha essite actualisate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221856Z" creationid="Melo46" creationdate="20250219T221856Z">
+        <seg>Reimplacia&amp;r automaticamente specificationes de plural</seg>
       </tuv>
     </tu>
     <tu>
@@ -29710,6 +29734,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221724Z" creationid="Melo46" creationdate="20250219T221724Z">
+        <seg>Ignorar titulo del &amp;PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084259Z">
@@ -32977,6 +33009,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222603Z" creationid="Melo46" creationdate="20250219T222603Z">
+        <seg>Productos de ressource Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T075613Z" creationid="MELO46" creationdate="20140615T075613Z">
@@ -33237,6 +33277,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T232020Z" creationid="Melo46" creationdate="20160729T232020Z">
         <seg>Mantener le altere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222809Z" creationid="Melo46" creationdate="20250219T222809Z">
+        <seg>Mantener litterales Unico&amp;de (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36151,6 +36199,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222105Z" creationid="Melo46" creationdate="20250219T222105Z">
+        <seg>Attributo mancante '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing tags</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085658Z">
@@ -36323,6 +36379,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100301Z">
         <seg>Mongolico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221911Z" creationid="Melo46" creationdate="20250219T221911Z">
+        <seg>Monolin&amp;gual</seg>
       </tuv>
     </tu>
     <tu>
@@ -45993,6 +46057,22 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222113Z" creationid="Melo46" creationdate="20250219T222113Z">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222138Z" creationid="Melo46" creationdate="20250219T222138Z">
+        <seg>Projecto sdl (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
@@ -46007,6 +46087,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T234858Z" creationid="Melo46" creationdate="20160728T234858Z">
         <seg>SQLJet (Licentia GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223242Z" creationid="Melo46" creationdate="20250219T223242Z">
+        <seg>SVG / Exportar Adobe Illustrator</seg>
       </tuv>
     </tu>
     <tu>
@@ -49948,6 +50036,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221902Z" creationid="Melo46" creationdate="20250219T221902Z">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T082227Z">
@@ -50998,6 +51094,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222235Z" creationid="Melo46" creationdate="20250219T222235Z">
+        <seg>compatibilitate de gestion de tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082421Z">
@@ -51034,6 +51138,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T054150Z" creationid="will" creationdate="20230315T054150Z">
         <seg>Tag vias breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222340Z" creationid="Melo46" creationdate="20250219T222340Z">
+        <seg>Placa vias breve (non vale pro files compatibile con OmegaT 2.6):</seg>
       </tuv>
     </tu>
     <tu>
@@ -52392,6 +52504,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222940Z" creationid="Melo46" creationdate="20250219T222940Z">
+        <seg>Le filtro de productos de ressources Java incontrava un error:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T143830Z" creationid="MELO46" creationdate="20140615T143830Z">
@@ -52504,6 +52624,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223040Z" creationid="Melo46" creationdate="20250219T223040Z">
+        <seg>Le filtro Moodle PHP incontrava un error:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T083045Z" creationid="Melo46" creationdate="20200726T083045Z">
@@ -52520,10 +52648,26 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223109Z" creationid="Melo46" creationdate="20250219T223109Z">
+        <seg>Le filtro DTD Mozilla incontrava un error:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T075313Z" creationid="MELO46" creationdate="20140615T075313Z">
         <seg>Le filtro Mozilla DTD generava un exception:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223143Z" creationid="Melo46" creationdate="20250219T223143Z">
+        <seg>Le filtro FTL Mozilla incontrava un error:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52628,6 +52772,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T083203Z" creationid="Melo46" creationdate="20210220T083203Z">
         <seg>Le filtro PO jam tracta %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221936Z" creationid="Melo46" creationdate="20250219T221936Z">
+        <seg>Le filtro PO incontrava un error:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61566,6 +61718,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221703Z" creationid="Melo46" creationdate="20250219T221703Z">
+        <seg>Traducer segmentos fonte vacue(&amp;b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T102102Z" creationid="Melo46" creationdate="20200728T102102Z">
@@ -63146,6 +63306,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230317T080738Z" creationid="will" creationdate="20230317T080738Z">
         <seg>Usa "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" per linea de commando o in le script de initiar de OmegaT; le configuration actual es (0)MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T222537Z" creationid="Melo46" creationdate="20250219T222537Z">
+        <seg>Usar "needs-review-translation" in vice que "traducite"</seg>
       </tuv>
     </tu>
     <tu>
@@ -66049,6 +66217,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223343Z" creationid="Melo46" creationdate="20250219T223343Z">
+        <seg>Exportar XLM Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Words</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081654Z">
@@ -66325,6 +66501,22 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230306T091237Z" creationid="will" creationdate="20230306T091237Z">
         <seg>XLIFF (filtro legate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 1</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221942Z" creationid="Melo46" creationdate="20250219T221942Z">
+        <seg>XLIFF 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T221958Z" creationid="Melo46" creationdate="20250219T221958Z">
+        <seg>XLIFF 2</seg>
       </tuv>
     </tu>
     <tu>
