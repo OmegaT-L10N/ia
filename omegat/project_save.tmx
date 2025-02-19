@@ -41741,6 +41741,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T161437Z" creationid="Melo46" creationdate="20250219T161437Z">
+        <seg>Texto del PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T185937Z" creationid="Melo46" creationdate="20160728T185937Z">
@@ -49992,8 +50000,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Start a new paragraph &amp;on Word soft return</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250219T160611Z" creationid="Melo46" creationdate="20250219T160611Z">
-        <seg>Initiar un nove paragraph&amp;o con retornar</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T161409Z" creationid="Melo46" creationdate="20250219T160611Z">
+        <seg>Initiar un nove paragraph&amp;o con retorno a initio rango automatic</seg>
       </tuv>
     </tu>
     <tu>
