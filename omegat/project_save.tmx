@@ -16074,6 +16074,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T230048Z" creationid="Melo46" creationdate="20250219T230048Z">
+        <seg>Controla si tu repositorio ha invios e files correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T205157Z" creationid="MELO46" creationdate="20140629T205157Z">
@@ -17500,6 +17508,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T141316Z">
         <seg>Reciprocamente, ubi le productos es decisemente non directemente compatibile, il es sovente possibile trovar proceduras pro le facer  laborar conjunctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225456Z" creationid="Melo46" creationdate="20250219T225456Z">
+        <seg>Conversion al nove projecto de equipa formato non pote esser exequeva in consola modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20714,6 +20730,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T230134Z" creationid="Melo46" creationdate="20250219T230134Z">
+        <seg>Controla duo vices illo e retenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T082306Z" creationid="Melo46" creationdate="20200730T082306Z">
@@ -22009,6 +22033,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081424Z">
         <seg>Inscribe le numero del segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225637Z" creationid="Melo46" creationdate="20250219T225637Z">
+        <seg>Inserer le nomine de usator/contrasigno pro {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -25403,6 +25435,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085308Z">
         <seg>Initio del execution de Git '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225408Z" creationid="Melo46" creationdate="20250219T225408Z">
+        <seg>Aviso de Git: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39332,6 +39372,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225419Z" creationid="Melo46" creationdate="20250219T225419Z">
+        <seg>OmegaT non ha accesso al repositorio remote: verifica tu connexion o tu credentiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T155411Z">
@@ -41093,6 +41141,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T040120Z">
         <seg>Aperi un fenestra pro linea de commando (consola, fenestra DOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225540Z" creationid="Melo46" creationdate="20250219T225540Z">
+        <seg>Aperi lo in le interfacie graphic de OmegaT pro converter lo al nove formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43776,6 +43832,22 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T120515Z" creationid="karm46" creationdate="20180424T120515Z">
         <seg>Le projecto non contine ulle files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T230020Z" creationid="Melo46" creationdate="20250219T230020Z">
+        <seg>Conversion del projecto fallite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225917Z" creationid="Melo46" creationdate="20250219T225917Z">
+        <seg>Projecto convertite con successo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50910,6 +50982,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T230146Z" creationid="Melo46" creationdate="20250219T230146Z">
+        <seg>Synchronisation de repositorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>System requirements</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T104906Z">
@@ -55769,6 +55849,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225426Z" creationid="Melo46" creationdate="20250219T225426Z">
+        <seg>Le projecto es in modo sin connexion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T203606Z" creationid="Melo" creationdate="20151125T203606Z">
@@ -56509,6 +56597,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T210927Z" creationid="Karm46" creationdate="20170929T210927Z">
         <seg>Le files specificate non es gerite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225443Z" creationid="Melo46" creationdate="20250219T225443Z">
+        <seg>Le projecto specificate es un projecto de equipa OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68133,6 +68229,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T231253Z">
         <seg>Tu pote trovar que le typo de character incorporate in the PDF non contine tote le characteres que tu necessita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225839Z" creationid="Melo46" creationdate="20250219T225839Z">
+        <seg>Tu pote haber oblidate un invio initial</seg>
       </tuv>
     </tu>
     <tu>
