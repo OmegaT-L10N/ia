@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3082,6 +3082,22 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130606T062632Z">
         <seg>- marcar sol le texto usque al initio del parte formattate, copiar iste texto e collar lo retro, super se ipse, pois iterar le processo sur le texto post le parte formattate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T060437Z" creationid="Melo46" creationdate="20250219T060437Z">
+        <seg>- verificar que lor formato es supportate per OmegaT:
+	  si le parametros de filtro local es activate
+	  usa Projecto &gt; Proprietates... &gt; File local Filtros...,
+	  alteremente usa Optiones &gt; Global Filtros de file...;
+	- aperi illes in lor original application e verificar que illos es non vacue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10632,6 +10648,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T060229Z" creationid="Melo46" creationdate="20250219T060229Z">
+        <seg>Abortar: exir con un error si le tags non es valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160225T134850Z" creationid="Melo" creationdate="20160225T134850Z">
@@ -10906,6 +10930,22 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T235507Z" creationid="Melo46" creationdate="20160728T235507Z">
         <seg>Adder un entrata al glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T060451Z" creationid="Melo46" creationdate="20250219T060451Z">
+        <seg>Adder MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T060513Z" creationid="Melo46" creationdate="20250219T060513Z">
+        <seg>Adder pagina MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -22776,8 +22816,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Failed to copy files</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230328T090244Z" creationid="will" creationdate="20230317T180222Z">
-        <seg>Falleva de copiar files</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T060723Z" creationid="Melo46" creationdate="20250219T060723Z">
+        <seg>Impossibile copiar files</seg>
       </tuv>
     </tu>
     <tu>
@@ -22802,6 +22842,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230317T180213Z" creationid="will" creationdate="20230317T180213Z">
         <seg>Mediawiki page falleva de discargar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T060531Z" creationid="Melo46" creationdate="20250219T060531Z">
+        <seg>Impossibile discargar pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -50200,6 +50248,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140416T211829Z" creationid="MELO46" creationdate="20140416T211829Z">
         <seg>Cambia Character a Majuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/Title Case</seg>
+      </tuv>
+      <tuv lang="ia" changeid="MELO" changedate="20130628T053728Z">
+        <seg>Cambia prime Character a Majuscule</seg>
       </tuv>
     </tu>
     <tu>
