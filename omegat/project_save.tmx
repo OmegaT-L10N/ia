@@ -22894,6 +22894,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093909Z" creationid="Melo46" creationdate="20250219T093909Z">
+        <seg>Impossibile cargar le projecto perque le plica 'source' specificate contine un ligamine symbolic o real que puncta retro a se mesme o a un de su subplicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T093403Z" creationid="Melo46" creationdate="20250219T093403Z">
@@ -34995,6 +35003,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220107T124450Z" creationid="will" creationdate="20220107T124450Z">
         <seg>Face copias regular del file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; in un media de reserva, assi como CD o DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T093940Z" creationid="Melo46" creationdate="20250219T093940Z">
+        <seg>Verifica que tote le ligamines es foras del plica e subplicas fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62070,6 +62086,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233357Z" creationid="Melo46" creationdate="20160728T233357Z">
         <seg>Incapace a converter le projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T094202Z" creationid="Melo46" creationdate="20250219T094202Z">
+        <seg>Impossibile crear le copia de reserva de {0}</seg>
       </tuv>
     </tu>
     <tu>
