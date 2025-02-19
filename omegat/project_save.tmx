@@ -3417,9 +3417,9 @@ configurationes del projecto).</seg>
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T165130Z" creationid="will" creationdate="20230316T165130Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T091356Z" creationid="will" creationdate="20230316T165130Z">
         <seg>--no-team
-	  Disactivar le functionalitate de projecto de equipa.</seg>
+	  Disactiva le functionalitate de projecto de equipa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3506,9 +3506,9 @@ configurationes del projecto).</seg>
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T165110Z" creationid="will" creationdate="20230316T165110Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T084411Z" creationid="will" creationdate="20230316T165110Z">
         <seg>--remote-project
-	  Discargar un file omegat.project ex le URL date como &lt;project
+	  Discarga un file omegat.project ex le URL date como &lt;project
 	  path&gt; e cargar le projecto.</seg>
       </tuv>
     </tu>
@@ -43436,8 +43436,8 @@ projecto local sin functionalitates de equipa.</seg>
       <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T164635Z" creationid="will" creationdate="20230316T164635Z">
-        <seg>Percurso de projecto solmente: Lancea GUI e carga le projecto specificate.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T084324Z" creationid="will" creationdate="20230316T164635Z">
+        <seg>Route de projecto solo: lancea GUI e carga le projecto specificate.</seg>
       </tuv>
     </tu>
     <tu>
