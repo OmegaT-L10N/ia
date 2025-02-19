@@ -2414,6 +2414,14 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225326Z" creationid="Melo46" creationdate="20250219T225326Z">
+        <seg>(Lassar le Contrasigno vacue si tu usa un Clave API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T142647Z">
@@ -10686,6 +10694,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225201Z" creationid="Melo46" creationdate="20250219T225201Z">
+        <seg>Clave API (optional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225207Z" creationid="Melo46" creationdate="20250219T225207Z">
+        <seg>Clave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151115T002048Z" creationid="Melo" creationdate="20151115T002048Z">
@@ -13036,6 +13060,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224115Z" creationid="Melo46" creationdate="20250219T224115Z">
+        <seg>Desira tu vermente remover le {0} regulas de segmentation predefinite?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072912Z">
@@ -13520,6 +13552,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224337Z" creationid="Melo46" creationdate="20250219T224337Z">
+        <seg>Credentiales de proxy authenticate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T123145Z">
@@ -13780,6 +13820,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="ia">
         <seg>Linguas disponibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225148Z" creationid="Melo46" creationdate="20250219T225148Z">
+        <seg>Linguas disponibile:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14280,6 +14328,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230305T112718Z" creationid="will" creationdate="20230305T081805Z">
         <seg>Vacue segmentos fonte se comporta a vices como spatios reservate pro partes que non existe in le lingua fonte, sed es necessari in le lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224455Z" creationid="Melo46" creationdate="20250219T224455Z">
+        <seg>Blocar le creation de files traducite con (&amp;i)problemas de tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -17875,6 +17931,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223359Z" creationid="Melo46" creationdate="20250219T223359Z">
+        <seg>Derectos de autor © 2000-2022 Keith Godfrey, Maxym Mykhalchuk e alteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132342Z">
@@ -20414,6 +20478,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081446Z">
         <seg>Esque tu vole realmente quitar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223803Z" creationid="Melo46" creationdate="20250219T223803Z">
+        <seg>Desira tu vermente remover le modello {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23469,6 +23541,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223740Z" creationid="Melo46" creationdate="20250219T223740Z">
+        <seg>Parametros del filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter entries in editor according to search</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140416T214234Z" creationid="MELO46" creationdate="20140416T214234Z">
@@ -25943,6 +26023,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223943Z" creationid="Melo46" creationdate="20250219T223943Z">
+        <seg>file HTML troppo grande!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML user manual online</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T070002Z" creationid="Karm46" creationdate="20170909T233945Z">
@@ -27226,6 +27314,18 @@ not survive such relicensing or conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220108T070642Z" creationid="will" creationdate="20220108T070642Z">
         <seg>Si es disponibile un interfacie de usator in iste lingua, OmegaT usara lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224720Z" creationid="Melo46" creationdate="20250219T224720Z">
+        <seg>Si le accesso al position desirate es concedite plus tarde,
+que position sera usate e tote parametros sera reinitialisate a
+lor valores predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33577,6 +33677,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225008Z" creationid="Melo46" creationdate="20250219T225008Z">
+        <seg>Installator de lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083728Z">
@@ -35053,6 +35161,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224805Z" creationid="Melo46" creationdate="20250219T224805Z">
+        <seg>Traductiones automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations pane</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095052Z">
@@ -36231,6 +36347,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225246Z" creationid="Melo46" creationdate="20250219T225246Z">
+        <seg>Identificator de modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180927T171319Z" creationid="karm46" creationdate="20180927T171319Z">
@@ -37173,6 +37297,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170927T133052Z" creationid="Karm46" creationdate="20170927T133052Z">
         <seg>Nove plica de projecto local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224123Z" creationid="Melo46" creationdate="20250219T224123Z">
+        <seg>Nove lingua e pais</seg>
       </tuv>
     </tu>
     <tu>
@@ -41961,6 +42093,14 @@ Evanescente como bruma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224247Z" creationid="Melo46" creationdate="20250219T224247Z">
+        <seg>Delimitator de paragrapho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T230309Z">
@@ -43580,6 +43720,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081651Z">
         <seg>Statistica del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223937Z" creationid="Melo46" creationdate="20250219T223937Z">
+        <seg>Projecto salvate automaticamente a {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -47431,6 +47579,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T225258Z" creationid="Melo46" creationdate="20250219T225258Z">
+        <seg>Vider le manual del usator pro instructiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T202141Z" creationid="MELO46" creationdate="20140106T061105Z">
@@ -49232,6 +49388,14 @@ can do so.</seg>
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223841Z" creationid="Melo46" creationdate="20250219T223841Z">
+        <seg>Alcun filtros non permitte modificationes de codification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62674,6 +62838,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T223900Z" creationid="Melo46" creationdate="20250219T223900Z">
+        <seg>Dismarca le quadrato pro disactivar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T094302Z" creationid="Melo46" creationdate="20200726T094302Z">
@@ -64725,6 +64897,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224904Z" creationid="Melo46" creationdate="20250219T224904Z">
+        <seg>Vider, adder, remover o rediger un nota in le segmento active.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View...</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T091220Z">
@@ -65147,6 +65327,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130805T200130Z">
         <seg>Quando habilitate, tote le tags de formato es removite del segmentos fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224202Z" creationid="Melo46" creationdate="20250219T224202Z">
+        <seg>Inserente un segmento vacue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -68049,6 +68237,16 @@ provided under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224556Z" creationid="Melo46" creationdate="20250219T224556Z">
+        <seg>Tu pote dunque haber experientia de comportamento
+impreviste, ma correcte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093852Z">
@@ -68315,6 +68513,16 @@ create its configuration folder.</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224011Z">
         <seg>Tu systema operative refusava a OmegaT de
 crear su plica de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T224609Z" creationid="Melo46" creationdate="20250219T224609Z">
+        <seg>Tu systema operative refusava permitter que OmegaT
+crea le plica del configuration.</seg>
       </tuv>
     </tu>
     <tu>
