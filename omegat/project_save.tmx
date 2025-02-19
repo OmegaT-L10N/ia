@@ -51415,6 +51415,16 @@ this License.</seg>
     <tu>
       <tuv lang="en">
         <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T130923Z" creationid="Melo46" creationdate="20250219T130923Z">
+        <seg>Replaciamento de texto:
+Le replaciamento solo se applica al segmentos traducite del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T234146Z" creationid="Melo" creationdate="20151125T234146Z">
