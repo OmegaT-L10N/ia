@@ -37189,8 +37189,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T083100Z" creationid="will" creationdate="20230228T081201Z">
-        <seg>Nulle: Lancear le GUI.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T083801Z" creationid="will" creationdate="20230228T081201Z">
+        <seg>Necun option: Lancear le GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46747,8 +46747,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T164253Z" creationid="will" creationdate="20230316T164253Z">
-        <seg>Reguarda Adjuta &gt; Guida del usator pro detalios, includente le optiones de Java disponibile.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T083656Z" creationid="will" creationdate="20230316T164253Z">
+        <seg>Reguarda Adjuta &gt; Guida del usator pro detalios, i.a. le optiones de Java disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62978,6 +62978,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T202117Z" creationid="Melo46" creationdate="20200726T202117Z">
         <seg>Usar un Projecto de equipa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a team project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T083303Z" creationid="Melo46" creationdate="20250219T083303Z">
+        <seg>Usa un projecto de equipa</seg>
       </tuv>
     </tu>
     <tu>
