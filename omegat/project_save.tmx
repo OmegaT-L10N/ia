@@ -13588,6 +13588,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131037Z" creationid="Melo46" creationdate="20250219T131037Z">
+        <seg>Synchronisation automatic con editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T094310Z" creationid="MELO46" creationdate="20131224T094310Z">
@@ -13782,8 +13790,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="en">
         <seg>Back to the initial segment on close</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20151014T042235Z" creationid="Melo46" creationdate="20151014T042235Z">
-        <seg>Retroceder al segmento initial sur le clausura</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131127Z" creationid="Melo46" creationdate="20151014T042235Z">
+        <seg>Retroceder al segmento initial al clausura</seg>
       </tuv>
     </tu>
     <tu>
@@ -16556,6 +16564,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095001Z">
         <seg>Claude le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131304Z" creationid="Melo46" creationdate="20250219T131304Z">
+        <seg>Clauder le fenestra recerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22049,6 +22065,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082404Z">
         <seg>Error in cerca del arbore del directory!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131220Z" creationid="Melo46" creationdate="20250219T131220Z">
+        <seg>Error in cercar le arbore de plicas!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35673,6 +35697,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131343Z" creationid="Melo46" creationdate="20250219T131343Z">
+        <seg>segmentos concordante: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matrix</seg>
       </tuv>
       <tuv lang="ia">
@@ -48724,6 +48756,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131621Z" creationid="Melo46" creationdate="20250219T131621Z">
+        <seg>Saltate le unitates de traduction perque nulle segmento fonte ha essite trovate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T082941Z" creationid="Melo46" creationdate="20200726T082941Z">
@@ -52490,6 +52530,22 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082520Z">
         <seg>Le file TMX non essera cargate
 Per favor proba a corriger le error e recarga le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131937Z" creationid="Melo46" creationdate="20250219T131937Z">
+        <seg>Le file TMX essera ancora cargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131802Z" creationid="Melo46" creationdate="20250219T131802Z">
+        <seg>Le lingua fonte del TMX ({0}) differe del lingua fonte de projecto ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62142,6 +62198,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131530Z" creationid="Melo46" creationdate="20250219T131530Z">
+        <seg>Impossibile initialisar le lectura del file XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse IAM service response</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200725T232012Z" creationid="Melo46" creationdate="20200725T232012Z">
@@ -67801,6 +67865,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131949Z" creationid="Melo46" creationdate="20250219T131949Z">
+        <seg>Tu actual projecto usa phrase segmentation, ma le file TMX ha essite create per le paragrapho segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T211944Z">
@@ -72373,6 +72445,14 @@ crear su plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131538Z" creationid="Melo46" creationdate="20250219T131538Z">
+        <seg>cargate {0} attributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>logs/OmegaT.log</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T064241Z">
@@ -76507,6 +76587,14 @@ crear su plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160223T015308Z" creationid="Melo46" creationdate="20160223T015308Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250219T131403Z" creationid="Melo46" creationdate="20250219T131403Z">
+        <seg>{0} concordantias</seg>
       </tuv>
     </tu>
     <tu>
