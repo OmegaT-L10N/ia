@@ -2502,6 +2502,14 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Software that does this is called "machine translation".</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T081524Z" creationid="Melo46" creationdate="20250220T081524Z">
+        <seg>(Le software que face isto es appellate "traductores automatic".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T215049Z">
@@ -9824,6 +9832,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T081253Z" creationid="Melo46" creationdate="20250220T081253Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es un application pro memoria de traduction que functiona sur Windows, macOS, Linux… Il es un instrumento destinate al traductores professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T154431Z" creationid="Karm46" creationdate="20171128T154431Z">
@@ -10314,6 +10330,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T164329Z">
         <seg>Un lista de URLs de repositorios is fornite plus avante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T082351Z" creationid="Melo46" creationdate="20250220T082351Z">
+        <seg>Un explication &lt;a0&gt;plus detaliate del software gratuite&lt;/a0&gt; pote esser trovate sur le sito web de Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14072,6 +14096,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T141951Z" creationid="Karm46" creationdate="20171115T141951Z">
         <seg>In base a tu selectiones, nos te recommenda de usar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on your choices, we recommend you use:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T080840Z" creationid="Melo46" creationdate="20250220T080840Z">
+        <seg>In base a tu selectiones, nos consilia que tu usa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32778,8 +32810,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130516T100041Z">
-        <seg>Illo es le version recommendate pro le neophytos.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T080814Z">
+        <seg>Il es le version recommendate pro le neophytos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36307,6 +36339,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T082509Z" creationid="Melo46" creationdate="20250220T082437Z">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 o plus recente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T213415Z">
@@ -39364,6 +39404,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can interface to some machine translation programs or Internet services)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T081756Z" creationid="Melo46" creationdate="20250220T081756Z">
+        <seg>OmegaT pote interfaciar se a alcun programmas o servicios internet de traductiones automatic)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T150243Z">
@@ -39656,6 +39704,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T212412Z">
         <seg>OmegaT esseva installate con bon successo sur Windows (tote le versiones a partir de Windows 98 in avante), Macintosh OS X e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from Windows 8 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T081011Z" creationid="Melo46" creationdate="20250220T081011Z">
+        <seg>OmegaT ha essite installate con successo sur Windows (tote le versiones ab Windows 8 in avante), macOS e Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41429,6 +41485,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083121Z">
         <seg>Optiones filtro OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T082658Z" creationid="Melo46" creationdate="20250220T082658Z">
+        <seg>OpenDocument Format (formato de file native pro LibreOffice, Apache OpenOffice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52271,6 +52335,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T183928Z">
         <seg>Que significa: le usatores como te es libere de lo discargar e lo usar con minime restrictiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means that users like you can download and use it with no restrictions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T081913Z" creationid="Melo46" creationdate="20250220T081913Z">
+        <seg>Isto significa que le usatores como te poter discargar e usar lo sin limitationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65435,6 +65507,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Weekly Builds</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T081100Z" creationid="Melo46" creationdate="20250220T081100Z">
+        <seg>Compilationes septimanal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Well, have you considered learning?</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T130001Z">
@@ -67122,6 +67202,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180604T223850Z" creationid="karm46" creationdate="20180604T223850Z">
         <seg>Tu ha jam le ultime version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T082214Z" creationid="Melo46" creationdate="20250220T082214Z">
+        <seg>Tu es alsi libere de copiar lo e passar lo a altere personas e mesmo modificar OmegaT pro satisfacer tu proprie requisitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75707,8 +75795,8 @@ crea le plica del configuration.</seg>
       <tuv lang="en">
         <seg>some version</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171115T142000Z" creationid="Karm46" creationdate="20171115T142000Z">
-        <seg>alcun version</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T080925Z" creationid="Karm46" creationdate="20171115T142000Z">
+        <seg>un certe version</seg>
       </tuv>
     </tu>
     <tu>
