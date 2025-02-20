@@ -31720,6 +31720,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T072316Z" creationid="Melo46" creationdate="20250220T072316Z">
+        <seg>Installa OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T191646Z">
