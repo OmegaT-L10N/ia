@@ -17122,6 +17122,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T085954Z" creationid="Melo46" creationdate="20250220T085954Z">
+        <seg>Compatibile con altere applicationes pro memoria de traduction via formatos de excambio tal como TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T154858Z">
@@ -32102,6 +32110,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T212221Z">
         <seg>Interfacie con Google Translate v2, Apertium, Microsoft Translator ... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T090112Z" creationid="Melo46" creationdate="20250220T090112Z">
+        <seg>Interfacie a traductores automatic/traductores automatic neural software/Servicios web</seg>
       </tuv>
     </tu>
     <tu>
