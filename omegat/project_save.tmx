@@ -9776,6 +9776,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T090437Z" creationid="Melo46" creationdate="20250220T090437Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Ultime version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T155402Z" creationid="Karm46" creationdate="20171128T155343Z">
@@ -9842,8 +9850,8 @@ Esque illo es correcte?</note>
       <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171128T154431Z" creationid="Karm46" creationdate="20171128T154431Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es disponibile in multe distincte versiones pro convenir a numerose requisitos del usatores.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T090623Z" creationid="Karm46" creationdate="20171128T154431Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es disponibile in multe distincte versiones pro satisfacer plure requisitos del usatores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12238,6 +12246,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T155548Z">
         <seg>Alsi supportate es le formato CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;weekly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T090812Z" creationid="Melo46" creationdate="20250220T090812Z">
+        <seg>Alsi, considera testar le &lt;a0&gt;compilationes septimanal&lt;/a0&gt; de OmegaT que pote continer ancora plus nove e fascinante errores!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32116,8 +32132,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Interface to machine translation/neural machine translation software/Web services</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250220T090112Z" creationid="Melo46" creationdate="20250220T090112Z">
-        <seg>Interfacie a traductores automatic/traductores automatic neural software/Servicios web</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T090341Z" creationid="Melo46" creationdate="20250220T090112Z">
+        <seg>Interfacie a altere software/servicios web de traduction automatic/traduction automatic neural</seg>
       </tuv>
     </tu>
     <tu>
