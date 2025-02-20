@@ -17478,6 +17478,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contribution Guide</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073830Z" creationid="Melo46" creationdate="20250220T073830Z">
+        <seg>Guida de collaborationes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide source text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T074121Z" creationid="Melo46" creationdate="20250220T074042Z">
+        <seg>Texto fonte del Guida de collaborationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T180229Z" creationid="Karm46" creationdate="20170913T180229Z">
@@ -19085,6 +19101,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Currently, we offer only a Standard version.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T074348Z" creationid="Melo46" creationdate="20250220T074348Z">
+        <seg>Actualmente, nos offere solo un version Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor lock off</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160225T133242Z" creationid="Melo" creationdate="20160225T133242Z">
@@ -20590,6 +20614,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T184413Z">
         <seg>Creation del documentation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation for developers</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073535Z" creationid="Melo46" creationdate="20250220T073535Z">
+        <seg>Documentation pro disveloppatores</seg>
       </tuv>
     </tu>
     <tu>
@@ -26511,6 +26543,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132410Z">
         <seg>Hiri Motu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T072521Z" creationid="Melo46" creationdate="20250220T072521Z">
+        <seg>Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
@@ -39484,6 +39524,30 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial (2014 edition)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073511Z" creationid="Melo46" creationdate="20250220T073511Z">
+        <seg>OmegaT exercitation pro Comenciantes (2014 edition)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073215Z" creationid="Melo46" creationdate="20250220T073122Z">
+        <seg>OmegaT exercitation pro comenciantes de CAT (2020, in japonese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073020Z" creationid="Melo46" creationdate="20250220T072710Z">
+        <seg>OmegaT exercitation pro comenciantes de CAT (2020 edition)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T080553Z" creationid="Karm46" creationdate="20171115T215048Z">
@@ -40176,6 +40240,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T133132Z" creationid="Karm46" creationdate="20171115T133132Z">
         <seg>Function exportation texto de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073351Z" creationid="Melo46" creationdate="20250220T073351Z">
+        <seg>OmegaT le potente instrumentos de CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073420Z" creationid="Melo46" creationdate="20250220T073420Z">
+        <seg>OmegaT le potente instrumentos de CAT(in Japonese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42477,6 +42557,14 @@ Evanescente como bruma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Philippe Tourigny</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T072507Z" creationid="Melo46" creationdate="20250220T072507Z">
+        <seg>Philippe Tourigny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pick a symbol, then OK &gt; OK.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T073254Z">
@@ -42655,8 +42743,8 @@ pro resolver le origine del error e reproba.</seg>
       <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200728T042319Z" creationid="Melo46" creationdate="20200728T042319Z">
-        <seg>Continge le &lt;a0&gt;Gestor del projecto OmegaT&lt;/a0&gt; re ulle puncto non coperite supra.&lt;br1/&gt;</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T072830Z" creationid="Melo46" creationdate="20200728T042319Z">
+        <seg>Contacta le &lt;a0&gt;Gestor del projecto OmegaT&lt;/a0&gt; re ulle puncto non coperite supra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44560,6 +44648,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T070245Z" creationid="Karm46" creationdate="20171115T122404Z">
         <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reddit</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T072535Z" creationid="Melo46" creationdate="20250220T072535Z">
+        <seg>Reddit</seg>
       </tuv>
     </tu>
     <tu>
@@ -52632,6 +52728,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Contribution Guide source text in the OmegaT repository.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T074212Z" creationid="Melo46" creationdate="20250220T074106Z">
+        <seg>Le texto fonte del Guida de collaborationes in le repositorio de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Corresponding Source for a work in source code form is that
 same work.</seg>
       </tuv>
@@ -52928,6 +53032,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T083224Z" creationid="Melo46" creationdate="20200726T083224Z">
         <seg>Le filtro Mozilla FTL generava un exception:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Contribution Guide.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073926Z" creationid="Melo46" creationdate="20250220T073926Z">
+        <seg>Le Guida de collaborationes de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60842,6 +60954,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To find out how to help, have a look at our documentation for developers:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073752Z" creationid="Melo46" creationdate="20250220T073752Z">
+        <seg>Pro discoperir como adjutar, da un reguardo a nostre documentation pro disveloppatores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T123932Z">
@@ -65167,6 +65287,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T155533Z">
         <seg>Warranty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We always welcome new contributors!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073736Z" creationid="Melo46" creationdate="20250220T073736Z">
+        <seg>Nove collaboratores es sempre benvenite!</seg>
       </tuv>
     </tu>
     <tu>
@@ -69699,6 +69827,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144823Z">
         <seg>but WITHOUT ANY WARRANTY; without even the implied warranty of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073403Z" creationid="Melo46" creationdate="20250220T073403Z">
+        <seg>per Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Susan Welsh, Marc Prior and Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T073149Z" creationid="Melo46" creationdate="20250220T073058Z">
+        <seg>per Susan Welsh, Marc Prior e Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
