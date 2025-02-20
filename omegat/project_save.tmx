@@ -40219,6 +40219,14 @@ a esser lanceate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT packages are available both in versions bundled with Java, and versions without it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T113329Z" creationid="Melo46" creationdate="20250220T113329Z">
+        <seg>Le pacchettos de OmegaT es disponibile e in versiones con Java integrate, e in versiones sin illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT preferences</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093642Z">
@@ -40659,6 +40667,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180604T223859Z" creationid="karm46" creationdate="20180604T223859Z">
         <seg>OmegaT {0} es ora disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T113801Z" creationid="Melo46" creationdate="20250220T113801Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} e plus recente alsi supporta le ambiente Java runtime 11 sur qualcunque platteformas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T113050Z" creationid="Melo46" creationdate="20250220T113050Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} require un Ambiente Runtime Java (en JRE) {{site.data.versions.standard.java_version}} pro functionar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42317,6 +42341,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20131219T070120Z" creationid="MELO" creationdate="20131219T070120Z">
         <seg>Le testa del PO essera saltate e lassate sin alteration, si es marcate iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T113600Z" creationid="Melo46" creationdate="20250220T113600Z">
+        <seg>Pacchettos sin Java conta sur un ambiente Java runtime {{site.data.versions.standard.java_version}} installate a nivello de systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54623,6 +54655,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220106T173910Z" creationid="will" creationdate="20220106T173910Z">
         <seg>Le files appare in le sub plica &lt;f0&gt;script&lt;/f0&gt;, in le plica del files del usator de OmegaT, e include:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T112755Z" creationid="Melo46" creationdate="20250220T112755Z">
+        <seg>Le files es discargabile directemente de &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
