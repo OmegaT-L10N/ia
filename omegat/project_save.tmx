@@ -32050,6 +32050,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T083221Z" creationid="Melo46" creationdate="20250220T083221Z">
+        <seg>Corrector orthographic complete que usa dictionarios Hunspell (como in altere software tal como LibreOffice o Mozilla Firefox)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T220854Z">
@@ -51032,8 +51040,8 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>Support for right-to-left languages</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130518T192145Z">
-        <seg>Supporto pro linguas de dextera a sinistra</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T085718Z">
+        <seg>Supporto pro linguas de dextera al sinistra</seg>
       </tuv>
     </tu>
     <tu>
@@ -63258,6 +63266,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T154226Z">
         <seg>Supporto pro Unicode (UTF-8): pote esser utilisate con alphabetos non latin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T082901Z" creationid="Melo46" creationdate="20250220T082901Z">
+        <seg>Supporto pro Unicode: pote esser usate con varie alphabetos e scripturas</seg>
       </tuv>
     </tu>
     <tu>
@@ -77919,6 +77935,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T081505Z" creationid="Karm46" creationdate="20171001T081505Z">
         <seg>“{0}” ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T082716Z" creationid="Melo46" creationdate="20250220T082716Z">
+        <seg>…e circa 30 altere formatos de file</seg>
       </tuv>
     </tu>
     <tu>
