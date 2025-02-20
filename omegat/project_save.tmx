@@ -6730,6 +6730,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T080345Z" creationid="Melo46" creationdate="20250220T080345Z">
+        <seg>&lt;i1&gt;OmegaT pote esser installate sur qualcunque systema operative capace de facer functionar le version 11 del ambiente Java runtime ambiente.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140122T231717Z">
@@ -24523,6 +24531,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on macOS.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T080224Z" creationid="Melo46" creationdate="20250220T080224Z">
+        <seg>Pro installation sur macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T135655Z" creationid="Karm46" creationdate="20171115T135655Z">
@@ -39404,6 +39420,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 11 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T080557Z" creationid="Melo46" creationdate="20250220T080557Z">
+        <seg>OmegaT actualmente require le version 11 del JRE o plus recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT default theme</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20211229T164428Z" creationid="will" creationdate="20211229T164428Z">
@@ -52352,6 +52376,14 @@ control those activities.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Le clave "Shift" non exhibi ulle special comportamento per se: quando on pulsa le clave "Shift", tote le claves move le cursor in su consuete faction, foras que in le caso del combination &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere un interruption de linea in le texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will have usually been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T080756Z" creationid="Melo46" creationdate="20250220T080756Z">
+        <seg>Le version "Standard" de OmegaT include un manual del usator complete (al minus in anglese) e habera usualmente essite testate pro alcun tempore pro eliminar tote le errores.</seg>
       </tuv>
     </tu>
     <tu>
