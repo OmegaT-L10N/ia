@@ -19814,6 +19814,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Weekly</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T112032Z" creationid="Melo46" creationdate="20250220T112032Z">
+        <seg>Disveloppator: OmegaT Septimanal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T164604Z">
@@ -26265,8 +26273,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Have you ever written an article for your professional association's journal?</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130530T130144Z">
-        <seg>Ha tu unquam scripte an articulo pro le jornal de tu association professional?</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T110922Z">
+        <seg>Ha tu unquam scribite an articulo pro le jornal de tu association professional?</seg>
       </tuv>
     </tu>
     <tu>
@@ -29843,6 +29851,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T111834Z" creationid="Melo46" creationdate="20250220T111834Z">
+        <seg>Si tu es un programmator, e te occurre de cognoscer Java, verifica le &lt;a0&gt;Guida de collaboration con OmegaT&lt;/a0&gt;, o su texto fonte in le &lt;a1&gt;codification fonte&lt;/a1&gt; sub /docs_devel pro informationes re como initiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your code has compiled successfully, the compiled OmegaT is placed in:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T041615Z">
@@ -32884,6 +32900,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T160355Z">
         <seg>Illo es tractate como un traduction base, si nulle concordantia esseva trovate, o como traduction alternative, in caso le identic segmento fonte existe, ma con un texto de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T112456Z" creationid="Melo46" creationdate="20250220T112456Z">
+        <seg>Isto es usate pro scopos de test.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39464,6 +39488,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20211229T164447Z" creationid="will" creationdate="20211229T164447Z">
         <seg>OmegaT thema classic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T111859Z" creationid="Melo46" creationdate="20250220T111859Z">
+        <seg>OmegaT veni in duo editiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59007,6 +59039,22 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150422T103228Z">
         <seg>Iste documentation es designate sia qual parve instruction, sia qual guida de referentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is automatically generated every time new code is added to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T112041Z" creationid="Melo46" creationdate="20250220T112041Z">
+        <seg>Iste edition es automaticamente generate cata vice nove codice es addite a OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T112009Z" creationid="Melo46" creationdate="20250220T112009Z">
+        <seg>Iste edition es recommendate pro uso quotidian.</seg>
       </tuv>
     </tu>
     <tu>
