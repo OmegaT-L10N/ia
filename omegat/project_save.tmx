@@ -12386,6 +12386,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T125339Z" creationid="Melo46" creationdate="20250220T125339Z">
+        <seg>Ben que tu pote facer functionar OmegaT directemente ab le files disponibile, tu alsi pote facer functionar le script  &lt;c0&gt;linux-install.sh&lt;/c0&gt; trovate illac a haber OmegaT installate in positiones plus appropriate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140416T212252Z">
@@ -20858,6 +20866,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T124211Z" creationid="Melo46" creationdate="20250220T124211Z">
+        <seg>Duple-clicca sur le pacchetto que tu discargava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T072943Z">
@@ -28614,6 +28630,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T214301Z">
         <seg>Si il habe altere files nominate test.html in altere plicas, illos essera ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; and sets it as the default version (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T130213Z" creationid="Melo46" creationdate="20250220T130213Z">
+        <seg>Si il non ha un, illo installa le programma in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; e lo configura como le version predefinite (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46517,6 +46541,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T125817Z" creationid="Melo46" creationdate="20250220T125817Z">
+        <seg>Face functionar le script requirera que tu insere tu contrasigno de &lt;c0&gt;sudo&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T141758Z">
@@ -49732,6 +49764,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T124535Z" creationid="Melo46" creationdate="20250220T124535Z">
+        <seg>Alcun distributiones de Linux offere OmegaT in lor gestor de pacchettos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T160132Z" creationid="Melo46" creationdate="20160728T160132Z">
@@ -52431,6 +52471,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130526T084450Z">
         <seg>Gratias al labor del translatores in le passato, le interfacie del usator de OmegaT e le textos del Adjuta esseva rendite in plures linguas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T125124Z" creationid="Melo46" creationdate="20250220T125124Z">
+        <seg>Iste plica contine tote le files necessari pro face functionar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55259,6 +55307,14 @@ in le area de lanceamento celere.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T124822Z" creationid="Melo46" creationdate="20250220T124822Z">
+        <seg>Le instructiones date ci se applica a personas qui discarga le pacchetto ab le sito &lt;a0&gt;https://omegat.org&lt;/a0&gt; e lo installa manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T103137Z" creationid="Melo46" creationdate="20200728T103137Z">
@@ -56509,6 +56565,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T163552Z">
         <seg>Le script "{0}" flue...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T125937Z" creationid="Melo46" creationdate="20250220T125937Z">
+        <seg>Le script controla pro un installation existente del mesme version de OmegaT in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58991,6 +59055,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081848Z" creationid="Melo46" creationdate="20200730T081848Z">
         <seg>Isto crea un plica appellate &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a new folder named after the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T124935Z" creationid="Melo46" creationdate="20250220T124935Z">
+        <seg>Isto crea un nove plica nominate post le pacchetto que tu discargava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63618,6 +63690,14 @@ file de documentation e le application OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack/untar the file you downloaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T124847Z" creationid="Melo46" creationdate="20250220T124847Z">
+        <seg>Dispacchetta/decomprime le file que tu discargava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -67538,6 +67618,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also change this later by editing &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T124405Z" creationid="Melo46" creationdate="20250220T124405Z">
+        <seg>Tu alsi pote cambiar lo plus tarde editante &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T083543Z" creationid="Melo46" creationdate="20200727T123326Z">
@@ -67802,6 +67890,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T070856Z" creationid="will" creationdate="20230303T070856Z">
         <seg>Tu pote seliger altere elementos de documentos pro traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose the language used during the installation and the language used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250220T124257Z" creationid="Melo46" creationdate="20250220T124257Z">
+        <seg>Tu pote seliger le lingua usate durante le installation e le lingua usate per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
