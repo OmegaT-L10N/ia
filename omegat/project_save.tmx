@@ -20586,6 +20586,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172300Z" creationid="Melo46" creationdate="20250221T172300Z">
+        <seg>Non usar le nomine de file pro &amp;identificar traductiones alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use the file name to identify alternate translations</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T072035Z" creationid="will" creationdate="20230302T072035Z">
@@ -23649,6 +23657,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T214407Z">
         <seg>Variabiles Nomine del file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172340Z" creationid="Melo46" creationdate="20250221T172340Z">
+        <seg>Variabiles de nomine de file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28682,6 +28698,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172629Z" creationid="Melo46" creationdate="20250221T172629Z">
+        <seg>Si il ha un declaration, ille codification sera usate ignorante le parametros specificate ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; and sets it as the default version (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T130213Z" creationid="Melo46" creationdate="20250220T130213Z">
@@ -30167,6 +30191,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T103135Z" creationid="will" creationdate="20230303T103135Z">
         <seg>Tags &lt;meta&gt; con attributo "content" ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172804Z" creationid="Melo46" creationdate="20250221T172804Z">
+        <seg>Paragraphos ignorate (expression regular)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38756,6 +38788,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172452Z" creationid="Melo46" creationdate="20250221T172452Z">
+        <seg>Nota: Le configuration del codification del file fonte solo affice le files HTML sin declaration de codification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T032220Z" creationid="Melo46" creationdate="20151116T032220Z">
@@ -43604,6 +43644,14 @@ additional steps need to be taken.</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T172213Z" creationid="Karm46" creationdate="20170913T172213Z">
         <seg>Pre-requisitos pro installar OmegaT
 ===================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172201Z" creationid="Melo46" creationdate="20250221T172201Z">
+        <seg>Preservar &amp;spatios pro tote le tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -50240,6 +50288,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172310Z" creationid="Melo46" creationdate="20250221T172310Z">
+        <seg>Codification del file fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T182408Z">
@@ -50260,6 +50316,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T074448Z" creationid="will" creationdate="20230302T074448Z">
         <seg>Modello de nomine de file fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172307Z" creationid="Melo46" creationdate="20250221T172307Z">
+        <seg>Modello de nomine de file fonte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50790,6 +50854,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072012Z">
         <seg>Comenciar un nove paragrapho sur:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172818Z" creationid="Melo46" creationdate="20250221T172818Z">
+        <seg>Initiar un nove segmento sur:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53192,6 +53264,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140112T164544Z" creationid="MELO46" creationdate="20140112T164544Z">
         <seg>Le quadro del Glossario permitte te de acceder tu proprie collection de expressiones e terminologia specialistic le qual tu ha create in tu files glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173030Z" creationid="Melo46" creationdate="20250221T173030Z">
+        <seg>Le analysator de HTML incontrava un error processante le file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62670,6 +62750,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T132719Z" creationid="Melo46" creationdate="20250219T132719Z">
         <seg>Codification del file traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172318Z" creationid="Melo46" creationdate="20250221T172318Z">
+        <seg>Codification del file traducite:</seg>
       </tuv>
     </tu>
     <tu>
