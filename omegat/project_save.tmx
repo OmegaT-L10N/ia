@@ -45598,8 +45598,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250221T144930Z" creationid="ia" creationdate="20170909T172921Z">
-        <seg>Levar le spatios blanc initial e final in le projectos non-segmentate</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T172122Z" creationid="ia" creationdate="20170909T172921Z">
+        <seg>Levar le spatios blanc(&amp;w) initial e final in le projectos non-segmentate</seg>
       </tuv>
     </tu>
     <tu>
