@@ -10446,6 +10446,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181121Z" creationid="Melo46" creationdate="20250221T181121Z">
+        <seg>Un nota es simplemente un observation re le texto fonte o su traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T210318Z">
@@ -17354,6 +17362,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T182719Z" creationid="Melo46" creationdate="20250221T182719Z">
+        <seg>Confirmar deletion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083452Z">
@@ -19445,6 +19461,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T182501Z" creationid="Melo46" creationdate="20250221T182501Z">
+        <seg>D&amp;eler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083234Z">
@@ -19714,6 +19738,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T090350Z" creationid="will" creationdate="20230301T090350Z">
         <seg>Le deletion de iste file alsi reinitialisara le preferentias del filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletion failed</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T182820Z" creationid="Melo46" creationdate="20250221T182820Z">
+        <seg>deletion fallite</seg>
       </tuv>
     </tu>
     <tu>
@@ -22375,8 +22407,8 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20131219T165339Z" creationid="MELO46" creationdate="20131219T165339Z">
-        <seg>Le entratas del glossario scribibile son in nigrato.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181108Z" creationid="MELO46" creationdate="20131219T165339Z">
+        <seg>Le entratas del glossario scribibile son hardite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24029,6 +24061,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181400Z" creationid="Melo46" creationdate="20250221T181400Z">
+        <seg>Prime passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>First steps</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T163240Z" creationid="will" creationdate="20230316T163240Z">
@@ -24783,6 +24823,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094413Z">
         <seg>Per exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181305Z" creationid="Melo46" creationdate="20250221T181305Z">
+        <seg>Pro formatos de file e filtros que supporta commentos (p. ex. PO-filter), monstra le commentos pro le traductor concernente le segmento active, si il ha alcun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32136,6 +32184,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install failed</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T231838Z" creationid="Melo46" creationdate="20250221T231838Z">
+        <seg>Installation fallite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install the OmegaT version with Java included.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T191720Z">
@@ -33116,6 +33172,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T062157Z">
         <seg>Il es alicun vices utile pro esser habile a render alicun tags intraducibile sur le base del valor del attributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181139Z" creationid="Melo46" creationdate="20250221T181139Z">
+        <seg>Illo es immagazinate in le file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50944,6 +51008,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181456Z" creationid="Melo46" creationdate="20250221T181456Z">
+        <seg>Controlo orthographic le tr&amp;aduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T210609Z" creationid="MELO46" creationdate="20140629T210425Z">
@@ -50972,6 +51044,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T132311Z" creationid="Karm46" creationdate="20171115T132311Z">
         <seg>Controlator orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181554Z" creationid="Melo46" creationdate="20250221T181554Z">
+        <seg>Position del dictionarios orthographic:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60967,6 +61047,16 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181433Z" creationid="Melo46" creationdate="20250221T181433Z">
+        <seg>Isto reinitialisara tote le
+parametros a lor valores predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T194127Z">
@@ -63722,6 +63812,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230328T090655Z" creationid="will" creationdate="20230322T095715Z">
         <seg>Impossibile de crear le files traducite a causa de tags mancante o damnificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T182744Z" creationid="Melo46" creationdate="20250221T182744Z">
+        <seg>Impossibile deler le dictionario seligite</seg>
       </tuv>
     </tu>
     <tu>
@@ -67930,6 +68028,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T054609Z">
         <seg>Tu es un usator de OmegaT e ha un requesta ab un cliente pro delivrar un traduction in le formato de file de Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T182713Z" creationid="Melo46" creationdate="20250221T182713Z">
+        <seg>Tu dele le dictionario orthographic que tu projecto actualmente usa.</seg>
       </tuv>
     </tu>
     <tu>
