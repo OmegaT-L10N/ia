@@ -1950,6 +1950,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175856Z" creationid="Melo46" creationdate="20250221T175856Z">
+        <seg>Variabiles &amp;Simple (p. ex., %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093717Z" creationid="MELO46" creationdate="20140615T142900Z">
@@ -12114,6 +12122,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175912Z" creationid="Melo46" creationdate="20250221T175912Z">
+        <seg>Tote le variabiles (p. ex., %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T073252Z" creationid="Karm46" creationdate="20170911T225844Z">
@@ -15546,6 +15562,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180151Z" creationid="Melo46" creationdate="20250221T180151Z">
+        <seg>Cambiar le ordine de tags pote corrumper le file traducite!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T133632Z">
@@ -15662,6 +15686,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T165341Z" creationid="ia" creationdate="20170909T165221Z">
         <seg>Controlar le problemas (&amp;Issues)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180014Z" creationid="Melo46" creationdate="20250221T180014Z">
+        <seg>Verificar le marca-locos MessageFormat de &amp;Java (p. ex. {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -15982,6 +16014,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T121529Z" creationid="Melo46" creationdate="20200727T121529Z">
         <seg>Marca o dismarca le regulas secundo que illos es pertinente pro le typo de texto que tu traduce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175826Z" creationid="Melo46" creationdate="20250221T175826Z">
+        <seg>Verificar le variabiles del function printf:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18235,6 +18275,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180246Z" creationid="Melo46" creationdate="20250221T180246Z">
+        <seg>Contar le texto (&amp;f)signalate e le tags personalisate in statistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151016T224823Z" creationid="Melo" creationdate="20151016T224823Z">
@@ -19325,6 +19373,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180314Z" creationid="Melo46" creationdate="20250221T180314Z">
+        <seg>Tags personalisate (expression regular):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151115T170205Z" creationid="Melo46" creationdate="20151115T170205Z">
@@ -19345,6 +19401,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T164542Z" creationid="Karm46" creationdate="20170929T164542Z">
         <seg>Personalisar le &amp;tabella del characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175734Z" creationid="Melo46" creationdate="20250221T175734Z">
+        <seg>Personalisar le &amp;informationes de modification de segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -20394,6 +20458,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T181022Z" creationid="Melo46" creationdate="20250221T180848Z">
+        <seg>Monstra le entratas ab in files glossario ubicate in le plica /glossary/ si illos es trovate in le segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T084018Z">
@@ -20526,6 +20598,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T075021Z">
         <seg>Monstra le segmentos del memorias de traduction que concorda con le segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180519Z" creationid="Melo46" creationdate="20250221T180519Z">
+        <seg>Monstra le segmentos de memoria de traduction que concorda con le segmento fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23977,6 +24057,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T084337Z">
         <seg>Le reparationes son operationes trivial e OmegaT assiste le chassa al defecto con le message de error message pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180350Z" creationid="Melo46" creationdate="20250221T180350Z">
+        <seg>Texto signalate (expression regular):</seg>
       </tuv>
     </tu>
     <tu>
@@ -36177,6 +36265,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175518Z" creationid="Melo46" creationdate="20250221T175518Z">
+        <seg>Evidentiar tote le segmentos repetite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T064237Z">
@@ -36381,6 +36477,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224011Z">
         <seg>On pote trovar le concordantias in tu actual traduction o in le files TMX que tu ha mittite in le plica  /tm/ .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180906Z" creationid="Melo46" creationdate="20250221T180653Z">
+        <seg>Le concordantias venir de tu actual traduction o del files de referentia ubicate in le plica /tm/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39156,6 +39260,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T000112Z" creationid="Melo46" creationdate="20160729T000112Z">
         <seg>Notificar me quando un segmento ha notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T180713Z" creationid="Melo46" creationdate="20250221T180713Z">
+        <seg>Notifica me quando le segmento ha concordantias partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -49340,6 +49452,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175221Z" creationid="Melo46" creationdate="20250221T175221Z">
+        <seg>Parametros pro tags originate de files TMX non-OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T190036Z">
@@ -50936,6 +51056,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175609Z" creationid="Melo46" creationdate="20250221T175609Z">
+        <seg>Modello standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -52510,6 +52638,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T060538Z" creationid="will" creationdate="20230316T060538Z">
         <seg>Variabiles modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175613Z" creationid="Melo46" creationdate="20250221T175613Z">
+        <seg>Modello pro segmentos sin data</seg>
       </tuv>
     </tu>
     <tu>
@@ -64406,6 +64542,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T230127Z">
         <seg>Usar &amp;XML pro le tags singule (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175402Z" creationid="Melo46" creationdate="20250221T175402Z">
+        <seg>Usar le notation &amp;XML pro le tags singule (p. ex., &lt;io&gt;)</seg>
       </tuv>
     </tu>
     <tu>
