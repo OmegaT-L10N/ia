@@ -19301,6 +19301,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144423Z" creationid="Melo46" creationdate="20250221T144239Z">
+        <seg>Personalisar le modello de nomine de file fonte processate, le nomine de file traducite e lor respective codificationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095138Z">
@@ -23452,6 +23460,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144312Z" creationid="Melo46" creationdate="20250221T144312Z">
+        <seg>&amp;formato de file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160808T095853Z" creationid="Melo" creationdate="20160808T095642Z">
@@ -25651,6 +25667,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T094731Z" creationid="will" creationdate="20230322T094731Z">
         <seg>Filtros de file global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144449Z" creationid="Melo46" creationdate="20250221T144449Z">
+        <seg>Filtros de file mundial</seg>
       </tuv>
     </tu>
     <tu>
@@ -34997,6 +35021,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T170838Z" creationid="will" creationdate="20230324T170838Z">
         <seg>Filtros e files local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144522Z" creationid="Melo46" creationdate="20250221T144522Z">
+        <seg>Filtros de file local</seg>
       </tuv>
     </tu>
     <tu>
@@ -64406,6 +64438,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230328T091644Z" creationid="will" creationdate="20230324T170928Z">
         <seg>Usar le regulas de segmentation local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144604Z" creationid="Melo46" creationdate="20250221T144604Z">
+        <seg>Usar parametros de fli&amp;tro de file local</seg>
       </tuv>
     </tu>
     <tu>
