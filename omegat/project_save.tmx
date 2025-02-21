@@ -702,6 +702,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234708Z" creationid="Melo46" creationdate="20250221T234708Z">
+        <seg>&amp;A)Permitter commandos de post-elaboration local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T164647Z" creationid="Karm46" creationdate="20170929T164647Z">
@@ -16194,6 +16202,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234803Z" creationid="Melo46" creationdate="20250221T234803Z">
+        <seg>Verifica de novo le problemas de tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20171113T224911Z">
@@ -17558,6 +17574,16 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233757Z" creationid="Melo46" creationdate="20250221T233757Z">
+        <seg>Contacta tu administrator del projecto pro discoperir si alcun
+passos additional debe esser prendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T084750Z">
@@ -18779,6 +18805,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233953Z" creationid="Melo46" creationdate="20250221T233953Z">
+        <seg>Creation de nove projecto de equipa cancellate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T145022Z" creationid="MELO46" creationdate="20140615T145022Z">
@@ -19373,6 +19407,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233947Z" creationid="Melo46" creationdate="20250221T233947Z">
+        <seg>Ramo personalisate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom colours...</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T063257Z" creationid="Melo" creationdate="20151116T063257Z">
@@ -19577,6 +19619,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072333Z">
         <seg>Jam prefixate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233906Z" creationid="Melo46" creationdate="20250221T233906Z">
+        <seg>Ramo predefinite</seg>
       </tuv>
     </tu>
     <tu>
@@ -22381,6 +22431,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233126Z" creationid="Melo46" creationdate="20250221T233126Z">
+        <seg>Insere le nomine de iste configuration:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151117T191702Z" creationid="Melo" creationdate="20151117T191702Z">
@@ -22637,6 +22695,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T220158Z" creationid="Melo46" creationdate="20160729T220001Z">
         <seg>Error a recuperar {0} como file de projecto remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234401Z" creationid="Melo46" creationdate="20250221T234401Z">
+        <seg>Error recuperante {0} como files del projecto remote</seg>
       </tuv>
     </tu>
     <tu>
@@ -23224,6 +23290,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T171412Z" creationid="will" creationdate="20230324T171412Z">
         <seg>Exportar le plica del memorias de traduction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233210Z" creationid="Melo46" creationdate="20250221T233210Z">
+        <seg>Le plica de exportation del memoria de traduction {0} non existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25931,6 +26005,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T173408Z" creationid="Melo46" creationdate="20250221T173408Z">
         <seg>Regulas de segmentation mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234557Z" creationid="Melo46" creationdate="20250221T234557Z">
+        <seg>Commandos mundial de post-processo</seg>
       </tuv>
     </tu>
     <tu>
@@ -38333,6 +38415,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234325Z" creationid="Melo46" creationdate="20250221T234325Z">
+        <seg>Necun credentiales predefinite passate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T120428Z" creationid="karm46" creationdate="20180424T120428Z">
@@ -38369,6 +38459,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T215212Z" creationid="Melo" creationdate="20141027T215212Z">
         <seg>Nulle tags e nulle numeros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233222Z" creationid="Melo46" creationdate="20250221T233222Z">
+        <seg>Necun file del glossario scribibile in le plica /glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44090,6 +44188,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233532Z" creationid="Melo46" creationdate="20250221T233532Z">
+        <seg>Pressar 'OK' pro converter le projecto in un projecto de equipa 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170927T132503Z" creationid="Karm46" creationdate="20170927T132503Z">
@@ -44696,6 +44802,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084258Z">
         <seg>Initio del creation del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234504Z" creationid="Melo46" creationdate="20250221T234504Z">
+        <seg>Intervallo de salvamento del datos del projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -45900,6 +46014,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234226Z" creationid="Melo46" creationdate="20250221T234226Z">
+        <seg>Error de credential in repositorio remote git+ssh: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180927T171529Z" creationid="karm46" creationdate="20180927T171529Z">
@@ -46441,6 +46563,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233913Z" creationid="Melo46" creationdate="20160728T233913Z">
         <seg>Repositorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233828Z" creationid="Melo46" creationdate="20250221T233828Z">
+        <seg>URL del repositorio (typo: {0}) non definite sur route: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -47001,6 +47131,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T174203Z" creationid="will" creationdate="20230317T080830Z">
         <seg>Lancear OmegaT" in le guida de usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233056Z" creationid="Melo46" creationdate="20250221T233056Z">
+        <seg>Facer functionar le script in slot #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53067,6 +53205,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234716Z" creationid="Melo46" creationdate="20250221T234716Z">
+        <seg>Texto a remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T114218Z" creationid="melo" creationdate="20160813T114218Z">
@@ -57641,6 +57787,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233406Z" creationid="Melo46" creationdate="20250221T233406Z">
+        <seg>Le plica specificate non es un projecto OmegaT, o le file de projecto es rupte, o il non ha copia de reserva valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6 team project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T225443Z" creationid="Melo46" creationdate="20250219T225443Z">
@@ -61047,6 +61201,17 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233702Z" creationid="Melo46" creationdate="20250221T233702Z">
+        <seg>Isto
+delera tu datos local e re-discargara le contentos del projecto ab le servitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will actually do a checkout of the project in a local folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T073048Z">
@@ -63164,6 +63329,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233141Z" creationid="Melo46" creationdate="20250221T233141Z">
+        <seg>Traducer iste plural como forma plural #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T090827Z">
@@ -63908,6 +64081,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T182619Z">
         <seg>Incapace a producer le nove file TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233446Z" creationid="Melo46" creationdate="20250221T233446Z">
+        <seg>Impossibile inviar perque le traduction remote era cambiava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65382,6 +65563,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T234046Z" creationid="Melo46" creationdate="20250221T234046Z">
+        <seg>Credentiales de usator denegate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085418Z">
@@ -66593,6 +66782,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T064714Z" creationid="MELO46" creationdate="20140106T064714Z">
         <seg>Quando un altere fenestra es sur le prime plano, clicca sur le fenestra principal pro apportar lo al prime plano o pulsa &lt;k0&gt;Esc&lt;/k0&gt; pro clauder le altere fenestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235048Z" creationid="Melo46" creationdate="20250221T235048Z">
+        <seg>Si marcate, le elementos in le vista de completamento automatic del glossario alsi continera le texto fonte.</seg>
       </tuv>
     </tu>
     <tu>
