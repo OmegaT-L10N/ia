@@ -26563,6 +26563,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144908Z" creationid="Melo46" creationdate="20250221T144908Z">
+        <seg>Celar tags de testa(&amp;l) e de cauda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T095529Z">
@@ -45590,8 +45598,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="ia" changeid="ia" changedate="20170909T172921Z" creationid="ia" creationdate="20170909T172921Z">
-        <seg>Leva le spatios blanc initial e final in le projectos non-segmentate</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144930Z" creationid="ia" creationdate="20170909T172921Z">
+        <seg>Levar le spatios blanc initial e final in le projectos non-segmentate</seg>
       </tuv>
     </tu>
     <tu>
@@ -48504,6 +48512,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230331T094943Z" creationid="will" creationdate="20230331T094943Z">
         <seg>Seliger un altere plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T144800Z" creationid="Melo46" creationdate="20250221T144800Z">
+        <seg>Seliger un filtro e cliccar sur Rediger... o Optiones... pro personalisar lo.</seg>
       </tuv>
     </tu>
     <tu>
