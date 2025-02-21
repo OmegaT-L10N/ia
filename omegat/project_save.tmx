@@ -33485,6 +33485,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T104253Z" creationid="Melo46" creationdate="20250221T104253Z">
+        <seg>Jean-Christophe Helary es le gestor de projecto de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T224226Z">
@@ -39951,6 +39959,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T103351Z" creationid="Melo46" creationdate="20250221T103351Z">
+        <seg>OmegaT es un application pro Traduction Assistite per Computator (CAT, Computer-Assisted Translation) gratuite,  multe-platteforma e open-source. Offere concordantias partial, memorias de traduction, recerca per parolas clave, glossarios, e traduction que conta sur projectos actualisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T205710Z">
@@ -40137,8 +40153,8 @@ tu plica home.</seg>
       <tuv lang="en">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20211229T144128Z">
-        <seg>OmegaT es le opera original de Keith Godfrey.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T104141Z">
+        <seg>OmegaT es opera original de Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47511,6 +47527,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Kos Ivantsov" changedate="20170908T220421Z" creationid="Kos Ivantsov" creationdate="20170908T220421Z">
         <seg>Vide /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T105214Z" creationid="Melo46" creationdate="20250221T105214Z">
+        <seg>Vider /docs/libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
