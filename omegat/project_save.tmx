@@ -10538,6 +10538,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232159Z" creationid="Melo46" creationdate="20250221T232159Z">
+        <seg>Un regula ID pote solo continer litteras latin, lineettas basse, e punctos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A schematic diagram is shown below:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T085057Z">
@@ -12586,6 +12594,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T093838Z" creationid="Melo46" creationdate="20151014T064158Z">
         <seg>Un error occurreva durante que tentava de discargar le dictionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232106Z" creationid="Melo46" creationdate="20250221T232106Z">
+        <seg>Un error occurreva discargante le dictionario orthographic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19541,6 +19557,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232846Z" creationid="Melo46" creationdate="20250221T232846Z">
+        <seg>Clave API de DeepL non disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="ia" changeid="Kos Ivantsov" changedate="20180402T095942Z" creationid="Kos Ivantsov" creationdate="20180402T095942Z">
@@ -20470,6 +20494,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084553Z">
         <seg>Expone traductiones alternative que tu ha create pro segmentos que es repetite in le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T233037Z" creationid="Melo46" creationdate="20250221T233037Z">
+        <seg>Monstra le traductiones alternative que tu ha create pro segmentos repetite in le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21930,6 +21962,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T042357Z">
         <seg>Cata uno pote esser usate como le fonte o le destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232703Z" creationid="Melo46" creationdate="20250221T232703Z">
+        <seg>Actualisar al ultime JDK 1.6, o remover le files jaxb-*.jarra del plica /lib de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26215,10 +26255,26 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232429Z" creationid="Melo46" creationdate="20250221T232429Z">
+        <seg>Ir a segmento fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GoTo Menu</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T053751Z">
         <seg>Vade al Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232829Z" creationid="Melo46" creationdate="20250221T232829Z">
+        <seg>Clave API de Google non disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31928,6 +31984,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232531Z" creationid="Melo46" creationdate="20250221T232531Z">
+        <seg>Inserer le concordantia o le selection in le traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing &amp;Tags</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T093005Z" creationid="Melo46" creationdate="20250219T093005Z">
@@ -35601,6 +35665,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232811Z" creationid="Melo46" creationdate="20250221T232811Z">
+        <seg>Error de motor de traduction automatic({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T135612Z" creationid="Karm46" creationdate="20171115T135612Z">
@@ -38241,6 +38313,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084307Z">
         <seg>nulle nove dictionarios disponibile al server remote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232335Z" creationid="Melo46" creationdate="20250221T232335Z">
+        <seg>Necun nove lingua disponibile al servitor remote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43654,6 +43734,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232345Z" creationid="Melo46" creationdate="20250221T232345Z">
+        <seg>Plugin installator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131219T164910Z" creationid="MELO46" creationdate="20131219T164910Z">
@@ -48884,6 +48972,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232417Z" creationid="Melo46" creationdate="20250221T232417Z">
+        <seg>Selige un file plugin (*.jarra, *.zip)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T093856Z" creationid="Melo46" creationdate="20200726T093856Z">
@@ -48992,6 +49088,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T182022Z">
         <seg>Selige le copia de reserva del memoria de traduction que es le plus probabile a continer le data pro le qual tu quere - per exemplo le plus recente, o le ultime version ex le die precedente </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232313Z" creationid="Melo46" creationdate="20250221T232313Z">
+        <seg>Selige le linguas desiderate e clicca Installar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57553,6 +57657,22 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232003Z" creationid="Melo46" creationdate="20250221T232003Z">
+        <seg>Le plica pro dictionarios orthographic specificate non pote esser usate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232059Z" creationid="Melo46" creationdate="20250221T232059Z">
+        <seg>Le plica pro dictionarios orthographic specificate non existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151014T065459Z" creationid="Melo46" creationdate="20151014T065459Z">
@@ -63494,6 +63614,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232131Z" creationid="Melo46" creationdate="20250221T232131Z">
+        <seg>Re-tentar plus tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying with backup file</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T173103Z" creationid="will" creationdate="20230324T173103Z">
@@ -65412,6 +65540,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180927T171253Z" creationid="karm46" creationdate="20180927T171253Z">
         <seg>Nomine del usator o clave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T232855Z" creationid="Melo46" creationdate="20250221T232855Z">
+        <seg>Nomine de usator o Clave API:</seg>
       </tuv>
     </tu>
     <tu>
