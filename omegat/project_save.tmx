@@ -910,6 +910,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T174915Z" creationid="Melo46" creationdate="20250221T174915Z">
+        <seg>&amp;Controlar problemas exiente ab un segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T115644Z" creationid="karm46" creationdate="20180424T115644Z">
@@ -994,6 +1002,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T074703Z">
         <seg>Non (&amp;Do not) controlar le variabiles de function printf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173901Z" creationid="Melo46" creationdate="20250221T173901Z">
+        <seg>(&amp;D)Non inserer le texto fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1440,8 +1456,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T084210Z">
-        <seg>&amp;Move a basso</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173652Z">
+        <seg>&amp;Mover a basso</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +2002,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081058Z">
         <seg>&amp;Statistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T174643Z" creationid="Melo46" creationdate="20250221T174643Z">
+        <seg>&amp;Stoppa a segmentos non traducite o ha traductiones alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -12010,6 +12034,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173628Z" creationid="Melo46" creationdate="20250221T173628Z">
+        <seg>Tote le parametros que concorda con le lingua fonte del projecto es applicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060036Z" creationid="will" creationdate="20230315T060036Z">
@@ -13600,6 +13632,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T174758Z" creationid="Melo46" creationdate="20250221T174758Z">
+        <seg>Tentar de reimplaciar &amp;numeros in concordantia partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084945Z">
@@ -14504,6 +14544,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083731Z">
         <seg>Interruption/Exception</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173316Z" creationid="Melo46" creationdate="20250221T173316Z">
+        <seg>Interruption/exception</seg>
       </tuv>
     </tu>
     <tu>
@@ -21372,6 +21420,14 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T174604Z" creationid="Melo46" creationdate="20250221T174604Z">
+        <seg>E&amp;xportar le segmento a un file de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T225806Z" creationid="Karm46" creationdate="20170911T225806Z">
@@ -25691,6 +25747,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T144449Z" creationid="Melo46" creationdate="20250221T144449Z">
         <seg>Filtros de file mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173408Z" creationid="Melo46" creationdate="20250221T173408Z">
+        <seg>Regulas de segmentation mundial</seg>
       </tuv>
     </tu>
     <tu>
@@ -31632,6 +31696,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T175112Z" creationid="Melo46" creationdate="20250221T175112Z">
+        <seg>numero initial del segmentos cargate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T165539Z" creationid="will" creationdate="20230316T165539Z">
@@ -34037,6 +34109,22 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173242Z" creationid="Melo46" creationdate="20250221T173242Z">
+        <seg>Schema linguistic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173740Z" creationid="Melo46" creationdate="20250221T173740Z">
+        <seg>Parametros de lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T101344Z" creationid="Karm46" creationdate="20170914T101344Z">
@@ -35085,6 +35173,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T170911Z" creationid="will" creationdate="20230324T170911Z">
         <seg>Regulas local de segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173518Z" creationid="Melo46" creationdate="20250221T173518Z">
+        <seg>Regulas de segmentation local</seg>
       </tuv>
     </tu>
     <tu>
@@ -36679,6 +36775,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T061932Z" creationid="MELO46" creationdate="20140106T061932Z">
         <seg>Miscer lineas de character RTL e LTR in le segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173647Z" creationid="Melo46" creationdate="20250221T173647Z">
+        <seg>Mo&amp;ver in alto</seg>
       </tuv>
     </tu>
     <tu>
@@ -38784,6 +38888,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T214550Z">
         <seg>Nota: le arrangiamento del codification del file fonte affice solmente le files HTML que non contine declaration de codification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173109Z" creationid="Melo46" creationdate="20250221T173109Z">
+        <seg>Nota: Le configuration del codification del file fonte solo affice files HHC e HHK sin declaration de codification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42729,6 +42841,22 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083732Z">
         <seg>Schema ante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173346Z" creationid="Melo46" creationdate="20250221T173346Z">
+        <seg>Modello post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173333Z" creationid="Melo46" creationdate="20250221T173333Z">
+        <seg>Modello ante</seg>
       </tuv>
     </tu>
     <tu>
@@ -47015,6 +47143,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T174935Z" creationid="Melo46" creationdate="20250221T174935Z">
+        <seg>Salvar le origine del &amp;traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save the PDF.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T092941Z">
@@ -49040,6 +49176,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T234025Z" creationid="MELO46" creationdate="20140106T234025Z">
         <seg>Prefixa un segmento post "。" (periodo japonese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173813Z" creationid="Melo46" creationdate="20250221T173813Z">
+        <seg>Contento del parametro</seg>
       </tuv>
     </tu>
     <tu>
@@ -69287,6 +69431,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T081009Z" creationid="Karm46" creationdate="20170909T235410Z">
         <seg>Tu documentos e tu memorias de traduction remane sur tu computator, e le projecto OmegaT habera nulle accesso a tu labor o a tu informationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T173823Z" creationid="Melo46" creationdate="20250221T173823Z">
+        <seg>Tu nomine/ID sole identificar tu traductiones.</seg>
       </tuv>
     </tu>
     <tu>
