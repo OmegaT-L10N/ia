@@ -4006,6 +4006,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230922Z" creationid="Melo46" creationdate="20250222T230922Z">
+        <seg>/Applicationes/OmegaT.app/Contentos/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181209Z">
@@ -4026,6 +4034,14 @@ configurationes del projecto).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181213Z">
         <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230907Z" creationid="Melo46" creationdate="20250222T230907Z">
+        <seg>/optar/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -15426,6 +15442,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230451Z" creationid="Melo46" creationdate="20250222T230451Z">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130520T130912Z">
@@ -21334,6 +21358,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Docking Framework version: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230726Z" creationid="Melo46" creationdate="20250222T230726Z">
+        <seg>Version de quadro de bassino: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation authoring</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T184413Z">
@@ -23085,6 +23117,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error load dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230315Z" creationid="Melo46" creationdate="20250222T230315Z">
+        <seg>Error cargante le dictionario ab '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082733Z">
@@ -23161,6 +23201,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T234401Z" creationid="Melo46" creationdate="20250221T234401Z">
         <seg>Error recuperante {0} como files del projecto remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving ignore words"</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230341Z" creationid="Melo46" creationdate="20250222T230341Z">
+        <seg>Error salvante parolas ignorate"</seg>
       </tuv>
     </tu>
     <tu>
@@ -23676,6 +23724,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T073814Z">
         <seg>Exeque iste file, e OmegaT deberea ora lancear  con le function tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing command: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230234Z" creationid="Melo46" creationdate="20250222T230234Z">
+        <seg>Execution del commando: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24260,6 +24316,16 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T093147Z" creationid="Melo46" creationdate="20250219T093147Z">
         <seg>Impossibile cargar memoria de traduction {0} pro le projecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230630Z" creationid="Melo46" creationdate="20250222T230630Z">
+        <seg>Impossibile cargar memoria de traduction: {0}
+Alcun attributos ha valores non valide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27127,6 +27193,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130606T043930Z">
         <seg>Google generara tu clave API, un linea con approximativemente  39 characteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got directory/file open error.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230906Z" creationid="Melo46" creationdate="20250222T230906Z">
+        <seg>Recipite error de apertura plica/file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36261,6 +36335,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loaded dictionary from '{0}': {1} ms</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230250Z" creationid="Melo46" creationdate="20250222T230250Z">
+        <seg>Cargate dictionario ab '{0}': {1} ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085143Z">
@@ -39005,6 +39087,22 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T231405Z">
         <seg>Inutile dicer que nos prefererea usar OmegaT pro le labor de localisation de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225931Z" creationid="Melo46" creationdate="20250222T225931Z">
+        <seg>Negotiate pro LanguageTool lingua fonte: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225959Z" creationid="Melo46" creationdate="20250222T225959Z">
+        <seg>Negotiate pro LanguageTool lingua de destination: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -50652,6 +50750,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225907Z" creationid="Melo46" creationdate="20250222T225907Z">
+        <seg>Seligite pro LanguageTool lingua de destination: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected options:</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T120559Z" creationid="karm46" creationdate="20180424T120559Z">
@@ -52444,6 +52550,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230051Z" creationid="Melo46" creationdate="20250222T230051Z">
+        <seg>Tokenizer fonte: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230323T170907Z" creationid="will" creationdate="20230323T170907Z">
@@ -52546,6 +52660,14 @@ can do so.</seg>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T074320Z" creationid="Melo46" creationdate="20250222T074320Z">
         <seg>Le insimules specific deberea esser ponite supra le insimules general:
 "FR-CA" deberea esser supra "FR.*", que deberea esser supra ".*".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specified UNKNOWN file type for statistics.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230807Z" creationid="Melo46" creationdate="20250222T230807Z">
+        <seg>Typo de file pro statistica INCOGNITE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54220,6 +54342,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T070551Z">
         <seg>Texto final del concordantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230134Z" creationid="Melo46" creationdate="20250222T230134Z">
+        <seg>Tokenizer de destination: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -72198,6 +72328,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>aborted."</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230814Z" creationid="Melo46" creationdate="20250222T230814Z">
+        <seg>abortate."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>additional terms, to the whole of the work, and all its parts,</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144601Z">
@@ -72570,6 +72708,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132325Z">
         <seg>ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230446Z" creationid="Melo46" creationdate="20250222T230446Z">
+        <seg>exception de mal position cambiante majuscule/minuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -79734,6 +79880,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T184028Z" creationid="will" creationdate="20230302T184028Z">
         <seg>accesso del usator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using segmentation rules from {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T230017Z" creationid="Melo46" creationdate="20250222T230017Z">
+        <seg>usante regulas de segmentation de {0}</seg>
       </tuv>
     </tu>
     <tu>
