@@ -51394,6 +51394,16 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T074320Z" creationid="Melo46" creationdate="20250222T074320Z">
+        <seg>Le insimules specific deberea esser ponite supra le insimules general:
+"FR-CA" deberea esser supra "FR.*", que deberea esser supra ".*".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171113T191951Z" creationid="Karm46" creationdate="20171113T191951Z">
