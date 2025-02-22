@@ -1334,6 +1334,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081349Z" creationid="Melo46" creationdate="20250222T081349Z">
+        <seg>&amp;Installar un nove lingua...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T211830Z" creationid="Karm46" creationdate="20170929T211830Z">
@@ -20756,6 +20764,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081046Z" creationid="Melo46" creationdate="20250222T081046Z">
+        <seg>Monstra le traduction del segmento actual fornite per le servicios de traduction automatic seligite in Preferentias &gt; Traduction automatic si ille servicios es disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T075649Z" creationid="Karm46" creationdate="20170911T230822Z">
@@ -36867,10 +36883,50 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081622Z" creationid="Melo46" creationdate="20250222T081622Z">
+        <seg>Concordantias modificate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T180906Z" creationid="Melo46" creationdate="20250221T180653Z">
         <seg>Le concordantias venir de tu actual traduction o del files de referentia ubicate in le plica /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081815Z" creationid="Melo46" creationdate="20250222T081815Z">
+        <seg>Concordantias delite active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081836Z" creationid="Melo46" creationdate="20250222T081836Z">
+        <seg>Concordantias delite inactive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081759Z" creationid="Melo46" creationdate="20250222T081722Z">
+        <seg>Concordantias inserite active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081743Z" creationid="Melo46" creationdate="20250222T081743Z">
+        <seg>Concordantias inserite inactive</seg>
       </tuv>
     </tu>
     <tu>
@@ -36887,6 +36943,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T082324Z">
         <seg>Preparation del Quadro del concordantias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081653Z" creationid="Melo46" creationdate="20250222T081653Z">
+        <seg>Concordantias inalterate</seg>
       </tuv>
     </tu>
     <tu>
@@ -37693,8 +37757,8 @@ Perdite in paradiso</seg>
       <tuv lang="en">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="ia" changeid="Karm46" changedate="20171125T195746Z" creationid="Melo46" creationdate="20151009T165644Z">
-        <seg>Mover al fundo (&amp;Last)</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080257Z" creationid="Melo46" creationdate="20151009T165644Z">
+        <seg>Mover al u&amp;Ltime</seg>
       </tuv>
     </tu>
     <tu>
@@ -37709,8 +37773,8 @@ Perdite in paradiso</seg>
       <tuv lang="en">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T084212Z">
-        <seg>Move a basso (Do&amp;wn)</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080311Z">
+        <seg>Mover a basso (Do&amp;wn)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37723,10 +37787,18 @@ Perdite in paradiso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080203Z" creationid="Melo46" creationdate="20250222T080203Z">
+        <seg>Mover a pr&amp;ime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130627T084205Z">
-        <seg>Move in alto (U&amp;p)</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080342Z">
+        <seg>Mover in alto (U&amp;p)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39618,6 +39690,14 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080957Z" creationid="Melo46" creationdate="20250222T080957Z">
+        <seg>Notifica alsi me si il non ha alcun resultato del recerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T222927Z" creationid="Melo46" creationdate="20160729T222927Z">
@@ -41324,6 +41404,18 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T133948Z" creationid="Karm46" creationdate="20171115T133948Z">
         <seg>Videos re OmegaT sur le canal YouTube de Qabiria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081323Z" creationid="Melo46" creationdate="20250222T081323Z">
+        <seg>A OmegaT era refusate accesso al systema proprietate que contine
+le nomine de tu systema operative e/o le proprietate de systema que contine
+tu plica principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50310,6 +50402,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080512Z" creationid="Melo46" creationdate="20250222T080512Z">
+        <seg>Simplificar suggestiones pro &amp;tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify the original text</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130808T123541Z">
@@ -50902,6 +51002,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T164418Z" creationid="Karm46" creationdate="20170929T164418Z">
         <seg>Ordina per texto plen (&amp;full), non via breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080853Z" creationid="Melo46" creationdate="20250222T080853Z">
+        <seg>Ordinar per longor de termino de destination</seg>
       </tuv>
     </tu>
     <tu>
@@ -64271,6 +64379,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081419Z" creationid="Melo46" creationdate="20250222T081419Z">
+        <seg>URL de dictionarios orthographic discargabile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084302Z">
@@ -65335,6 +65451,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T094214Z" creationid="will" creationdate="20230322T094214Z">
         <seg>Usar fonte de reserva aggressive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T080818Z" creationid="Melo46" creationdate="20250222T080818Z">
+        <seg>Pro adder nove entratas, usar Crear entrata de glossario in le menu Rediger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68641,8 +68765,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250221T182713Z" creationid="Melo46" creationdate="20250221T182713Z">
-        <seg>Tu dele le dictionario orthographic que tu projecto actualmente usa.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081521Z" creationid="Melo46" creationdate="20250221T182713Z">
+        <seg>Tu va deler le dictionario orthographic que tu projecto actualmente usa.</seg>
       </tuv>
     </tu>
     <tu>
