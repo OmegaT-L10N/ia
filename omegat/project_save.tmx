@@ -11892,6 +11892,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T083840Z" creationid="Melo46" creationdate="20250222T083840Z">
+        <seg>Gruppo de alineamento "Acceptate"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T231803Z" creationid="Melo46" creationdate="20160729T231803Z">
@@ -39676,8 +39684,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Notification (steady)</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20160729T222027Z" creationid="Melo46" creationdate="20160729T222027Z">
-        <seg>Notification (firme)</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T083726Z" creationid="Melo46" creationdate="20250222T083726Z">
+        <seg>Aviso (fixe)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48297,6 +48305,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081932Z" creationid="Melo46" creationdate="20250222T081932Z">
+        <seg>Texto cercate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230408T175644Z">
@@ -48333,6 +48349,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094548Z">
         <seg>Recerca le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T081951Z" creationid="Melo46" creationdate="20250222T081951Z">
+        <seg>Tecto supplantate</seg>
       </tuv>
     </tu>
     <tu>
