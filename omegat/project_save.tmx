@@ -16634,6 +16634,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose ngram dir</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222339Z" creationid="Melo46" creationdate="20250222T222339Z">
+        <seg>Seliger plica de ngram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the .png file type</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130515T073718Z">
@@ -17730,6 +17738,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console alignment mode</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223400Z" creationid="Melo46" creationdate="20250222T223400Z">
+        <seg>Modo consola pro alineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console mode names and their options:</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230317T055626Z" creationid="will" creationdate="20230317T055608Z">
@@ -17742,6 +17758,30 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230317T062209Z" creationid="will" creationdate="20230317T062209Z">
         <seg>Consola solo optiones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console project stats mode</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222946Z" creationid="Melo46" creationdate="20250222T222946Z">
+        <seg>modo consola pro statistica de projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console pseudo-translate mode</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223239Z" creationid="Melo46" creationdate="20250222T223239Z">
+        <seg>modo consola pro pseudo-traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console translation mode</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222757Z" creationid="Melo46" creationdate="20250222T222757Z">
+        <seg>Modo consola pro traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -19631,6 +19671,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom Spelling Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222129Z" creationid="Melo46" creationdate="20250222T222129Z">
+        <seg>Plica del files dictionario orthographic personalisate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom branch</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T233947Z" creationid="Melo46" creationdate="20250221T233947Z">
@@ -21284,6 +21332,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does specified directory exist?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223113Z" creationid="Melo46" creationdate="20250222T223113Z">
+        <seg>An le plica specificate existe?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T102430Z">
@@ -22751,10 +22807,26 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223851Z" creationid="Melo46" creationdate="20250222T223851Z">
+        <seg>Insere le nomine de usator pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter username/password for {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T225637Z" creationid="Melo46" creationdate="20250219T225637Z">
         <seg>Inserer le nomine de usator/contrasigno pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223617Z" creationid="Melo46" creationdate="20250222T223617Z">
+        <seg>Insere tu credentiales pro {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32442,6 +32514,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223649Z" creationid="Melo46" creationdate="20250222T223649Z">
+        <seg>Nomine de usator/contrasigno errate pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230306T091217Z" creationid="will" creationdate="20230306T091217Z">
@@ -35071,6 +35151,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool ngrams model</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222310Z" creationid="Melo46" creationdate="20250222T222310Z">
+        <seg>Modello ngrams pro LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool plug-in</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T105435Z">
@@ -35099,6 +35187,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T094044Z" creationid="Karm46" creationdate="20170914T094044Z">
         <seg>Servitor de LanguageTool terminate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool server: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222156Z" creationid="Melo46" creationdate="20250222T222156Z">
+        <seg>Servitor de LanguageTool: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36387,10 +36483,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error happened</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223542Z" creationid="Melo46" creationdate="20250222T223542Z">
+        <seg>Un error de motor de traduction automatic eveniva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T232811Z" creationid="Melo46" creationdate="20250221T232811Z">
         <seg>Error de motor de traduction automatic({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT({0}) report error {1}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223434Z" creationid="Melo46" creationdate="20250222T223434Z">
+        <seg>Traduction automatic({0}) - reportar error {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39091,6 +39203,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085329Z">
         <seg>Nulle connexion disponibile, le projecto es in modo off-line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No console found.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223608Z" creationid="Melo46" creationdate="20250222T223608Z">
+        <seg>Necun consola trovate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50042,6 +50162,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar) or a zip archive (*.zip) that contains a plugin jar file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222533Z" creationid="Melo46" creationdate="20250222T222533Z">
+        <seg>Seliger un file plugin (*.jar) o un archivo zip (*.zip) que contine un file jar plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T232417Z" creationid="Melo46" creationdate="20250221T232417Z">
@@ -50118,6 +50246,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T084640Z">
         <seg>Selige concordantia #N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select ngrams folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T222228Z" creationid="Melo46" creationdate="20250222T222228Z">
+        <seg>Seliger le plica ngrams</seg>
       </tuv>
     </tu>
     <tu>
@@ -66911,6 +67047,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T232855Z" creationid="Melo46" creationdate="20250221T232855Z">
         <seg>Nomine de usator o Clave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or password has extra space character(s)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223846Z" creationid="Melo46" creationdate="20250222T223846Z">
+        <seg>Le nomine de usator o le contrasigno contine character(es) de spatio superflue</seg>
       </tuv>
     </tu>
     <tu>
