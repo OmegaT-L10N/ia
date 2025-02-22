@@ -1294,6 +1294,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122350Z" creationid="Melo46" creationdate="20250222T122350Z">
+        <seg>&amp;Ignorar le concordantias con majuscule/minuscule multo differente (p. ex. FOO contra foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T091222Z" creationid="MELO46" creationdate="20140228T091222Z">
@@ -1394,6 +1402,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T100625Z" creationid="Karm46" creationdate="20170914T100625Z">
         <seg>&amp;Lancear le servitor local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122516Z" creationid="Melo46" creationdate="20250222T122516Z">
+        <seg>&amp;arrangiamento in pagina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35859,6 +35875,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T124540Z" creationid="Melo46" creationdate="20250222T124540Z">
+        <seg>Le commandos local del projecto es disactivate pro rationes de securitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170927T133237Z">
@@ -36971,6 +36995,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122040Z" creationid="Melo46" creationdate="20250222T122040Z">
+        <seg>Facer concordar gruppos de terminos mesmo si le terminos appare separatemente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T120520Z" creationid="Melo46" creationdate="20160729T223433Z">
@@ -37265,6 +37297,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T084130Z" creationid="Melo46" creationdate="20210220T084130Z">
         <seg>Misce definitiones alternative pro le mesme termino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122431Z" creationid="Melo46" creationdate="20250222T122431Z">
+        <seg>Miscer definitiones alternative del mesme termino</seg>
       </tuv>
     </tu>
     <tu>
@@ -46939,6 +46979,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122233Z" creationid="Melo46" creationdate="20250222T122233Z">
+        <seg>Reimplaciar le concordantias inserente texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T205224Z" creationid="Melo" creationdate="20151125T205224Z">
@@ -48389,6 +48437,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T210245Z" creationid="MELO46" creationdate="20140629T210245Z">
         <seg>Cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122609Z" creationid="Melo46" creationdate="20250222T122609Z">
+        <seg>Cercar &amp;automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -65551,6 +65607,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122659Z" creationid="Melo46" creationdate="20250222T122659Z">
+        <seg>Usar vision &amp;Compacte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T094434Z" creationid="will" creationdate="20230322T094434Z">
@@ -65599,10 +65663,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122600Z" creationid="Melo46" creationdate="20250222T122600Z">
+        <seg>Usar concordantias partial(&amp;f)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T170221Z" creationid="ia" creationdate="20170909T170221Z">
         <seg>Usar le concordantia partial (&amp;Fuzzy) pro le entratas del dictionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T122109Z" creationid="Melo46" creationdate="20250222T122109Z">
+        <seg>Usar recerca del radice&amp;s</seg>
       </tuv>
     </tu>
     <tu>
