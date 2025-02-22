@@ -12250,6 +12250,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T125816Z" creationid="Melo46" creationdate="20250222T125816Z">
+        <seg>Permitter commandos de recerca externe local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow tag editing</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T091358Z">
@@ -17731,6 +17739,14 @@ passos additional debe esser prendite.</seg>
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T122223Z" creationid="Karm46" creationdate="20171113T191924Z">
+        <seg>Prioritate del menu contextual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T125907Z" creationid="Melo46" creationdate="20250222T125907Z">
         <seg>Prioritate del menu contextual:</seg>
       </tuv>
     </tu>
@@ -26225,6 +26241,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T125610Z" creationid="Melo46" creationdate="20250222T125610Z">
+        <seg>Recercas externe mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T094731Z" creationid="will" creationdate="20230322T094731Z">
@@ -26573,6 +26597,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T171241Z" creationid="Karm46" creationdate="20171001T171241Z">
         <seg>Vade a Preferentias &gt; Recerca externe a activar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T124741Z" creationid="Melo46" creationdate="20250222T124741Z">
+        <seg>Ir a Preferentias &gt; Recercas externe mundial pro activar los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31271,6 +31303,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T125724Z" creationid="Melo46" creationdate="20250222T125724Z">
+        <seg>In le editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T133724Z">
@@ -35783,6 +35823,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T172440Z" creationid="will" creationdate="20230324T172440Z">
         <seg>Recercas externe local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T125703Z" creationid="Melo46" creationdate="20250222T125703Z">
+        <seg>Recerca externe local</seg>
       </tuv>
     </tu>
     <tu>
