@@ -11908,6 +11908,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T083915Z" creationid="Melo46" creationdate="20250222T083915Z">
+        <seg>Gruppo de alineamento "Besonia de revision"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner Highlight</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T064010Z" creationid="Melo46" creationdate="20160729T231913Z">
@@ -11920,6 +11928,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T064114Z" creationid="melo" creationdate="20160813T064114Z">
         <seg>In evidentia le riga del tabella del alineator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T083958Z" creationid="Melo46" creationdate="20250222T083958Z">
+        <seg>evidentia de alineamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -34239,6 +34255,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084257Z" creationid="Melo46" creationdate="20250222T084257Z">
+        <seg>Mantener version remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T222809Z" creationid="Melo46" creationdate="20250219T222809Z">
@@ -34251,6 +34275,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230306T085506Z" creationid="will" creationdate="20230306T085506Z">
         <seg>Mantener Unicode literales (\\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084236Z" creationid="Melo46" creationdate="20250222T084236Z">
+        <seg>Mantener mi version</seg>
       </tuv>
     </tu>
     <tu>
@@ -36095,6 +36127,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095052Z">
         <seg>Quadro del Traductiones automatic (MT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084116Z" creationid="Melo46" creationdate="20250222T084116Z">
+        <seg>Evidentia de traduction automatic</seg>
       </tuv>
     </tu>
     <tu>
@@ -42823,6 +42863,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084204Z" creationid="Melo46" creationdate="20250222T084146Z">
+        <seg>Version original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T064723Z">
@@ -46314,6 +46362,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084320Z" creationid="Melo46" creationdate="20250222T084320Z">
+        <seg>Version remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Removal of these codes is described below.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T081117Z">
@@ -49474,6 +49530,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084339Z" creationid="Melo46" creationdate="20250222T084339Z">
+        <seg>Selige version appropriate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T082802Z" creationid="Karm46" creationdate="20171001T082802Z">
@@ -49654,6 +49718,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T082441Z">
         <seg>Selige tu macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084405Z" creationid="Melo46" creationdate="20250222T084405Z">
+        <seg>Selige tu version, le version original o le version remote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70496,6 +70568,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230317T080905Z" creationid="will" creationdate="20230317T080905Z">
         <seg>Il sembla que tu projecto non contine files traducibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T084154Z" creationid="Melo46" creationdate="20250222T084154Z">
+        <seg>Tu version</seg>
       </tuv>
     </tu>
     <tu>
