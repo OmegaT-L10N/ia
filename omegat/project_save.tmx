@@ -16210,6 +16210,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the omegat directory of the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073533Z" creationid="Melo46" creationdate="20250222T073533Z">
+        <seg>Verifica le plica \omegat del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the permissions of {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073149Z" creationid="Melo46" creationdate="20250222T073149Z">
+        <seg>Verifica le permissos de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T234803Z" creationid="Melo46" creationdate="20250221T234803Z">
@@ -19555,6 +19571,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100142Z">
         <seg>Danese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072236Z" creationid="Melo46" creationdate="20250222T072236Z">
+        <seg>Thema obscur:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23107,6 +23131,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073931Z" creationid="Melo46" creationdate="20250222T073931Z">
+        <seg>Exception analysante "project_save.tmx":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082506Z">
@@ -23558,10 +23590,26 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073544Z" creationid="Melo46" creationdate="20250222T073544Z">
+        <seg>Falta a inviar files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230328T090718Z" creationid="Karm46" creationdate="20171113T190310Z">
         <seg>Falleva de committer le files de destination!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073604Z" creationid="Melo46" creationdate="20250222T073604Z">
+        <seg>Falta a inviar files de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23594,6 +23642,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230328T090638Z" creationid="will" creationdate="20230322T095546Z">
         <seg>Falleva de crear le files traducite!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073539Z" creationid="Melo46" creationdate="20250222T073539Z">
+        <seg>Falta a crear le files traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23646,10 +23702,26 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073434Z" creationid="Melo46" creationdate="20250222T073434Z">
+        <seg>Falta a cargar le projecto per file corrupte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the specified project!</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T093248Z" creationid="Melo46" creationdate="20250219T093248Z">
         <seg>Impossibile cargar le projecto specificate!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073252Z" creationid="Melo46" creationdate="20250222T073252Z">
+        <seg>Falta a cargar le projecto specificate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25825,6 +25897,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072000Z" creationid="Melo46" creationdate="20250222T072000Z">
+        <seg>VA!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T065508Z">
@@ -27049,6 +27129,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T092339Z" creationid="will" creationdate="20230322T092339Z">
         <seg>Marcar segmentos con notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Alternative Translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072145Z" creationid="Melo46" creationdate="20250222T072145Z">
+        <seg>Evidentiar segmentos con traductiones alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -32756,6 +32844,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid link: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072459Z" creationid="Melo46" creationdate="20250222T072459Z">
+        <seg>Ligamine non valide: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T234145Z" creationid="Melo46" creationdate="20160728T234145Z">
@@ -33770,6 +33866,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T135026Z" creationid="Karm46" creationdate="20171115T135026Z">
         <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073822Z" creationid="Melo46" creationdate="20250222T073822Z">
+        <seg>JSON</seg>
       </tuv>
     </tu>
     <tu>
@@ -35227,6 +35331,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072231Z" creationid="Melo46" creationdate="20250222T072231Z">
+        <seg>Thema clar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Like OpenOffice.org files, these file formats can be translated in OmegaT with very little risk of corruption.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130529T211727Z">
@@ -35431,6 +35543,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T192902Z">
         <seg>Carga un script in le editor cliccante sur su nomine in le lista sur le quadro sinistre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073802Z" creationid="Melo46" creationdate="20250222T073802Z">
+        <seg>Cargamento del files fonte del projecto: {0} ms</seg>
       </tuv>
     </tu>
     <tu>
@@ -44894,6 +45014,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072006Z" creationid="Melo46" creationdate="20250222T072006Z">
+        <seg>Files del projecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project folder</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T202249Z" creationid="Melo46" creationdate="20200726T202249Z">
@@ -45102,6 +45230,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144548Z">
         <seg>Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072028Z" creationid="Melo46" creationdate="20250222T072028Z">
+        <seg>Le URL fornite non es valide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49102,6 +49238,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T071931Z" creationid="Melo46" creationdate="20250222T071931Z">
+        <seg>Selige le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Scripts Folder</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T001250Z" creationid="Melo46" creationdate="20160729T001250Z">
@@ -50346,6 +50490,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T071803Z">
         <seg>Ignorar le concordantia del texto del expression regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files due to an access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072658Z" creationid="Melo46" creationdate="20250222T072658Z">
+        <seg>Saltate un o plus files fonte per un error de permisso de accesso in le fonte plica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52116,6 +52268,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T094314Z" creationid="Karm46" creationdate="20170914T094314Z">
         <seg>Cambio al version incorporate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072402Z" creationid="Melo46" creationdate="20250222T072402Z">
+        <seg>Synchronisar con preferentia del colores de systema operative</seg>
       </tuv>
     </tu>
     <tu>
@@ -64037,6 +64197,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072228Z" creationid="Melo46" creationdate="20250222T072228Z">
+        <seg>Stilo del interfacie usator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UNL</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T072440Z" creationid="Melo46" creationdate="20200726T072440Z">
@@ -64049,6 +64217,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160812T162926Z" creationid="melo" creationdate="20160812T162926Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T072104Z" creationid="Melo46" creationdate="20250222T072104Z">
+        <seg>Error in le URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -65205,6 +65381,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T095906Z" creationid="will" creationdate="20230322T095906Z">
         <seg>Usar Instrumentos &gt; Controlar le problemas... pro corriger le errores de tags e probar de novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073249Z" creationid="Melo46" creationdate="20250222T073249Z">
+        <seg>Usa un utensile de validation de TMX pro trovar e reparar los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68272,6 +68456,14 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T144534Z">
         <seg>XLIFF es le formato de file bilingue standard del industria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T073819Z" creationid="Melo46" creationdate="20250222T073819Z">
+        <seg>XML</seg>
       </tuv>
     </tu>
     <tu>
