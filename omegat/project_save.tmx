@@ -10966,6 +10966,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224221Z" creationid="Melo46" creationdate="20250222T224221Z">
+        <seg>Abortante...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags are invalid.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T060229Z" creationid="Melo46" creationdate="20250219T060229Z">
@@ -12514,6 +12522,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative translation highlight</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224907Z" creationid="Melo46" creationdate="20250222T224907Z">
+        <seg>Evidentia del traductiones alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T155244Z" creationid="Karm46" creationdate="20171128T154613Z">
@@ -13324,6 +13340,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply to all repositories on host {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224234Z" creationid="Melo46" creationdate="20250222T224234Z">
+        <seg>Applicar a tote le repositorios sur hoste {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144608Z">
@@ -13676,6 +13700,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T181420Z">
         <seg>Quando tu rende tu files, &lt;a0&gt;OmegaT&lt;/a0&gt; registra tu labor a omne instante in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in le sub plica del projecto /&lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224145Z" creationid="Melo46" creationdate="20250222T224145Z">
+        <seg>Demandar de novo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15442,6 +15474,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't read spelling dictionary: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225816Z" creationid="Melo46" creationdate="20250222T225816Z">
+        <seg>Impossibile leger le dictionario orthographic: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T000751Z" creationid="Melo46" creationdate="20160729T000751Z">
@@ -15502,6 +15542,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T130921Z" creationid="Melo46" creationdate="20250222T130921Z">
         <seg>Impossibile trovar le file executabile GPG sur le $PATH bash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get the correct answer.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224201Z" creationid="Melo46" creationdate="20250222T224201Z">
+        <seg>Impossibile obtener le responsa correcte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19599,6 +19647,16 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current version: {1}
+New version: {2}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225059Z" creationid="Melo46" creationdate="20250222T225059Z">
+        <seg>Version actual: {1}
+Nove version: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T191533Z">
@@ -22799,6 +22857,22 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the passphrase for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223927Z" creationid="Melo46" creationdate="20250222T223927Z">
+        <seg>Insere le phrase contrasigno pro le clave SSH {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223856Z" creationid="Melo46" creationdate="20250222T223856Z">
+        <seg>Insere le contrasigno pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081424Z">
@@ -23023,6 +23097,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T132504Z" creationid="Melo46" creationdate="20250219T132504Z">
         <seg>Error cargante : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading hunspell: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225745Z" creationid="Melo46" creationdate="20250222T225745Z">
+        <seg>Error cargante hunspell: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23758,6 +23840,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External GPG returns an invalid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225405Z" creationid="Melo46" creationdate="20250222T225405Z">
+        <seg>Le GPG externe retorna un signatura non valide; recipeva: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T172245Z" creationid="ia" creationdate="20170909T172245Z">
@@ -24066,6 +24156,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T073539Z" creationid="Melo46" creationdate="20250222T073539Z">
         <seg>Falta a crear le files traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to decrypt for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224039Z" creationid="Melo46" creationdate="20250222T224039Z">
+        <seg>Impossibile decryptar clave SSH{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26105,6 +26203,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From MT memory</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224836Z" creationid="Melo46" creationdate="20250222T224836Z">
+        <seg>Ab memoria de traduction automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From Version 1.7.1 onwards, OmegaT has been able to handle Microsoft Office 2007 files directly, without conversion.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171118T120832Z">
@@ -26477,6 +26583,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T225408Z" creationid="Melo46" creationdate="20250219T225408Z">
         <seg>Aviso de Git: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git: Ignore credentials query: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224341Z" creationid="Melo46" creationdate="20250222T224341Z">
+        <seg>Git: Ignorar demanda de credentiales: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27029,6 +27143,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20211229T144305Z" creationid="will" creationdate="20211229T144305Z">
         <seg>Recipite MIME TYPE impreviste {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224127Z" creationid="Melo46" creationdate="20250222T224127Z">
+        <seg>Recipite entrata impreviste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32514,6 +32636,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password for {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T223931Z" creationid="Melo46" creationdate="20250222T223931Z">
+        <seg>Contrasigno errate pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect username/password for {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T223649Z" creationid="Melo46" creationdate="20250222T223649Z">
@@ -32606,6 +32736,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T165539Z" creationid="will" creationdate="20230316T165539Z">
         <seg>Initialisa un projecto de equipa minime con le linguas specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225740Z" creationid="Melo46" creationdate="20250222T225740Z">
+        <seg>Corrector orthographic LanguageTool Hunspel initialisate pro lingua '{0}' dictionario {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32946,6 +33084,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install Plugin</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224932Z" creationid="Melo46" creationdate="20250222T224932Z">
+        <seg>Installar Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T191646Z">
@@ -32986,6 +33132,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install the {0} {1} plugin?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225135Z" creationid="Melo46" creationdate="20250222T225135Z">
+        <seg>Installar le plugin {0} {1}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T134940Z" creationid="Karm46" creationdate="20171115T134940Z">
@@ -32998,6 +33152,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T185407Z">
         <seg>Installation e uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225240Z" creationid="Melo46" creationdate="20250222T225240Z">
+        <seg>Installate</seg>
       </tuv>
     </tu>
     <tu>
@@ -39343,6 +39505,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No spell checker found for language {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225525Z" creationid="Melo46" creationdate="20250222T225525Z">
+        <seg>Necun corrector orthographic trovate pro le lingua {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No tags and no numbers</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T215212Z" creationid="Melo" creationdate="20141027T215212Z">
@@ -44788,10 +44958,26 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Name</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225238Z" creationid="Melo46" creationdate="20250222T225238Z">
+        <seg>Nomine del plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin installation failed.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T130509Z" creationid="Melo46" creationdate="20250222T130509Z">
         <seg>Installation de plugin fallite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation successful.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225202Z" creationid="Melo46" creationdate="20250222T225202Z">
+        <seg>Installation de plugin facite con successo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46770,6 +46956,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reinstall the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225118Z" creationid="Melo46" creationdate="20250222T225118Z">
+        <seg>Reinstallar le plugin {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T100512Z">
@@ -47751,6 +47945,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T171915Z" creationid="will" creationdate="20220109T171915Z">
         <seg>Reinitiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to activate it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225210Z" creationid="Melo46" creationdate="20250222T225210Z">
+        <seg>Reinitiar OmegaT pro activar lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50426,10 +50628,26 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225245Z" creationid="Melo46" creationdate="20250222T225245Z">
+        <seg>Seligite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084806Z">
         <seg>Motor seligite: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225900Z" creationid="Melo46" creationdate="20250222T225900Z">
+        <seg>Seligite pro LanguageTool lingua fonte: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -51818,6 +52036,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Source Term Length when two or more terms start with the same characters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224921Z" creationid="Melo46" creationdate="20250222T224921Z">
+        <seg>Ordinar per longor de termino fonte quando duo o plus terminos initia con le mesme characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by Target Term Length</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T080853Z" creationid="Melo46" creationdate="20250222T080853Z">
@@ -52476,6 +52702,22 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling dictionary appears to be empty: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225828Z" creationid="Melo46" creationdate="20250222T225828Z">
+        <seg>Le dictionario orthographic pare esser vacuar: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary exists but is not a file: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225806Z" creationid="Melo46" creationdate="20250222T225806Z">
+        <seg>Le dictionario orthographic existe ma non es un file: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spelling errors(s)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T205108Z" creationid="MELO46" creationdate="20140629T205108Z">
@@ -52680,6 +52922,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081746Z">
         <seg>Statistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics output formats</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224744Z" creationid="Melo46" creationdate="20250222T224744Z">
+        <seg>Formatos de exito del statistica</seg>
       </tuv>
     </tu>
     <tu>
@@ -62099,6 +62349,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option sets the project data saving interval, which also applies to team data synchronization.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224548Z" creationid="Melo46" creationdate="20250222T224548Z">
+        <seg>Iste option defini le intervallo de salvamento del datos del projecto, que alsi se applica al synchronisation de datos del equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T124452Z">
@@ -65983,6 +66241,22 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upgrade Plugin</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T224956Z" creationid="Melo46" creationdate="20250222T224956Z">
+        <seg>Promover plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225010Z" creationid="Melo46" creationdate="20250222T225010Z">
+        <seg>Promover le plugin {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrade/override plugin {0}
 current: {1}
 new version: {2}</seg>
@@ -67570,6 +67844,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T114705Z">
         <seg>Controlo del version - introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version {1} is already installed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T225108Z" creationid="Melo46" creationdate="20250222T225108Z">
+        <seg>Le version {1} es jam installate.</seg>
       </tuv>
     </tu>
     <tu>
