@@ -1798,6 +1798,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132430Z" creationid="Melo46" creationdate="20250222T132430Z">
+        <seg>&amp;Remontar color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T094315Z" creationid="Karm46" creationdate="20171001T094222Z">
@@ -6742,6 +6750,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T172310Z" creationid="Karm46" creationdate="20170929T172310Z">
         <seg>&lt;html&gt;&lt;i&gt;Preferentias&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB pro avantiar&lt;/i&gt; es verificate&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132535Z" creationid="Melo46" creationdate="20250222T132535Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferentias&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Usar clave TAB pro avantiar&lt;/i&gt; es marcate&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11996,6 +12012,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132303Z" creationid="Melo46" creationdate="20250222T132303Z">
+        <seg>Aligner tabula rango evidentia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T204427Z" creationid="Melo46" creationdate="20200726T204427Z">
@@ -12462,6 +12486,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130818T151559Z">
         <seg>On pote seliger locationes alternative pro alicun del plicas al creation del projecto o durante le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132542Z" creationid="Melo46" creationdate="20250222T132542Z">
+        <seg>Alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -14696,6 +14728,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T162545Z">
         <seg>In basso a dextra: le utilitate Priorview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Break</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131939Z" creationid="Melo46" creationdate="20250222T131939Z">
+        <seg>Rumper</seg>
       </tuv>
     </tu>
     <tu>
@@ -23011,6 +23051,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132245Z" creationid="Melo46" creationdate="20250222T132245Z">
+        <seg>Error salvante automaticamente: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while getting output of external program</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T130713Z" creationid="Melo46" creationdate="20250222T130713Z">
@@ -23031,6 +23079,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T163024Z" creationid="Karm46" creationdate="20170914T163024Z">
         <seg>Error durante le lectura del resultatos del traduction automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while reading a TMX file in the project: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T133033Z" creationid="Melo46" creationdate="20250222T133033Z">
+        <seg>Error legente un file TMX in le projecto: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23402,6 +23458,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230328T091945Z" creationid="will" creationdate="20230328T091758Z">
         <seg>Excluder pattern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T151245Z" creationid="Melo46" creationdate="20250222T151245Z">
+        <seg>excludente version vetere de '{0}' ({1}), mantenente {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24018,6 +24082,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082515Z">
         <seg>Error fatal re linea {0}, columna {1} durante le analyse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T133006Z" creationid="Melo46" creationdate="20250222T133006Z">
+        <seg>error fatal analysante file "project_save.tmx" (linea {0}, columna {1}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -51106,6 +51178,18 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped one or more source files
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132653Z" creationid="Melo46" creationdate="20250222T132653Z">
+        <seg>Saltava un o plus files fonte
+perque le plica fonte specificate contine un ligamine symbolic o real
+que puncta retro a se mesme o a un de su subplicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped one or more source files due to an access permission error in the source folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T072658Z" creationid="Melo46" creationdate="20250222T072658Z">
@@ -51514,6 +51598,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T164418Z" creationid="Karm46" creationdate="20170929T164418Z">
         <seg>Ordina per texto plen (&amp;full), non via breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Source Term Length</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132050Z" creationid="Melo46" creationdate="20250222T132050Z">
+        <seg>Ordinar per longor de termino fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -65047,6 +65139,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233423Z" creationid="Melo46" creationdate="20160728T233423Z">
         <seg>Incapace a discargar le projecto de equipa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to get exclusive lock for autosave.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T132139Z" creationid="Melo46" creationdate="20250222T132139Z">
+        <seg>Impossibile obtener le blocada exclusive pro auto-salvar.</seg>
       </tuv>
     </tu>
     <tu>
