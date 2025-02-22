@@ -750,6 +750,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121702Z" creationid="Melo46" creationdate="20250222T121702Z">
+        <seg>(&amp;A)Sempre confirmar le exito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230323T171502Z" creationid="will" creationdate="20230323T171502Z">
@@ -1346,6 +1354,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T211830Z" creationid="Karm46" creationdate="20170929T211830Z">
         <seg>Saltar (&amp;Jump) al segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121053Z" creationid="Melo46" creationdate="20250222T121053Z">
+        <seg>(&amp;J)Saltar al segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -11324,6 +11340,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121108Z" creationid="Melo46" creationdate="20250222T121108Z">
+        <seg>Adder al dictionario: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20190110T165735Z" creationid="MELO46" creationdate="20131219T162818Z">
@@ -12892,6 +12916,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T224613Z" creationid="Melo46" creationdate="20160729T224613Z">
         <seg>Un elemento nominate "{0}" ja existe in iste position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121002Z" creationid="Melo46" creationdate="20250222T121002Z">
+        <seg>Un elemento con le nomine "{0}" jam existe a iste position.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20532,6 +20564,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121856Z" creationid="Melo46" creationdate="20250222T121856Z">
+        <seg>Monstrar le description contextual del &amp;glossarios TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T073512Z">
@@ -21184,6 +21224,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T080715Z">
         <seg>Cliccar duplice le plica con le icone OmegaT es sufficiente a aperir le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121236Z" creationid="Melo46" creationdate="20250222T121236Z">
+        <seg>Controla duo vices e retenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22551,6 +22599,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121119Z" creationid="Melo46" creationdate="20250222T121119Z">
+        <seg>Insere tu contrasigno principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T084543Z" creationid="Karm46" creationdate="20171001T084543Z">
@@ -22563,6 +22619,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z" creationid="MELO46" creationdate="20131226T160720Z">
         <seg>Inscribe ci tu nomine e illo essera alligate a tote le segmentos que tu rendera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121216Z" creationid="Melo46" creationdate="20250222T121216Z">
+        <seg>Insere tu contrasigno ancora pro confirmation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22863,6 +22927,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T050110Z" creationid="Melo46" creationdate="20200726T050110Z">
         <seg>Error actualisante repositorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120923Z" creationid="Melo46" creationdate="20250222T120923Z">
+        <seg>Error cargante le files fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26809,6 +26881,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120358Z" creationid="Melo46" creationdate="20250222T120358Z">
+        <seg>Contine commento, vide Scheda commentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120424Z" creationid="Melo46" creationdate="20250222T120123Z">
+        <seg>Contine nota, vider Bloco-notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Has been tested on Linux.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T215314Z">
@@ -27097,6 +27185,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151125T223410Z" creationid="Melo46" creationdate="20151125T223410Z">
         <seg>Occultar le &amp;Optiones avantiate </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120954Z" creationid="Melo46" creationdate="20250222T120954Z">
+        <seg>Celar le tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -32066,6 +32162,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121203Z" creationid="Melo46" creationdate="20250222T121203Z">
+        <seg>Contrasigno errate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230306T091217Z" creationid="will" creationdate="20230306T091217Z">
@@ -36869,8 +36973,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20160729T223433Z" creationid="Melo46" creationdate="20160729T223433Z">
-        <seg>typo de concordantia</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120520Z" creationid="Melo46" creationdate="20160729T223433Z">
+        <seg>Typo de concordantia</seg>
       </tuv>
     </tu>
     <tu>
@@ -38537,8 +38641,8 @@ position appropriate como le plica Applicationes.</seg>
       <tuv lang="en">
         <seg>No</seg>
       </tuv>
-      <tuv lang="ia">
-        <seg>No</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115929Z">
+        <seg>no</seg>
       </tuv>
     </tu>
     <tu>
@@ -38551,10 +38655,26 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120438Z" creationid="Melo46" creationdate="20250222T120438Z">
+        <seg>Necun commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T212241Z" creationid="Karm46" creationdate="20170929T212241Z">
         <seg>No problemas trovate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120246Z" creationid="Melo46" creationdate="20250222T120246Z">
+        <seg>Necun nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -38936,6 +39056,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100308Z">
         <seg>Norvegian Nynorsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T120504Z" creationid="Melo46" creationdate="20250222T120504Z">
+        <seg>Non alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -46654,6 +46782,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T235823Z" creationid="MELO46" creationdate="20140106T235823Z">
         <seg>Reparar le tags e recrear le documentos de destination es facile con le function Valida tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115917Z" creationid="Melo46" creationdate="20250222T115917Z">
+        <seg>Repetite</seg>
       </tuv>
     </tu>
     <tu>
@@ -57215,6 +57351,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121218Z" creationid="Melo46" creationdate="20250222T121218Z">
+        <seg>Le contrasignos non concorda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The passwords don't match.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T085745Z" creationid="Karm46" creationdate="20171001T085745Z">
@@ -65431,6 +65575,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T121501Z" creationid="Melo46" creationdate="20250222T121501Z">
+        <seg>Usar &amp;TAB pro avantiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T230127Z">
@@ -72980,6 +73132,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115859Z" creationid="Melo46" creationdate="20250222T115859Z">
+        <seg>approximate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fy</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T234400Z">
@@ -75794,6 +75954,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141152Z">
         <seg>nor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115905Z" creationid="Melo46" creationdate="20250222T115905Z">
+        <seg>non approximate</seg>
       </tuv>
     </tu>
     <tu>
