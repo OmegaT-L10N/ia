@@ -49532,8 +49532,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Select appropriate version</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250222T084339Z" creationid="Melo46" creationdate="20250222T084339Z">
-        <seg>Selige version appropriate</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115736Z" creationid="Melo46" creationdate="20250222T084339Z">
+        <seg>Selige le version appropriate</seg>
       </tuv>
     </tu>
     <tu>
@@ -64033,6 +64033,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115807Z" creationid="Melo46" creationdate="20250222T115807Z">
+        <seg>Traduction es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T223053Z" creationid="Melo46" creationdate="20160729T223053Z">
@@ -64975,6 +64983,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T234522Z" creationid="Melo46" creationdate="20160728T234522Z">
         <seg>Typo de plugin incognite '{0}' in '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115801Z" creationid="Melo46" creationdate="20250222T115801Z">
+        <seg>Incognite/Manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -68780,8 +68796,8 @@ Tu pagina non es trovava</seg>
       <tuv lang="en">
         <seg>Yes</seg>
       </tuv>
-      <tuv lang="ia">
-        <seg>Si</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T115840Z">
+        <seg>si</seg>
       </tuv>
     </tu>
     <tu>
