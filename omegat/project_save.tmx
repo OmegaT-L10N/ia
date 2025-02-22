@@ -23464,8 +23464,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250222T151245Z" creationid="Melo46" creationdate="20250222T151245Z">
-        <seg>excludente version vetere de '{0}' ({1}), mantenente {2}</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T151253Z" creationid="Melo46" creationdate="20250222T151245Z">
+        <seg>Excludente version vetere de '{0}' ({1}), mantenente {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23978,6 +23978,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230328T090935Z" creationid="karm46" creationdate="20180927T171627Z">
         <seg>Falleva de reportar informationes del ultime version: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to instantiate filter: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T152005Z" creationid="Melo46" creationdate="20250222T152005Z">
+        <seg>Impossibile activar le filtro: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -50954,6 +50962,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar versions of '{0}' are present ({1} and {2}), keeping the latter</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T151405Z" creationid="Melo46" creationdate="20250222T151248Z">
+        <seg>Versiones simile de '{0}' es presente ({1} e {2}), mantenente le ultime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T124857Z" creationid="Melo46" creationdate="20200727T124857Z">
@@ -56675,6 +56691,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T152446Z" creationid="karm46" creationdate="20180424T152446Z">
         <seg>Le sequente optiones non se applica si es marcate "Compatibilitate con OmegaT 2.6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following plugins won't be loaded because newer versions are installed, consider deleting them: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T151452Z" creationid="Melo46" creationdate="20250222T151452Z">
+        <seg>Le sequente plugins non sera cargate perque plus recente versiones es installate, considerar deler los: {0}</seg>
       </tuv>
     </tu>
     <tu>
