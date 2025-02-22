@@ -10958,6 +10958,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort restart, because launcher or java executable is not found.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T221114Z" creationid="Melo46" creationdate="20250222T221114Z">
+        <seg>Abortar reinitio, perque le lanceator o le executabile java non es trovate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags are invalid.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T060229Z" creationid="Melo46" creationdate="20250219T060229Z">
@@ -15594,6 +15602,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change Writable Glossary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T220931Z" creationid="Melo46" creationdate="20250222T220931Z">
+        <seg>Cambiar de glossario scribibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T165121Z" creationid="MELO46" creationdate="20140615T144944Z">
@@ -19635,6 +19651,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200725T231319Z" creationid="Melo46" creationdate="20200725T231319Z">
         <seg>URL del servitor personalisate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom spell checking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T221902Z" creationid="Melo46" creationdate="20250222T221902Z">
+        <seg>Position del dictionarios de controlo orthographic personalisate:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66887,6 +66911,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T232855Z" creationid="Melo46" creationdate="20250221T232855Z">
         <seg>Nomine de usator o Clave API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T220910Z" creationid="Melo46" creationdate="20250222T220910Z">
+        <seg>Nomine de usator:</seg>
       </tuv>
     </tu>
     <tu>
