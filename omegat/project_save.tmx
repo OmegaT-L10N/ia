@@ -6690,6 +6690,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235551Z" creationid="Melo46" creationdate="20250221T235551Z">
+        <seg>&lt;html&gt;Adder patronos usante characteres generic (formato Apache Formica): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemplo: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160815T084428Z" creationid="Melo" creationdate="20160815T084428Z">
@@ -21124,6 +21132,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235309Z" creationid="Melo46" creationdate="20250221T235309Z">
+        <seg>Duple-clicca characteres, o selige los e pressa le clave Insere, pro adder los al tabella personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T082306Z" creationid="Melo46" creationdate="20200730T082306Z">
@@ -24215,6 +24231,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T000143Z" creationid="Melo46" creationdate="20250222T000143Z">
+        <seg>Texto signalate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T180350Z" creationid="Melo46" creationdate="20250221T180350Z">
@@ -24509,6 +24533,14 @@ actually uses, or expects or is expected to use, the product.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T121251Z">
         <seg>Pro le neophytos, es disponibile in Internet plure parve instructiones, assi como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235457Z" creationid="Melo46" creationdate="20250221T235457Z">
+        <seg>Pro optime resultatos, installar le dictionarios appropriate via Preferentias &gt; Corrector orthographic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26205,6 +26237,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220105T144304Z" creationid="will" creationdate="20220105T144304Z">
         <seg>Layout de glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T000206Z" creationid="Melo46" creationdate="20250222T000206Z">
+        <seg>Concordantias de glossarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -34387,6 +34427,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083729Z">
         <seg>Schema del lingua </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T000151Z" creationid="Melo46" creationdate="20250222T000151Z">
+        <seg>Corrector del lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -46318,6 +46366,22 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235629Z" creationid="Melo46" creationdate="20250221T235629Z">
+        <seg>Segmentos repetite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235653Z" creationid="Melo46" creationdate="20250221T235653Z">
+        <seg>Fundo de segmentos repetite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repeated segments: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T100107Z" creationid="will" creationdate="20230322T100107Z">
@@ -46715,6 +46779,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T222428Z" creationid="Melo46" creationdate="20160729T222428Z">
         <seg>Resolver le conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235505Z" creationid="Melo46" creationdate="20250221T235505Z">
+        <seg>Resolve le conflictos seligente un traduction pro cata segmento infra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68413,6 +68485,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T100608Z" creationid="MELO46" creationdate="20131224T100608Z">
         <seg>Tu proba a usar usar le HunspellTokenizer con le lingua {0}, ma nulle dictionarios orthographic es installate pro iste lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250221T235418Z" creationid="Melo46" creationdate="20250221T235418Z">
+        <seg>Tu tenta usar le HunspellTokenizer con {0}, ma necun dictionario orthographic es installate pro iste lingua.</seg>
       </tuv>
     </tu>
     <tu>
