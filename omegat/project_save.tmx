@@ -1270,6 +1270,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130629Z" creationid="Melo46" creationdate="20250222T130629Z">
+        <seg>Ir(&amp;G) a Discargamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081403Z">
@@ -1354,6 +1362,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T081349Z" creationid="Melo46" creationdate="20250222T081349Z">
         <seg>&amp;Installar un nove lingua...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130354Z" creationid="Melo46" creationdate="20250222T130354Z">
+        <seg>&amp;Installar plugin de disco</seg>
       </tuv>
     </tu>
     <tu>
@@ -13632,6 +13648,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130139Z" creationid="Melo46" creationdate="20250222T130139Z">
+        <seg>Assignar un via(&amp;s) breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assign the key to OmegaT's launch procedure as follows, depending upon whether you are using Windows, Mac, or launching OmegaT from the command line or by means of a script:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T222328Z">
@@ -15346,6 +15370,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131048Z" creationid="Melo46" creationdate="20250222T131048Z">
+        <seg>Le appello a programma externe era interrumpite: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083007Z">
@@ -15418,6 +15450,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130921Z" creationid="Melo46" creationdate="20250222T130921Z">
+        <seg>Impossibile trovar le file executabile GPG sur le $PATH bash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151014T063430Z" creationid="Melo46" creationdate="20151014T063430Z">
@@ -15430,6 +15470,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082416Z">
         <seg>On non pote cargar le file XML specificate!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131003Z" creationid="Melo46" creationdate="20250222T131003Z">
+        <seg>Impossibile preparar le ambiente GPG correctemente</seg>
       </tuv>
     </tu>
     <tu>
@@ -22963,6 +23011,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130713Z" creationid="Melo46" creationdate="20250222T130713Z">
+        <seg>Error recipiente exito de programma externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while loading the source files.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T120923Z" creationid="Melo46" creationdate="20250222T120923Z">
@@ -23518,6 +23574,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131919Z" creationid="Melo46" creationdate="20250222T131919Z">
+        <seg>Le GPG externe non retorna un signatura valide; recipeva: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T172245Z" creationid="ia" creationdate="20170909T172245Z">
@@ -23554,6 +23618,30 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T170144Z" creationid="Karm46" creationdate="20171001T170144Z">
         <seg>Recerca externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Command</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130235Z" creationid="Melo46" creationdate="20250222T130235Z">
+        <seg>Commando del recerca externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130015Z" creationid="Melo46" creationdate="20250222T130015Z">
+        <seg>Gruppo de recercas externe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130204Z" creationid="Melo46" creationdate="20250222T130204Z">
+        <seg>URL del recerca externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -23626,6 +23714,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T071513Z" creationid="will" creationdate="20230303T071513Z">
         <seg>Ligamines externe, diagrammas, designos, e WordArt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131114Z" creationid="Melo46" creationdate="20250222T131114Z">
+        <seg>Programma externe fallite({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32666,6 +32762,22 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130359Z" creationid="Melo46" creationdate="20250222T130359Z">
+        <seg>Installar file plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130422Z" creationid="Melo46" creationdate="20250222T130422Z">
+        <seg>Installar plugin {0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install the OmegaT version with Java included.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T191720Z">
@@ -36067,6 +36179,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131430Z" creationid="Melo46" creationdate="20250222T131430Z">
+        <seg>Cerca de un executabile GPG: le route {0} ab $PATH non es accessibile; saltante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T073800Z">
@@ -36958,6 +37078,14 @@ permissions.</seg>
         <seg>Master Password:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T094022Z" creationid="Karm46" creationdate="20171001T094022Z">
+        <seg>Contrasigno principal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130254Z" creationid="Melo46" creationdate="20250222T130254Z">
         <seg>Contrasigno principal:</seg>
       </tuv>
     </tu>
@@ -38751,6 +38879,22 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131745Z" creationid="Melo46" creationdate="20250222T131745Z">
+        <seg>Necun file executabile GPG trovate; predefinir lo in le preferentias de Git in le section "Committing", o defini lo in le git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131256Z" creationid="Melo46" creationdate="20250222T131256Z">
+        <seg>Necun clave GPG clave trovate pro ID clave ''{0}''; verificar o predefinir git config user.signingKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T212241Z" creationid="Karm46" creationdate="20170929T212241Z">
@@ -39184,6 +39328,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Non tote le applicationes CAT exhibi le mesme tolerantia et alicunos pote dunque non monstrar le previste concordantias si le codices del lingua non es satis conforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not assigned</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130248Z" creationid="Melo46" creationdate="20250222T130248Z">
+        <seg>Non assignate</seg>
       </tuv>
     </tu>
     <tu>
@@ -43279,6 +43431,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130341Z" creationid="Melo46" creationdate="20250222T130341Z">
+        <seg>Altere plugins es disponibile online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T031924Z" creationid="Melo46" creationdate="20151116T031924Z">
@@ -44368,6 +44528,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T232345Z" creationid="Melo46" creationdate="20250221T232345Z">
         <seg>Plugin installator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130509Z" creationid="Melo46" creationdate="20250222T130509Z">
+        <seg>Installation de plugin fallite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50198,6 +50366,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T094459Z" creationid="Karm46" creationdate="20171001T094234Z">
         <seg>Definite &amp; Salvate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130333Z" creationid="Melo46" creationdate="20250222T130333Z">
+        <seg>Predefinite e immagazinate</seg>
       </tuv>
     </tu>
     <tu>
@@ -60819,6 +60995,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130554Z" creationid="Melo46" creationdate="20250222T130554Z">
+        <seg>Iste file non es un archivo de plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T130622Z">
@@ -65475,6 +65659,18 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T130413Z" creationid="Melo46" creationdate="20250222T130413Z">
+        <seg>Promover/supplantar plugin {0}
+actual: {1}
+nove version: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrading OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T183750Z">
@@ -66333,6 +66529,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T054138Z" creationid="will" creationdate="20230315T054138Z">
         <seg>Le usator pote seliger inter tres optiones: Le paragraphos precedente e sequente, le ID del &lt;trans-unit&gt; o &lt;trans-name&gt; renomina attributo quando es disponibile. Si illo non es disponibile, le ID va esser usate como alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250222T131614Z" creationid="Melo46" creationdate="20250222T131614Z">
+        <seg>Signatura de usator cancellate (necun phrase contrasigno fornite)</seg>
       </tuv>
     </tu>
     <tu>
