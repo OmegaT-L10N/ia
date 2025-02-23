@@ -550,6 +550,30 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${extension}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074809Z" creationid="Melo46" creationdate="20250223T074809Z">
+        <seg>${extension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074847Z" creationid="Melo46" creationdate="20250223T074847Z">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074850Z" creationid="Melo46" creationdate="20250223T074850Z">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fileNameOnly}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T064517Z">
@@ -570,6 +594,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T064524Z">
         <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${filename}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074746Z" creationid="Melo46" creationdate="20250223T074746Z">
+        <seg>${filename}</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,10 +638,34 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${nameOnly}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074804Z" creationid="Melo46" creationdate="20250223T074804Z">
+        <seg>${nameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${noStemScore}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T064513Z">
         <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${projectName}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T080047Z" creationid="Melo46" creationdate="20250223T080047Z">
+        <seg>${projectName}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${projectRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T080153Z" creationid="Melo46" creationdate="20250223T080153Z">
+        <seg>${projectRoot}</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +678,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${sourceRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T080437Z" creationid="Melo46" creationdate="20250223T080437Z">
+        <seg>${sourceRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${sourceText}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185904Z">
@@ -630,10 +694,82 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${system-host-name}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074843Z" creationid="Melo46" creationdate="20250223T074843Z">
+        <seg>${system-host-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-os-name}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074837Z" creationid="Melo46" creationdate="20250223T074837Z">
+        <seg>${system-os-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-user-name}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074840Z" creationid="Melo46" creationdate="20250223T074840Z">
+        <seg>${system-user-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074826Z" creationid="Melo46" creationdate="20250223T074826Z">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074821Z" creationid="Melo46" creationdate="20250223T074821Z">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074816Z" creationid="Melo46" creationdate="20250223T074816Z">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074854Z" creationid="Melo46" creationdate="20250223T074854Z">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocale}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074813Z" creationid="Melo46" creationdate="20250223T074813Z">
+        <seg>${targetLocale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetText}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185908Z">
         <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074829Z" creationid="Melo46" creationdate="20250223T074829Z">
+        <seg>${timestamp-????}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,10 +4126,58 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.csv</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075313Z" creationid="Melo46" creationdate="20250223T075313Z">
+        <seg>.csv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.repositories</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T203630Z" creationid="Melo46" creationdate="20200726T203630Z">
         <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tab</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075258Z" creationid="Melo46" creationdate="20250223T075258Z">
+        <seg>.tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tbx</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075320Z" creationid="Melo46" creationdate="20250223T075320Z">
+        <seg>.tbx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tsv</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075304Z" creationid="Melo46" creationdate="20250223T075304Z">
+        <seg>.tsv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075248Z" creationid="Melo46" creationdate="20250223T075248Z">
+        <seg>.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.utf8</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075254Z" creationid="Melo46" creationdate="20250223T075254Z">
+        <seg>.utf8</seg>
       </tuv>
     </tu>
     <tu>
@@ -7338,6 +7522,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074941Z" creationid="Melo46" creationdate="20250223T074941Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063303Z">
@@ -7346,10 +7538,26 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074945Z" creationid="Melo46" creationdate="20250223T074945Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140112T214451Z" creationid="MELO46" creationdate="20140112T214451Z">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075001Z" creationid="Melo46" creationdate="20250223T075001Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Documento.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7386,6 +7594,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074913Z" creationid="Melo46" creationdate="20250223T074913Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Documento&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063257Z">
@@ -7394,10 +7610,26 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074925Z" creationid="Melo46" creationdate="20250223T074925Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Documento.xx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063259Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074937Z" creationid="Melo46" creationdate="20250223T074937Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Documento.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7764,6 +7996,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T074535Z" creationid="Melo46" creationdate="20210220T074535Z">
         <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075013Z" creationid="Melo46" creationdate="20250223T075013Z">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10064,6 +10304,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075155Z" creationid="Melo46" creationdate="20250223T075155Z">
+        <seg>&lt;span translate="no"&gt;Iste contento non es traducibile&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20220108T220814Z" creationid="Melo46" creationdate="20220108T220814Z">
@@ -12246,6 +12494,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060036Z" creationid="will" creationdate="20230315T060036Z">
         <seg>Tote le terminos que ha un concordantia in &lt;e0&gt;ulle&lt;/e0&gt; del glossarios essera monstrate in le &lt;l1/&gt; pannello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the arguments should be quoted, e.g. &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075728Z" creationid="Melo46" creationdate="20250223T075728Z">
+        <seg>Tote le argumentos debe esser citate, e.g. &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15478,6 +15734,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130520T220818Z">
         <seg>Traductiones CJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CSV</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075308Z" creationid="Melo46" creationdate="20250223T075308Z">
+        <seg>CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -26389,6 +26653,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full path to the project folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T080435Z" creationid="Melo46" creationdate="20250223T080435Z">
+        <seg>Route complete al plica del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full table</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T100304Z" creationid="MELO46" creationdate="20131224T100304Z">
@@ -31316,6 +31588,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T095023Z" creationid="Melo46" creationdate="20200726T095023Z">
         <seg>Ignorar le pulsatas con caso multo differente (e.g. FOO contra foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore tags that contain translate="no"</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075121Z" creationid="Melo46" creationdate="20250223T075121Z">
+        <seg>Ignorar tags que contine translate="no"</seg>
       </tuv>
     </tu>
     <tu>
@@ -53694,6 +53974,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TBX</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075316Z" creationid="Melo46" creationdate="20250223T075316Z">
+        <seg>TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140201T121041Z">
@@ -53854,6 +54142,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T090759Z">
         <seg>TMs (Memorias de traduction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TSV</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075244Z" creationid="Melo46" creationdate="20250223T075244Z">
+        <seg>TSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -56359,6 +56655,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command is passed to Java runtime exec as a string with the template values expanded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075554Z" creationid="Melo46" creationdate="20250223T075554Z">
+        <seg>Le commando es passate al execution Java como stringa con le valores de modello expandite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171113T192414Z" creationid="Karm46" creationdate="20171001T165956Z">
@@ -57371,6 +57675,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following template variables are always available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075835Z" creationid="Melo46" creationdate="20250223T075835Z">
+        <seg>Le sequente variabiles de modello es sempre disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T114739Z">
@@ -58187,6 +58499,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The name of the project directory</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T080151Z" creationid="Melo46" creationdate="20250223T080151Z">
+        <seg>Le nomine plica del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T214311Z">
@@ -58343,6 +58663,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T173431Z" creationid="will" creationdate="20230324T173431Z">
         <seg>Le file original es reservate como: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other items on the template list are environment variables for your system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T080003Z" creationid="Melo46" creationdate="20250223T080003Z">
+        <seg>Le altere elementos sur le lista del modellos es variabiles de ambiente pro tu systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60714,6 +61042,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T054853Z" creationid="will" creationdate="20230315T054853Z">
         <seg>Iste optiones specifica como OmegaT crea tags de le contentos de XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These options specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075235Z" creationid="Melo46" creationdate="20250223T075235Z">
+        <seg>Iste optiones specifica le maniera que OmegaT crea tags del contentos XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67978,6 +68314,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Variable name</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T080044Z" creationid="Melo46" creationdate="20250223T080044Z">
+        <seg>Nomine de variabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082526Z">
@@ -75040,6 +75384,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075239Z" creationid="Melo46" creationdate="20250223T075239Z">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T105614Z">
@@ -75172,6 +75524,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130807T231401Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074833Z" creationid="Melo46" creationdate="20250223T074833Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -77054,6 +77414,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T183445Z" creationid="will" creationdate="20230302T183439Z">
         <seg>nomines de file fonte, sin extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name=robots</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T075021Z" creationid="Melo46" creationdate="20250223T075021Z">
+        <seg>name=robots</seg>
       </tuv>
     </tu>
     <tu>
