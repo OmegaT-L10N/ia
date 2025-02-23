@@ -31314,8 +31314,8 @@ es usar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you need help for a specific case, you can also ask questions in the various support channels.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250223T143833Z" creationid="Melo46" creationdate="20250223T143833Z">
-        <seg>Si tu desira adjuta pro un caso specific, tu pote alsi poner questiones in le varie canales de assistentia.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T151332Z" creationid="Melo46" creationdate="20250223T143833Z">
+        <seg>Si tu desira adjuta pro un caso particular, tu pote alsi poner questiones in le varie canales de assistentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41670,6 +41670,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20211229T164438Z" creationid="will" creationdate="20211229T164438Z">
         <seg>OmegaT Classic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Contribution Guide</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T152950Z" creationid="Melo46" creationdate="20250223T152950Z">
+        <seg>Guida de collaboration a OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -55474,6 +55482,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text highlighting in alignments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T152511Z" creationid="Melo46" creationdate="20250223T152511Z">
+        <seg>Evidentia de texto in alineamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T081404Z" creationid="will" creationdate="20230304T081404Z">
@@ -56000,6 +56016,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T152212Z" creationid="Melo46" creationdate="20250223T152212Z">
+        <seg>Le parametro &lt;l0/&gt; te permitte de definir stringas que OmegaT marcara in rubie de ordinario, e que tractara como tags extranee pro scopos de validation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this manual.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T122051Z" creationid="Melo46" creationdate="20250223T122051Z">
@@ -56044,6 +56068,15 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T221046Z">
         <seg>Le &lt;x0/&gt; describe le codifica del color in detalio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T152919Z" creationid="Melo46" creationdate="20250223T152919Z">
+        <seg>Le version in interlingua de OmegaT ha essite traducite per: Carmelo Serraino</seg>
       </tuv>
     </tu>
     <tu>
@@ -67831,6 +67864,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T094324Z" creationid="Melo46" creationdate="20200726T094324Z">
         <seg>Usar terminos que appare separate in le texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T152337Z" creationid="Melo46" creationdate="20250223T152337Z">
+        <seg>Usar le character &lt;c0&gt;|&lt;/c0&gt; (O) pro separar definitiones de fragmentos singule.</seg>
       </tuv>
     </tu>
     <tu>
