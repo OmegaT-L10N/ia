@@ -18356,14 +18356,11 @@ script file	file script
 project events	eventos del projecto
 undo	annullar
 specified project	projecto specificate
-file access issue	problema de accesso al file
 correct permissions	permissos correcte
 specified folder	plica specificate
 hard link	ligamine real
 symbolic link	ligamine symbolic
-a backup file	le copia de reserva
 wildcards	characteres generic
-target segments of the project	segmentos traducite del projecto
 auto-sync	synchronisation automatic
 on close	al clausura
 searching	in cercar
@@ -18372,17 +18369,12 @@ matching segments	segmentos concordante
 initialize	initialisar
 XML file	file XML
 for which	perque
-project source language	lingua fonte de projecto
-TMX source language	lingua fonte del TMX
 sentence segmentation	segmentation per phrases
 paragraph segmentation	segmentation per paragraphos
 error loading	error cargante
 error unloading	error discargante
 plugin	plugin
-source file encoding	codification del file fonte
-translated file encoding	codification del file traducite
 translated filename	nomine de file traducite
-translated filename pattern	modello de nomine de file traducite
 DocBook files	Files DocBook
 legacy filter	filtro obsolete
 slide comments	commentos del diapositiva
@@ -18395,10 +18387,32 @@ specified file	file specificate
 offering	que offere
 fuzzy matching	concordantias partial
 keyword search	recerca per parolas clave
-file name format	formato de nomine de file
-it will be	il sera un
 random number	numero aleatori
 local time	hora local
 current session	session actual
-custom spelling dictionaries	dictionarios orthographic personalisate
 spelling dictionaries	dictionarios orthographic
+XLIFF contents	contentos XLIFF
+template values	valores de modello
+quoted	citate
+{fileName}	{fileName}
+template variables	variabiles de modello
+template list	lista del modellos
+environment variables	variabiles de ambiente
+variable name	nomine de variabile
+directory	plica
+project directory	plica del projecto
+project folder	plica del projecto
+full path	route complete
+file access issue	problema de accesso al file
+a backup file	le copia de reserva
+target segments of the project	segmentos traducite del projecto
+project source language	lingua fonte de projecto
+TMX source language	lingua fonte del TMX
+source file encoding	codification del file fonte
+translated file encoding	codification del file traducite
+translated filename pattern	modello de nomine de file traducite
+file name format	formato de nomine de file
+it will be	il sera un
+custom spelling dictionaries	dictionarios orthographic personalisate
+Java runtime exec	execution Java
+full path to the	route complete al
