@@ -4008,8 +4008,8 @@ configurationes del projecto).</seg>
       <tuv lang="en">
         <seg>/Applications/OmegaT.app/Contents/Java/</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250222T230922Z" creationid="Melo46" creationdate="20250222T230922Z">
-        <seg>/Applicationes/OmegaT.app/Contentos/Java/</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T072900Z" creationid="Melo46" creationdate="20250222T230922Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
       </tuv>
     </tu>
     <tu>
@@ -4480,6 +4480,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T124111Z">
         <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>99999 part is 5 digit session id from 00000 to 99999.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073337Z" creationid="Melo46" creationdate="20250223T073337Z">
+        <seg>99999 es parte del id de session de 5 dcifras ab 00000 a 99999.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9820,6 +9828,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144833Z">
         <seg>&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073113Z" creationid="Melo46" creationdate="20250223T073113Z">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22434,6 +22450,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074509Z" creationid="Melo46" creationdate="20250223T074509Z">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T122747Z">
@@ -34448,6 +34472,14 @@ interne al plica de configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will be random number.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073500Z" creationid="Melo46" creationdate="20250223T073500Z">
+        <seg>Il sera numero aleatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T163842Z">
@@ -36995,6 +37027,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095204Z">
         <seg>Menu principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074514Z" creationid="Melo46" creationdate="20250223T074514Z">
+        <seg>MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -42533,6 +42573,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140112T090055Z">
         <seg>OmegaT, comocunque, presentara iste phrase in le sequente maniera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T072912Z" creationid="Melo46" creationdate="20250223T072912Z">
+        <seg>OmegaT-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -57003,6 +57051,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file name format is &lt;f0&gt;OmegaT_99999_yyyyMMdd-hhmmss.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073227Z" creationid="Melo46" creationdate="20250223T073227Z">
+        <seg>Le formato de nomine de file es &lt;f0&gt;OmegaT_99999_yyyyMMdd-hhmmss.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T113200Z" creationid="will" creationdate="20230302T113200Z">
@@ -61736,6 +61792,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170037Z" creationid="will" creationdate="20230228T170037Z">
         <seg>Iste plica contine plure file de registros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains your custom spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074732Z" creationid="Melo46" creationdate="20250223T074732Z">
+        <seg>Iste plica contine tu dictionarios orthographic personalisate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66759,6 +66823,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170923Z" creationid="will" creationdate="20230228T170923Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro vider le contentos del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the log file of current session.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074446Z" creationid="Melo46" creationdate="20250223T074446Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro vider le contentos del file de registro del session actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73248,6 +73320,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073000Z" creationid="Melo46" creationdate="20250223T073000Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>conveying of source, or (2) access to copy the</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144626Z">
@@ -73564,6 +73644,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181223Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T072945Z" creationid="Melo46" creationdate="20250223T072945Z">
+        <seg>docs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -73888,6 +73976,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073015Z" creationid="Melo46" creationdate="20250223T073004Z">
+        <seg>ia/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>encoding of the source file</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T184714Z" creationid="will" creationdate="20230302T184714Z">
@@ -74108,6 +74204,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T162735Z" creationid="Melo46" creationdate="20160728T162735Z">
         <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074522Z" creationid="Melo46" creationdate="20250223T074522Z">
+        <seg>finder.xml</seg>
       </tuv>
     </tu>
     <tu>
@@ -75512,6 +75616,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073028Z" creationid="Melo46" creationdate="20250223T073028Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T192628Z">
@@ -75580,6 +75692,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T230413Z" creationid="MELO46" creationdate="20131226T230413Z">
         <seg>entratas indice, signa-libros, referentias de signa-libro, notes, commentos, notas de presentation, ligamines (URL), nomines de pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T072937Z" creationid="Melo46" creationdate="20250223T072937Z">
+        <seg>index.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -76322,6 +76442,22 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073034Z" creationid="Melo46" creationdate="20250223T073034Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libraries.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073019Z" creationid="Melo46" creationdate="20250223T073019Z">
+        <seg>libraries.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>license.txt</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181845Z">
@@ -76398,6 +76534,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T131538Z" creationid="Melo46" creationdate="20250219T131538Z">
         <seg>cargate {0} attributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073125Z" creationid="Melo46" creationdate="20250223T073125Z">
+        <seg>logs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -77194,6 +77338,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat.autotext</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074527Z" creationid="Melo46" creationdate="20250223T074527Z">
+        <seg>omegat.autotext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>omegat.kaptn</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T105630Z">
@@ -77914,6 +78066,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073039Z" creationid="Melo46" creationdate="20250223T073039Z">
+        <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>pol</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141356Z">
@@ -78314,6 +78474,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074548Z" creationid="Melo46" creationdate="20250223T074548Z">
+        <seg>repositories.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>repository type</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T100255Z" creationid="Melo46" creationdate="20200728T100255Z">
@@ -78506,6 +78674,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073044Z" creationid="Melo46" creationdate="20250223T073044Z">
+        <seg>scripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sd</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233017Z">
@@ -78582,6 +78758,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T194044Z" creationid="Melo46" creationdate="20200730T194044Z">
         <seg>le selection o le displaciamento del mus super un linea monstra un icone de menu emergente in le ultime columna, que contine actiones pro corriger o ignorar le error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selection.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074448Z" creationid="Melo46" creationdate="20250223T074448Z">
+        <seg>selection.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -78794,6 +78978,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074454Z" creationid="Melo46" creationdate="20250223T074454Z">
+        <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T085330Z">
@@ -78830,6 +79022,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T233238Z" creationid="MELO46" creationdate="20140106T233238Z">
         <seg>specifica qual partes de texto NON deberea esser separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074604Z" creationid="Melo46" creationdate="20250223T074604Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
@@ -79062,6 +79262,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T183737Z" creationid="will" creationdate="20230302T183737Z">
         <seg>codice de region de de destination (YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074500Z" creationid="Melo46" creationdate="20250223T074500Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -80324,6 +80532,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>yyyyMMdd-hhmmss part is a date and time, like 20240704-201200 means July 4th, 2024, 20:12:00 in local time.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T074333Z" creationid="Melo46" creationdate="20250223T074333Z">
+        <seg>ora locale Le parte yyyyMMdd-hhmmss es un data e tempore, como 20240704-201200 significa le 4 de julio, 2024, 20:12:00 in hora local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>za</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T234424Z">
@@ -80584,6 +80800,30 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T083805Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073050Z" creationid="Melo46" creationdate="20250223T073050Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073055Z" creationid="Melo46" creationdate="20250223T073055Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T073059Z" creationid="Melo46" creationdate="20250223T073059Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
