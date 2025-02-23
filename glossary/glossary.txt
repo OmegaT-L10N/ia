@@ -9008,8 +9008,8 @@ sensor	sensor
 select	elige
 connected	connectite
 display	schermo
-most	le major parte del
 most	plus
+most	le major parte del
 displays	schermos
 illuminant	illuminante
 get	obtene
@@ -9420,6 +9420,7 @@ recommend	recommenda
 predefined	predefinite
 lets	lassa
 alarmingly	infelicemente
+end	fin
 end	extremo
 target	adressar
 devoted	devote
@@ -11134,7 +11135,6 @@ green	verde
 vertical	vertical
 star	stella
 ground	fundo
-end	fin
 bottom	a basso
 saturation	saturation
 alpha	alpha
@@ -18416,3 +18416,7 @@ it will be	il sera un
 custom spelling dictionaries	dictionarios orthographic personalisate
 Java runtime exec	execution Java
 full path to the	route complete al
+are covered	es tractate
+the fundamentals	le notiones fundamental
+starting points to	punctos de initio pro
+advanced or complex uses	usos avantiate o complexe
