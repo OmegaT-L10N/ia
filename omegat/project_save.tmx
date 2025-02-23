@@ -534,6 +534,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${dictRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105020Z" creationid="Melo46" creationdate="20250223T105020Z">
+        <seg>${dictRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${diffReversed}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160814T073001Z" creationid="Melo" creationdate="20160814T073001Z">
@@ -582,6 +590,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fileName}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105554Z" creationid="Melo46" creationdate="20250223T105554Z">
+        <seg>${fileName}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${filePath}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T064519Z">
@@ -610,6 +626,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T064530Z">
         <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${glossaryRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T104532Z" creationid="Melo46" creationdate="20250223T104532Z">
+        <seg>${glossaryRoot}</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +702,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${sourceLang}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105430Z" creationid="Melo46" creationdate="20250223T105430Z">
+        <seg>${sourceLang}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${sourceRoot}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T080437Z" creationid="Melo46" creationdate="20250223T080437Z">
@@ -742,6 +774,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetLang}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105436Z" creationid="Melo46" creationdate="20250223T105436Z">
+        <seg>${targetLang}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetLocaleLCID}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T074854Z" creationid="Melo46" creationdate="20250223T074854Z">
@@ -758,6 +798,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T104527Z" creationid="Melo46" creationdate="20250223T104527Z">
+        <seg>${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetText}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185908Z">
@@ -770,6 +818,30 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T074829Z" creationid="Melo46" creationdate="20250223T074829Z">
         <seg>${timestamp-????}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${tmAutoRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T104931Z" creationid="Melo46" creationdate="20250223T104931Z">
+        <seg>${tmAutoRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${tmOtherLangRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105252Z" creationid="Melo46" creationdate="20250223T105252Z">
+        <seg>${tmOtherLangRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${tmRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T104549Z" creationid="Melo46" creationdate="20250223T104549Z">
+        <seg>${tmRoot}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24176,6 +24248,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension of source file without a dot</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105620Z" creationid="Melo46" creationdate="20250223T105620Z">
+        <seg>Extension de file fonte sin un puncto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T131919Z" creationid="Melo46" creationdate="20250222T131919Z">
@@ -26645,10 +26725,58 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full name of source file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105559Z" creationid="Melo46" creationdate="20250223T105559Z">
+        <seg>Nomine complete de file fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full path of the TMX</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T070808Z">
         <seg>Percurso complete del TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to source file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105458Z" creationid="Melo46" creationdate="20250223T105458Z">
+        <seg>Route complete a file fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the TM auto folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105016Z" creationid="Melo46" creationdate="20250223T105016Z">
+        <seg>Route complete al plica /tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the TM root folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T104926Z" creationid="Melo46" creationdate="20250223T104908Z">
+        <seg>Route complete al plica radice de /tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the dictionary folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105250Z" creationid="Melo46" creationdate="20250223T105250Z">
+        <seg>Route complete al plica /dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the glossary folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T104546Z" creationid="Melo46" creationdate="20250223T104546Z">
+        <seg>Route complete al plica /glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -31897,6 +32025,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to a regular command, you can call a script.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105829Z" creationid="Melo46" creationdate="20250223T105829Z">
+        <seg>Ultra a un commando regular, tu pote appellar un script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T165623Z" creationid="Melo46" creationdate="20150423T165428Z">
@@ -36759,6 +36895,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Scripts</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105635Z" creationid="Melo46" creationdate="20250223T105635Z">
+        <seg>Scripts local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local Segmentation R&amp;ules...</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T170911Z" creationid="will" creationdate="20230324T170911Z">
@@ -39279,6 +39423,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T231750Z" creationid="Melo" creationdate="20151014T231750Z">
         <seg>Nomine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of source file without extension</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105606Z" creationid="Melo46" creationdate="20250223T105606Z">
+        <seg>Nomine de file fonte sin extension</seg>
       </tuv>
     </tu>
     <tu>
@@ -52694,6 +52846,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file name relative to given root</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105548Z" creationid="Melo46" creationdate="20250223T105548Z">
+        <seg>Nomine de file fonte relative al radice date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file type, filename pattern</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T110903Z">
@@ -52786,6 +52946,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T222104Z">
         <seg>Le plica fonte {0} non existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105434Z" creationid="Melo46" creationdate="20250223T105434Z">
+        <seg>Lingua fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -54066,6 +54234,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Root + tmx2source (See the &lt;l0/&gt; how-to for details.)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105424Z" creationid="Melo46" creationdate="20250223T105338Z">
+        <seg>TM Root + tmx2source (Vider le &lt;l0/&gt; guida pro detalios.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TM Search &amp;Options</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230331T095028Z" creationid="will" creationdate="20230331T095028Z">
@@ -54654,6 +54830,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T222029Z">
         <seg>Le plica de destination {0} non existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T105445Z" creationid="Melo46" creationdate="20250223T105445Z">
+        <seg>Lingua de destination</seg>
       </tuv>
     </tu>
     <tu>
