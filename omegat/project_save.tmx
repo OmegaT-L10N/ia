@@ -10858,6 +10858,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173112Z" creationid="Melo46" creationdate="20250223T173112Z">
+        <seg>Un schema linguistic que concorda con le lingua fonte del projecto se applicara a ille projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T072758Z">
@@ -10966,6 +10974,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T181121Z" creationid="Melo46" creationdate="20250221T181121Z">
         <seg>Un nota es simplemente un observation re le texto fonte o su traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173655Z" creationid="Melo46" creationdate="20250223T173655Z">
+        <seg>Plure characteres o combinationes de characteres ha un significato special in un expression regular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13644,6 +13660,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T134355Z" creationid="MELO46" creationdate="20140109T134355Z">
         <seg>omne character preter uno in le bloco grec (negation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173412Z" creationid="Melo46" creationdate="20250223T173412Z">
+        <seg>Cata expression date o &lt;e0&gt;concorda con&lt;/e0&gt;, o &lt;e1&gt;&lt;e2&gt;non&lt;/e2&gt; concorda con&lt;/e1&gt; un parola, expression, o altere sequentia de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22592,6 +22616,14 @@ HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
 OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
 PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each and every character in the expression is relevant when determining a match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173545Z" creationid="Melo46" creationdate="20250223T173545Z">
+        <seg>Cata character in le expression es relevante pro determinar un concordantia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39151,6 +39183,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most characters simply match themselves</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T174023Z" creationid="Melo46" creationdate="20250223T174023Z">
+        <seg>Le major parte del characteres simplemente concorda con se mesme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most file formats allow various possible encodings.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T114020Z" creationid="will" creationdate="20230302T114020Z">
@@ -47778,6 +47818,22 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173301Z" creationid="Melo46" creationdate="20250223T173301Z">
+        <seg>Le expressiones regular es usate pro trovar texto, includite characteres que non es visibile sur le schermo o quando imprimite, tal como spatios, tabulationes, o interruptiones de linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions only match text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173728Z" creationid="Melo46" creationdate="20250223T173728Z">
+        <seg>Le expressiones regular solo concorda texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T144218Z" creationid="Melo46" creationdate="20250223T144218Z">
@@ -55932,6 +55988,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The 4 rules</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173117Z" creationid="Melo46" creationdate="20250223T173117Z">
+        <seg>Le 4 regulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T000421Z" creationid="Karm46" creationdate="20170910T000421Z">
@@ -58920,6 +58984,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T174139Z" creationid="Melo46" creationdate="20250223T174139Z">
+        <seg>Le majoritate de characteres in un expression regular simplemente &lt;e0&gt;cerca se mesme&lt;/e0&gt; in le sequentia de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T074131Z" creationid="Melo46" creationdate="20210220T074131Z">
@@ -61285,6 +61357,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are four rules to keep in mind.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173955Z" creationid="Melo46" creationdate="20250223T173955Z">
+        <seg>Il ha quatro regulas a memorar que.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T093339Z" creationid="Karm46" creationdate="20171001T092919Z">
@@ -61803,6 +61883,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T154248Z">
         <seg>Illes pote ergo crear lor proprie projectos e, committer lor proprie &lt;f1&gt;project_save.tmx&lt;/f1&gt;, quando finite o quando un certe petra milliari columna milliari esseva arrivate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They cannot match decorations such as &lt;e0&gt;bold&lt;/e0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, or other &lt;e2&gt;stylistic effects&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T173921Z" creationid="Melo46" creationdate="20250223T173921Z">
+        <seg>Illos non pote concordar decorationes tal como &lt;e0&gt;hardite&lt;/e0&gt;, &lt;e1&gt;italic&lt;/e1&gt;, o altere &lt;e2&gt;effectos stilistic&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
