@@ -3156,6 +3156,36 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T165742Z" creationid="Melo46" creationdate="20250223T165742Z">
+        <seg>- Anthony Baldwin (gestor de localisation)
+- Vincent Bidaux (gestor de documentation)
+- Didier Briel (gestor de projecto)
+- Alex Buloichik (chef disveloppator)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (gestor de projecto)
+- Maxym Mykhalchuk (chef disveloppator)
+- Samuel Murray
+- Henrico Pijffers (gestor del versiones)
+- Marc Prior (co-ordinator de projecto, webmaster)
+- Vito Smolej (gestor de documentation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T094326Z" creationid="Melo46" creationdate="20171129T092159Z">
@@ -3280,6 +3310,28 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T094224Z" creationid="Karm46" creationdate="20171129T094224Z">
         <seg>- Trova le file OmegaT.l4J.ini (in le plica del programma OmegaT) e modifica le sequente rigas con tu editor de texto-simple preferite:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T165455Z" creationid="Melo46" creationdate="20250223T165455Z">
+        <seg>- Marco Cevoli (Gestor del communitate de Telegram)
+- Jean-Christophe Helary (Gestor del communitate de Twitter)
+- Kos Ivantsov (Gestor del localisation)
+- Concepción Martin (Gestor del communitate de Facebook)
+- Hiroshi Miura (chef disveloppator)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (Gestor de documentation)
+- Lucie Vecerova (Gestor del communitate de Facebook)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24412,6 +24464,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T201054Z" creationid="ia" creationdate="20170909T171147Z">
         <seg>Recercar externe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External TM</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T170852Z" creationid="Melo46" creationdate="20250223T170852Z">
+        <seg>Memoria de traduction externe</seg>
       </tuv>
     </tu>
     <tu>
@@ -52950,6 +53010,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T170856Z" creationid="Melo46" creationdate="20250223T170856Z">
+        <seg>Files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230323T171537Z" creationid="will" creationdate="20230323T171537Z">
@@ -53964,6 +54032,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T183712Z">
         <seg>Sub NivellarFormato()&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sub-segmented match</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T171038Z" creationid="Melo46" creationdate="20250223T171038Z">
+        <seg>Concordantia sub-segmentate</seg>
       </tuv>
     </tu>
     <tu>
@@ -73443,8 +73519,8 @@ crea le plica del configuration.</seg>
       <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
-      <tuv lang="ia" changeid="karm46" changedate="20180426T000719Z">
-        <seg>e multe, multo plus maxime personas adjuvante</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T170634Z">
+        <seg>e multe, multe altere personas utilissime</seg>
       </tuv>
     </tu>
     <tu>
