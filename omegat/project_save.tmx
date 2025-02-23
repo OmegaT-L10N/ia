@@ -20217,10 +20217,26 @@ Nove version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T150503Z" creationid="Melo46" creationdate="20250223T150503Z">
+        <seg>Tags personalisate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom tags (regular expression):</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T180314Z" creationid="Melo46" creationdate="20250221T180314Z">
         <seg>Tags personalisate (expression regular):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T150549Z" creationid="Melo46" creationdate="20250223T150549Z">
+        <seg>Le tags personalisate es tags definite con expressiones regular que es tractate exactemente como tags native de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37783,6 +37799,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T150203Z" creationid="Melo46" creationdate="20250223T150203Z">
+        <seg>Multe functiones de OmegaT conta sur expressiones regular o rende los disponibile como option:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T125311Z">
@@ -48561,8 +48585,16 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250223T144800Z" creationid="Melo46" creationdate="20250223T144800Z">
-        <seg>Representa un o plus “characteres del parola”,id es le litteras del alphabeto, cifras, e lineettas basse .</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T145132Z" creationid="Melo46" creationdate="20250223T144800Z">
+        <seg>Representa un o plus “characteres del parola”, id es le litteras del alphabeto, cifras, e lineettas basse .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T150055Z" creationid="Melo46" creationdate="20250223T150055Z">
+        <seg>Representa zero o un characteres spatio blanc horizontal  (isto include spatios regular e insecabile e tabulationes, ma characteres salto de linea, que pertine al categoria “spatio blanc vertical”: \v.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50081,6 +50113,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230408T175613Z" creationid="will" creationdate="20230408T175039Z">
         <seg>Recercas anque pote esser exequite sur un hierarchia de plica specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T150255Z" creationid="Melo46" creationdate="20250223T150255Z">
+        <seg>Recercas include un &lt;l0/&gt; option que te permitte de facer recercas extrememente potente inter tu files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59665,6 +59705,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T150457Z" creationid="Melo46" creationdate="20250223T150457Z">
+        <seg>Identic option in le &lt;l0/&gt; fenestra de dialogo te permitte de applicar expressiones regular e al texto recercate, e al texto supplantate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130425T091332Z">
@@ -67787,6 +67835,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual tag definitions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T150840Z" creationid="Melo46" creationdate="20250223T150840Z">
+        <seg>Usa le character &lt;c0&gt;|&lt;/c0&gt; (O) pro separar singule definitiones de tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151115T004414Z" creationid="Melo" creationdate="20151115T004414Z">
@@ -72948,6 +73004,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092636Z">
         <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T145143Z" creationid="Melo46" creationdate="20250223T145143Z">
+        <seg>\h?</seg>
       </tuv>
     </tu>
     <tu>
