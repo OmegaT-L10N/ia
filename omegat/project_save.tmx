@@ -3454,12 +3454,12 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T174600Z" creationid="will" creationdate="20230317T175224Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T144930Z" creationid="will" creationdate="20230317T175224Z">
         <seg>- traher e deponer files sur iste panello;
 	- usa Projecto &gt; Copiar le files in le plica...;
 	- usa Projecto &gt; Files fonte... e pulsa Adder files...;
-	- usa tu gestor de file pro copiar files al plica de fonte,
-	  e alora usa Projecto &gt; Recargar pro recargar le projecto.</seg>
+	- usa tu gestor de file pro copiar files al plica /source,
+	  e pois usa Projecto &gt; Recargar pro recargar le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13616,6 +13616,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T102810Z" creationid="will" creationdate="20230303T102810Z">
         <seg>Qualcunque paragrapho concordante al expression regular es ignorate durante le cargamento e non es visualisate pro le translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any single digit from 0 to 9.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T144352Z" creationid="Melo46" creationdate="20250223T144352Z">
+        <seg>Qualcunque cifra singule ab 0 a 9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28113,6 +28121,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are a few examples.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T144225Z" creationid="Melo46" creationdate="20250223T144225Z">
+        <seg>Ecce alcun exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T093126Z">
@@ -30194,8 +30210,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T175252Z" creationid="will" creationdate="20230317T175252Z">
-        <seg>Si le projecto contine files ma lor contentos es non monstrate ci:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T145021Z" creationid="will" creationdate="20230317T175252Z">
+        <seg>Si le projecto contine files ma lor contentos non es monstrate ci:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31276,6 +31292,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T051817Z">
         <seg>Si tu ha besonio de adjuta pro qualque aspecto de OmegaT, que tu te adjunge gratis al gruppo &lt;u1&gt;Usatores de OmegaT&lt;/u1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need help for a specific case, you can also ask questions in the various support channels.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T143833Z" creationid="Melo46" creationdate="20250223T143833Z">
+        <seg>Si tu desira adjuta pro un caso specific, tu pote alsi poner questiones in le varie canales de assistentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47662,6 +47686,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T144218Z" creationid="Melo46" creationdate="20250223T144218Z">
+        <seg>Le expressiones regular usa un combination de litteras, cifras, e symbolos (insimul appellate &lt;e0&gt;characteres&lt;/e0&gt;) pro definir un &lt;e1&gt;expression&lt;/e1&gt; que representa un modello de texto particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reinstall the {0} plugin?</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T225118Z" creationid="Melo46" creationdate="20250222T225118Z">
@@ -48523,6 +48555,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T234314Z" creationid="Melo46" creationdate="20160728T234314Z">
         <seg>Repositorio {0} incognite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T144800Z" creationid="Melo46" creationdate="20250223T144800Z">
+        <seg>Representa un o plus “characteres del parola”,id es le litteras del alphabeto, cifras, e lineettas basse .</seg>
       </tuv>
     </tu>
     <tu>
@@ -73012,6 +73052,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T093300Z">
         <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\w+</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T145052Z" creationid="Melo46" creationdate="20250223T145052Z">
+        <seg>\w+</seg>
       </tuv>
     </tu>
     <tu>
