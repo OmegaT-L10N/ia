@@ -582,6 +582,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fileExtension}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111454Z" creationid="Melo46" creationdate="20250223T111454Z">
+        <seg>${fileExtension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fileNameOnly}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T064517Z">
@@ -4270,6 +4278,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/bin/bash&lt;/l0&gt; or &lt;l1&gt;#!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110723Z" creationid="Melo46" creationdate="20250223T110716Z">
+        <seg>/bin/bash&lt;/l0&gt; o &lt;l1&gt;#!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181209Z">
@@ -4298,6 +4314,14 @@ configurationes del projecto).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T230907Z" creationid="Melo46" creationdate="20250222T230907Z">
         <seg>/optar/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/usr/bin/env python3&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110726Z" creationid="Melo46" creationdate="20250223T110726Z">
+        <seg>/usr/bin/env python3&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12978,6 +13002,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T120941Z" creationid="Melo46" creationdate="20250223T120941Z">
+        <seg>Ben que vidite como intimidante e complexe, mesmo le plus simple expressiones regular (sovente abbreviate &lt;e0&gt;regex&lt;/e0&gt; o &lt;e1&gt;regexp&lt;/e1&gt;) es extrememente utile, non solo in OmegaT, ma in multe altere applicationes que tu poterea ussar sur base quotidian, con alcun variationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although this has many advantages, it can be very useful for the translator to be able to see the ultimate layout and formatting whilst translating.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T155323Z">
@@ -13448,6 +13480,14 @@ to receive a copy likewise does not require acceptance.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T223406Z" creationid="Karm46" creationdate="20171120T223406Z">
         <seg>E remove "#" al initio del riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And the script must be executable.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110746Z" creationid="Melo46" creationdate="20250223T110746Z">
+        <seg>E le script debe esser executabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16014,6 +16054,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T140539Z">
         <seg>Certe functiones del programma comocunque esseva commissionate per sponsores commercial que ha redonate le characteristicas al communitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chaining commands with &lt;l2&gt;&amp;&amp;&lt;/l2&gt; or &lt;l3&gt;||&lt;/l3&gt; or pipes &lt;l4&gt;|&lt;/l4&gt; will not work here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111114Z" creationid="Melo46" creationdate="20250223T111114Z">
+        <seg>Le commandos de incatenamento con &lt;l2&gt;&amp;&amp;&lt;/l2&gt; o &lt;l3&gt;||&lt;/l3&gt; o barras vertical &lt;l4&gt;|&lt;/l4&gt; non functionara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26211,6 +26259,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For security reasons, local post-processing commands are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110048Z" creationid="Melo46" creationdate="20250223T110016Z">
+        <seg>Pro rationes de securitate, le commandos de post-processo local es disactivate de ordinario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T212231Z" creationid="Karm46" creationdate="20171130T212231Z">
@@ -34088,6 +34144,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invoke-Item ${targetRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111434Z" creationid="Melo46" creationdate="20250223T111434Z">
+        <seg>Invoke-Item ${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Irish</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100215Z">
@@ -36691,6 +36755,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T182045Z">
         <seg>Le usatores de Linux e OS X pote trovar iste file utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux and macOS</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110648Z" creationid="Melo46" creationdate="20250223T110648Z">
+        <seg>Linux e macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -39607,6 +39679,14 @@ position appropriate como le plica Applicationes.</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180426T000912Z" creationid="karm46" creationdate="20180426T000912Z">
         <seg>Traduction automatic neuronal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Never run post-processing scripts from untrusted sources.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110020Z" creationid="Melo46" creationdate="20250223T110011Z">
+        <seg>Jammais face functionar scripts de post-processo ab fontes non de confidentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43799,6 +43879,30 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T203519Z" creationid="Melo46" creationdate="20160809T002159Z">
         <seg>Aperir le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Linux</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111254Z" creationid="Melo46" creationdate="20250223T111150Z">
+        <seg>Aperir le plica de destination in Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Windows Powershell</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111421Z" creationid="Melo46" creationdate="20250223T111421Z">
+        <seg>Aperir le plica de destination in Windows Powershell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in macOS</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111320Z" creationid="Melo46" creationdate="20250223T111320Z">
+        <seg>Aperir le plica de destination in macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -49113,6 +49217,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>STDOUT and STDERR are written to the &lt;l0&gt;omegat.log&lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110551Z" creationid="Melo46" creationdate="20250223T110551Z">
+        <seg>STDOUT e STDERR es scribite al file &lt;l0&gt;omegat.log&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T223242Z" creationid="Melo46" creationdate="20250219T223242Z">
@@ -51986,6 +52098,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T124857Z" creationid="Melo46" creationdate="20200727T124857Z">
         <seg>De modo similar, insere &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; pro verifica que ille tags HTML (per exemplo) inscribite in le texto fonte es preservate sin modification in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple example of a post-processing commands:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111129Z" creationid="Melo46" creationdate="20250223T111129Z">
+        <seg>Exemplo simple de un commando de post-processo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55058,6 +55178,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Template variables can be used with both regular commands and custom scripts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110222Z" creationid="Melo46" creationdate="20250223T110222Z">
+        <seg>Le variabiles de modello pote esser usate e con commandos regular, e con scripts personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084224Z">
@@ -56260,6 +56388,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PATH OmegaT uses may not be the same as the current user’s PATH.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110434Z" creationid="Melo46" creationdate="20250223T110434Z">
+        <seg>Le uso del ROUTE OmegaT pote non esser le mesme que le ROUTE del usator actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter already handles %..</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T083203Z" creationid="Melo46" creationdate="20210220T083203Z">
@@ -57447,6 +57583,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T220909Z">
         <seg>Le scripts exemplo supplite &lt;a0&gt;hic&lt;/a0&gt; lancea totos un fenestra, ma es anque concipibile scripts que exeque functiones in le fundo .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The exit code and STDERR or the last STDOUT will appear on the status bar.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110643Z" creationid="Melo46" creationdate="20250223T110643Z">
+        <seg>Le codice de exito e STDERR o le ultime STDOUT apparera sur le barra de stato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61775,6 +61919,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T233937Z" creationid="MELO46" creationdate="20140106T233937Z">
         <seg>Isto es un regula de exception, ergo le quadrato de controlo del regula non debe esser marcate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appendix is intended for users interested in exploring a powerful way to boost their productivity.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111539Z" creationid="Melo46" creationdate="20250223T111539Z">
+        <seg>Iste appendice es intendite pro usatores interessate in explorar un potente maniera de stimular lor productivitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72054,6 +72206,14 @@ in force.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may need to use an absolute path for your script.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110306Z" creationid="Melo46" creationdate="20250223T110306Z">
+        <seg>Tu pote haber besonio de usar un route absolute pro tu script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may not convey a covered
 work if you are a party to an arrangement with a third party that is
 in the business of distributing software, under which you make payment
@@ -72288,6 +72448,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T171226Z" creationid="ia" creationdate="20170909T171226Z">
         <seg>Tu debe specificar lor nove position o recrear los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should use a shebang, e.g. &lt;l0&gt;#!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T110709Z" creationid="Melo46" creationdate="20250223T110709Z">
+        <seg>Tu deberea usar un shebang, p. ex. &lt;l0&gt;#!</seg>
       </tuv>
     </tu>
     <tu>
@@ -78018,6 +78186,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>open ${targetRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111338Z" creationid="Melo46" creationdate="20250223T111338Z">
+        <seg>open ${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T125550Z" creationid="Melo46" creationdate="20160728T153327Z">
@@ -81040,6 +81216,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092102Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>xdg-open ${targetRoot}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T111153Z" creationid="Melo46" creationdate="20250223T111153Z">
+        <seg>xdg-open ${targetRoot}</seg>
       </tuv>
     </tu>
     <tu>
