@@ -28591,8 +28591,8 @@ Su hiberno ha venite</seg>
       <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T163441Z" creationid="will" creationdate="20230316T163441Z">
-        <seg>Pulsa &lt;k0&gt;F1&lt;/k0&gt; o accede le &lt;g1&gt;&gt; Adjuta (Help)&lt;/g1&gt; menu pro aperir le manual del usator.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T220604Z" creationid="will" creationdate="20230316T163441Z">
+        <seg>Pulsa &lt;k0&gt;F1&lt;/k0&gt; o accede al menu &lt;g1&gt;&gt; Adjuta (Help)&lt;/g1&gt; pro aperir le manual del usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34574,8 +34574,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It comes with a thorough introduction to OmegaT.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T163552Z" creationid="will" creationdate="20230316T163552Z">
-        <seg>Illo forni un minutiose introduction a OmegaT.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T221720Z" creationid="will" creationdate="20230316T163552Z">
+        <seg>Illo forni un introduction minutiose a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49343,6 +49343,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Exeque &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (con le GUI) e specifica le configurationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T220440Z" creationid="Melo46" creationdate="20250224T220440Z">
+        <seg>Exeque OmegaT</seg>
       </tuv>
     </tu>
     <tu>
