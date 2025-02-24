@@ -21186,6 +21186,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Digits and letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T235206Z" creationid="Melo46" creationdate="20250223T235206Z">
+        <seg>Cifras e litteras del alphabeto precedite per un barra-retro (&lt;l0&gt;\&lt;/l0&gt;) acquire un significato special</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T075200Z">
@@ -25863,6 +25871,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000127Z" creationid="Melo46" creationdate="20250224T000127Z">
+        <seg>Per exemplo, &lt;e0&gt;r&lt;/e0&gt; es justo un character normal ma precedente illo con &lt;l1&gt;\&lt;/l1&gt; pro render lo &lt;l2&gt;\r&lt;/l2&gt; lo volve in un combination special que concorda con un &lt;e3&gt;character de retorno carro&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150423T204004Z" creationid="Melo" creationdate="20150423T204004Z">
@@ -26095,6 +26111,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220106T100114Z" creationid="will" creationdate="20220106T100114Z">
         <seg>Per exemplo, le modello &lt;l1&gt;*.xhtml &lt;/l1&gt;concorda omne file con le extension .&lt;l2&gt;xhtml&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the seven letters spelling out the word “&lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T234226Z" creationid="Melo46" creationdate="20250223T234226Z">
+        <seg>Per exemplo, le septe litteras que compone le parola “&lt;e0&gt;exemplo&lt;/e0&gt;” simplemente indica al function de recerca de concordar exactemente ille litteras, in ille ordine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52410,6 +52434,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T234451Z" creationid="Melo46" creationdate="20250223T234451Z">
+        <seg>In poc parolas, le recerca justo presta attention al parola “&lt;e1&gt;exemplo&lt;/e1&gt;”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simply unpack the archive in the folder of your choice.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T193850Z">
@@ -67220,6 +67252,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T115801Z" creationid="Melo46" creationdate="20250222T115801Z">
         <seg>Incognite/Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike a letter on its own, which simply represents itself as noted above, a letter preceded by a &lt;l0&gt;\&lt;/l0&gt; has a special function in a regular expression.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250223T235404Z" creationid="Melo46" creationdate="20250223T235404Z">
+        <seg>Differente de un littera sol, que simplemente representa se mesme como notate supra, un littera precedite per un &lt;l0&gt;\&lt;/l0&gt; ha un function special in un expression regular.</seg>
       </tuv>
     </tu>
     <tu>
