@@ -2912,6 +2912,14 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(\b\w+\b)\h\1\b</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000857Z" creationid="Melo46" creationdate="20250224T000857Z">
+        <seg>(\b\w+\b)\h\1\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T093708Z">
@@ -17778,6 +17786,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Combinations containing three letters that start with “c” and ending with “t”, but are split across more than one line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000638Z" creationid="Melo46" creationdate="20250224T000638Z">
+        <seg>Combinationes que contine tres litteras que initia con “c” e fini con “t”, ma es dividite a transverso plus que un linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T072605Z">
@@ -21930,6 +21946,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does not match</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000348Z" creationid="Melo46" creationdate="20250224T000348Z">
+        <seg>Non concorda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does specified directory exist?</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T223113Z" creationid="Melo46" creationdate="20250222T223113Z">
@@ -22126,6 +22150,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T204037Z" creationid="MELO46" creationdate="20140629T203933Z">
         <seg>Blancos duplicate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doubled up words separated by a space, such as the consecutive “an” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T001117Z" creationid="Melo46" creationdate="20250224T001117Z">
+        <seg>Parolas duplate separate per un spatio, tal como le “un” consecutive in le sequente phrase:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31492,6 +31524,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only want to match the closing brace as itself, you do not need to precede it with a backslash.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T090630Z" creationid="Melo46" creationdate="20250224T090630Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T075929Z">
@@ -34882,6 +34922,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is special because it can never be used on its own.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T001312Z" creationid="Melo46" creationdate="20250224T001312Z">
+        <seg>Il es special perque illo pote jammais esser usate sol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is stored in the TMX file.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T181139Z" creationid="Melo46" creationdate="20250221T181139Z">
@@ -35006,6 +35054,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T133051Z" creationid="Melo46" creationdate="20160805T133051Z">
         <seg>Il pote alsi esser possibile aperir un projecto OmegaT per duple-clic sur un file &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It must be preceded by the &lt;l0&gt;\&lt;/l0&gt; if you need to match the closing parenthesis character itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T001423Z" creationid="Melo46" creationdate="20250224T001423Z">
+        <seg>Illo debe esser precedite per le &lt;l0&gt;\&lt;/l0&gt; si tu debe concordar le character de clausura parentheses mesme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38379,6 +38435,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000905Z" creationid="Melo46" creationdate="20250224T000905Z">
+        <seg>Concorda con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches Changed</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T232428Z" creationid="Melo" creationdate="20151014T232428Z">
@@ -38423,6 +38487,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T232429Z" creationid="Melo" creationdate="20151014T232429Z">
         <seg>Concordantias non Cambiate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches any single character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000509Z" creationid="Melo46" creationdate="20250224T000509Z">
+        <seg>Concorda con qualcunque character singule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47318,6 +47390,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Questions?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000359Z" creationid="Melo46" creationdate="20250224T000359Z">
+        <seg>Questiones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quiet option</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T080712Z">
@@ -52342,6 +52422,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T151405Z" creationid="Melo46" creationdate="20250222T151248Z">
         <seg>Versiones simile de '{0}' es presente ({1} e {2}), mantenente le ultime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000309Z" creationid="Melo46" creationdate="20250224T000309Z">
+        <seg>De modo similar, &lt;l4&gt;\R&lt;/l4&gt; concorda con &lt;e5&gt;qualcunque character de interruption de linea&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61157,6 +61245,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “that, that” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T001157Z" creationid="Melo46" creationdate="20250224T001157Z">
+        <seg>Le “que, que” in le sequente phrase:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20171113T224911Z">
@@ -66486,6 +66582,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000853Z" creationid="Melo46" creationdate="20250224T000853Z">
+        <seg>Tentar usar solo le parentheses de apertura o clausura spontaneemente causara un error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying with backup file</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T173103Z" creationid="will" creationdate="20230324T173103Z">
@@ -69589,6 +69693,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T083127Z">
         <seg>Qual es le par de lingua que tu necessita?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the missing letter?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T000715Z" creationid="Melo46" creationdate="20250224T000715Z">
+        <seg>Qual es le littera mancante?</seg>
       </tuv>
     </tu>
     <tu>
@@ -82309,6 +82421,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T122352Z" creationid="Karm46" creationdate="20171115T122352Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“But that, that is just unbelievable”, because the first “that” is followed by both a comma and a space rather than only a space.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T001249Z" creationid="Melo46" creationdate="20250224T001249Z">
+        <seg>“Ma que, que es justo incredibile”, perque le prime “que” es sequite per un comma e un spatio, plus tosto que solo un spatio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I bought an an apple.”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T001137Z" creationid="Melo46" creationdate="20250224T001137Z">
+        <seg>“Io comprava un un pomo.”</seg>
       </tuv>
     </tu>
     <tu>
