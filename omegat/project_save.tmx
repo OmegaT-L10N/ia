@@ -16240,8 +16240,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Change the language codes to reflect your source and target languages.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T163935Z" creationid="will" creationdate="20230316T163935Z">
-        <seg>Cambia le codice de lingua pro reflecter tu lingua fonte e lingua de destination.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T222407Z" creationid="will" creationdate="20230316T163935Z">
+        <seg>Cambia le codice de lingua pro reflecter tu lingua fonte e de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17402,6 +17402,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T062442Z" creationid="Melo46" creationdate="20151119T062442Z">
         <seg>Clicca sur &lt;e0&gt;Optiones, glossario&lt;/e0&gt; pro monstrar le optiones sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Add Files...&lt;/g0&gt; and add the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T223609Z" creationid="Melo46" creationdate="20250224T223609Z">
+        <seg>Clicca sur &lt;g0&gt;Adder Files...&lt;/g0&gt; e adde le files que tu vole traducer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21262,6 +21270,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T104807Z" creationid="Melo46" creationdate="20200728T104807Z">
         <seg>Disconnecte te del rete ante le apertura le projecto,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dismiss the window.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T223807Z" creationid="Melo46" creationdate="20250224T223807Z">
+        <seg>Claude le fenestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34574,8 +34590,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It comes with a thorough introduction to OmegaT.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250224T221720Z" creationid="will" creationdate="20230316T163552Z">
-        <seg>Illo forni un introduction minutiose a OmegaT.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T222051Z" creationid="will" creationdate="20230316T163552Z">
+        <seg>Il forni un introduction minutiose a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35168,6 +35184,14 @@ interne al plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T181910Z">
         <seg>Il non ha essite possibile crear le documentos rendite, perque alicun tags es mancante o damnificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T223354Z" creationid="Melo46" creationdate="20250224T223354Z">
+        <seg>Illo alsi creara un memoria de traduction vacue que illo compilara in secunde plano, un segmento a cata vice dum tu scribe tu traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38535,6 +38559,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T081836Z" creationid="Melo46" creationdate="20250222T081836Z">
         <seg>Concordantias delite inactive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T223544Z" creationid="Melo46" creationdate="20250224T223544Z">
+        <seg>concordantias pro ille memoria finalmente apparera in le pannello de &lt;g0&gt;Concordantias partial&lt;/g0&gt; pannello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65451,8 +65483,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="en">
         <seg>To start using OmegaT with minimal settings, do this:</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T163645Z" creationid="will" creationdate="20230316T163645Z">
-        <seg>Pro initiar usar OmegaT con configurationes minime, face isto:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T222316Z" creationid="will" creationdate="20230316T163645Z">
+        <seg>Pro comenciar a usar OmegaT con configurationes minime:</seg>
       </tuv>
     </tu>
     <tu>
@@ -75239,8 +75271,8 @@ crea le plica del configuration.</seg>
       <tuv lang="en">
         <seg>en</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130821T145711Z">
-        <seg>en</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T222105Z">
+        <seg>ia</seg>
       </tuv>
     </tu>
     <tu>
@@ -82481,10 +82513,18 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>→ OmegaT will copy the selected files into the project that you created in the previous step.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T223853Z" creationid="Melo46" creationdate="20250224T223853Z">
+        <seg>→ OmegaT copiara le files eligite in le projecto que tu ha create in le passo precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>→ OmegaT will create a folder set that contains your files.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T164057Z" creationid="will" creationdate="20230316T164057Z">
-        <seg>→ OmegaT va crear un collection de plicas que contine tu files.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T222522Z" creationid="Melo46" creationdate="20250224T222522Z">
+        <seg>→ OmegaT creara un insimul de plicas que contine tu files.</seg>
       </tuv>
     </tu>
     <tu>
