@@ -4498,6 +4498,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191109Z" creationid="Melo46" creationdate="20250225T191109Z">
+        <seg>1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T174052Z" creationid="will" creationdate="20230317T080533Z">
@@ -4618,6 +4626,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191121Z" creationid="Melo46" creationdate="20250225T191121Z">
+        <seg>2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -4684,6 +4700,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T042343Z">
         <seg>2nd exemplo de modification: augmentar le numero de concordantias partial displicate, ab cinque a dece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191129Z" creationid="Melo46" creationdate="20250225T191129Z">
+        <seg>3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14076,6 +14100,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T130625Z" creationid="Melo46" creationdate="20200730T130625Z">
         <seg>Appendices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apples</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191116Z" creationid="Melo46" creationdate="20250225T191116Z">
+        <seg>Pomos</seg>
       </tuv>
     </tu>
     <tu>
@@ -26015,6 +26047,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow these steps:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191216Z" creationid="Melo46" creationdate="20250225T191216Z">
+        <seg>Sequer iste passos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T125040Z">
@@ -28413,6 +28453,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Kos Ivantsov" changedate="20180402T095701Z" creationid="Kos Ivantsov" creationdate="20180402T095701Z">
         <seg>Aggruppamento {0} non existe in expression de cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Groups are numbered, and their contents group are stored in memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190538Z" creationid="Melo46" creationdate="20250225T190538Z">
+        <seg>Le gruppos es numerate, e lor contento es reservate in memoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45923,6 +45971,14 @@ Evanescente como bruma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parentheses are always used in opening and closing pairs.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190920Z" creationid="Melo46" creationdate="20250225T190920Z">
+        <seg>Le parentheses es sempre usate in copulas (apertura e clausura).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082448Z">
@@ -46079,6 +46135,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130808T123503Z">
         <seg>Paga attention extra al pares de tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pears</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191133Z" creationid="Melo46" creationdate="20250225T191133Z">
+        <seg>Piras</seg>
       </tuv>
     </tu>
     <tu>
@@ -52666,6 +52730,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequence numbers that are not at the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191207Z" creationid="Melo46" creationdate="20250225T191207Z">
+        <seg>Le sequentia numeric que non es al initio de un linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T123929Z" creationid="Melo46" creationdate="20250225T123929Z">
@@ -54908,6 +54980,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 1) Preparation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191218Z" creationid="Melo46" creationdate="20250225T191218Z">
+        <seg>Passo 1) Preparation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T225521Z" creationid="Melo46" creationdate="20160729T225521Z">
@@ -54936,6 +55016,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T084014Z">
         <seg>Grado 1: discoperi le marca del paragrapho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 2) …</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191223Z" creationid="Melo46" creationdate="20250225T191223Z">
+        <seg>Passo 2) …</seg>
       </tuv>
     </tu>
     <tu>
@@ -57633,6 +57721,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190232Z" creationid="Melo46" creationdate="20250225T190232Z">
+        <seg>Le PARENTHESE DE APERTURA: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Contribution Guide.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T073926Z" creationid="Melo46" creationdate="20250220T073926Z">
@@ -58474,6 +58570,14 @@ in vice.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T220538Z">
         <seg>Le contento del files es superscribite o quando un segmento nove es aperite (source.txt e target.txt) o quando a nove selection es exportate (selection.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content of the group can also be used in the &lt;l0&gt;replacement text&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190727Z" creationid="Melo46" creationdate="20250225T190727Z">
+        <seg>Le contento del gruppo poter alsi esser usate in le &lt;l0&gt;texto de reimplaciamento&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61310,6 +61414,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sequence number (including the parenthesis) at the beginning of each line in a list such as:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191105Z" creationid="Melo46" creationdate="20250225T191105Z">
+        <seg>Le sequentia numeric (includite le parenthese) al initio de cata linea in un lista tal como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T154309Z">
@@ -63127,6 +63239,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can be reused later in the search expression using &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190635Z" creationid="Melo46" creationdate="20250225T190635Z">
+        <seg>Illos pote esser reusate plus tarde in le expression de recerca per &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, ubi &lt;o3&gt;n&lt;/o3&gt; es le numero del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be used to:</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T090112Z" creationid="will" creationdate="20230228T090112Z">
@@ -63724,6 +63844,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T131803Z" creationid="Melo46" creationdate="20250225T131803Z">
         <seg>Iste character specifica que zero o plus instantias del precedente character o expression deberea esser concordate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character starts a &lt;e0&gt;group&lt;/e0&gt;, which is a set of characters treated as a single unit.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190342Z" creationid="Melo46" creationdate="20250225T190342Z">
+        <seg>Iste character initia un &lt;e0&gt;gruppo&lt;/e0&gt;, que es un insimul de characteres tractate como un unitate singule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67840,8 +67968,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250224T000853Z" creationid="Melo46" creationdate="20250224T000853Z">
-        <seg>Tentar usar solo le parentheses de apertura o clausura spontaneemente causara un error.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190959Z" creationid="Melo46" creationdate="20250224T000853Z">
+        <seg>Tentar de usar solo le parentheses de apertura o clausura causara un error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69300,6 +69428,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T074446Z" creationid="Melo46" creationdate="20250223T074446Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro vider le contentos del file de registro del session actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190802Z" creationid="Melo46" creationdate="20250225T190802Z">
+        <seg>Usa &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, ubi &lt;o3&gt;n&lt;/o3&gt; es le numero del gruppo definite in le recerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74977,6 +75113,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T130841Z" creationid="Melo46" creationdate="20250225T130841Z">
         <seg>^An|^Te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^\d+\)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191003Z" creationid="Melo46" creationdate="20250225T191003Z">
+        <seg>^\d+\)</seg>
       </tuv>
     </tu>
     <tu>
