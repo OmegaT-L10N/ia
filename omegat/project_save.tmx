@@ -26849,6 +26849,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freedoms</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T015121Z" creationid="Melo46" creationdate="20250225T015121Z">
+        <seg>Libertates de uso e modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084155Z">
@@ -31693,6 +31701,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T015015Z" creationid="Melo46" creationdate="20250225T015015Z">
+        <seg>Si tu desidera saper plus, lege le manual del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T080512Z" creationid="Melo46" creationdate="20200727T080512Z">
@@ -34768,6 +34784,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185823Z">
         <seg>Il es monstrate automaticamente quando OmegaT carga un projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T015424Z" creationid="Melo46" creationdate="20250225T015424Z">
+        <seg>Il es distribuite sub le terminos del &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42557,6 +42581,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T103351Z" creationid="Melo46" creationdate="20250221T103351Z">
         <seg>OmegaT es un application pro Traduction Assistite per Computator (CAT, Computer-Assisted Translation) gratuite,  multe-platteforma e open-source. Offere concordantias partial, memorias de traduction, recerca per parolas clave, glossarios, e traduction que conta sur projectos actualisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T015329Z" creationid="Melo46" creationdate="20250225T015329Z">
+        <seg>OmegaT es un application gratuite de traduction assistite per le computator (CAT), pro traductores professional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50501,6 +50533,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T174400Z" creationid="will" creationdate="20220109T174400Z">
         <seg>Vide &lt;e4&gt;Modifica (edition) del traduction&lt;/e4&gt; for plus de detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;g1&gt;&gt; Help&lt;/g1&gt; &lt;g2&gt;&gt; About&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T015456Z" creationid="Melo46" creationdate="20250225T015456Z">
+        <seg>Vider &lt;g1&gt;&gt; Adjutar&lt;/g1&gt; &lt;g2&gt;&gt; Re&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58592,6 +58632,22 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T015917Z" creationid="Melo46" creationdate="20250225T015917Z">
+        <seg>Le libertate de exequer OmegaT como tu desidera, pro qualcunque scopo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to study how OmegaT works, and change it so it does your computing as you wish.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020306Z" creationid="Melo46" creationdate="20250225T020306Z">
+        <seg>Le libertate de studiar como OmegaT functiona, e cambiar lo assi que illo computa como tu desidera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T230513Z">
@@ -58934,6 +58990,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T135737Z">
         <seg>Le nivellos se refere al information de formato que es continite in le file TMX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license grants you the following freedoms:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T015625Z" creationid="Melo46" creationdate="20250225T015625Z">
+        <seg>Le licentia te concede le libertates sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67978,8 +68042,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250224T224806Z" creationid="Melo46" creationdate="20250224T224806Z">
-        <seg>Usa &lt;g0&gt;&gt; Projecto&lt;/g0&gt;&lt;g1&gt;&gt; Crear Files traducite&lt;/g1&gt; pro crear le documento traducite quandocunque.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T014825Z" creationid="Melo46" creationdate="20250224T224806Z">
+        <seg>Usa &lt;g0&gt;&gt; Projecto&lt;/g0&gt;&lt;g1&gt;&gt; Crear Files traducite&lt;/g1&gt; pro quandocunque crear le documento traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68004,6 +68068,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T073030Z" creationid="Melo46" creationdate="20200731T073030Z">
         <seg>Usa le modo &lt;g0&gt;ID comparation&lt;/g0&gt; pro alinear Clave=Valor textos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T014946Z" creationid="Melo46" creationdate="20250225T014946Z">
+        <seg>Usa &lt;g1&gt;&gt; Projecto&lt;/g1&gt; &lt;g2&gt;&gt; Acceder contentos del projecto&lt;/g2&gt; pro acceder al files.</seg>
       </tuv>
     </tu>
     <tu>
