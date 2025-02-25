@@ -8102,6 +8102,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131207Z" creationid="Melo46" creationdate="20250225T131207Z">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (ubi “␣” representa un sol spatio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository=""/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T094544Z" creationid="Melo46" creationdate="20200728T094544Z">
@@ -10902,6 +10910,22 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T072758Z">
         <seg>Un file script de lanceamento non es supplite con le versiones de OmegaT pro Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A line that consists of a single word and ends with a colon:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125734Z" creationid="Melo46" creationdate="20250225T125734Z">
+        <seg>Un linea que consiste de un sol parola e fini con duo-punctos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A line that consists of a single word, but does not end in a colon:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125801Z" creationid="Melo46" creationdate="20250225T125801Z">
+        <seg>Un linea que consiste de un sol parola, ma non fini in duo-punctos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13716,6 +13740,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T125044Z" creationid="Melo46" creationdate="20250225T125044Z">
         <seg>Qualcunque character que &lt;e0&gt;non&lt;/e0&gt; es “a”, “b”, o “c”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any combinations of three letters starting with “c” and ending with “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “&lt;e3&gt;czt&lt;/e3&gt;” or “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T130202Z" creationid="Melo46" creationdate="20250225T130202Z">
+        <seg>qualcunque combination de tres litteras comenciante con “c” e finiente con “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, o mesmo combinationes sin senso tal como “&lt;e3&gt;czt&lt;/e3&gt;” o “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23114,6 +23146,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T042357Z">
         <seg>Cata uno pote esser usate como le fonte o le destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either the “a ” or the “an ” in:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131237Z" creationid="Melo46" creationdate="20250225T131237Z">
+        <seg>Sia con le “a ”, que con le “an ” in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35368,6 +35408,14 @@ interne al plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T223354Z" creationid="Melo46" creationdate="20250224T223354Z">
         <seg>Illo alsi creara un memoria de traduction vacue que illo compilara in secunde plano, un segmento a cata vice dum tu scribe tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131619Z" creationid="Melo46" creationdate="20250225T131619Z">
+        <seg>Illo alsi trovara le final “an ” de “Can ” in un phrase tal como “Can que latra non morde?”, que le final “a ” de “pasta ” in “Nos habeva pasta pro prandio.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -47694,6 +47742,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Questions:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125740Z" creationid="Melo46" creationdate="20250225T125740Z">
+        <seg>Questiones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Questions?</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T000359Z" creationid="Melo46" creationdate="20250224T000359Z">
@@ -56827,6 +56883,14 @@ Source.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DOLLAR sign: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125540Z" creationid="Melo46" creationdate="20250225T125540Z">
+        <seg>Le signo de DOLLAR: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T000023Z" creationid="Karm46" creationdate="20170910T000023Z">
@@ -57217,6 +57281,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PERIOD: &lt;l0&gt;.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125810Z" creationid="Melo46" creationdate="20250225T125810Z">
+        <seg>Le PUNCTO: &lt;l0&gt;.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter already handles %..</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T083203Z" creationid="Melo46" creationdate="20210220T083203Z">
@@ -57277,6 +57349,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T095016Z" creationid="Melo46" creationdate="20200728T095016Z">
         <seg>Le Gestor de projecto debe controlar con le traductor que le statistica es identic sur ambe le lateres (latere servitor e latere traductor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The QUESTION MARK: &lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131015Z" creationid="Melo46" creationdate="20250225T131015Z">
+        <seg>Le PUNCTO DE INTERROGATION: &lt;l0&gt;?&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57415,6 +57495,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T155428Z">
         <seg>Le URL monstrate sub Servicios de Projecto essera usate per SVN pro connecter le clientes al servitor SVN que tu ha justo establite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The VERTICAL BAR: &lt;l0&gt;|&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T130614Z" creationid="Melo46" creationdate="20250225T130614Z">
+        <seg>Le BARRA VERTICAL: &lt;l0&gt;|&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59188,6 +59276,14 @@ modification has been made.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The initial “An” or “The” in phrases such as:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T130920Z" creationid="Melo46" creationdate="20250225T130920Z">
+        <seg>Le “An” o le “The” initial in expressiones tal como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The install program can create shortcuts for you in the start menu, on the
 desktop and in the quick launch area.</seg>
       </tuv>
@@ -59516,6 +59612,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T042050Z">
         <seg>Le locationes del varie differente memorias de traduction pro un projecto date son definite per le usator (vide le fenestra de dialogo Projecto in &lt;l0&gt;Proprietates del Projecto)&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The lowercase “a”, “b”, or “c” in the word “back”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125510Z" creationid="Melo46" creationdate="20250225T125510Z">
+        <seg>Le minusculas “a”, “b”, o “c” in le parola “retro”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63036,6 +63140,22 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T115550Z" creationid="Melo46" creationdate="20250225T115550Z">
         <seg>Iste character cancella o activa le significato special del character sequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character functions as an “OR” and matches either of the expressions that precede or follow it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T130806Z" creationid="Melo46" creationdate="20250225T130806Z">
+        <seg>Iste character functiona como un “O” e concorda sia con del expressiones que lo precede, que con lo que lo seque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that either zero or one instance of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131133Z" creationid="Melo46" creationdate="20250225T131133Z">
+        <seg>Iste character specifica que sia zero, que un instantia del precedente character o expression deberea esser concordate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70473,6 +70593,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When it is the last character in an expression, the &lt;e0&gt;dollar&lt;/e0&gt; sign matches the end of a line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125609Z" creationid="Melo46" creationdate="20250225T125609Z">
+        <seg>Quando il es le ultime character in un expression, le signo de &lt;e0&gt;dollar&lt;/e0&gt; concorda con le fin de un linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When launched in console mode, no GUI is loaded ( it will work therefore on any console) and the given project is automatically translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T090041Z">
@@ -74197,6 +74325,22 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>^An|^The</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T130841Z" creationid="Melo46" creationdate="20250225T130841Z">
+        <seg>^An|^Te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^\w+:$</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125612Z" creationid="Melo46" creationdate="20250225T125612Z">
+        <seg>^\w+:$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>___________________</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T065750Z">
@@ -74905,6 +75049,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144558Z">
         <seg>c) You must license the entire work, as a whole, under this</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>c.t</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125822Z" creationid="Melo46" creationdate="20250225T125822Z">
+        <seg>c.t</seg>
       </tuv>
     </tu>
     <tu>
@@ -83097,6 +83249,22 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>“A story called &lt;e0&gt;An Unsung Hero&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131003Z" creationid="Melo46" creationdate="20250225T131003Z">
+        <seg>“A story called &lt;e0&gt;An Unsung Hero&lt;/e0&gt;.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“An apple a day…”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T130923Z" creationid="Melo46" creationdate="20250225T130923Z">
+        <seg>“An apple a day…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>“But that, that is just unbelievable”, because the first “that” is followed by both a comma and a space rather than only a space.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T001249Z" creationid="Melo46" creationdate="20250224T001249Z">
@@ -83109,6 +83277,38 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T001137Z" creationid="Melo46" creationdate="20250224T001137Z">
         <seg>“Io comprava un un pomo.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I have a question.”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131241Z" creationid="Melo46" creationdate="20250225T131241Z">
+        <seg>“I have a question.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I know an excellent doctor.”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131246Z" creationid="Melo46" creationdate="20250225T131246Z">
+        <seg>“I know an excellent doctor.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“The apple of my eye…”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T130932Z" creationid="Melo46" creationdate="20250225T130932Z">
+        <seg>“The apple of my eye…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“They work for &lt;e0&gt;The Daily Post&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131008Z" creationid="Melo46" creationdate="20250225T131008Z">
+        <seg>“They work for &lt;e0&gt;The Daily Post&lt;/e0&gt;.”</seg>
       </tuv>
     </tu>
     <tu>
