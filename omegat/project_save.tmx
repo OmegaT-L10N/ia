@@ -42244,6 +42244,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Numbers such as “1.5”, “23.2” or “5235.8” with a single decimal place and any number of digits before the decimal point.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T155433Z" creationid="Melo46" creationdate="20250225T155433Z">
+        <seg>Le numeros tal como “1.5”, “23.2” o “5235.8” con un sol decimal e qualcunque numero de cifras ante le puncto decimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nuosu</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141155Z">
@@ -44611,6 +44619,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T073844Z" creationid="will" creationdate="20230304T073844Z">
         <seg>Solmente le optiones que non es disponibile sub le filtro de files XHTML (vide supra) es describite hic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the portion of the after the thousands separator will be matched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T190013Z" creationid="Melo46" creationdate="20250225T190013Z">
+        <seg>Solo le parte post le separator de milles (,) concordara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58900,6 +58916,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T093401Z">
         <seg>Le fin de un linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entire value of numbers such as “5,235.8” or “21,571.9”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T155510Z" creationid="Melo46" creationdate="20250225T155510Z">
+        <seg>Tote le valores de numeros tal como “5,235.8” o “21,571.9”.</seg>
       </tuv>
     </tu>
     <tu>
