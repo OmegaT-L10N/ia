@@ -8102,10 +8102,26 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T144800Z" creationid="Melo46" creationdate="20250225T144800Z">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; es qualcunque character que &lt;e1&gt;non&lt;/e1&gt; es un spatio blanc horizontal, e &lt;l2&gt;\V&lt;/l2&gt; qualcunque character que &lt;e3&gt;non&lt;/e3&gt; es un spatio blanc vertical (&lt;l4&gt;[^\h]&lt;/l4&gt; e &lt;l5&gt;[^\v]&lt;/l5&gt;, respectivemente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T144009Z" creationid="Melo46" creationdate="20250225T144009Z">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; es qualcunque character que &lt;e1&gt;non&lt;/e1&gt; es un character spatio blanc (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\h&lt;/l0&gt; and &lt;l1&gt;\v&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T144021Z" creationid="Melo46" creationdate="20250225T144021Z">
+        <seg>&lt;l0&gt;\h&lt;/l0&gt; e &lt;l1&gt;\v&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10838,6 +10854,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T230342Z" creationid="MELO46" creationdate="20140106T230342Z">
         <seg>Un cifra: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few examples are presented in the table below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T145424Z" creationid="Melo46" creationdate="20250225T145424Z">
+        <seg>Alcun exemplos es presentate in le tabella infra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28793,6 +28817,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T121906Z">
         <seg>A casa*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Horizontal and vertical whitespace (generally preferred to &lt;l0&gt;\s&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T144522Z" creationid="Melo46" creationdate="20250225T144522Z">
+        <seg>spatio blanc horizontal e vertical (generalmente preferite a &lt;l0&gt;\s&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48306,6 +48338,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are not limited to alphanumeric characters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T144838Z" creationid="Melo46" creationdate="20250225T144838Z">
+        <seg>Le expressiones regular non es limitate a characteres alphanumeric.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T173301Z" creationid="Melo46" creationdate="20250223T173301Z">
@@ -51069,6 +51109,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T121925Z">
         <seg>Vide referentias additional e exemplos in sequito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; for a thorough review of Unicode regular expressions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T145620Z" creationid="Melo46" creationdate="20250225T145620Z">
+        <seg>Vide alsi &lt;u0&gt;Expressiones regular Unicode&lt;/u0&gt; pro un recension minutiose del Expressiones regular Unicode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62719,6 +62767,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They cover the entire Unicode character set.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T145022Z" creationid="Melo46" creationdate="20250225T145022Z">
+        <seg>Illos coperir tote le insimul del characteres Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T145313Z" creationid="MELO46" creationdate="20140109T143901Z">
@@ -68860,6 +68916,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T095906Z" creationid="will" creationdate="20230322T095906Z">
         <seg>Usar Instrumentos &gt; Controlar le problemas... pro corriger le errores de tags e probar de novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Unicode blocks, scripts and categories to specify character classes outside the alphanumeric character range.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T145406Z" creationid="Melo46" creationdate="20250225T145406Z">
+        <seg>Usar le blocos, le scripts e le categorias Unicode pro specificar classes de characteres foras del campo del characteres alphanumeric.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77569,6 +77633,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T065951Z">
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T145428Z" creationid="Melo46" creationdate="20250225T145428Z">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
       </tuv>
     </tu>
     <tu>
