@@ -16790,6 +16790,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203459Z" creationid="Melo46" creationdate="20250225T203459Z">
+        <seg>Characteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081656Z">
@@ -22422,6 +22430,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T102430Z">
         <seg>Esque le plica contine tres files del identic nomine, con extensiones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doing so makes the entire search expression case sensitive.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T204445Z" creationid="Melo46" creationdate="20250225T204445Z">
+        <seg>Facer assi rende le integre expression de recerca sensibile al majusculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29389,6 +29405,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, regular expressions also provide special modifiers to specify case sensitivity within the expression:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T204746Z" creationid="Melo46" creationdate="20250225T204746Z">
+        <seg>Comocunque, le expressiones regular alsi forni modificatores special pro specificar le sensitivitate al majuscule/minuscule in le expression:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T210004Z" creationid="Karm46" creationdate="20171126T210004Z">
@@ -33145,6 +33169,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T185448Z">
         <seg>Conjunctemente con le script te-st-notags, isto provide un fenestra separate in le qual le tags non es monstrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In contrast, Regular expressions are case sensitive by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T204508Z" creationid="Melo46" creationdate="20250225T204508Z">
+        <seg>Al contrario, le expressiones regular es sensibile al majusculas de ordinario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40095,6 +40127,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most characters match themselves.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203545Z" creationid="Melo46" creationdate="20250225T203545Z">
+        <seg>Plus de characteres concorda se mesme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most characters simply match themselves</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T174023Z" creationid="Melo46" creationdate="20250223T174023Z">
@@ -45531,6 +45571,22 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T084244Z" creationid="Melo46" creationdate="20200730T084244Z">
         <seg>Oracle offere JREs pro Solaris SPARC/x86 (Java 8) e pro Linux x64, Solaris x64, Windows x64 (Java 8) a &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oranges</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203349Z" creationid="Melo46" creationdate="20250225T203349Z">
+        <seg>Oranges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ordinary OmegaT searches are case insensitive by default: they match both uppercase and lowercase characters, unless you choose to enable the &lt;l0/&gt; option.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T204214Z" creationid="Melo46" creationdate="20250225T204214Z">
+        <seg>Le recercas ordinari de OmegaT es insensibile al majuscule/minuscule de ordinario: illos concorda ambe characteres de litera majuscule e minuscule, si tu non selige de activar le &lt;l0/&gt; option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58515,6 +58571,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The carriage-return character, not the letter “r”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203942Z" creationid="Melo46" creationdate="20250225T203942Z">
+        <seg>Le character de retorno carro, non le littera “r”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T215922Z" creationid="Karm46" creationdate="20171115T215922Z">
@@ -58591,6 +58655,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T144139Z">
         <seg>Le character x, excepte le sequente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character “x” itself</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203522Z" creationid="Melo46" creationdate="20250225T203522Z">
+        <seg>Le mesme character “x”</seg>
       </tuv>
     </tu>
     <tu>
@@ -60712,6 +60784,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The newline (line feed) character, not the letter “n”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203849Z" creationid="Melo46" creationdate="20250225T203849Z">
+        <seg>Le character avantiamento de linea (fluxo de linea), non le littera “n”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T144713Z">
@@ -61742,6 +61822,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203450Z" creationid="Melo46" creationdate="20250225T203450Z">
+        <seg>Le plus simple expression regular consiste de un sol character, o combination de un &lt;l0&gt;\&lt;/l0&gt; e un character constituente un unitate, con un sol significato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T183357Z" creationid="Melo46" creationdate="20200730T074159Z">
@@ -62071,6 +62159,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092205Z">
         <seg>Le character de tabulation ('\u0009')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character, not the letter “t”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203715Z" creationid="Melo46" creationdate="20250225T203715Z">
+        <seg>Le character tabulation, non le littera “t”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65120,6 +65216,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T041639Z">
         <seg>Isto significa per exemplo que tu non necessitate exir de un projecto re qui tu actualmente labora si tu decide de adder a illo un altere TM auxiliar: tu recarga simplemente le projecto, e le cambia tu ha facite essera includite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that a regular expression search for “OmegaT”, for example, will not match “omegat”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T204601Z" creationid="Melo46" creationdate="20250225T204601Z">
+        <seg>Isto significa que un expression regular que cerca “OmegaT”, per exemplo, non concordara “omegat”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74075,6 +74179,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T204854Z" creationid="Melo46" creationdate="20250225T204854Z">
+        <seg>Tu pote haber avantage de isto pro applicar un ben grado de controlo a sensitivitate al majuscule/minuscule in le recercas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can test this with the relevant command below on the command line (terminal/console/DOS prompt).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T175050Z">
@@ -75169,6 +75281,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T093216Z">
         <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d+.d</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203341Z" creationid="Melo46" creationdate="20250225T203341Z">
+        <seg>\d+.d</seg>
       </tuv>
     </tu>
     <tu>
