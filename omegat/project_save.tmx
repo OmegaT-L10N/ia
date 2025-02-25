@@ -13712,6 +13712,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character that is &lt;e0&gt;not&lt;/e0&gt; “a”, “b”, or “c”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125044Z" creationid="Melo46" creationdate="20250225T125044Z">
+        <seg>Qualcunque character que &lt;e0&gt;non&lt;/e0&gt; es “a”, “b”, o “c”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T173412Z" creationid="Melo46" creationdate="20250223T173412Z">
@@ -33286,6 +33294,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the word “back”, for instance, only the “k” is matched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125127Z" creationid="Melo46" creationdate="20250225T125127Z">
+        <seg>In le parola “back”, per exemplo, solo le “k” es concordate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In these cases, it is practical to remove them before exporting the file to XML, so that you are presented with cohesive segments for translation, and then to re-insert them in Infix at the end of the process.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T202925Z">
@@ -52162,6 +52178,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T123929Z" creationid="Melo46" creationdate="20250225T123929Z">
+        <seg>Sequentias tal como 0,1, 0-3, o le prime tres characteres de 0x002E, que esserea concordate si le expression era justo &lt;l0&gt;0.[0-9]&lt;/l0&gt;, sin barra-retro ante le puncto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serbian</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100339Z">
@@ -56753,6 +56777,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T102244Z">
         <seg>Le Concise Encyclopedia Britannic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The CARET: &lt;l0&gt;^&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T124122Z" creationid="Melo46" creationdate="20250225T124122Z">
+        <seg>Le ACCENTO CIRCUMFLEXE: &lt;l0&gt;^&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61497,6 +61529,22 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T221310Z" creationid="Melo46" creationdate="20200730T221310Z">
         <seg>Le parte superior es in le lingua fonte, in characteres nigrate con un color de fundo verde, le parte inferior es le campo de modifica, terminate per un marcator: le marcator es &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; ubi nnnn es un numero de segmento in le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T124810Z" creationid="Melo46" creationdate="20250225T124810Z">
+        <seg>Le litera “A” majuscule in le sequente phrase: “Avantiar in le etate”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T125442Z" creationid="Melo46" creationdate="20250225T125442Z">
+        <seg>Le littera “A” majuscule in le sequente phrase: “Mi amico scribe un libro appellate &lt;e0&gt;Al fin del viage&lt;/e0&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70409,6 +70457,22 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it matches all the characters that are not part of that class.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T124302Z" creationid="Melo46" creationdate="20250225T124302Z">
+        <seg>Quando illo es le prime character in &lt;l0&gt;un classe de characteres clause in parentheses&lt;/l0&gt;, illo concorda con tote le characteres que non es parte de ille classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in the expression, the &lt;e0&gt;caret&lt;/e0&gt; character matches the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T124202Z" creationid="Melo46" creationdate="20250225T124202Z">
+        <seg>Quando il es le prime character in le expression, le character &lt;e0&gt;accento circumflexe&lt;/e0&gt; concorda con le initio de un linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When launched in console mode, no GUI is loaded ( it will work therefore on any console) and the given project is automatically translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T090041Z">
@@ -74121,6 +74185,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T093326Z">
         <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^A</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T124307Z" creationid="Melo46" creationdate="20250225T124307Z">
+        <seg>^A</seg>
       </tuv>
     </tu>
     <tu>
