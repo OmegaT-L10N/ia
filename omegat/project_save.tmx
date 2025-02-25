@@ -2942,6 +2942,14 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(You can still add it, but it will have no effect on the expression or the result.)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T192626Z" creationid="Melo46" creationdate="20250225T192626Z">
+        <seg>(Tu pote ancora adder lo, ma illo habera necun effecto sur le expression o le resultato.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -32092,6 +32100,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T192559Z" creationid="Melo46" creationdate="20250225T192559Z">
+        <seg>Si tu solo vole concordar le parenthese de clausura, tu non besonia de preceder lo con un barra-retro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T075929Z">
@@ -39877,6 +39893,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193036Z" creationid="Melo46" creationdate="20250225T193036Z">
+        <seg>Altere mal orthographia egregie tal como “licensse” o “lissense”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More examples</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T153302Z" creationid="Melo46" creationdate="20250225T153302Z">
@@ -44659,6 +44683,22 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T083733Z" creationid="Melo46" creationdate="20250225T083733Z">
         <seg>Solo le litteras &lt;e0&gt;i, j, l, m, o&lt;/e0&gt;, e &lt;e1&gt;y&lt;/e1&gt;, sia minuscule que majuscule, non ha significato special quando precedite per un barra-retro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the opening brace is special and needs to be preceded by a backslash to search for the brace character itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193150Z" creationid="Melo46" creationdate="20250225T193150Z">
+        <seg>Solo le parenthese crispe de apertura es special e debe esser precedite per un barra-retro a cercar le parenthese crispe character se mesme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T192347Z" creationid="Melo46" creationdate="20250225T192347Z">
+        <seg>Solo le parenthese de apertura es special e debe esser precedite per un barra-retro pro cercar le character del parenthese mesme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57721,10 +57761,26 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING CURLY BRACE: &lt;l0&gt;{&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193409Z" creationid="Melo46" creationdate="20250225T193053Z">
+        <seg>Le PARENTHESE CRISPE DE APERTURA: &lt;l0&gt;{&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T190232Z" creationid="Melo46" creationdate="20250225T190232Z">
         <seg>Le PARENTHESE DE APERTURA: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OPENING SQUARE BRACKET: &lt;l0&gt;[&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T191650Z" creationid="Melo46" creationdate="20250225T191650Z">
+        <seg>Le PARENTESE QUADRATE DE APERTURA: &lt;l0&gt;[&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58674,6 +58730,14 @@ in vice.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092902Z">
         <seg>Le character de controlo correspondente a x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T192906Z" creationid="Melo46" creationdate="20250225T192906Z">
+        <seg>Le orthographia correcte de “licence” e “license”, in addition al mal orthographia potential “lisence” e “lisense”</seg>
       </tuv>
     </tu>
     <tu>
@@ -63820,6 +63884,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T130806Z" creationid="Melo46" creationdate="20250225T130806Z">
         <seg>Iste character functiona como un “O” e concorda sia con del expressiones que lo precede, que con lo que lo seque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T192156Z" creationid="Melo46" creationdate="20250225T192156Z">
+        <seg>Iste character debe esser accopulate con le parenthese quadrate de clausura pro includer un insimul de characteres individual que cata representa un valide potential concordantia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79395,6 +79467,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T140455Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>li[cs]en[cs]e</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T192630Z" creationid="Melo46" creationdate="20250225T192630Z">
+        <seg>li[cs]en[cs]e</seg>
       </tuv>
     </tu>
     <tu>
