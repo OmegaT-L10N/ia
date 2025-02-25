@@ -2586,6 +2586,38 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?!u)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152421Z" creationid="Melo46" creationdate="20250225T152421Z">
+        <seg>(?!u)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(?&lt;!q)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152718Z" creationid="Melo46" creationdate="20250225T152718Z">
+        <seg>(?&lt;!q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(?&lt;=q)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152638Z" creationid="Melo46" creationdate="20250225T152638Z">
+        <seg>(?&lt;=q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(?=u)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152244Z" creationid="Melo46" creationdate="20250225T152244Z">
+        <seg>(?=u)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?i)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T205513Z">
@@ -6270,6 +6302,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T084218Z" creationid="Melo46" creationdate="20200730T084218Z">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; installa un Java JRE pro tu systema (vide in basso) e discarga &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Not&lt;/e0&gt; a word boundary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152242Z" creationid="Melo46" creationdate="20250225T152242Z">
+        <seg>&lt;e0&gt;Non&lt;/e0&gt; un limite de parola</seg>
       </tuv>
     </tu>
     <tu>
@@ -10740,6 +10780,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152259Z" creationid="Melo46" creationdate="20250225T152259Z">
+        <seg>Un character sequite per un “u”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T150532Z" creationid="Melo46" creationdate="20250225T150532Z">
@@ -10752,6 +10800,30 @@ on the Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T134239Z" creationid="MELO46" creationdate="20140109T134239Z">
         <seg>Un character in le bloco grec (simplice  &lt;u0&gt; bloco&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152648Z" creationid="Melo46" creationdate="20250225T152648Z">
+        <seg>Un character precedite per le littera “q”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152439Z" creationid="Melo46" creationdate="20250225T152439Z">
+        <seg>Un character que &lt;e0&gt;non&lt;/e0&gt; es sequite per le littera “u”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153029Z" creationid="Melo46" creationdate="20250225T153029Z">
+        <seg>Un character que &lt;e0&gt;non&lt;/e0&gt; es precedite per le littera “q”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18586,6 +18658,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the sites in the &lt;l0/&gt; section for more information.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152014Z" creationid="Melo46" creationdate="20250225T152014Z">
+        <seg>Consultar le sitos in le &lt;l0/&gt; section pro altere informationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T210746Z" creationid="Karm46" creationdate="20171126T210746Z">
@@ -24676,6 +24756,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Expressions that mark a position</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152024Z" creationid="Melo46" creationdate="20250225T152024Z">
+        <seg>Expressiones que marca un position</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extension</seg>
       </tuv>
       <tuv lang="ia">
@@ -26167,6 +26255,22 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; matches the letter “u” if it does &lt;e1&gt;not&lt;/e1&gt; come after “q”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153052Z" creationid="Melo46" creationdate="20250225T153052Z">
+        <seg>Per exemplo, &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; concorda con le littera “u” si illo &lt;e1&gt;non&lt;/e1&gt; veni post “q”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; matches the letter “u” if it comes after “q”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152657Z" creationid="Melo46" creationdate="20250225T152657Z">
+        <seg>Per exemplo, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; concorda con le littera “u” si illo veni post “q”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20131219T074747Z" creationid="MELO" creationdate="20131219T074747Z">
@@ -26179,6 +26283,22 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T071943Z" creationid="Melo46" creationdate="20200727T071933Z">
         <seg>Per exemplo, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?!u)&lt;/l0&gt; matches the letter “q” when it is &lt;e1&gt;not&lt;/e1&gt; followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152501Z" creationid="Melo46" creationdate="20250225T152501Z">
+        <seg>Per exemplo, &lt;l0&gt;q(?!u)&lt;/l0&gt; concorda con le littera “q” quando illo &lt;e1&gt;non&lt;/e1&gt; es sequite per un “u”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?=u)&lt;/l0&gt; matches the letter “q” when it is followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152332Z" creationid="Melo46" creationdate="20250225T152332Z">
+        <seg>Per exemplo, &lt;l0&gt;q(?=u)&lt;/l0&gt; concorda con le littera “q” quando illo es sequite per un “u”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35482,6 +35602,38 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152634Z" creationid="Melo46" creationdate="20250225T152417Z">
+        <seg>Illo dunque concorda con le “q” in “equal” o “question”, ma &lt;e1&gt;non&lt;/e1&gt; con illo in “qigong” o “Iraq”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152626Z" creationid="Melo46" creationdate="20250225T152626Z">
+        <seg>Illo dunque concorda con le “q” in “qigong” o “Iraq”, ma &lt;e2&gt;non&lt;/e2&gt; con illo in “equal” o “question”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “u” in “quick”, but not the one in “run”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152716Z" creationid="Melo46" creationdate="20250225T152716Z">
+        <seg>Illo dunque concorda con le “u” in “quick”, ma non le sol in “run”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “u” in “run”, but &lt;e2&gt;not&lt;/e2&gt; the one in “quick”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153155Z" creationid="Melo46" creationdate="20250225T153155Z">
+        <seg>Illo dunque concorda con le “u” in “run”, ma &lt;e2&gt;non&lt;/e2&gt; con illo in “quick”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -39561,6 +39713,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T104028Z">
         <seg>Magis pote trovar se in le articulo &lt;u0&gt;Revision del defectos indolor&lt;/u0&gt; by Joel Spolsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More examples</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153302Z" creationid="Melo46" creationdate="20250225T153302Z">
+        <seg>Altere exemplos</seg>
       </tuv>
     </tu>
     <tu>
@@ -61403,6 +61563,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The table below list a few of the more common examples.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T152007Z" creationid="Melo46" creationdate="20250225T152007Z">
+        <seg>Le tabula infra lista alcun del exemplos plus commun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The tag validation window detects and lists any tag errors and inconsistencies in the translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T190841Z">
@@ -62867,6 +63035,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T230930Z" creationid="MELO46" creationdate="20140106T230930Z">
         <seg>Illos ha le significato, familiar al usatores de Word:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They indicate where in the text to look for the match, but do not include any characters in that match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T151927Z" creationid="Melo46" creationdate="20250225T151927Z">
+        <seg>Illos indica ubi in le texto cercar le concordantia, sin includer alcun character in ille concordantia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64752,6 +64928,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T043354Z">
         <seg>Iste script:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents a few examples demonstrating how the various expressions described above can be combined to perform powerful searches in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153456Z" creationid="Melo46" creationdate="20250225T153456Z">
+        <seg>Iste section presenta alcun exemplos que demonstra como le varie expressiones supra describite pote esser combinate pro exequer potente recercas in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
