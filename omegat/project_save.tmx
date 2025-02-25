@@ -8102,6 +8102,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T144009Z" creationid="Melo46" creationdate="20250225T144009Z">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; es qualcunque character que &lt;e1&gt;non&lt;/e1&gt; es un character spatio blanc (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T131207Z" creationid="Melo46" creationdate="20250225T131207Z">
