@@ -8110,6 +8110,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; in the Greek block.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150607Z" creationid="Melo46" creationdate="20250225T150607Z">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; es qualcunque character que &lt;e1&gt;non&lt;/e1&gt; es in le bloco grec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T144009Z" creationid="Melo46" creationdate="20250225T144009Z">
@@ -10732,6 +10740,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150532Z" creationid="Melo46" creationdate="20250225T150532Z">
+        <seg>Un character in le bloco grec (&lt;u0&gt;bloco Unicode&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T134239Z" creationid="MELO46" creationdate="20140109T134239Z">
@@ -10814,6 +10830,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T205831Z">
         <seg>Un symbolo de numerario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T151227Z" creationid="Melo46" creationdate="20250225T151227Z">
+        <seg>Un symbolo de valuta, que es alsi un &lt;u0&gt;categoria Unicode&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10982,6 +11006,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T164329Z">
         <seg>Un lista de URLs de repositorios is fornite plus avante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150838Z" creationid="Melo46" creationdate="20250225T150838Z">
+        <seg>Un logogram (character &lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;) trovate in  linguas CJK(&lt;u3&gt;script Unicode&lt;/u3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13600,6 +13632,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T202118Z">
         <seg>Un intendimento del processos implicate es tamen importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T151001Z" creationid="Melo46" creationdate="20250225T151001Z">
+        <seg>Un littera majuscule (&lt;u0&gt;categoria Unicode&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24624,6 +24664,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T210049Z">
         <seg>Exporta le selection currente in un file de texto pro processar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expression</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150252Z" creationid="Melo46" creationdate="20250225T150252Z">
+        <seg>Expression</seg>
       </tuv>
     </tu>
     <tu>
@@ -38643,6 +38691,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150314Z" creationid="Melo46" creationdate="20250225T150314Z">
+        <seg>Concordantia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T095016Z">
@@ -39481,6 +39537,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T090352Z">
         <seg>More &gt; Even More &gt; Innovation/Code &gt; APIs Console &gt; Service/Translate API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More advanced expressions</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T151312Z" creationid="Melo46" creationdate="20250225T151312Z">
+        <seg>Expressiones plus avantiate</seg>
       </tuv>
     </tu>
     <tu>
@@ -53390,6 +53454,14 @@ can do so.</seg>
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some expressions specify a position rather than a character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T151327Z" creationid="Melo46" creationdate="20250225T151327Z">
+        <seg>Alcun expressiones specifica un position plus tosto que un character.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68008,6 +68080,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode blocks, scripts and categories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T145650Z" creationid="Melo46" creationdate="20250225T145650Z">
+        <seg>blocos, le scripts e le categorias Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unicode support: can be used with various alphabets and scripts</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T082901Z" creationid="Melo46" creationdate="20250220T082901Z">
@@ -74341,6 +74421,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\p{IsHan}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150610Z" creationid="Melo46" creationdate="20250225T150610Z">
+        <seg>\p{IsHan}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\p{Lu}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T122411Z">
@@ -77617,6 +77705,30 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T095204Z" creationid="Melo46" creationdate="20200726T095204Z">
         <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#Blocks</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150334Z" creationid="Melo46" creationdate="20250225T150334Z">
+        <seg>https://unicode.org/reports/tr18/#Blocks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#General_Category_Property</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150908Z" creationid="Melo46" creationdate="20250225T150849Z">
+        <seg>https://unicode.org/reports/tr18/#General_Category_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T150613Z" creationid="Melo46" creationdate="20250225T150613Z">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
       </tuv>
     </tu>
     <tu>
