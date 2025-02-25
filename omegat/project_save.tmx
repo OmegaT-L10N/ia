@@ -4266,6 +4266,30 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022140Z" creationid="Melo46" creationdate="20250225T022140Z">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew run</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022149Z" creationid="Melo46" creationdate="20250225T022149Z">
+        <seg>./gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022156Z" creationid="Melo46" creationdate="20250225T022156Z">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.csv</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T075313Z" creationid="Melo46" creationdate="20250223T075313Z">
@@ -12894,6 +12918,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T023024Z" creationid="Melo46" creationdate="20250225T023024Z">
+        <seg>Al latere de un version existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T162223Z">
@@ -15452,6 +15484,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T065517Z">
         <seg>Le defectos, le requestas de functionalitates e le problemas re le documentation es tractate sur Sourceforge con le sequente systemas de revision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Build OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022123Z" creationid="Melo46" creationdate="20250225T022123Z">
+        <seg>Compilar OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -20637,6 +20677,14 @@ Nove version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022043Z" creationid="Melo46" creationdate="20250225T022043Z">
+        <seg>Deler OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130609T210442Z">
@@ -22302,6 +22350,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T213841Z" creationid="Karm46" creationdate="20171128T213841Z">
         <seg>Discarga le &lt;a0&gt;pacchetto tokenizer zip (pro OmegaT version 2.1.1 e subsequente)&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the &lt;e0&gt;Cross-platform without JRE&lt;/e0&gt; version.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T083240Z" creationid="Melo46" creationdate="20250225T083240Z">
+        <seg>Discarga le version &lt;e0&gt;Multi-platteforma sin JRE&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42182,6 +42238,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can tell you when a new version is available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022522Z" creationid="Melo46" creationdate="20250225T022522Z">
+        <seg>OmegaT pote dicer te quando un nove version es disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T150243Z">
@@ -42969,6 +43033,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T073955Z">
         <seg>Projectos e sub plicas de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT projects are &lt;e1&gt;not&lt;/e1&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T023343Z" creationid="Melo46" creationdate="20250225T023343Z">
+        <seg>Le projectos de OmegaT &lt;e1&gt;non&lt;/e1&gt;es  immagazinate intra OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44995,6 +45067,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130426T220239Z">
         <seg>Corrupte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022731Z" creationid="Melo46" creationdate="20250225T022731Z">
+        <seg>Super un version existente</seg>
       </tuv>
     </tu>
     <tu>
@@ -47254,6 +47334,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T103559Z">
         <seg>Le projectos pote esser tractate secundo tu stilo de disveloppamento e tu necessitates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T023436Z" creationid="Melo46" creationdate="20250225T023436Z">
+        <seg>Le projectos que tu ha create in le passato o es actualmente usate &lt;e0&gt;non&lt;/e0&gt; sera modificate o delite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51009,6 +51097,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T023048Z" creationid="Melo46" creationdate="20250225T023048Z">
+        <seg>Vider le section &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085728Z" creationid="will" creationdate="20230228T085728Z">
@@ -54044,6 +54140,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 6.1.0</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022528Z" creationid="Melo46" creationdate="20250225T022528Z">
+        <seg>Standard: OmegaT 6.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -55987,6 +56091,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T125124Z" creationid="Melo46" creationdate="20250220T125124Z">
         <seg>Iste plica contine tote le files necessari pro face functionar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That includes the platforms described above, as well as platforms for which no specific OmegaT package is provided.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T083201Z" creationid="Melo46" creationdate="20250225T083201Z">
+        <seg>Isto include le platteformas describite supra, e platteformas pro le qual necun specific pacchetto OmegaT es fornite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60270,6 +60382,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022314Z" creationid="Melo46" creationdate="20250225T022314Z">
+        <seg>Le script controla pro un installation existente del mesme version de OmegaT in &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script is available for the Windows platform only.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T223512Z">
@@ -62159,6 +62279,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022945Z" creationid="Melo46" creationdate="20250225T022945Z">
+        <seg>Illos es objectos separate que non ha connexion physic al application OmegaT mesme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are terminology files in a format recognized by OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T183003Z" creationid="will" creationdate="20230315T183003Z">
@@ -62816,6 +62944,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022450Z" creationid="Melo46" creationdate="20250225T022450Z">
+        <seg>Isto crea un plica appellate &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081848Z" creationid="Melo46" creationdate="20200730T081848Z">
@@ -63277,6 +63413,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T183801Z">
         <seg>Iste information se refere sol al versiones "Traditional" de OmegaT pro Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T023657Z" creationid="Melo46" creationdate="20250225T023657Z">
+        <seg>Iste informationes se applica a qualcunque systema pro un version de Java compatibile con le ambiente Java 11 runtime es disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68652,6 +68796,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144736Z">
         <seg>Use with the GNU Affero General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use your operating system’s standard procedure to remove OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T023239Z" creationid="Melo46" creationdate="20250225T023239Z">
+        <seg>Usa le procedura standard de tu systema operative pro remover OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76729,6 +76881,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T080828Z" creationid="Melo46" creationdate="20210220T080828Z">
         <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022129Z" creationid="Melo46" creationdate="20250225T022129Z">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
       </tuv>
     </tu>
     <tu>
