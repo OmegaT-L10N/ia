@@ -14172,6 +14172,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As stated above, the &lt;l0&gt;\&lt;/l0&gt; character has the default special meaning of either cancelling or activating the special meaning of other characters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T085719Z" creationid="Melo46" creationdate="20250225T085719Z">
+        <seg>Como asserite supra, le character &lt;l0&gt;\&lt;/l0&gt; ha le significato special sia de cancellar, que de activar le significato special de altere characteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As such, it does nothing not already done by the OmegaT Editor pane; its purpose is to illustrate how the text can be extracted from a script file and made available for further scripts.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T221337Z">
@@ -18438,6 +18446,14 @@ software for all its users.</seg>
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
 		Un lista blanc de regular expressiones del files fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the sites in the &lt;l0/&gt; section below for information on combinations not covered here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T084239Z" creationid="Melo46" creationdate="20250225T084239Z">
+        <seg>Consulta le sitos in le &lt;l0/&gt; section infra pro informationes sur combinationes non tractate ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25659,6 +25675,14 @@ Alcun attributos ha valores non valide.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220107T182707Z" creationid="will" creationdate="20220107T182707Z">
         <seg>Sequer vostre instructiones de systema pro installar le vias breve de in commode places of your choosing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T083528Z" creationid="Melo46" creationdate="20250225T083528Z">
+        <seg>Seque le instructiones de tu systema pro installar le vias breve de OmegaT in postos conveniente de tu election.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34760,6 +34784,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Illo esseva largemente adoptate e es supportate per quasi tote le actual applicationes CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It has no effect if placed before a character with no special meaning (either by default or by addition).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T085823Z" creationid="Melo46" creationdate="20250225T085823Z">
+        <seg>Isto non ha alcun effecto si ubicate ante un character sin significato special (sia de ordinario, que per addition).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43919,6 +43951,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One example is &lt;l1&gt;.&lt;/l1&gt;: on its own, it has the special meaning of matching &lt;e2&gt;any single character&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T084954Z" creationid="Melo46" creationdate="20250225T084954Z">
+        <seg>Un exemplo es &lt;l1&gt;.&lt;/l1&gt;: si sol, illo ha le significato special de concordar &lt;e2&gt;qualcunque character singule&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T154450Z">
@@ -44075,6 +44115,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T121648Z" creationid="Melo46" creationdate="20250223T121648Z">
         <seg>Solo le notiones fundamental plus utile a traductores es tractate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T083733Z" creationid="Melo46" creationdate="20250225T083733Z">
+        <seg>Solo le litteras &lt;e0&gt;i, j, l, m, o&lt;/e0&gt;, e &lt;e1&gt;y&lt;/e1&gt;, sia minuscule que majuscule, non ha significato special quando precedite per un barra-retro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56135,6 +56183,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That special meaning has to be cancelled by another character to match the character itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T084401Z" creationid="Melo46" creationdate="20250225T084401Z">
+        <seg>Ille significato special debe esser cancellate per un altero character pro concordar le character mesme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That the file conversion utility is installed properly and is working.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T162645Z">
@@ -56360,6 +56416,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T081041Z">
         <seg>Le version /trunk (alpha) reflecte le ultimissime stato del disveloppamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 12 characters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T090004Z" creationid="Melo46" creationdate="20250225T090004Z">
+        <seg>Le 12 characteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -56592,6 +56656,22 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220108T071343Z" creationid="will" creationdate="20220108T071343Z">
         <seg>Le argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; causa que OmegaT usa le lingua specificate plus tosto que le lingua del systema operative del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T085939Z" creationid="Melo46" creationdate="20250225T085939Z">
+        <seg>Le &lt;l0&gt;\&lt;/l0&gt; pote cancellar su proprie significato special per duplication usque forma &lt;l1&gt;\\&lt;/l1&gt;, que simplemente concorda con le mesme character &lt;e2&gt;barra-retro&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;\&lt;/l0&gt; character is a very special character</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T085425Z" creationid="Melo46" creationdate="20250225T085425Z">
+        <seg>Le character &lt;l0&gt;\&lt;/l0&gt; es un character multo special</seg>
       </tuv>
     </tu>
     <tu>
@@ -58836,6 +58916,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T020306Z" creationid="Melo46" creationdate="20250225T020306Z">
         <seg>Le libertate de studiar como OmegaT functiona, e cambiar lo assi que illo computa como tu desidera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The full list of characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T084406Z" creationid="Melo46" creationdate="20250225T084406Z">
+        <seg>Le lista complete de characteres es presentate &lt;l0&gt;infra&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61329,6 +61417,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T155054Z">
         <seg>Al traductor essera monstrate traductiones anglese pro le segmentos fonte in nederlandese e usa los pro crear le traduction chinese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The twelve special characters are the &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, the &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, the &lt;e4&gt;dollar sign&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, the &lt;e6&gt;period&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, the &lt;e9&gt;vertical bar&lt;/e9&gt; (or &lt;e10&gt;pipe symbol&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, the &lt;e12&gt;question mark&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, the &lt;e14&gt;asterisk&lt;/e14&gt; (or &lt;e15&gt;star&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, the &lt;e17&gt;plus sign&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, the opening &lt;e19&gt;parenthesis&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, the closing &lt;e21&gt;parenthesis&lt;/e21&gt;, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T114944Z" creationid="Melo46" creationdate="20250225T091129Z">
+        <seg>Le dece-duo characteres special es: le &lt;e0&gt;barra-retro&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, le &lt;e2&gt;accento circumflexe&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, le &lt;e4&gt;signo de dollar&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, le &lt;e6&gt;periodo&lt;/e6&gt; (o &lt;e7&gt;puncto&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, le &lt;e9&gt;barra vertical&lt;/e9&gt; &lt;l11&gt;|&lt;/l11&gt;, le &lt;e12&gt;puncto de interrogation&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, le &lt;e14&gt;asterisco&lt;/e14&gt; &lt;l16&gt;*&lt;/l16&gt;, le &lt;e17&gt;signo plus&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, le &lt;e19&gt;parentheses&lt;/e19&gt; aperte &lt;l20&gt;(&lt;/l20&gt;, le &lt;e21&gt;parentheses&lt;/e21&gt; clause, &lt;l22&gt;)&lt;/l22&gt;, le &lt;e23&gt;parenthese quadrate parenthese&lt;/e23&gt; aperte &lt;l24&gt;[&lt;/l24&gt;, e le &lt;e25&gt;parenthese crispe&lt;/e25&gt; aperte &lt;l26&gt;{&lt;/l26&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63836,6 +63932,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This manual only describes a small subset of letters that take on a special meaning.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T083803Z" creationid="Melo46" creationdate="20250225T083803Z">
+        <seg>Iste manual solo describe un parve sub-insimul de litteras que prende un significato special.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T151421Z">
@@ -65232,6 +65336,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102655Z">
         <seg>Pro habilitar le corrector orthographic, selige &lt;g0&gt;Optiones &gt; Controlo Orthographic&lt;/g0&gt; e marca le cassa de marca &lt;g1&gt;Controla automaticamente le orthographia del texto&lt;/g1&gt; (vide ante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find a normal period, that meaning has to be cancelled using the &lt;l0&gt;\&lt;/l0&gt;, to make the expression &lt;l1&gt;\.&lt;/l1&gt;, which just matches a period.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T085337Z" creationid="Melo46" creationdate="20250225T085337Z">
+        <seg>Pro trovar un puncto normal, ille significato debe esser cancellate per le &lt;l0&gt;\&lt;/l0&gt;, pro crear le expression &lt;l1&gt;\.&lt;/l1&gt;, que justo concorda con un puncto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66994,6 +67106,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170909T234143Z" creationid="Karm46" creationdate="20170909T234143Z">
         <seg>Breve instructiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twelve characters have a special meaning by default</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T084246Z" creationid="Melo46" creationdate="20250225T084246Z">
+        <seg>Dece-duo characteres ha un significato special de ordinario</seg>
       </tuv>
     </tu>
     <tu>
