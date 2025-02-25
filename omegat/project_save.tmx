@@ -6042,6 +6042,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “&lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “&lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193854Z" creationid="Melo46" creationdate="20250225T193854Z">
+        <seg>&lt;e0&gt;Attention:&lt;/e0&gt; Ben que le ultime duo codices supra non concorda completemente, le expression retornara le “&lt;e1&gt;1472/698&lt;/e1&gt;” parte de “1472/6985”, in addition al “&lt;e2&gt;5133/157&lt;/e2&gt;” de “95133/15746”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160815T184947Z" creationid="Melo" creationdate="20151117T192122Z">
@@ -18122,6 +18130,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Codes such as “123/45”, “1472/6985”, or “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193821Z" creationid="Melo46" creationdate="20250225T193821Z">
+        <seg>Codices tal como “123/45”, “1472/6985”, o “95133/15746”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Codes such as “1234/5”, “1472/69”, or “9513/842” consisting of four digits, a forward slash, and one to three more digits.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193815Z" creationid="Melo46" creationdate="20250225T193815Z">
+        <seg>Codices tal como “1234/5”, “1472/69”, o “9513/842” consistente de quatro digitos, un barra oblique directe, e un a tres altere cifras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T172209Z" creationid="Karm46" creationdate="20170929T172209Z">
@@ -25811,6 +25835,14 @@ Alcun attributos ha valores non valide.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T220537Z" creationid="Karm46" creationdate="20171126T220537Z">
         <seg>Al fin, il ha le &lt;s0&gt;Parve instruction del novicio&lt;/s0&gt;, disponibile &lt;a1&gt;ci&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find an email address.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T194128Z" creationid="Melo46" creationdate="20250225T194128Z">
+        <seg>Trovar un adresse email.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38091,6 +38123,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lots of expressions</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193857Z" creationid="Melo46" creationdate="20250225T193857Z">
+        <seg>Plure expressiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Luba-Katanga</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T140533Z">
@@ -48970,6 +49010,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T194016Z" creationid="Melo46" creationdate="20250225T194016Z">
+        <seg>Rememora que plus characteres &lt;e0&gt;alphabetic&lt;/e0&gt; precedite per un &lt;l1&gt;\&lt;/l1&gt; se transforma in un expression que representa &lt;e2&gt;non le character se mesme, ma su significato special associate&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T140551Z">
@@ -53382,6 +53430,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T111129Z" creationid="Melo46" creationdate="20250223T111129Z">
         <seg>Exemplo simple de un commando de post-processo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple expressions</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T194120Z" creationid="Melo46" creationdate="20250225T194120Z">
+        <seg>Le expressiones simple</seg>
       </tuv>
     </tu>
     <tu>
@@ -63888,6 +63944,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This character must be paired with the closing curly brace to encloses an &lt;e0&gt;exact number&lt;/e0&gt;, &lt;e1&gt;minimum&lt;/e1&gt;, &lt;e2&gt;maximum&lt;/e2&gt;, or &lt;e3&gt;range&lt;/e3&gt; specifying how many instances of the preceding character or group should be matched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193709Z" creationid="Melo46" creationdate="20250225T193709Z">
+        <seg>Iste character debe esser accopulate con le parenthese crispe de clausura pro inglobar un &lt;e0&gt;precise numero&lt;/e0&gt;, &lt;e1&gt;minime&lt;/e1&gt;, &lt;e2&gt;maxime&lt;/e2&gt;, o &lt;e3&gt;campo&lt;/e3&gt; specificar quante instantias del precedente character o gruppo deberea esser concordate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T192156Z" creationid="Melo46" creationdate="20250225T192156Z">
@@ -65328,6 +65392,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T153456Z" creationid="Melo46" creationdate="20250225T153456Z">
         <seg>Iste section presenta alcun exemplos que demonstra como le varie expressiones supra describite pote esser combinate pro exequer potente recercas in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193919Z" creationid="Melo46" creationdate="20250225T193919Z">
+        <seg>Iste section presenta varie typos de expressiones regular, extendente se ab le simple al complexe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74773,6 +74845,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T194132Z" creationid="Melo46" creationdate="20250225T194132Z">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[^\n\r\t]</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T154012Z" creationid="Melo46" creationdate="20250225T154012Z">
@@ -74985,6 +75065,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T154420Z" creationid="Melo46" creationdate="20250225T153809Z">
         <seg>-+\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d{4}/\d{1,3}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T193717Z" creationid="Melo46" creationdate="20250225T193717Z">
+        <seg>\d{4}/\d{1,3}</seg>
       </tuv>
     </tu>
     <tu>
