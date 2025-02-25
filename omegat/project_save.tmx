@@ -10900,6 +10900,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the range of letters from “C” through “X”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202528Z" creationid="Melo46" creationdate="20250225T202528Z">
+        <seg>Un character in le campo de litteras ab “C” fin a “X”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character preceded by the letter “q”.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T152648Z" creationid="Melo46" creationdate="20250225T152648Z">
@@ -11046,6 +11054,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T230342Z" creationid="MELO46" creationdate="20140106T230342Z">
         <seg>Un cifra: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few additional resources are presented below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T201708Z" creationid="Melo46" creationdate="20250225T201708Z">
+        <seg>Alcun additional ressources es presentate infra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11338,6 +11354,14 @@ the only significant mode of use of the product.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T162229Z">
         <seg>Un memoria pseudo-rendite pote esser generate con le parametros de linea de commando sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A range is defined by the first character in a series, followed by a hyphen, followed by last character in the series.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202556Z" creationid="Melo46" creationdate="20250225T202556Z">
+        <seg>Un campo es definite per le prime character in un serie, sequite per un tracto de union, sequite per ultime character in le series.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17618,6 +17642,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T050719Z" creationid="Melo46" creationdate="20200726T050719Z">
         <seg>Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202604Z" creationid="Melo46" creationdate="20250225T202604Z">
+        <seg>Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T203333Z" creationid="Melo46" creationdate="20250225T203333Z">
+        <seg>Le classes es definite claudente le characteres desirate in parentheses quadrate, e pote esser specificate o listante cata singule character a includer, o specificante plure characteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31808,6 +31848,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find other interesting references—in any language—the OmegaT team would love to hear about them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202408Z" creationid="Melo46" creationdate="20250225T202408Z">
+        <seg>Si tu trova altere interessante referentias in alcun lingua, le equipa de OmegaT amarea audir re illos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you find the suggestion acceptable, press &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; to replace the target part of the opened segment with the suggestion.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T203136Z">
@@ -32281,6 +32329,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T015015Z" creationid="Melo46" creationdate="20250225T015015Z">
         <seg>Si tu desidera saper plus, lege le manual del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to learn more about using regular expressions, the two following sites have proven very useful.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202115Z" creationid="Melo46" creationdate="20250225T202115Z">
+        <seg>Si tu desira saper plus re le uso del expressiones regular, le duo sequente sitos ha provate esser multo utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36123,6 +36179,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160225T134211Z" creationid="Melo" creationdate="20160225T134116Z">
         <seg>File XML proprietates Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Regex documentation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T201940Z" creationid="Melo46" creationdate="20250225T201940Z">
+        <seg>Documentation Java del expressiones regular</seg>
       </tuv>
     </tu>
     <tu>
@@ -43006,6 +43070,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not support either site in any way.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202249Z" creationid="Melo46" creationdate="20250225T202249Z">
+        <seg>OmegaT non supporta alcuno de iste sitos in alcun maniera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not support these formats directly.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T095831Z">
@@ -48826,6 +48898,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions allow you to create sets of characters—known as &lt;e0&gt;classes&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202701Z" creationid="Melo46" creationdate="20250225T202701Z">
+        <seg>Le expressiones regular te permitte de crear insimules de characteres, note como &lt;e0&gt;classes&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T214115Z">
@@ -51293,6 +51373,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T150255Z" creationid="Melo46" creationdate="20250223T150255Z">
         <seg>Recercas include un &lt;l0/&gt; option que te permitte de facer recercas extrememente potente inter tu files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches will match any of the characters in the set.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202752Z" creationid="Melo46" creationdate="20250225T202752Z">
+        <seg>Le recercas concordara qualcunque del characteres in le insimul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57657,6 +57745,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java technical reference is useful as a canonical reference.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T201850Z" creationid="Melo46" creationdate="20250225T201850Z">
+        <seg>Le referentia technic de Java es utile como referentia canonic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130609T205201Z">
@@ -60644,6 +60740,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151115T170332Z" creationid="Melo46" creationdate="20151115T170332Z">
         <seg>Tu debe passar al lanceamento a OmegaT le clave API obtenite, al lanceamento con le parametro de linea de commando &lt;c0&gt;yandex.api.key&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The official reference for regular expressions used in Java.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T202018Z" creationid="Melo46" creationdate="20250225T202018Z">
+        <seg>Le referentia official pro le expressiones regular usate in Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65416,6 +65520,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T121422Z">
         <seg>Isto breve texto describe le comportamento de claves in le quadro Modificar, le editor del segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This simple expression may not cover every possible valid email address format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T201654Z" creationid="Melo46" creationdate="20250225T201654Z">
+        <seg>Iste simple expression non pote coperir cata possibile valide formato de adresse email.</seg>
       </tuv>
     </tu>
     <tu>
