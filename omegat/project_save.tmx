@@ -11290,6 +11290,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A whitespace character, including the space and tab characters, as well as line breaks.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T141416Z" creationid="Melo46" creationdate="20250225T141416Z">
+        <seg>Un character spatio blanc, includite le characteres spatio e tabulation, e le interruptiones de linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T230412Z" creationid="MELO46" creationdate="20140106T230412Z">
@@ -40167,6 +40175,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Neither the “a” nor the “an” in:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131639Z" creationid="Melo46" creationdate="20250225T131639Z">
+        <seg>Ni le “a” ni le “an” in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nepali</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141137Z">
@@ -56813,6 +56829,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ASTERISK: &lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131744Z" creationid="Melo46" creationdate="20250225T131744Z">
+        <seg>Le ASTERISCO: &lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Add Finished!</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T161925Z">
@@ -56841,6 +56865,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T124122Z" creationid="Melo46" creationdate="20250225T124122Z">
         <seg>Le ACCENTO CIRCUMFLEXE: &lt;l0&gt;^&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The CLOSING PARENTHESIS: &lt;l0&gt;)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T132136Z" creationid="Melo46" creationdate="20250225T132136Z">
+        <seg>Le PARENTHESE DE CLAUSURA: &lt;l0&gt;)&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59234,6 +59266,14 @@ parts of the General Public License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T141528Z" creationid="Karm46" creationdate="20171115T141528Z">
         <seg>Le JRE includite es le version a 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The indefinite article: “a” (or “an”).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131738Z" creationid="Melo46" creationdate="20250225T131738Z">
+        <seg>Le articulo indefinite: “a” (o “an”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62551,6 +62591,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are not followed by a space.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131741Z" creationid="Melo46" creationdate="20250225T131741Z">
+        <seg>Illes non es sequite per un spatio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140112T090234Z">
@@ -63136,6 +63184,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This character closes a group.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131839Z" creationid="Melo46" creationdate="20250225T131839Z">
+        <seg>Iste character claude un gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This character either cancels or activates the special meaning of the following character.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T115550Z" creationid="Melo46" creationdate="20250225T115550Z">
@@ -63156,6 +63212,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T131133Z" creationid="Melo46" creationdate="20250225T131133Z">
         <seg>Iste character specifica que sia zero, que un instantia del precedente character o expression deberea esser concordate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131803Z" creationid="Melo46" creationdate="20250225T131803Z">
+        <seg>Iste character specifica que zero o plus instantias del precedente character o expression deberea esser concordate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80707,6 +80771,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100329Z">
         <seg>Curre (&amp;Run)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>run\w*</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T131807Z" creationid="Melo46" creationdate="20250225T131807Z">
+        <seg>run\w*</seg>
       </tuv>
     </tu>
     <tu>
