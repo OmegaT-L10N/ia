@@ -11010,6 +11010,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T115642Z" creationid="Melo46" creationdate="20250225T115642Z">
+        <seg>Un numero inter &lt;e0&gt;0.0&lt;/e0&gt; e &lt;e1&gt;0.9&lt;/e1&gt;, o justo le final &lt;e2&gt;0.5&lt;/e2&gt; in numeros tal como 10.5 o 560.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T173655Z" creationid="Melo46" creationdate="20250223T173655Z">
@@ -56668,6 +56676,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;\.&lt;/l0&gt; cancels the “any character” meaning of the period to match the decimal point, while the &lt;l1&gt;\d&lt;/l1&gt; turns the ordinarily lowercase “d” letter into an expression that matches any digit between 0 and 9.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T123811Z" creationid="Melo46" creationdate="20250225T123811Z">
+        <seg>Le &lt;l0&gt;\.&lt;/l0&gt; cancella le significato “qualcunque character” del puncto pro concordar le puncto decimal, dum le &lt;l1&gt;\d&lt;/l1&gt; volve le generalmente minuscule littera “d” in un expression que concorda con qualcunque cifra inter 0 e 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T085939Z" creationid="Melo46" creationdate="20250225T085939Z">
@@ -56721,6 +56737,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T161925Z">
         <seg>Le Adde es finite!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The BACKSLASH: &lt;l0&gt;\&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T115510Z" creationid="Melo46" creationdate="20250225T115510Z">
+        <seg>Le BARRA-RETRO: &lt;l0&gt;\&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62956,6 +62980,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T171200Z">
         <seg>Iste capitulo es designate pro usatores experte, que debe definir lor proprie variantes de regulas de segmentation o imagina elementos clave de recerca plus complexe e potente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character either cancels or activates the special meaning of the following character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T115550Z" creationid="Melo46" creationdate="20250225T115550Z">
+        <seg>Iste character cancella o activa le significato special del character sequente.</seg>
       </tuv>
     </tu>
     <tu>
