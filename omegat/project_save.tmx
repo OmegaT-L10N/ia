@@ -31156,6 +31156,14 @@ by the Installation Information.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T022038Z" creationid="Melo46" creationdate="20250225T022038Z">
+        <seg>Si tu decide de installar un nove version, tene in mente lo que seque:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.</seg>
@@ -34760,6 +34768,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T231252Z">
         <seg>Il es avantagiose anque de demandar presso le &lt;a1&gt;lista del localisatores&lt;/a1&gt; (OmT-l10n) si alicuno ha ulle material de referentia que poterea facilitar le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is automatically generated every week, and serves as a beta version for testing purposes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020633Z" creationid="Melo46" creationdate="20250225T020633Z">
+        <seg>Isto es automaticamente generate cata septimana, e servi como version beta scopos de test.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41926,6 +41942,22 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.1.0 and later can also run with a Java 17 Runtime Environment on any platform.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021231Z" creationid="Melo46" creationdate="20250225T021231Z">
+        <seg>OmegaT 6.1.0 e plus recente pote alsi functionar con un ambiente Java 11 runtime sur qualcunque platteforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.1.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020913Z" creationid="Melo46" creationdate="20250225T020913Z">
+        <seg>OmegaT 6.1.0 pro functionar require un ambiente Java 11 runtime (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T152603Z" creationid="Karm46" creationdate="20171128T132140Z">
@@ -42168,8 +42200,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT comes in two editions:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250220T111859Z" creationid="Melo46" creationdate="20250220T111859Z">
-        <seg>OmegaT veni in duo editiones:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020450Z" creationid="Melo46" creationdate="20250220T111859Z">
+        <seg>OmegaT existe in duo editiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43517,6 +43549,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On other platforms</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021357Z" creationid="Melo46" creationdate="20250225T021357Z">
+        <seg>Sur altere platteformas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T182439Z">
@@ -43747,6 +43787,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T082149Z" creationid="Melo46" creationdate="20200730T082149Z">
         <seg>Un vice que tu ha exequite isto, tu pote deler le file &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, illo non servi plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021749Z" creationid="Melo46" creationdate="20250225T021749Z">
+        <seg>Un vice que tu ha facite isto, tu poter dele le pacchetto discargate perque illo non es plus necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45099,6 +45147,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20131219T070120Z" creationid="MELO" creationdate="20131219T070120Z">
         <seg>Le testa del PO essera saltate e lassate sin alteration, si es marcate iste option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java 11 Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021004Z" creationid="Melo46" creationdate="20250225T021004Z">
+        <seg>Pacchettos sin Java conta sur un ambiente Java 11 runtime installate a nivello de systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58256,6 +58312,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020709Z" creationid="Melo46" creationdate="20250225T020709Z">
+        <seg>Le files es discargabile directemente de &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files are unformatted plain text files.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T104842Z">
@@ -58628,6 +58692,22 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130818T170948Z">
         <seg>Le formattation representate per le gruppo tu ha duplicate essera applicate a ambe sectiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to distribute copies of your modified versions to others.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020359Z" creationid="Melo46" creationdate="20250225T020359Z">
+        <seg>Le libertate de distribuer copia de tu versiones modificate a alteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to redistribute copies so you can help others.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020322Z" creationid="Melo46" creationdate="20250225T020322Z">
+        <seg>Le libertate de redistribuer copia assi que tu pote adjutar alteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62744,6 +62824,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021833Z" creationid="Melo46" creationdate="20250225T021833Z">
+        <seg>Isto crea un plica con tote le files necessari pro exequer OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a new folder named after the package you downloaded.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T124935Z" creationid="Melo46" creationdate="20250220T124935Z">
@@ -63432,6 +63520,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131227T113028Z">
         <seg>Isto es le arrangiamento base prefixate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the edition of OmegaT in active development.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020550Z" creationid="Melo46" creationdate="20250225T020550Z">
+        <seg>Isto es le edition de OmegaT in disveloppamento active.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67536,6 +67632,14 @@ file and the OmegaT application.</seg>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T224647Z" creationid="Melo46" creationdate="20200730T224647Z">
         <seg>Discassa le archivo OmegaT.zip pro obtener un plica que contine un
 file de documentation e le application OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the file that you downloaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021755Z" creationid="Melo46" creationdate="20250225T021755Z">
+        <seg>Dispacchetta le file que tu discargava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76573,6 +76677,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021342Z" creationid="Melo46" creationdate="20250225T021342Z">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://developers.google.com/translate/v2/faq</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T082630Z">
@@ -76637,6 +76749,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/download</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T020642Z" creationid="Melo46" creationdate="20250225T020642Z">
+        <seg>https://omegat.org/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T132109Z" creationid="Karm46" creationdate="20171201T132109Z">
@@ -76693,6 +76813,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021252Z" creationid="Melo46" creationdate="20250225T021252Z">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T074136Z">
@@ -76705,6 +76833,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T080836Z" creationid="Melo46" creationdate="20210220T080836Z">
         <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T021840Z" creationid="Melo46" creationdate="20250225T021840Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
       </tuv>
     </tu>
     <tu>
