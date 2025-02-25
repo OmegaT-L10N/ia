@@ -22756,6 +22756,14 @@ PURPOSE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each character is briefly described below with examples of regular expressions that rely on the character as well as of text that they do, or do not, match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T115459Z" creationid="Melo46" creationdate="20250225T115459Z">
+        <seg>Cata character es brevemente describite infra, con exemplos de expressiones regular que usa ille character, e de texto que los concorda, o non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import and otherwise run, modify and
