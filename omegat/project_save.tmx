@@ -28605,6 +28605,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T224339Z" creationid="Melo46" creationdate="20250224T224339Z">
+        <seg>Pulsa &lt;k0&gt;Entrar&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T220604Z" creationid="will" creationdate="20230316T163441Z">
@@ -35086,6 +35094,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T213239Z" creationid="Melo46" creationdate="20160729T213239Z">
         <seg>Illo necessita esser convertite a un nove projecto de equipa, ma isto non pote ser facite in modo consola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It now displays them segment per segment for you to translate them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T224134Z" creationid="Melo46" creationdate="20250224T224134Z">
+        <seg>Illo ora te los monstra segmento per segmento pro traducer los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66750,6 +66766,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type the translation of the first segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T224233Z" creationid="Melo46" creationdate="20250224T224233Z">
+        <seg>Typa le traduction del prime segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -67948,6 +67972,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T163752Z" creationid="will" creationdate="20230316T163752Z">
         <seg>Usa &lt;g0&gt; &gt; Projecto&lt;/g0&gt; &lt;g1&gt;&gt; Nove...&lt;/g1&gt; pro crear un nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T224806Z" creationid="Melo46" creationdate="20250224T224806Z">
+        <seg>Usa &lt;g0&gt;&gt; Projecto&lt;/g0&gt;&lt;g1&gt;&gt; Crear Files traducite&lt;/g1&gt; pro crear le documento traducite quandocunque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82525,6 +82557,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T222522Z" creationid="Melo46" creationdate="20250224T222522Z">
         <seg>→ OmegaT creara un insimul de plicas que contine tu files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250224T224720Z" creationid="Melo46" creationdate="20250224T224720Z">
+        <seg>→ OmegaT registrara ille segmento in le memoria de traduction del projecto e movera le cursor al segmento successive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will store the translated files into the &lt;g0&gt;target&lt;/g0&gt; folder of the project that was created in the first step.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T004409Z" creationid="Melo46" creationdate="20250225T004409Z">
+        <seg>→ OmegaT immagazinara le files traducite in le plica &lt;g0&gt;target&lt;/g0&gt; del projecto, que era create in le prime passo.</seg>
       </tuv>
     </tu>
     <tu>
