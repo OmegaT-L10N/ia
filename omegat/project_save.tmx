@@ -2594,6 +2594,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?-i)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153843Z" creationid="Melo46" creationdate="20250225T153843Z">
+        <seg>(?-i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?&lt;!q)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T152718Z" creationid="Melo46" creationdate="20250225T152718Z">
@@ -3116,6 +3124,14 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T160258Z">
         <seg>, on pote trovar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153640Z" creationid="Melo46" creationdate="20250225T153640Z">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4458,6 +4474,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0\.[0-9]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154723Z" creationid="Melo46" creationdate="20250225T154723Z">
+        <seg>0\.[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T231230Z" creationid="Melo" creationdate="20151014T231230Z">
@@ -4570,6 +4594,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1969.7.20</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153722Z" creationid="Melo46" creationdate="20250225T153722Z">
+        <seg>1969.7.20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1st example modification: changing the colour of segment highlighting</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T160321Z">
@@ -4620,6 +4652,22 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130220T094708Z">
         <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2002/11/8</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153717Z" creationid="Melo46" creationdate="20250225T153717Z">
+        <seg>2002/11/8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2022-10-31</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153726Z" creationid="Melo46" creationdate="20250225T153726Z">
+        <seg>2022-10-31</seg>
       </tuv>
     </tu>
     <tu>
@@ -8162,6 +8210,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T144009Z" creationid="Melo46" creationdate="20250225T144009Z">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; es qualcunque character que &lt;e1&gt;non&lt;/e1&gt; es un character spatio blanc (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154139Z" creationid="Melo46" creationdate="20250225T154139Z">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; es qualcunque character que &lt;e1&gt;non&lt;/e1&gt; es un character parola (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,6 +16414,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Case</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153938Z" creationid="Melo46" creationdate="20250225T153938Z">
+        <seg>Majuscule/minuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Case sensitive</seg>
       </tuv>
       <tuv lang="ia">
@@ -24441,6 +24505,22 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Examples of classes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153839Z" creationid="Melo46" creationdate="20250225T153839Z">
+        <seg>Exemplos de classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of regular expressions that use the above expressions</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153542Z" creationid="Melo46" creationdate="20250225T153542Z">
+        <seg>Exemplos de expressiones regular que usar le expressiones precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T123401Z">
@@ -25695,6 +25775,22 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find double words.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153633Z" creationid="Melo46" creationdate="20250225T153633Z">
+        <seg>Trovar parolas duplicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find extra whitespace after the period at the end of a line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154717Z" creationid="Melo46" creationdate="20250225T154717Z">
+        <seg>Trovar spatios blanc extra post le puncto al fin de un linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T223305Z" creationid="Karm46" creationdate="20171120T223103Z">
@@ -25723,6 +25819,22 @@ Alcun attributos ha valores non valide.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130516T103144Z">
         <seg>Trova le lineas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154541Z" creationid="Melo46" creationdate="20250225T154541Z">
+        <seg>Trovar parolas comenciante con un vocal que veni post le articulo “a” plus tosto que “an”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with consonant that come after “an” rather than “a”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154501Z" creationid="Melo46" creationdate="20250225T154342Z">
+        <seg>Trovar parolas comenciante con consonante que veni post “an” plus tosto que “a”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44479,6 +44591,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the initial “run” in those phrases is matched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T155150Z" creationid="Melo46" creationdate="20250225T155150Z">
+        <seg>Solo le “run” initial in ille expressiones es concordate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T083733Z" creationid="Melo46" creationdate="20250225T083733Z">
@@ -57609,6 +57729,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PLUS sign: &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T155204Z" creationid="Melo46" creationdate="20250225T155204Z">
+        <seg>Le signo PLUS: &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter already handles %..</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T083203Z" creationid="Melo46" creationdate="20210220T083203Z">
@@ -58272,6 +58400,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T094815Z">
         <seg>Le commando essera dunque (in iste caso):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T155119Z" creationid="Melo46" creationdate="20250225T155119Z">
+        <seg>Le expression complete in “run-on” o “run'n'gun”, perque le tracto de union e apostropho non es includite in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59096,6 +59232,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The flip side of the preceding example.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154251Z" creationid="Melo46" creationdate="20250225T154251Z">
+        <seg>Le contrario del exemplo precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081922Z" creationid="Melo46" creationdate="20200730T081857Z">
@@ -59726,6 +59870,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T174234Z">
         <seg>Le arrangiamento monstrate hic es justo pro gratia de exemplo; tu pote naturalmente arrangiar le fenestras como tu vole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The letter “a”, “b”, or “c”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153828Z" creationid="Melo46" creationdate="20250225T153828Z">
+        <seg>Le littera “a”, “b”, o “c”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62141,6 +62293,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T155004Z" creationid="Melo46" creationdate="20250225T155004Z">
+        <seg>Le parola “run”, e “runs”, “runner”, “runway”, “runt” in “grunt” o “brunt”, e ulle altere parola o sequentia de characteres que contine “run” sequite per zero o plus “&lt;e0&gt;characteres del parola&lt;/e0&gt;” (que include digitos e le lineettas basse, assi que le parte ante le “@” in un adresse email tal como currer_123@example.email.org es alsi un concordantia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable glossary file folder does not exist!</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230331T094445Z" creationid="will" creationdate="20230331T083447Z">
@@ -63524,6 +63684,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T131133Z" creationid="Melo46" creationdate="20250225T131133Z">
         <seg>Iste character specifica que sia zero, que un instantia del precedente character o expression deberea esser concordate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that one or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T155252Z" creationid="Melo46" creationdate="20250225T155252Z">
+        <seg>Iste character specifica que un o plus instantias del precedente character o expression deberea esser concordate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74341,6 +74509,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[C-X]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154002Z" creationid="Melo46" creationdate="20250225T154002Z">
+        <seg>[C-X]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[Fuzzy]</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T092214Z">
@@ -74361,6 +74537,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T093135Z">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[^\n\r\t]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154012Z" creationid="Melo46" creationdate="20250225T154012Z">
+        <seg>[^\n\r\t]</seg>
       </tuv>
     </tu>
     <tu>
@@ -74565,6 +74749,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T154420Z" creationid="Melo46" creationdate="20250225T153809Z">
+        <seg>-+\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\e</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092814Z">
@@ -74577,6 +74769,30 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092636Z">
         <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+$</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153652Z" creationid="Melo46" creationdate="20250225T153652Z">
+        <seg>\h+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153656Z" creationid="Melo46" creationdate="20250225T153656Z">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+an\h+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153704Z" creationid="Melo46" creationdate="20250225T153704Z">
+        <seg>\h+an\h+[^aeiou]</seg>
       </tuv>
     </tu>
     <tu>
@@ -77653,6 +77869,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153742Z" creationid="Melo46" creationdate="20250225T153742Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T072429Z" creationid="Melo46" creationdate="20210220T072429Z">
@@ -77769,6 +77993,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T021252Z" creationid="Melo46" creationdate="20250225T021252Z">
         <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://regex101.com</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153749Z" creationid="Melo46" creationdate="20250225T153749Z">
+        <seg>https://regex101.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -77929,6 +78161,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T065951Z">
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153758Z" creationid="Melo46" creationdate="20250225T153758Z">
+        <seg>https://www.regular-expressions.info</seg>
       </tuv>
     </tu>
     <tu>
@@ -81395,6 +81635,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233432Z">
         <seg>si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>similarly, &lt;l0&gt;\R&lt;/l0&gt; is any line break character.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250225T153958Z" creationid="Melo46" creationdate="20250225T153900Z">
+        <seg>de modo similar, &lt;l0&gt;\R&lt;/l0&gt; es qualcunque character character de interruption de linea.</seg>
       </tuv>
     </tu>
     <tu>
