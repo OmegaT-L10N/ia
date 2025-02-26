@@ -11138,6 +11138,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T233203Z" creationid="Melo46" creationdate="20250226T233203Z">
+        <seg>Un tracto de union ubicate foras del series es justo un tracto de union: &lt;l1&gt;[a-z-]&lt;/l1&gt; significa qualcunque character minuscule de “a” a “z”, o le character tracto de union mesme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T173112Z" creationid="Melo46" creationdate="20250223T173112Z">
@@ -11574,6 +11582,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T210151Z">
         <seg>Un frontiera de parola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A word character, generally defined as &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T233840Z" creationid="Melo46" creationdate="20250226T233840Z">
+        <seg>Un character de parola, generalmente definite como &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14000,6 +14016,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character &lt;e0&gt;except&lt;/e0&gt; a newline, a carriage return, or tab.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T233329Z" creationid="Melo46" creationdate="20250226T233329Z">
+        <seg>Qualcunque character &lt;e0&gt;salvo&lt;/e0&gt; un avantiamento de linea, un character de retorno carro, o tabulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T205951Z">
@@ -14058,8 +14082,8 @@ paragraph of section 11).</seg>
       <tuv lang="en">
         <seg>Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250226T232312Z" creationid="Melo46" creationdate="20250226T232312Z">
-        <seg>Qualcunque numero de ranges pote esser definite: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; significa qualcunque character minuscule ab “a” a “z”, o alcun litera  majuscule character de “Un” a “Z”, o alcun cifra de “0” a “9”.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T233022Z" creationid="Melo46" creationdate="20250226T232312Z">
+        <seg>Qualcunque numero de campos pote esser definite: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; significa qualcunque character minuscule ab “a” a “z”, o character majuscule de “A” a “Z”, o alcun cifra de “0” a “9”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25911,10 +25935,26 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find a period followed by an uppercase letter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234410Z" creationid="Melo46" creationdate="20250226T234410Z">
+        <seg>Trovar un periodo sequite per un littera majuscule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find an email address.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T194128Z" creationid="Melo46" creationdate="20250225T194128Z">
         <seg>Trovar un adresse email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234000Z" creationid="Melo46" creationdate="20250226T234000Z">
+        <seg>Trovar propositiones que initia con un comma sequite per un character spatio blanc, continer un o plus parolas (includite parolas in virgulettas, contractiones, e nomines de file con un extension de file), e fini o con un comma o con periodo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25979,6 +26019,14 @@ Alcun attributos ha valores non valide.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T154501Z" creationid="Melo46" creationdate="20250225T154342Z">
         <seg>Trovar parolas comenciante con consonante que veni post “an” plus tosto que “a”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find “is” as a whole word in a sentence, without matching “this”, “isn’t”, or even “Is”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234518Z" creationid="Melo46" creationdate="20250226T234518Z">
+        <seg>Trovar “is” total parola in un phrase, sin concordar “iste”, “non es”, o mesmo “Es”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36000,6 +36048,14 @@ interne al plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T223354Z" creationid="Melo46" creationdate="20250224T223354Z">
         <seg>Illo alsi creara un memoria de traduction vacue que illo compilara in secunde plano, un segmento a cata vice dum tu scribe tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also find patterns such as “5136/36/71”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234354Z" creationid="Melo46" creationdate="20250226T234354Z">
+        <seg>Illo alsi trovara modellos tal como “5136/36/71”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58643,6 +58699,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The caret placed immediately after the opening square bracket excludes the rest of the characters in the class.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T233820Z" creationid="Melo46" creationdate="20250226T233820Z">
+        <seg>Le accento circumflexe ubicate immediatemente post le parenthese quadrate de apertura exclude le resto del characteres in le classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092633Z">
@@ -64576,6 +64640,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This expression finds number and separator patterns matching possible dates, but does not validate them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234340Z" creationid="Melo46" creationdate="20250226T234340Z">
+        <seg>Iste expression trova modellos de numero e separator concordante possibile datas, ma non los valida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T073742Z" creationid="Melo46" creationdate="20151117T073742Z">
@@ -70414,6 +70486,14 @@ The current setting is {0}MB;</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T180530Z" creationid="Karm46" creationdate="20170913T180530Z">
         <seg>Ligamines utile
 ============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful to find possible missing spaces between the period and the start of a new sentence</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234435Z" creationid="Melo46" creationdate="20250226T234435Z">
+        <seg>Utile pro trovar possibile spatios mancante inter le periodo e le initiar de un nove phrase</seg>
       </tuv>
     </tu>
     <tu>
