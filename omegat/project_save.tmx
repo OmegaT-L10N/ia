@@ -13398,6 +13398,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although OmegaT does not offer fancy colouring for your regular expressions, you can get a lot of practice by using the &lt;l0/&gt; window since OmegaT does colour the matching results.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T235156Z" creationid="Melo46" creationdate="20250226T235156Z">
+        <seg>Ben que OmegaT non offere colores phantastic pro tu expressiones regular, tu pote installar multe practica per le le &lt;l0/&gt; fenestra pois que OmegaT rende color le concordar resultatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T081328Z">
@@ -13840,6 +13848,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T121002Z" creationid="Melo46" creationdate="20250222T121002Z">
         <seg>Un elemento con le nomine "{0}" jam existe a iste position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An online regular expression matcher that lets you enter the text you want to search and the regular expressions you want to test.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234853Z" creationid="Melo46" creationdate="20250226T234853Z">
+        <seg>Un concordator online de expression regular que te permitte de inserer le texto que tu vole cercar e le expressiones regular que tu vole verificar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25971,6 +25987,14 @@ Alcun attributos ha valores non valide.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T154717Z" creationid="Melo46" creationdate="20250225T154717Z">
         <seg>Trovar spatios blanc extra post le puncto al fin de un linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find numerical dates in year, month, and day order with the month and day separated by a slash, period, or hyphen, such as:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234955Z" creationid="Melo46" creationdate="20250226T234955Z">
+        <seg>Trovar datas numeric in anno, mense, e die ordine con le mense e die separate per un barra, periodo, o tracto de union, tal como:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44807,6 +44831,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the most thorough regular expression tutorial and reference on the web.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T234745Z" creationid="Melo46" creationdate="20250226T234745Z">
+        <seg>Un del plus minutiose guida breve e referentia del expression regular sur le web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T161454Z">
@@ -46255,6 +46287,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T224247Z" creationid="Melo46" creationdate="20250219T224247Z">
         <seg>Delimitator de paragrapho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph or sentence?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T235242Z" creationid="Melo46" creationdate="20250226T235242Z">
+        <seg>Paragrapho o phrase?</seg>
       </tuv>
     </tu>
     <tu>
