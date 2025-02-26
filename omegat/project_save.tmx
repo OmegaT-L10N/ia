@@ -26819,6 +26819,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T230307Z" creationid="Melo46" creationdate="20250226T230307Z">
+        <seg>Per exemplo, tu pote crear le classe &lt;l0&gt;[£€$]&lt;/l0&gt; pro trovar tote ille tres symbolos de valuta in le texto, o [1-3] pro trovar le numero 1, 2 o 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, you may
 not impose a license fee, royalty, or other charge for exercise of
 rights granted under this License, and you may not initiate litigation
@@ -34554,6 +34562,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inside a class, only the backslash (&lt;l0&gt;\&lt;/l0&gt;), caret (&lt;l1&gt;^&lt;/l1&gt;), closing bracket (&lt;l2&gt;]&lt;/l2&gt;) and hyphen (&lt;l3&gt;-&lt;/l3&gt;) are special.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T230348Z" creationid="Melo46" creationdate="20250226T230348Z">
+        <seg>Intra un classe, solo le barra-retro (&lt;l0&gt;\&lt;/l0&gt;), accento circumflexe (&lt;l1&gt;^&lt;/l1&gt;), parenthese de clausura (&lt;l2&gt;]&lt;/l2&gt;) e tracto de union (&lt;l3&gt;-&lt;/l3&gt;) es special.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084307Z">
@@ -38711,6 +38727,22 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T093450Z" creationid="Melo46" creationdate="20250219T093450Z">
         <seg>Verifica que tu ha le permissos correcte o que tu pote acceder al files si illos es immagazinate in le nube.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T230120Z" creationid="Melo46" creationdate="20250226T230120Z">
+        <seg>Face le parte del expression al dextra del modificator insensibile al majuscule/minuscule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T224813Z" creationid="Melo46" creationdate="20250226T224813Z">
+        <seg>Rende le parte del expression al dextra del modificator sensibile al majusculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55642,6 +55674,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T224835Z" creationid="Melo46" creationdate="20250226T224835Z">
+        <seg>Suppone, per exemplo, que tu vole trovar instantias de “OmegaT” e “omegat”, ma non “OMEGAT”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Swahili</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233807Z">
@@ -61400,6 +61440,14 @@ the User Product in which it has been modified or installed.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T223535Z">
         <seg>Le resto del categorias (50-100%) involve le segmentos non rendite con un concordantia partial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rest of the twelve characters are normal, and do not have to be preceded by a backslash if you want to search for those characters themselves.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T230440Z" creationid="Melo46" creationdate="20250226T230440Z">
+        <seg>Le resto del dece-duo characteres es normal, e non debe esser precedite per un barra-retro si tu desira cercar ille mesme characteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73820,6 +73868,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T225441Z" creationid="Melo46" creationdate="20250226T225441Z">
+        <seg>Tu pote facer assi con le sequente expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, que representa un “o”  insensibile al majuscule/minuscule, sequite per un “mega” sensibile al majuscule/minuscule, sequite un per “t” insensibile al majuscule/minuscule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102647Z">
@@ -74078,6 +74134,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T154307Z" creationid="Karm46" creationdate="20171116T154307Z">
         <seg>Tu pote facer fluer OmegaT directemente per linea de commando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can search for any of the four class special characters as normal characters by preceding them with a backslash.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250226T230831Z" creationid="Melo46" creationdate="20250226T230831Z">
+        <seg>Tu pote cercar qualcunque del quatro characteres special del classe como characteres normal precedente illos con un barra-retro.</seg>
       </tuv>
     </tu>
     <tu>
