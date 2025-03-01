@@ -52378,6 +52378,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T185308Z" creationid="Melo46" creationdate="20250301T185308Z">
+        <seg>Le segmentos es de ordinario &lt;e0&gt;paragraphos&lt;/e0&gt; definite per le mesme formato del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T181931Z">
@@ -67369,6 +67377,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To specify the type of segmentation, use the &lt;l0/&gt; project property.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T175727Z" creationid="Melo46" creationdate="20250301T175727Z">
+        <seg>Pro specificar le typo de segmentation, usa le &lt;l0/&gt; proprietate de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130805T174636Z">
@@ -71817,6 +71833,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T175628Z" creationid="Melo46" creationdate="20250301T175628Z">
+        <seg>Quando un traduction es inserite, le segmento que contine le texto fonte es immagazinate con su traduction in le memoria de projecto, e successivemente usate pro concordar altere segmentos fonte in le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When active, &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; will insert the suggestion into the target part of the current segment.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T195824Z">
@@ -75209,6 +75233,14 @@ create the configuration folder.</seg>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T224609Z" creationid="Melo46" creationdate="20250219T224609Z">
         <seg>Tu systema operative refusava permitter que OmegaT
 crea le plica del configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT create the application data folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T175141Z" creationid="Melo46" creationdate="20250301T175141Z">
+        <seg>Tu systema operative refusava de permitter que OmegaT crea le plica del datos de application.</seg>
       </tuv>
     </tu>
     <tu>
