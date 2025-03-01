@@ -12488,6 +12488,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191443Z" creationid="Melo46" creationdate="20250301T191443Z">
+        <seg>Post le division del file fonte in unitates structural, OmegaT ulteriormente divide ille unitates in segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading the zip archive of the full or minimal package or the website localization package, unpack the archive.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T221231Z" creationid="Karm46" creationdate="20171126T221231Z">
@@ -16210,6 +16218,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T075436Z" creationid="Melo46" creationdate="20200731T075436Z">
         <seg>De ordinario, scripts es immagazinate in le plicas &lt;f0&gt;scripts&lt;/f0&gt; ubicate in le plica de installation de OmegaT (le plica que contine le file &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, segmentation settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T192410Z" creationid="Melo46" creationdate="20250301T192410Z">
+        <seg>De ordinario, le parametros de segmentation es global e compartite per tote le projectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23266,6 +23282,14 @@ propagate the contents of its contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191700Z" creationid="Melo46" creationdate="20250301T191700Z">
+        <seg>Cata vice que le cursor se move al character successive, OmegaT controla si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
 propagate that work, subject to this License.</seg>
@@ -28169,6 +28193,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global or local?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191934Z" creationid="Melo46" creationdate="20250301T191934Z">
+        <seg>Global o local?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global post-processing commands</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T234557Z" creationid="Melo46" creationdate="20250221T234557Z">
@@ -31094,6 +31126,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220108T071229Z" creationid="will" creationdate="20220108T071229Z">
         <seg>Si le lingua del systema del usator non es disponibile, OmegaT adopta le configurationes base in anglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending on what the rule defined.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191921Z" creationid="Melo46" creationdate="20250301T191921Z">
+        <seg>Si le position concorda con ambe le regulas, illo es considerate o como interruption, o como non-interruption, secundo lo que le regula definiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53178,6 +53218,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191315Z" creationid="Melo46" creationdate="20250301T191315Z">
+        <seg>Segmentation a nivello de phrases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separate different patterns with a semicolon.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T100812Z" creationid="Melo46" creationdate="20200728T100812Z">
@@ -61774,6 +61822,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same mechanisms and dialogs are used to define global and local segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T192231Z" creationid="Melo46" creationdate="20250301T192231Z">
+        <seg>Le mesme mechanismos e fenestras de dialogo es usate pro definir le regulas de segmentation global e local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T150457Z" creationid="Melo46" creationdate="20250223T150457Z">
@@ -68072,6 +68128,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T134002Z">
         <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191302Z" creationid="Melo46" creationdate="20250301T191302Z">
+        <seg>Le attributos traducibile del tags presente in le files XHTML o HTML pote esser extrahite como "paragraphos" separate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74683,6 +74747,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191620Z" creationid="Melo46" creationdate="20250301T191620Z">
+        <seg>Tu pote visualisar le segmentation como le processo de mover le cursor preter le texto, un character cata vice, e recercar le position ubi un interruption evenira, o ubi un interruption non sera permittite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T183207Z" creationid="will" creationdate="20230315T183207Z">
@@ -76161,6 +76233,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171117T103556Z" creationid="Karm46" creationdate="20171117T103556Z">
         <seg>e supplanta &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; con &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191803Z" creationid="Melo46" creationdate="20250301T191803Z">
+        <seg>e le texto post le position corresponde al regula associate &lt;e0&gt;Post&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83301,6 +83381,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T105136Z">
         <seg>le definition del filtros projecto-specific - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191732Z" creationid="Melo46" creationdate="20250301T191732Z">
+        <seg>le texto ante le position corresponde a un regula &lt;e0&gt;Ante&lt;/e0&gt;,</seg>
       </tuv>
     </tu>
     <tu>
