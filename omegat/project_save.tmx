@@ -7806,6 +7806,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231352Z" creationid="Melo46" creationdate="20250301T231352Z">
+        <seg>&lt;k0&gt;Majusc&lt;/k0&gt; o &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150422T071001Z" creationid="Melo46" creationdate="20150422T071001Z">
@@ -10774,8 +10782,8 @@ Esque illo es correcte?</note>
       <tuv lang="en">
         <seg>A</seg>
       </tuv>
-      <tuv lang="ia">
-        <seg>P</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231427Z">
+        <seg>A</seg>
       </tuv>
     </tu>
     <tu>
@@ -11348,6 +11356,14 @@ specifically granted under this License.</seg>
 the scope of its coverage, prohibits the exercise of, or is
 conditioned on the non-exercise of one or more of the rights that are
 specifically granted under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A period followed by a whitespace</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230524Z" creationid="Melo46" creationdate="20250301T230524Z">
+        <seg>Un periodo sequite per un spatio blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -15732,6 +15748,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T182543Z">
         <seg>Regula de interruption</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Break rule, box checked, lower in the list</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230505Z" creationid="Melo46" creationdate="20250301T230505Z">
+        <seg>regula de interruption, quadrato marcate, infra in le lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -22290,6 +22314,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not segment after Ms.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T225830Z" creationid="Melo46" creationdate="20250301T225830Z">
+        <seg>Non segmentar post Ms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not translate property if it has a NOI18N comment</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T210322Z" creationid="Melo46" creationdate="20250222T210322Z">
@@ -24753,6 +24785,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excel cells with lines breaks that do not represent segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230045Z" creationid="Melo46" creationdate="20250301T230045Z">
+        <seg>Cellas de Excel con interruptiones de linea que non representa segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151117T192315Z" creationid="Melo" creationdate="20151117T192315Z">
@@ -24789,6 +24829,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T182437Z">
         <seg>Regula de exception - vide le uso del ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception rule, box unchecked, higher in the list</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T225822Z" creationid="Melo46" creationdate="20250301T225822Z">
+        <seg>regula de exception, quadrato non marcate, major in le lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -24968,6 +25016,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T133528Z" creationid="Karm46" creationdate="20171115T133528Z">
         <seg>Explica como producer un filtro pro traducer per OmegaT un nove formato de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Explanation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T225548Z" creationid="Melo46" creationdate="20250301T225548Z">
+        <seg>Explication</seg>
       </tuv>
     </tu>
     <tu>
@@ -35044,6 +35100,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, they are called from the menus or, for the majority of functions, from their assigned default shortcut.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231144Z" creationid="Melo46" creationdate="20250301T231144Z">
+        <seg>Alteremente, illos es appellava ab le menus o, pro le majoritate de functiones, a lor assignate via-breve predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T170638Z">
@@ -36823,6 +36887,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key identifier</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231317Z" creationid="Melo46" creationdate="20250301T231317Z">
+        <seg>Identificator de clave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084242Z">
@@ -37915,6 +37987,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line break, followed by anything.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230145Z" creationid="Melo46" creationdate="20250301T230145Z">
+        <seg>interruption de linea, sequite per qualcosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T191609Z" creationid="will" creationdate="20230302T190130Z">
@@ -38047,6 +38127,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181127Z">
         <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux/Windows</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231216Z" creationid="Melo46" creationdate="20250301T231216Z">
+        <seg>Linux/Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -40759,6 +40847,22 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ms, followed by a period, followed by a whitespace.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T225855Z" creationid="Melo46" creationdate="20250301T225855Z">
+        <seg>Ms, sequite per un periodo, sequite per un spatio blanc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ms\.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T225835Z" creationid="Melo46" creationdate="20250301T225835Z">
+        <seg>Ms\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084550Z">
@@ -41668,6 +41772,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nonetheless, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T225530Z" creationid="Melo46" creationdate="20250301T225530Z">
+        <seg>Totevia, lor original traduction sera ancora in le memoria de traduction del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T223947Z" creationid="Melo46" creationdate="20160729T223947Z">
@@ -42106,6 +42218,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102648Z">
         <seg>Nota que le function "Installa" necessita un connexion a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the &lt;l0&gt;Pattern After&lt;/l0&gt; field can be empty.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230703Z" creationid="Melo46" creationdate="20250301T230703Z">
+        <seg>Notar que le campo &lt;l0&gt;Modello Post&lt;/l0&gt; pote esser vacue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43074,6 +43194,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T154312Z" creationid="Karm46" creationdate="20171128T154312Z">
         <seg>Instantaneo del schermo de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Shortcuts</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230825Z" creationid="Melo46" creationdate="20250301T230825Z">
+        <seg>Vias breve de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -52241,6 +52369,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231212Z" creationid="Melo46" creationdate="20250301T231212Z">
+        <seg>Vider le section &lt;l0/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085841Z" creationid="will" creationdate="20230228T085841Z">
@@ -55430,6 +55566,22 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment after a period followed by a space, tab, or other whitespace.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230519Z" creationid="Melo46" creationdate="20250301T230519Z">
+        <seg>Initiar un nove segmento post un periodo sequite per un spatio, scheda, o altere spatio blanc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment after “。” (Japanese period).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230610Z" creationid="Melo46" creationdate="20250301T230610Z">
+        <seg>Initiar un nove segmento post “。” (puncto japonese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new segment on:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T172818Z" creationid="Melo46" creationdate="20250221T172818Z">
@@ -58341,6 +58493,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130424T173527Z">
         <seg>Le lista del disveloppatores de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT interface generally does not rely on buttons to give access to its functions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T230959Z" creationid="Melo46" creationdate="20250301T230959Z">
+        <seg>Le interfacie de OmegaT generalmente non conta sur buttones pro dar accesso a su functiones.</seg>
       </tuv>
     </tu>
     <tu>
