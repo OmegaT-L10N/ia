@@ -6442,6 +6442,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T190028Z" creationid="Melo46" creationdate="20250301T190028Z">
+        <seg>&lt;e0&gt;Segmentation per paragraphos&lt;/e0&gt; functiona ben con plus de textos litterari o creative, e, plus generalmente, con documentos pro le qual le concordantias del memoria de traduction non es assi importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T080737Z">
@@ -6558,6 +6566,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141026T094229Z">
         <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;: le applicationes pro memoria de traduction functiona con elementos textual nominate segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T190059Z" creationid="Melo46" creationdate="20250301T190059Z">
+        <seg>&lt;e0&gt;Segmentation per phrases&lt;/e0&gt; fide sur plure regulas (appellate &lt;e1&gt;regulas de segmentation&lt;/e1&gt;) que defini lo que constitue un phrase in le lingua fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25799,6 +25815,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T191042Z" creationid="Melo46" creationdate="20250301T191042Z">
+        <seg>Le files que contine formatation (ODF, HTML, o altere typo de documentos) es dividite per tags a nivello de bloco (paragrapho).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T212456Z">
@@ -26815,6 +26839,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T232412Z" creationid="MELO46" creationdate="20140108T232412Z">
         <seg>Per exemplo, le regulas pro le francese canadian (FR-CA) debe esser superior que le regulas pro le francese (FR.*), e superior que los Base (.*) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T190818Z" creationid="Melo46" creationdate="20250301T190818Z">
+        <seg>Per exemplo, files de texto pote esser segmentate sur interruptiones de linea, sur lineas vacue, o non segmentate del toto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33660,6 +33692,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T160126Z">
         <seg>In tal casos, un traduction existente, trovate in le file, es includite in le &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T185638Z" creationid="Melo46" creationdate="20250301T185638Z">
+        <seg>In tal caso, cata paragrapho (como definite in le formato del documento original) es monstrate como singule segmento, e le traductor es libere de reorganisar le phrases in le segmento in le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41715,6 +41755,14 @@ measures.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Not using &lt;e0&gt;sentence&lt;/e0&gt; segmentation on a document is equivalent to using &lt;e1&gt;paragraph&lt;/e1&gt; segmentation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T185439Z" creationid="Melo46" creationdate="20250301T185439Z">
+        <seg>Non usante le segmentation per &lt;e0&gt;phrase&lt;/e0&gt; sur un documento equivale a usar le segmentation per &lt;e1&gt;paragrapho&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Io non es secur si "notariate" es correcte/existe in IA.
 </note>
       <tuv lang="en">
@@ -43298,6 +43346,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T172429Z">
         <seg>OmegaT presenta filtros multo personalisabile, que te habilita a configurar plure aspectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT first parses the text for paragraph-level segmentation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T190424Z" creationid="Melo46" creationdate="20250301T190424Z">
+        <seg>OmegaT primo analysa le texto pro le segmentation a nivello de paragrapho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46319,6 +46375,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T184935Z">
         <seg>Segmentation del paragrapho sur interruptiones de linea, lineas vacue o nunquam:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph-Level segmentation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T190347Z" creationid="Melo46" creationdate="20250301T190347Z">
+        <seg>Segmentation a nivello de paragrapho</seg>
       </tuv>
     </tu>
     <tu>
@@ -65724,6 +65788,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This process relies only on the structure of the source file to produce segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T190443Z" creationid="Melo46" creationdate="20250301T190443Z">
+        <seg>Iste processo conta solo sur le structura del file fonte pro producer segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144833Z">
@@ -65840,6 +65912,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T184118Z">
         <seg>Ora iste segmento pote esser rendite como desiderate, sin que le altere occurrentias de illo automaticamente sia rendite identic ad illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting works well with documents where repetitions or similar sentences are common, such as technical or legal documents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T190229Z" creationid="Melo46" creationdate="20250301T190229Z">
+        <seg>Iste parametros functiona ben con documentos ubi repetitiones o phrases simile es commun, tal como documentos technic o legal.</seg>
       </tuv>
     </tu>
     <tu>
