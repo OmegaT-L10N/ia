@@ -444,6 +444,14 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=tu Client secret"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231812Z" creationid="Melo46" creationdate="20250301T231812Z">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -7806,6 +7814,22 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; or &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231441Z" creationid="Melo46" creationdate="20250301T231441Z">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; o &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231452Z" creationid="Melo46" creationdate="20250301T231452Z">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; o &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T231352Z" creationid="Melo46" creationdate="20250301T231352Z">
@@ -12284,6 +12308,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220107T164416Z" creationid="will" creationdate="20220107T164416Z">
         <seg>Adder OmegaT al menus (KDE) o al pannellos (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding a shortcut</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231809Z" creationid="Melo46" creationdate="20250301T231809Z">
+        <seg>Adder un via-breve</seg>
       </tuv>
     </tu>
     <tu>
@@ -23606,6 +23638,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231558Z" creationid="Melo46" creationdate="20250301T231558Z">
+        <seg>EditorShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EditorShortcuts.properties</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T074509Z" creationid="Melo46" creationdate="20250223T074509Z">
@@ -27917,6 +27957,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230408T173930Z" creationid="will" creationdate="20230408T173930Z">
         <seg>Ignorar le differentia inter plen e medie-largessa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Function code</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T232027Z" creationid="Melo46" creationdate="20250301T232027Z">
+        <seg>Codice del function</seg>
       </tuv>
     </tu>
     <tu>
@@ -39863,6 +39911,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102000Z">
         <seg>Menu e vias breve del claviero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu item</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231932Z" creationid="Melo46" creationdate="20250301T231932Z">
+        <seg>Commando del menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -59035,6 +59091,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The basic syntax of the shortcut definitions files is simply:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231748Z" creationid="Melo46" creationdate="20250301T231748Z">
+        <seg>Le syntaxe basic del files de definitiones de vias breve es simplemente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The beginning of a line</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T210033Z">
@@ -73075,6 +73139,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows/Linux</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T232032Z" creationid="Melo46" creationdate="20250301T232032Z">
+        <seg>Windows/Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With 64-bit JRE</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T141328Z" creationid="Karm46" creationdate="20171115T141328Z">
@@ -77309,6 +77381,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift N</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231845Z" creationid="Melo46" creationdate="20250301T231845Z">
+        <seg>ctrl Majusc N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cu</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141326Z">
@@ -77681,6 +77761,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T133938Z">
         <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editMultipleAlternate=alt X</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231821Z" creationid="Melo46" creationdate="20250301T231821Z">
+        <seg>editMultipleAlternate=alt X</seg>
       </tuv>
     </tu>
     <tu>
@@ -78217,6 +78305,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132359Z">
         <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>function code=shortcut</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231612Z" creationid="Melo46" creationdate="20250301T231612Z">
+        <seg>function code=shortcut</seg>
       </tuv>
     </tu>
     <tu>
@@ -79129,6 +79225,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T022129Z" creationid="Melo46" creationdate="20250225T022129Z">
         <seg>https://github.com/omegat-org/omegat.git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231541Z" creationid="Melo46" creationdate="20250301T231541Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231549Z" creationid="Melo46" creationdate="20250301T231549Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -80799,6 +80911,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift N</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231900Z" creationid="Melo46" creationdate="20250301T231847Z">
+        <seg>meta Majusc N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mg</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T140709Z">
@@ -82227,6 +82347,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T043455Z">
         <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231752Z" creationid="Melo46" creationdate="20250301T231752Z">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T231758Z" creationid="Melo46" creationdate="20250301T231758Z">
+        <seg>projectCloseMenuItem=meta W</seg>
       </tuv>
     </tu>
     <tu>
