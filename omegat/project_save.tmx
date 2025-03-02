@@ -15252,6 +15252,38 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autopopulated Segments/Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094058Z" creationid="Melo46" creationdate="20250302T092955Z">
+        <seg>Segmentos populate automaticamente/Segmento successivo de memoria de tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Next Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094031Z" creationid="Melo46" creationdate="20250302T093907Z">
+        <seg>Segmentos populate automaticamente/Segmento successivo de memoria de tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094043Z" creationid="Melo46" creationdate="20250302T093103Z">
+        <seg>Segmentos populate automaticamente/Previe segmento de memoria de tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Previous Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094022Z" creationid="Melo46" creationdate="20250302T094022Z">
+        <seg>Segmentos populate automaticamente/Previe Segmento de tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T164425Z" creationid="Karm46" creationdate="20170929T164425Z">
@@ -48346,8 +48378,8 @@ projecto local sin functionalitates de equipa.</seg>
       <tuv lang="en">
         <seg>Previous Note</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140615T121111Z">
-        <seg>Nota Previe</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092434Z" creationid="Melo46" creationdate="20250302T092434Z">
+        <seg>nota precedente</seg>
       </tuv>
     </tu>
     <tu>
@@ -53342,6 +53374,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T090812Z" creationid="Melo46" creationdate="20250302T090812Z">
         <seg>Seliger concordantia/Seliger concordantia #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #5</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094131Z" creationid="Melo46" creationdate="20250302T094131Z">
+        <seg>Seliger concordar/Seliger concordar #5</seg>
       </tuv>
     </tu>
     <tu>
@@ -78349,6 +78389,54 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt COMMA</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093043Z" creationid="Melo46" creationdate="20250302T093043Z">
+        <seg>Ctrl Alt VIRGULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt N</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092331Z" creationid="Melo46" creationdate="20250302T092331Z">
+        <seg>Ctrl Alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt P</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092445Z" creationid="Melo46" creationdate="20250302T092445Z">
+        <seg>Ctrl Alt P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt PERIOD</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093926Z" creationid="Melo46" creationdate="20250302T093926Z">
+        <seg>Ctrl Alt PUNCTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093606Z" creationid="Melo46" creationdate="20250302T093606Z">
+        <seg>Ctrl Alt Majusc VIRGULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift PERIOD</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094307Z" creationid="Melo46" creationdate="20250302T094307Z">
+        <seg>Ctrl Alt Majusc PUNCTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift A</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T085036Z" creationid="Melo46" creationdate="20250302T085036Z">
@@ -78393,6 +78481,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T084941Z" creationid="Melo46" creationdate="20250302T084941Z">
         <seg>Ctrl Majusc I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift K</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092844Z" creationid="Melo46" creationdate="20250302T092844Z">
+        <seg>Ctrl Majusc K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift M</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092848Z" creationid="Melo46" creationdate="20250302T092848Z">
+        <seg>Ctrl Majusc M</seg>
       </tuv>
     </tu>
     <tu>
@@ -79577,6 +79681,38 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T133940Z">
         <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextXAutoMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093002Z" creationid="Melo46" creationdate="20250302T093002Z">
+        <seg>gotoNextXAutoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextXEnforcedMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093910Z" creationid="Melo46" creationdate="20250302T093910Z">
+        <seg>gotoNextXEnforcedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPrevXAutoMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093107Z" creationid="Melo46" creationdate="20250302T093107Z">
+        <seg>SgotoPrevXAutoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPrevXEnforcedMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094134Z" creationid="Melo46" creationdate="20250302T094134Z">
+        <seg>gotoPrevXEnforcedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -82263,6 +82399,46 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta alt COMMA</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093047Z" creationid="Melo46" creationdate="20250302T093047Z">
+        <seg>Meta Alt VIRGULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt N</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092348Z" creationid="Melo46" creationdate="20250302T092348Z">
+        <seg>Meta Alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt P</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092841Z" creationid="Melo46" creationdate="20250302T092841Z">
+        <seg>Meta Alt P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt PERIOD</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093934Z" creationid="Melo46" creationdate="20250302T093934Z">
+        <seg>Meta Alt PUNCTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T093902Z" creationid="Melo46" creationdate="20250302T093902Z">
+        <seg>Meta Alt Majusc VIRGULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift A</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T085138Z" creationid="Melo46" creationdate="20250302T085138Z">
@@ -82307,6 +82483,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T085000Z" creationid="Melo46" creationdate="20250302T085000Z">
         <seg>Meta Majusc I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift K</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092846Z" creationid="Melo46" creationdate="20250302T092846Z">
+        <seg>Meta Majusc K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift M</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T092851Z" creationid="Melo46" creationdate="20250302T092851Z">
+        <seg>Meta Majusc M</seg>
       </tuv>
     </tu>
     <tu>
