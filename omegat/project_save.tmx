@@ -34326,6 +34326,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T072540Z" creationid="Melo46" creationdate="20250302T072540Z">
+        <seg>In iste manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T085052Z">
@@ -43374,6 +43382,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the &lt;l3/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T072927Z" creationid="Melo46" creationdate="20250302T072927Z">
+        <seg>OmegaT assigna vias breve al major parte del functiones disponibile in le menus &lt;l0/&gt;, &lt;l1/&gt;, e&lt;l2/&gt; e a plure functiones in le &lt;l3/&gt; pannello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230317T175846Z" creationid="will" creationdate="20230317T175846Z">
@@ -44201,6 +44217,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T082301Z">
         <seg>Concordantia OmegaT, includente numeros, tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT must be restarted after a shortcut definition file has been modified for the new shortcuts to take effect.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T073929Z" creationid="Melo46" creationdate="20250302T073929Z">
+        <seg>OmegaT debe esser reinitiate post que un file de definition de via-breve ha essite modificate proque le nove vias breve sorti effecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62462,6 +62486,22 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The shortcut definition file for the editor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T073807Z" creationid="Melo46" creationdate="20250302T073807Z">
+        <seg>Le files de definition de via-breve pro le editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut definition file for the menus and a few other items.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T073724Z" creationid="Melo46" creationdate="20250302T073724Z">
+        <seg>Le file de definition de via-breve pro le menus e alcun altere elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140227T180532Z">
@@ -63785,6 +63825,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T155230Z">
         <seg>Il ha duo possibilitates pro facer fluer un servitor de SVN: tu pote installar SVN sur tu proprie servitor o tu pote usar un servicio sur un hospite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two shortcut definition files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T073432Z" creationid="Melo46" creationdate="20250302T073432Z">
+        <seg>Il ha duo files de definition de via-breve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67240,6 +67288,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144805Z">
         <seg>To do so, attach the following notices to the program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, you have to put the appropriate shortcut definition file in your OmegaT configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T073234Z" creationid="Melo46" creationdate="20250302T073234Z">
+        <seg>Pro assi facer, tu debe poner le appropriate file de definition de via-breve in tu plica del configuration de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74176,6 +74232,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add or modify the shortcuts for most of the functions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T072946Z" creationid="Melo46" creationdate="20250302T072946Z">
+        <seg>Tu alsi pote adder o modificar le vias breve pro le major parte del functiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T190755Z" creationid="will" creationdate="20220110T190755Z">
@@ -74512,6 +74576,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T222856Z">
         <seg>On pote converter le files MS Office 1997/2000/2003/XP al formato MS Office 2007 per los aperir in MS Office 2007 e los salvar con "Salva Como" in le formato nove.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T074416Z" creationid="Melo46" creationdate="20250302T074416Z">
+        <seg>Tu pote copiar le files de definition de via-breve predefinite de OmegaT ab le sito de disveloppamento sur Sourceforge a &lt;l0&gt;tu plica del configuration&lt;/l0&gt; e modificar los pro satisfacer tu besonios:</seg>
       </tuv>
     </tu>
     <tu>
