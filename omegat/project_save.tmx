@@ -17310,6 +17310,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues for Current File</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100242Z" creationid="Melo46" creationdate="20250302T100242Z">
+        <seg>Controlar problemas pro le file actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues...</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T174044Z" creationid="Melo46" creationdate="20200730T130409Z">
@@ -21858,6 +21866,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries/Use Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100532Z" creationid="Melo46" creationdate="20250302T100532Z">
+        <seg>Dictionarios/Usa le concordantias partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084238Z">
@@ -22162,10 +22178,50 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094737Z" creationid="Melo46" creationdate="20250302T094737Z">
+        <seg>Monstrar character de controlo del algorithmo bidirectional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140701T112524Z">
         <seg>Monstra le typo de character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/None</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T095959Z" creationid="Melo46" creationdate="20250302T095959Z">
+        <seg>Monstrar informationes re le modification/nulle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/for All Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100045Z" creationid="Melo46" creationdate="20250302T100045Z">
+        <seg>Monstrar informationes re le modification/pro tote le segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/for Current Segment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100025Z" creationid="Melo46" creationdate="20250302T100025Z">
+        <seg>Monstrar informationes re le modification/pro segmento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094635Z" creationid="Melo46" creationdate="20250302T094635Z">
+        <seg>Monstrar spatios non-frangibile</seg>
       </tuv>
     </tu>
     <tu>
@@ -22180,8 +22236,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO46" changedate="20140615T121140Z">
-        <seg>Monstra le Segmentos Fte</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094602Z">
+        <seg>Monstrar le segmentos fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -22190,6 +22246,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T121856Z" creationid="Melo46" creationdate="20250222T121856Z">
         <seg>Monstrar le description contextual del &amp;glossarios TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Whitespace</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094645Z" creationid="Melo46" creationdate="20250302T094645Z">
+        <seg>Monstrar le spatio blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -28625,6 +28689,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries/Use Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100519Z" creationid="Melo46" creationdate="20250302T100519Z">
+        <seg>Glossarios/Usa le concordantias partial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082412Z">
@@ -29589,6 +29661,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T095346Z" creationid="Melo46" creationdate="20250302T095346Z">
+        <seg>Evidentiar le segmentos populate automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T064338Z" creationid="melo" creationdate="20160813T064338Z">
@@ -29605,6 +29685,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Repeated Segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094614Z" creationid="Melo46" creationdate="20250302T094614Z">
+        <seg>Evidentiar le segmentos repetite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T092339Z" creationid="will" creationdate="20230322T092339Z">
@@ -29617,6 +29705,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T072145Z" creationid="Melo46" creationdate="20250222T072145Z">
         <seg>Evidentiar segmentos con traductiones alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Notes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T094630Z" creationid="Melo46" creationdate="20250302T094630Z">
+        <seg>Evidentiar le segmentos con notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -36156,6 +36252,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is not possible to add a shortcut to call the script editor, or to modify the shortcuts assigned to the scripts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100419Z" creationid="Melo46" creationdate="20250302T100419Z">
+        <seg>Il es impossibile adder un via-breve pro vocar le editor de script, o pro modificar le vias breve assignate al scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T160500Z" creationid="will" creationdate="20220109T160500Z">
@@ -39171,6 +39275,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation/Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100501Z" creationid="Melo46" creationdate="20250302T100501Z">
+        <seg>Traduction automatic/Reporta automaticamente le traductiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T224805Z" creationid="Melo46" creationdate="20250219T224805Z">
@@ -39735,6 +39847,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T104636Z" creationid="Karm46" creationdate="20171126T104636Z">
         <seg>Marcar le concordantias de glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T095434Z" creationid="Melo46" creationdate="20250302T095434Z">
+        <seg>Marcar le problemas de corrector del lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -51011,6 +51131,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100101Z" creationid="Melo46" creationdate="20250302T100101Z">
+        <seg>Restaurar fenestra de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T090103Z">
@@ -58640,6 +58768,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T090004Z">
         <seg>Le commutator &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; ha tres statos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100310Z" creationid="Melo46" creationdate="20250302T100310Z">
+        <seg>Le &lt;l0/&gt; elemento in le menu &lt;l1/&gt; es un exception.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68934,8 +69070,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Tools Menu</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130626T114412Z">
-        <seg>Menu Instrumentos</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100144Z" creationid="Melo46" creationdate="20250302T100144Z">
+        <seg>Menu del utensiles</seg>
       </tuv>
     </tu>
     <tu>
@@ -71220,6 +71356,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T094214Z" creationid="will" creationdate="20230322T094214Z">
         <seg>Usar fonte de reserva aggressive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T095607Z" creationid="Melo46" creationdate="20250302T095607Z">
+        <seg>Usar intensivemente character de reserva</seg>
       </tuv>
     </tu>
     <tu>
@@ -78605,6 +78749,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift V</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100152Z" creationid="Melo46" creationdate="20250302T100152Z">
+        <seg>Ctrl Majusc V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift W</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T084141Z" creationid="Melo46" creationdate="20250302T084141Z">
@@ -82655,6 +82807,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift V</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100155Z" creationid="Melo46" creationdate="20250302T100155Z">
+        <seg>Meta Majusc V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift W</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T091039Z" creationid="Melo46" creationdate="20250302T091039Z">
@@ -83447,6 +83607,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100535Z" creationid="Melo46" creationdate="20250302T100535Z">
+        <seg>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T134014Z">
@@ -83471,6 +83639,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100521Z" creationid="Melo46" creationdate="20250302T100521Z">
+        <seg>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160802T160508Z" creationid="Melo46" creationdate="20160802T160508Z">
@@ -83483,6 +83659,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160802T160411Z" creationid="Melo46" creationdate="20160802T160411Z">
         <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100505Z" creationid="Melo46" creationdate="20250302T100505Z">
+        <seg>optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsPreferencesMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100424Z" creationid="Melo46" creationdate="20250302T100424Z">
+        <seg>optionsPreferencesMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -85801,6 +85993,30 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>toolsAlignFilesMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100252Z" creationid="Melo46" creationdate="20250302T100252Z">
+        <seg>toolsAlignFilesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsCheckIssuesCurrentFileMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100245Z" creationid="Melo46" creationdate="20250302T100245Z">
+        <seg>toolsCheckIssuesCurrentFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsCheckIssuesMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100148Z" creationid="Melo46" creationdate="20250302T100148Z">
+        <seg>toolsCheckIssuesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>toolsShowStatisticsMatchesMenuItem</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T134000Z">
@@ -86249,6 +86465,30 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>viewMarkFontFallbackCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T095610Z" creationid="Melo46" creationdate="20250302T095610Z">
+        <seg>viewMarkFontFallbackCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkGlossaryMatchesCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T095349Z" creationid="Melo46" creationdate="20250302T095349Z">
+        <seg>viewMarkGlossaryMatchesCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkLanguageCheckerCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T095437Z" creationid="Melo46" creationdate="20250302T095437Z">
+        <seg>viewMarkLanguageCheckerCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>viewMarkNBSPCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T133945Z">
@@ -86293,6 +86533,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T133945Z">
         <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100120Z" creationid="Melo46" creationdate="20250302T100120Z">
+        <seg>viewRestoreGUIMenuItem</seg>
       </tuv>
     </tu>
     <tu>
