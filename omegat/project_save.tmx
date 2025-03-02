@@ -34626,6 +34626,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control Character/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T000143Z" creationid="Melo46" creationdate="20250302T000143Z">
+        <seg>Inserer character de controlo bidirectional/marca de sinistra a dextra (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T162436Z" creationid="Melo46" creationdate="20160728T162436Z">
@@ -79867,6 +79875,14 @@ crea le plica del configuration.</seg>
       <tuv lang="ia" changeid="melo" changedate="20160814T173344Z" creationid="melo" creationdate="20160814T173344Z">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialisa un projecto de equipa minime con le linguas specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250301T234855Z" creationid="Melo46" creationdate="20250301T234855Z">
+        <seg>insertCharsLRM</seg>
       </tuv>
     </tu>
     <tu>
