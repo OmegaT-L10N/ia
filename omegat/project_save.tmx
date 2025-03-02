@@ -53385,6 +53385,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T104808Z" creationid="Melo46" creationdate="20250302T104808Z">
+        <seg>Vider le section &lt;l1/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; section.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T023048Z" creationid="Melo46" creationdate="20250225T023048Z">
@@ -59148,6 +59156,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T104731Z" creationid="Melo46" creationdate="20250302T104731Z">
+        <seg>Le pannello &lt;l0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T104513Z" creationid="Melo46" creationdate="20250302T104513Z">
@@ -60948,6 +60964,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T155545Z">
         <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documents are created in the &lt;l0/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T104834Z" creationid="Melo46" creationdate="20250302T104834Z">
+        <seg>Le documentos es create in le &lt;l0/&gt; plica de tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
