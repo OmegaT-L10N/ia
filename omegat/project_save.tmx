@@ -7774,6 +7774,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T002012Z" creationid="Melo46" creationdate="20250302T002012Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; o &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160808T004734Z" creationid="Melo46" creationdate="20160808T004734Z">
@@ -7818,6 +7826,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T231441Z" creationid="Melo46" creationdate="20250301T231441Z">
         <seg>&lt;k0&gt;alt / option&lt;/k0&gt; o &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; or &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T002030Z" creationid="Melo46" creationdate="20250302T002030Z">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; o &lt;k1&gt;⌘&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40341,6 +40357,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifier key identifiers</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T001935Z" creationid="Melo46" creationdate="20250302T001935Z">
+        <seg>Identificatores de claves modificator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modify encoding declaration</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T073910Z" creationid="will" creationdate="20230304T073910Z">
@@ -44306,6 +44330,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T133051Z">
         <seg>OmegaT flue sur tote le systemas operative sur le qual pote ser installate un version convenibile de Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T001745Z" creationid="Melo46" creationdate="20250302T001745Z">
+        <seg>OmegaT functiona sur qualcunque platteforma que exeque un Ambiente Java runtime (Windows, macOS, e Linux que es le principal).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61232,6 +61264,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The modifier keys that form the shortcuts vary slightly depending between platforms.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T001851Z" creationid="Melo46" creationdate="20250302T001851Z">
+        <seg>Le claves modificator que forma le vias breve varia legiermente secundo le platteformas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180426T000746Z" creationid="Karm46" creationdate="20170913T180600Z">
@@ -67520,6 +67560,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T193456Z">
         <seg>Pro render lanceamento OmegaT mesmo plus facile, adde lo a tu menu de lanceamento, o pone un icone de lanceamento pro illo sur tu scriptorio o in tu quadro scriptorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make reading easier we have adopted the following convention for modifier keys:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T001905Z" creationid="Melo46" creationdate="20250302T001905Z">
+        <seg>Pro facer leger plus facile nos ha adoptate le sequente convention pro modificator claves:</seg>
       </tuv>
     </tu>
     <tu>
@@ -74472,6 +74520,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T193449Z">
         <seg>Tu pote personalisar le script lanceamento de kaptain de maniera que tu preferentias sia le configurationes initial; redige simplemente le file omegat.kaptn in un editor de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize the majority of the shortcuts in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T001510Z" creationid="Melo46" creationdate="20250302T001510Z">
+        <seg>Tu pote personalisar le majoritate del vias breve in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
