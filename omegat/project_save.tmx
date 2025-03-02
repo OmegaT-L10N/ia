@@ -3825,9 +3825,9 @@ configurationes del projecto).</seg>
         <seg>--mode=[console mode name]
 	  Specify a mode other than the GUI default.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T055524Z" creationid="will" creationdate="20230317T055524Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T061812Z" creationid="will" creationdate="20230317T055524Z">
         <seg>--mode=[console mode name]
-	  Specifica un modo in ultra al le GUI predefinite.</seg>
+	  Specifica un modo ultra que le GUI predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,10 +3942,10 @@ configurationes del projecto).</seg>
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T055720Z" creationid="will" creationdate="20230317T055720Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T062136Z" creationid="will" creationdate="20230317T055720Z">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
-	    Un lista blanc de regular expressiones del files fonte a processar.</seg>
+	    Un lista blanc de expression regular del files fonte a processar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83642,9 +83642,9 @@ crea le plica del configuration.</seg>
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230316T165343Z" creationid="will" creationdate="20230316T165343Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T061459Z" creationid="will" creationdate="20230316T165343Z">
         <seg>team init &lt;lingua fonte&gt; &lt;lingua de destination&gt;
-	  projecto de equipa instrumento.</seg>
+	  Utensile projecto de equipa.</seg>
       </tuv>
     </tu>
     <tu>
