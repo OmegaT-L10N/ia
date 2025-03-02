@@ -4482,6 +4482,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075241Z" creationid="Melo46" creationdate="20250302T075241Z">
+        <seg>0 o plus &lt;c0&gt;modificatores&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T180627Z">
@@ -5766,6 +5774,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T133106Z">
         <seg>&lt;c0&gt;&lt;modificator&gt;&lt;/c0&gt; pote esser: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075941Z" creationid="Melo46" creationdate="20250302T075941Z">
+        <seg>&lt;c0&gt;evento&lt;/c0&gt; pote esser: &lt;o1&gt;typate&lt;/o1&gt;, &lt;o2&gt;pulsate&lt;/o2&gt;, &lt;o3&gt;lassate&lt;/o3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8334,10 +8350,26 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075648Z" creationid="Melo46" creationdate="20250302T075648Z">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; se refere al clave &lt;e1&gt;Alt&lt;/e1&gt; al dextra del barra de spatio sur clavieros con duo claves &lt;e2&gt;Alt&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T131207Z" creationid="Melo46" creationdate="20250225T131207Z">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (ubi “␣” representa un sol spatio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075516Z" creationid="Melo46" creationdate="20250302T075516Z">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; se refere al clave con le logo de Windows sur plure clavieros pro le systemas Windows e Linux, e al clave &lt;l1&gt;command&lt;/l1&gt; sur macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36274,6 +36306,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It takes the following form:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075224Z" creationid="Melo46" creationdate="20250302T075224Z">
+        <seg>Require le sequente forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T152634Z" creationid="Melo46" creationdate="20250225T152417Z">
@@ -38975,6 +39015,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095204Z">
         <seg>Menu principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T074644Z" creationid="Melo46" creationdate="20250302T074644Z">
+        <seg>MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -56418,6 +56466,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Syntax</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075011Z" creationid="Melo46" creationdate="20250302T075011Z">
+        <seg>Syntaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>System requirements</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T104906Z">
@@ -57992,6 +58048,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230303T070309Z" creationid="will" creationdate="20230303T070309Z">
         <seg>Le &lt;c0&gt;filtro de Microsoft Office Open XML (filtro legate)&lt;/c0&gt; es le filtro original de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075215Z" creationid="Melo46" creationdate="20250302T075215Z">
+        <seg>Le &lt;c0&gt;via-breve&lt;/c0&gt; representa le combination de claves pulsate per le usator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61200,6 +61264,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS files must be renamed &lt;l0/&gt; and &lt;l1/&gt; for OmegaT to recognize them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T074843Z" creationid="Melo46" creationdate="20250302T074843Z">
+        <seg>Le files de macOS debe esser renominate &lt;l0/&gt; e &lt;l1/&gt; proque OmegaT los recognosce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T184242Z">
@@ -61468,6 +61540,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T203849Z" creationid="Melo46" creationdate="20250225T203849Z">
         <seg>Le character avantiamento de linea (fluxo de linea), non le littera “n”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075007Z" creationid="Melo46" creationdate="20250302T075007Z">
+        <seg>Le section successive describe le syntaxe usate in le files de definition de via-breve, e offere un exemplo de modification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70928,6 +71008,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075133Z" creationid="Melo46" creationdate="20250302T075133Z">
+        <seg>Usar le tabulas in le section &lt;l0/&gt; infra pro trovar le valores pro le &lt;c1&gt;codice de function&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T205331Z">
@@ -73251,6 +73339,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows and Linux default shortcuts</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T074539Z" creationid="Melo46" creationdate="20250302T074539Z">
+        <seg>Vias breve predefinite de Windows e Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows and dialogs</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T203903Z" creationid="Melo46" creationdate="20200726T203903Z">
@@ -74942,6 +75038,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T094117Z">
         <seg>Tu pote rapidemente vider lor contentos querente a lor titulo: il continera le termino de recerca usate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080340Z" creationid="Melo46" creationdate="20250302T080340Z">
+        <seg>Tu pote referer te al &lt;l1&gt;tabula que presenta le differente vias breve del editor&lt;/l1&gt; pro trovar le valores pro claves tal como &lt;l2&gt;Casa&lt;/l2&gt;, &lt;l3&gt;Pagina In alto&lt;/l3&gt;, o le claves flecha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76657,6 +76761,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T133522Z">
         <seg>e &lt;c0&gt;&lt;clave&gt;&lt;/c0&gt; pote esser qualcunque clave disponibile sur tu claviero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and &lt;c0&gt;key&lt;/c0&gt; can be any key available on your keyboard.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075958Z" creationid="Melo46" creationdate="20250302T075958Z">
+        <seg>e &lt;c0&gt;clave&lt;/c0&gt; pote esser qualcunque clave disponibile sur tu claviero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78421,6 +78533,22 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>followed by 0 or 1 &lt;c0&gt;event&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075253Z" creationid="Melo46" creationdate="20250302T075253Z">
+        <seg>sequite per 0 o 1 &lt;c0&gt;eventos&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075301Z" creationid="Melo46" creationdate="20250302T075301Z">
+        <seg>sequite per 1 &lt;c0&gt;clave&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for &amp;All Segments</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230322T094320Z" creationid="will" creationdate="20230322T094320Z">
@@ -79421,10 +79549,26 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T074602Z" creationid="Melo46" creationdate="20250302T074602Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T231549Z" creationid="Melo46" creationdate="20250301T231549Z">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T074549Z" creationid="Melo46" creationdate="20250302T074549Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -80971,6 +81115,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081650Z" creationid="Melo46" creationdate="20200730T081650Z">
         <seg>Usatores de macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS default shortcuts</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T074636Z" creationid="Melo46" creationdate="20250302T074636Z">
+        <seg>Vias breve predefinite de macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -84693,6 +84845,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T223939Z">
         <seg>ubi "XXXXXXXX" es tu clave API de Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T075356Z" creationid="Melo46" creationdate="20250302T075356Z">
+        <seg>ubi le &lt;c0&gt;modificator&lt;/c0&gt; pote esser: &lt;l1&gt;majusc&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, o &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
