@@ -11036,6 +11036,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080548Z" creationid="Melo46" creationdate="20250302T080548Z">
+        <seg>Un linea de commento comencia con un &lt;c0&gt;#&lt;/c0&gt;, e omne cosa postea es ignorate per le application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
@@ -14672,6 +14680,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T044803Z" creationid="Melo46" creationdate="20200728T044803Z">
         <seg>Pois que plure informationes re SVN e Git es facilemente disponibile, nos non vole describer hic como illos functiona, ma solo como OmegaT functiona con illos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T082505Z" creationid="Melo46" creationdate="20250302T082505Z">
+        <seg>Como monstrate in le &lt;l0&gt;tabella del menu Rediger&lt;/l0&gt; infra, le codice de function pro le function &lt;g1&gt;Crear traduction alternative&lt;/g1&gt; es &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23779,6 +23795,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Empty lines and comments can be added to organize the list and make it easier to read.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080500Z" creationid="Melo46" creationdate="20250302T080500Z">
+        <seg>Lineas vacue e commentos pote esser addite pro organisar le lista e facer lo plus facile a leger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T043947Z">
@@ -29789,6 +29813,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T081522Z" creationid="Melo46" creationdate="20250302T081522Z">
+        <seg>Comocunque, tu poterea voler remover le clave &lt;k0&gt;S&lt;/k0&gt; del via-breve pro facer illo solo &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (o &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; sur macOS) pro harmonisar lo al via-breve que tu usa in altere applicationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T222917Z">
@@ -32865,6 +32897,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T231907Z">
         <seg>Si tu  file contine multe de tal interruptiones incommode, il es plus efficiente levar los tote a un vice, commutante inter OmegaT e Infix pro vider ubi illos es.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your language pair calls for the frequent use of &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T081941Z" creationid="Melo46" creationdate="20250302T081941Z">
+        <seg>Si tu copula de linguas appella pro le uso frequente de &lt;l0&gt;traductiones alternative&lt;/l0&gt;, tu poterea voler assignar un via-breve a ille function pois que il non ha un de ordinario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40437,6 +40477,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying a shortcut</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080719Z" creationid="Melo46" creationdate="20250302T080719Z">
+        <seg>Modificar un via-breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T155441Z" creationid="MELO46" creationdate="20131226T155441Z">
@@ -45675,6 +45723,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T171620Z" creationid="will" creationdate="20220109T171620Z">
         <seg>Aperir le file &lt;f0&gt;.UTF8&lt;/f0&gt; generate in le plica &lt;f1&gt;/target&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T082220Z" creationid="Melo46" creationdate="20250302T082220Z">
+        <seg>Aperi le &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; que tu ha copiate al &lt;l1&gt;tu plica del configuration&lt;/l1&gt; in un editor de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59792,6 +59848,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default shortcut for &lt;l0&gt;closing a project&lt;/l0&gt; is defined on Windows and Linux as:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080747Z" creationid="Melo46" creationdate="20250302T080747Z">
+        <seg>Le predefinite via-breve pro &lt;l0&gt;clauder un projecto&lt;/l0&gt; es definite sur Windows e Linux como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20210528T054601Z" creationid="Melo" creationdate="20210528T054601Z">
@@ -60012,6 +60076,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T153451Z" creationid="will" creationdate="20230302T153451Z">
         <seg>Le methodo le plus facile pro modificar lo es usar le dialogo &lt;g0&gt;Modificar modello&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080716Z" creationid="Melo46" creationdate="20250302T080716Z">
+        <seg>Le maniera plus facile pro modificar le vias breve es discargar copias del files predefinite a &lt;l0&gt;tu plica del configuration&lt;/l0&gt;, como notate supra, e facer le cambiamentos que tu vole illac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62899,6 +62971,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185413Z">
         <seg>Le barra de stato monstra messages  pertinente le fluxo de labor al fundo del fenestra principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T082015Z" creationid="Melo46" creationdate="20250302T082015Z">
+        <seg>Le passos infra demonstra como assignar le via-breve &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; al &lt;l3/&gt;&lt;l4/&gt; commando del menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67368,6 +67448,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144805Z">
         <seg>To do so, attach the following notices to the program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, modify the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; as follows for Windows or Linux:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T081547Z" creationid="Melo46" creationdate="20250302T081547Z">
+        <seg>Pro assi facer, modifica le &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; como seque pro Windows o Linux:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76813,6 +76901,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and on macOS as:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080751Z" creationid="Melo46" creationdate="20250302T080751Z">
+        <seg>e sur macOS como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171117T103910Z" creationid="Karm46" creationdate="20171117T103910Z">
@@ -82183,6 +82279,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>or as follows for macOS:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T081556Z" creationid="Melo46" creationdate="20250302T081556Z">
+        <seg>o como seque pro macOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T075948Z" creationid="will" creationdate="20230304T075948Z">
@@ -82695,6 +82799,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T081549Z" creationid="Melo46" creationdate="20250302T081549Z">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectCloseMenuItem=ctrl shift W</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T231752Z" creationid="Melo46" creationdate="20250301T231752Z">
@@ -82707,6 +82819,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T231758Z" creationid="Melo46" creationdate="20250301T231758Z">
         <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T080755Z" creationid="Melo46" creationdate="20250302T080755Z">
+        <seg>projectCloseMenuItem=meta shift W</seg>
       </tuv>
     </tu>
     <tu>
