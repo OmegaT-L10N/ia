@@ -21900,8 +21900,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230322T093823Z" creationid="will" creationdate="20230322T093823Z">
-        <seg>Mostrar spatios blanc</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T064512Z" creationid="will" creationdate="20230322T093823Z">
+        <seg>Monstrar spatios blanc&amp;y</seg>
       </tuv>
     </tu>
     <tu>
@@ -25582,8 +25582,8 @@ Gossamer vos retene, 404 non trovate</seg>
       <tuv lang="en">
         <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250219T093909Z" creationid="Melo46" creationdate="20250219T093909Z">
-        <seg>Impossibile cargar le projecto perque le plica 'source' specificate contine un ligamine symbolic o real que puncta retro a se mesme o a un de su subplicas.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T064611Z" creationid="Melo46" creationdate="20250219T093909Z">
+        <seg>Impossibile cargar le projecto perque le plica 'source' specificate contine un ligamine symbolic o real que puncta retro a se mesme o a un de su sub-plicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29609,6 +29609,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T071940Z" creationid="Karm46" creationdate="20171115T133830Z">
         <seg>Como render files Wordpress XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How we avoid listing multiple notations:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T065329Z" creationid="Melo46" creationdate="20250302T065329Z">
+        <seg>Nostre modo de evitar lista de plure notationes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44853,6 +44861,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T065422Z" creationid="Melo46" creationdate="20250302T065422Z">
+        <seg>Sur Windows e Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Majusc&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T085745Z">
@@ -44865,6 +44881,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T085946Z" creationid="Melo46" creationdate="20200730T085946Z">
         <seg>Sur macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T072523Z" creationid="Melo46" creationdate="20250302T072523Z">
+        <seg>Sur macOS: &lt;k0&gt;&lt;k1&gt;Majusc&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57952,6 +57976,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T212012Z">
         <seg>Le argumento &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; causa que &lt;a1&gt;OmegaT&lt;/a1&gt; usa le lingua specificate plus tosto que le lingua del systema operative del usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T065307Z" creationid="Melo46" creationdate="20250302T065307Z">
+        <seg>Le &lt;e0&gt;identificatores de clave&lt;/e0&gt; ci-supra permitte nos de evitar lista de plure notationes pro cata via-breve.</seg>
       </tuv>
     </tu>
     <tu>
