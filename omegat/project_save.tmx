@@ -3578,8 +3578,8 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250223T144930Z" creationid="will" creationdate="20230317T175224Z">
-        <seg>- traher e deponer files sur iste panello;
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T063902Z" creationid="will" creationdate="20230317T175224Z">
+        <seg>- traher e deponer files sur iste pannello;
 	- usa Projecto &gt; Copiar le files in le plica...;
 	- usa Projecto &gt; Files fonte... e pulsa Adder files...;
 	- usa tu gestor de file pro copiar files al plica /source,
@@ -3896,10 +3896,10 @@ configurationes del projecto).</seg>
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T061311Z" creationid="will" creationdate="20230317T061311Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T063623Z" creationid="Melo46" creationdate="20250302T063248Z">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
-	    Le emitte pseudo-traducite file de TMX.</seg>
+	    Le file TMX pseudotraducite de exito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,10 +3942,10 @@ configurationes del projecto).</seg>
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250302T062136Z" creationid="will" creationdate="20230317T055720Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T063738Z" creationid="Melo46" creationdate="20250302T063132Z">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
-	    Un lista blanc de expression regular del files fonte a processar.</seg>
+	    Un lista blanc de expressiones regular de files fonte a processar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4035,9 +4035,9 @@ configurationes del projecto).</seg>
         <seg>--pseudotranslatetype=[equal|empty]
 	    What to put in the pseudotranslated TMX.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T061351Z" creationid="will" creationdate="20230317T061351Z">
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T063558Z" creationid="Melo46" creationdate="20250302T063558Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		Con le qual plenar le file TMX pseudo-traducite.</seg>
+	    Que mitter in le file TMX pseudotraducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,8 +4666,8 @@ Le quantitate actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>2) Increase the amount of memory available to OmegaT.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230317T080604Z" creationid="will" creationdate="20230317T080604Z">
-        <seg>2) Acresscite le quantitate de memoria disponibile per OmegaT.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T063816Z" creationid="will" creationdate="20230317T080604Z">
+        <seg>2) Augmentar le quantitate de memoria disponibile per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47598,8 +47598,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230321T091055Z" creationid="will" creationdate="20230321T090930Z">
-        <seg>Formattation del direction Pop (PDF U+202&amp;C)</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T064400Z" creationid="will" creationdate="20230321T090930Z">
+        <seg>Fin de formatation del directional (PDF U+202&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
