@@ -12160,6 +12160,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084224Z" creationid="Melo46" creationdate="20250302T084224Z">
+        <seg>Adder files...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T235507Z" creationid="Melo46" creationdate="20160728T235507Z">
@@ -12180,6 +12188,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T060513Z" creationid="Melo46" creationdate="20250219T060513Z">
         <seg>Adder pagina MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084235Z" creationid="Melo46" creationdate="20250302T084235Z">
+        <seg>Adder pagina MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19977,6 +19993,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Translated Files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084258Z" creationid="Melo46" creationdate="20250302T084258Z">
+        <seg>Crear files traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a New Project</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T223730Z">
@@ -21305,6 +21329,14 @@ Nove version: {2}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130609T210442Z">
         <seg>Dele omne scripts de lanceamento e leva omne entratas personalisate pro OmegaT in tu scriptorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083008Z" creationid="Melo46" creationdate="20250302T083008Z">
+        <seg>Deler le &lt;c0&gt;#&lt;/c0&gt; al initio del linea assi OmegaT recognoscera le via-breve, e addera &lt;o1&gt;alt X&lt;/o1&gt; post le signo &lt;c2&gt;=&lt;/c2&gt; al fin del linea:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30247,6 +30279,14 @@ non necessita inserer le percurso integral.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083316Z" creationid="Melo46" creationdate="20250302T083316Z">
+        <seg>Si OmegaT es aperte, tu debera reinitiar lo proque tu cambiamentos sorti effecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T132111Z" creationid="Melo46" creationdate="20200727T132111Z">
@@ -38331,6 +38371,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lists of functions and codes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083754Z" creationid="Melo46" creationdate="20250302T083754Z">
+        <seg>Lista de functiones e codices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T203623Z">
@@ -40047,6 +40095,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102000Z">
         <seg>Menu e vias breve del claviero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu functions</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083839Z" creationid="Melo46" creationdate="20250302T083839Z">
+        <seg>Functiones del menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -45627,6 +45683,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T133257Z" creationid="Melo" creationdate="20141026T100044Z">
         <seg>Aperir un projecto recente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Recent...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084106Z" creationid="Melo46" creationdate="20250302T084106Z">
+        <seg>Aperte recentemente...</seg>
       </tuv>
     </tu>
     <tu>
@@ -51517,6 +51581,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save and close the file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083025Z" creationid="Melo46" creationdate="20250302T083025Z">
+        <seg>Salva e claude le file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T225950Z" creationid="Karm46" creationdate="20170911T225950Z">
@@ -51569,6 +51641,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T231139Z">
         <seg>Salva le modificationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the file after you have finished making your changes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083151Z" creationid="Melo46" creationdate="20250302T083151Z">
+        <seg>Salva le file post que tu ha finite facer tu cambiamentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52133,6 +52213,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T155402Z" creationid="MELO46" creationdate="20140109T155402Z">
         <seg>Usante le recerca per parola clave con &lt;l0&gt;open file&lt;/l0&gt; trovara assi omne occurrentias del linea de character  &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; ma non &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; o &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for that code in the file will bring you to the following line:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T082744Z" creationid="Melo46" creationdate="20250302T082744Z">
+        <seg>In cerca de ille codice in le file te apportara al linea sequente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54094,6 +54182,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T193031Z">
         <seg>Personalisation del vias breve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts in parentheses are alternatives for the same function found in the &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084003Z" creationid="Melo46" creationdate="20250302T084003Z">
+        <seg>Le vias breve in parentheses es alternativas pro le mesme function trovate in le &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60784,6 +60880,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The functions that can be modified in the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the tables below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083928Z" creationid="Melo46" creationdate="20250302T083928Z">
+        <seg>Le functiones que pote esser modificate in le file &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, insimul con lor valores predefinite, es presentate in le tabulas infra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The fuzzy matches can be also sorted in different ways (for displaying only; no influence on statistics).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T064009Z" creationid="Melo" creationdate="20151116T064009Z">
@@ -61172,6 +61276,14 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144510Z">
         <seg>The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line is currently a comment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T082819Z" creationid="Melo46" creationdate="20250302T082819Z">
+        <seg>Le linea es actualmente un commento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61624,10 +61736,26 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next section presents tables with the function codes and corresponding default shortcut for each menu or editor function in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083750Z" creationid="Melo46" creationdate="20250302T083750Z">
+        <seg>Le section successive presenta tabulas con le codices de function e del correspondente via breve predefinite pro cata menu o function del editor in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T144713Z">
         <seg>Le segmento successive con un nota, aperira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time you start OmegaT, your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083107Z" creationid="Melo46" creationdate="20250302T083107Z">
+        <seg>Le proxime vice que tu lancea OmegaT, tu nove via-breve deberea esser active e monstrate presso le nomine del function in le menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64611,6 +64739,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T203745Z">
         <seg>Illos totevia accedera semper al mesme files de configuration del usator (a minus que lanceate ab un conto del usator differente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will now be available in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083524Z" creationid="Melo46" creationdate="20250302T083524Z">
+        <seg>Illos ora sera disponibile in OmegaT fin que il non ha alcun conflictos con altere functiones o con  vias breve del systema-integre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76025,6 +76161,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your modified or added shortcuts should now be displayed next to the menu items you have changed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T083440Z" creationid="Melo46" creationdate="20250302T083440Z">
+        <seg>Tu vias breve modificate o addite debe ora esser monstrate presso le elementos del menu que tu ha cambiate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your name/ID is used to identify your translations.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T173823Z" creationid="Melo46" creationdate="20250221T173823Z">
@@ -77773,10 +77917,42 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl D</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084301Z" creationid="Melo46" creationdate="20250302T084301Z">
+        <seg>ctrl D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl O</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084007Z" creationid="Melo46" creationdate="20250302T084007Z">
+        <seg>ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl S</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084204Z" creationid="Melo46" creationdate="20250302T084204Z">
+        <seg>ctrl S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift N</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T231845Z" creationid="Melo46" creationdate="20250301T231845Z">
         <seg>ctrl Majusc N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift W</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084141Z" creationid="Melo46" creationdate="20250302T084141Z">
+        <seg>Ctrl Majusc W</seg>
       </tuv>
     </tu>
     <tu>
@@ -81351,10 +81527,34 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta O</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084010Z" creationid="Melo46" creationdate="20250302T084010Z">
+        <seg>meta O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta S</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084207Z" creationid="Melo46" creationdate="20250302T084207Z">
+        <seg>meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift N</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T231900Z" creationid="Melo46" creationdate="20250301T231847Z">
         <seg>meta Majusc N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift W</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084156Z" creationid="Melo46" creationdate="20250302T084156Z">
+        <seg>meta Majusc W</seg>
       </tuv>
     </tu>
     <tu>
@@ -82827,6 +83027,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T080755Z" creationid="Melo46" creationdate="20250302T080755Z">
         <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitSourceFiles</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084237Z" creationid="Melo46" creationdate="20250302T084237Z">
+        <seg>projectCommitSourceFiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitTargetFiles</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T084245Z" creationid="Melo46" creationdate="20250302T084245Z">
+        <seg>projectCommitTargetFiles</seg>
       </tuv>
     </tu>
     <tu>
