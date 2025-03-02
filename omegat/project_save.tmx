@@ -11970,6 +11970,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Configuration Folder...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100804Z" creationid="Melo46" creationdate="20250302T100804Z">
+        <seg>Acceder al Plica del configuration...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T134125Z" creationid="Karm46" creationdate="20171126T134125Z">
@@ -15092,6 +15100,30 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Completion/History Completion</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100652Z" creationid="Melo46" creationdate="20250302T100652Z">
+        <seg>Auto-completamento/Completamento del chronologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion/History Prediction</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100712Z" creationid="Melo46" creationdate="20250302T100712Z">
+        <seg>Auto-completamento/Prediction del chronologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100622Z" creationid="Melo46" creationdate="20250302T100622Z">
+        <seg>Auto-completamento/Monstra automaticamente le suggestiones pertinente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230321T091449Z" creationid="will" creationdate="20230321T091449Z">
@@ -16626,6 +16658,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130520T220818Z">
         <seg>Traductiones CJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CONTEXT_MENU</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101607Z" creationid="Melo46" creationdate="20250302T101607Z">
+        <seg>CONTEXT_MENU</seg>
       </tuv>
     </tu>
     <tu>
@@ -23524,6 +23564,14 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ENTER</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T102023Z" creationid="Melo46" creationdate="20250302T102023Z">
+        <seg>INVIAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EPWING plugin</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T082730Z" creationid="Melo46" creationdate="20210220T082730Z">
@@ -23874,6 +23922,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T225448Z" creationid="Karm46" creationdate="20170911T225448Z">
         <seg>Optiones del editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor functions</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101533Z" creationid="Melo46" creationdate="20250302T101533Z">
+        <seg>Functiones de editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -28297,6 +28353,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GLobal Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100743Z" creationid="Melo46" creationdate="20250302T100743Z">
+        <seg>Regulas de segmentation global...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GNOME Users</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T055016Z">
@@ -28573,6 +28637,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T144449Z" creationid="Melo46" creationdate="20250221T144449Z">
         <seg>Filtros de file mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File Filters...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100730Z" creationid="Melo46" creationdate="20250302T100730Z">
+        <seg>Filtros de file global...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28929,6 +29001,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Next Segment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101808Z" creationid="Melo46" creationdate="20250302T101808Z">
+        <seg>Ir a Segmento successive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Next Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T102005Z" creationid="Melo46" creationdate="20250302T102005Z">
+        <seg>Ir a segmento successive (non TAB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T171241Z" creationid="Karm46" creationdate="20171001T171241Z">
@@ -28941,6 +29029,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T124741Z" creationid="Melo46" creationdate="20250222T124741Z">
         <seg>Ir a Preferentias &gt; Recercas externe mundial pro activar los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101910Z" creationid="Melo46" creationdate="20250302T101910Z">
+        <seg>Ir a segmento precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T102038Z" creationid="Melo46" creationdate="20250302T102038Z">
+        <seg>Ir a segmento precedente (non TAB)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37179,6 +37283,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T205723Z" creationid="Karm46" creationdate="20171128T205723Z">
         <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jump to Entry in Editor</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100904Z" creationid="Melo46" creationdate="20250302T100904Z">
+        <seg>Saltar al Entrata in le editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -45919,6 +46031,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Context Menu</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101557Z" creationid="Melo46" creationdate="20250302T101557Z">
+        <seg>Aperir menu contextual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T153939Z" creationid="Karm46" creationdate="20171128T153939Z">
@@ -52345,6 +52465,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Window</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100812Z" creationid="Melo46" creationdate="20250302T100812Z">
+        <seg>Fenestra de recerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search and Replace</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T210313Z" creationid="MELO46" creationdate="20140629T210313Z">
@@ -57070,6 +57198,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230318T150903Z" creationid="MELO46" creationdate="20140615T143459Z">
         <seg>MTs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TAB</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101818Z" creationid="Melo46" creationdate="20250302T101818Z">
+        <seg>TAB</seg>
       </tuv>
     </tu>
     <tu>
@@ -78437,6 +78573,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl ENTER</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T102140Z" creationid="Melo46" creationdate="20250302T102140Z">
+        <seg> Ctrl Inviar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl F</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T085557Z" creationid="Melo46" creationdate="20250302T085557Z">
@@ -79317,6 +79461,46 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorContextMenu</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101601Z" creationid="Melo46" creationdate="20250302T101601Z">
+        <seg>editorContextMenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorNextSegment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101811Z" creationid="Melo46" creationdate="20250302T101811Z">
+        <seg>editorNextSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorNextSegmentNotTab</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T102009Z" creationid="Melo46" creationdate="20250302T102009Z">
+        <seg>editorNextSegmentNotTab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorPrevSegment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101912Z" creationid="Melo46" creationdate="20250302T101912Z">
+        <seg>editorPrevSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorPrevSegmentNotTab</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T102039Z" creationid="Melo46" creationdate="20250302T102039Z">
+        <seg>editorPrevSegmentNotTab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ee</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132354Z">
@@ -80113,6 +80297,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140416T211652Z" creationid="MELO46" creationdate="20140416T211652Z">
         <seg>helpLogMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>helpUpdateCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100807Z" creationid="Melo46" creationdate="20250302T100807Z">
+        <seg>helpUpdateCheckMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -81719,6 +81911,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>jumpToEntryInEditor</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100908Z" creationid="Melo46" creationdate="20250302T100908Z">
+        <seg>jumpToEntryInEditor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>juniversalchardet (GPL)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T235047Z" creationid="Melo46" creationdate="20160728T235047Z">
@@ -82491,6 +82691,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T084446Z" creationid="Melo46" creationdate="20250302T084446Z">
         <seg>Meta E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta ENTER</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T102155Z" creationid="Melo46" creationdate="20250302T102155Z">
+        <seg>meta inviar</seg>
       </tuv>
     </tu>
     <tu>
@@ -83587,6 +83795,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140416T211558Z" creationid="MELO46" creationdate="20140416T211558Z">
         <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100655Z" creationid="Melo46" creationdate="20250302T100655Z">
+        <seg>optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryPredictionMenuItem</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T100715Z" creationid="Melo46" creationdate="20250302T100715Z">
+        <seg>optionsAutoCompleteHistoryPredictionMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -85015,10 +85239,26 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>shift ESCAPE</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101632Z" creationid="Melo46" creationdate="20250302T101632Z">
+        <seg>Majusc esc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>shift F3</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T090237Z" creationid="Melo46" creationdate="20250302T090237Z">
         <seg>Majusc F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shift TAB</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250302T101945Z" creationid="Melo46" creationdate="20250302T101945Z">
+        <seg>Majusc tab</seg>
       </tuv>
     </tu>
     <tu>
