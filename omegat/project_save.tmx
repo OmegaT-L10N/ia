@@ -40621,6 +40621,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches from the reference memories are displayed in the &lt;l0/&gt; pane, just like matches from &lt;l1/&gt;, the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233239Z" creationid="Melo46" creationdate="20250304T233239Z">
+        <seg>Concordantias ab le memorias de traduction de referentia es monstrate in le pannello &lt;l0/&gt;, justo como concordantias con &lt;l1/&gt;, le memoria de traduction del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches inserted active</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T081759Z" creationid="Melo46" creationdate="20250222T081722Z">
@@ -44324,6 +44332,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T153105Z" creationid="will" creationdate="20230302T153105Z">
         <seg>OmegaT pote automaticamente crear nove nomines de files pro le files que tu crea, per adder un codice de lingua o un marca de tempore, per exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can be instructed to automatically insert matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T232931Z" creationid="Melo46" creationdate="20250304T232931Z">
+        <seg>OmegaT pote esser instruite a inserer automaticamente le concordantias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53539,6 +53555,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233459Z" creationid="Melo46" creationdate="20250304T233459Z">
+        <seg>Vide le preferentias de &lt;l1/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; project property for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T183925Z" creationid="will" creationdate="20230315T183925Z">
@@ -57296,6 +57320,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such matches are by default limited to the source and target languages defined in the &lt;l0/&gt; dialog, but you can also add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233431Z" creationid="Melo46" creationdate="20250304T233431Z">
+        <seg>Tal concordantias es de ordinario limitate al linguas fonte e de destination definite in le fenestra de dialogo &lt;l0/&gt;, ma tu pote alsi adder concordantias in linguas que non es le lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such modifications are possible in ODF files for example.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T073459Z">
@@ -60341,6 +60373,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The background colour is restored to normal when you leave the segment or when you modify the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234100Z" creationid="Melo46" creationdate="20250304T234100Z">
+        <seg>Le color de fundo es restaurate a normal quando tu exi del segmento o quando tu modifica le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The background is restored to normal when the segment is left.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T091413Z" creationid="Melo46" creationdate="20151119T091413Z">
@@ -61458,6 +61498,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files created here will reflect the current state of the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T232303Z" creationid="Melo46" creationdate="20250304T232303Z">
+        <seg>Le files create ci reflectera le stato actual del traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T204148Z">
@@ -61558,6 +61606,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T154251Z" creationid="Melo46" creationdate="20250225T154251Z">
         <seg>Le contrario del exemplo precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder can contain any number of subfolders, including some that have special functions:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233535Z" creationid="Melo46" creationdate="20250304T233535Z">
+        <seg>Le plica pote continer qualcunque numero de subplicas, includite alcun que ha functiones special:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66683,6 +66739,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder can contain any number of bilingual reference documents (TMX files, but also any file in a bilingual format supported by OmegaT, including PO files, etc.) and the TMX files can also be compressed in the gzip format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T232754Z" creationid="Melo46" creationdate="20250304T232754Z">
+        <seg>Iste plica pote continer qualcunque numero de documentos de referentia bilingue (files TMX, ma alsi alcun file in un formato bilingue supportate per OmegaT, includite files PO, etc.) e le files TMX pote alsi esser comprimite in le formato gzip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains a number of log files.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170037Z" creationid="will" creationdate="20230228T170037Z">
@@ -66711,6 +66775,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093624Z">
         <seg>Iste plica is vacue ab initio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is intended for reliable references files that can automatically fill exactly matching and not yet translated segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233733Z" creationid="Melo46" creationdate="20250304T233733Z">
+        <seg>Iste plica es intendite pro files de referentia fidabile que pote automaticamente compilar segmentos concordante exactemente e nondum traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69163,6 +69235,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind you that a match was inserted by OmegaT and not by you, OmegaT adds the prefix set in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233054Z" creationid="Melo46" creationdate="20250304T233054Z">
+        <seg>Pro rememorar te que un concordantia era inserite per OmegaT e non per te, OmegaT adde le prefixo predefinite in le preferentia &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T160129Z" creationid="will" creationdate="20220109T160129Z">
@@ -70432,6 +70512,22 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translations coming from this folder are considered to be &lt;e0&gt;as&lt;/e0&gt; reliable as the project memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233915Z" creationid="Melo46" creationdate="20250304T233915Z">
+        <seg>Traductiones veniente de iste plica es considerate esser &lt;e0&gt;si&lt;/e0&gt; fidabile como le memoria de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233808Z" creationid="Melo46" creationdate="20250304T233808Z">
+        <seg>Le traductiones de files TMX ubicate in iste plica es automaticamente inserite in segmentos concordante sin le automatic prefixo, rendente inutile confirmar iste segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translator comments:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084937Z">
@@ -71506,6 +71602,14 @@ re linea {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Untranslated segments will remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T232348Z" creationid="Melo46" creationdate="20250304T232348Z">
+        <seg>Le segmentos non traducite remanera in le lingua fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unzip the files from the tokenizer zip package.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T222646Z">
@@ -71950,6 +72054,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060227Z" creationid="will" creationdate="20230315T060227Z">
         <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro entrar nove terminos in iste glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to highlight them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T233955Z" creationid="Melo46" creationdate="20250304T233955Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro evidentiar los.</seg>
       </tuv>
     </tu>
     <tu>
