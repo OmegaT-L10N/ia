@@ -13714,6 +13714,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project consists of a set of folders and files that contain the resources used for translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T223650Z" creationid="Melo46" creationdate="20250304T223650Z">
+        <seg>Un projecto OmegaT consiste de un insimul de plicas e files que contine le ressources usate pro traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T202618Z" creationid="Melo46" creationdate="20200726T202618Z">
@@ -16442,6 +16450,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T210210Z">
         <seg>Per predisposition initial, OmegaT usa le propagation del concordantia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, a newly created project will contain all the required resources within its folder, and those resources are assigned the default names below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224717Z" creationid="Melo46" creationdate="20250304T224717Z">
+        <seg>De ordinario, un projecto a pena create continera tote le ressources necessari intra su plica, e ille ressources es assignate le nomines infra predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21449,6 +21465,14 @@ Nove version: {2}</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T131525Z">
         <seg>Via breve base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default structure</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T223633Z" creationid="Melo46" creationdate="20250304T223633Z">
+        <seg>structura predefinite</seg>
       </tuv>
     </tu>
     <tu>
@@ -49162,6 +49186,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T223550Z" creationid="Melo46" creationdate="20250304T223550Z">
+        <seg>Plica de projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Menu</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T113735Z">
@@ -72180,6 +72212,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T081247Z" creationid="will" creationdate="20230304T081247Z">
         <seg>Usa iste option pro remover los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use translation memories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T223515Z" creationid="Melo46" creationdate="20250304T223515Z">
+        <seg>Usar memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
