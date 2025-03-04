@@ -14288,6 +14288,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any given folder that contains a valid &lt;f0&gt;omegat.project&lt;/f0&gt; file will be recognized as a translation project by OmegaT (even if it later needs manual adjustments).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230259Z" creationid="Melo46" creationdate="20250304T230259Z">
+        <seg>Qualcunque plica date, que contine un file &lt;f0&gt;omegat.project&lt;/f0&gt; valide sera recognoscite como projecto de traduction per OmegaT (mesmo si illo plus tarde besoniara de adjustamentos manual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T134459Z" creationid="MELO46" creationdate="20140109T134459Z">
@@ -20469,6 +20477,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T222948Z">
         <seg>Creation de un regula nove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a project gives it a core hierarchy, but its final structure is not fixed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T225839Z" creationid="Melo46" creationdate="20250304T225839Z">
+        <seg>Crear un projecto confere a illo un hierarchia de base, ma su structura final non es fixe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27519,6 +27535,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T175040Z">
         <seg>E.g. sin le function "aggrega le tags", ubi un parola in le texto original es in nigrato e italico, le traductor poterea seliger de render lo in nigrato solmente, o sol in italico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you can</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T225209Z" creationid="Melo46" creationdate="20250304T225209Z">
+        <seg>Per exemplo, tu pote</seg>
       </tuv>
     </tu>
     <tu>
@@ -71752,6 +71776,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the project folder and its subfolders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224938Z" creationid="Melo46" creationdate="20250304T224938Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro acceder al plica de projecto e su subplicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060419Z" creationid="will" creationdate="20230315T060419Z">
@@ -71788,6 +71820,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T074446Z" creationid="Melo46" creationdate="20250223T074446Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro vider le contentos del file de registro del session actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;, to easily assign locations other than the default ones to the various resources either when you create the project, or later on.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T225202Z" creationid="Melo46" creationdate="20250304T225202Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt;, pro facilemente assignar positiones differente de los predefinite al varie ressources, sia quando tu crea le projecto, que plus tarde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75504,6 +75544,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also create OmegaT projects either manually or with scripts by copying a set of prewritten files to a new folder:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230057Z" creationid="Melo46" creationdate="20250304T230057Z">
+        <seg>Tu alsi pote crear projectos OmegaT manualmente o con scripts copiante un insimul de files precedentemente scribite a un nove plica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T083543Z" creationid="Melo46" creationdate="20200727T123326Z">
@@ -75637,6 +75685,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T083809Z" creationid="Melo46" creationdate="20200730T083809Z">
         <seg>Tu pote alsi usar AppleScript o Automator pro crear Servicios o scripts que automatisara le actiones frequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always remove or add files and folders to the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T225846Z" creationid="Melo46" creationdate="20250304T225846Z">
+        <seg>Tu pote sempre remover o adder files e plicas al projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78765,6 +78821,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contains the glossaries</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224753Z" creationid="Melo46" creationdate="20250304T224753Z">
+        <seg>contine le glossarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>contains the latest project match statistics, generated by &lt;g0&gt;Tools &gt; Match Statistics&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T084358Z">
@@ -78777,6 +78841,30 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T194340Z" creationid="will" creationdate="20220109T194340Z">
         <seg>contine le ultime statisticas del concordantia del projecto, generate con &lt;m0&gt;&lt;g1&gt;Instrumentos&lt;/g1&gt;&lt;g2&gt; &gt; Statisticas del Concordantias&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the reference dictionaries</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224914Z" creationid="Melo46" creationdate="20250304T224914Z">
+        <seg>contine le dictionarios de referentia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the reference translation memories</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224840Z" creationid="Melo46" creationdate="20250304T224840Z">
+        <seg>contine le memorias de traduction de referentia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the source files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224723Z" creationid="Melo46" creationdate="20250304T224723Z">
+        <seg>contine le files fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -78857,6 +78945,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132345Z">
         <seg>cre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>create the translated files in a shared folder outside the project folder, in a location easily accessible to your reviewer, or</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T225319Z" creationid="Melo46" creationdate="20250304T225319Z">
+        <seg>crear le files traducite in un plica compartite foras del plica de projecto, in un position facilemente accessibile a tu revisor, o</seg>
       </tuv>
     </tu>
     <tu>
@@ -82211,6 +82307,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T074101Z" creationid="Melo46" creationdate="20151117T074101Z">
         <seg>non essera tenite in conto in le statistica,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is the location where the target files are created</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224742Z" creationid="Melo46" creationdate="20250304T224742Z">
+        <seg>es le position ubi le files de destination es create</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is the project writable glossary</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T224757Z" creationid="Melo46" creationdate="20250304T224757Z">
+        <seg>es le glossario scribibile del projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -87125,6 +87237,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T050329Z" creationid="Melo46" creationdate="20200728T050329Z">
         <seg>usa &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Inviar Files fonte&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use a glossary folder from a separate but related project, or</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T225357Z" creationid="Melo46" creationdate="20250304T225357Z">
+        <seg>usar un plica /glossary ab un projecto separate, ma correlate, o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use a reference translation memory folder that you have set up for related projects, and so on.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T225518Z" creationid="Melo46" creationdate="20250304T225518Z">
+        <seg>usar un plica del memorias de traduction de referentia que tu ha configurate pro projectos correlate, etc..</seg>
       </tuv>
     </tu>
     <tu>
