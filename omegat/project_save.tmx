@@ -5064,6 +5064,16 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230632Z" creationid="Melo46" creationdate="20250304T230632Z">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T101845Z" creationid="Melo46" creationdate="20200728T101845Z">
@@ -6978,6 +6988,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;external_command&gt;&lt;/external_command&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230551Z" creationid="Melo46" creationdate="20250304T230551Z">
+        <seg>&lt;external_command&gt;&lt;/external_command&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094944Z">
@@ -8402,6 +8420,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T101745Z" creationid="Melo46" creationdate="20200728T101745Z">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230626Z" creationid="Melo46" creationdate="20250304T230626Z">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10588,6 +10614,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://URL/OF/THE/REMOTE/PROJECT/REPOSITORY"&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230610Z" creationid="Melo46" creationdate="20250304T230610Z">
+        <seg>&lt;repository type="git" url="https://URL/OF/THE/REMOTE/PROJECT/REPOSITORY"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T094540Z" creationid="Melo46" creationdate="20200728T094540Z">
@@ -11474,6 +11508,14 @@ the only significant mode of use of the product.</seg>
 is a consumer product regardless of whether the product has substantial
 commercial, industrial or non-consumer uses, unless such uses represent
 the only significant mode of use of the product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A project is a folder containing, at a minimum, the following:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230817Z" creationid="Melo46" creationdate="20250304T230817Z">
+        <seg>Un projecto es un plica que contine, al minimo, le sequente elementos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31850,6 +31892,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the folder is an empty repository and the &lt;f0&gt;omegat.project&lt;/f0&gt; file contains remote repository information, the project will be recognized as a team project by OmegaT:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230547Z" creationid="Melo46" creationdate="20250304T230547Z">
+        <seg>Si le plica es un repositorio vacue e le file &lt;f0&gt;omegat.project&lt;/f0&gt; contine informationes de repositorio repositorio remote, le projecto sera recognoscite per OmegaT como un projecto de equipa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language of the user's system is not available, &lt;a6&gt;OmegaT&lt;/a6&gt; defaults to English.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
@@ -33505,6 +33555,14 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T175849Z">
         <seg>Si tu texto contine ambe le characteres asiatic e "normal" (e.g. Latin), usa Ctrl+A pro seliger le texto integre, pois selige un typo de character sol pro illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your translation project involves a number of folders and you feel like working on one folder at a time, use &lt;l0/&gt;&lt;l1/&gt; to access the project properties and change the assigned &lt;l2&gt;source folder&lt;/l2&gt; as you wish.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231929Z" creationid="Melo46" creationdate="20250304T231929Z">
+        <seg>Si tu projecto de traduction implica plure plicas e tu te senti como laborar sur un plica cata vice, usa &lt;l0/&gt;&lt;l1/&gt; pro acceder al proprietates de projecto e cambiar le &lt;l2&gt;plica fonte&lt;/l2&gt; assignate como tu desidera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36204,6 +36262,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also acts as an &lt;e0&gt;address book&lt;/e0&gt; that specifies where project resources are located.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231324Z" creationid="Melo46" creationdate="20250304T231324Z">
+        <seg>Illo alsi age como &lt;e0&gt;libro de adresses&lt;/e0&gt; que specifica ubi es ubicate le ressources de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160808T005737Z" creationid="Melo46" creationdate="20160808T005737Z">
@@ -37040,6 +37106,14 @@ interne al plica de configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T061025Z" creationid="will" creationdate="20230315T061025Z">
         <seg>Le file es create le prime vice tu adde un entrata in le glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will be populated with the translated files every time you use &lt;l0/&gt; or &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T232022Z" creationid="Melo46" creationdate="20250304T232022Z">
+        <seg>Il sera populate con le files traducite cata vice tu usa &lt;l0/&gt; o &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40917,6 +40991,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal contents</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T230720Z" creationid="Melo46" creationdate="20250304T230720Z">
+        <seg>contentos minime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T083918Z" creationid="Melo46" creationdate="20200726T083918Z">
@@ -44142,6 +44224,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also creates a backup of that file (&lt;f0&gt;omegat.project.bak&lt;/f0&gt;) and will automatically use it to restore your project settings in case of need.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231614Z" creationid="Melo46" creationdate="20250304T231614Z">
+        <seg>OmegaT alsi crea un salveguarda de ille file (&lt;f0&gt;omegat.project.bak&lt;/f0&gt;) e automaticamente lo usara pro restaurar tu parametros del projecto in caso de necessitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220122T152718Z" creationid="will" creationdate="20220122T152718Z">
@@ -47155,6 +47245,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093733Z">
         <seg>Altere formatos del files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other files will be added over the course of the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231051Z" creationid="Melo46" creationdate="20250304T231051Z">
+        <seg>Altere files sera addite durante le curso del traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53061,6 +53159,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T081055Z" creationid="Melo46" creationdate="20210220T081055Z">
         <seg>Vide &lt;l0&gt;Usar un projecto de equipa&lt;/l0&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;below&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231105Z" creationid="Melo46" creationdate="20250304T231105Z">
+        <seg>Vide &lt;l0&gt;infra&lt;/l0&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60678,6 +60784,14 @@ in vice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the files in a format that OmegaT supports will be displayed in the &lt;l0/&gt; pane for translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231745Z" creationid="Melo46" creationdate="20250304T231745Z">
+        <seg>Le contentos del files in un formato que OmegaT supporta sera monstrate in le pannello &lt;l0/&gt; pro traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T211638Z">
@@ -63798,6 +63912,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source folder contains the files to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231621Z" creationid="Melo46" creationdate="20250304T231621Z">
+        <seg>Le plica fonte contine le files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130702T175249Z">
@@ -64345,6 +64467,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230331T083405Z" creationid="will" creationdate="20230331T083405Z">
         <seg>Le plica del files traducite non existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated files that correspond to the contents of the &lt;l0/&gt; folder, whether fully translated or not, are then created here, using the same hierarchy as in the source folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T232148Z" creationid="Melo46" creationdate="20250304T232148Z">
+        <seg>Le files traducite que corresponde al contentos del plica &lt;l0/&gt;, si completemente traducite o non, es pois create ci, per le mesme hierarchia como in le plica fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66472,6 +66602,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the project parameters defined in the &lt;l0&gt;project properties&lt;/l0&gt;, such as the source and target languages, their respective tokenizers and the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231300Z" creationid="Melo46" creationdate="20250304T231300Z">
+        <seg>Iste file contine le le parametros del projecto definite in le &lt;l0&gt;proprietates de projecto&lt;/l0&gt;, tal como le linguas fonte e de destination, lor respective tokenizers e le typo de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170007Z" creationid="will" creationdate="20230228T170007Z">
@@ -66968,6 +67106,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T083458Z" creationid="MELO46" creationdate="20140109T083458Z">
         <seg>Isto es le alternativa plus sensate, pro sparniar te problemas in le longe opera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231017Z" creationid="Melo46" creationdate="20250304T231017Z">
+        <seg>Isto es le plica de projecto que sempre contine &lt;l0/&gt;, le memoria de traduction del projecto, e &lt;l1/&gt;, le file de datos statistic pro le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71768,6 +71914,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or drop files on the &lt;l2/&gt; pane to add files any time you want.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231658Z" creationid="Melo46" creationdate="20250304T231658Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; o deponer le files sur le &lt;l2/&gt; pannello pro adder files quandocunque tu vole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T160926Z" creationid="will" creationdate="20230228T160926Z">
@@ -75460,6 +75614,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T075558Z" creationid="Melo46" creationdate="20210220T075558Z">
         <seg>Tu pote adder quante mappas que tu desira, ma solo in le contexto de un projecto de equipa, i.e. un del mappas include omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add folders or remove files with your file manager.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231759Z" creationid="Melo46" creationdate="20250304T231759Z">
+        <seg>Tu pote adder plicas o remover files con tu gestor de files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84315,6 +84477,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T180151Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T231108Z" creationid="Melo46" creationdate="20250304T231108Z">
+        <seg>omegat.project</seg>
       </tuv>
     </tu>
     <tu>
