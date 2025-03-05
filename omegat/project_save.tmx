@@ -18584,6 +18584,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102635Z" creationid="Melo46" creationdate="20250305T102635Z">
+        <seg>Clauder Completamento automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094534Z">
@@ -19124,6 +19132,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093801Z">
         <seg>Confirmar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm Autocompleter Without Closing</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102612Z" creationid="Melo46" creationdate="20250305T102612Z">
+        <seg>Confirmar Completamento automatico sin clauder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm and Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102526Z" creationid="Melo46" creationdate="20250305T102526Z">
+        <seg>Confirmar e clauder Completamento automatico</seg>
       </tuv>
     </tu>
     <tu>
@@ -21411,6 +21435,14 @@ Nove version: {2}</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T083234Z">
         <seg>D&amp;iagrammas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DOWN</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102855Z" creationid="Melo46" creationdate="20250305T102855Z">
+        <seg>A BASSO</seg>
       </tuv>
     </tu>
     <tu>
@@ -28563,10 +28595,26 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102223Z" creationid="Melo46" creationdate="20250305T102223Z">
+        <seg>Function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Function code</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T232027Z" creationid="Melo46" creationdate="20250301T232027Z">
         <seg>Codice del function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Functions that depend on a language either fail or produce incorrect results if there is a mismatch between the language codes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105720Z" creationid="Melo46" creationdate="20250305T105720Z">
+        <seg>Le functiones que depende de un lingua, o falle, o produce resultatos errate si il ha un discordantia inter le lingua codices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29219,6 +29267,54 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Down One Page</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103248Z" creationid="Melo46" creationdate="20250305T103248Z">
+        <seg>Descender de un pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down One Page in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103604Z" creationid="Melo46" creationdate="20250305T103604Z">
+        <seg>Descender de un pagina in le tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down The List</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102832Z" creationid="Melo46" creationdate="20250305T102832Z">
+        <seg>Descender in le lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103409Z" creationid="Melo46" creationdate="20250305T103409Z">
+        <seg>Descender in le tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Left in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103434Z" creationid="Melo46" creationdate="20250305T103434Z">
+        <seg>Ir a sinistra in le tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Right in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103504Z" creationid="Melo46" creationdate="20250305T103504Z">
+        <seg>Ir a dextra in le tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T202123Z" creationid="Melo46" creationdate="20200726T202123Z">
@@ -29267,10 +29363,50 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Up One Page</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103210Z" creationid="Melo46" creationdate="20250305T103210Z">
+        <seg>Ir in alto de un Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up One Page in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103541Z" creationid="Melo46" creationdate="20250305T103541Z">
+        <seg>Ir in alto de un pagina in le tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up The List</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103054Z" creationid="Melo46" creationdate="20250305T102742Z">
+        <seg>Ir in alto in le lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103344Z" creationid="Melo46" creationdate="20250305T103344Z">
+        <seg>Ir in alto in le tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T132836Z">
         <seg>Ir a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to First Row in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103811Z" creationid="Melo46" creationdate="20250305T103811Z">
+        <seg>Ir a prime rango in tabula</seg>
       </tuv>
     </tu>
     <tu>
@@ -29283,10 +29419,34 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to First Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103631Z" creationid="Melo46" creationdate="20250305T103631Z">
+        <seg>Ir al prime tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Row in Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103833Z" creationid="Melo46" creationdate="20250305T103833Z">
+        <seg>Ir a ultime rango in tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Last Segment</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T103623Z" creationid="Melo46" creationdate="20250302T103623Z">
         <seg>Ir a ultime segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Table</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103708Z" creationid="Melo46" creationdate="20250305T103708Z">
+        <seg>Ir al ultime tabula</seg>
       </tuv>
     </tu>
     <tu>
@@ -29575,6 +29735,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072048Z">
         <seg>File HHC troppo grande!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HOME</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103820Z" creationid="Melo46" creationdate="20250305T103820Z">
+        <seg>CASA</seg>
       </tuv>
     </tu>
     <tu>
@@ -38137,6 +38305,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LEFT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103447Z" creationid="Melo46" creationdate="20250305T103447Z">
+        <seg>SINISTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LF Aligner</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130505T082941Z">
@@ -38197,6 +38373,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T000151Z" creationid="Melo46" creationdate="20250222T000151Z">
         <seg>Corrector del lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language codes are used in various places in OmegaT to:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105019Z" creationid="Melo46" creationdate="20250305T105019Z">
+        <seg>Le codices de lingua es usate in varie postos in OmegaT prp:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40145,6 +40329,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T105057Z">
         <seg>Assecura te que le campo &lt;e1&gt;Checkout directory&lt;/e1&gt; es correcte, id es illo specifica le plica vacue que tu ha create, e pulsa &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you enter the correct language codes and that all other locations requiring such a code match the one you assign here exactly.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105621Z" creationid="Melo46" creationdate="20250305T105621Z">
+        <seg>Verifica que tu insere le codices de lingua correcte e que tote le altere positiones que besonia tal codice exactemente concorda le sol que tu assigna ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45423,6 +45615,14 @@ a esser lanceate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code that conforms to &lt;u0&gt;BCP-47&lt;/u0&gt; (including the three-letter language codes) into the appropriate field.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T104841Z" creationid="Melo46" creationdate="20250305T104841Z">
+        <seg>OmegaT offere un conveniente lista breve de codices de lingua de duo litteras, ma tu pote typar alcun codice que es conforme a &lt;u0&gt;BCP-47&lt;/u0&gt; (includite le codices de lingua a tres litteras) in le appropriate campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T223747Z" creationid="Melo46" creationdate="20250301T223747Z">
@@ -46617,6 +46817,30 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Autocompleter</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102315Z" creationid="Melo46" creationdate="20250305T102315Z">
+        <seg>Aperir completamento automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Next View</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102427Z" creationid="Melo46" creationdate="20250305T102427Z">
+        <seg>Aperir Completamento automatico le vista successive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Previous View</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102503Z" creationid="Melo46" creationdate="20250305T102503Z">
+        <seg>Aperir Completamento automatico le previe vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Context Menu</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T101557Z" creationid="Melo46" creationdate="20250302T101557Z">
@@ -47661,6 +47885,22 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230318T150758Z" creationid="will" creationdate="20230318T150758Z">
         <seg>Plica de projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103256Z" creationid="Melo46" creationdate="20250305T103256Z">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE_UP</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103301Z" creationid="Melo46" creationdate="20250305T103301Z">
+        <seg>PAGE_UP</seg>
       </tuv>
     </tu>
     <tu>
@@ -50276,6 +50516,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T132948Z" creationid="Karm46" creationdate="20171201T132948Z">
         <seg>Schema RELAX NG pro XML (*.rng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RIGHT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103513Z" creationid="Melo46" creationdate="20250305T103513Z">
+        <seg>DEXTRA</seg>
       </tuv>
     </tu>
     <tu>
@@ -54688,6 +54936,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T215530Z" creationid="Melo46" creationdate="20200730T215530Z">
         <seg>Eliger le scriptura que tu desira ex le lista al sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the source and target languages from the drop-down list, or enter them manually.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T104233Z" creationid="Melo46" creationdate="20250305T104233Z">
+        <seg>Selige le linguas fonte e de destination del lista a cadita, o insere los manualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64200,6 +64456,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The shortcuts that can be modified in the &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the table below</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102215Z" creationid="Melo46" creationdate="20250305T102215Z">
+        <seg>Le vias breve que pote esser modificate in le file &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt;, insimul con lor valores predefinite, es presentate in le tabula infra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T203450Z" creationid="Melo46" creationdate="20250225T203450Z">
@@ -66814,6 +67078,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T143120Z" creationid="Melo46" creationdate="20200726T143120Z">
         <seg>Iste fenestra de dialogo es accessibile per le selection de &lt;m0&gt; &lt;g1&gt;Projecto&lt;/g1&gt; &lt;g2&gt;Proprietates...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog is used to set the initial project properties when creating a new project or to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T104127Z" creationid="Melo46" creationdate="20250305T104127Z">
+        <seg>Iste fenestra de dialogo es usate pro stabilir le proprietates initial del projecto quando on crea un nove projecto o pro modificar los plus tarde, post que le projecto ha essite create.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71298,6 +71570,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UP</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102913Z" creationid="Melo46" creationdate="20250305T102811Z">
+        <seg>IN ALTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160812T162926Z" creationid="melo" creationdate="20160812T162926Z">
@@ -72566,6 +72846,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T084418Z" creationid="Melo46" creationdate="20250304T233955Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro evidentiar los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103914Z" creationid="Melo46" creationdate="20250305T103914Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro aperir le fenestra de dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78959,6 +79247,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and so on.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105416Z" creationid="Melo46" creationdate="20250305T105416Z">
+        <seg>etc..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T191803Z" creationid="Melo46" creationdate="20250301T191803Z">
@@ -78979,6 +79275,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144703Z">
         <seg>any liability that these contractual assumptions directly impose on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>apply the segmentation rules defined in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105106Z" creationid="Melo46" creationdate="20250305T105106Z">
+        <seg>applicar le regulas de segmentation definite in le preferentias &lt;l0/&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -79059,6 +79363,166 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144700Z">
         <seg>authors of the material; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterClose</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102637Z" creationid="Melo46" creationdate="20250305T102637Z">
+        <seg>autocompleterClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102529Z" creationid="Melo46" creationdate="20250305T102529Z">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102616Z" creationid="Melo46" creationdate="20250305T102616Z">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102849Z" creationid="Melo46" creationdate="20250305T102849Z">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103253Z" creationid="Melo46" creationdate="20250305T103253Z">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103212Z" creationid="Melo46" creationdate="20250305T103212Z">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102754Z" creationid="Melo46" creationdate="20250305T102754Z">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102430Z" creationid="Melo46" creationdate="20250305T102430Z">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterPrevView</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102507Z" creationid="Melo46" creationdate="20250305T102507Z">
+        <seg>autocompleterPrevView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103412Z" creationid="Melo46" creationdate="20250305T103412Z">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableFirst</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103634Z" creationid="Melo46" creationdate="20250305T103634Z">
+        <seg>autocompleterTableFirst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103817Z" creationid="Melo46" creationdate="20250305T103817Z">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLast</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103710Z" creationid="Melo46" creationdate="20250305T103710Z">
+        <seg>autocompleterTableLast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLastInRow</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103836Z" creationid="Melo46" creationdate="20250305T103836Z">
+        <seg>autocompleterTableLastInRow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103437Z" creationid="Melo46" creationdate="20250305T103437Z">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTablePageDown</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103607Z" creationid="Melo46" creationdate="20250305T103607Z">
+        <seg>autocompleterTablePageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTablePageUp</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103544Z" creationid="Melo46" creationdate="20250305T103544Z">
+        <seg>autocompleterTablePageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableRight</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103506Z" creationid="Melo46" creationdate="20250305T103506Z">
+        <seg>autocompleterTableRight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableUp</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103348Z" creationid="Melo46" creationdate="20250305T103348Z">
+        <seg>autocompleterTableUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTrigger</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102320Z" creationid="Melo46" creationdate="20250305T102320Z">
+        <seg>autocompleterTrigger</seg>
       </tuv>
     </tu>
     <tu>
@@ -79935,6 +80399,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl END</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103718Z" creationid="Melo46" creationdate="20250305T103718Z">
+        <seg>Ctrl FIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl ENTER</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T102140Z" creationid="Melo46" creationdate="20250302T102140Z">
@@ -79947,6 +80419,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T085557Z" creationid="Melo46" creationdate="20250302T085557Z">
         <seg>Ctrl F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl HOME</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103646Z" creationid="Melo46" creationdate="20250305T103646Z">
+        <seg>Ctrl CASA</seg>
       </tuv>
     </tu>
     <tu>
@@ -80291,6 +80771,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T091814Z" creationid="Melo46" creationdate="20250302T091814Z">
         <seg>Ctrl Majusc S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift SPACE</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T102515Z" creationid="Melo46" creationdate="20250305T102515Z">
+        <seg>Ctrl Majusc SPATIO</seg>
       </tuv>
     </tu>
     <tu>
@@ -81311,6 +81799,22 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>find grammatical and typographical mistakes from the rules set in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105407Z" creationid="Melo46" creationdate="20250305T105407Z">
+        <seg>trovar errores grammatical e typographic ab le insimul de regulas in le preferentias &lt;l0/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105146Z" creationid="Melo46" creationdate="20250305T105146Z">
+        <seg>trovar errores de orthographia del dictionarios installate in le &lt;l0/&gt; preferentias,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T162735Z" creationid="Melo46" creationdate="20160728T162735Z">
@@ -81499,6 +82003,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T233307Z">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>get results in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105034Z" creationid="Melo46" creationdate="20250305T105034Z">
+        <seg>obtener resultatos in le pannello &lt;l0/&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -84305,6 +84817,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta END</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103723Z" creationid="Melo46" creationdate="20250305T103723Z">
+        <seg>Meta FIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta ENTER</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T102857Z" creationid="Melo46" creationdate="20250302T102857Z">
@@ -84317,6 +84837,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T085605Z" creationid="Melo46" creationdate="20250302T085605Z">
         <seg>Meta F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta HOME</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T103648Z" creationid="Melo46" creationdate="20250305T103648Z">
+        <seg>Meta CASA</seg>
       </tuv>
     </tu>
     <tu>
