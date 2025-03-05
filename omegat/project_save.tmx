@@ -8408,6 +8408,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;xxx&lt;/l0&gt; is a number from 0 to 100 that will act as a penalty subtracted from the match percentage of segments coming from this folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T092243Z" creationid="Melo46" creationdate="20250305T092243Z">
+        <seg>&lt;l0&gt;xxx&lt;/l0&gt; es un numero de 0 a 100 que agera como penalitate subtrahite ab le percentage de concordantia del segmentos veniente de iste plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository=""/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T094544Z" creationid="Melo46" creationdate="20200728T094544Z">
@@ -14350,6 +14358,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T114057Z" creationid="MELO46" creationdate="20140109T114057Z">
         <seg>Omne concordantias in le segmento de destination essera alora colorate in rubre, id es facile a identificar e corriger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any modification to the segments that come from these memories will &lt;e2&gt;not&lt;/e2&gt; be taken into account.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T091001Z" creationid="Melo46" creationdate="20250305T091001Z">
+        <seg>Alcun modification al segmentos que veni ab iste memorias &lt;e2&gt;non&lt;/e2&gt; sera tenite in conto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32182,6 +32198,22 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;do need&lt;/e0&gt; to remain immutable to further changes, leave the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T090721Z" creationid="Melo46" creationdate="20250305T090638Z">
+        <seg>Si il &lt;e0&gt;necesse&lt;/e0&gt; que illos resta immutabile pro altere cambiamentos, lassa le TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to remain immutable to further changes, remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T090617Z" creationid="Melo46" creationdate="20250305T090617Z">
+        <seg>Si il &lt;e0&gt;non necesse&lt;/e0&gt; que illos resta immutabile pro altere cambiamentos, remove le TMX ab &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T065842Z" creationid="melo" creationdate="20160812T151646Z">
@@ -33242,6 +33274,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T085020Z" creationid="Melo46" creationdate="20250305T085020Z">
         <seg>Si tu remove un file TMX ab &lt;f0&gt;tm/auto&lt;/f0&gt; ante le Passo 3, su contento non sera retenite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you remove a TMX file from &lt;f0&gt;tm/enforce&lt;/f0&gt; before Step 3, none of the enforced translations will be kept.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T091449Z" creationid="Melo46" creationdate="20250305T091449Z">
+        <seg>Si tu remove un file TMX ab &lt;f0&gt;tm/auto&lt;/f0&gt; ante le Passo 3, nulle del traductiones fortiate sera retenite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39857,6 +39897,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T061136Z">
         <seg>Face un copia del file Vista Externe, e dele su contento de omne columnas salvo le columna del texto de origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a decision about the immutability of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T090353Z" creationid="Melo46" creationdate="20250305T090353Z">
+        <seg>Prende un decision re le immutabilitate del segmentos fortiate:</seg>
       </tuv>
     </tu>
     <tu>
@@ -68046,6 +68094,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This updates the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T090218Z" creationid="Melo46" creationdate="20250305T090218Z">
+        <seg>Isto actualisa le memoria de traduction del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This utility requires a version of MS Office (XP/2003/2007).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T091758Z">
@@ -72706,6 +72762,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the segments that have been inserted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T091216Z" creationid="Melo46" creationdate="20250305T091216Z">
+        <seg>Usa le menus de navigation trovate in &lt;l0/&gt;&lt;l1/&gt; pro navigar al segmentos que ha essite inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T075133Z" creationid="Melo46" creationdate="20250302T075133Z">
@@ -74191,6 +74255,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T231228Z" creationid="MELO46" creationdate="20131226T231220Z">
         <seg>Quando OmegaT incontra un file in su plica fonte, il tenta de seliger le filtro basate sur le extension del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T092103Z" creationid="Melo46" creationdate="20250305T092103Z">
+        <seg>Quando un concordantia es inserite ab un TMX continite in iste plica, le color de fundo del segmento active cambia a rubie.</seg>
       </tuv>
     </tu>
     <tu>
