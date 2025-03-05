@@ -13252,6 +13252,14 @@ restrictions" within the meaning of section 10.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All prediction/completion results are computed locally.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225349Z" creationid="Melo46" creationdate="20250305T225349Z">
+        <seg>Tote le resultatos de prediction/completamento es computate localmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T094958Z" creationid="Karm46" creationdate="20171001T094958Z">
@@ -13268,6 +13276,14 @@ conditions are met.</seg>
         <seg>All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
 conditions are met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in order.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T224742Z" creationid="Melo46" creationdate="20250305T224742Z">
+        <seg>Tote le insimules de regulas de segmentation pro un schema linguistic concordante es active e es applicate in ordine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13840,6 +13856,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160807T212411Z" creationid="Melo46" creationdate="20160807T212411Z">
         <seg>Un tentativa es facite pro concordar le cassa del litteras del parola fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An empty line will appear at the bottom of the table.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T224932Z" creationid="Melo46" creationdate="20250305T224932Z">
+        <seg>Un linea vacue apparera al fundo del tabula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16154,6 +16178,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Breaks</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225219Z" creationid="Melo46" creationdate="20250305T225219Z">
+        <seg>Interruptiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100126Z">
@@ -17012,6 +17044,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130808T123205Z">
         <seg>Con le tags debe esser exercitate attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cascading priorities</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T224848Z" creationid="Melo46" creationdate="20250305T224848Z">
+        <seg>Prioritates a cascada</seg>
       </tuv>
     </tu>
     <tu>
@@ -18300,6 +18340,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151117T192111Z" creationid="Melo" creationdate="20151117T192008Z">
         <seg>Clicca &lt;e2&gt;Replacia le successive&lt;/e2&gt; o &lt;e3&gt;Salta&lt;/e3&gt;, pois fini le session de replaciamento con&lt;e4&gt;Fini&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Add&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T224854Z" creationid="Melo46" creationdate="20250305T224854Z">
+        <seg>Cliccar &lt;g0&gt;Adder&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24441,6 +24489,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T070652Z" creationid="Melo46" creationdate="20151117T070652Z">
         <seg>Habilita le segmentation a nivello de phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable after installing a spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225510Z" creationid="Melo46" creationdate="20250305T225510Z">
+        <seg>Activar post le installation un dictionario orthographic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46431,6 +46487,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will underline spelling mistakes with red wavy-lines.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225654Z" creationid="Melo46" creationdate="20250305T225654Z">
+        <seg>OmegaT sublineara le errores de orthographia con lineas undulate rubie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will use the associated tokenizer to find matches.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T180208Z" creationid="Melo46" creationdate="20250305T180208Z">
@@ -54211,6 +54275,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l3&gt;spellchecker files&lt;/l3&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225914Z" creationid="Melo46" creationdate="20250305T225914Z">
+        <seg>Vider &lt;l3&gt;files de corrector orthographic&lt;/l3&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T094607Z" creationid="Melo46" creationdate="20200730T094607Z">
@@ -57670,6 +57742,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify text combinations that are exceptions to a break rule.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225109Z" creationid="Melo46" creationdate="20250305T225109Z">
+        <seg>Specificar le combinationes de texto que es exceptiones a un regula de interruption.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify the encoding for your plain text files</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T173859Z">
@@ -57726,6 +57806,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225446Z" creationid="Melo46" creationdate="20250305T225446Z">
+        <seg>Usar le corrector orthographic del traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T210609Z" creationid="MELO46" creationdate="20140629T210425Z">
@@ -57754,6 +57842,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T132311Z" creationid="Karm46" creationdate="20171115T132311Z">
         <seg>Controlator orthographic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230021Z" creationid="Melo46" creationdate="20250305T230021Z">
+        <seg>Position del dictionarios orthographic</seg>
       </tuv>
     </tu>
     <tu>
@@ -62762,6 +62858,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where OmegaT will install and search for spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230124Z" creationid="Melo46" creationdate="20250305T230124Z">
+        <seg>Le plica ubi OmegaT installara e cercara dictionarios orthographic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where distributed scripts are located.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085805Z" creationid="will" creationdate="20230228T085805Z">
@@ -63344,6 +63448,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="ia" changeid="MELO" changedate="20130627T082057Z">
         <seg>Le codice del lingua deberea esser in le forma xx-YY, xxx-YY, xx_YY o xxx_YY, ubi 
 xx o xxx es le codice del lingua e YY es le codice del region o del pais (facultative).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The language pattern is a regular expression.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T224953Z" creationid="Melo46" creationdate="20250305T224953Z">
+        <seg>Le schema linguistic es un expression regular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73934,6 +74046,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T053638Z" creationid="will" creationdate="20230316T053638Z">
         <seg>Usa le proprietate de projecto &lt;l0/&gt; pro definir le location del plica de glossarios de referentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0&gt;editor context menu&lt;/l0&gt; to correct the mistake, to &lt;g1&gt;Ignore All&lt;/g1&gt; or to &lt;g2&gt;Add to Dictionary&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T225834Z" creationid="Melo46" creationdate="20250305T225834Z">
+        <seg>Usar le &lt;l0&gt;menu contextual del editor&lt;/l0&gt; pro corriger le error, pro &lt;g1&gt;Ignorar toto&lt;/g1&gt; o pro &lt;g2&gt;Adder a dictionario&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
