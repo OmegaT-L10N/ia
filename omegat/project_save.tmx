@@ -36860,6 +36860,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is updated each time the project is reloaded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T081939Z" creationid="Melo46" creationdate="20250305T081939Z">
+        <seg>Il es actualisate cata vice que le projecto es recargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used for testing purposes.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T112456Z" creationid="Melo46" creationdate="20250220T112456Z">
@@ -66682,6 +66690,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the latest project match statistics.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082135Z" creationid="Melo46" creationdate="20250305T082135Z">
+        <seg>Iste file contine le ultime statisticas del concordantias del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the login information for your team project repositories.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T200749Z" creationid="will" creationdate="20230228T200749Z">
@@ -67234,6 +67250,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T215651Z">
         <seg>Isto es le comportamento standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the statistics file for the whole project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T081855Z" creationid="Melo46" creationdate="20250305T081855Z">
+        <seg>Isto es le file del statisticas pro tote le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72118,6 +72142,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T090752Z" creationid="will" creationdate="20230228T090752Z">
         <seg>Uso &lt;l0/&gt;&lt;l1/&gt; a monstra de un indication visual de su position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to update it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082001Z" creationid="Melo46" creationdate="20250305T082001Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro actualisar lo.</seg>
       </tuv>
     </tu>
     <tu>
