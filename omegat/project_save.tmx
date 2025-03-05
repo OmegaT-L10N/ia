@@ -12210,6 +12210,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activating this function hides the tags in the source segments, freeing you from the need to handle them manually.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T113107Z" creationid="Melo46" creationdate="20250305T113107Z">
+        <seg>Activar iste function cela le placas in le segmentos fonte, liberante te del besonio de gerer los manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T232239Z" creationid="Melo" creationdate="20151014T232239Z">
@@ -13700,6 +13708,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T120941Z" creationid="Melo46" creationdate="20250223T120941Z">
         <seg>Ben que vidite como intimidante e complexe, mesmo le plus simple expressiones regular (sovente abbreviate &lt;e0&gt;regex&lt;/e0&gt; o &lt;e1&gt;regexp&lt;/e1&gt;) es extrememente utile, non solo in OmegaT, ma in multe altere applicationes que tu poterea ussar sur base quotidian, con alcun variationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although this does not normally prevent the translated file from opening, keep the following points in mind when using this function:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T113544Z" creationid="Melo46" creationdate="20250305T113544Z">
+        <seg>Ben que isto non normalmente impedi al file traducite de aperir se, mantene le sequente punctos in mente usante le iste function:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15290,6 +15306,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T073111Z" creationid="Melo46" creationdate="20151117T073111Z">
         <seg>Auto-propagation del traductiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111906Z" creationid="Melo46" creationdate="20250305T111906Z">
+        <seg>Auto-propagation de traductiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -30175,6 +30199,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hidden tags are simply stacked at the end of the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T113416Z" creationid="Melo46" creationdate="20250305T113416Z">
+        <seg>Le tags celate es simplemente impilate al fin del segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide &amp;Options</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230331T095038Z" creationid="will" creationdate="20230331T095038Z">
@@ -32446,6 +32478,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T112243Z" creationid="Melo46" creationdate="20250305T112243Z">
+        <seg>Si il ha segmentos repetite in le documentos fonte, controlar iste option stabilira le prime segmento traducite como le traduction predefinite e automaticamente usara le mesme texto de destination in le remanente segmentos repetite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T172629Z" creationid="Melo46" creationdate="20250221T172629Z">
@@ -33118,6 +33158,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171127T135800Z" creationid="Karm46" creationdate="20171127T135500Z">
         <seg>Si tu discontinua ante de completar le traduction, per favor crea le files tmx pro lo que tu ha facite e carga los al repositorio de memorias de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T112427Z" creationid="Melo46" creationdate="20250305T112427Z">
+        <seg>Si non activa iste option, a tote le segmentos pote esser assignate un differente traduction, mesmo si illos es duplicate in le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58800,6 +58848,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text in the translated text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T112905Z" creationid="Melo46" creationdate="20250305T112905Z">
+        <seg>Le tags es generalmente utile pro reproducer specific mappas o characteristicas del texto fonte in le texto traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T191230Z">
@@ -63944,6 +64000,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111708Z" creationid="Melo46" creationdate="20250305T111708Z">
+        <seg>Le projecto immagazinara le nove insimul de regulas in le file &lt;l0/&gt; ubicate in su plica &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T085824Z">
@@ -66213,6 +66277,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111828Z" creationid="Melo46" creationdate="20250305T111828Z">
+        <seg>Iste regulas replaciara le regulas de segmentation global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T145231Z">
@@ -67839,6 +67911,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140227T194102Z">
         <seg>Isto es in modo special utile in caso de linguas que usa formas con prefixo e suffixo pro le parolas stirpe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is especially useful when dealing with texts where inline formatting is not particularly useful (e.g., OCRed PDF, or poorly converted .odt or .docx files.)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T113353Z" creationid="Melo46" creationdate="20250305T113353Z">
+        <seg>Isto es specialmente utile tractante textos ubi le formatation in linea non es particularmente utile (p. ex., OCRed PDF, o  files .odt o .docx mal convertite.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -69522,6 +69602,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T150441Z">
         <seg>Pro deler le gruppos de tag, remove solmente los ex le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable local segmentation rules, disable this option or remove that file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111900Z" creationid="Melo46" creationdate="20250305T111900Z">
+        <seg>Pro disactivar le regulas de segmentation local, disactiva iste option o remove ille file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72950,6 +73038,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T224938Z" creationid="Melo46" creationdate="20250304T224938Z">
         <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro acceder al plica de projecto e su subplicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T112345Z" creationid="Melo46" creationdate="20250305T112345Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro assignar un traduction alternativa a segmentos que require un traduction differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78359,6 +78455,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T084359Z" creationid="Karm46" creationdate="20171001T084359Z">
         <seg>Te essera suggerite de inserer ce contrasigno tote le vices que tu lancea OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will have to manually apply bold, italics, or other text decorations in the translated file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T113714Z" creationid="Melo46" creationdate="20250305T113714Z">
+        <seg>Tu debera manualmente applicar characteres hardite, italic, o altere decorationes de texto in le file traducite.</seg>
       </tuv>
     </tu>
     <tu>
