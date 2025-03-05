@@ -16592,6 +16592,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, segmentation rules are global and apply to all projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110206Z" creationid="Melo46" creationdate="20250305T110206Z">
+        <seg>De ordinario, le regulas de segmentation es global e se applica a tote le projectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, segmentation settings are global and shared by all projects.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T192410Z" creationid="Melo46" creationdate="20250301T192410Z">
@@ -17216,6 +17224,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing the segmentation rules settings during a translation does not modify the segments registered in the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110732Z" creationid="Melo46" creationdate="20250305T110732Z">
+        <seg>Cambiar parametros del regulas de segmentation durante un traduction non modifica le segmentos registrate in le memoria de traduction del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing the tag order may break the translated file!</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T180151Z" creationid="Melo46" creationdate="20250221T180151Z">
@@ -17824,6 +17840,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the &lt;o0&gt;Use local segmentation rules&lt;/o0&gt; box, and adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111636Z" creationid="Melo46" creationdate="20250305T111636Z">
+        <seg>Marca le cassa &lt;o0&gt;Usar regulas de segmentation local&lt;/o0&gt;, e adjusta le regulas de segmentation como desirate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T192805Z">
@@ -18356,6 +18380,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T172742Z">
         <seg>Clicca sur le button &lt;g1&gt;Filtros de File&lt;/g1&gt; e activa le quadro de controlo &lt;g2&gt;Habilita filtros specific del projecto&lt;/g2&gt;&lt;i3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; to use project-specific (local) segmentation rules rather than the global rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110331Z" creationid="Melo46" creationdate="20250305T110331Z">
+        <seg>Clicca sur &lt;l0/&gt; pro usar regulas de segmentation specific-del-projecto (local) plus tosto que le regulas global.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22336,6 +22368,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T212931Z" creationid="Karm46" creationdate="20170929T212931Z">
         <seg>Disactivar le regula “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable this option if you prefer not to further segment the paragraphs.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110145Z" creationid="Melo46" creationdate="20250305T110145Z">
+        <seg>Disactiva iste option si tu prefere non ulteriormente segmentar le paragraphos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30531,6 +30571,14 @@ modify any covered work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, OmegaT will attempt to create fuzzy matches for paragraphs by combining existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111021Z" creationid="Melo46" creationdate="20250305T111021Z">
+        <seg>Comocunque, OmegaT tentara de crear concordantias partial pro paragraphos combinante traductiones de phrases existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, if you cease all violation of this License, then your
 license from a particular copyright holder is reinstated (a)
 provisionally, unless and until the copyright holder explicitly and
@@ -30635,6 +30683,14 @@ later version.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130516T100544Z">
         <seg>Comocunque, le manual del usator pote esser non jam actualisate (e dunque possibilemente confuse), e qualque minor defectos es possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111153Z" creationid="Melo46" creationdate="20250305T111153Z">
+        <seg>Comocunque, lor traduction original sera ancora in le memoria de projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39581,6 +39637,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111413Z" creationid="Melo46" creationdate="20250305T111413Z">
+        <seg>Regulas de segmentation local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T075136Z" creationid="Melo46" creationdate="20210220T075136Z">
@@ -44716,6 +44780,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
         <seg>OmegaT selige automaticamente un tokenizer pro le lingua fonte e uno pro le lingua de destination secundo le configurationes del lingua del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify those settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105737Z" creationid="Melo46" creationdate="20250305T105737Z">
+        <seg>OmegaT automaticamente selige le tokenizers que corresponde al linguas fonte e de destination, ma tu pote manualmente modificar ille parametros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53995,6 +54067,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for general explanations about segmentation (global or local, paragraph or sentence, settings, and so on).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111314Z" creationid="Melo46" creationdate="20250305T111314Z">
+        <seg>Vider le appendice &lt;l0/&gt; pro explanationes general re le segmentation (global o local, per paragrapho o phrase, parametros, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T083526Z" creationid="will" creationdate="20230228T083526Z">
@@ -55183,6 +55263,22 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
         <seg>Sentence-level segmentation</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T191315Z" creationid="Melo46" creationdate="20250301T191315Z">
+        <seg>Segmentation a nivello de phrases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmentation splits paragraphs or other text blocks in the source file into segments based on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110029Z" creationid="Melo46" creationdate="20250305T110029Z">
+        <seg>Le segmentation a nivello de phrases scinde le paragraphos, o altere blocos de texto in le file fonte, in segmentos in base al regulas de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmenting</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105837Z" creationid="Melo46" creationdate="20250305T105837Z">
         <seg>Segmentation a nivello de phrases</seg>
       </tuv>
     </tu>
@@ -58088,6 +58184,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T170314Z" creationid="ia" creationdate="20170909T170314Z">
         <seg>Excambiar le vistas con {0} e {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switching from &lt;e0&gt;sentence&lt;/e0&gt; to &lt;e1&gt;paragraph&lt;/e1&gt; segmentation mid-translation may force OmegaT to upgrade old translation memories that did not use sentence segmentation, but not vice versa.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110859Z" creationid="Melo46" creationdate="20250305T110859Z">
+        <seg>Commutar de segmentation per &lt;e0&gt;phrase&lt;/e0&gt; a &lt;e1&gt;paragrapho&lt;/e1&gt; in medio al traduction pote obligar OmegaT a promover vetere memorias de traduction que non usa le segmentation per phrases, ma non vice versa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64272,6 +64376,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segmentation rules presented when you open the &lt;l0/&gt; preferences (using &lt;l1/&gt;&lt;l2/&gt;) are the global rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111504Z" creationid="Melo46" creationdate="20250305T111504Z">
+        <seg>Le regulas de segmentation presentate quando tu aperi le preferentias &lt;l0/&gt; (usante &lt;l1/&gt;&lt;l2/&gt;) es le regulas global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
@@ -68779,6 +68891,14 @@ parametros a lor valores predefinite.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be translated.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111122Z" creationid="Melo46" creationdate="20250305T111122Z">
+        <seg>Isto scindera o miscera alcun segmentos previemente traducite, que dunque non plus sera traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T224335Z" creationid="Melo46" creationdate="20200730T224335Z">
@@ -70458,6 +70578,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224142Z">
         <seg>Le cercatores del stirpe meliora le qualitate de concordantias con le recognition del parolas declinate in le datos del memoria fonte e in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tokenizers allow OmegaT to provide better matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T105828Z" creationid="Melo46" creationdate="20250305T105828Z">
+        <seg>Le tokenizers permitte a OmegaT de fornir concordantias melior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72810,6 +72938,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110253Z" creationid="Melo46" creationdate="20250305T110253Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder al regulas de segmentation global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the project folder and its subfolders.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T224938Z" creationid="Melo46" creationdate="20250304T224938Z">
@@ -73270,6 +73406,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T080145Z">
         <seg>Usa iste textos de Adjuta pro initiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local rules specific to your project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T111519Z" creationid="Melo46" creationdate="20250305T111519Z">
+        <seg>Usa iste button pro crear regulas local specific pro tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76775,6 +76919,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250226T231104Z" creationid="Melo46" creationdate="20250226T231104Z">
         <seg>Tu alsi pote cercar le accento circumflexe, parenthese de clausura, e tracto de union como se mesme placiante lo illes a un position que non discatenar lor significato special: ubique salvo justo post le parenthese de apertura pro le accento circumflexe, immediatemente post un parenthese de apertura o un accento circumflexe sequente lo pro le parenthese de clausura, e subito post le parenthese de apertura o justo ante le parenthese de clausura pro le tracto de union.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start OmegaT from the command line with a project specific configuration setting to achieve a similar result.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T110548Z" creationid="Melo46" creationdate="20250305T110548Z">
+        <seg>Tu alsi pote lancear OmegaT ab le linea de commando con un parametro de configuration specific-del-projecto pro attinger un simile resultato.</seg>
       </tuv>
     </tu>
     <tu>
