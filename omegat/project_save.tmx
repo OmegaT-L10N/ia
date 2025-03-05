@@ -21968,6 +21968,14 @@ Nove version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on your internet connection it may take a while before the dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230428Z" creationid="Melo46" creationdate="20250305T230428Z">
+        <seg>Secundo tu connexion a internet il pote passar un poco ante que le dictionario es installate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending upon how your system is configured, it may be possible to launch the scripts simply by clicking on them with the mouse.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T221133Z">
@@ -22904,6 +22912,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T075107Z">
         <seg>Monstra le entratas del glossario trovate in le files glossario locate in le plica /glossario/ si on ha in le segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the list of available dictionaries from the above URL.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230329Z" creationid="Melo46" creationdate="20250305T230329Z">
+        <seg>Monstra le lista de dictionarios disponibile ab le URL hic supra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26126,6 +26142,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External searches are either web searches or local commands that take the string selected in the Editor as a parameter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230950Z" creationid="Melo46" creationdate="20250305T230950Z">
+        <seg>Le recercas externe es recercas sur le web o commandos local que prende le stringa seligite in le Editor como parametro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T163058Z">
@@ -28117,6 +28141,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T132723Z">
         <seg>Pro le legibilitate, le litteras ci es scribite in majusculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security reasons, &lt;l0&gt;local external searches&lt;/l0&gt; are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T232133Z" creationid="Melo46" creationdate="20250305T232133Z">
+        <seg>Pro rationes de securitate, le &lt;l0&gt;recercas externe local&lt;/l0&gt; es disactivate de ordinario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36292,6 +36324,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install new language...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230237Z" creationid="Melo46" creationdate="20250305T230237Z">
+        <seg>Installar nove lingua...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install plugin file</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T130359Z" creationid="Melo46" creationdate="20250222T130359Z">
@@ -37210,6 +37250,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T015424Z" creationid="Melo46" creationdate="20250225T015424Z">
         <seg>Il es distribuite sub le terminos del &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is generally in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230218Z" creationid="Melo46" creationdate="20250305T230218Z">
+        <seg>Il es generalmente in le plica &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55468,6 +55516,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the dictionaries that you want to install and click &lt;g0&gt;Install&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230351Z" creationid="Melo46" creationdate="20250305T230351Z">
+        <seg>Selige le dictionarios que tu vole installar e clicca &lt;g0&gt;Installar&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T185747Z" creationid="will" creationdate="20230302T185747Z">
@@ -55496,6 +55552,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T091643Z">
         <seg>Selige le methodo per le buttones radio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230643Z" creationid="Melo46" creationdate="20250305T230643Z">
+        <seg>Seliger le regulas secundo si illes es pertinente al typo de texto que tu traduce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66087,6 +66151,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The web searches are opened in the default browser and the commands are equivalent to items launched on the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T232036Z" creationid="Melo46" creationdate="20250305T232036Z">
+        <seg>Le recercas sur le web es aperite in le navigator predefinite e le commandos es equivalente a elementos lanceate sur le linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T083820Z">
@@ -67382,6 +67454,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140701T123637Z" creationid="MELO46" creationdate="20140701T123637Z">
         <seg>Iste URL appare non valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action requires an internet connection</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230334Z" creationid="Melo46" creationdate="20250305T230334Z">
+        <seg>Iste action require un connexion a internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -74777,6 +74857,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230620Z" creationid="Melo46" creationdate="20250305T230620Z">
+        <seg>Usar un corrector de lingua differente sur tu machina local que le sol fornite ab OmegaT te permitte de personalisar le regulas de verification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T121152Z" creationid="Melo46" creationdate="20200727T121152Z">
@@ -77582,6 +77670,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T083543Z" creationid="Melo46" creationdate="20200727T123326Z">
         <seg>Tu pote alsi definir varie optiones associate al validation del tags e definir tags personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also download dictionaries from other locations, or copy dictionaries installed locally.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T230230Z" creationid="Melo46" creationdate="20250305T230230Z">
+        <seg>Tu alsi pote discargar dictionarios de altere positiones, o copiar dictionarios installate localmente.</seg>
       </tuv>
     </tu>
     <tu>
