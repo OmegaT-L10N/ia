@@ -11844,6 +11844,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API key</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175825Z" creationid="Melo46" creationdate="20250305T175825Z">
+        <seg>Clave API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API key (optional)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T225201Z" creationid="Melo46" creationdate="20250219T225201Z">
@@ -24461,6 +24469,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable this option to automatically fetch machine translations from the providers you have enabled and configured.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T174604Z" creationid="Melo46" creationdate="20250305T174604Z">
+        <seg>Activar iste option pro automaticamente reportar traductiones automatic ab le fornitores que tu ha activate e configurate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082746Z">
@@ -24617,6 +24633,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130215T235549Z">
         <seg>Fin*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engine</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175532Z" creationid="Melo46" creationdate="20250305T175532Z">
+        <seg>Motor</seg>
       </tuv>
     </tu>
     <tu>
@@ -33486,6 +33510,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you leave this option disabled, machine translations are only fetched when you use &lt;l0/&gt; &lt;l1/&gt; in the current segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T174650Z" creationid="Melo46" creationdate="20250305T174650Z">
+        <seg>Si tu lassa iste option disactivate, le traductiones automatic es solo reportate quando tu usa &lt;l0/&gt; &lt;l1/&gt; in le segmento actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you modify the project segmentation or delete files from the source, some matches may appear as &lt;e1&gt;orphan strings&lt;/e1&gt; in the Match Viewer: such matches refer to segments that do not exist any more in the source documents, as they correspond to segments translated and recorded before the modifications took place.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T070357Z">
@@ -35236,6 +35268,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T183546Z">
         <seg>In le fenestra sequente tu pote indicar que le lingua seligite debe esser usate in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the list of machine translation available in OmegaT, check the &lt;g0&gt;Enabled&lt;/g0&gt; box for each provider you want to access.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175154Z" creationid="Melo46" creationdate="20250305T175026Z">
+        <seg>In le lista de traductiones automatic disponibile in OmegaT, marca le cassa &lt;g0&gt;Activate&lt;/g0&gt; pro cata fornitor cuje tu vole acceder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40493,6 +40533,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you have the proper credentials before using this function.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175415Z" creationid="Melo46" creationdate="20250305T175415Z">
+        <seg>Verifica que tu ha le credentiales correcte ante usar iste function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250226T230120Z" creationid="Melo46" creationdate="20250226T230120Z">
@@ -42105,6 +42153,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most providers require some kind of registration before using their services.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175345Z" creationid="Melo46" creationdate="20250305T175345Z">
+        <seg>Le majoritate del fornitores require alcun sorta de registration ante usar lor servicios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most users will find the default file filter options sufficient.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T061050Z">
@@ -42441,10 +42497,26 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyMemory (human translation)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175747Z" creationid="Melo46" creationdate="20250305T175747Z">
+        <seg>MyMemory (traduction human)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyMemory (human)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131219T165404Z" creationid="MELO46" creationdate="20131219T165404Z">
         <seg>MyMemory (human)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (machine translation)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175653Z" creationid="Melo46" creationdate="20250305T175653Z">
+        <seg>MyMemory (traduction automatic)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50440,6 +50512,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provider list</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175040Z" creationid="Melo46" creationdate="20250305T175040Z">
+        <seg>Lista del fornitores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T082317Z" creationid="Melo46" creationdate="20210220T082317Z">
@@ -52173,6 +52253,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Required credentials</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175514Z" creationid="Melo46" creationdate="20250305T175514Z">
+        <seg>Credentiales necessari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130424T141249Z">
@@ -52185,6 +52273,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T215357Z">
         <seg>Require Linux, w3m e tcl/tk (ambe generalmente supplite con Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires a Deepl Pro Advanced plan available only in some countries</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175634Z" creationid="Melo46" creationdate="20250305T175634Z">
+        <seg>Require disponibile un plano Deepl Pro Advanced disponibile solo in alcun paises</seg>
       </tuv>
     </tu>
     <tu>
@@ -54197,8 +54293,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix for details.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230228T200024Z" creationid="will" creationdate="20230228T200024Z">
-        <seg>Vide le &lt;l0/&gt; appendice pro detalios.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T174421Z" creationid="will" creationdate="20230228T200024Z">
+        <seg>Vide le appendice &lt;l0/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63242,6 +63338,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location depends on the operating system and launch options.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T174327Z" creationid="Melo46" creationdate="20250305T174327Z">
+        <seg>Le position depende ab le optiones del systema operative e del lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T223011Z">
@@ -71994,6 +72098,22 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL, Model ID, Login ID, Password</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175808Z" creationid="Melo46" creationdate="20250305T175808Z">
+        <seg>URL, Model ID, Login ID, Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL, key</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175708Z" creationid="Melo46" creationdate="20250305T175708Z">
+        <seg>URL, clave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T231047Z" creationid="Karm46" creationdate="20170911T231047Z">
@@ -73566,6 +73686,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T081955Z" creationid="Melo46" creationdate="20210220T081955Z">
         <seg>Usa le modo comparation de &lt;g0&gt;ID&lt;/g0&gt; pro alinear Key=Value texts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g1&gt;Configure&lt;/g1&gt; button to manage your authentication credentials for that provider.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175321Z" creationid="Melo46" creationdate="20250305T175321Z">
+        <seg>Usa le button &lt;g1&gt;Configurar&lt;/g1&gt; pro gerer tu credentiales de authentication pro iste fornitor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78587,6 +78715,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You then have to press that combination again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T174939Z" creationid="Melo46" creationdate="20250305T174939Z">
+        <seg>Tu pois debe pulsar ille combination ancora pro inserer le suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You translate your files by moving from segment to segment, editing each current segment in turn.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T102925Z">
@@ -83151,6 +83287,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175711Z" creationid="Melo46" creationdate="20250305T175711Z">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.apertium.org/</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T082643Z">
@@ -83279,6 +83423,22 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175832Z" creationid="Melo46" creationdate="20250305T175832Z">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175828Z" creationid="Melo46" creationdate="20250305T175828Z">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T132429Z">
@@ -83395,6 +83555,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T171623Z" creationid="Karm46" creationdate="20171130T171623Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175659Z" creationid="Melo46" creationdate="20250305T175659Z">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175656Z" creationid="Melo46" creationdate="20250305T175656Z">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -83627,6 +83803,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T150613Z" creationid="Melo46" creationdate="20250225T150613Z">
         <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175641Z" creationid="Melo46" creationdate="20250305T175641Z">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175815Z" creationid="Melo46" creationdate="20250305T175815Z">
+        <seg>https://www.ibm.com/watson</seg>
       </tuv>
     </tu>
     <tu>
