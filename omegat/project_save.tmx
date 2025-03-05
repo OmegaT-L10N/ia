@@ -38225,6 +38225,14 @@ ipse al prime lanceamento.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key shortcut description reminder:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T171415Z" creationid="Melo46" creationdate="20250305T171415Z">
+        <seg>Memento de description del vias-breve de claviero:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084242Z">
@@ -41333,6 +41341,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items that do not indicate a shortcut do not have one assigned by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T170937Z" creationid="Melo46" creationdate="20250305T170937Z">
+        <seg>Elementos del menu que non indica un via-breve non ha un assignate de ordinario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu items with a default shortcut</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T104458Z" creationid="Melo46" creationdate="20250302T104458Z">
@@ -41353,6 +41369,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T130712Z" creationid="Melo46" creationdate="20200726T202206Z">
         <seg>Menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menus are where you access most of OmegaT's functions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T170803Z" creationid="Melo46" creationdate="20250305T170535Z">
+        <seg>Le menus es ubi tu accede al majoritate de functiones de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42009,6 +42033,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most menu items have an associated keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T170911Z" creationid="Melo46" creationdate="20250305T170911Z">
+        <seg>Le major parte del elementos del menu ha un via breve de claviero associate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most modern CAT tools display the text in segment-oriented form rather than with its ultimate layout and formatting.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T155209Z">
@@ -42021,6 +42053,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171127T140003Z">
         <seg>Le major parte del documentation OmegaT es concedite in licentia pro lo reusar sub le licentias: GNU Public License (GPL) o GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of the action takes place with the help of shortcuts associated to menu items.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T170419Z" creationid="Melo46" creationdate="20250305T170419Z">
+        <seg>Le major parte del action ha loco con le adjuta de vias breve associate a elementos del menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49366,6 +49406,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preferences set in this dialog are saved to the default &lt;l0&gt;configuration folder&lt;/l0&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T172112Z" creationid="Melo46" creationdate="20250305T172112Z">
+        <seg>Le preferentias predefinite in iste fenestra de dialogo es salvate al predefinite &lt;l0&gt;plica del configuration&lt;/l0&gt; e se applica a tote le projectos de traduction si tu non ha specificate un differente plica del configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141027T212251Z">
@@ -54139,6 +54187,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T170952Z" creationid="Melo46" creationdate="20250305T170952Z">
+        <seg>Vide le appendice &lt;l0/&gt; si tu desira modificar o adder vias breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T083526Z" creationid="will" creationdate="20230228T083526Z">
@@ -55784,6 +55840,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T132544Z">
         <seg>Le vias breve es activate per pulsar &lt;k0&gt;Ctrl&lt;/k0&gt; e un littera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts are ubiquitous in this manual and you should be able very shortly to remember the few that are useful in the course of a standard translation day.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T170702Z" creationid="Melo46" creationdate="20250305T170519Z">
+        <seg>Le vias breve es ubique in iste manual e tu deberea esser capace multo brevemente a memorar le poc que es utile in le curso de un die standard de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73058,6 +73122,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this dialog (the &lt;l2&gt;OmegaT&lt;/l2&gt; menu on macOS).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T171525Z" creationid="Melo46" creationdate="20250305T171525Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder iste fenestra de dialogo (le &lt;l2&gt;OmegaT&lt;/l2&gt; menu sur macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T112345Z" creationid="Melo46" creationdate="20250305T112345Z">
@@ -73494,6 +73566,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T091216Z" creationid="Melo46" creationdate="20250305T091216Z">
         <seg>Usa le menus de navigation trovate in &lt;l0/&gt;&lt;l1/&gt; pro navigar al segmentos que ha essite inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the search field at the top of the preferences list to look for specific items.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T171721Z" creationid="Melo46" creationdate="20250305T171721Z">
+        <seg>Usa le campo de recerca al culmine del lista del preferentias pro cercar elementos specific.</seg>
       </tuv>
     </tu>
     <tu>
