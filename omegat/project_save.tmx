@@ -75579,6 +75579,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T220050Z" creationid="Melo46" creationdate="20250305T220050Z">
+        <seg>Quando le option es activate, OmegaT automaticamente recercas in tote le dictionarios pro concorda con del terminos lo identificate in le segmento, como lo entra in le segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T131001Z" creationid="Melo46" creationdate="20200727T131001Z">
