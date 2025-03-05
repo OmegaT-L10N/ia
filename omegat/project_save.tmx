@@ -12578,6 +12578,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional themes can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T222731Z" creationid="Melo46" creationdate="20250305T222731Z">
+        <seg>Additional themas pote esser addite como plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T184839Z" creationid="will" creationdate="20230302T184839Z">
@@ -17364,6 +17372,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081655Z">
         <seg>Characteres (sin spatios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters that are not supported will appear as squares.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T223616Z" creationid="Melo46" creationdate="20250305T223616Z">
+        <seg>Characteres que non es supportate apparera como quadratos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43590,6 +43606,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not all natively provided Java themes are compatible with OmegaT operation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T223116Z" creationid="Melo46" creationdate="20250305T223116Z">
+        <seg>Non tote themas de Java fornite nativemente es compatibile con le functionamento de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not assigned</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T130248Z" creationid="Melo46" creationdate="20250222T130248Z">
@@ -45643,6 +45667,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is bundled with a script called &lt;l0/&gt; that provides a default dark theme.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T223813Z" creationid="Melo46" creationdate="20250305T223813Z">
+        <seg>OmegaT es integrate in un script appellate &lt;l0/&gt; que offere un thema obscur predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52509,6 +52541,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the OmegaT window panes to their default arrangement.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T223435Z" creationid="Melo46" creationdate="20250305T223435Z">
+        <seg>Restaura le pannellos del fenestra de OmegaT a lor arrangiamento predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T090103Z">
@@ -52825,6 +52865,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T094626Z" creationid="Karm46" creationdate="20170914T094626Z">
         <seg>Regulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules for Japanese</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T223904Z" creationid="Melo46" creationdate="20250305T223904Z">
+        <seg>Regulas pro le japonese</seg>
       </tuv>
     </tu>
     <tu>
@@ -53623,6 +53671,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T163718Z">
         <seg>Plica del scripts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts can be used to set predefined themes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T223717Z" creationid="Melo46" creationdate="20250305T223717Z">
+        <seg>Le scripts pote esser usate pro configurar themas predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54443,6 +54499,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project properties.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T224010Z" creationid="Melo46" creationdate="20250305T224010Z">
+        <seg>Vider le proprietates del projecto &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T060412Z" creationid="will" creationdate="20230316T060412Z">
@@ -54519,6 +54583,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T023048Z" creationid="Melo46" creationdate="20250225T023048Z">
         <seg>Vider le section &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T223838Z" creationid="Melo46" creationdate="20250305T223838Z">
+        <seg>Vider le fenestra &lt;l1/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55184,6 +55256,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T093856Z" creationid="Melo46" creationdate="20200726T093856Z">
         <seg>Eliger un fornitor ex le lista e, si necessari, clicca &lt;g0&gt;Configurar&lt;/g0&gt; pro inserer le detalios de identification fornite per le fornitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a theme for the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T222659Z" creationid="Melo46" creationdate="20250305T222659Z">
+        <seg>Seliger un thema pro le interface de usator de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56792,6 +56872,14 @@ can do so.</seg>
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some dictionary drivers provided as plugins do not support this feature.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T222606Z" creationid="Melo46" creationdate="20250305T222606Z">
+        <seg>Alcun drivers de dictionario fornite como plugins non supporta iste functionalitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65535,6 +65623,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The themes also provide predefined set of default colours.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T222857Z" creationid="Melo46" creationdate="20250305T222857Z">
+        <seg>Le themas alsi forni un insimul predefinite de colores predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140201T114145Z">
@@ -73666,10 +73762,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use condensed view</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T222424Z" creationid="Melo46" creationdate="20250305T222424Z">
+        <seg>Usar vista condensate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T230519Z" creationid="Karm46" creationdate="20170911T230519Z">
         <seg>Usar modellos personalisate pro &amp;info de modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T222335Z" creationid="Melo46" creationdate="20250305T222335Z">
+        <seg>Usar concordantias partial</seg>
       </tuv>
     </tu>
     <tu>
@@ -75581,8 +75693,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250305T220050Z" creationid="Melo46" creationdate="20250305T220050Z">
-        <seg>Quando le option es activate, OmegaT automaticamente recercas in tote le dictionarios pro concorda con del terminos lo identificate in le segmento, como lo entra in le segmento.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T222329Z" creationid="Melo46" creationdate="20250305T220050Z">
+        <seg>Quando le option es activate, OmegaT automaticamente recerca in tote le dictionarios pro concordantias del terminos que illo identificava in le segmento, dum illo entra in le segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75753,6 +75865,14 @@ price.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T164103Z">
         <seg>Quando tu initia un nove projecto re le mesme subjecto o pro le mesme cliente, naviga al plica repositorio in le &lt;g0&gt;fenestra de dialogo Projecto &gt; Proprietates &gt; Modifica Projecto &lt;/g0&gt; e selige lo como le plica del memoria de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you click on a language pattern in the top half of the dialog, a list of associated rules will be displayed in the bottom half of the dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T224253Z" creationid="Melo46" creationdate="20250305T224253Z">
+        <seg>Quando tu clicca sur un schema linguistic in le medietate superior del fenestra de dialogo, un lista de regulas associate sera monstrate in le medietate inferior del fenestra de dialogo.</seg>
       </tuv>
     </tu>
     <tu>
