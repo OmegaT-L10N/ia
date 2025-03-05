@@ -24743,6 +24743,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the commands you want to run in this field.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T114252Z" creationid="Melo46" creationdate="20250305T114252Z">
+        <seg>Insere le commandos que tu vole exequer in iste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the name of this set:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T233126Z" creationid="Melo46" creationdate="20250221T233126Z">
