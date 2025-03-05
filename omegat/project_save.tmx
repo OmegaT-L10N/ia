@@ -36406,6 +36406,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It constitutes the working translation memory of the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234343Z" creationid="Melo46" creationdate="20250304T234343Z">
+        <seg>Illo constitue le memoria de traduction de functionamento del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It contains just the following line:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181945Z">
@@ -45231,6 +45239,14 @@ a esser lanceate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT regularly backs-up that file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234410Z" creationid="Melo46" creationdate="20250304T234410Z">
+        <seg>OmegaT regularmente preserva ille file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT remembers the segments executed.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T171406Z" creationid="will" creationdate="20220109T171406Z">
@@ -53555,6 +53571,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234132Z" creationid="Melo46" creationdate="20250304T234132Z">
+        <seg>Vider le guida &lt;l1/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T233459Z" creationid="Melo46" creationdate="20250304T233459Z">
@@ -61426,6 +61450,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file must have one word per line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234200Z" creationid="Melo46" creationdate="20250304T234200Z">
+        <seg>Le file debe haber un parola per linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file name format is &lt;f0&gt;OmegaT_99999_yyyyMMdd-hhmmss.log&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T073227Z" creationid="Melo46" creationdate="20250223T073227Z">
@@ -67182,6 +67214,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the most important file in the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234247Z" creationid="Melo46" creationdate="20250304T234247Z">
+        <seg>Isto es le plus importante file in le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T231017Z" creationid="Melo46" creationdate="20250304T231017Z">
@@ -68914,6 +68954,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T085541Z">
         <seg>Pro installar Priorview, discassa simplemente le archivo zip in un location convenibile sur tu disco dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install dictionaries:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234230Z" creationid="Melo46" creationdate="20250304T234230Z">
+        <seg>A installar dictionarios:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76122,6 +76170,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T072507Z">
         <seg>Tu pote deler lo: selige lo e pulsa Dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can combine folders to create new functions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234147Z" creationid="Melo46" creationdate="20250304T234147Z">
+        <seg>Tu poter combinar plicas pro crear nove functiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85689,6 +85745,38 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>project_save.tmx</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234233Z" creationid="Melo46" creationdate="20250304T234233Z">
+        <seg>project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx.bak</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234414Z" creationid="Melo46" creationdate="20250304T234414Z">
+        <seg>project_save.tmx.bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx.timestamp.bak</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234422Z" creationid="Melo46" creationdate="20250304T234422Z">
+        <seg>project_save.tmx.timestamp.bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234429Z" creationid="Melo46" creationdate="20250304T234429Z">
+        <seg>project_stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>project_stats_match.txt</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T074236Z">
@@ -87143,6 +87231,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094952Z">
         <seg>plicas tm/penalty-xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/tmx2source</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250304T234110Z" creationid="Melo46" creationdate="20250304T234110Z">
+        <seg>tm/tmx2source</seg>
       </tuv>
     </tu>
     <tu>
