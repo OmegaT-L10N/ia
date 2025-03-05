@@ -33670,6 +33670,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you specify such a configuration folder, all modifications made in this dialog will be stored there.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T172438Z" creationid="Melo46" creationdate="20250305T172438Z">
+        <seg>Si tu specifica tal plica del configuration, tote le modificationes facite in iste fenestra de dialogo sera immagazinate illac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
@@ -37098,6 +37106,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T113823Z" creationid="melo" creationdate="20160813T113823Z">
         <seg>Il es possibile traher texto ab ubicunque in le fenestra e deponer lo in le segmento de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to have OmegaT use a different configuration folder to define project-specific configurations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T172349Z" creationid="Melo46" creationdate="20250305T172349Z">
+        <seg>Il es possibile obtener que OmegaT usa un differente plica del configuration pro definir configurationes specific-del-projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47549,6 +47565,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T124502Z" creationid="Melo46" creationdate="20200730T124502Z">
         <seg>Aperi le local directorio ubi le files de configuration de OmegaT es registrate (depende del systema operative).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local folder where OmegaT configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T173919Z" creationid="Melo46" creationdate="20250305T173919Z">
+        <seg>Aperi le plica local ubi le files de configuration de OmegaT es immagazinate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61770,6 +61794,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default key to validate and leave a segment is &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T172608Z" creationid="Melo46" creationdate="20250305T172608Z">
+        <seg>Le clave predefinite pro validar e lassar un segmento es &lt;k0&gt;Inviar&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default pattern.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T153522Z" creationid="will" creationdate="20230302T153522Z">
@@ -63972,6 +64004,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T224244Z" creationid="MELO46" creationdate="20140108T224244Z">
         <seg>Le processo de segmentation pote esser illustrate assi: le cursor move se secundo le le, un character a un vece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The program will ask for confirmation before closing.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T173731Z" creationid="Melo46" creationdate="20250305T173731Z">
+        <seg>Le programma demandara pro confirmation ante clauder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68534,6 +68574,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is useful with some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T173044Z" creationid="Melo46" creationdate="20250305T173044Z">
+        <seg>Iste option es utile con alcun systemas de entrata del characteres chinese, japonese o corean.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T073231Z" creationid="Melo46" creationdate="20200731T073231Z">
@@ -68546,6 +68594,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T224548Z" creationid="Melo46" creationdate="20250222T224548Z">
         <seg>Iste option defini le intervallo de salvamento del datos del projecto, que alsi se applica al synchronisation de datos del equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option sets the segment validation key to &lt;k0&gt;Tab&lt;/k0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T172904Z" creationid="Melo46" creationdate="20250305T172904Z">
+        <seg>Iste option in vice configura le clave de validation del segmento a &lt;k0&gt;Tab&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
