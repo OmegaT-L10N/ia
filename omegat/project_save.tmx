@@ -12538,6 +12538,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional layouts can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T181017Z" creationid="Melo46" creationdate="20250305T181017Z">
+        <seg>Altere mappas pote esser addite como plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T213700Z">
@@ -22592,6 +22600,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T121856Z" creationid="Melo46" creationdate="20250222T121856Z">
         <seg>Monstrar le description contextual del &amp;glossarios TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display TBX glossaries context description (TBX 2)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T175910Z" creationid="Melo46" creationdate="20250305T175910Z">
+        <seg>Monstrar description contextual del glossarios TBX (TBX 2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34150,6 +34166,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore matches with very different case (e.g., USER vs user)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180653Z" creationid="Melo46" creationdate="20250305T180653Z">
+        <seg>Ignorar le concordantias con litteras majuscule/minuscule multo differente (p. ex., USATOR contra usator)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore tags that contain translate="no"</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T075121Z" creationid="Melo46" creationdate="20250223T075121Z">
@@ -41269,6 +41293,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches with very different case are not displayed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180813Z" creationid="Melo46" creationdate="20250305T180813Z">
+        <seg>Le concordantias con litteras majuscule/minuscule multo differente non es monstrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matching segments: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T131343Z" creationid="Melo46" creationdate="20250219T131343Z">
@@ -46331,6 +46363,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082540Z">
         <seg>OmegaT essayara a segmentar de novo le file TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will use the associated tokenizer to find matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180208Z" creationid="Melo46" creationdate="20250305T180208Z">
+        <seg>OmegaT usara le tokenizer associate pro trovar concordantias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55064,6 +55104,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250221T144800Z" creationid="Melo46" creationdate="20250221T144800Z">
         <seg>Seliger un filtro e cliccar sur Rediger... o Optiones... pro personalisar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a layout for the glossaries pane contents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180920Z" creationid="Melo46" creationdate="20250305T180920Z">
+        <seg>Seliger un mappa pro le contentos del pannello glossarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73610,6 +73658,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use stemming</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180047Z" creationid="Melo46" creationdate="20250305T180047Z">
+        <seg>Usar recerca del radices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T165743Z" creationid="ia" creationdate="20170909T165743Z">
@@ -75259,6 +75315,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180042Z" creationid="Melo46" creationdate="20250305T180042Z">
+        <seg>Quando un termino de glossario es un parola composite, le termino concordara mesmo si le parolas appare separatemente in le texto fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T092103Z" creationid="Melo46" creationdate="20250305T092103Z">
@@ -75809,6 +75873,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220107T124339Z" creationid="will" creationdate="20220107T124339Z">
         <seg>Quando tu rende tu files, OmegaT registra tote tu progresso in le memoria de traduction &lt;f0&gt;project_save.tmx&lt;/f0&gt; que reside in le sub plica del projecto &lt;f1&gt;omegat&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180217Z" creationid="Melo46" creationdate="20250305T180217Z">
+        <seg>Quando tu usa</seg>
       </tuv>
     </tu>
     <tu>
@@ -86763,8 +86835,8 @@ crea le plica del configuration.</seg>
       <tuv lang="en">
         <seg>or</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130216T141332Z">
-        <seg>or</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180250Z">
+        <seg>o</seg>
       </tuv>
     </tu>
     <tu>
@@ -88715,6 +88787,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the &lt;l0/&gt; preference, etc.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180238Z" creationid="Melo46" creationdate="20250305T180238Z">
+        <seg>le preferentia &lt;l0/&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the Free Software Foundation, either version 3 of the License, or</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144822Z">
@@ -89023,6 +89103,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T234118Z">
         <seg>to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to insert the source content in the target segment, words with a glossary entry will automatically be replaced by their translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T180427Z" creationid="Melo46" creationdate="20250305T180427Z">
+        <seg>pro inserer le contento original in le segmento de destination, le parolas con un entrata del glossario sera automaticamente supplantate per lor traduction.</seg>
       </tuv>
     </tu>
     <tu>
