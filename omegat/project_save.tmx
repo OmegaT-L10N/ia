@@ -14846,6 +14846,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As soon as you have saved your modifications, they will be taken into account by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095429Z" creationid="Melo46" creationdate="20250305T095429Z">
+        <seg>A pena tu ha salvate tu modificationes, illos sera prendite in conto per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T164252Z">
@@ -25275,6 +25283,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time a project is loaded, OmegaT creates a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; with the name &lt;f1&gt;project_save.tmx.[time stamp].bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095949Z" creationid="Melo46" creationdate="20250305T095949Z">
+        <seg>Cata vice que un projecto es cargate, OmegaT crea un salveguarda de &lt;f0&gt;project_save.tmx&lt;/f0&gt; con le nomine &lt;f1&gt;project_save.tmx.[data e hora].bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144500Z">
@@ -32430,6 +32446,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you already have a collection of words you want the spellchecker to ignore or accept, simply save them in text files with the corresponding names, and copy the files to the &lt;l0/&gt; folder of your current project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T100218Z" creationid="Melo46" creationdate="20250305T100218Z">
+        <seg>Si tu jam ha un collection de parolas que tu vole que le corrector orthographic ignora o accepta, simplemente salva los in files de texto con le nomines correspondente, e copia le files al plica &lt;l0/&gt; de tu projecto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140122T231853Z">
@@ -36702,6 +36726,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is created the first time you use &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T094742Z" creationid="Melo46" creationdate="20250305T094742Z">
+        <seg>Illo es create le prime vice que tu usa &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is displayed automatically when OmegaT loads a project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130705T185823Z">
@@ -37008,6 +37040,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T193126Z">
         <seg>Il pote alsi esser possibile que le disveloppamentos commissionate per disveloppatores externe, sia implementate intra OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may also include several other files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095505Z" creationid="Melo46" creationdate="20250305T095505Z">
+        <seg>Il pote alsi includer plure altere files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45219,6 +45259,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T183758Z">
         <seg>OmegaT non es justo un producto; illo es un projecto excitante, e tu pote ser parte de illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT keeps up to 10 of those files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095758Z" creationid="Melo46" creationdate="20250305T095713Z">
+        <seg>OmegaT reserva usque 10 de ille files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53739,6 +53787,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T094129Z" creationid="Melo46" creationdate="20250305T094129Z">
+        <seg>Vider le appendice &lt;l1/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T112902Z" creationid="will" creationdate="20230301T112902Z">
@@ -53791,6 +53847,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085728Z" creationid="will" creationdate="20230228T085728Z">
         <seg>Reguarda le &lt;l2/&gt; preferentias pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l4/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095710Z" creationid="Melo46" creationdate="20250305T095710Z">
+        <seg>Vider le preferentia &lt;l4/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59434,6 +59498,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063849Z">
         <seg>Le sub plica &lt;e0&gt;omegat&lt;/e0&gt; contine al minus un possibilemente plures altere files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; folder contains, at a minimum, the &lt;l1/&gt; and &lt;l2/&gt; files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095455Z" creationid="Melo46" creationdate="20250305T095455Z">
+        <seg>Le plica &lt;f0&gt;omegat&lt;/f0&gt; contine, al minimo, le files &lt;l1/&gt; e &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67510,6 +67582,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the project writable glossary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T094147Z" creationid="Melo46" creationdate="20250305T094147Z">
+        <seg>Isto es le glossario scribibile del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the standard behavior.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T215651Z">
@@ -74741,6 +74821,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project, the file is empty and is gradually filled with the translations of the text in files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095648Z" creationid="Melo46" creationdate="20250305T095648Z">
+        <seg>Quando tu crea un nove projecto, le file es vacue e es gradualmente plenate con le traductiones del texto in files ubicate in le plica &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T083857Z">
@@ -76086,6 +76174,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084303Z">
         <seg>Tu va disinstallar le dictionario del controlator orthographic actual de tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access it with &lt;l0/&gt;, open it in a text editor, modify it with a text editor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T095344Z" creationid="Melo46" creationdate="20250305T095344Z">
+        <seg>Tu pote acceder illo con &lt;l0/&gt;, aperi lo in un editor de texto, modifica lo con un editor de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81387,6 +81483,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T222228Z" creationid="Melo46" creationdate="20200730T222228Z">
         <seg>glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T094136Z" creationid="Melo46" creationdate="20250305T094136Z">
+        <seg>glossary.txt</seg>
       </tuv>
     </tu>
     <tu>
