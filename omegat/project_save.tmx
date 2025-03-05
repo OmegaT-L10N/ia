@@ -13328,6 +13328,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the words contained in that list will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T094112Z" creationid="Melo46" creationdate="20250305T094112Z">
+        <seg>Tote le parolas continite in ille listar sera ignorate per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All translations from source documents are also displayed in the Comment pane, in addition to the Match pane.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T160813Z">
@@ -16580,6 +16588,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T192410Z" creationid="Melo46" creationdate="20250301T192410Z">
         <seg>De ordinario, le parametros de segmentation es global e compartite per tote le projectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093515Z" creationid="Melo46" creationdate="20250305T093515Z">
+        <seg>De ordinario, ille plica es le plica de projecto mesme, ma tu pote cambiar su position pro render plus practic compartir le files memoria de traduction exportate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22148,6 +22164,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary terms that match parts of the segment are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093748Z" creationid="Melo46" creationdate="20250305T093748Z">
+        <seg>Le terminos de dictionario que concorda partes del segmento es monstrate in le pannello &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictonary pane</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095052Z">
@@ -27359,6 +27383,22 @@ the work, and the source code for shared libraries and dynamically
 linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between those
 subprograms and other parts of the work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a 10% penalty folder within the machine translation folder: &lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt; would never generate 100% matches that could otherwise be automatically inserted by OmegaT, and would always set a red background to the match whenever it is inserted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093209Z" creationid="Melo46" creationdate="20250305T093209Z">
+        <seg>Per exemplo, un plica con 10% de penalitate in le traduction automatic plica: &lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt; jammais generara le 100% de concordantia que poterea alteremente esser automaticamente inserite per OmegaT, e sempre predefinira un fundo rubie al concordantia quandocunque illo es inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a 100% match in a TMX, stored in a folder called &lt;f0&gt;penalty-30&lt;/f0&gt; becomes a 70% match.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T092409Z" creationid="Melo46" creationdate="20250305T092409Z">
+        <seg>Per exemplo, un concordantia del 100% in un TMX, immagazinate in un plica appellate &lt;f0&gt;penalty-30&lt;/f0&gt; deveni un concordantia del 70%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45416,6 +45456,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT supports dictionaries in the StarDict or in the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093838Z" creationid="Melo46" creationdate="20250305T093838Z">
+        <seg>OmegaT supporta dictionarios in le formatos StarDict o Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T182334Z">
@@ -52727,6 +52775,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="ia" changeid="Melo" changedate="20151125T230445Z" creationid="Melo46" creationdate="20151125T223945Z">
         <seg>Campo:
 Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser cata file locate in un hierarchia de plica specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scores of 75, 80 and 90 for a match are lowered to 45, 50 and 60.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T092640Z" creationid="Melo46" creationdate="20250305T092640Z">
+        <seg>Le punctages de 75, 80 e 90 pro un concordantia es bassate a 45, 50 e 60.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63142,6 +63198,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The penalty applies to all three match percentages.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T092511Z" creationid="Melo46" creationdate="20250305T092511Z">
+        <seg>Le penalitate se applica a tote le tres percentages de concordantia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
@@ -67003,6 +67067,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder is initially empty, and is used to store any dictionaries you add to the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093545Z" creationid="Melo46" creationdate="20250305T093545Z">
+        <seg>Iste plica es initialmente vacue, e sole immagazinar alcun dictionarios que tu adde al projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093624Z">
@@ -69192,8 +69264,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To install dictionaries:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250304T234230Z" creationid="Melo46" creationdate="20250304T234230Z">
-        <seg>A installar dictionarios:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093946Z" creationid="Melo46" creationdate="20250304T234230Z">
+        <seg>Pro installar dictionarios:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76472,8 +76544,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can combine folders to create new functions.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250304T234147Z" creationid="Melo46" creationdate="20250304T234147Z">
-        <seg>Tu poter combinar plicas pro crear nove functiones.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T092901Z" creationid="Melo46" creationdate="20250304T234147Z">
+        <seg>Tu pote combinar plicas pro crear nove functiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76606,6 +76678,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can display a third language &lt;e0&gt;right under&lt;/e0&gt; the source segment to use as a third language reference.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T092852Z" creationid="Melo46" creationdate="20250305T092852Z">
+        <seg>Tu poter monstrar un tertie lingua &lt;e0&gt;justo sub&lt;/e0&gt; le segmento fonte a usar como tertie lingua de referentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250226T225441Z" creationid="Melo46" creationdate="20250226T225441Z">
@@ -76652,6 +76732,14 @@ your programs, too.</seg>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081541Z">
         <seg>Tu pote trovar information statistic detaliate in le file:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find some dictionaries on the &lt;u0&gt;OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093923Z" creationid="Melo46" creationdate="20250305T093923Z">
+        <seg>Tu poter trovar alcun dictionarios sur le &lt;u0&gt;Wiki OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80935,6 +81023,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>exported tms folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T093244Z" creationid="Melo46" creationdate="20250305T093244Z">
+        <seg>plica memorias de traduction exportate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T080428Z" creationid="MELO46" creationdate="20140615T080428Z">
@@ -80947,6 +81043,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T091814Z">
         <seg>spatios extra post le periodo al fin del linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extract its contents into this folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T094000Z" creationid="Melo46" creationdate="20250305T094000Z">
+        <seg>extrahe su contentos in iste plica.</seg>
       </tuv>
     </tu>
     <tu>
