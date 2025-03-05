@@ -24277,6 +24277,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable the &lt;l0/&gt; option to have OmegaT remember that the inserted matches came from this folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T084213Z" creationid="Melo46" creationdate="20250305T084213Z">
+        <seg>Activar le option &lt;l0/&gt; pro que OmegaT rememora que le concordantias inserite con veniva ab iste plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T171128Z" creationid="ia" creationdate="20170909T171128Z">
@@ -33961,8 +33969,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200730T222751Z" creationid="Melo46" creationdate="20200730T222751Z">
-        <seg>In un projecto de equipa, iste plica contine un copia versionate del structura arbore del projecto ligate directemente al servitor remote.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T083818Z" creationid="Melo46" creationdate="20200730T222751Z">
+        <seg>In un projecto de equipa, iste plica contine un copia versionate del structura a arbore del projecto ligate directemente al servitor remote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34526,6 +34534,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T075544Z">
         <seg>In alicun casos, tu pote trovar que le tokenizer del lingua de origine interfere con le tokenizer del corrector orthographic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is hidden by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T083604Z" creationid="Melo46" creationdate="20250305T083604Z">
+        <seg>In alcun systemas operative, iste plica es celate de ordinario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53517,8 +53533,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; how-to for details.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250301T223321Z" creationid="will" creationdate="20230228T161612Z">
-        <seg>Vide le &lt;l0/&gt; guida pro detalios.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T083553Z" creationid="will" creationdate="20230228T161612Z">
+        <seg>Vide le guida &lt;l0/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53623,6 +53639,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085728Z" creationid="will" creationdate="20230228T085728Z">
         <seg>Reguarda le &lt;l2/&gt; preferentias pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l4/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082422Z" creationid="Melo46" creationdate="20250305T082422Z">
+        <seg>Vider le preferentias &lt;l4/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65501,6 +65525,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files are created and used by the spellchecker.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082347Z" creationid="Melo46" creationdate="20250305T082347Z">
+        <seg>Iste files es create e usate per le corrector orthographic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170414Z" creationid="will" creationdate="20230228T170414Z">
@@ -66690,6 +66722,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the latest project match statistics by file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082247Z" creationid="Melo46" creationdate="20250305T082247Z">
+        <seg>Iste file contine le ultime statisticas del concordantias del projecto per file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the latest project match statistics.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T082135Z" creationid="Melo46" creationdate="20250305T082135Z">
@@ -66710,6 +66750,38 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T231300Z" creationid="Melo46" creationdate="20250304T231300Z">
         <seg>Iste file contine le le parametros del projecto definite in le &lt;l0&gt;proprietates de projecto&lt;/l0&gt;, tal como le linguas fonte e de destination, lor respective tokenizers e le typo de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082712Z" creationid="Melo46" creationdate="20250305T082712Z">
+        <seg>Iste file contine le parametros de interfacie graphic specific-del-projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific external searches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082814Z" creationid="Melo46" creationdate="20250305T082814Z">
+        <seg>Iste file contine le recercas externe specific-del-projecto externe recercas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082540Z" creationid="Melo46" creationdate="20250305T082540Z">
+        <seg>Iste file contine le filtros de file specific-del-projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082504Z" creationid="Melo46" creationdate="20250305T082504Z">
+        <seg>Iste file contine le regulas de segmentation specific-del-projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66738,6 +66810,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is created if you manually change the order of the files in the &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082851Z" creationid="Melo46" creationdate="20250305T082851Z">
+        <seg>Iste file es create si tu manualmente cambia le ordine del files in le fenestra &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T130554Z" creationid="Melo46" creationdate="20250222T130554Z">
@@ -66750,6 +66830,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T130622Z">
         <seg>Iste file es multo importante tu deberea assecurar te que tu lege lo ante lancear OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file keeps a record of the last segment you visited, including its number, its source contents, the file name and the date, so that you can come back to it when you reload/relaunch the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T083155Z" creationid="Melo46" creationdate="20250305T083155Z">
+        <seg>Iste file mantene un registration del ultime segmento que tu visitava, incluse su numero, su contentos fonte, le nomine de file e le data, assi que tu pote revenir a illo quando tu recarga/relancea le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70704,6 +70792,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Turn on the option to show hidden files in your system to make it visible.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T083642Z" creationid="Melo46" creationdate="20250305T083642Z">
+        <seg>Activa le option pro monstrar files occulte in tu systema pro render lo visibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tutorials</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170909T234143Z" creationid="Karm46" creationdate="20170909T234143Z">
@@ -72126,6 +72222,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060227Z" creationid="will" creationdate="20230315T060227Z">
         <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro entrar nove terminos in iste glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to generate it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082211Z" creationid="Melo46" creationdate="20250305T082211Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro generar lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76508,6 +76612,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can make changes to the remote files (such as deleting or replacing them) by making your changes in this folder and using a Git or SVN client to synchronize them with the remote server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T083543Z" creationid="Melo46" creationdate="20250305T083543Z">
+        <seg>Tu pote facer cambiamentos al files remote (tal como deler o reimplaciar los) faciente tu cambiamentos in iste plica e usante un application Git o SVN pro synchronisar los con le servitor remote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T093519Z" creationid="Melo46" creationdate="20160805T093519Z">
@@ -80743,6 +80855,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>files_order.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082817Z" creationid="Melo46" creationdate="20250305T082817Z">
+        <seg>files_order.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>filters.xml</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T074252Z">
@@ -82367,6 +82487,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ignored_words.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082251Z" creationid="Melo46" creationdate="20250305T082251Z">
+        <seg>ignored_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ignored_words.txt.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T074240Z">
@@ -83229,6 +83357,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T100247Z">
         <seg>Lao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>last_entry.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082854Z" creationid="Melo46" creationdate="20250305T082854Z">
+        <seg>last_entry.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -85813,6 +85949,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T074236Z">
         <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats_match_per_file.txt</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T082220Z" creationid="Melo46" creationdate="20250305T082220Z">
+        <seg>project_stats_match_per_file.txt</seg>
       </tuv>
     </tu>
     <tu>
