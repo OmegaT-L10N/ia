@@ -33046,6 +33046,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have no doubt that a given TMX contains more accurate translations than the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, put that TMX in the &lt;f1&gt;tm/enforce&lt;/f1&gt; folder to overwrite the existing translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T085934Z" creationid="Melo46" creationdate="20250305T085934Z">
+        <seg>Si tu non ha alcun dubita que un date TMX contine traductiones plus correcte que le file &lt;f0&gt;project_save.tmx&lt;/f0&gt; actual, pone ille TMX in le plica &lt;f1&gt;tm/enforce&lt;/f1&gt; pro inconditionalmente superscriber le traductiones existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have not already done so, add the Developer tab to the ribbon as follows: click on the Office button.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T182046Z">
@@ -33226,6 +33234,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T215820Z" creationid="Karm46" creationdate="20171126T215820Z">
         <seg>Si tu prefere traducer ab un lingua differente in le qual OmegaT ha ja essite localisate, per favor continge le &lt;a2&gt;webmaster de OmegaT&lt;/a2&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you remove a TMX file from &lt;f0&gt;tm/auto&lt;/f0&gt; before Step 3, its content will not be kept.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T085020Z" creationid="Melo46" creationdate="20250305T085020Z">
+        <seg>Si tu remove un file TMX ab &lt;f0&gt;tm/auto&lt;/f0&gt; ante le Passo 3, su contento non sera retenite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39841,6 +39857,22 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T061136Z">
         <seg>Face un copia del file Vista Externe, e dele su contento de omne columnas salvo le columna del texto de origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T084530Z" creationid="Melo46" creationdate="20250305T084408Z">
+        <seg>Face un cambiamento minor ubique in le projecto e salva lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T090146Z" creationid="Melo46" creationdate="20250305T090146Z">
+        <seg>Face un modification minor ubique in le projecto e salva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49940,6 +49972,22 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T193438Z" creationid="will" creationdate="20220109T193438Z">
         <seg>Poner le TMX in &lt;f0&gt;/tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the applicable memories in the &lt;f0&gt;tm/auto&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T084320Z" creationid="Melo46" creationdate="20250305T084320Z">
+        <seg>Pone le memorias applicabile in le plica &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the applicable memories in the &lt;f0&gt;tm/enforce&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T090043Z" creationid="Melo46" creationdate="20250305T090043Z">
+        <seg>Pone le memorias applicabile in le plica &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66923,6 +66971,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder is made for reliable references files that are also meant to automatically overwrite previously translated contents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T085330Z" creationid="Melo46" creationdate="20250305T085330Z">
+        <seg>Iste plica es destinate al files de referentia fidabile que es alsi pensate pro automaticamente superscriber contentos previemente traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder provides the standard location for manually installed OmegaT extension plugins.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T074215Z" creationid="will" creationdate="20230301T074215Z">
@@ -68053,6 +68109,14 @@ delera tu datos local e re-discargara le contentos del projecto ab le servitor.<
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T073048Z">
         <seg>Isto in realitate face un checkout del projecto in un plica local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will add the translations loaded from the tm/auto folder to the project translation memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T084653Z" creationid="Melo46" creationdate="20250305T084653Z">
+        <seg>Isto addera le traductiones cargate del plica tm/auto al memoria de traduction del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70680,10 +70744,26 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translations coming from this folder are considered to be &lt;e0&gt;more&lt;/e0&gt; reliable than the current project memory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T085616Z" creationid="Melo46" creationdate="20250305T085616Z">
+        <seg>Le traductiones veniente de iste plica es considerate esser &lt;e0&gt;plus&lt;/e0&gt; fidabile que le actual memoria de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T233808Z" creationid="Melo46" creationdate="20250304T233808Z">
         <seg>Le traductiones de files TMX ubicate in iste plica es automaticamente inserite in segmentos concordante sin le automatic prefixo, rendente inutile confirmar iste segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the fuzzy match prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T085535Z" creationid="Melo46" creationdate="20250305T085535Z">
+        <seg>Le traductiones ab files TMX ubicate in iste plica es automaticamente inserite in le segmentos concordante sin le prefixo de concordantia partial, rendente inutile confirmar iste segmentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72236,8 +72316,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to highlight them.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250304T233955Z" creationid="Melo46" creationdate="20250304T233955Z">
-        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro evidentiar los.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T084418Z" creationid="Melo46" creationdate="20250304T233955Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro evidentiar los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72614,6 +72694,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T185223Z">
         <seg>Usa le macro pro nivellar le formato sol sur paragraphos con poc o nulle formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the inserted segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T084818Z" creationid="Melo46" creationdate="20250305T084818Z">
+        <seg>Usa le menus de navigation trovate in &lt;l0/&gt;&lt;l1/&gt; pro navigar al segmentos inserite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77535,6 +77623,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T122517Z" creationid="Melo46" creationdate="20200727T122517Z">
         <seg>Tu necessitara reinitiar OmegaT proque iste cambios ha effecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will see that segments identical to source segments in those memories are already filled in.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T084358Z" creationid="Melo46" creationdate="20250305T084358Z">
+        <seg>Tu videra que le segmentos identic al segmentos fonte in ille memorias es jam plenate.</seg>
       </tuv>
     </tu>
     <tu>
