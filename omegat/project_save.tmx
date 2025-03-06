@@ -4482,6 +4482,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/usr/bin/open|dict://{target}</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081235Z" creationid="Melo46" creationdate="20250306T081235Z">
+        <seg>/usr/bin/open|dict://{target}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130606T051450Z">
@@ -18924,6 +18932,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command example</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081230Z" creationid="Melo46" creationdate="20250306T081230Z">
+        <seg>exemplo de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command is missing command string</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171113T191013Z" creationid="Karm46" creationdate="20171113T191013Z">
@@ -18968,6 +18984,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T213304Z" creationid="Karm46" creationdate="20170929T213304Z">
         <seg>Commandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands are opened on the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T080816Z" creationid="Melo46" creationdate="20250306T080816Z">
+        <seg>Le commandos es aperite sur le linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39309,8 +39333,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Leave the segment empty</seg>
       </tuv>
-      <tuv lang="ia" changeid="MELO" changedate="20130210T100749Z">
-        <seg>&amp;Lassa le segmento vacue</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081744Z">
+        <seg>Lassar le segmento vacue</seg>
       </tuv>
     </tu>
     <tu>
@@ -45684,6 +45708,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T052825Z">
         <seg>OmegaT insere le traduction del linea maxime similabile al fonte actual, si il es supra le limine del similantia que tu ha seligite in iste fenestra de dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT inserts the translation with the highest match percentage above the value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081848Z" creationid="Melo46" creationdate="20250306T081848Z">
+        <seg>OmegaT insere le traduction con le maxime percentage de concordantia supra le valor que tu ha definite in iste fenestra de dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60598,6 +60630,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Delimiter&lt;/g0&gt;defines the delimiter between command parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T080937Z" creationid="Melo46" creationdate="20250306T080937Z">
+        <seg>Le &lt;g0&gt;Delimitator&lt;/g0&gt;defini le delimitator inter le parametros del commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; folder) in the Glossary pane.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T062103Z" creationid="Melo" creationdate="20151116T062103Z">
@@ -60738,6 +60778,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T085425Z" creationid="Melo46" creationdate="20250225T085425Z">
         <seg>Le character &lt;l0&gt;\&lt;/l0&gt; es un character multo special</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l1&gt;{target}&lt;/l1&gt; placeholder will be replaced by the string that was selected in the Editor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T080039Z" creationid="Melo46" creationdate="20250306T080039Z">
+        <seg>Le marca-loco &lt;l1&gt;{target}&lt;/l1&gt; sera supplantate per le stringa que era seligite in le Editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62278,6 +62326,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T160237Z">
         <seg>Le vias breve initial de OmegaT pro le Mac es alsi disponibile ex Sourceforge, illos usa omne "meta" in vice de "ctrl": &lt;u0&gt;Vias breve initial de OmegaT pro le Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default delimiter is &lt;c1&gt;|&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081006Z" creationid="Melo46" creationdate="20250306T081006Z">
+        <seg>Le delimitator predefinite es &lt;c1&gt;|&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64460,6 +64516,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T053100Z">
         <seg>Le prefixo (per arrangiamento initial vacue) pote esser usate pro etiquettar le traductiones, facite con concordantias partial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The prefix identifies translations inserted as fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081859Z" creationid="Melo46" creationdate="20250306T081859Z">
+        <seg>Le prefixo identifica traductiones inserite como concordantias partial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69038,6 +69102,22 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This opens a search for the {target} term on DuckDuckGo with a number of search parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T080755Z" creationid="Melo46" creationdate="20250306T080755Z">
+        <seg>Isto aperi un recerca pro le termino {target} sur DuckDuckGo con plure cercar parametros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This opens the dictionary application that implements the &lt;c0&gt;dict&lt;/c0&gt; protocol on your machine looking for the {target} term.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081630Z" creationid="Melo46" creationdate="20250306T081630Z">
+        <seg>Isto aperi le application dictionario que implementa le protocollo &lt;c0&gt;dict&lt;/c0&gt; sur tu machina recercante le termino {target}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T192403Z" creationid="Melo46" creationdate="20200726T192403Z">
@@ -72546,6 +72626,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL search example</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T080344Z" creationid="Melo46" creationdate="20250306T080344Z">
+        <seg>Exemplo de recerca de URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL searches as well as commands must contain the string &lt;l0&gt;{target}&lt;/l0&gt; to be accepted.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250306T075547Z" creationid="Melo46" creationdate="20250306T075547Z">
@@ -72582,6 +72670,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T095349Z" creationid="Karm46" creationdate="20171001T095349Z">
         <seg>URLs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URLs are opened with the default web browser, one per tab.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T080228Z" creationid="Melo46" creationdate="20250306T080228Z">
+        <seg>Le URLs es aperite con le navigator del web predefinite, un per scheda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74318,6 +74414,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T160902Z">
         <seg>Usa iste function quando tu ha levate, movite, o celate uno o plus componentes e tu non es habile a restaurar le disposition desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option temporarily for parts of the translation that do not require much transformation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081730Z" creationid="Melo46" creationdate="20250306T081730Z">
+        <seg>Usa iste option temporarimente pro partes del traduction que non require multe transformationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77827,6 +77931,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also register the prefix in the &lt;l0/&gt; preference to include it in the tag issues checking process and make sure you do not forget it in your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T082604Z" creationid="Melo46" creationdate="20250306T082604Z">
+        <seg>Tu alsi pote registrar le prefixo in le preferentias de &lt;l0/&gt; pro includer lo in le processo de verification del problemas de tags e verificar que tu non lo oblida in tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also run directly the application with the following command:</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T101457Z" creationid="Melo46" creationdate="20200728T105714Z">
@@ -78226,6 +78338,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T172724Z">
         <seg>Tu pote activar filtros de projecto specific via &lt;e0&gt;Projecto → Proprietates...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can enter your translation right away.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T081829Z" creationid="Melo46" creationdate="20250306T081829Z">
+        <seg>Tu pote inserer tu traduction immediatemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84035,6 +84155,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T072429Z" creationid="Melo46" creationdate="20210220T072429Z">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://duckduckgo.com/?q=%22{target}%22+site%3A.fr+-linguee</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T080347Z" creationid="Melo46" creationdate="20250306T080347Z">
+        <seg>https://duckduckgo.com/?q=%22{target}%22+site%3A.fr+-linguee</seg>
       </tuv>
     </tu>
     <tu>
