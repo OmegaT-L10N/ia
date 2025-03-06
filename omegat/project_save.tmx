@@ -11628,6 +11628,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A set must be given a name.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T073556Z" creationid="Melo46" creationdate="20250306T073556Z">
+        <seg>A cata insimul debe esser date un nomine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simple class consists of any number of characters enclosed by &lt;l0&gt;[&lt;/l0&gt; and &lt;l1&gt;]&lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250226T232102Z" creationid="Melo46" creationdate="20250226T232102Z">
@@ -24094,8 +24102,8 @@ propagate the contents of its contributor version.</seg>
       <tuv lang="en">
         <seg>Each set represents a group of web searches or local commands that are launched simultaneously.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250306T073242Z" creationid="Melo46" creationdate="20250306T073242Z">
-        <seg>Cata insimul representa un gruppo de recercas sur le web o commandos local que es lanceava simultaneemente.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T073436Z" creationid="Melo46" creationdate="20250306T073242Z">
+        <seg>Cata insimul representa un gruppo de recercas sur le web o commandos local que es lanceate simultaneemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33230,6 +33238,14 @@ not convey it at all.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T224701Z" creationid="Melo46" creationdate="20250301T224701Z">
         <seg>Si tu cambia le segmentation dum traduce, tu debera recargar le projecto proque le nove segmentation habera effecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you check &lt;g0&gt;Show in Editor context menu&lt;/g0&gt;, the set name will also be displayed in the &lt;l1&gt;context menu&lt;/l1&gt; if a string is selected.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T073919Z" creationid="Melo46" creationdate="20250306T073919Z">
+        <seg>Si tu marca &lt;g0&gt;Monstrar in le menu contextual del Editor&lt;/g0&gt;, le nomine del insimul essera alsi monstrate in le &lt;l1&gt;menu contextual&lt;/l1&gt; si un catena es seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64062,6 +64078,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T080151Z" creationid="Melo46" creationdate="20250223T080151Z">
         <seg>Le nomine plica del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name will be displayed at the bottom of the &lt;l0/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T073621Z" creationid="Melo46" creationdate="20250306T073621Z">
+        <seg>Le nomine sera monstrate al parte inferior del menu &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
