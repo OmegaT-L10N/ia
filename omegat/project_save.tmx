@@ -33244,8 +33244,8 @@ not convey it at all.</seg>
       <tuv lang="en">
         <seg>If you check &lt;g0&gt;Show in Editor context menu&lt;/g0&gt;, the set name will also be displayed in the &lt;l1&gt;context menu&lt;/l1&gt; if a string is selected.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250306T073919Z" creationid="Melo46" creationdate="20250306T073919Z">
-        <seg>Si tu marca &lt;g0&gt;Monstrar in le menu contextual del Editor&lt;/g0&gt;, le nomine del insimul essera alsi monstrate in le &lt;l1&gt;menu contextual&lt;/l1&gt; si un catena es seligite.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T074722Z" creationid="Melo46" creationdate="20250306T074722Z">
+        <seg>Si tu marca &lt;g0&gt;Monstrar in Menu contextual del editor&lt;/g0&gt;, le nomine del insimul sera alsi monstrate in le &lt;l1&gt;menu contextual&lt;/l1&gt; si un stringa es seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72542,6 +72542,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084302Z">
         <seg>URL del dictionarios online:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL searches as well as commands must contain the string &lt;l0&gt;{target}&lt;/l0&gt; to be accepted.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T075547Z" creationid="Melo46" creationdate="20250306T075547Z">
+        <seg>Le recercas per URL e le commandos debe continer le stringa &lt;l0&gt;{target}&lt;/l0&gt; pro esser acceptate.</seg>
       </tuv>
     </tu>
     <tu>
