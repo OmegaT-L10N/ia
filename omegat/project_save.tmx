@@ -19566,6 +19566,14 @@ passos additional debe esser prendite.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Context Menu Priority</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T232347Z" creationid="Melo46" creationdate="20250305T232347Z">
+        <seg>Prioritate del menu contextual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T122223Z" creationid="Karm46" creationdate="20171113T191924Z">
@@ -24080,6 +24088,14 @@ propagate the contents of its contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T063215Z" creationid="MELO46" creationdate="20140106T063215Z">
         <seg>Cata formato emittite ha manieras specific de tractar con le monstra RTL; controla le manuales del application pertinente pro le detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each set represents a group of web searches or local commands that are launched simultaneously.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250306T073242Z" creationid="Melo46" creationdate="20250306T073242Z">
+        <seg>Cata insimul representa un gruppo de recercas sur le web o commandos local que es lanceava simultaneemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39929,6 +39945,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T111413Z" creationid="Melo46" creationdate="20250305T111413Z">
         <seg>Regulas de segmentation local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local external search commands are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T232342Z" creationid="Melo46" creationdate="20250305T232342Z">
+        <seg>Le commandos de recerca externe local es salvate in le file &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69042,6 +69066,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T031553Z" creationid="Melo46" creationdate="20151116T031553Z">
         <seg>Iste option monstra le &lt;u0&gt;characteres de controlo bidirectional&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option enables you to change the order of the commands in the Editor pane &lt;l0&gt;context menu&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250305T232453Z" creationid="Melo46" creationdate="20250305T232453Z">
+        <seg>Iste option te pone in grado de cambiar le ordine del commandos in le &lt;l0&gt;menu contextual&lt;/l0&gt; del pannello del Editor.</seg>
       </tuv>
     </tu>
     <tu>
