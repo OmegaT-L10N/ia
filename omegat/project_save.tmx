@@ -70321,6 +70321,14 @@ delera tu datos local e re-discargara le contentos del projecto ab le servitor.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full, ready to launch distribution of OmegaT in the &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T121448Z" creationid="Melo46" creationdate="20250308T121448Z">
+        <seg>Isto creara un distribution de OmegaT plen, preste a lancear in le plica &lt;f0&gt;build/install/OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T080345Z" creationid="Melo46" creationdate="20200730T080345Z">
@@ -73036,6 +73044,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T224714Z">
         <seg>Le traductores es libere de affrontar le quantitate de labor que illes vole. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Troubleshoot issues</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T121851Z" creationid="Melo46" creationdate="20250308T121851Z">
+        <seg>Solver problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -78803,6 +78819,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also run the application directly with the following command:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T121625Z" creationid="Melo46" creationdate="20250308T121625Z">
+        <seg>Tu alsi pote lancear le application directemente con le sequente commando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250226T231104Z" creationid="Melo46" creationdate="20250226T231104Z">
@@ -79238,6 +79262,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T193333Z">
         <seg>Tu pote per exemplo lo usar pro seliger le lingua del interfacie de usator, pro assignar plus de memoria a OmegaT, o pro inserer le contrasigno de Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get a list of all available tasks by typing:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T121759Z" creationid="Melo46" creationdate="20250308T121759Z">
+        <seg>Tu pote installar un lista de tote le activitates disponibile typante:</seg>
       </tuv>
     </tu>
     <tu>
