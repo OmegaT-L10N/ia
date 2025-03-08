@@ -27417,6 +27417,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fix all tag issues found in your documents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165549Z" creationid="Melo46" creationdate="20250308T165549Z">
+        <seg>Corrige tote le problemas de tags trovate in tu documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T084337Z">
@@ -35574,6 +35582,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T201222Z">
         <seg>In alicun areas, qualque grado de coordination es necesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some cases, missing tags will keep the file from opening.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165421Z" creationid="Melo46" creationdate="20250308T165421Z">
+        <seg>In alcun casos, le tags mancante impedira al file de aperir se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48193,6 +48209,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the documents again in the original application.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165612Z" creationid="Melo46" creationdate="20250308T165612Z">
+        <seg>Aperi le documentos ancora in le application original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171129T123749Z">
@@ -48213,6 +48237,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095003Z">
         <seg>Aperi le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the project in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165431Z" creationid="Melo46" creationdate="20250308T165431Z">
+        <seg>Aperi le projecto in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68498,6 +68530,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will fix any internal tag consistency issues due to not inserting tags properly while entering the translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170046Z" creationid="Melo46" creationdate="20250308T170046Z">
+        <seg>Iste action corrige qualcunque problemas de coherentia interne de tag per non inserer le tags correctemente durante le traduction in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This action will open the project with the automatically created backup &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T140750Z" creationid="Melo46" creationdate="20250308T140553Z">
@@ -74922,6 +74962,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and focus on &lt;g2&gt;Tag issues&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165451Z" creationid="Melo46" creationdate="20250308T165451Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; e examina &lt;g2&gt;Problemas de tags&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T103635Z" creationid="Melo46" creationdate="20250308T103635Z">
@@ -75022,6 +75070,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T103914Z" creationid="Melo46" creationdate="20250305T103914Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro aperir le fenestra de dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to recreate the documents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165559Z" creationid="Melo46" creationdate="20250308T165559Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro recrear le documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76509,6 +76565,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T214042Z">
         <seg>Le versiones initial de &lt;a0&gt;OmegaT&lt;/a0&gt; esseva capabile de segmentar le Files fonte in paragraphos solmente e esseva inconsistente le numeration del tags de formattation in files HTML e Open Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very often, office suite files contain tags that must be copied into the translation to ensure that the translated file can be opened in the original application.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165311Z" creationid="Melo46" creationdate="20250308T165311Z">
+        <seg>Multo sovente, le files de suite de officio contine tags que debe esser copiate in le traduction pro permitter al file traducite de poter esser aperite in le application original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80827,6 +80891,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T140842Z" creationid="Melo46" creationdate="20250308T140842Z">
         <seg>Tu projecto non vole aperir se?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your translated file won’t open?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T165020Z" creationid="Melo46" creationdate="20250308T165020Z">
+        <seg>Tu file traducite non se aperi?</seg>
       </tuv>
     </tu>
     <tu>
