@@ -13824,6 +13824,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T113654Z" creationid="Melo46" creationdate="20250308T113654Z">
+        <seg>Ben que tu pote exequer OmegaT directemente ab le files disponibile, tu alsi pote exequer le script &lt;f0&gt;linux-install.sh&lt;/f0&gt; trovava illac pro haber OmegaT installate in positiones plus appropriate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140416T212252Z">
@@ -20107,6 +20115,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T114557Z" creationid="Melo46" creationdate="20250308T114557Z">
+        <seg>Copia le plica a un position convenibile (p. ex. &lt;f3&gt;Applicationes&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T221047Z">
@@ -22276,6 +22292,14 @@ Nove version: {2}</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170909T235234Z" creationid="Karm46" creationdate="20170909T235234Z">
         <seg>Instructiones detaliate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detailed instructions on building OmegaT can be found in the &lt;u0&gt;README.txt&lt;/u0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T115423Z" creationid="Melo46" creationdate="20250308T115423Z">
+        <seg>Instructiones detaliate re como compilar OmegaT pote esser trovate in le file &lt;u0&gt;README.txt&lt;/u0&gt; ubicate in le sub-plica &lt;f1&gt;docs_devel&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32356,6 +32380,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If so desired, drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock for easier access.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T114651Z" creationid="Melo46" creationdate="20250308T114651Z">
+        <seg>Si assi desirate, trahe e depone &lt;f0&gt;OmegaT.app&lt;/f0&gt; in le Bassino pro un accesso plus facile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If so, this makes installation much easier.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T094207Z">
@@ -32930,6 +32962,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T130213Z" creationid="Melo46" creationdate="20250220T130213Z">
         <seg>Si il non ha un, illo installa le programma in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; e lo configura como le version predefinite (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.1.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T114252Z" creationid="Melo46" creationdate="20250308T114252Z">
+        <seg>Si il non ha un, illo installa le programma in &lt;f1&gt;/optar/omegat/OmegaT_6.1.0&lt;/f1&gt; e lo configura como le version predefinite (in &lt;f2&gt;/optar/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47339,8 +47379,8 @@ tu plica principal.</seg>
       <tuv lang="en">
         <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250225T021749Z" creationid="Melo46" creationdate="20250225T021749Z">
-        <seg>Un vice que tu ha facite isto, tu poter dele le pacchetto discargate perque illo non es plus necessari.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T114711Z" creationid="Melo46" creationdate="20250225T021749Z">
+        <seg>Un vice que tu ha facite isto, tu pote deler le pacchetto discargate perque illo non es plus necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53481,6 +53521,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T125817Z" creationid="Melo46" creationdate="20250220T125817Z">
         <seg>Face functionar le script requirera que tu insere tu contrasigno de &lt;c0&gt;sudo&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T113907Z" creationid="Melo46" creationdate="20250308T113907Z">
+        <seg>Lancear le script requirera que tu insere tu contrasigno &lt;f0&gt;sudo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62269,6 +62317,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T115138Z" creationid="Melo46" creationdate="20250308T115138Z">
+        <seg>Le modificationes inter tu version e le version actual es documentate in le file &lt;u0&gt;changes.txt&lt;/u0&gt; del sito de disveloppamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T122129Z">
@@ -63398,6 +63454,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T072641Z">
         <seg>Le plica contine 2 files: index.html e &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copia le plica in un plica convenibile (e.g. Applicationes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T114519Z" creationid="Melo46" creationdate="20250308T114519Z">
+        <seg>Le plica contine duo files: &lt;f1&gt;index.html&lt;/f1&gt; (le file del entratas del manual del usator) e &lt;f2&gt;OmegaT.app&lt;/f2&gt; (le application).</seg>
       </tuv>
     </tu>
     <tu>
@@ -69037,8 +69101,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250225T023657Z" creationid="Melo46" creationdate="20250225T023657Z">
-        <seg>Iste informationes se applica a qualcunque systema pro un version de Java compatibile con le ambiente Java 11 runtime es disponibile.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T114930Z" creationid="Melo46" creationdate="20250225T023657Z">
+        <seg>Iste informationes se applica a qualcunque systema pro le qual es disponibile un version  de Java compatibile con le ambiente Java 11 runtime.</seg>
       </tuv>
     </tu>
     <tu>
