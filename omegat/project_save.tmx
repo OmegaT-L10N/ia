@@ -20090,6 +20090,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy &lt;e0&gt;one&lt;/e0&gt; of the old files into the new configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233216Z" creationid="Melo46" creationdate="20250308T233216Z">
+        <seg>Copiar &lt;e0&gt;un&lt;/e0&gt; del vetere files in le nove plica de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
 2.</seg>
       </tuv>
@@ -29987,6 +29995,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go back to Step 5.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233533Z" creationid="Melo46" creationdate="20250308T233508Z">
+        <seg>Retorna a Passo 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T132836Z">
@@ -31709,6 +31725,22 @@ non necessita inserer le percurso integral.)</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T170901Z" creationid="will" creationdate="20230228T170901Z">
         <seg>Si OmegaT se comporta de un maniera erratic, include iste file o le parte pertinente de illo in tu reporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, feel free to reach out for support.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233202Z" creationid="Melo46" creationdate="20250308T233202Z">
+        <seg>Si OmegaT non functiona como expectate a iste puncto, senti te libere de demandar assistentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, you have identified the faulty file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233423Z" creationid="Melo46" creationdate="20250308T233423Z">
+        <seg>Si OmegaT non functiona como expectate a iste puncto, tu haber identificate le file defectuose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52300,6 +52332,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regularly practice “emergency measures” such as restoring translations from a project to make sure you won’t lose too much time the day you need to use those skills.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T234009Z" creationid="Melo46" creationdate="20250308T234009Z">
+        <seg>Regularmente practica “mesuras de emergentia” tal como restauration de traductiones ab un projecto pro esser secur que tu non perde troppo tempore le die que tu debe usar ille competentias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reinstall the {0} plugin?</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T225118Z" creationid="Melo46" creationdate="20250222T225118Z">
@@ -52680,6 +52720,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140630T215856Z" creationid="MELO46" creationdate="20140630T215856Z">
         <seg>Remove le fragmentos definite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove it from the configuration folder and, restart OmegaT, and proceed with your work.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233500Z" creationid="Melo46" creationdate="20250308T233500Z">
+        <seg>Remove lo ab le plica de configuration e, relancea OmegaT, e continua con tu labor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71226,6 +71274,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid losing important data, make regular copies of the &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; file to a backup medium such as a USB key, an external hard drive, or a cloud service.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233842Z" creationid="Melo46" creationdate="20250308T233842Z">
+        <seg>Pro evitar de perder datos importante, face copias regular del file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; in un medio de salveguarda tal como un clave USB, un disco dur externe, o un servicio nube.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid losing important data:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T080028Z">
@@ -81637,6 +81693,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T230814Z" creationid="Melo46" creationdate="20250222T230814Z">
         <seg>abortate."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>above and continue until you are satisfied.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233519Z" creationid="Melo46" creationdate="20250308T233519Z">
+        <seg>supra e continua usque tu es satisfacite.</seg>
       </tuv>
     </tu>
     <tu>
