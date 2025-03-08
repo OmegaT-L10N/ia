@@ -15526,6 +15526,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic backups</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T132727Z" creationid="Melo46" creationdate="20250308T132727Z">
+        <seg>Copias de reserva automatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T175737Z">
@@ -25743,6 +25751,22 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T095949Z" creationid="Melo46" creationdate="20250305T095949Z">
         <seg>Cata vice que un projecto es cargate, OmegaT crea un salveguarda de &lt;f0&gt;project_save.tmx&lt;/f0&gt; con le nomine &lt;f1&gt;project_save.tmx.[data e hora].bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file is modified:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133734Z" creationid="Melo46" creationdate="20250308T133734Z">
+        <seg>Cata vice que le &lt;f0&gt;project_save.tmx&lt;/f0&gt; file es modificate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you save the project data (use &lt;l0/&gt;&lt;l1/&gt;), or when making a regular backup, OmegaT saves the current state of the translation into &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134002Z" creationid="Melo46" creationdate="20250308T134002Z">
+        <seg>Cata vice que tu salva le datos de projecto (usar &lt;l0/&gt;&lt;l1/&gt;), o faciente un salveguarda regular, OmegaT salva le stato actual del traduction in &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45472,6 +45496,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also creates regular backups of that file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133221Z" creationid="Melo46" creationdate="20250308T133221Z">
+        <seg>OmegaT alsi crea copias de salveguarda regular de ille file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220122T152718Z" creationid="will" creationdate="20220122T152718Z">
@@ -45668,6 +45700,22 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220107T181821Z" creationid="will" creationdate="20220107T181821Z">
         <seg>OmegaT contine le Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT creates a backup file named &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133907Z" creationid="Melo46" creationdate="20250308T133907Z">
+        <seg>OmegaT crea le copia de reserva nominate &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problem.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T132822Z" creationid="Melo46" creationdate="20250308T132822Z">
+        <seg>OmegaT crea copias de reserva de tu parametros del projecto pro assecurar que illo pote recuperar los in caso de problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46107,6 +46155,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a robust and trustworthy application, but even so, it is smart to take precautions to guard against data loss when using it, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T132637Z" creationid="Melo46" creationdate="20250308T132637Z">
+        <seg>OmegaT es un application robuste e digne de fide, ma mesmo assi, il es intelligente prender precautiones pro guardar se contra perdita de datos usante lo, justo quando con ulle altere application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a robust application.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220107T094906Z" creationid="will" creationdate="20220107T094906Z">
@@ -46351,6 +46407,14 @@ a esser lanceate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT keeps up to ten of those files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133505Z" creationid="Melo46" creationdate="20250308T133505Z">
+        <seg>OmegaT mantene usque dece de ille files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T161103Z">
@@ -46515,6 +46579,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T042949Z">
         <seg>OmegaT recognosce le codices lingua usante le duo conventiones standard sequente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;l0/&gt; file located in the project’s &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133039Z" creationid="Melo46" creationdate="20250308T133039Z">
+        <seg>OmegaT regularmente e automaticamente registra tote tu progresso in le file &lt;l0/&gt; ubicate in le plica &lt;l1/&gt; del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60625,6 +60697,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That file is a copy of &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;before&lt;/e1&gt; it was modified.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133924Z" creationid="Melo46" creationdate="20250308T133924Z">
+        <seg>Ille file es un copia de &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;ante&lt;/e1&gt; que illo era modificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T125124Z" creationid="Melo46" creationdate="20250220T125124Z">
@@ -62241,6 +62321,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T091413Z" creationid="Melo46" creationdate="20151119T091413Z">
         <seg>Quando le segmento es lassate le fundo es restaurate a normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The backup filename follows the pattern &lt;f0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0&gt; where &lt;c1&gt;YYYY&lt;/c1&gt; represents the 4-digit year, &lt;c2&gt;MM&lt;/c2&gt; the month, &lt;c3&gt;DD&lt;/c3&gt; the day of the month, and &lt;c4&gt;hh&lt;/c4&gt; and &lt;c5&gt;mm&lt;/c5&gt; indicate the hours and minutes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133726Z" creationid="Melo46" creationdate="20250308T133726Z">
+        <seg>Le nomine del file de salveguarda seque le modello &lt;f0&gt;project_save.tmx.AAAAMMDDhhmm.bak&lt;/f0&gt; ubi &lt;c1&gt;AAAA&lt;/c1&gt; representa le anno in 4 cifras, &lt;c2&gt;MM&lt;/c2&gt; le mense, &lt;c3&gt;DD&lt;/c3&gt; le die del mense, e &lt;c4&gt;hh&lt;/c4&gt; e &lt;c5&gt;mm&lt;/c5&gt; indica horas e minutas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77269,6 +77357,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you open a project, OmegaT backs up the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file to a timestamped backup file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133445Z" creationid="Melo46" creationdate="20250308T133445Z">
+        <seg>Quando tu aperi un projecto, OmegaT preserva le file &lt;f0&gt;project_save.tmx&lt;/f0&gt; a in un file de salveguarda con data e hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you release the right click, a dialog opens with a number of options.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T223154Z">
@@ -83657,6 +83753,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>either after saving the project data (use &lt;l0/&gt;&lt;l1/&gt;),</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133757Z" creationid="Melo46" creationdate="20250308T133757Z">
+        <seg>post le salvamento del datos de projecto (usar &lt;l0/&gt;&lt;l1/&gt;),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>el</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132402Z">
@@ -88415,6 +88519,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T104914Z" creationid="Melo46" creationdate="20200728T104914Z">
         <seg>o aperi le projecto per le linea de commando con le option &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or when making a regular backup (every 3 minutes by default),</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T133855Z" creationid="Melo46" creationdate="20250308T133855Z">
+        <seg>o faciente un salveguarda regular (cata 3 minutas de ordinario),</seg>
       </tuv>
     </tu>
     <tu>
