@@ -11820,6 +11820,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A “level 1” TMX removes all tag information and contains only textual data.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112820Z" creationid="Melo46" creationdate="20250308T112820Z">
+        <seg>Un TMX “nivello 1” remove tote le informationes de tags e contine solo datos textual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A “level 2” TMX contains textual data along with tags encapsulated in a form compatible with other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112843Z" creationid="Melo46" creationdate="20250308T112843Z">
+        <seg>Un TMX “nivello 2” contine datos textual insimul con tags incapsulate in un forma compatibile con altere applicationes CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093619Z">
@@ -14266,6 +14282,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072645Z">
         <seg>Un file xml con tote le configurationes del option accessibile per Interfacie Graphic del Usator (Graphical User Interface - GUI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An “OmegaT” TMX contains the tags created by OmegaT in a form that can only be used properly by an OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112712Z" creationid="Melo46" creationdate="20250308T112712Z">
+        <seg>Un TMX “OmegaT” contine le tags create per OmegaT in un forma que pote solo esser usate correctemente per un projecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22388,6 +22412,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T111900Z" creationid="Melo46" creationdate="20250308T111900Z">
+        <seg>Plica de dictionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries folder:</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T171047Z" creationid="will" creationdate="20230324T171047Z">
@@ -23904,6 +23936,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151014T232841Z" creationid="Melo" creationdate="20151014T232841Z">
         <seg>Face cader le files glossario ci pro adder los al projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 11 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T113149Z" creationid="Melo46" creationdate="20250308T113149Z">
+        <seg>Per considerationes re licentia, le equipa OmegaT recommenda le Eclipse Temurin Java runtime fornite per le Adoptium Project de Eclipse Foundation, ma qualcunque ambiente compatibile con Java 11 runtime deberea functionar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26078,6 +26118,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exported translation memories folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112427Z" creationid="Melo46" creationdate="20250308T112427Z">
+        <seg>Plica de exportation memoria de traduction exportate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exports the current selection or the current source, if no text has been selected.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T211037Z">
@@ -26949,6 +26997,14 @@ Alcun attributos ha valores non valide.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T104534Z" creationid="Melo46" creationdate="20200728T104534Z">
         <seg>Files debe esser delite primo per le gestor de projecto e pois localmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files that are not supported by OmegaT’s file filters are copied without modification.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112314Z" creationid="Melo46" creationdate="20250308T112314Z">
+        <seg>Le files que non es supportate per le filtros de files de OmegaT es copiate sin modification.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43321,6 +43377,14 @@ position appropriate como le plica Applicationes.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Newly added entries are automatically recognized and displayed if they match terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T111612Z" creationid="Melo46" creationdate="20250308T111612Z">
+        <seg>Le entratas a pena addite es automaticamente recognoscite e monstrate si illos concorda con terminos in le segmento actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will be immediately recognized.</seg>
       </tuv>
       <tuv lang="ia" changeid="m" changedate="20210529T120231Z" creationid="m" creationdate="20210529T120231Z">
@@ -46588,6 +46652,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T104503Z" creationid="Melo46" creationdate="20250308T104503Z">
         <seg>OmegaT tenta leger tote le files subito, e monstra in le editor le contentos traducibile que illo trova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and matches their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T111938Z" creationid="Melo46" creationdate="20250308T111938Z">
+        <seg>OmegaT tenta leger tote le files subito, e concorda con lor contentos al segmento que tu traduce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54667,6 +54739,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T113255Z" creationid="Melo46" creationdate="20250308T113255Z">
+        <seg>Vider le projecto &lt;u0&gt;Eclipse Temurin™&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T145422Z" creationid="MELO46" creationdate="20140109T090038Z">
@@ -55067,6 +55147,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112938Z" creationid="Melo46" creationdate="20250308T112938Z">
+        <seg>Vider le &lt;u0&gt;specification TMX 1.4b&lt;/u0&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T064633Z">
@@ -55296,6 +55384,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T185308Z" creationid="Melo46" creationdate="20250301T185308Z">
         <seg>Le segmentos es de ordinario &lt;e0&gt;paragraphos&lt;/e0&gt; definite per le mesme formato del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments that have been translated are replaced by their translation and untranslated segments remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112048Z" creationid="Melo46" creationdate="20250308T112048Z">
+        <seg>Segmentos que ha essite traducite es supplantate per lor traduction e segmentos non traducite resta in le lingua fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59322,8 +59418,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>TMX Level 1</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230324T171455Z" creationid="will" creationdate="20230324T171455Z">
-        <seg>TMX nivello 1</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112723Z" creationid="will" creationdate="20230324T171455Z">
+        <seg>Le TMX nivello 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -61781,6 +61877,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files contain only the segments from the files currently stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112513Z" creationid="Melo46" creationdate="20250308T112513Z">
+        <seg>Le files TMX contine solo le segmentos del files actualmente immagazinate in le plica &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T131802Z" creationid="Melo46" creationdate="20250219T131802Z">
@@ -63298,6 +63402,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder structure mirrors that of the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112213Z" creationid="Melo46" creationdate="20250308T112213Z">
+        <seg>Le structura de plicas reflecte illo del plica &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where OmegaT will install and search for spelling dictionaries.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T230124Z" creationid="Melo46" creationdate="20250305T230124Z">
@@ -63846,6 +63958,14 @@ in le area de lanceamento celere.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T124822Z" creationid="Melo46" creationdate="20250220T124822Z">
         <seg>Le instructiones date ci se applica a personas qui discarga le pacchetto ab le sito &lt;a0&gt;https://omegat.org&lt;/a0&gt; e lo installa manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T113353Z" creationid="Melo46" creationdate="20250308T113353Z">
+        <seg>Le instructiones date ci se applica a personas qui discarga le pacchetto ab le sito &lt;u0&gt;https://omegat.org&lt;/u0&gt; e lo installa manualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66295,6 +66415,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files are the translated versions of the files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112027Z" creationid="Melo46" creationdate="20250308T112027Z">
+        <seg>Le files traducite es le versiones traducite del files ubicate in le plica &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files folder does not exist!</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230331T083405Z" creationid="will" creationdate="20230331T083405Z">
@@ -68170,6 +68298,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This checkbox lets you choose the formats in which you want OmegaT to create the above TMX files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112637Z" creationid="Melo46" creationdate="20250308T112637Z">
+        <seg>Iste quadrato de selection te permitte de seliger le formatos in le qual tu vole que OmegaT crea le files TMX ci-supra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This code/procedure combination has not yet been thoroughly tested (though initial reports are promising).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T074735Z">
@@ -68610,6 +68746,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is &lt;e0&gt;always&lt;/e0&gt; located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T111632Z" creationid="Melo46" creationdate="20250308T111632Z">
+        <seg>Iste file es &lt;e0&gt;sempre&lt;/e0&gt; ubicate in le plica &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; and is automatically recreated every time &lt;f1&gt;project_save.tmx&lt;/f1&gt; has been modified: either after using &lt;l2/&gt;&lt;l3/&gt;, or as a regular backup every 3 minutes by default.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T101024Z" creationid="Melo46" creationdate="20250305T101024Z">
@@ -68703,6 +68847,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T104337Z" creationid="Melo46" creationdate="20250308T104337Z">
         <seg>Iste plica contine le files que tu vole traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference dictionaries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T111913Z" creationid="Melo46" creationdate="20250308T111913Z">
+        <seg>Iste plica contine le files que tu vole usar como dictionarios de referentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69154,6 +69306,22 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130526T072700Z">
         <seg>Le dictionarios orthographic essera ubicate in iste plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT copies the current state of the translation in the form of TMX files when you create the translated files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112436Z" creationid="Melo46" creationdate="20250308T112436Z">
+        <seg>Isto es le plica ubi OmegaT copia le stato actual del traduction in forma de files TMX quando tu crea le files traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT creates the translated files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T111951Z" creationid="Melo46" creationdate="20250308T111951Z">
+        <seg>Isto es le plica ubi OmegaT crea le files traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72352,6 +72520,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T111946Z" creationid="Melo46" creationdate="20250308T111946Z">
+        <seg>Plica del files traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224229Z">
@@ -72548,6 +72724,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T074404Z">
         <seg>Le memorias de traduction pote alsi continer traductiones de referentia: legislation multinational, assi como celle del Communitate Europee, es un exemplo typic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112559Z" creationid="Melo46" creationdate="20250308T112559Z">
+        <seg>Memorias de traduction a exportar</seg>
       </tuv>
     </tu>
     <tu>
@@ -74222,6 +74406,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T185947Z" creationid="will" creationdate="20220110T185947Z">
         <seg>Usa &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; pro aperir e &lt;k3&gt;Esc&lt;/k3&gt; pro clauder lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files and the exported TMX files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112555Z" creationid="Melo46" creationdate="20250308T112555Z">
+        <seg>Usa &lt;l0/&gt; o &lt;l1/&gt; pro crear le files traducite e le files TMX exportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112328Z" creationid="Melo46" creationdate="20250308T112328Z">
+        <seg>Usa &lt;l0/&gt; o &lt;l1/&gt; pro crear le files traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78302,6 +78502,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T124405Z" creationid="Melo46" creationdate="20250220T124405Z">
         <seg>Tu alsi pote cambiar lo plus tarde editante &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also change this later by editing the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T113321Z" creationid="Melo46" creationdate="20250308T113321Z">
+        <seg>Tu alsi pote cambiar lo plus tarde editante le file &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85005,6 +85213,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T175641Z" creationid="Melo46" creationdate="20250305T175641Z">
         <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T112846Z" creationid="Melo46" creationdate="20250308T112846Z">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
     </tu>
     <tu>
