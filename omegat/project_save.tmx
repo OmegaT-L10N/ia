@@ -20115,6 +20115,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy it to the &lt;f0&gt;omegat/&lt;/f0&gt; folder of your new project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141449Z" creationid="Melo46" creationdate="20250308T141449Z">
+        <seg>Copia lo al plica &lt;f0&gt;omegat/&lt;/f0&gt; de tu nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T125040Z" creationid="Melo46" creationdate="20200730T125040Z">
@@ -20127,6 +20135,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T171538Z" creationid="will" creationdate="20220109T171538Z">
         <seg>Copia le URL del pagina (finiente con &lt;g0&gt;action=edit&lt;/g0&gt;) e colla lo in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the contents of the various user folders to the equivalent location in the new project (source files, reference translation memory files, glossary files).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141323Z" creationid="Melo46" creationdate="20250308T141323Z">
+        <seg>Copia le contentos del varie plicas de usator al position equivalente in le nove projecto (files fonte, files memoria de traduction de referentia, files glossario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20727,6 +20743,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T161020Z">
         <seg>Crear un nove projecto sur ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new project with the same settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141133Z" creationid="Melo46" creationdate="20250308T141133Z">
+        <seg>Crear un nove projecto con le mesme parametros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31527,6 +31551,14 @@ SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Identify the project folder that OmegaT refuses to open and open it in your file manager.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140301Z" creationid="Melo46" creationdate="20250308T140301Z">
+        <seg>Identifica le plica de projecto que OmegaT refusa de aperir e aperi lo in tu gestor de files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T132418Z">
@@ -35802,6 +35834,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the folder, you should find a &lt;f0&gt;omegat.project&lt;/f0&gt; file as well as a &lt;f1&gt;omegat.project.bak&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140509Z" creationid="Melo46" creationdate="20250308T140509Z">
+        <seg>In le plica, tu debe trovar un file &lt;f0&gt;omegat.project&lt;/f0&gt; file e un file &lt;f1&gt;omegat.project.bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T142530Z">
@@ -35864,10 +35904,34 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the old project, select the translation memory file (main or backup) most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141419Z" creationid="Melo46" creationdate="20250308T141419Z">
+        <seg>In le vetere projecto, selige le file memoria de traduction (principal o salveguarda) pro multo probabilemente continer le datos que tu cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T093420Z">
         <seg>In le modo quiete, minus informationes son displicate sur le schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, some important files can be corrupted and keep your project from reopening after you reboot your system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141107Z" creationid="Melo46" creationdate="20250308T141107Z">
+        <seg>In le rar caso ubi tu computator se gela e OmegaT non ha tempore pro clauder se correctemente, alcun files importante pote esser corrumpite e impedir que tu projecto se reaperi post que tu re-initia tu systema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, the &lt;f0&gt;omegat.project&lt;/f0&gt; file can be locked by the operating system and keep you from reopening after you reboot your system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140245Z" creationid="Melo46" creationdate="20250308T140245Z">
+        <seg>In le rar caso ubi tu computator se gela e OmegaT non ha tempore pro clauder correctemente, le file &lt;f0&gt;omegat.project&lt;/f0&gt; pote esser blocate per le systema operative e impedir te de reaperir lo post que tu re-initia tu systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41049,6 +41113,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T093940Z" creationid="Melo46" creationdate="20250219T093940Z">
         <seg>Verifica que tote le ligamines es foras del plica e subplicas fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that the files are identical.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140512Z" creationid="Melo46" creationdate="20250308T140512Z">
+        <seg>Verifica que le files es identic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48129,6 +48201,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the new project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141457Z" creationid="Melo46" creationdate="20250308T141457Z">
+        <seg>Aperi le nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095003Z">
@@ -48139,8 +48219,8 @@ tu plica principal.</seg>
       <tuv lang="en">
         <seg>Open the project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200726T203519Z" creationid="Melo46" creationdate="20160809T002159Z">
-        <seg>Aperir le projecto</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140558Z" creationid="Melo46" creationdate="20160809T002159Z">
+        <seg>Aperi le projecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -52668,10 +52748,34 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt; if necessary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141433Z" creationid="Melo46" creationdate="20250308T141433Z">
+        <seg>Renomina lo &lt;f0&gt;project_save.tmx&lt;/f0&gt; si necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T134931Z" creationid="Melo46" creationdate="20250308T134931Z">
         <seg>Renomina lo in &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the &lt;f0&gt;omegat.project.bak&lt;/f0&gt; file to &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140545Z" creationid="Melo46" creationdate="20250308T140545Z">
+        <seg>Renomina le file &lt;f0&gt;omegat.project.bak&lt;/f0&gt; a &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the &lt;f0&gt;omegat.project&lt;/f0&gt; file (to &lt;f1&gt;omegat.project.locked&lt;/f1&gt; for example).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140531Z" creationid="Melo46" creationdate="20250308T140531Z">
+        <seg>Renomina le file &lt;f0&gt;omegat.project&lt;/f0&gt; (a &lt;f1&gt;omegat.project.locked&lt;/f1&gt; per exemplo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -63714,6 +63818,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contents should be similar to a standard &lt;l0&gt;project&lt;/l0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140435Z" creationid="Melo46" creationdate="20250308T140435Z">
+        <seg>Le contentos del plica deberea esser como un plica &lt;l0&gt;project&lt;/l0&gt; standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder structure mirrors that of the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T112213Z" creationid="Melo46" creationdate="20250308T112213Z">
@@ -68386,10 +68498,26 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will open the project with the automatically created backup &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140750Z" creationid="Melo46" creationdate="20250308T140553Z">
+        <seg>Iste action aperira le projecto con le copia de salveguarda &lt;f0&gt;omegat.project&lt;/f0&gt; create automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This action will restore your translation to its state at the point the selected backup was created.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T135126Z" creationid="Melo46" creationdate="20250308T135126Z">
         <seg>Iste action restaurara tu traduction a su stato al puncto cuje ha essite create le copia de salveguarda seligite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will set the new project the state of your translation at the point the selected project translation memory was created in the old project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T141625Z" creationid="Melo46" creationdate="20250308T141625Z">
+        <seg>Iste action stabilira le nove projecto in le stato de tu traduction al puncto que le memoria de traduction seligite del projecto ha essite create in le vetere projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80683,6 +80811,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230317T080905Z" creationid="will" creationdate="20230317T080905Z">
         <seg>Il sembla que tu projecto non contine files traducibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project is locked?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140026Z" creationid="Melo46" creationdate="20250308T140026Z">
+        <seg>Tu projecto es blocate?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project won’t open?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140842Z" creationid="Melo46" creationdate="20250308T140842Z">
+        <seg>Tu projecto non vole aperir se?</seg>
       </tuv>
     </tu>
     <tu>
