@@ -18888,6 +18888,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170441Z" creationid="Melo46" creationdate="20250308T170441Z">
+        <seg>Clauder OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094534Z">
@@ -33618,6 +33626,14 @@ not convey it at all.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can’t use OmegaT’s menus, see the &lt;l0/&gt; chapter to find the configuration folder location.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170436Z" creationid="Melo46" creationdate="20250308T170436Z">
+        <seg>Si tu non pote usar le menu de OmegaT, vider le capitulo &lt;l0/&gt; pro trovar le position del plica de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T215406Z">
@@ -41053,6 +41069,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make a backup of the contents and delete the original folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170521Z" creationid="Melo46" creationdate="20250308T170521Z">
+        <seg>Face un copia de salveguarda del contentos e dele le plica original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make a copy of the External View file, and delete from it the content of all columns except the source-text column.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T061136Z">
@@ -47187,6 +47211,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T073801Z">
         <seg>OmegaT essera habitualmente exequite sur omne le systema Linux sur le qual pote esser installate un convenibile version del Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT won’t behave?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170142Z" creationid="Melo46" creationdate="20250308T170142Z">
+        <seg>OmegaT non se comporta correctemente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -53381,6 +53413,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T233118Z" creationid="Melo46" creationdate="20250308T233118Z">
+        <seg>Reinitia OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T080130Z">
@@ -57952,6 +57992,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T160006Z">
         <seg>Alicun typos de Files fonte (per exemplo PO, TTX, etc.) son bilingue, id es illos serve ambe como un fonte e como un memoria de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Something has happened and OmegaT won’t behave anymore.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170207Z" creationid="Melo46" creationdate="20250308T170207Z">
+        <seg>Alco ha evenite e OmegaT non se comporta plus correctemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75002,6 +75050,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170334Z" creationid="Melo46" creationdate="20250308T170334Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder al plica de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the global segmentation rules.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T110253Z" creationid="Melo46" creationdate="20250305T110253Z">
@@ -77031,6 +77087,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T151415Z">
         <seg>Qual que sia le contradictiones, le omissiones e le candide errores que tu pote trovar in le actual version, io proclama illes omne, mi proprie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whatever you try, you can’t seem to be able to fix it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170256Z" creationid="Melo46" creationdate="20250308T170256Z">
+        <seg>Qualcunque cosa tu tenta, non pare que tu pote pare corriger lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80711,6 +80775,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T102925Z">
         <seg>Tu rende tu files movente te de segmento in segmento, modificante cata segmento currente a tornos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You want to try one last thing before calling for help: restart OmegaT with its default settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T170324Z" creationid="Melo46" creationdate="20250308T170324Z">
+        <seg>Tu tentara un ultime cosa ante vocar pro adjuta: reinitia OmegaT con su parametros predefinite.</seg>
       </tuv>
     </tu>
     <tu>
