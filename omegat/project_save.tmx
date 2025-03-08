@@ -7020,6 +7020,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; comes with an &lt;f1&gt;OmegaT&lt;/f1&gt; executable located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; that you can also use to launch multiple instances of &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235120Z" creationid="Melo46" creationdate="20250308T235120Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; veni con un executabile de &lt;f1&gt;OmegaT&lt;/f1&gt; ubicate in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; que tu alsi pote usar pro lancear plure instantias de &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T172453Z">
@@ -14342,6 +14350,14 @@ to receive a copy likewise does not require acceptance.</seg>
         <seg>Ancillary propagation of a covered work
 occurring solely as a consequence of using peer-to-peer transmission
 to receive a copy likewise does not require acceptance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And it also comes with the generic &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; that you can use to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235228Z" creationid="Melo46" creationdate="20250308T235228Z">
+        <seg>E illo alsi veni con le file generic &lt;f0&gt;OmegaT.jar&lt;/f0&gt; ubicate in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;&lt;/f1&gt; que tu pote usar pro lancear OmegaT ab linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27969,6 +27985,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235831Z" creationid="Melo46" creationdate="20250308T235831Z">
+        <seg>Per exemplo, &lt;l1&gt;user.language=ja&lt;/l1&gt; (sin le &lt;l2&gt;#&lt;/l2&gt;) sera lanceate OmegaT con le interface de usator in japonese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T083019Z" creationid="Melo46" creationdate="20200730T083019Z">
@@ -28493,6 +28517,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T082940Z" creationid="Melo46" creationdate="20200730T082940Z">
         <seg>Pro le optiones predefinite, remove le &lt;l1&gt;#&lt;/l1&gt; ante un parametro pro activar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For predefined options, remove the &lt;l0&gt;#&lt;/l0&gt; symbol before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235814Z" creationid="Melo46" creationdate="20250308T235814Z">
+        <seg>Pro optiones predefinite, remover le symbolo &lt;l0&gt;#&lt;/l0&gt; ante un parametro pro activar lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37730,6 +37762,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T074322Z" creationid="will" creationdate="20230301T074322Z">
         <seg>Il es alsi possibile a installar plugins in le &lt;l0/&gt; plica de application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; itself to launch OmegaT from the terminal.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235652Z" creationid="Melo46" creationdate="20250308T235652Z">
+        <seg>Il es alsi possibile usar &lt;f0&gt;OmegaT.app&lt;/f0&gt; mesme pro lancear OmegaT ab le terminal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53871,8 +53911,8 @@ Iste parolas: 'Pagina non trovate'</seg>
       <tuv lang="en">
         <seg>Run OmegaT</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250224T220440Z" creationid="Melo46" creationdate="20250224T220440Z">
-        <seg>Exeque OmegaT</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T234024Z" creationid="Melo46" creationdate="20250224T220440Z">
+        <seg>Exequer OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -55571,6 +55611,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section below for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235703Z" creationid="Melo46" creationdate="20250308T235703Z">
+        <seg>Vider le section &lt;l1/&gt; infra pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; section for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T104808Z" creationid="Melo46" creationdate="20250302T104808Z">
@@ -55599,6 +55647,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085728Z" creationid="will" creationdate="20230228T085728Z">
         <seg>Reguarda le &lt;l2/&gt; preferentias pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235238Z" creationid="Melo46" creationdate="20250308T235238Z">
+        <seg>Vider le section &lt;l2/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61430,6 +61486,22 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;Configuration.properties&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/Resources/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235425Z" creationid="Melo46" creationdate="20250308T235425Z">
+        <seg>Le file &lt;f0&gt;Configuration.properties&lt;/f0&gt; es ubicate in le plica &lt;f1&gt;Contents/Resources/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Info.plist&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235504Z" creationid="Melo46" creationdate="20250308T235504Z">
+        <seg>Le file &lt;f0&gt;Info.plist&lt;/f0&gt; es ubicate in le plica &lt;f1&gt;Contents/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;omegat&lt;/f0&gt; folder contains, at a minimum, the &lt;l1/&gt; and &lt;l2/&gt; files.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T095455Z" creationid="Melo46" creationdate="20250305T095455Z">
@@ -65290,6 +65362,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options for the program start-up will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T234340Z" creationid="Melo46" creationdate="20250308T234340Z">
+        <seg>Le optiones proque le lanceamento del programma sera legite ab le file &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, que demora in le mesme plica del file exe e que tu poter rediger po reflecter tu installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T173431Z" creationid="will" creationdate="20230324T173431Z">
@@ -65314,6 +65394,14 @@ content, constitutes a covered work.</seg>
         <seg>The output from running a
 covered work is covered by this License only if the output, given its
 content, constitutes a covered work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The package also provides the &lt;f0&gt;omegat.kaptn&lt;/f0&gt; Kaptain script, which KDE users might find useful, as well as an &lt;f1&gt;OmegaT&lt;/f1&gt; bash script that automatically launches the appropriate &lt;a2&gt;java&lt;/a2&gt; command to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T234917Z" creationid="Melo46" creationdate="20250308T234917Z">
+        <seg>Le pacchetto alsi offere le script Kaptain &lt;f0&gt;omegat.kaptn&lt;/f0&gt;, que le usatores de KDE poterea trovar utile, e un script bash de &lt;f1&gt;OmegaT&lt;/f1&gt; que automaticamente lancea le appropriate commando &lt;a2&gt;java&lt;/a2&gt; pro exequer OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66316,6 +66404,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T203450Z" creationid="Melo46" creationdate="20250225T203450Z">
         <seg>Le plus simple expression regular consiste de un sol character, o combination de un &lt;l0&gt;\&lt;/l0&gt; e un character constituente un unitate, con un sol significato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T234110Z" creationid="Melo46" creationdate="20250308T234110Z">
+        <seg>Le maniera plus simple de lancear OmegaT es exequer le programma &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71106,6 +71202,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access the files inside the &lt;f0&gt;OmegaT.app&lt;/f0&gt; package, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235623Z" creationid="Melo46" creationdate="20250308T235623Z">
+        <seg>Pro acceder al files intra le pacchetto &lt;f0&gt;OmegaT.app&lt;/f0&gt;, clicca dextre sur &lt;f1&gt;OmegaT.app&lt;/f1&gt; e selige “Monstrar contentos de pacchetto”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T204456Z" creationid="Melo46" creationdate="20200726T204456Z">
@@ -75802,6 +75906,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use your text editor of choice to modify the files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235710Z" creationid="Melo46" creationdate="20250308T235710Z">
+        <seg>Usa tu editor de texto preferite pro modificar le files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130512T174803Z">
@@ -79226,6 +79338,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also double-click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly if the &lt;f1&gt;.jar&lt;/f1&gt; extension is associated with the system Java launcher.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T234651Z" creationid="Melo46" creationdate="20250308T234651Z">
+        <seg>Tu alsi pote duple-cliccar sur &lt;f0&gt;OmegaT.jar&lt;/f0&gt; pro lancear lo directemente si le extension &lt;f1&gt;.jar&lt;/f1&gt; es associate con le lanceator Java de systema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also download dictionaries from other locations, or copy dictionaries installed locally.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T230230Z" creationid="Melo46" creationdate="20250305T230230Z">
@@ -79868,6 +79988,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T234452Z" creationid="Melo46" creationdate="20250308T234452Z">
+        <seg>Tu poter lancear OmegaT ab le linea de commando con un script que include optiones de lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T181422Z">
@@ -79904,6 +80032,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T082337Z" creationid="Melo46" creationdate="20200730T082337Z">
         <seg>Tu pote modificar le comportamento de OmegaT per rediger le &lt;e0&gt;Proprietates&lt;/e0&gt; assi ben como le file &lt;f1&gt;Configuration.properties&lt;/f1&gt; in le pacchetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the behaviour of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T235341Z" creationid="Melo46" creationdate="20250308T235341Z">
+        <seg>Tu pote modificar le comportamento de OmegaT.app editante le &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) in addition al files &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) ubicate intra le pacchetto de OmegaT.app.</seg>
       </tuv>
     </tu>
     <tu>
