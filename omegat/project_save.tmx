@@ -19020,6 +19020,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands specified here are only available to this project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T090919Z" creationid="Melo46" creationdate="20250308T090919Z">
+        <seg>Le commandos specificate ci es solo disponibile pro iste projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -20303,6 +20311,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144638Z">
         <seg>Corresponding Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponding plural source:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T085545Z" creationid="Melo46" creationdate="20250308T085412Z">
+        <seg>Correspondente fonte de plural:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30487,6 +30503,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T085615Z" creationid="Melo46" creationdate="20250308T085615Z">
+        <seg>Celar le tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T163042Z" creationid="will" creationdate="20230301T163042Z">
@@ -33930,6 +33954,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T144015Z" creationid="Melo46" creationdate="20160805T144015Z">
         <seg>Si tu elige un fila de texto (in qualcunque quadro) ante pulsar &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, le texto essera collate per option predefinite in le campo&lt;g4&gt;Termino fonte&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you simply want to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T090148Z" creationid="Melo46" creationdate="20250308T090148Z">
+        <seg>Si tu simplemente vole reducer le numero de tags in un documento &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 e plus recente), tu pote usar le script &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45284,6 +45316,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T153105Z" creationid="will" creationdate="20230302T153105Z">
         <seg>OmegaT pote automaticamente crear nove nomines de files pro le files que tu crea, per adder un codice de lingua o un marca de tempore, per exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can automatically run commands after the target files have been created.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T090323Z" creationid="Melo46" creationdate="20250308T090323Z">
+        <seg>OmegaT pote automaticamente exequer commandos post que le files de destination ha essite create.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67169,6 +67209,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are saved in the &lt;l0/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T091022Z" creationid="Melo46" creationdate="20250308T091022Z">
+        <seg>Illos es salvate in le file &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T022945Z" creationid="Melo46" creationdate="20250225T022945Z">
@@ -71864,8 +71912,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translate this plural as a plural form #{0}.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250221T233141Z" creationid="Melo46" creationdate="20250221T233141Z">
-        <seg>Traducer iste plural como forma plural #{0}.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T085458Z" creationid="Melo46" creationdate="20250221T233141Z">
+        <seg>Traducer iste plural como forma de plural #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73854,6 +73902,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T185947Z" creationid="will" creationdate="20220110T185947Z">
         <seg>Usa &lt;k0&gt;&lt;k1&gt;Ctrl+&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; pro aperir e &lt;k3&gt;Esc&lt;/k3&gt; pro clauder lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T090644Z" creationid="Melo46" creationdate="20250308T090644Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; o &lt;l2/&gt;&lt;l3/&gt; pro crear le files de destination e activar le commando.</seg>
       </tuv>
     </tu>
     <tu>
