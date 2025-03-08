@@ -14132,6 +14132,14 @@ Le file TMX non essera cargate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An ignored file or folder is:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T105123Z" creationid="Melo46" creationdate="20250308T105123Z">
+        <seg>Un file o plica ignorate es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T073957Z" creationid="Melo46" creationdate="20151117T073957Z">
@@ -18624,6 +18632,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the button to select the folder that you want to use instead of the default resource folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104320Z" creationid="Melo46" creationdate="20250308T104320Z">
+        <seg>Clicca sur le button pro seliger le plica que tu vole usar in vice que le plica de ressources predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T123752Z">
@@ -18692,6 +18708,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T125024Z" creationid="Melo46" creationdate="20200730T125024Z">
         <seg>Clicca le etiquetta &lt;g0&gt;Editar&lt;/g0&gt; sur le pagina Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Exclusions...&lt;/g0&gt; button to specify files or folders that should be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T105032Z" creationid="Melo46" creationdate="20250308T105032Z">
+        <seg>Clicca le button &lt;g0&gt;Exclusiones...&lt;/g0&gt; pro specificar files o plicas que deberea esser ignorava per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25894,6 +25918,14 @@ Gossamer vos retene, 404 non trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclusions...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104615Z" creationid="Melo46" creationdate="20250308T104615Z">
+        <seg>Exclusiones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T073814Z">
@@ -32560,6 +32592,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T230547Z" creationid="Melo46" creationdate="20250304T230547Z">
         <seg>Si le plica es un repositorio vacue e le file &lt;f0&gt;omegat.project&lt;/f0&gt; contine informationes de repositorio repositorio remote, le projecto sera recognoscite per OmegaT como un projecto de equipa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the folder is empty, none of the files contain translatable content, or there are no files supported by the available file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104609Z" creationid="Melo46" creationdate="20250308T104609Z">
+        <seg>Si le plica es vacue, nulle del files contine contento traducibile, o il non ha alcun file supportate per le filtros de files disponibile, OmegaT te contara que le plica es vacue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46512,6 +46552,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and displays the translatable contents it finds in the editor.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104503Z" creationid="Melo46" creationdate="20250308T104503Z">
+        <seg>OmegaT tenta leger tote le files subito, e monstra in le editor le contentos traducibile que illo trova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T220135Z" creationid="Karm46" creationdate="20171128T210211Z">
@@ -52813,6 +52861,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resources do not have to be stored in the default project folder that OmegaT creates.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104001Z" creationid="Melo46" creationdate="20250308T104001Z">
+        <seg>Ressources non debe esser immagazinate in le plica de projecto predefinite que OmegaT crea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T171915Z" creationid="will" creationdate="20220109T171915Z">
@@ -57732,6 +57788,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104328Z" creationid="Melo46" creationdate="20250308T104328Z">
+        <seg>Plica del files fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224142Z">
@@ -60798,6 +60862,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all user-definable project resources.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T103835Z" creationid="Melo46" creationdate="20250308T103835Z">
+        <seg>Le button &lt;g0&gt;Navigar&lt;/g0&gt; es disponibile pro tote le ressources de projecto definibile per le usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Delimiter&lt;/g0&gt;defines the delimiter between command parameters.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250306T080937Z" creationid="Melo46" creationdate="20250306T080937Z">
@@ -61113,6 +61185,14 @@ Source.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T154520Z">
         <seg>Le quadro Modifica monstra le texto del documento partialmente rendite: le texto ja rendite es displicate in traduction e le texto non rendite es monstrate in le lingua original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Exclusion patterns dialog allows you to add or remove a pattern, or edit one either by double-clicking it or selecting it and pressing &lt;k0&gt;F2&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T105854Z" creationid="Melo46" creationdate="20250308T105854Z">
+        <seg>Le fenestra de dialogo modellos de exclusion te permitte de adder o remover un modello, o rediger un duple-cliccante lo, o selectionante lo e pulsante &lt;k0&gt;F2&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68579,6 +68659,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104337Z" creationid="Melo46" creationdate="20250308T104337Z">
+        <seg>Iste plica contine le files que tu vole traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains your custom spelling dictionaries.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T074732Z" creationid="Melo46" creationdate="20250223T074732Z">
@@ -74074,6 +74162,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T103635Z" creationid="Melo46" creationdate="20250308T103635Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; e su sub-menus pro acceder al positiones del ressources de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T090644Z" creationid="Melo46" creationdate="20250308T090644Z">
@@ -78828,6 +78924,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T103610Z" creationid="Melo46" creationdate="20250308T103610Z">
+        <seg>Quandocunque tu pote modificar le structura de tu projecto, addente o removente files ab le plicas, o mesmo cambiante le plicas usate per le projecto, mesmo durante le curso del traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T172332Z" creationid="Melo46" creationdate="20250223T172332Z">
@@ -78960,6 +79064,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220105T163036Z" creationid="will" creationdate="20220105T163036Z">
         <seg>Tu pote seliger un thema pro le interfacie de usator in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select any folder you want to hold your resources, including folders on shared disks.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T104149Z" creationid="Melo46" creationdate="20250308T104149Z">
+        <seg>Tu pote seliger qualcunque plica tu vole pro tener tu ressources, incluse plicas sur discos compartite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87235,10 +87347,34 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>not copied to the &lt;l0/&gt; folder when the translated files are created.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T105244Z" creationid="Melo46" creationdate="20250308T105244Z">
+        <seg>non copiate al le plica &lt;l0/&gt; quando le files traducite es create.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not displayed in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T105134Z" creationid="Melo46" creationdate="20250308T105134Z">
+        <seg>non monstrate in le pannello &lt;l0/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>not fuzzy</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T115905Z" creationid="Melo46" creationdate="20250222T115905Z">
         <seg>non approximate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not taken into account in the various statistics reports (such as the &lt;l0/&gt;&lt;l1/&gt; command), and</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T105230Z" creationid="Melo46" creationdate="20250308T105230Z">
+        <seg>non prendite in conto in le varie reportos statistic (tal como le commando &lt;l0/&gt;&lt;l1/&gt;), e</seg>
       </tuv>
     </tu>
     <tu>
