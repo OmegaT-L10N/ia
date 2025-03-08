@@ -29547,6 +29547,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary files folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110207Z" creationid="Melo46" creationdate="20250308T110207Z">
+        <seg>Plica del files glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224235Z">
@@ -32044,6 +32052,14 @@ their defaults as a result of the location change.</seg>
         <seg>Si un ulterior accesso al location desiderate essera accordate, 
 iste location essera usate e omne configurationes retornara al
 lor initio a causa del cambiamento de location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If matches are found, they are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110204Z" creationid="Melo46" creationdate="20250308T110204Z">
+        <seg>Si concordantias es trovate, illos es monstrate in le pannello &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37402,6 +37418,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T231252Z">
         <seg>Il es avantagiose anque de demandar presso le &lt;a1&gt;lista del localisatores&lt;/a1&gt; (OmT-l10n) si alicuno ha ulle material de referentia que poterea facilitar le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is automatically created the first time a term is added.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110448Z" creationid="Melo46" creationdate="20250308T110448Z">
+        <seg>Il es automaticamente create le prime vice que un termino es addite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46548,6 +46572,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T215752Z">
         <seg>Curso de exercitation de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and compares their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110049Z" creationid="Melo46" creationdate="20250308T110049Z">
+        <seg>OmegaT tenta leger tote le files subito, e compara lor contentos al segmento que tu traduce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66615,6 +66647,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary is the file that OmegaT uses when you add translated glossary terms to your project with the &lt;l0/&gt;&lt;l1/&gt; command.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110338Z" creationid="Melo46" creationdate="20250308T110338Z">
+        <seg>Le glossario scribibile es le file que OmegaT usa quando tu adde terminos de glossario traducite a tu projecto con le commando &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T054051Z" creationid="will" creationdate="20230316T054051Z">
@@ -68663,6 +68703,22 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T104337Z" creationid="Melo46" creationdate="20250308T104337Z">
         <seg>Iste plica contine le files que tu vole traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference glossaries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110244Z" creationid="Melo46" creationdate="20250308T110244Z">
+        <seg>Iste plica contine le files que tu vole usar como glossarios de referentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference translation memories.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110009Z" creationid="Melo46" creationdate="20250308T110009Z">
+        <seg>Iste plica contine le files que tu vole usar como memorias de traduction de referentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72464,6 +72520,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T110002Z" creationid="Melo46" creationdate="20250308T110002Z">
+        <seg>Plica del memorias de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories folder:</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T171003Z" creationid="will" creationdate="20230324T171003Z">
@@ -74654,6 +74718,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T225834Z" creationid="Melo46" creationdate="20250305T225834Z">
         <seg>Usar le &lt;l0&gt;menu contextual del editor&lt;/l0&gt; pro corriger le error, pro &lt;g1&gt;Ignorar toto&lt;/g1&gt; o pro &lt;g2&gt;Adder a dictionario&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;u1&gt;Apache ant syntax&lt;/u1&gt; to define exclusions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T105955Z" creationid="Melo46" creationdate="20250308T105955Z">
+        <seg>Usar le syntaxe &lt;u1&gt;Apache ant&lt;/u1&gt; pro definir le exclusiones.</seg>
       </tuv>
     </tu>
     <tu>
