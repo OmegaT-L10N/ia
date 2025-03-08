@@ -13408,6 +13408,22 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120514Z" creationid="Melo46" creationdate="20250308T120514Z">
+        <seg>Tote le parametros ubicate in un &lt;l0&gt;plica de projecto&lt;/l0&gt; se applicara a ille projecto sin reguardo de que version de OmegaT lo aperi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; option on the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120446Z" creationid="Melo46" creationdate="20250308T120446Z">
+        <seg>Tote le parametros ubicate in le plica de configuration de OmegaT sera compartite si tu non specifica un differente plica de configuration con le option &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; sur le linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230304T073817Z" creationid="will" creationdate="20230304T073817Z">
@@ -34070,6 +34086,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you performed a manual installation on Linux, you will have to manually delete the OmegaT folders in &lt;f0&gt;opt/&lt;/f0&gt;, as well as the symlinks placed in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; by the installation script.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120938Z" creationid="Melo46" creationdate="20250308T120938Z">
+        <seg>Si tu exequeva un installation manual sur Linux, tu debera manualmente deler le plicas OmegaT in &lt;f0&gt;opt/&lt;/f0&gt;, in addition al ligamines symbolic ubicate in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; per le script de installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T075929Z">
@@ -34259,6 +34283,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T202115Z" creationid="Melo46" creationdate="20250225T202115Z">
         <seg>Si tu desira saper plus re le uso del expressiones regular, le duo sequente sitos ha provate esser multo utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to remove OmegaT completely, you will also have to delete the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120613Z" creationid="Melo46" creationdate="20250308T120613Z">
+        <seg>Si tu desira remover OmegaT completemente, tu alsi debera deler le plica de configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47055,6 +47087,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;e0&gt;not&lt;/e0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T115516Z" creationid="Melo46" creationdate="20250308T115516Z">
+        <seg>le preferentias de OmegaT es immagazinate in le plica de configuration e &lt;e0&gt;non&lt;/e0&gt; sera modificate per le nove version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Error Resume Next&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T075157Z">
@@ -47309,6 +47349,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T105838Z" creationid="Melo46" creationdate="20200728T105838Z">
         <seg>Un vice que le codice es discargate, aperi un commando in le plica /source e scribe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T121343Z" creationid="Melo46" creationdate="20250308T121343Z">
+        <seg>Un vice que le codice es discargate, aperi un terminal in le plica fonte (&lt;f0&gt;omegat-code/&lt;/f0&gt; si tu clonava ab Sourceforge, o &lt;f1&gt;/omegat&lt;/f1&gt; si tu clonava ab GitHub) e typa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49073,6 +49121,14 @@ Evanescente como bruma</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T163428Z">
         <seg>Le paragraphos, sectiones e tabellas son fixate a bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; for &lt;l1&gt;Windows&lt;/l1&gt; and the &lt;f2&gt;Configuration.properties&lt;/f2&gt; and &lt;f3&gt;Info.plist&lt;/f3&gt; files for &lt;l4&gt;macOS&lt;/l4&gt; packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120032Z" creationid="Melo46" creationdate="20250308T120032Z">
+        <seg>Le files de parametros que es includite in le pacchetto OmegaT discargate (specialmente le &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; pro &lt;l1&gt;Windows&lt;/l1&gt; e le files &lt;f2&gt;Configuration.properties&lt;/f2&gt; e &lt;f3&gt;Info.plist&lt;/f3&gt; pro le pacchettos &lt;l4&gt;macOS&lt;/l4&gt;) poterea esser superscribite o delite, assi tu poterea voler crear un salveguarda ante le promotion, si tu ha usate iste files pro modificar le parametros de lanceamento de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60990,6 +61046,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120057Z" creationid="Melo46" creationdate="20250308T120057Z">
+        <seg>Le plicas &lt;f0&gt;plugins&lt;/f0&gt; e &lt;f1&gt;scripts&lt;/f1&gt; poterea esser superscribite, assi tu poterea voler crear un salveguarda ante le promotion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T190329Z" creationid="will" creationdate="20220110T190329Z">
@@ -65888,6 +65952,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source code for the current version can either be downloaded directly from the OmegaT &lt;u0&gt;download page&lt;/u0&gt;, or cloned from the &lt;u1&gt;Sourceforge&lt;/u1&gt; or &lt;u2&gt;GitHub&lt;/u2&gt; repositories.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T121156Z" creationid="Melo46" creationdate="20250308T121156Z">
+        <seg>Le codification fonte pro le version actual pote esser discargate directemente del &lt;u0&gt;pagina de discargamento&lt;/u0&gt; de OmegaT, o clonate ab le repositorios de &lt;u1&gt;Sourceforge&lt;/u1&gt; o &lt;u2&gt;GitHub&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224009Z">
@@ -66867,6 +66939,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170911T224011Z">
         <seg>Le file glossario scribibile debe trovar se intra le plica del glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120308Z" creationid="Melo46" creationdate="20250308T120308Z">
+        <seg>Le “vetere” version de OmegaT sera superscribite, ma le parametros producite ab le interface de OmegaT sera retenite in le varie plicas de configurationes (vider supra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70281,6 +70361,14 @@ delera tu datos local e re-discargara le contentos del projecto ab le servitor.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120406Z" creationid="Melo46" creationdate="20250308T120406Z">
+        <seg>Iste te consentira de mantener qualcunque numero de versiones side-by-side, que tu pote desirar facer usque tu te senti confortabile con le nove version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will greatly simplify updating of your translation in the future.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130515T073921Z">
@@ -71074,6 +71162,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T173301Z">
         <seg>Pro facer isto, aperi un terminal (alsi note como un consola o fenestra pro linea de commando; programmas commun pro isto es konsole (KDE) e gnome-terminal (GNOME)), e scribe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T120149Z" creationid="Melo46" creationdate="20250308T120149Z">
+        <seg>Pro facer isto, simplemente selige le mesme plica de installation que le installation existente quando tu installa le nove version.</seg>
       </tuv>
     </tu>
     <tu>
