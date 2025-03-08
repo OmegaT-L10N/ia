@@ -13876,6 +13876,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T100517Z" creationid="Melo46" creationdate="20250308T100517Z">
+        <seg>Un projecto de traduction de OmegaT consiste de plure ressources in plicas separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T181159Z">
@@ -28257,6 +28265,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For security purposes, local project-based external searches are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T100328Z" creationid="Melo46" creationdate="20250308T100328Z">
+        <seg>Pro propositos de securitate, le recercas externe basate sur le projecto local es disactivate de ordinario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For security reasons, &lt;l0&gt;local external searches&lt;/l0&gt; are disabled by default.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T232133Z" creationid="Melo46" creationdate="20250305T232133Z">
@@ -29269,8 +29285,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Global External Searches</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250222T125610Z" creationid="Melo46" creationdate="20250222T125610Z">
-        <seg>Recercas externe mundial</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T095845Z" creationid="Melo46" creationdate="20250308T095845Z">
+        <seg>Recercas externe global</seg>
       </tuv>
     </tu>
     <tu>
@@ -29813,8 +29829,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250222T124741Z" creationid="Melo46" creationdate="20250222T124741Z">
-        <seg>Ir a Preferentias &gt; Recercas externe mundial pro activar los.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T095910Z" creationid="Melo46" creationdate="20250308T095910Z">
+        <seg>Ir a Preferentias &gt; Recercas externe global pro activar los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52781,6 +52797,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your system, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T103400Z" creationid="Melo46" creationdate="20250308T103400Z">
+        <seg>Le plicas de ressources pote esser ubicate ubique sur tu systema, incluse sur discos compartite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T223328Z" creationid="Melo46" creationdate="20160729T223328Z">
@@ -64848,6 +64872,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T095615Z" creationid="Melo46" creationdate="20250308T095615Z">
+        <seg>Le projecto immagazinara le nove insimul de recercas externe in le file &lt;l0/&gt; ubicate in su plica &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T093856Z" creationid="Melo46" creationdate="20250308T093856Z">
@@ -67181,6 +67213,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T095823Z" creationid="Melo46" creationdate="20250308T095823Z">
+        <seg>Iste configurationes supplantara le recercas externe mundial parametros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings will supersede the global file filter settings.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T094546Z" creationid="Melo46" creationdate="20250308T094546Z">
@@ -67261,6 +67301,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T082144Z">
         <seg>Illos es definite ut seque:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are defined in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T095455Z" creationid="Melo46" creationdate="20250308T095455Z">
+        <seg>Illos es definite in le preferentias &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70534,6 +70582,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To delete project specific external searches, click on the &lt;g0&gt;Remove&lt;/g0&gt; button or remove that file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T100129Z" creationid="Melo46" creationdate="20250308T100129Z">
+        <seg>Pro deler le recercas externe de un projecto specific, clicca sur le button &lt;g0&gt;Remover&lt;/g0&gt; o remove ille file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T201619Z">
@@ -70706,6 +70762,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102655Z">
         <seg>Pro habilitar le corrector orthographic, selige &lt;g0&gt;Optiones &gt; Controlo Orthographic&lt;/g0&gt; e marca le cassa de marca &lt;g1&gt;Controla automaticamente le orthographia del texto&lt;/g1&gt; (vide ante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable them, check &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T100351Z" creationid="Melo46" creationdate="20250308T100351Z">
+        <seg>Pro activar los, marca &lt;l0/&gt; in le preferentias &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74570,6 +74634,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this button to create local external searches specific to your project and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T095552Z" creationid="Melo46" creationdate="20250308T095552Z">
+        <seg>Usa iste button pro crear recercas externe local specific pro tu projecto e adjustar le parametros como desirate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this button to create local file filters specific to your project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T093607Z" creationid="Melo46" creationdate="20250308T093607Z">
@@ -76087,6 +76159,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T092103Z" creationid="Melo46" creationdate="20250305T092103Z">
         <seg>Quando un concordantia es inserite ab un TMX continite in iste plica, le color de fundo del segmento active cambia a rubie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T100953Z" creationid="Melo46" creationdate="20250308T100953Z">
+        <seg>Quando un nove projecto es create, OmegaT propone un structura de plicas de projecto predefinite que contine tote le ressources usate in le traduction, ma ille structura non es obligatori.</seg>
       </tuv>
     </tu>
     <tu>
