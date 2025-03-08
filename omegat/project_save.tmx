@@ -13648,6 +13648,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also remember not to modify the project configuration or add TMX files in the meantime, as doing so may affect the results.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T135747Z" creationid="Melo46" creationdate="20250308T135747Z">
+        <seg>Alsi memora de non modificar le configuration del projecto o adder files TMX intertanto, Pois que facer assi pote alterar le resultatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T155548Z">
@@ -18914,6 +18922,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close the project to prevent any changes to the current status of the backup files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134652Z" creationid="Melo46" creationdate="20250308T134652Z">
+        <seg>Claude le projecto a impedi que alcuno cambia le stato actual del files de salveguarda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close the search window.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T131304Z" creationid="Melo46" creationdate="20250219T131304Z">
@@ -19572,6 +19588,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T135227Z">
         <seg>Per consequentia, pro cambiar le commando de lanceamento, il es sufficiente modificar le file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consider safely storing all the different files you are renaming for eventual reuse.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T135542Z" creationid="Melo46" creationdate="20250308T135542Z">
+        <seg>Considera de registrar con securitate tote le differente files que tu renomina, pro un reutilisation eventual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25675,6 +25699,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even if you fear you might have lost translation data, it is probably safely stored in your most recent backup memory, which is usually less than a few minutes old or so.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134547Z" creationid="Melo46" creationdate="20250308T134547Z">
+        <seg>Mesmo si tu time que tu pote haber perdite datos de traduction, illos es probabilemente registrate con securitate in le plus recente de tu memorias de salveguarda, que es usualmente minus que alcun minutas vetere o assi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T043427Z" creationid="Melo46" creationdate="20200728T043427Z">
@@ -26066,6 +26098,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T045719Z" creationid="Melo46" creationdate="20200726T045719Z">
         <seg>Execution de script {0} (evento {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exercise caution with changes made to files in the source folder, the segmentation rules, or the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T135916Z" creationid="Melo46" creationdate="20250308T135916Z">
+        <seg>Exercitar attention con modificationes facite pro le files in le plica fonte, le regulas de segmentation, o le filtros de files, in curso de un projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42455,6 +42495,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying any of those after you have started your translation could result in some segments disapparing or new segments appearing unexpectedly.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T140023Z" creationid="Melo46" creationdate="20250308T140023Z">
+        <seg>Modificar tote ille post que tu ha initiate tu traduction poterea comportar que alcun segmentos dispare o nove segmentos appare inexpectatemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131226T155441Z" creationid="MELO46" creationdate="20131226T155441Z">
@@ -50724,6 +50772,14 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proceed as follows:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134552Z" creationid="Melo46" creationdate="20250308T134552Z">
+        <seg>Continua como seque:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T093732Z">
@@ -52612,6 +52668,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134931Z" creationid="Melo46" creationdate="20250308T134931Z">
+        <seg>Renomina lo in &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130805T174356Z">
@@ -52620,10 +52684,26 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134716Z" creationid="Melo46" creationdate="20250308T134716Z">
+        <seg>Renomina le actual file &lt;f0&gt;project_save.tmx&lt;/f0&gt; (a &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, per exemplo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081412Z">
         <seg>Reaperir le projecto ora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reopen the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134942Z" creationid="Melo46" creationdate="20250308T134942Z">
+        <seg>Reaperi le projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56088,6 +56168,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T081126Z" creationid="Melo46" creationdate="20200730T081126Z">
         <seg>Eliger le icone &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the backup translation memory most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134828Z" creationid="Melo46" creationdate="20250308T134828Z">
+        <seg>Seliger le memoria de traduction de salveguarda que le plus probabilemente contine le datos que tu cerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61130,6 +61218,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T120057Z" creationid="Melo46" creationdate="20250308T120057Z">
         <seg>Le plicas &lt;f0&gt;plugins&lt;/f0&gt; e &lt;f1&gt;scripts&lt;/f1&gt; poterea esser superscribite, assi tu poterea voler crear un salveguarda ante le promotion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;project_save.tmx&lt;/f0&gt; file always contains the most recent data.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134049Z" creationid="Melo46" creationdate="20250308T134049Z">
+        <seg>Le file &lt;f0&gt;project_save.tmx&lt;/f0&gt; sempre contine le datos plus recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68286,6 +68382,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T230334Z" creationid="Melo46" creationdate="20250305T230334Z">
         <seg>Iste action require un connexion a internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will restore your translation to its state at the point the selected backup was created.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T135126Z" creationid="Melo46" creationdate="20250308T135126Z">
+        <seg>Iste action restaurara tu traduction a su stato al puncto cuje ha essite create le copia de salveguarda seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79660,6 +79764,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can set the frequency of the regular backups in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134209Z" creationid="Melo46" creationdate="20250308T134209Z">
+        <seg>Tu pote configurar le frequentia del copias de salveguarda regular in le &lt;l0/&gt; preferentias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can simplify launching by writing a script file, i.e. a plain-text file containing these two lines.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T163718Z">
@@ -79942,6 +80054,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You lost your translation?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T134236Z" creationid="Melo46" creationdate="20250308T134236Z">
+        <seg>Perdeva tu tu traduction?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T215641Z">
@@ -80177,6 +80297,14 @@ provided under this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T215019Z">
         <seg>Tu pote preferer &lt;i0&gt;non&lt;/i0&gt; usar tu navigator web ordinari pro le function vista preliminar, como anque retener lo libere pro navigar in Internet, plus tosto que deber constantemente cambiar schedas, assi tu pote reguardar le installation de un altere lector del tela pro le function vista preliminar como un avantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may repeat this operation as needed to find older states.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T135255Z" creationid="Melo46" creationdate="20250308T135255Z">
+        <seg>Tu pote repeter iste operation tanto como besoniate pro trovar statos plus vetere.</seg>
       </tuv>
     </tu>
     <tu>
