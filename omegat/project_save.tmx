@@ -16680,6 +16680,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, external searches are global and are shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T095434Z" creationid="Melo46" creationdate="20250308T095434Z">
+        <seg>De ordinario le recercas externe es global e es compartite per tote le projectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, file filter settings are global and shared by all projects.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T093347Z" creationid="Melo46" creationdate="20250308T093347Z">
@@ -17980,6 +17988,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T123142Z" creationid="Melo46" creationdate="20200730T123142Z">
         <seg>Controlar le option &lt;g0&gt;Usar concordantias partial le entratas del dictionario&lt;/g0&gt; si tu vole que dictionarios monstra parolas que ha le mesme radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;o0&gt;Use local file filter settings&lt;/o0&gt; box, and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T093828Z" creationid="Melo46" creationdate="20250308T093828Z">
+        <seg>Marca le quadrato &lt;o0&gt;Usar configurationes local de filtros de files&lt;/o0&gt;, e adjusta le parametros como desirate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54827,6 +54843,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section of the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T094922Z" creationid="Melo46" creationdate="20250308T094922Z">
+        <seg>Vider le &lt;l0/&gt; section del &lt;l1/&gt; guida pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085841Z" creationid="will" creationdate="20230228T085841Z">
@@ -64824,6 +64848,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T093856Z" creationid="Melo46" creationdate="20250308T093856Z">
+        <seg>Le projecto immagazinara le nove insimul de filtros de file in le file &lt;l0/&gt; ubicate in su plica &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T111708Z" creationid="Melo46" creationdate="20250305T111708Z">
@@ -67149,6 +67181,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T094546Z" creationid="Melo46" creationdate="20250308T094546Z">
+        <seg>Iste configurationes supplantara le configurationes de filtros de files global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
@@ -67229,6 +67269,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T161318Z">
         <seg>Illos son monstrate como &lt;EMPTY&gt; in le Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are found in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T093411Z" creationid="Melo46" creationdate="20250308T093411Z">
+        <seg>Illos es trovate in le preferentias &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70514,6 +70562,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T111900Z" creationid="Melo46" creationdate="20250305T111900Z">
         <seg>Pro disactivar le regulas de segmentation local, disactiva iste option o remove ille file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable project-specific file filters, uncheck the box or remove that file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T094824Z" creationid="Melo46" creationdate="20250308T094824Z">
+        <seg>Pro disactivar filtros de files specific-del-projecto, dismarca le quadrato o remove ille file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74514,6 +74570,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this button to create local file filters specific to your project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T093607Z" creationid="Melo46" creationdate="20250308T093607Z">
+        <seg>Usa iste button pro crear filtros del files local specific pro tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this button to create local rules specific to your project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T111519Z" creationid="Melo46" creationdate="20250305T111519Z">
@@ -76377,6 +76441,14 @@ price.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T200931Z" creationid="Melo46" creationdate="20200726T200931Z">
         <seg>Quando on labora sur un projecto de equipa, iste fenestra te permitte de definir le mappa inter plicas remote e local (vider exemplos &lt;l0&gt;hic&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between the remote and local folders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T094913Z" creationid="Melo46" creationdate="20250308T094913Z">
+        <seg>Quando on labora sur un projecto de equipa, iste fenestra te permitte de definir le mappa inter le plicas remote e local.</seg>
       </tuv>
     </tu>
     <tu>
