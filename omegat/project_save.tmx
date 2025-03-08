@@ -16680,6 +16680,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, file filter settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T093347Z" creationid="Melo46" creationdate="20250308T093347Z">
+        <seg>De ordinario, le configuration de filtros de files es global e compartite per tote le projectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T115048Z" creationid="melo" creationdate="20160813T115048Z">
@@ -40013,6 +40021,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters...</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T093137Z" creationid="Melo46" creationdate="20250308T093137Z">
+        <seg>Filtros del files local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T171617Z" creationid="ia" creationdate="20170909T171617Z">
@@ -40049,6 +40065,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T111413Z" creationid="Melo46" creationdate="20250305T111413Z">
         <seg>Regulas de segmentation local...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local commands are run before global commands.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T092942Z" creationid="Melo46" creationdate="20250308T092942Z">
+        <seg>Le commandos local es exequite ante commandos global.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47285,6 +47309,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T122157Z" creationid="Melo46" creationdate="20200727T122157Z">
         <seg>Activate iste option solmente si tu sape lo que tu face e solo pro projectos de fontes digne de fide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only enable local post-processing commands if you trust the source of that file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T091544Z" creationid="Melo46" creationdate="20250308T091544Z">
+        <seg>Solo activa commandos local de post-processo si tu te fide del fonte de ille file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54709,8 +54741,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix for details.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250305T174421Z" creationid="will" creationdate="20230228T200024Z">
-        <seg>Vide le appendice &lt;l0/&gt; pro detalios.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T091940Z" creationid="will" creationdate="20230228T200024Z">
+        <seg>Vider le appendice &lt;l0/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58684,6 +58716,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T190738Z" creationid="Karm46" creationdate="20171128T190738Z">
         <seg>Tal codice auxiliar ha ja essite scribite in Javascript, Groovy e Tcl/Tk, per exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such commands are defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T092749Z" creationid="Melo46" creationdate="20250308T092749Z">
+        <seg>Tal commandos es definite in le preferentia &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65881,6 +65921,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T155731Z">
         <seg>Le equipa pote alsi usar le mesme structura de sub plica pro le files final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template variables list gives you access to various project data and system variables.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T091912Z" creationid="Melo46" creationdate="20250308T091912Z">
+        <seg>Le lista del variabiles de modello te da accesso a varie datos de projecto e variabiles de systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77942,6 +77990,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T230057Z" creationid="Melo46" creationdate="20250304T230057Z">
         <seg>Tu alsi pote crear projectos OmegaT manualmente o con scripts copiante un insimul de files precedentemente scribite a un nove plica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250308T092736Z" creationid="Melo46" creationdate="20250308T092736Z">
+        <seg>Tu alsi pote definir commandos global de post-processo disponibile pro tote le projectos que comparti le mesme plica de configuration.</seg>
       </tuv>
     </tu>
     <tu>
