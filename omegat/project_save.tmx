@@ -32808,6 +32808,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If only one segment is selected, the aligner will merge it with the following segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T224353Z" creationid="Melo46" creationdate="20250309T224353Z">
+        <seg>Si un sol segmento es seligite, le alineator lo miscera con le segmento sequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T190951Z">
@@ -42595,6 +42603,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T165044Z" creationid="MELO46" creationdate="20140615T080825Z">
         <seg>Funder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge (&lt;k0&gt;M&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T224219Z" creationid="Melo46" creationdate="20250309T224219Z">
+        <seg>Miscer (&lt;k0&gt;M&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -69526,6 +69542,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T132251Z">
         <seg>Iste commando non functiona si le segmento modificate ha essite validate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command is also available from the button at the right of the main window pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T224210Z" creationid="Melo46" creationdate="20250309T224210Z">
+        <seg>Iste commando es alsi disponibile ab le button al dextra del pannello del fenestra principal.</seg>
       </tuv>
     </tu>
     <tu>
