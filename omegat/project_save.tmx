@@ -51648,6 +51648,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy host ip address</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000346Z" creationid="Melo46" creationdate="20250309T000346Z">
+        <seg>Proxy host ip address</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy host port number</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T131947Z">
