@@ -11246,6 +11246,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T220959Z" creationid="Melo46" creationdate="20250309T220959Z">
+        <seg>Un &lt;e0&gt;fenestra de dialogo&lt;/e0&gt; te require de interprender action e clauder lo ante que tu pote retornar a traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T181131Z" creationid="Melo46" creationdate="20250309T181131Z">
@@ -45840,6 +45848,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.1.0 - User Manual</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T221022Z" creationid="Melo46" creationdate="20250309T221022Z">
+        <seg>OmegaT 6.1.0 - Manual del usator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.1.0 and later can also run with a Java 17 Runtime Environment on any platform.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T021231Z" creationid="Melo46" creationdate="20250225T021231Z">
@@ -46735,6 +46751,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222101Z" creationid="Melo46" creationdate="20250309T222101Z">
+        <seg>OmegaT es distribuite sub le terminos del &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130424T142504Z">
@@ -47603,6 +47627,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T170259Z">
         <seg>Le files glossario de OmegaT es files de texto simple in le formato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's main purpose is to help you create a good translation the fastest possible by giving you access to your translation ressources in the most reliable way possible.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T221947Z" creationid="Melo46" creationdate="20250309T221947Z">
+        <seg>Le proposito principal de OmegaT es adjutar te a crear un bon traduction le plus velocemente possibile forniente te accesso a tu ressources de traduction in maniera le plus fidabile possibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69510,6 +69542,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130529T215657Z">
         <seg>Iste differentias generalmente non duce a problemas de compatibilitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is the official user manual to OmegaT, the free Computer-Assisted Translation tool.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T221643Z" creationid="Melo46" creationdate="20250309T221643Z">
+        <seg>Iste documento es le manual official del usator a OmegaT, le Application de Traduction assistite per le Computator libere instrumento.</seg>
       </tuv>
     </tu>
     <tu>
