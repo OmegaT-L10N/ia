@@ -11246,6 +11246,22 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T183911Z" creationid="Melo46" creationdate="20250309T183911Z">
+        <seg>Un &lt;e0&gt;fenestra de dialogo&lt;/e0&gt; te require de interprender action e clauder lo ante tu pote retorna a que traduce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T181131Z" creationid="Melo46" creationdate="20250309T181131Z">
+        <seg>Un &lt;e0&gt;fenestra&lt;/e0&gt; pote esser mantenite aperte a latere del editor e te permitte de interager con los duo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T000108Z" creationid="Karm46" creationdate="20170910T000108Z">
@@ -78553,6 +78569,14 @@ Tu pagina non es trovava</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T181103Z">
         <seg>Windows Vista e 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and Dialogs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T180543Z" creationid="Melo46" creationdate="20250309T180543Z">
+        <seg>Fenestras e fenestras de dialogo</seg>
       </tuv>
     </tu>
     <tu>
