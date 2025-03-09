@@ -7213,6 +7213,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Keep&lt;/g0&gt;: The segment pairs in rows that have this box checked are saved to the translation memory file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223244Z" creationid="Melo46" creationdate="20250309T223244Z">
+        <seg>&lt;g0&gt;Mantener&lt;/g0&gt;: Le segmento par in le lineas que ha iste quadrato marcate es salvate al file memoria de traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T192806Z" creationid="Melo46" creationdate="20200730T192806Z">
@@ -7241,6 +7249,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T045029Z" creationid="Melo46" creationdate="20200728T045029Z">
         <seg>&lt;g0&gt;Projecto&lt;/g0&gt; &lt;g1&gt;Nove...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Reload&lt;/g0&gt;: This command reloads the file from the disk.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223738Z" creationid="Melo46" creationdate="20250309T223738Z">
+        <seg>&lt;g0&gt;Recargar&lt;/g0&gt;: Iste commando recarga le file del disco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7308,6 +7324,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Source&lt;/g0&gt;: The segments from the original text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223341Z" creationid="Melo46" creationdate="20250309T223341Z">
+        <seg>&lt;g0&gt;Fonte&lt;/g0&gt;: Le segmentos del texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"....can match either a normal space...."
 "....concorda sia un normal character de spatio...."
 Esque illo es correcte?</note>
@@ -7332,6 +7356,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220106T081947Z" creationid="will" creationdate="20220106T081947Z">
         <seg>&lt;g0&gt;Initiar un nove paragrapho sur&lt;/g0&gt;: le tag HTML &lt;br&gt; constituera un interruption de paragrapho pro propositos de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Target&lt;/g0&gt;: The segments from the translated text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223446Z" creationid="Melo46" creationdate="20250309T223446Z">
+        <seg>&lt;g0&gt;Destination&lt;/g0&gt;: Le segmentos del texto traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13114,6 +13146,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After selecting the language and files, click &lt;g0&gt;OK&lt;/g0&gt; button to bring up the &lt;g1&gt;Align&lt;/g1&gt; window, which shows the results of the automatic alignment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223047Z" creationid="Melo46" creationdate="20250309T223047Z">
+        <seg>Post selection de lingua e files, clicca le button &lt;g0&gt;OK&lt;/g0&gt; pro visualisar le fenestra &lt;g1&gt;Alinear&lt;/g1&gt;, que monstra le resultatos del alineamento automatic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T073935Z" creationid="Melo46" creationdate="20200731T073935Z">
@@ -13390,6 +13430,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T132303Z" creationid="Melo46" creationdate="20250222T132303Z">
         <seg>Aligner tabula rango evidentia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligning the contents of the files is a four-step process:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222411Z" creationid="Melo46" creationdate="20250309T222411Z">
+        <seg>Alinear le contentos del files es un processo a quatro passos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20671,6 +20719,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130630T173319Z">
         <seg>Corriger le error si necesse e calca &lt;g0&gt;Ctrl+T&lt;/g0&gt; pro retornar al fenestra de validation del tag pro corriger altere errores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corrections</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223750Z" creationid="Melo46" creationdate="20250309T223750Z">
+        <seg>Correctiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -34218,6 +34274,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a translation project open, the aligner will automatically use the languages from that project, as well the project-specific segmentation rules, if any.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222944Z" creationid="Melo46" creationdate="20250309T222944Z">
+        <seg>Si tu ha un projecto de traduction aperte, le alineator automaticamente usara le linguas de ille projecto, tamben le regulas de segmentation specific-del-projecto, si il ha alcun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already Java installed on your system, one way to install OmegaT
 is to use Java Web Start.</seg>
       </tuv>
@@ -41653,6 +41717,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manual adjustments are generally required after the initial automatic alignment process.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223900Z" creationid="Melo46" creationdate="20250309T223900Z">
+        <seg>Adjustamentos manual es generalmente requirite post le processo initial de alineamento automatic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T100245Z" creationid="Karm46" creationdate="20170914T100245Z">
@@ -43325,6 +43397,14 @@ Perdite in paradiso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move Down (&lt;k0&gt;D&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T224042Z" creationid="Melo46" creationdate="20250309T224042Z">
+        <seg>Mover a basso (&lt;k0&gt;D&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move F&amp;irst</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T080203Z" creationid="Melo46" creationdate="20250222T080203Z">
@@ -43345,6 +43425,14 @@ Perdite in paradiso</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T211119Z" creationid="MELO46" creationdate="20140701T112753Z">
         <seg>Mover in Alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move Up (&lt;k0&gt;U&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T224024Z" creationid="Melo46" creationdate="20250309T224024Z">
+        <seg>Mover in alto (&lt;k0&gt;U&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53973,6 +54061,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Review the results and makes any necessary manual adjustments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222730Z" creationid="Melo46" creationdate="20250309T222730Z">
+        <seg>Revide le resultatos e face alcun adjustamentos manual necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reviews of OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130526T195157Z">
@@ -54699,6 +54795,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T083151Z" creationid="Melo46" creationdate="20250302T083151Z">
         <seg>Salva le file post que tu ha finite facer tu cambiamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the result to a TMX file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222744Z" creationid="Melo46" creationdate="20250309T222744Z">
+        <seg>Salvar le resultato a un file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59110,6 +59214,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the source and target languages and select the two files you want to align.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222430Z" creationid="Melo46" creationdate="20250309T222430Z">
+        <seg>Specificar le linguas fonte e de destination e seliger le duo files que tu vole alinear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T172627Z" creationid="will" creationdate="20230324T172627Z">
@@ -62925,6 +63037,30 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aligner can read all file formats supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222753Z" creationid="Melo46" creationdate="20250309T222753Z">
+        <seg>Le alineator pote leger tote formatos de file supportate per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner includes tags in the segments by default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223452Z" creationid="Melo46" creationdate="20250309T223452Z">
+        <seg>Le alineator include tags in le segmentos de ordinario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner reads the files and attempts to match the segments that correspond to one another in the original and translated texts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222656Z" creationid="Melo46" creationdate="20250309T222656Z">
+        <seg>Le alineator lege le files e tenta de concordar le segmentos que corresponde le un le altere in le texto original e illo traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130703T064511Z">
@@ -65290,6 +65426,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The main part of the window is divided into three columns:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223114Z" creationid="Melo46" creationdate="20250309T223114Z">
+        <seg>Le parte principal del fenestra es dividite in tres columnas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The main project folder contains 3 tmx files, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; and &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name being the name of your project).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T061539Z">
@@ -65390,6 +65534,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T001851Z" creationid="Melo46" creationdate="20250302T001851Z">
         <seg>Le claves modificator que forma le vias breve varia legiermente secundo le platteformas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most common actions are also accessible from the buttons at the right of the main pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T224016Z" creationid="Melo46" creationdate="20250309T224016Z">
+        <seg>Le actiones plus commun es alsi accessibile ab le buttones al dextra del pannello principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74602,6 +74754,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck the check box to remove all tags from the alignment and the resulting TMX.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223626Z" creationid="Melo46" creationdate="20250309T223626Z">
+        <seg>Dismarca le quadrato de verifica pro remover tote le tags del alineamento e del TMX resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T094302Z" creationid="Melo46" creationdate="20200726T094302Z">
@@ -74622,6 +74782,14 @@ In le recercas per concordantia exacte, concorda le fila de character de recerca
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T120410Z" creationid="Melo46" creationdate="20150423T120410Z">
         <seg>Dismarca iste option pro prevenir omne damno sur le tags (i.e., partial deletion) durante le modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unchecked rows are discarded.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T223334Z" creationid="Melo46" creationdate="20250309T223334Z">
+        <seg>Le lineas non marcate es removite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75590,6 +75758,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T171525Z" creationid="Melo46" creationdate="20250305T171525Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder iste fenestra de dialogo (le &lt;l2&gt;OmegaT&lt;/l2&gt; menu sur macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T222152Z" creationid="Melo46" creationdate="20250309T222152Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder a iste utensile.</seg>
       </tuv>
     </tu>
     <tu>
