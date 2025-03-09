@@ -4214,6 +4214,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dhttp.proxyHost=&lt;proxy IP&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000336Z" creationid="Melo46" creationdate="20250309T000336Z">
+        <seg>-Dhttp.proxyHost=&lt;proxy proprietate intellectual&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T091709Z" creationid="Melo46" creationdate="20200730T091709Z">
@@ -7484,6 +7492,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T074600Z" creationid="Melo46" creationdate="20210220T074600Z">
         <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;java parameters&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000223Z" creationid="Melo46" creationdate="20250309T000223Z">
+        <seg>&lt;parametros de java&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19144,6 +19160,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171113T191104Z" creationid="Karm46" creationdate="20171113T191104Z">
         <seg>Le commando es mancante de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command syntax</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000001Z" creationid="Melo46" creationdate="20250309T000001Z">
+        <seg>Syntaxe del commandos</seg>
       </tuv>
     </tu>
     <tu>
@@ -38709,6 +38733,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T203532Z">
         <seg>Script Java a linea de commando pro remover unitates de traduction (TU)  "superflue" ex un file TMX: cancella tote le TUs sin segmento de destination o in los qual le segmento de destination es identic al segmento de origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java parameters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000332Z" creationid="Melo46" creationdate="20250309T000332Z">
+        <seg>Parametros de Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -66737,6 +66769,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The syntax to launch OmegaT from the terminal is:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000028Z" creationid="Melo46" creationdate="20250309T000028Z">
+        <seg>Le syntaxe pro lancear OmegaT ab le terminal es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The system maintains versioning for data shared</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T114733Z">
@@ -86811,6 +86851,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -jar</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000232Z" creationid="Melo46" creationdate="20250309T000232Z">
+        <seg>java -jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T085835Z">
@@ -86839,6 +86887,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130707T215842Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000051Z" creationid="Melo46" creationdate="20250309T000051Z">
+        <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT options&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -88839,6 +88895,16 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T125550Z" creationid="Melo46" creationdate="20160728T153327Z">
         <seg>aperi le cassa de dialogo pro auto-completar con le contextual suggestiones (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>open path/to/OmegaT.app
+		-n --args &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000154Z" creationid="Melo46" creationdate="20250309T000111Z">
+        <seg>open path/to/OmegaT.app
+		-n --args &lt;optiones de OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
