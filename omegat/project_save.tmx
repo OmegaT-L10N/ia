@@ -3782,6 +3782,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001808Z" creationid="Melo46" creationdate="20250309T001808Z">
+        <seg>--disable-location-save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -3798,6 +3806,14 @@ configurationes del projecto).</seg>
       <tuv lang="ia" changeid="will" changedate="20230317T055028Z" creationid="will" creationdate="20230317T055028Z">
         <seg>--disable-location-save
 		Oblidar le ultime plica aperte in le selector de file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000556Z" creationid="Melo46" creationdate="20250309T000556Z">
+        <seg>--disable-project-locking</seg>
       </tuv>
     </tu>
     <tu>
@@ -3974,6 +3990,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000538Z" creationid="Melo46" creationdate="20250309T000538Z">
+        <seg>--no-team</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
@@ -4030,6 +4054,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000928Z" creationid="Melo46" creationdate="20250309T000928Z">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
@@ -4046,6 +4078,14 @@ configurationes del projecto).</seg>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T063558Z" creationid="Melo46" creationdate="20250302T063558Z">
         <seg>--pseudotranslatetype=[equal|empty]
 	    Que mitter in le file TMX pseudotraducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--quiet</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001023Z" creationid="Melo46" creationdate="20250309T001023Z">
+        <seg>--quiet</seg>
       </tuv>
     </tu>
     <tu>
@@ -4160,12 +4200,28 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001007Z" creationid="Melo46" creationdate="20250309T001007Z">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T173823Z" creationid="will" creationdate="20230317T061924Z">
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifica le formato de emitte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001030Z" creationid="Melo46" creationdate="20250309T001030Z">
+        <seg>--tag-validation=[abort|warn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +4274,14 @@ configurationes del projecto).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T000336Z" creationid="Melo46" creationdate="20250309T000336Z">
         <seg>-Dhttp.proxyHost=&lt;proxy proprietate intellectual&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dhttp.proxyPort=&lt;port number&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000505Z" creationid="Melo46" creationdate="20250309T000505Z">
+        <seg>-Dhttp.proxyPort=&lt;port number&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8554,6 +8618,134 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084935Z">
         <seg>&lt;nullo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt;&lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000602Z" creationid="Melo46" creationdate="20250309T000602Z">
+        <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt;&lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--ITokenizerTarget=&lt;/o0&gt;&lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000607Z" creationid="Melo46" creationdate="20250309T000607Z">
+        <seg>&lt;o0&gt;--ITokenizerTarget=&lt;/o0&gt;&lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000944Z" creationid="Melo46" creationdate="20250309T000944Z">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000614Z" creationid="Melo46" creationdate="20250309T000614Z">
+        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=[console mode name]&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt; &lt;u2&gt;&lt;mode option&gt;&lt;/u2&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000814Z" creationid="Melo46" creationdate="20250309T000657Z">
+        <seg>&lt;o0&gt;--mode=[console mode name]&lt;/o0&gt; &lt;u1&gt;&lt;route de projecto&gt;&lt;/u1&gt; &lt;u2&gt;&lt;option de modo&gt;&lt;/u2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-align&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000921Z" creationid="Melo46" creationdate="20250309T000921Z">
+        <seg>&lt;o0&gt;--mode=console-align&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-createpseudotranslatetmx&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000912Z" creationid="Melo46" creationdate="20250309T000912Z">
+        <seg>&lt;o0&gt;--mode=console-createpseudotranslatetmx&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-stats&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000950Z" creationid="Melo46" creationdate="20250309T000950Z">
+        <seg>&lt;o0&gt;--mode=console-stats&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001525Z" creationid="Melo46" creationdate="20250309T001525Z">
+        <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000954Z" creationid="Melo46" creationdate="20250309T000954Z">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000934Z" creationid="Melo46" creationdate="20250309T000934Z">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;path-to-omegat-project-file&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000549Z" creationid="Melo46" creationdate="20250309T000549Z">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;path-to-omegat-project-file&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000640Z" creationid="Melo46" creationdate="20250309T000640Z">
+        <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001016Z" creationid="Melo46" creationdate="20250309T001016Z">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt;&lt;u1&gt;&lt;pattern&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000817Z" creationid="Melo46" creationdate="20250309T000817Z">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt;&lt;u1&gt;&lt;pattern&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000524Z" creationid="Melo46" creationdate="20250309T000524Z">
+        <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23356,6 +23548,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001804Z" creationid="Melo46" creationdate="20250309T001804Z">
+        <seg>Non memorar le ultime plica aperte in le selector del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T234108Z" creationid="MELO46" creationdate="20140106T234108Z">
@@ -30727,6 +30927,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are some typical examples:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001437Z" creationid="Melo46" creationdate="20250309T001437Z">
+        <seg>Ecce alcun exemplos typic:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T093126Z">
@@ -36244,6 +36452,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20160813T153649Z" creationid="Melo" creationdate="20160813T153649Z">
         <seg>In iste modo, "&lt;g1&gt;Cursor non blocate&lt;/g1&gt;" es displicate al  basso del quadro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT attempts to translate the files in the source folder with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001747Z" creationid="Melo46" creationdate="20250309T001747Z">
+        <seg>In iste modo, OmegaT tenta traducer le files in le plica fonte con le memorias de traduction disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52556,6 +52772,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember that in regular expressions, the period and backslash character must be escaped: &lt;c0&gt;\.&lt;/c0&gt; and &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001402Z" creationid="Melo46" creationdate="20250309T001402Z">
+        <seg>Rememora que in le expressiones regular, le character puncto e barra-retro debe esser resolvite: &lt;c0&gt;\.&lt;/c0&gt; e &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T194016Z" creationid="Melo46" creationdate="20250225T194016Z">
@@ -58830,6 +59054,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the TMX file to create with:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001233Z" creationid="Melo46" creationdate="20250309T001233Z">
+        <seg>Specificar le file TMX con que crear:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify the encoding for your plain text files</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T173859Z">
@@ -64170,6 +64402,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following options are available:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001521Z" creationid="Melo46" creationdate="20250309T001521Z">
+        <seg>Le optiones sequente elementos es disponibile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="ia" changeid="karm46" changedate="20180424T152446Z" creationid="karm46" creationdate="20180424T152446Z">
@@ -65474,6 +65714,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T085745Z" creationid="Karm46" creationdate="20171001T085745Z">
         <seg>Le contrasignos non concorda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The path containing the files translated in the target language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001113Z" creationid="Melo46" creationdate="20250309T001113Z">
+        <seg>Le route que contine le files traducite in le lingua de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73110,6 +73358,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate all HTML files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000909Z" creationid="Melo46" creationdate="20250309T000909Z">
+        <seg>Traducer tote le files HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate blank source segments</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230305T081327Z" creationid="will" creationdate="20230305T081327Z">
@@ -77279,6 +77535,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T000715Z" creationid="Melo46" creationdate="20250224T000715Z">
         <seg>Qual es le littera mancante?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T001200Z" creationid="Melo46" creationdate="20250309T001200Z">
+        <seg>Con que plenar le TMX pseudotraducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91851,6 +92115,16 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T180304Z">
         <seg>regulas de segmentation base del usator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user.language=fr
+config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250309T000632Z" creationid="Melo46" creationdate="20250309T000632Z">
+        <seg>user.language=fr
+config-dir="path/to/new/configdir"</seg>
       </tuv>
     </tu>
     <tu>
