@@ -13104,6 +13104,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administrators have two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T181158Z" creationid="Melo46" creationdate="20250313T181158Z">
+        <seg>Le administratores ha duo optiones pro inviar le position del projecto al traductores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advanced feature HowTos</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T133000Z" creationid="Karm46" creationdate="20171115T133000Z">
@@ -13372,6 +13380,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T143248Z">
         <seg>Postquam le file fonte essera cargate in le quadro &lt;g3&gt;Modifica&lt;/g3&gt;, tu potera clauder le fenestra de dialogo &lt;g4&gt;Files del Projecto&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the team project administrator confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the administrator (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T181857Z" creationid="Melo46" creationdate="20250313T181857Z">
+        <seg>Post que le administrator del projecto de equipa confirma que un traductor ha essite capace de aperir le projecto de equipa, il es un bon idea verificar que le &lt;l0&gt;statisticas de projecto&lt;/l0&gt; es le mesmos pro ambes: le administrator (sur le servitor) e le traductor (localmente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34036,6 +34052,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they do not match, make sure the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are properly shared.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T181945Z" creationid="Melo46" creationdate="20250313T181945Z">
+        <seg>Si illes non concorda, verifica que le files &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; es correctemente compartite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this is all you're interested in, you can skip to step 3a.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T154812Z" creationid="Karm46" creationdate="20171116T154812Z">
@@ -35040,6 +35064,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T064507Z" creationid="MELO46" creationdate="20140106T064507Z">
         <seg>Si tu debe vider le tags in OmegaT ma non necessita conservar le major parte del formattation in le documento rendite tu es libere ne includer le tags in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to work on the project too, download the project yourself to a local location different from the local team project location</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T182253Z" creationid="Melo46" creationdate="20250313T182253Z">
+        <seg>Si tu debe laborar sur le projecto ancora, discarga te le projecto a un position local differente ab le position local del projecto de equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -54539,6 +54571,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T183340Z" creationid="Melo46" creationdate="20250313T183340Z">
+        <seg>Mappas de repositorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T234234Z" creationid="Melo46" creationdate="20160728T234234Z">
@@ -58062,6 +58102,22 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T072309Z" creationid="Karm46" creationdate="20171115T134224Z">
         <seg>Curso de exercitation in Internet in Anglese (a comprar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send a URL and ask the translators to use &lt;l0/&gt;&lt;l1/&gt; to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T181305Z" creationid="Melo46" creationdate="20250313T181305Z">
+        <seg>Inviar un URL e demandar al traductores de usar &lt;l0/&gt;&lt;l1/&gt; pro crear un copia local del projecto sur lor proprie systema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing the project URL, and then have the translators copy it to an empty folder and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T181540Z" creationid="Melo46" creationdate="20250313T181540Z">
+        <seg>Inviar un file &lt;f0&gt;omegat.project&lt;/f0&gt; que contine le URL del projecto, e pois demandar al traductores de copiar lo a un plica vacue e aperir lo in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70520,6 +70576,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T181630Z" creationid="Melo46" creationdate="20250313T181630Z">
+        <seg>Isto pote esser utile si le projecto es definite pro usar differente &lt;l1&gt;mappas&lt;/l1&gt; pro cata traductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can easily be restored again in the future.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130606T051243Z">
@@ -81974,6 +82038,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T231639Z">
         <seg>On pote modificar, corriger, adder o eliminar informationes a proprie discretion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can now also work on the project with the team</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T182306Z" creationid="Melo46" creationdate="20250313T182306Z">
+        <seg>Ora tu pote alsi laborar sur le projecto con le equipa</seg>
       </tuv>
     </tu>
     <tu>
