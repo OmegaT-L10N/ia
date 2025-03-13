@@ -12880,6 +12880,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the necessary files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T171223Z" creationid="Melo46" creationdate="20250313T171223Z">
+        <seg>Adder le files necessari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T045213Z" creationid="Melo46" creationdate="20200728T045213Z">
@@ -18870,6 +18878,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose the appropriate settings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T171014Z" creationid="Melo46" creationdate="20250313T171014Z">
+        <seg>Selige le parametros appropriate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the one that provides the best results.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T223038Z" creationid="Melo46" creationdate="20200730T223038Z">
@@ -20733,6 +20749,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T214015Z">
         <seg>Copia le files que tu ha expandite ex le pacchetto tokenizer directemente in iste sub plica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the files to translate to the source/ folder, and use your SVN or Git client, or the command line, to add and publish them to the repository.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172024Z" creationid="Melo46" creationdate="20250313T172024Z">
+        <seg>Copia le files fonte al plica source/, e usa tu application cliente SVN o Git, o le linea de commando, pro adder e publicar los al repositorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34140,6 +34164,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are converting an existing project, make sure you delete any files in the project that you do not need or want to upload to the server before proceeding to the next step.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T171856Z" creationid="Melo46" creationdate="20250313T171856Z">
+        <seg>Si tu converte un projecto existente, verifica que tu dele tote le files in le projecto que tu non besonia o non vole cargar al servitor ante de continuar al passo successive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T170909Z" creationid="Melo46" creationdate="20250313T170909Z">
@@ -36452,6 +36484,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T151001Z" creationid="Melo46" creationdate="20250313T151001Z">
         <seg>In tal casos, le optiones definite in le file de configuration ha le precedentia super qualcunque option con functionalitate duplicate alsi passate sur le linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server using &lt;l1/&gt;&lt;l2/&gt; and &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172419Z" creationid="Melo46" creationdate="20250313T172419Z">
+        <seg>In projectos de equipa que usar un simple mappa inter le repositorio local e le repositorio remote (le predefinite), &lt;e0&gt;e solo in tal projectos&lt;/e0&gt;, le fonte e files de destination pote esser modificate localmente e cargava al servitor usar &lt;l1/&gt;&lt;l2/&gt; e &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42151,6 +42191,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T175415Z" creationid="Melo46" creationdate="20250305T175415Z">
         <seg>Verifica que tu ha le credentiales correcte ante usar iste function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make the necessary changes to the project properties at this stage, including local file filters or segmentation settings.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T171107Z" creationid="Melo46" creationdate="20250313T171107Z">
+        <seg>Face le cambiamentos necessari al proprietates de projecto a iste grado, includite filtros de files local o parametros de segmentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53290,6 +53338,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register the project files into the local VCS</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172751Z" creationid="Melo46" creationdate="20250313T172751Z">
+        <seg>Registra le files del projecto in le VCS local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register your application</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T211644Z" creationid="Karm46" creationdate="20171128T211644Z">
@@ -56297,6 +56353,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;spellchecker files&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T171604Z" creationid="Melo46" creationdate="20250313T171604Z">
+        <seg>Vider &lt;l0&gt;files de corrector orthographic&lt;/l0&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1/&gt; for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T090242Z" creationid="will" creationdate="20230301T090242Z">
@@ -56617,6 +56681,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; dialog for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T171127Z" creationid="Melo46" creationdate="20250313T171127Z">
+        <seg>Vider le fenestra de dialogo &lt;l0/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; how-to for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T083553Z" creationid="will" creationdate="20230228T161612Z">
@@ -56757,6 +56829,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T223838Z" creationid="Melo46" creationdate="20250305T223838Z">
         <seg>Vider le fenestra &lt;l1/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172658Z" creationid="Melo46" creationdate="20250313T172658Z">
+        <seg>Vider le preferentia &lt;l2/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58578,6 +58658,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T171556Z" creationid="Melo46" creationdate="20250313T171556Z">
+        <seg>De modo similar adde tote le pertinente listas de files de corrector orthographic que tu vole facer disponibile pro quicunque labora sur le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250224T000309Z" creationid="Melo46" creationdate="20250224T000309Z">
@@ -59190,6 +59278,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T143434Z">
         <seg>Alicun altere applicationes CAT es capabile de importar e exportar files glossario in iste formato, o in un formato de texto simple simile que pote esser producite per illos multo facilemente (per exemplo per un operation recercar &amp; reimplaciar in Microsoft Word).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some plugins can make this task easier.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172641Z" creationid="Melo46" creationdate="20250313T172641Z">
+        <seg>Alcun plugins pote render plus facile iste activitate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68291,6 +68387,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The team project administrator must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172520Z" creationid="Melo46" creationdate="20250313T172520Z">
+        <seg>Le administrator del projecto de equipa debe usar le VCS local pro &lt;e0&gt;modificar&lt;/e0&gt; o &lt;e1&gt;deler&lt;/e1&gt; ille files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The template variables list gives you access to various project data and system variables.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T091912Z" creationid="Melo46" creationdate="20250308T091912Z">
@@ -70440,6 +70544,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command also automatically registers the project in the version control system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T170937Z" creationid="Melo46" creationdate="20250313T170937Z">
+        <seg>Iste commando alsi automaticamente registra le projecto in le systema de controlo de version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command can only be performed on a single segment.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T230009Z" creationid="Melo46" creationdate="20250309T230009Z">
@@ -72224,6 +72336,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T231631Z">
         <seg>Iste situation essera probabilemente familiar a te si tu ha rendite files Powerpoint in OmegaT, o pro ille caso, per altere applicationes CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This step can be performed before the registering and publishing the project for the first time, and can also be used to add new files, or update existing ones after the project has been created.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172415Z" creationid="Melo46" creationdate="20250313T172415Z">
+        <seg>Iste passo pote esser exequite ante le registration e publication del projecto per le prime vice, e pote alsi esser usate pro adder nove files, o actualisar los existente post que le projecto ha essite create.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76772,6 +76892,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T222152Z" creationid="Melo46" creationdate="20250309T222152Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro acceder a iste utensile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add files from OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172053Z" creationid="Melo46" creationdate="20250313T172053Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro adder files ab OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82515,6 +82643,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220105T144226Z" creationid="will" creationdate="20220105T144226Z">
         <seg>Tu debe alora pulsar de novo &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; pro inserer le suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your SVN or Git client, or the command line, to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172211Z" creationid="Melo46" creationdate="20250313T172211Z">
+        <seg>Tu debe usar tu application cliente SVN o Git, o le linea de commando, pro adder e publicar tote le dictionarios, glossarios, memorias de traduction o altere files que tu vole includer in le projecto.</seg>
       </tuv>
     </tu>
     <tu>
