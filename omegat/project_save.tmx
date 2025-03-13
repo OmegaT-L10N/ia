@@ -8554,6 +8554,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;Associate&lt;/l0&gt; the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200810Z" creationid="Melo46" creationdate="20250313T200810Z">
+        <seg>&lt;l0&gt;Associar&lt;/l0&gt; le formato a un formato jam supportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T224517Z" creationid="Melo46" creationdate="20200730T224517Z">
@@ -26687,6 +26695,14 @@ Nemo audi tu critos</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files in the project, even if they are located in an excluded folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200334Z" creationid="Melo46" creationdate="20250313T200334Z">
+        <seg>Exemplo: &lt;u0&gt;**/*.docx&lt;/u0&gt; pro adder tote le files .docx in le projecto, mesmo si illos es ubicate in un plica excluse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T101325Z" creationid="Melo46" creationdate="20200728T101325Z">
@@ -35198,6 +35214,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T064507Z" creationid="MELO46" creationdate="20140106T064507Z">
         <seg>Si tu debe vider le tags in OmegaT ma non necessita conservar le major parte del formattation in le documento rendite tu es libere ne includer le tags in le traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to support formats that are not covered by OmegaT, there are four ways to do so:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200724Z" creationid="Melo46" creationdate="20250313T200724Z">
+        <seg>Si tu debe supportar formatos que non es coperte per OmegaT, il ha quatro manieras pro facer lo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48587,6 +48611,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's file filters provide a wide range of support for common and less common file formats.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200526Z" creationid="Melo46" creationdate="20250313T200526Z">
+        <seg>Le filtros de files de OmegaT forni un large campo de supporto pro formatos de file commun e minus commun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130530T170259Z">
@@ -61276,6 +61308,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T085718Z">
         <seg>Supporto pro linguas de dextera al sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support other formats</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200425Z" creationid="Melo46" creationdate="20250313T200425Z">
+        <seg>Supportar altere formatos</seg>
       </tuv>
     </tu>
     <tu>
