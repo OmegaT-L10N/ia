@@ -11412,6 +11412,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A Java .properties file to use for interface text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151123Z" creationid="Melo46" creationdate="20250313T151123Z">
+        <seg>Un file .proprietates de Java a usar pro le texto de interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T065557Z">
@@ -14330,6 +14338,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An allowlist of regular expressions defining the source files to process.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151353Z" creationid="Melo46" creationdate="20250313T151353Z">
+        <seg>Un lista permittite de expressiones regular defini le files fonte a elaborar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T181159Z">
@@ -14908,6 +14924,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T130202Z" creationid="Melo46" creationdate="20250225T130202Z">
         <seg>qualcunque combination de tres litteras comenciante con “c” e finiente con “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, o mesmo combinationes sin senso tal como “&lt;e3&gt;czt&lt;/e3&gt;” o “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any files also named test.html in other subfolders will be ignored.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151426Z" creationid="Melo46" creationdate="20250313T151426Z">
+        <seg>Alcun files alsi nominate test.html in altere sub-plicas sera ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28981,6 +29005,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, the specified folder must contain a bundle ending with &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151835Z" creationid="Melo46" creationdate="20250313T151835Z">
+        <seg>Per exemplo, si le projecto es EN-&gt;IA, le plica specificate debe continer un pacco finiente con &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T222934Z">
@@ -36320,6 +36352,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In such cases, options defined in the config file take precedence over any option with duplicate functionality also passed on the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151001Z" creationid="Melo46" creationdate="20250313T151001Z">
+        <seg>In tal casos, le optiones definite in le file de configuration ha le precedentia super qualcunque option con functionalitate duplicate alsi passate sur le linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T185638Z" creationid="Melo46" creationdate="20250301T185638Z">
@@ -36814,6 +36854,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode OmegaT will create a TMX for the whole project using only the source files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151556Z" creationid="Melo46" creationdate="20250313T151556Z">
+        <seg>In iste modo OmegaT creara un file TMX pro tote le projecto usante solo le files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T085052Z">
@@ -36850,6 +36898,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T085721Z">
         <seg>In iste modo, OmegaT alineara le files proprietates Java trovate in le plica&lt;l0&gt; /source/ &lt;/l0&gt;del projecto al contentos trovate al ubication specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter below.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151724Z" creationid="Melo46" creationdate="20250313T151724Z">
+        <seg>In iste modo, OmegaT alineara le files in le plica /source del projecto con ille al position specificate per le parametro &lt;e0&gt;--alignDir&lt;/e0&gt; infra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48839,6 +48895,22 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only translate &lt;f0&gt;test.html&lt;/f0&gt; file in the source folder itself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151411Z" creationid="Melo46" creationdate="20250313T151411Z">
+        <seg>Solo traducer le file &lt;f0&gt;test.html&lt;/f0&gt; in le plica fonte mesme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only translate the &lt;f0&gt;test.html&lt;/f0&gt; file in the &lt;f1&gt;dir-10&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151459Z" creationid="Melo46" creationdate="20250313T151459Z">
+        <seg>Solo traducer le file &lt;f0&gt;test.html&lt;/f0&gt; in le plica &lt;f1&gt;directorio-10&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T191318Z" creationid="Melo46" creationdate="20200730T191318Z">
@@ -59676,6 +59748,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151228Z" creationid="Melo46" creationdate="20250313T151228Z">
+        <seg>Specificar un modo in ultra al interface graphic predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T131434Z" creationid="Melo46" creationdate="20200727T131434Z">
@@ -60574,6 +60654,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T210942Z" creationid="Melo46" creationdate="20160729T223559Z">
         <seg>Files gerite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Supported filters include: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, and Windows Resources.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T152747Z" creationid="Melo46" creationdate="20250313T152747Z">
+        <seg>Le filtros supportate include: files de lingua ILIAS, pacchettos de ressources Java(TM), texto clave=valor, localisation CSV Magento CE, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitulos, e Ressources de Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62019,6 +62107,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T125124Z" creationid="Melo46" creationdate="20250220T125124Z">
         <seg>Iste plica contine tote le files necessari pro face functionar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That folder must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151742Z" creationid="Melo46" creationdate="20250313T151742Z">
+        <seg>Ille plica debe continer un traduction in le lingua de destination del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66460,6 +66556,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151617Z" creationid="Melo46" creationdate="20250313T151617Z">
+        <seg>Le file TMX pseudotraducite de exito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The package also provides the &lt;f0&gt;omegat.kaptn&lt;/f0&gt; Kaptain script, which KDE users might find useful, as well as an &lt;f1&gt;OmegaT&lt;/f1&gt; bash script that automatically launches the appropriate &lt;a2&gt;java&lt;/a2&gt; command to run OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T234917Z" creationid="Melo46" creationdate="20250308T234917Z">
@@ -67016,6 +67120,14 @@ the User Product in which it has been modified or installed.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T160522Z">
         <seg>Le resultato dependera assi ab le ordine in le qual le segmentos fonte esseva cargate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting TMX file is saved in the &lt;f0&gt;omegat/&lt;/f0&gt; folder as &lt;f1&gt;align.tmx&lt;/f1&gt; The file types that can be aligned depend on whether the alignment is supported by the file filter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151927Z" creationid="Melo46" creationdate="20250313T151927Z">
+        <seg>Le resultante file TMX es salvate in le plica &lt;f0&gt;omegat/&lt;/f0&gt; como &lt;f1&gt;align.tmx&lt;/f1&gt; Le typos de file que pote esser alineate depende de si le alineamento es supportate per le filtro de file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71224,6 +71336,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130626T103639Z">
         <seg>Isto es utile pro textos continente multe marcas commercial o altere nomines proprie que debe restar sin alteration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful if OmegaT is run on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T151320Z" creationid="Melo46" creationdate="20250313T151320Z">
+        <seg>Isto es utile si OmegaT es exequite sur un servitor con files TMX automaticamente alimentate pro un projecto.</seg>
       </tuv>
     </tu>
     <tu>
