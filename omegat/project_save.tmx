@@ -15398,8 +15398,8 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       <tuv lang="en">
         <seg>As information on those topics is readily available, this manual limits itself to describing their use in the context of an OmegaT team project.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T154537Z" creationid="Melo46" creationdate="20250313T154537Z">
-        <seg>Como informationes sur ille themas es rapidemente disponibile, iste manual limita se mesme a describer lor uso in le contexto de un projecto de equipa OmegaT.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T155834Z" creationid="Melo46" creationdate="20250313T154537Z">
+        <seg>Pois que le informationes sur ille themas es facilemente disponibile, iste manual se limita a describer lor uso in le contexto de un projecto de equipa OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20234,6 +20234,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the documentation for your server or hosting service for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T155229Z" creationid="Melo46" creationdate="20250313T155229Z">
+        <seg>Consulta le documentation pro tu servitor o servicio hoste pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consult the documentation for your system for more information.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T114352Z" creationid="Melo46" creationdate="20250313T114236Z">
@@ -21373,6 +21381,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130818T150319Z">
         <seg>Crea un plica vacue, ubi tu retenera tu projecto e clicca con le dextero sur illo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an empty repository on your VCS hosting server</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T155009Z" creationid="Melo46" creationdate="20250313T155009Z">
+        <seg>Crea un repositorio vacue sur tu servitor hoste VCS</seg>
       </tuv>
     </tu>
     <tu>
@@ -27759,6 +27775,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fill the empty local copy with a real OmegaT project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T160751Z" creationid="Melo46" creationdate="20250313T160751Z">
+        <seg>Plena le copia local vacue con un projecto OmegaT real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081537Z">
@@ -31325,6 +31349,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are the steps to set up a team project:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T154913Z" creationid="Melo46" creationdate="20250313T154913Z">
+        <seg>Ecce le passos pro configurar un projecto de equipa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T093126Z">
@@ -34872,6 +34904,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Si tu necessita configurationes non-standard, le files de configuration correspondente (&lt;l0&gt;filters.conf&lt;/l0&gt; e &lt;l1&gt;segmentation.conf&lt;/l1&gt;) debe esser presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to perform translation or review tasks on that project, use OmegaT to download a separate copy of the team project and work from there.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T160621Z" creationid="Melo46" creationdate="20250313T160621Z">
+        <seg>Si tu debe exequer traductiones o revider activitates sur ille projecto, usa OmegaT pro discargar un copia separate del projecto de equipa e labora ab illac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42151,6 +42191,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T132655Z" creationid="Melo46" creationdate="20200727T132655Z">
         <seg>Gerer linguas de dextra a sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;SVN&lt;/e0&gt; or &lt;e1&gt;Git&lt;/e1&gt; version control system (&lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T155735Z" creationid="Melo46" creationdate="20250313T155659Z">
+        <seg>Gerer un projecto de equipa require alcun cognoscentia de Systema de Controlo de Version &lt;e0&gt;SVN&lt;/e0&gt; o &lt;e1&gt;Git&lt;/e1&gt; (&lt;e2&gt;VCS&lt;/e2&gt; in le resto de iste section).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51488,6 +51536,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130520T122033Z">
         <seg>Preparation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preparations</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T154907Z" creationid="Melo46" creationdate="20250313T154907Z">
+        <seg>Preparationes</seg>
       </tuv>
     </tu>
     <tu>
@@ -66040,6 +66096,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local repository is used to add the initial project to the server, and can also be used for maintenance tasks, such as deleting files, that cannot be performed directly within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T160422Z" creationid="Melo46" creationdate="20250313T160422Z">
+        <seg>Le repositorio local sole adder le projecto initial al servitor, e pote alsi esser usate pro activitates de mantenentia, tal como deler files, que non pote esser exequite directemente intra OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location depends on the operating system and launch options.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T174327Z" creationid="Melo46" creationdate="20250305T174327Z">
@@ -70232,6 +70296,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can normally be done through a web interface, a graphical application, or the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T155054Z" creationid="Melo46" creationdate="20250313T155054Z">
+        <seg>Isto pote normalmente esser facite per un interface web, un application graphic, o le linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T185953Z">
@@ -71544,6 +71616,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T065338Z">
         <seg>Iste lista es pro le discussion plus technic re characteristicas e disveloppamento, e es designate pro le disveloppatores de OmegaT e de altere partes interessate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This local version contains your &lt;e0&gt;project manager&lt;/e0&gt; copy of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T160223Z" creationid="Melo46" creationdate="20250313T160223Z">
+        <seg>Iste version local contine le copia de tu projecto OmegaT pro le &lt;e0&gt;gestor de projecto&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76992,6 +77072,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use it to make modifications that affect the entire team.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T160230Z" creationid="Melo46" creationdate="20250313T160230Z">
+        <seg>Usa lo pro facer modificationes que affice tote le equipa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use local &amp;segmentation rules</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230328T091644Z" creationid="will" creationdate="20230324T170928Z">
@@ -77164,6 +77252,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T185223Z">
         <seg>Usa le macro pro nivellar le formato sol sur paragraphos con poc o nulle formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the local VCS to make a local copy (clone)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T155313Z" creationid="Melo46" creationdate="20250313T155313Z">
+        <seg>Usa le VCS local pro facer un copia local (clone)</seg>
       </tuv>
     </tu>
     <tu>
@@ -78573,6 +78669,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T201109Z" creationid="ia" creationdate="20170909T201109Z">
         <seg>Nos non pote trovar le pagina que tu recerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend that you avoid using that folder for translation tasks.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T160529Z" creationid="Melo46" creationdate="20250313T160529Z">
+        <seg>Nos consilia que tu evita de usar ille plica pro activitates de traduction.</seg>
       </tuv>
     </tu>
     <tu>
