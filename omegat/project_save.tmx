@@ -2940,6 +2940,14 @@ Pro adder files al projecto, clicca sur le button "Copia files fonte..." in le f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(This can vary depending on your distribution.)</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125729Z" creationid="Melo46" creationdate="20250313T125729Z">
+        <seg>(Isto pote variar secundo tu distribution.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T143319Z">
@@ -4340,6 +4348,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Duser.language=LL</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130503Z" creationid="Melo46" creationdate="20250313T130503Z">
+        <seg>-Duser.language=LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T091724Z" creationid="Melo46" creationdate="20200730T091724Z">
@@ -4528,6 +4544,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125643Z" creationid="Melo46" creationdate="20250313T125643Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/bin/bash&lt;/l0&gt; or &lt;l1&gt;#!</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T110723Z" creationid="Melo46" creationdate="20250223T110716Z">
@@ -4564,6 +4588,14 @@ configurationes del projecto).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T230907Z" creationid="Melo46" creationdate="20250222T230907Z">
         <seg>/optar/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125649Z" creationid="Melo46" creationdate="20250313T125649Z">
+        <seg>/opt/omegat/OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,6 +5254,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T084021Z">
         <seg>Nulle suggestiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130352Z" creationid="Melo46" creationdate="20250313T130352Z">
+        <seg>&lt;Optiones de OmegaT&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17322,6 +17362,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T230451Z" creationid="Melo46" creationdate="20250222T230451Z">
         <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125633Z" creationid="Melo46" creationdate="20250313T125633Z">
+        <seg>C:\Program Files\OmegaT\OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -31109,6 +31157,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are the default OmegaT.jar locations for each major platform:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125625Z" creationid="Melo46" creationdate="20250313T125625Z">
+        <seg>Ecce le positiones predefinite de OmegaT.jar pro cata platteforma major:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T093126Z">
@@ -33318,6 +33374,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T104609Z" creationid="Melo46" creationdate="20250308T104609Z">
         <seg>Si le plica es vacue, nulle del files contine contento traducibile, o il non ha alcun file supportate per le filtros de files disponibile, OmegaT te contara que le plica es vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130839Z" creationid="Melo46" creationdate="20250313T130839Z">
+        <seg>Si le lingua non es disponibile, le valores de OmegaT sera predefinite a anglese mesmo si le systema usa un lingua predefinite differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36482,6 +36546,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T030048Z" creationid="Melo46" creationdate="20151116T030048Z">
         <seg>In le documento rendite, pro iste segmento apparera nihil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the terminal, you type commands and their associated parameters to perform tasks.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125255Z" creationid="Melo46" creationdate="20250313T125255Z">
+        <seg>In le terminal, typa le commandos e lor parametros associate pro exequer cargas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41503,6 +41575,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130816T084237Z">
         <seg>Le servicios de Traduction Automatic ha complite resultatos bon e constantemente melior in le evalutationes del recerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Macos</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125639Z" creationid="Melo46" creationdate="20250313T125639Z">
+        <seg>Macos</seg>
       </tuv>
     </tu>
     <tu>
@@ -47957,6 +48037,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Linux, the default terminal application for your distribution should be available from the application menu or one of its submenus.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125050Z" creationid="Melo46" creationdate="20250313T125050Z">
+        <seg>Sur Linux, le application terminal predefinite pro tu distribution deberea esser disponibile ab le menu del applicationes o un de su sub-menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Mac OS X</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T184543Z">
@@ -47997,6 +48085,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows, the &lt;c0&gt;\&lt;/c0&gt; character is used to separate folder and file names, while macOS and Linux use the &lt;c1&gt;/&lt;/c1&gt; to do so.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125524Z" creationid="Melo46" creationdate="20250313T125524Z">
+        <seg>Sur Windows, le character &lt;c0&gt;\&lt;/c0&gt; sole separar plica e nomines de files, dum macOS e Linux usa le &lt;c1&gt;/&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows, you can use either the &lt;a0&gt;Command Prompt&lt;/a0&gt; or &lt;a1&gt;Powershell&lt;/a1&gt; as a terminal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T115611Z" creationid="Melo46" creationdate="20250313T115611Z">
@@ -48009,6 +48105,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T085946Z" creationid="Melo46" creationdate="20200730T085946Z">
         <seg>Sur macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS, it is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; directly in the terminal, in which case java parameters cannot be added:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130010Z" creationid="Melo46" creationdate="20250313T130010Z">
+        <seg>Sur macOS, il es alsi possibile a usar &lt;f0&gt;OmegaT.app&lt;/f0&gt; directemente in le terminal, in le qual caso parametros de java non pote esser addite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49243,6 +49347,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T092710Z">
         <seg>Le systemas operative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optional parameters accepted by the &lt;c0&gt;java&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130229Z" creationid="Melo46" creationdate="20250313T130229Z">
+        <seg>parametros optional acceptate per le commando &lt;c0&gt;java&lt;/c0&gt; commandar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53634,6 +53746,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;u1&gt;ISO 639.1&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130558Z" creationid="Melo46" creationdate="20250313T130558Z">
+        <seg>Reimplaciar &lt;c0&gt;LL&lt;/c0&gt; con le desirate codice a duo litteras codice de lingua del lista &lt;u1&gt;ISO 639.1&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T162607Z">
@@ -53695,6 +53815,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T211212Z" creationid="MELO46" creationdate="20140629T211212Z">
         <seg>Replacia le sequentias escappate con le spatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace it with the actual location of the file on your system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125806Z" creationid="Melo46" creationdate="20250313T125806Z">
+        <seg>Replaciar lo con le real position del file sur tu systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61727,6 +61855,14 @@ Le ambito de un substitution de texto es le segmentos de destination del project
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That location is presented as &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; in this chapter.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125744Z" creationid="Melo46" creationdate="20250313T125744Z">
+        <seg>Ille position es presentate como &lt;f0&gt;route/a/OmegaT.jar&lt;/f0&gt; in iste capitulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T184126Z">
@@ -65448,6 +65584,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The list below presents parameters for the &lt;c0&gt;java&lt;/c0&gt; command that can be useful when working with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130500Z" creationid="Melo46" creationdate="20250313T130500Z">
+        <seg>Le lista infra presenta parametros pro le commando &lt;c0&gt;java&lt;/c0&gt; que pote esser utile quando on labora con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The list of improvements and bug fixes.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T083547Z" creationid="will" creationdate="20230228T083547Z">
@@ -65532,6 +65676,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150423T165433Z" creationid="Melo46" creationdate="20150423T165433Z">
         <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the OmegaT java executable.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130313Z" creationid="Melo46" creationdate="20250313T130313Z">
+        <seg>Le position del OmegaT executabile java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66048,6 +66200,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options specific to OmegaT are described &lt;l0&gt;later in this section&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130430Z" creationid="Melo46" creationdate="20250313T130430Z">
+        <seg>Le optiones specific pro OmegaT es describite &lt;l0&gt;plus avante in iste section&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T173431Z" creationid="will" creationdate="20230324T173431Z">
@@ -66080,6 +66240,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T234917Z" creationid="Melo46" creationdate="20250308T234917Z">
         <seg>Le pacchetto alsi offere le script Kaptain &lt;f0&gt;omegat.kaptn&lt;/f0&gt;, que le usatores de KDE poterea trovar utile, e un script bash de &lt;f1&gt;OmegaT&lt;/f1&gt; que automaticamente lancea le appropriate commando &lt;a2&gt;java&lt;/a2&gt; pro exequer OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters relevant to running OmegaT are described &lt;l1&gt;below&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130230Z" creationid="Melo46" creationdate="20250313T130230Z">
+        <seg>Le parametros pertinente a currer OmegaT es describite &lt;l1&gt;infra&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67427,6 +67595,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T000028Z" creationid="Melo46" creationdate="20250309T000028Z">
         <seg>Le syntaxe pro lancear OmegaT ab le terminal es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax used to specify the location of an application or folder depends on the platform.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125419Z" creationid="Melo46" creationdate="20250313T125419Z">
+        <seg>Le syntaxe usate pro specificar le position o le plica de un application depende del platteforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69752,6 +69928,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command tells the Java Virtual Machine to run a Jar package.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130134Z" creationid="Melo46" creationdate="20250313T130134Z">
+        <seg>Iste commando indica al Machina virtual Java de functionar un pacchetto Jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085437Z">
@@ -70904,6 +71088,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131224T190101Z">
         <seg>Iste lista de posta electronic es pro le localisatores de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it easy to perform certain tasks that would be difficult to perform using a graphical interface.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T125342Z" creationid="Melo46" creationdate="20250313T125342Z">
+        <seg>Isto rende facile exequer certe cargas que esserea difficile exequer usante un interface graphic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77339,6 +77531,14 @@ cercabile sin subscription:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T073832Z" creationid="Melo46" creationdate="20200727T073832Z">
         <seg>Per iste option, le traductor pote specificar si le files de destination deberea haber includite le declaration de codification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this parameter launches OmegaT with the user interface in the specified language, if available (even partially).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130651Z" creationid="Melo46" creationdate="20250313T130651Z">
+        <seg>Usar iste parametro es lanceate OmegaT con le interface de usator in le lingua specificate, si disponibile (mesmo partialmente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -86655,6 +86855,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130508Z" creationid="Melo46" creationdate="20250313T130508Z">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T221658Z" creationid="Melo46" creationdate="20200730T221658Z">
@@ -92963,6 +93171,14 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220108T070059Z" creationid="will" creationdate="20220108T070059Z">
         <seg>ubi &lt;p0&gt;plica&lt;/p0&gt; es le nomine del plica, con complete percurso, in le qual tu programma OmegaT, specificamente, le file &lt;f1&gt;OmegaT.jar&lt;/f1&gt;, es ubicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;u0&gt;-n&lt;/u0&gt; is used to create a new instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130035Z" creationid="Melo46" creationdate="20250313T130035Z">
+        <seg>ubi &lt;u0&gt;-n&lt;/u0&gt; es usate pro un nove instantia de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
