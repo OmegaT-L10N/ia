@@ -4348,6 +4348,14 @@ configurationes del projecto).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Duser.country=CC</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130849Z" creationid="Melo46" creationdate="20250313T130849Z">
+        <seg>-Duser.country=CC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Duser.language=LL</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T130503Z" creationid="Melo46" creationdate="20250313T130503Z">
@@ -4360,6 +4368,14 @@ configurationes del projecto).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T091724Z" creationid="Melo46" creationdate="20200730T091724Z">
         <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-XmxSIZE</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131226Z" creationid="Melo46" creationdate="20250313T131226Z">
+        <seg>-XmxSIZE</seg>
       </tuv>
     </tu>
     <tu>
@@ -24354,6 +24370,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the OmegaT project from the URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131845Z" creationid="Melo46" creationdate="20250313T131845Z">
+        <seg>Discarga le projecto OmegaT ab le URL specificate in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, e cargar lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140107T140027Z">
@@ -29841,6 +29865,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>General options:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131657Z" creationid="Melo46" creationdate="20250313T131657Z">
+        <seg>Optiones general:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T031728Z" creationid="Melo46" creationdate="20151117T031728Z">
@@ -33114,6 +33146,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
         <seg>If such problems arise substantially in other domains, we
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If that variant is not available, the user interface follows the same priority as above.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131143Z" creationid="Melo46" creationdate="20250313T131143Z">
+        <seg>Si ille variante non es disponibile, le interface de usator seque le mesme prioritate como supra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40233,6 +40273,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launch the GUI and load the specified project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131731Z" creationid="Melo46" creationdate="20250313T131731Z">
+        <seg>Lancear le interface graphic e cargar le projecto specificate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T172524Z" creationid="Karm46" creationdate="20170913T172524Z">
@@ -42663,6 +42711,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140615T075529Z" creationid="MELO46" creationdate="20140615T075529Z">
         <seg>Longitude del linea Maxime:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum memory assignment</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131221Z" creationid="Melo46" creationdate="20250313T131221Z">
+        <seg>Maxime assignation de memoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -47329,6 +47385,14 @@ a esser lanceate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20171113T224911Z">
         <seg>OmegaT sur le web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131401Z" creationid="Melo46" creationdate="20250313T131401Z">
+        <seg>OmegaT optiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -53738,6 +53802,22 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &lt;c0&gt;&lt;proxy IP&gt;&lt;/c0&gt; with the IP address of your proxy server, if your system uses one.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131339Z" creationid="Melo46" creationdate="20250313T131339Z">
+        <seg>Reimplaciar &lt;c0&gt;&lt;proprietate intellectual proxy&gt;&lt;/c0&gt; con le adresse IP de tu servitor proxy, si tu systema usa un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130925Z" creationid="Melo46" creationdate="20250313T130925Z">
+        <seg>Reimplaciar &lt;c0&gt;CC&lt;/c0&gt; con le desirate a duo litteras codice de pais ab le lista &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171117T103706Z" creationid="Karm46" creationdate="20171117T103706Z">
@@ -53758,6 +53838,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T162607Z">
         <seg>Replacia &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; con le nomine del file que tu desira crear, o absolute o relative al plica currente (le plica ex le qual tu lancea &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;o0&gt;&lt;port number&gt;&lt;/o0&gt; with the port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131358Z" creationid="Melo46" creationdate="20250313T131358Z">
+        <seg>Reimplaciar &lt;o0&gt;&lt;numero de porta&gt;&lt;/o0&gt; con le numero de porta que tu systema usa pro acceder al servitor proxy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58110,6 +58198,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T112919Z" creationid="Melo46" creationdate="20250313T112919Z">
         <seg>Monstrar concordantias assemblate ab plure segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show usage information.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131717Z" creationid="Melo46" creationdate="20250313T131717Z">
+        <seg>Monstrar informationes de uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62969,6 +63065,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT GUI is launched if no option is specified.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131558Z" creationid="Melo46" creationdate="20250313T131558Z">
+        <seg>Le  interface graphic di OmegaTes lanceate si nulle option es specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130424T173527Z">
@@ -66084,6 +66188,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T083107Z" creationid="Melo46" creationdate="20250302T083107Z">
         <seg>Le proxime vice que tu lancea OmegaT, tu nove via-breve deberea esser active e monstrate presso le nomine del function in le menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number must correspond to at least 2 MB.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131244Z" creationid="Melo46" creationdate="20250313T131244Z">
+        <seg>Le numero deber corresponder a al minus 2 MB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71416,6 +71528,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T101200Z" creationid="Melo46" creationdate="20200726T101200Z">
         <seg>Iste pagina te permitte de eliger differente colores pro cata parte del interfacie de usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter combines with the previous user interface language parameter to specify a regional variant.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131122Z" creationid="Melo46" creationdate="20250313T131122Z">
+        <seg>Iste parametro se combina con le previe interface del lingua de usator pro specificar un variante regional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80384,6 +80504,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also get a list of these options in the terminal with the &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131457Z" creationid="Melo46" creationdate="20250313T131457Z">
+        <seg>Tu alsi pote obtener un lista de iste optiones in le terminal con le commando &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also have several search windows open simultaneously.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T190541Z">
@@ -86855,6 +86983,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T130852Z" creationid="Melo46" creationdate="20250313T130852Z">
+        <seg>https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T130508Z" creationid="Melo46" creationdate="20250313T130508Z">
@@ -90543,6 +90679,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T141342Z">
         <seg>pan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>path to an omegat project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T131725Z" creationid="Melo46" creationdate="20250313T131725Z">
+        <seg>route a un projecto omegat</seg>
       </tuv>
     </tu>
     <tu>
