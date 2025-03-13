@@ -12616,6 +12616,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Accessing a team project requires the following information:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T174942Z" creationid="Melo46" creationdate="20250313T174942Z">
+        <seg>Acceder un projecto de equipa require le sequente informationes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T062429Z" creationid="Melo46" creationdate="20151119T062429Z">
@@ -13188,6 +13196,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T120944Z">
         <seg>Post haber create e probate le via breve, tu pote lo adder al menu Start trahente lo illac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After creating the accounts, the administrator must send the translators their individual credentials.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T180015Z" creationid="Melo46" creationdate="20250313T180015Z">
+        <seg>Post create le contos, le administrator debe inviar al traductores lor credentiales individual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31217,6 +31233,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have everybody download the project from OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T180031Z" creationid="Melo46" creationdate="20250313T180031Z">
+        <seg>Haber totes discargate le projecto de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you considered donating to OmegaT?</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T043107Z" creationid="Melo46" creationdate="20200728T043107Z">
@@ -33768,6 +33792,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T230713Z" creationid="MELO46" creationdate="20140108T225124Z">
         <seg>Si le regula concorda, o le cursor move se super sin inserer un interruption de segmento (pro un regula de exception) o es create un interruption de segmento nove al position del cursor actual (pro le regula de interruption).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T175836Z" creationid="Melo46" creationdate="20250313T175836Z">
+        <seg>Si le servitor hoste es proprie e non ha un provision proque le traductores registra un conto pro se mesme, le administrator del projecto de equipa debe crear contos con accesso al scriptura pro le traductores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52578,6 +52610,22 @@ projecto local sin functionalitates de equipa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Projects on a hosting service</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T174950Z" creationid="Melo46" creationdate="20250313T174950Z">
+        <seg>Projectos sur un servicio hoste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects on a self-hosted server</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T175614Z" creationid="Melo46" creationdate="20250313T175614Z">
+        <seg>Projectos sur un proprie servitor hoste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T023436Z" creationid="Melo46" creationdate="20250225T023436Z">
@@ -63963,6 +64011,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The administrator will then grant write access to the repository to those accounts.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T175502Z" creationid="Melo46" creationdate="20250313T175502Z">
+        <seg>Le administrator pois concedera accesso al scriptura al repositorio a ille contos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T154009Z">
@@ -68745,6 +68801,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T155054Z">
         <seg>Al traductor essera monstrate traductiones anglese pro le segmentos fonte in nederlandese e usa los pro crear le traduction chinese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translators will have to create an account for the service, and send their user name to the team project administrator.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T175418Z" creationid="Melo46" creationdate="20250313T175418Z">
+        <seg>Le traductores debera crear se un conto pro le servicio, e inviar lor nomine de usator al administrator del projecto de equipa.</seg>
       </tuv>
     </tu>
     <tu>
