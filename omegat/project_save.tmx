@@ -13344,6 +13344,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T174935Z" creationid="Melo46" creationdate="20250313T174935Z">
+        <seg>Post que le projecto es preste e ha essite cargate al servitor, le administrator del projecto de equipa debe configurar accesso pro le traductores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20150422T143248Z">
@@ -27895,6 +27903,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; and &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T173013Z" creationid="Melo46" creationdate="20250313T173013Z">
+        <seg>Al fin, publica tu projecto al servitor remote (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; e &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T054953Z">
@@ -30165,6 +30181,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T224341Z" creationid="Melo46" creationdate="20250222T224341Z">
         <seg>Git: Ignorar demanda de credentiales: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access rights to your team</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T173104Z" creationid="Melo46" creationdate="20250313T173104Z">
+        <seg>Da derectos de accesso a tu equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -34540,6 +34564,14 @@ by the Installation Information.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you created the project from the GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both SVN and Git).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172838Z" creationid="Melo46" creationdate="20250313T172838Z">
+        <seg>Si tu ha create le projecto ab le interface graphic, tu pois debe explicitemente adder lo al systema de controlo de version (&lt;c0&gt;add&lt;/c0&gt; in ambe SVN e Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151125T203914Z" creationid="Melo" creationdate="20151125T203914Z">
@@ -35177,6 +35209,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T223625Z" creationid="Melo46" creationdate="20250301T223625Z">
         <seg>Si tu usa regulas local, tu pote ancora acceder al regulas global, ma modificar los non habera alcun effecto sur tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you use multiple projects on the same server, credentials will only be asked once for that server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T173220Z" creationid="Melo46" creationdate="20250313T173220Z">
+        <seg>Si tu usa plure projectos sur le mesme servitor, le credentiales sera solo demandate un vice pro iste servitor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52786,6 +52826,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T090043Z" creationid="Melo46" creationdate="20250305T090043Z">
         <seg>Pone le memorias applicabile in le plica &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the registered files on the hosting server</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T172905Z" creationid="Melo46" creationdate="20250313T172905Z">
+        <seg>Poner le files registrate sur le servitor hoste</seg>
       </tuv>
     </tu>
     <tu>
