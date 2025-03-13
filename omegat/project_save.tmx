@@ -34140,6 +34140,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T170909Z" creationid="Melo46" creationdate="20250313T170909Z">
+        <seg>Si tu crea un nove projecto vacue, tu pote sequer le &lt;l0&gt;procedura via interface graphic&lt;/l0&gt;, o crear lo directemente del linea de commando: &lt;c1&gt;java -jar OmegaT.jar team init &lt;lingua fonte&gt; &lt;linguas de destination&gt;&lt;/c1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T130405Z">
