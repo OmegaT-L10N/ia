@@ -8562,6 +8562,30 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;Convert&lt;/l0&gt; the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200831Z" creationid="Melo46" creationdate="20250313T200831Z">
+        <seg>&lt;l0&gt;Converter&lt;/l0&gt; le formato a un formato jam supportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Develop&lt;/l0&gt; a filter for the format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200926Z" creationid="Melo46" creationdate="20250313T200926Z">
+        <seg>&lt;l0&gt;Disveloppar&lt;/l0&gt; un filtro pro le formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Extend&lt;/l0&gt; OmegaT with third-party plugins that support the format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200918Z" creationid="Melo46" creationdate="20250313T200918Z">
+        <seg>&lt;l0&gt;Extender&lt;/l0&gt; OmegaT con plugins de tertie-partes que supporta le formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T224517Z" creationid="Melo46" creationdate="20200730T224517Z">
@@ -11972,6 +11996,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T173655Z" creationid="Melo46" creationdate="20250223T173655Z">
         <seg>Plure characteres o combinationes de characteres ha un significato special in un expression regular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of free software third party utilities provide such “round-trip” conversion, including:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202151Z" creationid="Melo46" creationdate="20250313T202151Z">
+        <seg>Plure software gratuite de tertie partes forni tal conversion “ir e revenir”, includite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15758,6 +15790,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230302T112946Z" creationid="will" creationdate="20230302T112946Z">
         <seg>Associar un extension de file a un filtro non es sufficiente pro facer le filtro tractar le correctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Association</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T200929Z" creationid="Melo46" creationdate="20250313T200929Z">
+        <seg>Association</seg>
       </tuv>
     </tu>
     <tu>
@@ -20648,6 +20688,14 @@ passos additional debe esser prendite.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130528T141316Z">
         <seg>Reciprocamente, ubi le productos es decisemente non directemente compatibile, il es sovente possibile trovar proceduras pro le facer  laborar conjunctemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conversion</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T201712Z" creationid="Melo46" creationdate="20250313T201712Z">
+        <seg>Conversion</seg>
       </tuv>
     </tu>
     <tu>
@@ -27805,6 +27853,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters have a list of file extensions that are associated to them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T201129Z" creationid="Melo46" creationdate="20250313T201129Z">
+        <seg>Le filtros de files ha un lista de extensiones de files que es associate a illos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File format</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20211231T170356Z">
@@ -33820,6 +33876,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T104609Z" creationid="Melo46" creationdate="20250308T104609Z">
         <seg>Si le plica es vacue, nulle del files contine contento traducibile, o il non ha alcun file supportate per le filtros de files disponibile, OmegaT te contara que le plica es vacue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T201639Z" creationid="Melo46" creationdate="20250313T201639Z">
+        <seg>Si le formato que tu vole traducer es structuralmente proxime a un formato jam supportate, justo adder su extension de file al lista de extensiones del formato supportate, o cambiar le extension de file a illo que es acceptate per le filtro de file que tu vole usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41243,6 +41307,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130709T144600Z">
         <seg>License will therefore apply, along with any applicable section 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License: Apache License Version 2.0</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202302Z" creationid="Melo46" creationdate="20250313T202302Z">
+        <seg>Licentia: Apache License Version 2.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -50421,6 +50493,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other plugins for less common formats are listed on the OmegaT wiki.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202809Z" creationid="Melo46" creationdate="20250313T202809Z">
+        <seg>Altere plugins pro formatos minus commun es in le lista sur le OmegaT wiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151116T031924Z" creationid="Melo46" creationdate="20151116T031924Z">
@@ -53272,6 +53352,22 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130216T000246Z">
         <seg>Cambio RTL-LTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow can create XLIFF 1.2 compliant files or OmegaT projects from all the files set as “input” files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202631Z" creationid="Melo46" creationdate="20250313T202631Z">
+        <seg>Rainbow pote crear files conforme a XLIFF 1.2 o projectos OmegaT ab tote le files predefinite como files de “entrata”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202245Z" creationid="Melo46" creationdate="20250313T202245Z">
+        <seg>Rainbow, de &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56779,6 +56875,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T001313Z" creationid="Karm46" creationdate="20171202T001218Z">
         <seg>Vide &lt;u0&gt;le guida - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;List of file filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202354Z" creationid="Melo46" creationdate="20250313T202354Z">
+        <seg>Vider &lt;u0&gt;Lista de filtros de files&lt;/u0&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63911,6 +64015,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Okapi Framework comes with a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202348Z" creationid="Melo46" creationdate="20250313T202348Z">
+        <seg>Le Okapi Framework veni con plure filtros de files, includite alcun non supportate nativemente per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Contribution Guide.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T073926Z" creationid="Melo46" creationdate="20250220T073926Z">
@@ -70437,6 +70549,14 @@ Tu, es victima de un</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Third-party plugins</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202723Z" creationid="Melo46" creationdate="20250313T202723Z">
+        <seg>Plugins de tertie-partes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Third-party software</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130424T141654Z">
@@ -73902,6 +74022,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T100351Z" creationid="Melo46" creationdate="20250308T100351Z">
         <seg>Pro activar los, marca &lt;l0/&gt; in le preferentias &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ensure that all the properties of a format are properly taken into account, it is sometimes preferable to convert the file to a supported format and then convert the translated file back to the original format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T201859Z" creationid="Melo46" creationdate="20250313T201859Z">
+        <seg>Pro permitter que a le proprietates de un formato es correctemente prendite in conto, il es aliquando preferibile converter le file a un formato supportate e pois converter le file traducite retro al formato original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88205,6 +88333,30 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202635Z" creationid="Melo46" creationdate="20250313T202635Z">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202644Z" creationid="Melo46" creationdate="20250313T202644Z">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202651Z" creationid="Melo46" creationdate="20250313T202651Z">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://mymemory.translated.net/</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T175659Z" creationid="Melo46" creationdate="20250305T175659Z">
@@ -88217,6 +88369,38 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T175656Z" creationid="Melo46" creationdate="20250305T175656Z">
         <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202156Z" creationid="Melo46" creationdate="20250313T202156Z">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202727Z" creationid="Melo46" creationdate="20250313T202727Z">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202357Z" creationid="Melo46" creationdate="20250313T202357Z">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T202307Z" creationid="Melo46" creationdate="20250313T202307Z">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
       </tuv>
     </tu>
     <tu>
