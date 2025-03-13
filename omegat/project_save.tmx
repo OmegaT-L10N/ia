@@ -16304,6 +16304,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before graphical interfaces became common, users interacted with computers via a command-line interface (CLI), which requires typing commands to give instructions to the computer.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T115301Z" creationid="Melo46" creationdate="20250313T115301Z">
+        <seg>Ante le interfaces graphic  deveniva commun que, le usatores qui interageva con computatores via un interface per linea de commando (ILC), que require insertion de commandos pro dar instructiones al computator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T043048Z" creationid="Melo46" creationdate="20200728T043048Z">
@@ -16548,6 +16556,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T214312Z" creationid="Karm46" creationdate="20170929T214312Z">
         <seg>Ambe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both are available from the &lt;g2&gt;System Tools&lt;/g2&gt; folder of the &lt;g3&gt;Start Menu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T115714Z" creationid="Melo46" creationdate="20250313T115714Z">
+        <seg>Illos es ambe disponibile ab le plica &lt;g2&gt;Utensiles de systema&lt;/g2&gt; ab le menu &lt;g3&gt;Menu Initiar&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29101,6 +29117,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T222237Z">
         <seg>Pro convenientia, illos essera referite in sequito como "Formatos de file MS Office 2007".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the sake of simplicity, this manual refers to it as the terminal.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T115445Z" creationid="Melo46" creationdate="20250313T115445Z">
+        <seg>Pro le convenientia de simplicitate, iste manual se refere a illo como le terminal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47973,6 +47997,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows, you can use either the &lt;a0&gt;Command Prompt&lt;/a0&gt; or &lt;a1&gt;Powershell&lt;/a1&gt; as a terminal.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T115611Z" creationid="Melo46" creationdate="20250313T115611Z">
+        <seg>Sur Fenestras, tu pote usar o le &lt;a0&gt;sollicitation de commandos&lt;/a0&gt; o &lt;a1&gt;Powershell&lt;/a1&gt; como terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T085946Z" creationid="Melo46" creationdate="20200730T085946Z">
@@ -47993,6 +48025,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T072523Z" creationid="Melo46" creationdate="20250302T072523Z">
         <seg>Sur macOS: &lt;k0&gt;&lt;k1&gt;Majusc&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On modern systems, the CLI is accessed through an application generally called a "terminal" or "console".</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T115400Z" creationid="Melo46" creationdate="20250313T115400Z">
+        <seg>Sur moderne systemas, le CLI es accedite per un application generalmente appellate un "terminal" o "consola".</seg>
       </tuv>
     </tu>
     <tu>
@@ -58030,6 +58070,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140629T210232Z" creationid="MELO46" creationdate="20140629T210232Z">
         <seg>Script simplice de Cerca e replacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplified Overview</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114852Z" creationid="Melo46" creationdate="20250313T114852Z">
+        <seg>Summario simplificate</seg>
       </tuv>
     </tu>
     <tu>
