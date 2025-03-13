@@ -15372,6 +15372,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but for files that should be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T185821Z" creationid="Melo46" creationdate="20250313T185821Z">
+        <seg>Como supra, ma pro files que deberea esser parte del mappage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T194131Z" creationid="Melo46" creationdate="20200730T194131Z">
@@ -22639,8 +22647,8 @@ Nove version: {2}</seg>
       <tuv lang="en">
         <seg>Default project mapping:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20210220T074345Z" creationid="Melo46" creationdate="20210220T074345Z">
-        <seg>Mappa del projecto predefinite:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T190651Z" creationid="Melo46" creationdate="20210220T074345Z">
+        <seg>Mappage predefinite del projecto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26571,8 +26579,8 @@ Nemo audi tu critos</seg>
       <tuv lang="en">
         <seg>Example mappings</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200728T101532Z" creationid="Melo46" creationdate="20200728T101532Z">
-        <seg>Exemplo mappas</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T185852Z" creationid="Melo46" creationdate="20200728T101532Z">
+        <seg>Exemplos de mappages</seg>
       </tuv>
     </tu>
     <tu>
@@ -36610,8 +36618,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server using &lt;l1/&gt;&lt;l2/&gt; and &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T172419Z" creationid="Melo46" creationdate="20250313T172419Z">
-        <seg>In projectos de equipa que usar un simple mappa inter le repositorio local e le repositorio remote (le predefinite), &lt;e0&gt;e solo in tal projectos&lt;/e0&gt;, le fonte e files de destination pote esser modificate localmente e cargava al servitor usar &lt;l1/&gt;&lt;l2/&gt; e &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T185701Z" creationid="Melo46" creationdate="20250313T172419Z">
+        <seg>In projectos de equipa que usar un simple mappage inter le repositorio local e le repositorio remote (le predefinite), &lt;e0&gt;e solo in tal projectos&lt;/e0&gt;, le fonte e files de destination pote esser modificate localmente e cargava al servitor usar &lt;l1/&gt;&lt;l2/&gt; e &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42471,6 +42479,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T074440Z" creationid="Melo46" creationdate="20210220T074440Z">
         <seg>Mappas pro projectos in un sub-plica del repositorio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subfolder of the repository:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T190716Z" creationid="Melo46" creationdate="20250313T190716Z">
+        <seg>Mappage pro projectos in un sub-plica del repositorio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54599,6 +54615,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233207Z" creationid="Melo46" creationdate="20160728T233207Z">
         <seg>Mappatura del repositorio...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T185556Z" creationid="Melo46" creationdate="20250313T185556Z">
+        <seg>Mappages de repositorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -70610,8 +70634,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T181630Z" creationid="Melo46" creationdate="20250313T181630Z">
-        <seg>Isto pote esser utile si le projecto es definite pro usar differente &lt;l1&gt;mappas&lt;/l1&gt; pro cata traductor.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T185710Z" creationid="Melo46" creationdate="20250313T181630Z">
+        <seg>Isto pote esser utile si le projecto es definite pro usar differente &lt;l1&gt;mappages&lt;/l1&gt; pro cata traductor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77320,6 +77344,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a semicolon to separate different patterns.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T190810Z" creationid="Melo46" creationdate="20250313T190810Z">
+        <seg>Usa un puncto e virgula pro separar modellos differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a team project</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T083303Z" creationid="Melo46" creationdate="20250219T083303Z">
@@ -79653,8 +79685,8 @@ price.</seg>
       <tuv lang="en">
         <seg>When working on a team project, this window allows you to define the mapping between the remote and local folders.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250308T094913Z" creationid="Melo46" creationdate="20250308T094913Z">
-        <seg>Quando on labora sur un projecto de equipa, iste fenestra te permitte de definir le mappa inter le plicas remote e local.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T185628Z" creationid="Melo46" creationdate="20250308T094913Z">
+        <seg>Quando on labora sur un projecto de equipa, iste fenestra te permitte de definir le mappage inter le plicas remote e local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89691,8 +89723,8 @@ crea le plica del configuration.</seg>
       <tuv lang="en">
         <seg>mapping repository</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200728T100445Z" creationid="Melo46" creationdate="20200728T100445Z">
-        <seg>mappa repositorio</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T185807Z" creationid="Melo46" creationdate="20200728T100445Z">
+        <seg>mappage del repositorio</seg>
       </tuv>
     </tu>
     <tu>
