@@ -8764,6 +8764,14 @@ Esque illo es correcte?</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150000Z" creationid="Melo46" creationdate="20250313T150000Z">
+        <seg>&lt;o0&gt;--config-dir=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--config-file=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T000614Z" creationid="Melo46" creationdate="20250309T000614Z">
@@ -8864,6 +8872,14 @@ Esque illo es correcte?</note>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T000524Z" creationid="Melo46" creationdate="20250309T000524Z">
         <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;team init&lt;/o0&gt; &lt;u1&gt;SL&lt;/u1&gt; &lt;u2&gt;TL&lt;/u2&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T144747Z" creationid="Melo46" creationdate="20250313T144747Z">
+        <seg>&lt;o0&gt;team init&lt;/o0&gt; &lt;u1&gt;SL&lt;/u1&gt; &lt;u2&gt;TL&lt;/u2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11642,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A file written in the Java .properties format used to specify a batch of command line options.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150225Z" creationid="Melo46" creationdate="20250313T150225Z">
+        <seg>Un file scripte in le formato .proprietates de Java, usate pro specificar un lot de optiones de linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151125T105152Z" creationid="Melo46" creationdate="20151125T105152Z">
@@ -13962,6 +13986,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151116T063313Z" creationid="Melo" creationdate="20151116T063313Z">
         <seg>Permitte eliger colores differente pro cata parte del Interfacie del Usator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Almost all parameters presented in this section can be used in a config file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150532Z" creationid="Melo46" creationdate="20250313T150532Z">
+        <seg>Quasi tote le parametros presentate in iste section pote esser usate in un file de configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16612,6 +16644,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T214312Z" creationid="Karm46" creationdate="20170929T214312Z">
         <seg>Ambe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both Java parameters and OmegaT options can be used.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150331Z" creationid="Melo46" creationdate="20250313T150331Z">
+        <seg>Ambe parametros de Java e Optiones de OmegaT pote esser usate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23766,6 +23806,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T143941Z">
         <seg>Non hesitar a postar in le lingua con le qual senti te plus familiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T144940Z" creationid="Melo46" creationdate="20250313T144940Z">
+        <seg>Non blocar le file omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37034,6 +37082,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialize a team project using &lt;e0&gt;SL&lt;/e0&gt; and &lt;e1&gt;TL&lt;/e1&gt; as the source and target two-letter language codes, respectively.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T144913Z" creationid="Melo46" creationdate="20250313T144913Z">
+        <seg>Initialisar un projecto de equipa usante &lt;e0&gt;SL&lt;/e0&gt; e &lt;e1&gt;TL&lt;/e1&gt; como le codices de lingua a duo litteras fonte e destino, respectivemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T225740Z" creationid="Melo46" creationdate="20250222T225740Z">
@@ -38456,6 +38512,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T191612Z">
         <seg>Illo es in particular mirate al usatores qui es nove de Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to combine &lt;c0&gt;--config-file&lt;/c0&gt; with other command line options compatible with launching the GUI.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150754Z" creationid="Melo46" creationdate="20250313T150754Z">
+        <seg>Il es possibile combinar &lt;c0&gt;--config-file&lt;/c0&gt; con altere optiones de linea de commando compatibile con le lanceamento del interface graphic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48221,6 +48285,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On some platforms, the omegat.project file is locked by default and attempting to open an already open project in another instance of OmegaT results in an error.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T145921Z" creationid="Melo46" creationdate="20250313T145921Z">
+        <seg>Sur alcun platteformas, le file omegat.project es blocate de ordinario e le tentativa de aperir un projecto jam aperte in un altere instantia de OmegaT comporta un error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T182439Z">
@@ -53614,6 +53686,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T171802Z" creationid="Melo" creationdate="20141027T221243Z">
         <seg>Remover le texto de destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove the initial &lt;c0&gt;-D&lt;/c0&gt; or &lt;c1&gt;-X&lt;/c1&gt; to use Java parameters:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150413Z" creationid="Melo46" creationdate="20250313T150413Z">
+        <seg>Remover le &lt;c0&gt;-D&lt;/c0&gt; o &lt;c1&gt;-X&lt;/c1&gt; initial pro usar parametros de Java:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64928,6 +65008,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder used to read and write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150009Z" creationid="Melo46" creationdate="20250313T150009Z">
+        <seg>Le plica usate pro leger e scriber files de configuration de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where OmegaT will install and search for spelling dictionaries.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T230124Z" creationid="Melo46" creationdate="20250305T230124Z">
@@ -66200,6 +66288,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The notable exception is &lt;c0&gt;remote-project&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150544Z" creationid="Melo46" creationdate="20250313T150544Z">
+        <seg>Le notabile exception es &lt;c0&gt;remote-project&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The number must correspond to at least 2 MB.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T131244Z" creationid="Melo46" creationdate="20250313T131244Z">
@@ -66300,6 +66396,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T081844Z" creationid="Melo46" creationdate="20210220T081844Z">
         <seg>Le option appare solo quando es possibile un selection simile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options are presented as a list of &lt;p0&gt;key=value&lt;/p0&gt; pairs.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T150316Z" creationid="Melo46" creationdate="20250313T150316Z">
+        <seg>Le optiones es presentate como lista de copulas &lt;p0&gt;clave=valor&lt;/p0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71488,6 +71592,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T073231Z" creationid="Melo46" creationdate="20200731T073231Z">
         <seg>Iste option appare solo si ambe le files seligite es recognoscite como Clave=Valor files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option prevents that error.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T145956Z" creationid="Melo46" creationdate="20250313T145956Z">
+        <seg>Iste option impedi ille error.</seg>
       </tuv>
     </tu>
     <tu>
