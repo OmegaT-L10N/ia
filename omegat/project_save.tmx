@@ -415,6 +415,28 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=tu Client secret"</seg>
     <tu>
       <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113016Z" creationid="Melo46" creationdate="20250313T113016Z">
+        <seg># OmegaT.exe runtime configuration
+	# Pro usar un parametro, remover le '#' ante le '-'
+	# Memoria
+	-Xmx1024M
+	# Lingua
+	-Duser.language=FR
+	# Pais
+	-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
 -Xmx1024M
@@ -5068,6 +5090,14 @@ Le quantitate actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T073337Z" creationid="Melo46" creationdate="20250223T073337Z">
         <seg>99999 es parte del id de session de 5 dcifras ab 00000 a 99999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113319Z" creationid="Melo46" creationdate="20250313T113319Z">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19428,6 +19458,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command line launch</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114502Z" creationid="Melo46" creationdate="20250313T114502Z">
+        <seg>Lanceamento ab linea de commando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command syntax</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T000001Z" creationid="Melo46" creationdate="20250309T000001Z">
@@ -19768,6 +19806,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration.properties</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113021Z" creationid="Melo46" creationdate="20250313T113021Z">
+        <seg>Configuration.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170910T093801Z">
@@ -20000,6 +20046,14 @@ software for all its users.</seg>
         <seg>Modo console-translate:
 	--source-pattern=&lt;pattern&gt;
 		Un lista blanc de regular expressiones del files fonte a processar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation for your system for more information.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114352Z" creationid="Melo46" creationdate="20250313T114236Z">
+        <seg>Consultar le documentation de tu systema pro altere informationes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28565,6 +28619,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, to change the amount of memory available uncomment the line</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113313Z" creationid="Melo46" creationdate="20250313T113313Z">
+        <seg>Per exemplo, pro cambiar le amonta de memoria disponibile remover signo de commento del linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130611T073304Z">
@@ -31987,6 +32049,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160807T213724Z" creationid="Melo46" creationdate="20160807T213724Z">
         <seg>Si le option &lt;e0&gt;Monstrar automaticamente le suggestiones pertinente&lt;/e0&gt; es marcate, le auto-completator es lanceate automaticamente per inserer le prime littera del un entrata de glossario rendite, o per inserer "&lt;" in caso de tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 11 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114329Z" creationid="Melo46" creationdate="20250313T114215Z">
+        <seg>Si le files &lt;f0&gt;.jar&lt;/f0&gt; es correctemente associate con le Ambiente runtime Java 11 e tu parametros de ROUTE es correcte, tu alsi pote simplemente cliccar (o duple-cliccar) sur &lt;f1&gt;OmegaT.jar&lt;/f1&gt; pro lancear lo directemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36788,6 +36858,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Info.plist</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113027Z" creationid="Melo46" creationdate="20250313T113027Z">
+        <seg>Info.plist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T133756Z" creationid="Karm46" creationdate="20171115T133756Z">
@@ -40147,6 +40225,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launching OmegaT from the command line also creates a new OmegaT instance for each launch.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114732Z" creationid="Melo46" creationdate="20250313T114732Z">
+        <seg>Lancear OmegaT ab le linea de commando alsi crea un nove instantia de OmegaT pro cata lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT in console mode</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T222157Z">
@@ -42683,6 +42769,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140122T233023Z">
         <seg>Le methodos differe dependente del distribution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Methods vary from one system to another, but in general, once OmegaT is installed, you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113834Z" creationid="Melo46" creationdate="20250313T113834Z">
+        <seg>Le methodos varia ab un systema a un altero, ma in general, un vice que OmegaT es installate, tu pote lancear lo directemente &lt;ab le linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57846,8 +57940,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>Show matches assembled from multiple segments</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T112354Z" creationid="Melo46" creationdate="20250313T112354Z">
-        <seg>Monstrar concorda con assembled de plure segmentos</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T112919Z" creationid="Melo46" creationdate="20250313T112919Z">
+        <seg>Monstrar concordantias assemblate ab plure segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -71505,6 +71599,14 @@ delera tu datos local e re-discargara le contentos del projecto ab le servitor.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l0&gt;6g&lt;/l0&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113523Z" creationid="Melo46" creationdate="20250313T113523Z">
+        <seg>Isto lanceara OmegaT con 6 GB de memoria; cambia le &lt;l0&gt;6g&lt;/l0&gt; al amonta desirate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T083358Z" creationid="Melo46" creationdate="20200730T083358Z">
@@ -77129,6 +77231,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the command line allows you to set various options that control or modify the behaviour of the application.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114542Z" creationid="Melo46" creationdate="20250313T114542Z">
+        <seg>Usar le linea de commando te permitte de predefinir varie optiones que controla o modifica le comportamento del application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T090526Z">
@@ -78285,8 +78395,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When using paragraph segmentation:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T112329Z" creationid="Melo46" creationdate="20250313T112329Z">
-        <seg>Quando se usa paragrapho segmentation:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T112800Z" creationid="Melo46" creationdate="20250313T112800Z">
+        <seg>Usante le segmentation per paragraphos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -79962,6 +80072,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define and save sets of options in scripts that you can then use to launch OmegaT for a particular purpose.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114555Z" creationid="Melo46" creationdate="20250313T114555Z">
+        <seg>Tu alsi pote definir e salvar insimules de optiones in scripts que tu pote pois usa pro lancear OmegaT pro un particular proposito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T092736Z" creationid="Melo46" creationdate="20250308T092736Z">
@@ -80143,6 +80261,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T083809Z" creationid="Melo46" creationdate="20200730T083809Z">
         <seg>Tu pote alsi usar AppleScript o Automator pro crear Servicios o scripts que automatisara le actiones frequente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use AppleScript, Automator or Shortcuts to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113703Z" creationid="Melo46" creationdate="20250313T113703Z">
+        <seg>Tu alsi pote usar AppleScript, Automator o Vias breve pro cercar Servicios o scripts que automatisara le actiones frequente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80338,6 +80464,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20150422T165111Z" creationid="MELO" creationdate="20131219T102959Z">
         <seg>Tu pote crear un nove projecto pro cata nove obra o tu pote adder nove files fonte a un projecto in omne momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a script that includes the desired command line launch parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113932Z" creationid="Melo46" creationdate="20250313T113932Z">
+        <seg>Tu pote crear un script que include le parametros de lanceamento desirate in le linea de commando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81001,6 +81135,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220107T182226Z" creationid="will" creationdate="20220107T182226Z">
         <seg>Tu pote ergo seliger un parola alicubi in OmegaT e usar Services pro controlar iste parola, per exemplo in Spotlight o in Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus use multiple projects simultaneously, each with its own parameters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T114749Z" creationid="Melo46" creationdate="20250313T114749Z">
+        <seg>Tu poter assi usar plure projectos simultaneemente, cata un con su proprie parametros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83309,6 +83451,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250220T073149Z" creationid="Melo46" creationdate="20250220T073058Z">
         <seg>per Susan Welsh, Marc Prior e Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by removing the &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt; markers.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T113359Z" creationid="Melo46" creationdate="20250313T113359Z">
+        <seg>removente le marcatores &lt;l0&gt;&lt;!--&lt;/l0&gt; e &lt;l1&gt;--&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
