@@ -11754,6 +11754,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A list of mapping parameters is presented below, and examples of their use are provided in the next section.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T183811Z" creationid="Melo46" creationdate="20250313T183811Z">
+        <seg>Un lista de parametros de mappage es presentate infra, e exemplos de lor uso es fornite in le section successive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130708T135615Z">
@@ -14290,6 +14298,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T120941Z" creationid="Melo46" creationdate="20250223T120941Z">
         <seg>Ben que vidite como intimidante e complexe, mesmo le plus simple expressiones regular (sovente abbreviate &lt;e0&gt;regex&lt;/e0&gt; o &lt;e1&gt;regexp&lt;/e1&gt;) es extrememente utile, non solo in OmegaT, ma in multe altere applicationes que tu poterea ussar sur base quotidian, con alcun variationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the mapping feature is primarily intended for gathering source files from disparate locations, it can also be used for other types of files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T183705Z" creationid="Melo46" creationdate="20250313T183705Z">
+        <seg>Ben que le function de mappage es primarimente destinate a colliger files fonte de disparate positiones, illo pote alsi esser usate pro altere typos de files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38844,6 +38860,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to map various remote locations to local files via the OmegaT user interface using &lt;l0/&gt; in the &lt;l1/&gt; dialog, or by editing the &lt;l2/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T183614Z" creationid="Melo46" creationdate="20250313T183614Z">
+        <seg>Il es possibile mappar varie positiones remote a files local via le interface de usator de OmegaT, usante &lt;l0/&gt; in le fenestra de dialogo &lt;l1/&gt;, o editante le file &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to modify the project properties during a translation session.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T094701Z">
@@ -53818,6 +53842,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location or folder of the files to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T183948Z" creationid="Melo46" creationdate="20250313T183948Z">
+        <seg>Position o plica remote del files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repositories</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230324T173552Z" creationid="will" creationdate="20230324T173552Z">
@@ -54567,14 +54599,6 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233207Z" creationid="Melo46" creationdate="20160728T233207Z">
         <seg>Mappatura del repositorio...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Repository mappings</seg>
-      </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T183340Z" creationid="Melo46" creationdate="20250313T183340Z">
-        <seg>Mappas de repositorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -70560,6 +70584,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T183839Z" creationid="Melo46" creationdate="20250313T183839Z">
+        <seg>Isto pote esser o &lt;e0&gt;http&lt;/e0&gt; (includite https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, o &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be either http (which includes https), svn or git.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T100328Z" creationid="Melo46" creationdate="20200728T100328Z">
@@ -77764,6 +77796,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140107T140049Z">
         <seg>Usa le utilitate untar (o su equivalente, per exemplo&lt;f0&gt; winrar&lt;/f0&gt; in Windows) pro extraher su contentos in le plica "Dictionary" del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use wildcards (following the Apache Ant style: *, ?, **) to add patterns for files that should not be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T184130Z" creationid="Melo46" creationdate="20250313T184130Z">
+        <seg>Usa characteres generic (sequente le stilo Apache Ant: *, ?, **) pro adder modellos pro files que non deberea esser parte del mappage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89643,8 +89683,8 @@ crea le plica del configuration.</seg>
       <tuv lang="en">
         <seg>mapping local</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20200728T100407Z" creationid="Melo46" creationdate="20200728T100407Z">
-        <seg>mappa local</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250313T184210Z" creationid="Melo46" creationdate="20200728T100407Z">
+        <seg>mappage local</seg>
       </tuv>
     </tu>
     <tu>
