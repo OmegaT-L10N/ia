@@ -41319,6 +41319,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: GNU General Public License v2</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T123933Z" creationid="Melo46" creationdate="20250314T123344Z">
+        <seg>Licentia: GNU General Public License v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -56899,6 +56907,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T185431Z">
         <seg>Vide &lt;u0&gt; Documentation Oracle&lt;/u0&gt; pro exemplos del modellos "SimpleDateFormat"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T123326Z" creationid="Melo46" creationdate="20250314T123256Z">
+        <seg>Vider &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87869,6 +87885,14 @@ crea le plica del configuration.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T124620Z" creationid="Melo46" creationdate="20250314T124620Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T060111Z">
@@ -88505,6 +88529,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T080639Z" creationid="Melo46" creationdate="20200731T080639Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://po4a.org</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T123330Z" creationid="Melo46" creationdate="20250314T123330Z">
+        <seg>https://po4a.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -92117,6 +92149,22 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T073039Z" creationid="Melo46" creationdate="20250223T073039Z">
         <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T123334Z" creationid="Melo46" creationdate="20250314T123334Z">
+        <seg>po4a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a supports a number of free software documentation formats, listed on the site front page, and offers conversion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T124615Z" creationid="Melo46" creationdate="20250314T124615Z">
+        <seg>po4a supporta plure formatos de documentos de software gratuite, in le lista sur le prime pagina del sito, e offere utensiles de conversion verso e ab le formato po.</seg>
       </tuv>
     </tu>
     <tu>
