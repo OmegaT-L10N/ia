@@ -13502,6 +13502,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is downloaded, it is installed locally and only needs to be opened locally to synchronize with the server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T165129Z" creationid="Melo46" creationdate="20250314T165129Z">
+        <seg>Post que le projecto es discargate, illo es installate localmente e solo debe esser aperite localmente pro synchronisar se con le servitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T174935Z" creationid="Melo46" creationdate="20250313T174935Z">
@@ -24816,6 +24824,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the project</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170149Z" creationid="Melo46" creationdate="20250314T170149Z">
+        <seg>Discargar le projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading the right package</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T184055Z">
@@ -26007,6 +26023,14 @@ xx o xxx es le codice del lingua e YY es le codice del region o del pais (facult
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T125443Z">
         <seg>Inscribe un message appropriate in le fenestra message e pulsa &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the URL provided by the team project administrator in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170518Z" creationid="Melo46" creationdate="20250314T170518Z">
+        <seg>Insere le URL fornite per le administrator del projecto de equipa in le campo &lt;g0&gt;URL del repositorio:&lt;/g0&gt; al culmine del fenestra de dialogo, e specifica un plica pro le projecto in le campo &lt;g1&gt;Nove Plica de projecto local:&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29927,10 +29951,26 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From a URL</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170153Z" creationid="Melo46" creationdate="20250314T170153Z">
+        <seg>Ab un URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T153929Z">
         <seg>Ab un puncto de vista practic, the plus importante par de numeros is the secunde par: illo dice, quanto tu ha intertanto have facite, in relation al total o secunde numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From an &lt;f0&gt;omegat.project&lt;/f0&gt; file</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170708Z" creationid="Melo46" creationdate="20250314T170708Z">
+        <seg>ab un file &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41063,6 +41103,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leave the &lt;g2&gt;Default branch&lt;/g2&gt; option checked unless the project administrator has provided instructions for using a custom branch.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170605Z" creationid="Melo46" creationdate="20250314T170605Z">
+        <seg>Lassar le option &lt;g2&gt;Ramo predefinite&lt;/g2&gt; marcate, salvo que le administrator del projecto ha instructiones fornite pro usar un ramo personalisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Leave the segment empty</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250306T081744Z">
@@ -43437,6 +43485,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T153943Z" creationid="Karm46" creationdate="20171128T153943Z">
         <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Members can take turns translating and reviewing the files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T165813Z" creationid="Melo46" creationdate="20250314T165813Z">
+        <seg>Le membros pote haber a torno traducer e revider le files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53236,6 +53292,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Put the &lt;f0&gt;omegat.project&lt;/f0&gt; file in an empty folder, and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170731Z" creationid="Melo46" creationdate="20250314T170731Z">
+        <seg>Poner le file &lt;f0&gt;omegat.project&lt;/f0&gt; in un plica vacue, e aperi lo in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160809T002155Z" creationid="Melo46" creationdate="20160809T002155Z">
@@ -54973,6 +55037,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160728T233207Z" creationid="Melo46" creationdate="20160728T233207Z">
         <seg>Mappatura del repositorio...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository credentials are stored in the &lt;l0/&gt; file and can be deleted from the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T165253Z" creationid="Melo46" creationdate="20250314T165253Z">
+        <seg>Le credentiales de repositorio es immagazinate in le file &lt;l0/&gt; e pote esser delite del preferentias &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59460,6 +59532,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130526T200430Z">
         <seg>Pois que il es procedura standard pro le traductores professional reciper e committer textos in forma digital, le usatores de OmegaT es naturalmente interessate a lor compatibilitate con altere productos software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since synchronization takes place by default every three minutes, project members will sometime translate or modify a segment that has already been translated by another member but not synchronized yet.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T165551Z" creationid="Melo46" creationdate="20250314T165551Z">
+        <seg>Pois que le synchronisation ha loco de ordinario cata tres minutas, le membros del projecto aliquando traducera o modificara un segmento que ha jam essite traducite per un altere membro ma non ancora synchronisate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64423,6 +64503,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Search function allows them to filter the Editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170143Z" creationid="Melo46" creationdate="20250314T170143Z">
+        <seg>Le function de recerca permitte a illes de filtrar le Pannello del editor per contentos traducite per un date persona, o per contentos traducite post o ante un date tempore, per exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Search window has its own menus:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160808T010808Z" creationid="Melo46" creationdate="20160808T010808Z">
@@ -67936,6 +68024,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160729T214652Z" creationid="Melo46" creationdate="20160729T214652Z">
         <seg>Le projecto esseva convertite con bon successo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will automatically be downloaded to the folder containing that file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170803Z" creationid="Melo46" creationdate="20250314T170803Z">
+        <seg>Le projecto sera automaticamente discargate al plica que contine ille file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77702,6 +77798,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170227Z" creationid="Melo46" creationdate="20250314T170227Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro visualisar le fenestra de dialogo &lt;g2&gt;Discargar Projecto de equipa&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060419Z" creationid="will" creationdate="20230315T060419Z">
@@ -80075,6 +80179,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20160805T134809Z" creationid="Melo46" creationdate="20160805T134809Z">
         <seg>Quando tu lancea OmegaT per le linea de commando, specificar in le commando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When that happens, members have to select the appropriate translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T165635Z" creationid="Melo46" creationdate="20250314T165635Z">
+        <seg>Quando isto eveni, le membros debe seliger le traduction appropriate.</seg>
       </tuv>
     </tu>
     <tu>
