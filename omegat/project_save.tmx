@@ -48699,6 +48699,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then remember your credentials for that specific project unless you explicitly delete them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T171157Z" creationid="Melo46" creationdate="20250314T171157Z">
+        <seg>OmegaT alora memorara tu credentiales pro iste projecto specific si tu non los dele explicitemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130703T064312Z">
@@ -58772,6 +58780,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20180115T204755Z" creationid="Karm46" creationdate="20180115T204755Z">
         <seg>Le servitor non comprende le methodo "translate"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servers generally use two main types of authentication: entering a &lt;e0&gt;username/password&lt;/e0&gt;, or &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T170909Z" creationid="Melo46" creationdate="20250314T170909Z">
+        <seg>Le servitores generalmente usa duo typos de authentication principal: le introduction de un &lt;e0&gt;nomine de usator/contrasigno&lt;/e0&gt;, o le &lt;e1&gt;SSH&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
