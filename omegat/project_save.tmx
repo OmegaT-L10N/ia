@@ -23272,6 +23272,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Development</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164315Z" creationid="Melo46" creationdate="20250314T164315Z">
+        <seg>Disveloppamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Development of OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T103918Z">
@@ -45706,6 +45714,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not all of the Okapi Framework file filters are included into the file filter plugin.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T163656Z" creationid="Melo46" creationdate="20250314T163656Z">
+        <seg>Non tote le filtros de files de Okapi Framework es includite in le extension de filtros de files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not assigned</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T130248Z" creationid="Melo46" creationdate="20250222T130248Z">
@@ -48155,6 +48171,14 @@ a esser lanceate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT provides developers with thorough documentation to create file filter plugins.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164505Z" creationid="Melo46" creationdate="20250314T164505Z">
+        <seg>OmegaT offere al disveloppatores con minutiose documentation pro crear extensiones de filtros de files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T223747Z" creationid="Melo46" creationdate="20250301T223747Z">
@@ -49040,6 +49064,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130610T153445Z">
         <seg>Un vice que Priorview esseva lanceate, comocunque, tu non pote seliger un lector del tela differente o un utilitate de conversion; iste optiones in consequentia es occulte post le lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once a OmegaT team project is installed on a server, the administrator sends members the information they need to access it: a URL indicating the location of the project, or an &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T165016Z" creationid="Melo46" creationdate="20250314T165016Z">
+        <seg>Un vice un projecto de equipa OmegaT es installate sur un servitor, le administrator invia al membros le informationes que illes besonia pro acceder lo: un URL indicante le position del projecto, o un file &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50551,8 +50583,8 @@ tu plica principal.</seg>
       <tuv lang="en">
         <seg>Other plugins for less common formats are listed on the OmegaT wiki.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T202809Z" creationid="Melo46" creationdate="20250313T202809Z">
-        <seg>Altere plugins pro formatos minus commun es in le lista sur le OmegaT wiki.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164301Z" creationid="Melo46" creationdate="20250313T202809Z">
+        <seg>Altere extensiones pro formatos minus commun es in le lista sur le wiki de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56839,6 +56871,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;above&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164122Z" creationid="Melo46" creationdate="20250314T164122Z">
+        <seg>Vider &lt;l0&gt;supra&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;below&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T231105Z" creationid="Melo46" creationdate="20250304T231105Z">
@@ -56943,6 +56983,22 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Filters Included&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T163743Z" creationid="Melo46" creationdate="20250314T163743Z">
+        <seg>Vider &lt;u0&gt;Filtros includite&lt;/u0&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;How to create a file filter plugin for OmegaT&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164529Z" creationid="Melo46" creationdate="20250314T164529Z">
+        <seg>Vider &lt;u0&gt;Como crear un extension de filtros de files pro OmegaT&lt;/u0&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T001313Z" creationid="Karm46" creationdate="20171202T001218Z">
@@ -56971,6 +57027,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T185431Z">
         <seg>Vide &lt;u0&gt; Documentation Oracle&lt;/u0&gt; pro exemplos del modellos "SimpleDateFormat"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Plugins&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164311Z" creationid="Melo46" creationdate="20250314T164311Z">
+        <seg>Vider &lt;u0&gt;Extensiones&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62596,6 +62660,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team projects use synchronization mechanisms between project members.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164654Z" creationid="Melo46" creationdate="20250314T164654Z">
+        <seg>Le projectos de equipa usa mechanismos de synchronisation inter le membros del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T085415Z">
@@ -64107,6 +64179,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T191650Z" creationid="Melo46" creationdate="20250225T191650Z">
         <seg>Le PARENTESE QUADRATE DE APERTURA: &lt;l0&gt;[&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Okapi Filters Plugin for OmegaT, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T163411Z" creationid="Melo46" creationdate="20250314T163411Z">
+        <seg>Le extension Okapi Filters pro OmegaT, de &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77832,8 +77912,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use a team project</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250219T083303Z" creationid="Melo46" creationdate="20250219T083303Z">
-        <seg>Usa un projecto de equipa</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164538Z" creationid="Melo46" creationdate="20250219T083303Z">
+        <seg>Usar un projecto de equipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -79891,6 +79971,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140227T154956Z">
         <seg>Quando on passa le mouse supra le phrase sublineate, comparera un explication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file created in Rainbow.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164118Z" creationid="Melo46" creationdate="20250314T164118Z">
+        <seg>Quando installate, le extension offere accesso directe al formatos addite e alsi te permitte de associar un file personalisate del parametros del filtro create in Rainbow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88607,8 +88695,8 @@ crea le plica del configuration.</seg>
       <tuv lang="en">
         <seg>https://omegat.readthedocs.io/en/latest/11.HowToCreateFilterPlugin/</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250313T202830Z" creationid="Melo46" creationdate="20250313T202830Z">
-        <seg>https://omegat.readthedocs.io/en/ultime/11.HowToCreateFilterPlugin/</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T164317Z" creationid="Melo46" creationdate="20250313T202830Z">
+        <seg>https://omegat.readthedocs.io/en/latest/11.HowToCreateFilterPlugin/</seg>
       </tuv>
     </tu>
     <tu>
