@@ -81911,6 +81911,14 @@ OmegaT.exe al menu de initio, al scriptorio o al area de lanceamento celere pro 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use OmegaT's custom tag function to register format specific strings and have OmegaT handle them as if they were normal tags.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T112639Z" creationid="Melo46" creationdate="20250314T112639Z">
+        <seg>Tu pote alsi usar le function de tags personalisate de OmegaT pro registrar formato specific catenas e ha OmegaT gerer illes como si illes ha essite normal tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can always remove or add files and folders to the project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T225846Z" creationid="Melo46" creationdate="20250304T225846Z">
