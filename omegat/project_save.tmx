@@ -42561,6 +42561,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you understand the format requirements when you start working on a PDF or similar file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T163123Z" creationid="Melo46" creationdate="20250314T163123Z">
+        <seg>Verifica que tu comprende le requisitos del formato quando tu initia a laborar sur un file PDF o simile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make the necessary changes to the project properties at this stage, including local file filters or segmentation settings.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T171107Z" creationid="Melo46" creationdate="20250313T171107Z">
@@ -43397,6 +43405,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082403Z">
         <seg>Le numero maximal de discopertas esseva attingite ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maxprograms also distributes &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, a graphical user interface for the OpenXLIFF Filters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T131058Z" creationid="Melo46" creationdate="20250314T131058Z">
+        <seg>Maxprograms alsi distributes &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, un interface graphic de usator pro le filtros OpenXLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49913,6 +49929,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250314T130622Z" creationid="Melo46" creationdate="20250314T130622Z">
         <seg>OpenXLIFF ab &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF produces XLIFF 1.2 compliant files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T131139Z" creationid="Melo46" creationdate="20250314T131139Z">
+        <seg>OpenXLIFF produce files conforme a XLIFF 1.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56935,6 +56959,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;OpenXLIFF Filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T130946Z" creationid="Melo46" creationdate="20250314T130946Z">
+        <seg>Vider &lt;u0&gt;Filtros OpenXLIFF&lt;/u0&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T185431Z">
@@ -59788,6 +59820,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T085209Z" creationid="will" creationdate="20230301T085209Z">
         <seg>Alicun filtros forni un &lt;g0&gt;Optiones...&lt;/g0&gt; button pro un additional personalisation de lor configurationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some formats, like PDF, cannot be properly handled through “round trip” conversions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T131230Z" creationid="Melo46" creationdate="20250314T131230Z">
+        <seg>Alcun formatos, como PDF, non pote esser correctemente tractate per le conversiones “ir e revenir”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70577,6 +70617,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171130T215606Z" creationid="MELO46" creationdate="20140109T160803Z">
         <seg>Illes non besonia de alicun cognoscentia de Java; le major parte, nisi omne, del linguas de programmation poterea esser usate in vice, e complite functiones utile etiam con maestria de programmation relativemente limitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They require an intermediate conversion to a supported format that serves as a base to manually create a proper target language document.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T131442Z" creationid="Melo46" creationdate="20250314T131442Z">
+        <seg>Illes require un conversion intermedie a un formato supportate que servi como base pro manualmente crear un correcte documento in lingua de destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82350,6 +82398,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250306T081829Z" creationid="Melo46" creationdate="20250306T081829Z">
         <seg>Tu pote inserer tu traduction immediatemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find a number of online or offline utilities that convert PDF to common office formats, but the conversion will always require extensive manual adjustments to the target document before a proper PDF document can be produced.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T131831Z" creationid="Melo46" creationdate="20250314T131831Z">
+        <seg>Tu pote trovar plure utilitates online o sin connexion, que converte files PDF a commun formatos de officio, ma le conversion sempre requirera vaste adjustamentos manual al documento de destination ante que un correcte documento PDF pote esser producite.</seg>
       </tuv>
     </tu>
     <tu>
