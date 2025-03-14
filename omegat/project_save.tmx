@@ -41319,6 +41319,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: Eclipse Public License v1.0</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T130639Z" creationid="Melo46" creationdate="20250314T130629Z">
+        <seg>Licentia: Eclipse Public License v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License: GNU General Public License v2</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250314T123933Z" creationid="Melo46" creationdate="20250314T123344Z">
@@ -49901,6 +49909,22 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXLIFF from &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T130622Z" creationid="Melo46" creationdate="20250314T130622Z">
+        <seg>OpenXLIFF ab &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF supports a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T130834Z" creationid="Melo46" creationdate="20250314T130834Z">
+        <seg>OpenXLIFF supporta plure filtros de files, includite unos non supportate nativemente per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening a command line window</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T184530Z">
@@ -56883,6 +56907,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T094607Z" creationid="Melo46" creationdate="20200730T094607Z">
         <seg>Vider &lt;m1&gt;&lt;g2&gt;Optiones&lt;/g2&gt;&lt;g3&gt;Preferentias...&lt;/g3&gt;&lt;g4&gt;Filtros de file&lt;/g4&gt;&lt;/m1&gt; pro un lista de formatos de file que OmegaT pote tractar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T130553Z" creationid="Melo46" creationdate="20250314T130553Z">
+        <seg>Vider &lt;u0&gt;Convertitores&lt;/u0&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64385,6 +64417,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Translate Toolkit offers a number of convertion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T130544Z" creationid="Melo46" creationdate="20250314T130544Z">
+        <seg>Le Traducer Equipamento offere plure utensiles de conversion verso e ab le formato po.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171113T192317Z" creationid="Karm46" creationdate="20171001T165908Z">
@@ -65128,6 +65168,14 @@ in vice.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T092902Z">
         <seg>Le character de controlo correspondente a x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The converters from the &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T130352Z" creationid="Melo46" creationdate="20250314T130352Z">
+        <seg>Le convertitores de &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
