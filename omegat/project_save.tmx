@@ -24978,6 +24978,14 @@ project_save.tmx non ha essite vermente cargate e SVN ha mutate in stato instabi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During synchronization, all other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T190928Z" creationid="Melo46" creationdate="20250314T190928Z">
+        <seg>Durante le synchronisation, tote le altere files local es superscribite con le versiones sur le servitor remote, exept pro &lt;f0&gt;omegat.project&lt;/f0&gt; (vider infra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T211838Z">
@@ -34078,6 +34086,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T175836Z" creationid="Melo46" creationdate="20250313T175836Z">
         <seg>Si le servitor hoste es proprie e non ha un provision proque le traductores registra un conto pro se mesme, le administrator del projecto de equipa debe crear contos con accesso al scriptura pro le traductores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the server uses SSH authentication, make sure you update your SSH configuration to include that server before attempting to download the project, otherwise you will get an authentication error and the project will fail to load.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T190217Z" creationid="Melo46" creationdate="20250314T190217Z">
+        <seg>Si le servitor usa SSH authentication, verifica que tu actualisa tu configuration SSH pro includer ille servitor ante tentar de discargar le projecto, alteremente tu obtenera un error de authentication e le projecto fallera a cargar se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49485,6 +49501,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the contents of the two following files are synchronized:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T190612Z" creationid="Melo46" creationdate="20250314T190612Z">
+        <seg>Solo le contentos del duo files sequente es synchronisate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T093936Z" creationid="Melo46" creationdate="20200730T093936Z">
@@ -61884,6 +61908,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T230146Z" creationid="Melo46" creationdate="20250219T230146Z">
         <seg>Synchronisation de repositorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronizing the project adds translations made by all team members to local copies of the project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T190540Z" creationid="Melo46" creationdate="20250314T190540Z">
+        <seg>Le synchronisation del projecto adde traductiones producite per tote le membros del equipa al copias local del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92533,6 +92565,14 @@ crea le plica del configuration.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T095229Z">
         <seg>Statistica del projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project.save</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T190615Z" creationid="Melo46" creationdate="20250314T190615Z">
+        <seg>project.save</seg>
       </tuv>
     </tu>
     <tu>
