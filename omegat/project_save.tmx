@@ -53372,6 +53372,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rainbow-supported files are converted into XLIFF and inserted as source files into a full fledged OmegaT project that you can open with OmegaT right away.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250314T123250Z" creationid="Melo46" creationdate="20250314T123250Z">
+        <seg>Le files supportate per Rainbow es convertite in XLIFF e inserite como files fonte in un projecto OmegaT de plen derecto, que tu pote aperir con OmegaT immediatemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rather than beep
 Or a rude error message
 These words: 'Page not found'</seg>
