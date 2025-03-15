@@ -15038,6 +15038,14 @@ to receive a copy likewise does not require acceptance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And before you ever need to follow those steps, OmegaT will allow you to focus on actually translating, and hopefully help you become a better translator.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112637Z" creationid="Melo46" creationdate="20250315T112637Z">
+        <seg>E ante que tu jammais besonia de sequer ille passos, OmegaT te permittera de examinar actualmente traducer, e on spera que adjutar te devenir un melior traductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And it also comes with the generic &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; that you can use to launch OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T235228Z" creationid="Melo46" creationdate="20250308T235228Z">
@@ -19584,6 +19592,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T084413Z" creationid="will" creationdate="20230301T084413Z">
         <seg>Clicca sur le pertinente titulo pro ordinar los in ordine ascendente o discendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Close&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111945Z" creationid="Melo46" creationdate="20250315T111945Z">
+        <seg>Cliccar le button &lt;g0&gt;Clauder&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28445,6 +28461,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find the location of that space.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112303Z" creationid="Melo46" creationdate="20250315T112303Z">
+        <seg>Trova le position de ille spatio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T154541Z" creationid="Melo46" creationdate="20250225T154541Z">
@@ -31311,6 +31335,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to the source file with &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112321Z" creationid="Melo46" creationdate="20250315T112321Z">
+        <seg>Va al file fonte con &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GoTo Menu</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130628T053751Z">
@@ -34136,6 +34168,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format of your file is not listed, use third-party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111615Z" creationid="Melo46" creationdate="20250315T111615Z">
+        <seg>Si le formato de tu file non es in le lista, usa extensiones de tertie-partes o converte le file a un formato que es supportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T201639Z" creationid="Melo46" creationdate="20250313T201639Z">
@@ -35198,6 +35238,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not see the contents of a file in the &lt;l0/&gt; pane, that file might be empty, or in a format that is not supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111319Z" creationid="Melo46" creationdate="20250315T111319Z">
+        <seg>Si tu non vide le contentos de un file in le pannello &lt;l0/&gt;, ille file poterea esser vacue, o in un formato que non es supportate per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T162653Z" creationid="will" creationdate="20230228T162653Z">
@@ -35534,6 +35582,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T072451Z">
         <seg>Si tu necessita configurationes alterate, le files de configuration debe esser disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u0&gt;OmegaT user groups.&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112733Z" creationid="Melo46" creationdate="20250315T112733Z">
+        <seg>Si te besonia assistentia con alcun aspecto de OmegaT, senti te libere de inscriber te al &lt;u0&gt; gruppos de usatores de OmegaT.&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37282,6 +37338,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130807T231540Z">
         <seg>In le segmento precedente, per exemplo &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; reimplaciarea le version espaniol con le suggestion sloven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the dialog, just tell OmegaT what new resource folders to use.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111131Z" creationid="Melo46" creationdate="20250315T111131Z">
+        <seg>In le fenestra de dialogo, justo indica a OmegaT que nove plicas de ressources usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39936,6 +40000,14 @@ itself on the first run.</seg>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T173814Z" creationid="Karm46" creationdate="20170913T173814Z">
         <seg>Illo installara le correcte ambiente pro tu computator e le application
 ipse al prime lanceamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will then just ask you to reload the project and start using the new locations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111248Z" creationid="Melo46" creationdate="20250315T111248Z">
+        <seg>Illo pois solo te demandara de recargar le projecto e comenciar a usar le nove positiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42777,6 +42849,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make it look good!</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112239Z" creationid="Melo46" creationdate="20250315T112239Z">
+        <seg>Face lo parer bon!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130820T094251Z">
@@ -42973,6 +43053,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T132655Z" creationid="Melo46" creationdate="20200727T132655Z">
         <seg>Gerer linguas de dextra a sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage your segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112141Z" creationid="Melo46" creationdate="20250315T112141Z">
+        <seg>Gere tu segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -47764,6 +47852,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not recognize languages automatically, and only uses a dictionary if its name matches the target language code.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112128Z" creationid="Melo46" creationdate="20250315T112128Z">
+        <seg>OmegaT non recognosce le linguas automaticamente, e solo usa un dictionario si su nomine concorda con le codice del lingua de destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not run satisfactorily on all versions of Java.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T190611Z">
@@ -48946,6 +49042,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will display a list of the installed dictionaries.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112031Z" creationid="Melo46" creationdate="20250315T112031Z">
+        <seg>OmegaT monstrara un lista del dictionarios installate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T064509Z">
@@ -49223,6 +49327,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T115516Z" creationid="Melo46" creationdate="20250308T115516Z">
         <seg>le preferentias de OmegaT es immagazinate in le plica de configuration e &lt;e0&gt;non&lt;/e0&gt; sera modificate per le nove version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Omegat provides a spellchecking system, but does not come with the dictionaries required to actually spellcheck your translations.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111720Z" creationid="Melo46" creationdate="20250315T111720Z">
+        <seg>OmegaT offere un systema de correction orthographic, ma il non veni con le dictionarios necessari pro actualmente facer le controlo orthographic a tu traductiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56599,6 +56711,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T083151Z" creationid="Melo46" creationdate="20250302T083151Z">
         <seg>Salva le file post que tu ha finite facer tu cambiamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112245Z" creationid="Melo46" creationdate="20250315T112245Z">
+        <seg>Salvar le file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68932,6 +69052,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The robust design of OmegaT makes it &lt;e0&gt;extremely&lt;/e0&gt; unlikely that you have lost more than a few minutes of work.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112613Z" creationid="Melo46" creationdate="20250315T112613Z">
+        <seg>Le projecto robuste de OmegaT rende &lt;e0&gt;extrememente&lt;/e0&gt; inverisimile que tu ha perdite plus que alcun minutas de labor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20141026T094443Z">
@@ -69601,6 +69729,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T135602Z">
         <seg>Le standard es ancora in evolution; i.e. al que se refere le differente versiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The standard space character is often used as a segment boundary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112427Z" creationid="Melo46" creationdate="20250315T112427Z">
+        <seg>Le character de spatio standard es sovente usate como un limite de segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71233,6 +71369,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T161318Z">
         <seg>Illos son monstrate como &lt;EMPTY&gt; in le Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are displayed in a way that makes it easier to identify their function.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112806Z" creationid="Melo46" creationdate="20250315T112806Z">
+        <seg>Illos es monstrate de un maniera que simplifica identificar lor function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73522,6 +73666,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This operation may take some time.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111935Z" creationid="Melo46" creationdate="20250315T111935Z">
+        <seg>Iste operation pote prender alcun tempore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T192403Z" creationid="Melo46" creationdate="20200726T192403Z">
@@ -73862,6 +74014,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T153456Z" creationid="Melo46" creationdate="20250225T153456Z">
         <seg>Iste section presenta alcun exemplos que demonstra como le varie expressiones supra describite pote esser combinate pro exequer potente recercas in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents the conventions used to distinguish the elements of the OmegaT user interface in this manual.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T112745Z" creationid="Melo46" creationdate="20250315T112745Z">
+        <seg>Iste section presenta le conventiones usate pro distinguer le elementos del interface de usator de OmegaT in iste manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78670,6 +78830,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l1/&gt;&lt;l2/&gt; to open the list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111414Z" creationid="Melo46" creationdate="20250315T111414Z">
+        <seg>Usa &lt;l1/&gt;&lt;l2/&gt; pro aperir le lista de formatos de file supportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T190802Z" creationid="Melo46" creationdate="20250225T190802Z">
@@ -79034,6 +79202,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T053638Z" creationid="will" creationdate="20230316T053638Z">
         <seg>Usa le proprietate de projecto &lt;l0/&gt; pro definir le location del plica de glossarios de referentia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; section in the general &lt;l1/&gt; dialog to access the spellchecking preferences.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111929Z" creationid="Melo46" creationdate="20250315T111929Z">
+        <seg>Usar le section &lt;l0/&gt; in le fenestra general de dialogo &lt;l1/&gt; pro acceder al preferentias correction orthographic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83608,6 +83784,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify the structure of a project at any time after you have started translating.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111015Z" creationid="Melo46" creationdate="20250315T111015Z">
+        <seg>Sempre tu pote modificar le structura de un projecto post que tu ha initiate a traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T103610Z" creationid="Melo46" creationdate="20250308T103610Z">
@@ -84457,6 +84641,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T121251Z">
         <seg>Tu necessita esser in Internet pro esser habile a usar un application MT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to install the dictionaries you need yourself.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T111755Z" creationid="Melo46" creationdate="20250315T111755Z">
+        <seg>Tu debe installar le dictionarios que te besonia.</seg>
       </tuv>
     </tu>
     <tu>
