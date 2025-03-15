@@ -14608,6 +14608,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is a complex set of files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T151455Z" creationid="Melo46" creationdate="20250315T151455Z">
+        <seg>Un projecto OmegaT es un complexe insimul de files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200726T202618Z" creationid="Melo46" creationdate="20200726T202618Z">
@@ -16722,6 +16730,14 @@ Compra te un altere bibita.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130519T084411Z">
         <seg>Preserva los con attention al mesme modo que tu tractarea le tags in linea proprie de OmegaT (comocunque le functiones pro le tag in linea de OmegaT, assi como le function validation de tag, non es disponibile in iste caso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be cautious when you put a whole project in a file-sharing system like DropBox, OneCloud and the likes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T151409Z" creationid="Melo46" creationdate="20250315T151310Z">
+        <seg>Sia prudente quando tu mitte un integre projecto in un systema de compartimento de files como Dropbox, OneCloud e simile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25929,6 +25945,14 @@ Tu pagina de adjuta non ha essite trovate</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable the &lt;l0/&gt; option to have OmegaT remember that the inserted matches came from those folders.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T151045Z" creationid="Melo46" creationdate="20250315T151045Z">
+        <seg>Activar le &lt;l0/&gt; option pro obtener que OmegaT rememora que le concordantias inserite arrivava ab ille plicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="ia" changedate="20170909T171128Z" creationid="ia" creationdate="20170909T171128Z">
@@ -26979,6 +27003,14 @@ Nemo audi tu critos</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T081752Z">
         <seg>Concordantia exacte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exact matches coming from the &lt;l0/&gt; and the &lt;l1/&gt; subfolders will be automatically inserted into the translation, without the prefix that is inserted by OmegaT when it inserts matches above a set threshold.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T150943Z" creationid="Melo46" creationdate="20250315T150943Z">
+        <seg>Concordantias exacte veniente del sub-plicas &lt;l0/&gt; e &lt;l1/&gt; sera automaticamente inserite in le traduction, sin le prefixo que es inserite per OmegaT quando illo insere concordantias supra un limine predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43005,6 +43037,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20151115T002036Z" creationid="Melo" creationdate="20151115T002036Z">
         <seg>Face te secur que tu ha un conto gratuite Yandex.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that you have properly tested your project layout and set up a separate data backup before sharing data in such a system.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T151737Z" creationid="Melo46" creationdate="20250315T151737Z">
+        <seg>Verifica que tu ha correctemente testate tu projecto mappa e configurate un salveguarda de datos separate ante compartir datos in tal systema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62424,10 +62464,18 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such systems are not designed to keep track of the internal modifications of a given file.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T151441Z" creationid="Melo46" creationdate="20250315T151322Z">
+        <seg>Tal systemas non es designate pro mantener tracia del modificationes interne de un date file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such systems will not always be able to provide you with the most recent version of your data, may even lock some files for no obvious reasons and can even corrupt team project related files.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250315T130951Z" creationid="Melo46" creationdate="20250315T130951Z">
-        <seg>Tal systemas voler non sempre poter fornir te le plus recente version de tu datos, pote mesmo blocar alcun files pro no obvie rationes e poter mesmo corrumper projecto de equipa correlate files.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T151634Z" creationid="Melo46" creationdate="20250315T130951Z">
+        <seg>Tal systemas non sempre potera fornir te le plus recente version de tu datos, pote mesmo blocar alcun files pro necun obvie rationes e pote mesmo corrumper files correlate al projecto de equipa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79522,6 +79570,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T155313Z" creationid="Melo46" creationdate="20250313T155313Z">
         <seg>Usa le VCS local pro facer un copia local (clone)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to an automatically inserted segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T151141Z" creationid="Melo46" creationdate="20250315T151141Z">
+        <seg>Usar le menus de navigation trovate in &lt;l0/&gt;&lt;l1/&gt; pro navigar a un segmento automaticamente inserite.</seg>
       </tuv>
     </tu>
     <tu>
