@@ -29105,6 +29105,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T074402Z" creationid="Melo46" creationdate="20250315T074402Z">
+        <seg>Per exemplo, multe servicios de hoste supporta le accesso al mesme repositorio per le protocollo SSH +Git o le https.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T232412Z" creationid="MELO46" creationdate="20140108T232412Z">
@@ -33404,6 +33412,14 @@ lor initio a causa del cambiamento de location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no custom mappings have been defined for the remote project, but local mappings have been customized, the local settings are preserved without affecting the settings on the server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T073301Z" creationid="Melo46" creationdate="20250315T073301Z">
+        <seg>Si necun personal mappages ha essite definite pro le projecto remote, ma le mappages local ha essite personalisate, le parametros local es preservate sin que illos affice le parametros sur le servitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151117T203124Z" creationid="Melo46" creationdate="20151117T203124Z">
@@ -34090,6 +34106,22 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the remote project contains custom mappings, but the local project does not, the mappings from the server are applied to the local project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T073625Z" creationid="Melo46" creationdate="20250315T073625Z">
+        <seg>Si le projecto remote contine mappages personalisate, ma le projecto local non, le mappages del servitor es applicate al projecto local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the remote project specifies a URL protocol and you download it using a different protocol, your local configuration will be preserved.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T074214Z" creationid="Melo46" creationdate="20250315T074214Z">
+        <seg>Si le projecto remote specifica un protocollo URL e tu lo discarga usante un differente protocollo, tu configuration local sera preservate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T230713Z" creationid="MELO46" creationdate="20140108T225124Z">
@@ -34222,6 +34254,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T112243Z" creationid="Melo46" creationdate="20250305T112243Z">
         <seg>Si il ha segmentos repetite in le documentos fonte, controlar iste option stabilira le prime segmento traducite como le traduction predefinite e automaticamente usara le mesme texto de destination in le remanente segmentos repetite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; file and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T074900Z" creationid="Melo46" creationdate="20250315T074900Z">
+        <seg>Si il ha un conflicto inter le versiones remote e local del file &lt;f0&gt;omegat.project&lt;/f0&gt; e le version local es superscribite, OmegaT crea le copia de reserva appellate &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35050,6 +35090,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T203136Z">
         <seg>Si tu trova acceptabile le suggestion, pulsa &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; pro reimplaciar  le parte de destination del segmento aperte con le suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T074659Z" creationid="Melo46" creationdate="20250315T074659Z">
+        <seg>Si tu primo discarga le projecto remote usante un file &lt;f0&gt;omegat.project&lt;/f0&gt; fornite per le administrator del projecto, OmegaT usara le mappages in ille file, si il ha alcun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48694,6 +48742,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140227T184407Z">
         <seg>OmegaT recognoscera que illo es un projecto in equipa, e synchronisara omne cosa automaticamente, tote le tres minutas, per arrangiamento base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will respect the local protocol selection.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T074607Z" creationid="Melo46" creationdate="20250315T074607Z">
+        <seg>OmegaT respectara le selection de protocollo local.</seg>
       </tuv>
     </tu>
     <tu>
