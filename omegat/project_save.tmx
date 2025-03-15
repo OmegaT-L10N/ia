@@ -28573,6 +28573,14 @@ Alcun attributos ha valores non valide.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fixes are generally simple, and the error message provided by OmegaT will help you pinpoint the error.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T124743Z" creationid="Melo46" creationdate="20250315T124743Z">
+        <seg>Le reparationes es generalmente simple, e le message de error fornite per OmegaT te adjutara a individuar le error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T084337Z">
@@ -47724,6 +47732,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can read TMX-standard compliant memories produced by other tools.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T124214Z" creationid="Melo46" creationdate="20250315T124214Z">
+        <seg>OmegaT pote leger memorias conforme TMX-standard producite per altere applicationes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can tell you when a new version is available.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T022522Z" creationid="Melo46" creationdate="20250225T022522Z">
@@ -60756,6 +60772,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T182435Z">
         <seg>Qualque applicationes son note producer files tmx invalide sub certe conditiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some tools produce invalid TMX files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T124325Z" creationid="Melo46" creationdate="20250315T124325Z">
+        <seg>Alcun applicationes produce files TMX non valide sub certe conditiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83040,8 +83064,8 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="en">
         <seg>You can add such files to your project's &lt;l0/&gt; folder or one of its subfolders and the translated data will be immediately be available for matching purposes.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250315T115533Z" creationid="Melo46" creationdate="20250315T115533Z">
-        <seg>Tu poter adder tal files a tu plica de projecto &lt;l0/&gt; o un de su sub-plicas e le datos traducite sera immediatemente esser disponibile a concordar propositos.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T124045Z" creationid="Melo46" creationdate="20250315T115533Z">
+        <seg>Tu pote adder tal files a tu plica de projecto &lt;l0/&gt; o a un de su sub-plicas e le datos traducite sera immediatemente disponibile pro scopos de concordantias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84723,6 +84747,14 @@ impreviste, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may want to store translation memories in separate folders, by client or area of specialty so you can reuse them quickly when the need arises.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T125022Z" creationid="Melo46" creationdate="20250315T125022Z">
+        <seg>Tu poterea voler immagazinar memorias de traduction in plicas separate, per application o area de specialitate assi que tu pote reusar los rapidemente quando le besonio nasce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You might want to apply the same to the &lt;f10&gt;target&lt;/f10&gt; folder and its contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T162325Z">
@@ -84939,6 +84971,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171001T084359Z" creationid="Karm46" creationdate="20171001T084359Z">
         <seg>Te essera suggerite de inserer ce contrasigno tote le vices que tu lancea OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will have to fix them if you want to use them as reference memories, otherwise OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T124722Z" creationid="Melo46" creationdate="20250315T124722Z">
+        <seg>Tu debera reparar los si tu vole usar los como memorias de referentia, alteremente OmegaT reportara un error e fallera a cargar los.</seg>
       </tuv>
     </tu>
     <tu>
