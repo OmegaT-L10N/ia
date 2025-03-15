@@ -13454,6 +13454,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After reloading the old project, its translation memory will be applied to the new source files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T135727Z" creationid="Melo46" creationdate="20250315T135727Z">
+        <seg>Post recargar le vetere projecto, su memoria de traduction sera applicava al nove files fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140108T224049Z" creationid="MELO46" creationdate="20140108T224049Z">
@@ -35402,6 +35410,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171202T134012Z" creationid="Karm46" creationdate="20171202T134012Z">
         <seg>Si tu ha un file PDF file producite per paginas scandite (a vices tal files es referite como PDFs ‘morte’), tu besonia de usar un programma OCR (optic character recognition) pro recognoscer le texto e lo converter a un formato que pote ser tractate per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a TMX that corresponds to your source document and contains its translation to a different language, you can also display that language &lt;e0&gt;right below&lt;/e0&gt; the source segment for use as an additional reference language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T135626Z" creationid="Melo46" creationdate="20250315T135626Z">
+        <seg>Si tu ha un TMX que corresponde a tu documento fonte e contine su traduction a un lingua differente, tu alsi pote monstrar ille lingua &lt;e0&gt;justo infra&lt;/e0&gt; le segmento fonte pro usar lo como lingua de referentia additional.</seg>
       </tuv>
     </tu>
     <tu>
