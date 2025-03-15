@@ -48676,6 +48676,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT takes care of that &lt;e2&gt;automatically&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T104239Z" creationid="Melo46" creationdate="20250315T104239Z">
+        <seg>OmegaT &lt;e2&gt;automaticamente&lt;/e2&gt; cura isto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT team</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T130856Z" creationid="Melo46" creationdate="20200730T130856Z">
@@ -70691,6 +70699,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no limit to the number of translation memories that can be used as reference in a translation project, and OmegaT makes it very easy to assign different levels of priority to these additional memories.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T104936Z" creationid="Melo46" creationdate="20250315T104936Z">
+        <seg>Il non ha limite al numero de memorias de traduction que pote esser usate como referentia in un projecto de traduction, e OmegaT rende multo facile assignar nivellos de prioritate differente a iste memorias additional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130210T102654Z">
@@ -71161,6 +71177,14 @@ Tu, es victima de un</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130701T063628Z">
         <seg>Illos es le files que tu tracta sur un base quotidian dum tu rende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T104127Z" creationid="Melo46" creationdate="20250315T104127Z">
+        <seg>Illos pote alsi includer memorias de traduction de referentia, glossarios, e altere files de referentia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76704,6 +76728,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T224714Z">
         <seg>Le traductores es libere de affrontar le quantitate de labor que illes vole. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can very easily reuse an existing projectʼs translation memory by simply adding new translation files to an existing project, or by copying an existing translation memory to a new project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T104709Z" creationid="Melo46" creationdate="20250315T104709Z">
+        <seg>Le traductores pote multo facilemente reusar un memoria de traduction de un projecto existente simplemente addente nove files TMX a un projecto existente, o copiante un memoria de traduction existente a un nove projecto.</seg>
       </tuv>
     </tu>
     <tu>
