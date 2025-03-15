@@ -70699,6 +70699,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, any time one side creates or modifies such a TMX using &lt;l0/&gt;&lt;l1/&gt;, the other side does not need to do anything to have that TMX recognized locally.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T094418Z" creationid="Melo46" creationdate="20250315T094418Z">
+        <seg>Dunque, quandocunque un latere crea o modifica tal TMX usante &lt;l0/&gt;&lt;l1/&gt;, le altere latere non debe facer alco pro que le TMX es recognoscite localmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, by modifying or propagating a
 covered work, you indicate your acceptance of this License to do so.</seg>
       </tuv>
@@ -71594,6 +71602,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="melo" changedate="20160813T071705Z" creationid="melo" creationdate="20160813T071705Z">
         <seg>Isto se applica alsi al fenestra del &lt;l2&gt;Files de projecto&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This approach also works just as well for sharing glossaries where the project writable glossary (with a non-default name to avoid overwriting the file) is located in a shared glossary folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T094947Z" creationid="Melo46" creationdate="20250315T094947Z">
+        <seg>Iste approche alsi functiona justo si ben pro compartir glossarios ubi le glossario scribibile del projecto (con un nomine non-standard pro evitar de superscriber le file) es ubicate in un plica /glossary compartite.</seg>
       </tuv>
     </tu>
     <tu>
