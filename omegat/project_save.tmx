@@ -49282,6 +49282,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T164022Z" creationid="Melo46" creationdate="20250315T164022Z">
+        <seg>OmegaT los discargara e los copiara al position del dictionarios orthographic specificate al culmine del fenestra de dialogo (le plica &lt;l1&gt;configuration&lt;/l1&gt; de ordinario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130815T064509Z">
@@ -53812,6 +53820,14 @@ projecto local sin functionalitates de equipa.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151125T224330Z" creationid="Melo46" creationdate="20151125T224330Z">
         <seg>Le recercas de projecto es de ordinario exequite sur le fonte e le destination, le memorias de traduction de referentia, le glossarios, le notas e le commentos del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project target language code and spellchecking dictionary name</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T165602Z" creationid="Melo46" creationdate="20250315T165602Z">
+        <seg>Codice del lingua de destination del projecto e nomine de dictionario orthographic</seg>
       </tuv>
     </tu>
     <tu>
@@ -59108,6 +59124,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250222T115736Z" creationid="Melo46" creationdate="20250222T084339Z">
         <seg>Selige le version appropriate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select as many dictionaries as you want and click the &lt;g0&gt;Install&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163929Z" creationid="Melo46" creationdate="20250315T163929Z">
+        <seg>Selige quante plus dictionarios tu vole e clicca le button &lt;g0&gt;Installar&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
