@@ -14624,6 +14624,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is simply a set of folders that holds all your default resources.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163331Z" creationid="Melo46" creationdate="20250315T163331Z">
+        <seg>Un projecto OmegaT es simplemente un insimul de plicas que tene tote tu ressources predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T154832Z" creationid="Melo46" creationdate="20250313T154832Z">
@@ -15072,8 +15080,8 @@ to receive a copy likewise does not require acceptance.</seg>
       <tuv lang="en">
         <seg>And before you ever need to follow those steps, OmegaT will allow you to focus on actually translating, and hopefully help you become a better translator.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250315T112637Z" creationid="Melo46" creationdate="20250315T112637Z">
-        <seg>E ante que tu jammais besonia de sequer ille passos, OmegaT te permittera de examinar actualmente traducer, e on spera que adjutar te devenir un melior traductor.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163221Z" creationid="Melo46" creationdate="20250315T112637Z">
+        <seg>E ante que tu jammais besonia de sequer ille passos, OmegaT te permittera de concentrar te realmente a traducer, e on spera adjutar te a devenir un traductor melior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19568,6 +19576,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130601T084809Z">
         <seg>Clicca sur Modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;l0/&gt; button to display a list of dictionaries available at the URL in the &lt;g1&gt;URL of downloadable spellchecking dictionaries&lt;/g1&gt; field above that button.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163902Z" creationid="Melo46" creationdate="20250315T163902Z">
+        <seg>Cliccar sur le button &lt;l0/&gt; pro monstrar un lista de dictionarios disponibile al URL in le &lt;g1&gt;URL de dictionarios orthographic discargabile&lt;/g1&gt; campo supra ille button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32419,6 +32435,14 @@ Su hiberno ha venite</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can OmegaT help against such glitches?</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T162857Z" creationid="Melo46" creationdate="20250315T162857Z">
+        <seg>Como pote OmegaT adjutar contra tal errores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130425T093252Z">
@@ -37374,6 +37398,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In that dialog, select or enter the languages of your source and translated files, set the various options, and click on &lt;g0&gt;OK&lt;/g0&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163451Z" creationid="Melo46" creationdate="20250315T163451Z">
+        <seg>In ille fenestra de dialogo, selige o insere le linguas de tu files fonte e traducite, defini le varie optiones, e clicca sur &lt;g0&gt;OK&lt;/g0&gt; pro continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T222732Z">
@@ -40567,8 +40599,8 @@ ipse al prime lanceamento.</seg>
       <tuv lang="en">
         <seg>Just follow the simple steps described in the &lt;l0/&gt; how-to.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250315T105746Z" creationid="Melo46" creationdate="20250315T105746Z">
-        <seg>Justo seque le simple passos describite in le &lt;l0/&gt; guida.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163042Z" creationid="Melo46" creationdate="20250315T105746Z">
+        <seg>Justo seque le simple passos describite in le guida &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43045,6 +43077,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T140512Z" creationid="Melo46" creationdate="20250308T140512Z">
         <seg>Verifica que le files es identic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that you enter the correct languages and that all other locations requiring a language code match the code you assign here.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163626Z" creationid="Melo46" creationdate="20250315T163626Z">
+        <seg>Verifica que tu insere le linguas correcte e que tote le altere positiones besoniante un codice de lingua concorda con le codice que tu assigna ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46372,8 +46412,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Not to worry.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250302T104444Z" creationid="Melo46" creationdate="20250302T104444Z">
-        <seg>Pro non preoccupar se.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163017Z" creationid="Melo46" creationdate="20250315T163017Z">
+        <seg>Non te preoccupa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64674,6 +64714,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens after you have named your project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163401Z" creationid="Melo46" creationdate="20250315T163401Z">
+        <seg>Le fenestra de dialogo &lt;l0/&gt; se aperi post que tu ha nominate tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; dialog opens next.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T110910Z" creationid="Melo46" creationdate="20250315T110910Z">
@@ -76183,6 +76231,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start using OmegaT, you first have to create a project to hold all your files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163242Z" creationid="Melo46" creationdate="20250315T163242Z">
+        <seg>Pro initiar a usar OmegaT, tu primo debe crear un projecto pro tener tote tu files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To support the OmegaT project financially</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T093441Z">
@@ -79086,6 +79142,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to come back to this dialog after you have created the project,.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163634Z" creationid="Melo46" creationdate="20250315T163634Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro revenir a iste fenestra de dialogo post que tu ha create le projecto,.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to create the TMX files that correspond to the current contents.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T090725Z" creationid="Melo46" creationdate="20250315T090725Z">
@@ -79178,6 +79242,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250223T074446Z" creationid="Melo46" creationdate="20250223T074446Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro vider le contentos del file de registro del session actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;, and select an empty folder or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T163259Z" creationid="Melo46" creationdate="20250315T163259Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt;, e selige un plica vacue o crea uno nove con le nomine de tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
