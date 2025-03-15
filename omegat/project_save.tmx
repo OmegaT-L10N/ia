@@ -29523,6 +29523,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For large jobs involving a team of translators, it is easier for everyone involved in sharing common translation memories rather than pass local versions back and forth.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T092126Z" creationid="Melo46" creationdate="20250315T092126Z">
+        <seg>Pro grande labores implicante un equipa de traductores, pro tote les implicate il es plus facile compartir memorias de traduction commun plus tosto que passar retro e avante le versiones local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For levelformat, this should be:</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171120T183655Z">
@@ -47972,6 +47980,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT instantaneously recognizes modifications to TMX files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T092901Z" creationid="Melo46" creationdate="20250315T092901Z">
+        <seg>OmegaT instantaneemente recognosce modificationes al files TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T153722Z">
@@ -57695,6 +57711,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T091900Z" creationid="Melo46" creationdate="20250315T091900Z">
+        <seg>Vider le proprietate de projecto &lt;l0/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; project property.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T082000Z" creationid="Melo46" creationdate="20250315T082000Z">
@@ -57707,6 +57731,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230316T060412Z" creationid="will" creationdate="20230316T060412Z">
         <seg>Vide le &lt;l0/&gt; proprietates del projecto pro commandos specific pro le projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section above.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T092754Z" creationid="Melo46" creationdate="20250315T092754Z">
+        <seg>Vider le section &lt;l0/&gt; ci supra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59380,6 +59412,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T154040Z">
         <seg>Plure membros del equipa pote operar al projecto de traduction simultaneemente, sin interferentia le un con le altere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Share TMs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T091902Z" creationid="Melo46" creationdate="20250315T091902Z">
+        <seg>Compartir memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -66974,6 +67014,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The good enough way</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T092208Z" creationid="Melo46" creationdate="20250315T092208Z">
+        <seg>Le maniera bastante bon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T205622Z">
@@ -70527,6 +70575,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220108T065626Z" creationid="will" creationdate="20220108T065626Z">
         <seg>Il ha duo manieras de lancear OmegaT per un linea de commando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two ways to share translation memories:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T092130Z" creationid="Melo46" creationdate="20250315T092130Z">
+        <seg>Il ha duo manieras pro compartir memorias de traduction:</seg>
       </tuv>
     </tu>
     <tu>
