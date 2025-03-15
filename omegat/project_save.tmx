@@ -35462,6 +35462,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a TMX that contains the Japanese translation of an English document you are translating to French, you can use the Japanese translation as an alternative exact reference by displaying it under the English text to translate.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T152150Z" creationid="Melo46" creationdate="20250315T152150Z">
+        <seg>Si tu ha un TMX que contine le traduction japonese de un documento anglese que tu traduce a francese, tu pote usar le traduction japonese como alternative referentia precise monstrante illo sub le texto anglese a traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a TMX that corresponds to your source document and contains its translation to a different language, you can also display that language &lt;e0&gt;right below&lt;/e0&gt; the source segment for use as an additional reference language.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T135626Z" creationid="Melo46" creationdate="20250315T135626Z">
@@ -40553,6 +40561,14 @@ ipse al prime lanceamento.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T105746Z" creationid="Melo46" creationdate="20250315T105746Z">
         <seg>Justo seque le simple passos describite in le &lt;l0/&gt; guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just put the English-Japanese file in &lt;f0&gt;tm/tmx2source&lt;/f0&gt; under the name &lt;f1&gt;JA-JP.tmx&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T152404Z" creationid="Melo46" creationdate="20250315T152404Z">
+        <seg>Justo pone le file anglese-Japanese in &lt;f0&gt;memoria de traduction/tmx2source&lt;/f0&gt; sub le nomine &lt;f1&gt;JA-JP.tmx&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49230,6 +49246,14 @@ tu plica principal.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171122T191407Z">
         <seg>OmegaT ora fluera sur le installation Java OpenJDK supplite con alicun distributiones de Linux, ma alicun functiones (assi como le suite de optiones del linea de commando) pote non esser disponibile; pote esser supplite un serie de typo de characteres; e qualque defectos esseva reportate, assi como con le function de monstra de fenestra e de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will now show you the Japanese text corresponding to the English source segment:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T152524Z" creationid="Melo46" creationdate="20250315T152524Z">
+        <seg>OmegaT ora te monstrara te le texto japonese correspondente al segmento fonte anglese:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67102,6 +67126,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first line is the original English, the second line is the bridge language you expect to find useful when you create your translation, and the third line is the current translation to French.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T152239Z" creationid="Melo46" creationdate="20250315T152239Z">
+        <seg>Le prime linear es le original anglese, le secunde linea es le lingua ponte que tu te expecta de trovar utile quando tu crea tu traduction, e le tertie linea es le traduction actual a francese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T192242Z">
@@ -77328,6 +77360,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130514T224714Z">
         <seg>Le traductores es libere de affrontar le quantitate de labor que illes vole. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can easily modify the contents or location of those resources at any time during the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T152747Z" creationid="Melo46" creationdate="20250315T152747Z">
+        <seg>Le traductores pote facilemente modificar le contentos o position de ille ressources sempre durante le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97257,6 +97297,22 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T122352Z" creationid="Karm46" creationdate="20171115T122352Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T152702Z" creationid="Melo46" creationdate="20250315T152553Z">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un character spatio: [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
       </tuv>
     </tu>
     <tu>
