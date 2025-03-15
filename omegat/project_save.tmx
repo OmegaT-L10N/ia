@@ -21719,6 +21719,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create your own TMs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T082227Z" creationid="Melo46" creationdate="20250315T082227Z">
+        <seg>Crear tu proprie memorias de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own key then input it below.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T165414Z" creationid="Karm46" creationdate="20170929T165232Z">
@@ -25280,6 +25288,14 @@ propagate the contents of its contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each of the three files constitutes a bilingual export of the current content of your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T082601Z" creationid="Melo46" creationdate="20250315T082601Z">
+        <seg>Cata un del tres files constitue un exportation bilingue del contento actual de tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140106T063215Z" creationid="MELO46" creationdate="20140106T063215Z">
@@ -27110,6 +27126,14 @@ Gossamer vos retene, 404 non trovate</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200728T104500Z" creationid="Melo46" creationdate="20200728T104500Z">
         <seg>Le files fonte existente pote esser modificate, ma le operation del invio debe esser exequite ante un salvamento automatic e ante que le projecto es recargate o claudite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Existing translations are used to speed up the translation process.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T081530Z" creationid="Melo46" creationdate="20250315T081530Z">
+        <seg>Le traductiones existente es usate pro accelerar le processo de traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32940,6 +32964,14 @@ non necessita inserer le percurso integral.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If a given sentence has already been translated once, there is no need to retranslate it.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T081919Z" creationid="Melo46" creationdate="20250315T081919Z">
+        <seg>Si un date phrase ha jam essite traducite un vice, il non ha besonio de retraducer lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Traducite per W Helton Mer. 05 Januario 2022</note>
       <tuv lang="en">
         <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
@@ -34174,6 +34206,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T175836Z" creationid="Melo46" creationdate="20250313T175836Z">
         <seg>Si le servitor hoste es proprie e non ha un provision proque le traductores registra un conto pro se mesme, le administrator del projecto de equipa debe crear contos con accesso al scriptura pro le traductores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the server relies on username/password authentication, OmegaT will present you with an &lt;g0&gt;Authentication&lt;/g0&gt; dialog to enter your username and password either when you first download the project or later on in the process.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T081144Z" creationid="Melo46" creationdate="20250315T081144Z">
+        <seg>Si le servitor fide sur authentication per nomine de usator/contrasigno, OmegaT te presentara un fenestra de dialogo de &lt;g0&gt;Authentication&lt;/g0&gt; pro inserer tu nomine de usator e contrasigno o, quando tu primo discarga le projecto o plus tarde in le processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50061,6 +50101,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the project from the command line with the &lt;p0&gt;--no-team&lt;/p0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T080843Z" creationid="Melo46" creationdate="20250315T080843Z">
+        <seg>Aperi le projecto del linea de commando con le &lt;p0&gt;--no-team&lt;/p0&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project in OmegaT.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T165431Z" creationid="Melo46" creationdate="20250308T165431Z">
@@ -55561,6 +55609,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reuse TMs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T085348Z" creationid="Melo46" creationdate="20250315T085348Z">
+        <seg>Reusar memorias de traduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reuse Translation Memories</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200727T132732Z" creationid="Melo46" creationdate="20200727T132732Z">
@@ -57559,6 +57615,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; pane for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T082034Z" creationid="Melo46" creationdate="20250315T082034Z">
+        <seg>Vider le pannello &lt;l0/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230301T074226Z" creationid="will" creationdate="20230301T074226Z">
@@ -57587,6 +57651,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T224010Z" creationid="Melo46" creationdate="20250305T224010Z">
         <seg>Vider le proprietates del projecto &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project property.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T082000Z" creationid="Melo46" creationdate="20250315T082000Z">
+        <seg>Vider le proprietate del projecto &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57707,6 +57779,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230228T085728Z" creationid="will" creationdate="20230228T085728Z">
         <seg>Reguarda le &lt;l2/&gt; preferentias pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T082407Z" creationid="Melo46" creationdate="20250315T082407Z">
+        <seg>Vider le proprietate de projecto &lt;l2/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73018,6 +73098,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This memory is gradually filled as your translation progresses.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T081519Z" creationid="Melo46" creationdate="20250315T081519Z">
+        <seg>Iste memoria es gradualmente plenate dum tu traduction progrede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu displays entries only when a project is open.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T094718Z" creationid="Melo46" creationdate="20200730T094718Z">
@@ -78744,8 +78832,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use translation memories</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250304T223515Z" creationid="Melo46" creationdate="20250304T223515Z">
-        <seg>Usar memorias de traduction</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T080904Z" creationid="Melo46" creationdate="20250304T223515Z">
+        <seg>Usar le memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -80255,6 +80343,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a project is initially created, it comes with its own empty project translation memory, the &lt;l0/&gt; file, located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T081501Z" creationid="Melo46" creationdate="20250315T081501Z">
+        <seg>Quando un projecto es initialmente create, illo forni su proprie memoria de traduction vacue del projecto, le file &lt;l0/&gt;, ubicate in le plica &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T130943Z">
@@ -80869,6 +80965,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T180217Z" creationid="Melo46" creationdate="20250305T180217Z">
         <seg>Quando tu usa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use &lt;l0/&gt;&lt;l1/&gt; to create the target documents for a project, OmegaT also outputs three translation memories that reflect the current state of the translation for the files in the source folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T082342Z" creationid="Melo46" creationdate="20250315T082342Z">
+        <seg>Quando tu usa &lt;l0/&gt;&lt;l1/&gt; pro crear le documentos de destination pro un projecto, OmegaT alsi produce tres memorias de traduction que reflecte le stato actual del traduction pro le files in le plica fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82398,6 +82502,14 @@ the Spotlight search field.</seg>
       <tuv lang="ia" changeid="Melo46" changedate="20200731T120742Z" creationid="Melo46" creationdate="20200731T120742Z">
         <seg>Tu pote anque lancear lo in le 
 campo de recerca de Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also make use of reference translation memories by putting them in the &lt;l0/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T082204Z" creationid="Melo46" creationdate="20250315T082204Z">
+        <seg>Tu alsi pote facer uso de memorias de traduction de referentia ponente los in le &lt;l0/&gt; plica de tu projecto.</seg>
       </tuv>
     </tu>
     <tu>
