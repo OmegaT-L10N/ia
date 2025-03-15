@@ -17118,6 +17118,14 @@ Compra te un altere bibita.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bridge two languages</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T131211Z" creationid="Melo46" creationdate="20250315T131124Z">
+        <seg>Crear ponte inter duo linguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130605T080123Z">
@@ -17680,6 +17688,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130817T082957Z">
         <seg>Per arrangiamento base, le codification del file rendite es identic al codification del  file fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, those matches are limited to the source and target languages defined in the &lt;l1/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T131508Z" creationid="Melo46" creationdate="20250315T131508Z">
+        <seg>De ordinario, ille concordantias es limitate al linguas fonte e de destination definite in le fenestra de dialogo &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47876,6 +47892,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT displays fuzzy matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T131346Z" creationid="Melo46" creationdate="20250315T131346Z">
+        <seg>OmegaT monstra concordantias partial in le pannello &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T225419Z" creationid="Melo46" creationdate="20250219T225419Z">
@@ -58025,8 +58049,8 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
-      <tuv lang="ia" changeid="will" changedate="20230301T074226Z" creationid="will" creationdate="20230301T074226Z">
-        <seg>Vide le &lt;l0/&gt;preferentias pro detalios.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T135422Z" creationid="will" creationdate="20230301T074226Z">
+        <seg>Vide le preferentias &lt;l0/&gt; pro detalios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62348,6 +62372,22 @@ address new problems or concerns.</seg>
         <seg>Such new versions will
 be similar in spirit to the present version, but may differ in detail to
 address new problems or concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such systems are free to use, install and manage and are widely used in the computer development world, making them extremely robust.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T130937Z" creationid="Melo46" creationdate="20250315T130937Z">
+        <seg>Tal systemas es libere de usar, installar e gerer e es largemente usate in le mundo del disveloppamento de computatores, rendente los extrememente robuste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such systems will not always be able to provide you with the most recent version of your data, may even lock some files for no obvious reasons and can even corrupt team project related files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T130951Z" creationid="Melo46" creationdate="20250315T130951Z">
+        <seg>Tal systemas voler non sempre poter fornir te le plus recente version de tu datos, pote mesmo blocar alcun files pro no obvie rationes e poter mesmo corrumper projecto de equipa correlate files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83082,6 +83122,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250304T231759Z" creationid="Melo46" creationdate="20250304T231759Z">
         <seg>Tu pote adder plicas o remover files con tu gestor de files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T131532Z" creationid="Melo46" creationdate="20250315T131137Z">
+        <seg>Tu poter adder concordantias in linguas que non es le lingua de destination.</seg>
       </tuv>
     </tu>
     <tu>
