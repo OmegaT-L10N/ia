@@ -15254,6 +15254,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any writable folder can be used instead of the project &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T085642Z" creationid="Melo46" creationdate="20250315T085642Z">
+        <seg>Qualcunque plica modificabile plica pote esser usate in vice que le plica de projecto &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140107T135003Z">
@@ -20951,6 +20959,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy only the documents whose content you want to include into the &lt;f0&gt;source&lt;/f0&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T090157Z" creationid="Melo46" creationdate="20250315T090102Z">
+        <seg>Copia solo le documentos cuje contento tu vole includer in le plica &lt;f0&gt;source&lt;/f0&gt; de tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T125040Z" creationid="Melo46" creationdate="20200730T125040Z">
@@ -21803,6 +21819,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T085631Z">
         <seg>Crea le documentos rendite in le plica /target del projecto e crea le files memoria de traduction (files tmx level1, level2 e omegat) in le plica radice del projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a TM specific to selected documents</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T085917Z" creationid="Melo46" creationdate="20250315T085917Z">
+        <seg>Crear un memoria de traduction specific pro le documentos seligite</seg>
       </tuv>
     </tu>
     <tu>
@@ -36950,6 +36974,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In situations where you need to share a TMX that contain only the text from certain specific files and excludes other content, follow the procedure below:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T090056Z" creationid="Melo46" creationdate="20250315T090056Z">
+        <seg>In situationes ubi tu debe compartir un TMX que contine solo le texto de certe files specific e exclude altere contento, seque le procedura infra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082239Z">
@@ -42861,6 +42893,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T155735Z" creationid="Melo46" creationdate="20250313T155659Z">
         <seg>Gerer un projecto de equipa require alcun cognoscentia de Systema de Controlo de Version &lt;e0&gt;SVN&lt;/e0&gt; o &lt;e1&gt;Git&lt;/e1&gt; (&lt;e2&gt;VCS&lt;/e2&gt; in le resto de iste section).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Managing your TMs</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T085400Z" creationid="Melo46" creationdate="20250315T085400Z">
+        <seg>Gerer tu memorias de traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -57751,6 +57791,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section of the project property dialog.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T085830Z" creationid="Melo46" creationdate="20250315T085830Z">
+        <seg>Vider le section &lt;l1/&gt; del fenestra de dialogo Proprietates de projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; section.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T023048Z" creationid="Melo46" creationdate="20250225T023048Z">
@@ -64869,6 +64917,14 @@ Per favor proba a corriger le error e recarga le projecto.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T112513Z" creationid="Melo46" creationdate="20250308T112513Z">
         <seg>Le files TMX contine solo le segmentos del files actualmente immagazinate in le plica &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX files located in the exported translation memory folder now contain only the original and translated text from the files you copied into the source folder, in the selected language pair.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T091836Z" creationid="Melo46" creationdate="20250315T091836Z">
+        <seg>Le files TMX ubicate in le plica del memoria de traduction exportate ora contine solo le texto original e traducite del files que tu copiava in le plica fonte, in le copula de linguas seligite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78166,6 +78222,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to check for possible issues.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T090629Z" creationid="Melo46" creationdate="20250315T090629Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro controlar possibile problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to create the TMX files that correspond to the current contents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T090725Z" creationid="Melo46" creationdate="20250315T090725Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro crear le files TMX que corresponde al contentos actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060419Z" creationid="will" creationdate="20230315T060419Z">
@@ -78178,6 +78250,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20230315T060227Z" creationid="will" creationdate="20230315T060227Z">
         <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro entrar nove terminos in iste glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to find any untranslated segments (and translate them, if need be).</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T090503Z" creationid="Melo46" creationdate="20250315T090503Z">
+        <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro trovar le segmentos non traducite (e traduce los, si necessari).</seg>
       </tuv>
     </tu>
     <tu>
