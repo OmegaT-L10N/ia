@@ -13456,8 +13456,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>After reloading the old project, its translation memory will be applied to the new source files.</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250315T135727Z" creationid="Melo46" creationdate="20250315T135727Z">
-        <seg>Post recargar le vetere projecto, su memoria de traduction sera applicava al nove files fonte.</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T141452Z" creationid="Melo46" creationdate="20250315T135727Z">
+        <seg>Post le recargamento del projecto vetere, su memoria de traduction sera applicate al nove files fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23208,6 +23208,14 @@ Nove version: {2}</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170914T163718Z" creationid="MELO46" creationdate="20140108T213818Z">
         <seg>Son jam disponibile regulas de segmentation confidibile pro plurime linguas, assi il es verisimile que tu non necessitara de ser implicate con le script de tu proprie regulas de segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on how reliable the memory is, you can prefer to put it in one of the following subfolders:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T141338Z" creationid="Melo46" creationdate="20250315T141338Z">
+        <seg>Secundo le quanto fidabile le memoria es, tu poter prefere lo pone in un del sequente subplicas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60100,6 +60108,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171201T161418Z">
         <seg>Como in le caso del projectos de OmegaT, tu besoniara de repositorios separate pro pares de linguas differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similar segments will be provided with matches from the project translated memory as you enter them.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T142124Z" creationid="Melo46" creationdate="20250315T142124Z">
+        <seg>Le segmentos simile sera fornite de concordantias ab le memoria traducite del projecto dum tu los insere.</seg>
       </tuv>
     </tu>
     <tu>
