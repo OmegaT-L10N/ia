@@ -66214,6 +66214,14 @@ plica currente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first time the project is downloaded, OmegaT retrieves the &lt;f0&gt;omegat.project&lt;/f0&gt; file from the server.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T012020Z" creationid="Melo46" creationdate="20250315T012020Z">
+        <seg>Le prime vice que le projecto es discargate, OmegaT recupera le file &lt;f0&gt;omegat.project&lt;/f0&gt; ab le servitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The flip side of the preceding example.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250225T154251Z" creationid="Melo46" creationdate="20250225T154251Z">
