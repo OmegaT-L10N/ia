@@ -20812,6 +20812,14 @@ passos additional debe esser prendite.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversely, you can ask your partner to write the project TMX files to a folder on a shared disk that you will assign as your &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T130321Z" creationid="Melo46" creationdate="20250315T130321Z">
+        <seg>Reciprocamente, tu pote demandar a tu partner de scriber le files TMX de projecto a un plica sur un disco compartite que tu assignara como tu plica &lt;l0/&gt; pro le traduction actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversion</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T201712Z" creationid="Melo46" creationdate="20250313T201712Z">
@@ -36075,6 +36083,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you write the TMX file to a folder on a shared disk, you can ask your partner to assign that folder as the &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T125413Z" creationid="Melo46" creationdate="20250315T125413Z">
+        <seg>Si tu scribe le file TMX a un plica sur un disco compartite, tu pote demandar a tu partner de assignar ille plica como le plica &lt;l0/&gt; pro le traduction actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T190518Z" creationid="Karm46" creationdate="20171128T190518Z">
@@ -48984,6 +49000,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170913T172133Z" creationid="Karm46" creationdate="20170913T172133Z">
         <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses collaborative version control systems to share data.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T130811Z" creationid="Melo46" creationdate="20250315T130811Z">
+        <seg>OmegaT usa systemas de controlo de version collaborative pro compartir datos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72098,6 +72122,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T094947Z" creationid="Melo46" creationdate="20250315T094947Z">
         <seg>Iste approche alsi functiona justo si ben pro compartir glossarios ubi le glossario scribibile del projecto (con un nomine non-standard pro evitar de superscriber le file) es ubicate in un plica /glossary compartite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This approach to sharing works well when the lag between TMX updates is not important: a translator sending data to a reviewer a few times a day, for example.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T130631Z" creationid="Melo46" creationdate="20250315T130631Z">
+        <seg>Iste approche pro compartir functiona ben quando le tempore de retardo inter le actualisationes del TMX non es importante: un traductor invia datos a un recensor alcun vices per die, per exemplo.</seg>
       </tuv>
     </tu>
     <tu>
