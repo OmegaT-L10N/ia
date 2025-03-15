@@ -6242,6 +6242,14 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Basic project configuration:&lt;/e0&gt; Source and languages, tokenizers, and the project folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T012114Z" creationid="Melo46" creationdate="20250315T012114Z">
+        <seg>&lt;e0&gt;Configuration basic del projecto:&lt;/e0&gt; Fonte e linguas, tokenizers, e le plica de projecto hierarchia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20151119T062543Z" creationid="Melo46" creationdate="20151119T062543Z">
@@ -36255,6 +36263,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T212427Z">
         <seg>In un faction similabile como precedentemente le usator pote crear Filtros de File projecto-specific, que essera immagazinate conjunctemente con le projecto e essera valide pro le the currente solmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server originally set by the project administrator.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T072923Z" creationid="Melo46" creationdate="20250315T072923Z">
+        <seg>In un projecto de equipa, le parametros de configuration basic del projecto local es sempre abrogate per le configuration sur le servitor originalmente definite per le administrator del projecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71930,6 +71946,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T082504Z" creationid="Melo46" creationdate="20250305T082504Z">
         <seg>Iste file contine le regulas de segmentation specific-del-projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file defines the following parameters:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T012023Z" creationid="Melo46" creationdate="20250315T012023Z">
+        <seg>Iste file defini le sequente parametros:</seg>
       </tuv>
     </tu>
     <tu>
