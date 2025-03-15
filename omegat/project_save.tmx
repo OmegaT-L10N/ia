@@ -14640,6 +14640,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T161042Z" creationid="Melo46" creationdate="20250315T161042Z">
+        <seg>Un projecto de traduction de OmegaT consiste de plure ressources immagazinate in plicas separate, de un file &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; que immagazina le position de tote le ressources e de un file memoria de traduction &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; que immagazina tote le traductiones facite laborante sur ille projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An allowlist of regular expressions defining the source files to process.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T151353Z" creationid="Melo46" creationdate="20250313T151353Z">
@@ -77380,6 +77388,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translators do not have to &lt;e0&gt;create&lt;/e0&gt; a translation memory or &lt;e1&gt;associate&lt;/e1&gt; one to a new project.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T161159Z" creationid="Melo46" creationdate="20250315T161159Z">
+        <seg>Le traductores non debe &lt;e0&gt;crear&lt;/e0&gt; un memoria de traduction o &lt;e1&gt;associar&lt;/e1&gt; un a un nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Troubleshoot issues</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T121851Z" creationid="Melo46" creationdate="20250308T121851Z">
@@ -84662,6 +84678,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171126T222258Z">
         <seg>Tu ha complete libertate re como traducer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have not used OmegaT yet, but you remember the times you were translating in your word processor and a computer glitch wiped out the book translation you had been working on for the last six months, or the report that was due in one hour.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T162841Z" creationid="Melo46" creationdate="20250315T162841Z">
+        <seg>Tu non ha usate OmegaT ancora, ma tu memora le tempores que tu traduceva in tu application de tractamento de parolas, e un error de computator cancellava le traduction del libro sur que tu habeva laborate pro le ultime sex menses, o le reporto que era debite in un hora.</seg>
       </tuv>
     </tu>
     <tu>
