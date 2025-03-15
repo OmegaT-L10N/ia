@@ -15754,6 +15754,14 @@ pote haber experientia de un comportamento inopinate, ma correcte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As reference translations, OmegaT also supports bilingual documents that are not TMX files.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115159Z" creationid="Melo46" creationdate="20250315T115159Z">
+        <seg>Como traductiones de referentia, OmegaT alsi supporta documentos bilingue que non es files TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T082505Z" creationid="Melo46" creationdate="20250302T082505Z">
@@ -32823,6 +32831,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130518T100923Z">
         <seg>Idealmente, un visor preliminar deberea facer duo cosas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Identical segments will be automatically translated.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T114938Z" creationid="Melo46" creationdate="20250315T114938Z">
+        <seg>Le segmentos identic sera automaticamente traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54168,6 +54184,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reading TMs from other tools</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115419Z" creationid="Melo46" creationdate="20250315T115419Z">
+        <seg>Leger memorias de traduction de altere applicationes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reading of TMX file complete</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130627T082457Z">
@@ -56421,6 +56445,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T222138Z" creationid="Melo46" creationdate="20250219T222138Z">
         <seg>Projecto sdl (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDLXLIFF files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115326Z" creationid="Melo46" creationdate="20250315T115326Z">
+        <seg>files SDLXLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -62788,6 +62820,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TXML files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115304Z" creationid="Melo46" creationdate="20250315T115304Z">
+        <seg>files TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TaaS</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20170929T165459Z" creationid="Karm46" creationdate="20170929T165459Z">
@@ -66698,6 +66738,14 @@ plica currente.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo" changedate="20210528T055034Z" creationid="Melo" creationdate="20210528T055034Z">
         <seg>Illo sera create, si inexistente, quando on adde le prime entrata de glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file formats that OmegaT supports are all the bilingual formats that OmegaT accepts as source files:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115233Z" creationid="Melo46" creationdate="20250315T115233Z">
+        <seg>Le formatos de file que OmegaT supporta es tote le formatos bilingue que OmegaT accepta como files fonte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -82649,6 +82697,14 @@ Tu pagina non es trovava</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XLIFF files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115307Z" creationid="Melo46" creationdate="20250315T115307Z">
+        <seg>files XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF is the industry-standard bilingual file format.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171116T144534Z">
@@ -82982,6 +83038,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add such files to your project's &lt;l0/&gt; folder or one of its subfolders and the translated data will be immediately be available for matching purposes.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115533Z" creationid="Melo46" creationdate="20250315T115533Z">
+        <seg>Tu poter adder tal files a tu plica de projecto &lt;l0/&gt; o un de su sub-plicas e le datos traducite sera immediatemente esser disponibile a concordar propositos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add terms in the &lt;l0/&gt; pane by right-clicking on a word marked as incorrect and selecting &lt;g1&gt;Ignore All&lt;/g1&gt; (for words to skip during spellchecking), or &lt;g2&gt;Add to Dictionary&lt;/g2&gt; (for words to accept as correct), respectively, from the &lt;l3&gt;context menu&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T101308Z" creationid="Melo46" creationdate="20250305T101308Z">
@@ -83042,6 +83106,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T121251Z">
         <seg>Tu pote alsi adder files fonte a partir de paginas Internet, scripte in MediaWiki, cliccante sur le button&lt;g4&gt; "Importa ex MediaWiki"&lt;/g4&gt; e providente le URL correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T115356Z" creationid="Melo46" creationdate="20250315T115356Z">
+        <seg>Tu alsi pote demandar al usator gruppo pro consilio si tu ha problemas.</seg>
       </tuv>
     </tu>
     <tu>
