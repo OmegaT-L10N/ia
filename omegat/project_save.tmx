@@ -7178,6 +7178,30 @@ Le quantitate actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt;, or</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T095314Z" creationid="Melo46" creationdate="20250315T095314Z">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt;, o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;LL.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T095320Z" creationid="Melo46" creationdate="20250315T095320Z">
+        <seg>&lt;f0&gt;LL.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;LL_CC.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T095303Z" creationid="Melo46" creationdate="20250315T095303Z">
+        <seg>&lt;f0&gt;LL_CC.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20200730T083653Z" creationid="Melo46" creationdate="20200730T083653Z">
@@ -14032,6 +14056,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140107T134413Z">
         <seg>Omne le linguas ha accesso al modello a objectos OmegaT, con le projecto como objecto culmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the letters must be capital letters.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T100254Z" creationid="Melo46" creationdate="20250315T100254Z">
+        <seg>Tote le litteras debe esser litteras majuscule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21059,6 +21091,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130821T182839Z">
         <seg>Copia le memorias de traduction, continente le traductiones del documentos precedente, in le sub plica &lt;f0&gt;tm/auto&lt;/f0&gt; del nove projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the translation memory containing the additional reference language into &lt;f0&gt;tmx2source&lt;/f0&gt; in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T095229Z" creationid="Melo46" creationdate="20250315T095229Z">
+        <seg>Copiar le memoria de traduction que contine le lingua de referentia additional in &lt;f0&gt;tmx2source&lt;/f0&gt; in le plica &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49733,6 +49773,14 @@ tu plica principal.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only segments that match the source &lt;e0&gt;exactly&lt;/e0&gt; are displayed.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T100340Z" creationid="Melo46" creationdate="20250315T100340Z">
+        <seg>Solo le segmentos que &lt;e0&gt;exactemente&lt;/e0&gt; concorda con le fonte es monstrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the contents of the two following files are synchronized:</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250314T190612Z" creationid="Melo46" creationdate="20250314T190612Z">
@@ -54924,6 +54972,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T134716Z" creationid="Melo46" creationdate="20250308T134716Z">
         <seg>Renomina le actual file &lt;f0&gt;project_save.tmx&lt;/f0&gt; (a &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, per exemplo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the memory file to:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T095257Z" creationid="Melo46" creationdate="20250315T095257Z">
+        <seg>Renominar le file TMX a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -69641,6 +69697,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The technical approach</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T095024Z" creationid="Melo46" creationdate="20250315T095024Z">
+        <seg>Le approche technic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The template variables list gives you access to various project data and system variables.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T091912Z" creationid="Melo46" creationdate="20250308T091912Z">
@@ -74210,6 +74274,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220110T184056Z" creationid="will" creationdate="20220110T184056Z">
         <seg>Acceder iste fenestra, eliger &lt;m0&gt;&lt;g1&gt;Applicationes&lt;/g1&gt;&lt;g2&gt;Alinear Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To achieve this:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T095117Z" creationid="Melo46" creationdate="20250315T095117Z">
+        <seg>Pro complir isto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -79573,6 +79645,14 @@ cercabile sin subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a Japanese reference under the English source</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T100453Z" creationid="Melo46" creationdate="20250315T100453Z">
+        <seg>Usar un referentia japonese sub le fonte anglese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T230620Z" creationid="Melo46" creationdate="20250305T230620Z">
@@ -83693,6 +83773,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130607T072901Z">
         <seg>Tu pote usar un procedura simile pro crear  un button pro tu macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use any number of TMX files containing as many different bridge language pairs as you want.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T100846Z" creationid="Melo46" creationdate="20250315T100846Z">
+        <seg>Tu pote usar qualcunque numero de files TMX que contine quante plus differente copulas de linguas ponte tu vole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95561,6 +95649,14 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T075356Z" creationid="Melo46" creationdate="20250302T075356Z">
         <seg>ubi le &lt;c0&gt;modificator&lt;/c0&gt; pote esser: &lt;l1&gt;majusc&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, o &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;e0&gt;LL&lt;/e0&gt; is the internal language code of the langage that you want to display as reference, and &lt;e1&gt;CC&lt;/e1&gt; is an arbitrary 2-letter code.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T100246Z" creationid="Melo46" creationdate="20250315T100246Z">
+        <seg>ubi &lt;e0&gt;LL&lt;/e0&gt; es le codice de lingua interne del lingua que tu vole monstrar como referentia, e &lt;e1&gt;CC&lt;/e1&gt; es un codice arbitrari a 2-litteras.</seg>
       </tuv>
     </tu>
     <tu>
