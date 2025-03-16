@@ -23308,6 +23308,14 @@ Nove version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T124531Z" creationid="Melo46" creationdate="20250316T124531Z">
+        <seg>Secundo le formato original, OmegaT, comocunque, presentara iste phrase in un moda simile a isto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20131227T073510Z">
@@ -32511,6 +32519,14 @@ Su hiberno ha venite</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T162857Z" creationid="Melo46" creationdate="20250315T162857Z">
         <seg>Como pote OmegaT adjutar contra tal errores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How decorations are displayed in OmegaT</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T124646Z" creationid="Melo46" creationdate="20250316T124646Z">
+        <seg>Como es monstrate le decorationes in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -48603,6 +48619,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130606T052310Z">
         <seg>OmegaT es un application CAT pro le qual iste processo pote esser utilisate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an &lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;easy to use&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt; program for &lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;eager&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt; translators</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T124724Z" creationid="Melo46" creationdate="20250316T124724Z">
+        <seg>OmegaT es un &lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;facile a usar&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt; programma pro &lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;ardorose&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt; traductores</seg>
       </tuv>
     </tu>
     <tu>
@@ -71023,6 +71047,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140109T114643Z" creationid="MELO46" creationdate="20140109T114643Z">
         <seg>Le function valida tags releva cambios al sequentias del tag (an deliberate o accidental), e monstra le segmentos affligite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The various tag related settings can be very helpful to properly manage the tags in a documents.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T125109Z" creationid="Melo46" creationdate="20250316T125109Z">
+        <seg>Le varie configurationes correlate a tag es multo utile pro correctemente gerer le tags in documentos.</seg>
       </tuv>
     </tu>
     <tu>
