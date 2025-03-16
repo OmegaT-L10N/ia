@@ -13030,6 +13030,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add reminders in the &lt;l0/&gt; pane for problematic segments</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T071753Z" creationid="Melo46" creationdate="20250316T071753Z">
+        <seg>Adder mementos in le pannello &lt;l0/&gt; pro segmentos problematic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171128T205102Z" creationid="Karm46" creationdate="20171128T205102Z">
@@ -35798,6 +35806,14 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130822T070357Z">
         <seg>Si tu modifica le segmentation del projecto o dele files in le fonte, alcun concordantias pote apparer como &lt;e1&gt;lineas de characteres orphane&lt;/e1&gt; in le quadro del concordantia: tal concordantias refere a segmentos que non existe alicun plus in le documentos fonte, pois que illos corresponde a segmentos rendite e registrate ante que le modificationes habeva loco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need a specific review process you can, for example:</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T071638Z" creationid="Melo46" creationdate="20250316T071638Z">
+        <seg>Si te besonia un processo de revision specific tu pote, per exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64850,6 +64866,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; function lets you search the entire project for terms, sentence fragments, and so on, using exact, keyword, or regular expression searches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T072905Z" creationid="Melo46" creationdate="20250316T072905Z">
+        <seg>Le  function &lt;l0/&gt; te permitte de cercar per tote le projecto terminos, fragmentos de phrase, etc., usante recercas exacte, per parolas clave, o expressiones regular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T100310Z" creationid="Melo46" creationdate="20250302T100310Z">
@@ -79190,6 +79214,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T072117Z" creationid="Melo46" creationdate="20250316T072117Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; e le preferentias &lt;l2/&gt; pro gerer concordantias de glossarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T110801Z" creationid="Melo46" creationdate="20250315T110801Z">
@@ -79270,6 +79302,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add terms to your glossary.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T072033Z" creationid="Melo46" creationdate="20250316T072033Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro adder terminos a tu glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T112345Z" creationid="Melo46" creationdate="20250305T112345Z">
@@ -79326,6 +79366,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the Notepad and add your remark.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T071925Z" creationid="Melo46" creationdate="20250316T071925Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro inserer le Bloco notas e adder tu observation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to filter segments based on criteria that you set, and review only those.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T072020Z" creationid="Melo46" creationdate="20250316T072020Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro filtrar segmentos in base a criterios que tu ha definite, e revider solo illos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to find any untranslated segments (and translate them, if need be).</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T090503Z" creationid="Melo46" creationdate="20250315T090503Z">
@@ -79362,6 +79418,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T165559Z" creationid="Melo46" creationdate="20250308T165559Z">
         <seg>Usa &lt;l0/&gt;&lt;l1/&gt; pro recrear le documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to return to the Editor and resume your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T071940Z" creationid="Melo46" creationdate="20250316T071940Z">
+        <seg>Usar &lt;l0/&gt;&lt;l1/&gt; pro retornar al Editor e recomenciar tu traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79778,6 +79842,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T230150Z" creationid="Melo46" creationdate="20250309T230150Z">
         <seg>Usa le button &lt;g1&gt;OK&lt;/g1&gt; pro clauder le fenestra de dialogo quando finite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; menu to manage translation memory matches and perform other various useful functions.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T072559Z" creationid="Melo46" creationdate="20250316T072559Z">
+        <seg>Usa le menu &lt;l0/&gt; pro gerer le concordantias del memoria de traduction e exequer altere varie functiones utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82069,6 +82141,22 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20210220T080015Z" creationid="Melo46" creationdate="20210220T080015Z">
         <seg>Quando tu discarga le projecto, le projecto es convertite a un projecto de equipa localmente e un mappa predefinite es addite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T072236Z" creationid="Melo46" creationdate="20250316T072236Z">
+        <seg>Quando tu insere un segmento que contine terminos que concorda con le entratas in tu glossarios, ille terminos e lor traductiones es monstrate in le pannello &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment that matches part of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T072439Z" creationid="Melo46" creationdate="20250316T072439Z">
+        <seg>Quando tu insere un segmento que concorda con parte del contento del memoria de traduction del projecto, OmegaT monstra le concordantias in le pannello &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
