@@ -13622,6 +13622,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt;&lt;l1/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234619Z" creationid="Melo46" creationdate="20250315T234619Z">
+        <seg>Post que tu haber scribite le traduction de un segmento, usa &lt;l0/&gt;&lt;l1/&gt; pro mover al proxime segmento non traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T214724Z">
@@ -21903,6 +21911,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create the translated files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234459Z" creationid="Melo46" creationdate="20250315T234459Z">
+        <seg>Crear le files traducite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own TMs</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T082227Z" creationid="Melo46" creationdate="20250315T082227Z">
@@ -25836,6 +25852,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either a segment is translated, or it is not.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T071601Z" creationid="Melo46" creationdate="20250316T071601Z">
+        <seg>Un segmento es traducite, o illo non es.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either can be used as the source or target.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130819T042357Z">
@@ -28040,6 +28064,14 @@ Alcun attributos ha valores non valide.</seg>
       </tuv>
       <tuv lang="ia" changeid="Karm46" changedate="20171115T120641Z">
         <seg>Systema de revision del requestas de nove functionalitates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feel free to modify the &lt;l0/&gt; layout and &lt;l1/&gt; options when you review the translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234422Z" creationid="Melo46" creationdate="20250315T234422Z">
+        <seg>Senti te libere de modificar le mappa &lt;l0/&gt; e &lt;l1/&gt; optiones quando tu revider le traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31331,6 +31363,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T103344Z" creationid="Melo46" creationdate="20250305T103344Z">
         <seg>Ir in alto in le tabula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go back to OmegaT and use &lt;l0/&gt;&lt;l1/&gt; to have OmegaT recognize the change.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T233917Z" creationid="Melo46" creationdate="20250315T233917Z">
+        <seg>Retornar a OmegaT e usar &lt;l0/&gt;&lt;l1/&gt; proque OmegaT recognosce le cambiamentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48052,6 +48092,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not assign different statuses to translated segments.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234729Z" creationid="Melo46" creationdate="20250315T234729Z">
+        <seg>OmegaT non assignar differente statos a traducite segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250219T225419Z" creationid="Melo46" creationdate="20250219T225419Z">
@@ -55681,6 +55729,14 @@ Iste parolas: 'Pagina non trovate'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace it with a non-breakable space.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T233644Z" creationid="Melo46" creationdate="20250315T233644Z">
+        <seg>Replacia lo con un spatio non-frangibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace it with the actual location of the file on your system.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250313T125806Z" creationid="Melo46" creationdate="20250313T125806Z">
@@ -56269,6 +56325,14 @@ Iste parolas: 'Pagina non trovate'</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250309T222730Z" creationid="Melo46" creationdate="20250309T222730Z">
         <seg>Revide le resultatos e face alcun adjustamentos manual necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review your translation</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234333Z" creationid="Melo46" creationdate="20250315T234333Z">
+        <seg>Revider tu traduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -58211,6 +58275,14 @@ Le campo de un recerca es ordinarimente le projecto e pote ser configurate a ser
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250305T083553Z" creationid="will" creationdate="20230228T161612Z">
         <seg>Vide le guida &lt;l0/&gt; pro detalios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234722Z" creationid="Melo46" creationdate="20250315T234722Z">
+        <seg>Vider le &lt;l0/&gt; menu pro plus navigation optiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64790,6 +64862,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250302T104731Z" creationid="Melo46" creationdate="20250302T104731Z">
         <seg>Le pannello &lt;l0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane is where you type your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234326Z" creationid="Melo46" creationdate="20250315T234326Z">
+        <seg>Le pannello &lt;l0/&gt; es ubi tu typa tu traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76215,6 +76295,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To see how efficient you can be with shortcuts, see the &lt;l0/&gt; section.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234610Z" creationid="Melo46" creationdate="20250315T234610Z">
+        <seg>Pro vider como efficiente tu pote esser con vias breve, vider le &lt;l0/&gt; section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130706T143731Z">
@@ -76990,6 +77078,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250308T085458Z" creationid="Melo46" creationdate="20250221T233141Z">
         <seg>Traducer iste plural como forma de plural #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate your files</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234121Z" creationid="Melo46" creationdate="20250315T234121Z">
+        <seg>Traducer tu files</seg>
       </tuv>
     </tu>
     <tu>
@@ -79686,6 +79782,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; option to perform various checks on the contents of your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234456Z" creationid="Melo46" creationdate="20250315T234456Z">
+        <seg>Usar le &lt;l0/&gt; option exequer varie controla sur le contentos de tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250301T222847Z" creationid="Melo46" creationdate="20250301T222847Z">
@@ -79802,6 +79906,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130629T205331Z">
         <seg>Usa le parte superior como un referentia e reimplacia o modifica le contentos del campo de modifica con tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various options in the &lt;l0/&gt; menu and move the various &lt;l1&gt;panes&lt;/l1&gt; around to obtain the layout that fits your workflow best.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234224Z" creationid="Melo46" creationdate="20250315T234224Z">
+        <seg>Usa le varie optiones in le menu &lt;l0/&gt; e move le varie &lt;l1&gt;pannellos&lt;/l1&gt; circum pro obtener le mappa que vade ben a tu fluxo de labor optime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81985,6 +82097,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you leave the segment, its translation is automatically stored into the &lt;l0/&gt; file and will be used as reference for the rest of your translation.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234713Z" creationid="Melo46" creationdate="20250315T234713Z">
+        <seg>Quando tu exi del segmento, su traduction es automaticamente immagazinate in le file &lt;l0/&gt; e sera usate como referentia pro le resto de tu traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130625T192912Z">
@@ -82125,6 +82245,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ia" changeid="will" changedate="20220109T103003Z" creationid="will" creationdate="20220109T103003Z">
         <seg>Quando tu vole vider lo que essera le aspecto de tu traductiones, in su formato final, que tu pulsa &lt;k7&gt;&lt;k8&gt;Ctrl+&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; pro generar le documentos rendite, que essera create in le sub-plica  &lt;f10&gt;/target/&lt;/f10&gt; de tu projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T234545Z" creationid="Melo46" creationdate="20250315T234545Z">
+        <seg>Quandocunque tu vole vider cosa tu traduction apparera como in su formato final, usar &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84176,8 +84304,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can follow the steps below to merge two text sections separated by a space character:</seg>
       </tuv>
-      <tuv lang="ia" changeid="Melo46" changedate="20250315T232633Z" creationid="Melo46" creationdate="20250315T232633Z">
-        <seg>Tu pote seque le grados infra a miscer duo texto sectiones separate per un spatio character:</seg>
+      <tuv lang="ia" changeid="Melo46" changedate="20250315T233515Z" creationid="Melo46" creationdate="20250315T233515Z">
+        <seg>Tu pote sequer le passos infra pro miscer duo sectiones de texto separate per un character spatio:</seg>
       </tuv>
     </tu>
     <tu>
