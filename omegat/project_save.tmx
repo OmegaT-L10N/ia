@@ -34296,6 +34296,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert those elements into tags that enclose the decorated text.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T112655Z" creationid="Melo46" creationdate="20250316T112655Z">
+        <seg>Si le documentos que tu traduce usa texto hardite, italic, o altere elementos decorative, OmegaT convertera ille elementos in tags que include le texto decorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO46" changedate="20140228T205711Z">
@@ -43341,6 +43349,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="ia" changeid="Melo46" changedate="20250315T112141Z" creationid="Melo46" creationdate="20250315T112141Z">
         <seg>Gere tu segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage your tags</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T111712Z" creationid="Melo46" creationdate="20250316T111712Z">
+        <seg>Gerer vostre tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -62624,6 +62640,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="ia" changeid="MELO" changedate="20130818T151925Z">
         <seg>Tal files non contine ulle information de formattation extra le "spatio blanc" usate pro alinear texto, indicar paragraphos o inserer interruptiones de pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such files include LibreOffice files, HTML files an Microsoft Office files for example.</seg>
+      </tuv>
+      <tuv lang="ia" changeid="Melo46" changedate="20250316T112855Z" creationid="Melo46" creationdate="20250316T112855Z">
+        <seg>Tal files include per exemplo los in formato: LibreOffice, HTML e Microsoft Officio files per exemplo.</seg>
       </tuv>
     </tu>
     <tu>
